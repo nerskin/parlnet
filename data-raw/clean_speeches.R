@@ -57,10 +57,11 @@ progressively <- function(.f, .n, ...) {
 
 progress_fn <- progressively(function(text){lemmatize_strings(text)},nrow(speeches))
 
-#speeches_lemmatised <- mutate(speeches,text_lemmatised = map_chr(text,progress_fn))
+speeches_lemmatised <- mutate(speeches,text_lemmatised = map_chr(text,progress_fn)) %>%
+	select(-text)
 
 
 ## Write data
 
 usethis::use_data(speeches,overwrite=TRUE)
-#usethis::use_data(speeches_lemmatised,overwrite=TRUE)
+usethis::use_data(speeches_lemmatised,overwrite=TRUE)
