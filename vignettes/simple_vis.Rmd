@@ -1,0 +1,52 @@
+---
+title: "Preliminary Visualisations of Parliamentary Networks"
+author: "Nicholas Erskine"
+date: 2018-11-22
+bibliography: bib.bib
+---
+
+As an illustration I reproduce figure 2 from [@andris15], in which the authors consider data from the US House of Representatives, using data from the Australian Senate. For each two-year congressional term, Andris et. al. count the number of times each pair of legislators is in agreement in a roll-call vote and define a threshold value as the number of agreements at which a randomly-chosen pair is equally likely to be a cross-party pair as a same-party pair. They then construct a graph for each parliament, with each representative being present as a node, and with each pair of representatives being joined by an edge if they agree more often than the threshold value for that congress. 
+
+
+```{r}
+library(parlnet)
+library(ggraph)
+library(igraph)
+library(lubridate)
+library(Matrix)
+
+adj_m <- adjacency_matrix_from_divisions(divisions,chamber_id = 'Senate',start_date = ymd('2018-01-01'))
+```
+
+```{r}
+library(parlnet)
+library(ggraph)
+library(igraph)
+library(lubridate)
+library(Matrix)
+party_membership <- function(speeches,start_date = '1901-01-01',end_date='2100-01-01'){
+  start_date <- '1901-01-01'
+  end_date <- '2100-01-01'
+	start_date <- ymd(start_date)
+	end_date <- ymd(end_date)
+	speeches %>%
+		filter(date >= start_date) %>%
+		filter(date <= end_date) %>%
+		count(name,party) %>%
+		group_by(name) %>%
+		summarise(party = party[which.max(n)])
+}
+party_membership(speeches)
+```
+
+```{r}
+adj_m <- adj_m > 100
+adj_m <- adj_m[colSums(adj_m) > 0,colSums(adj_m) > 0]
+adj_m %>% 
+	graph_from_adjacency_matrix(mode='undirected') %>%
+	ggraph() +
+	geom_edge_link(alpha=0.25) + 
+	geom_node_point(alpha=0.25) + 
+	theme_graph() + 
+	geom_node_text(aes(label=name))
+```

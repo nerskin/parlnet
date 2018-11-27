@@ -1,0 +1,49 @@
+---
+title: "Some Notes on Preprocessing Text"
+author: "Nicholas Erskine"
+date: "2018-11-21"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteIndexEntry{Some Notes on Preprocessing the Text}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r}
+library(parlnet)
+```
+
+# Lemmatisation
+
+Package ```textstem``` contains functions for lemmatising words. Since these functions are extremely slow, I have added a `lemmatised_text` column to the `parlnet::speeches` dataframe.
+
+# Removing Stop Words
+
+The package ```tidytext``` contains a data frame ```stop_words``` which includes a fairly long list of words that are common in all English text and which we usually want to discard when analysing text data.
+
+```{r}
+library(tidytext)
+stop_words
+```
+
+In addition to this, there are a number of words which are stop words in the context of Australian parliamentary speech but not in general. I have built a parliamentary stop-words list by examining the most frequently used words in speeches in parliament (after the words in the tidytext stop words list have been removed).
+
+```{r,cache=TRUE}
+library(dplyr)
+speeches %>%
+	filter(date >= lubridate::ymd('2016-01-01')) %>%
+	unnest_tokens(word,text) %>%
+	anti_join(stop_words) %>% 
+	count(word) %>%
+	arrange(desc(n))
+```
+
+I have added a dataframe called `parliamentary_stop_words` to the package, which contains high-frequency 'neutral' words.
+
+The complete list is 
+
+```{r,eval=FALSE}
+parliamentary_stop_words
+```
+
+#todo

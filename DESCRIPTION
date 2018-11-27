@@ -1,0 +1,8 @@
+Package: parlnet
+Version: 0.0.1
+Imports: dplyr, purrr, tidytext, Matrix
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+LazyData: true
+Encoding: UTF-8
+RoxygenNote: 6.1.1
