@@ -30,6 +30,7 @@ speeches_post_change <- speeches_post_change %>%
 
 speeches <- bind_rows(speeches_pre_change,speeches_post_change)
 
+
 ## tidy up names
 
 speeches <- speeches %>%
@@ -41,6 +42,12 @@ speeches <- speeches %>%
         mutate(name = str_remove(name,' Sen')) %>% #redundant information because the chamber is given elsewhere
 	mutate(name = str_remove(name,' MP')) %>%
 	mutate(name_abbreviated = str_split(name,' ')) #is the correct? - what about e.g. Albertus Johannes van Manen
+
+speeches <- speeches %>%
+  mutate(role = if_else(grepl('(President)|(Speaker)|(Chair)',name),name
+                        ,role)) %>%
+  mutate(name = if_else(grepl('(President)|(Speaker)|(Chair)',name,ignore.case=TRUE),NA_character_,name))
+
 
 
 ## Lemmatise
@@ -57,11 +64,12 @@ progressively <- function(.f, .n, ...) {
 
 progress_fn <- progressively(function(text){lemmatize_strings(text)},nrow(speeches))
 
-speeches_lemmatised <- mutate(speeches,text_lemmatised = map_chr(text,progress_fn)) %>%
-	select(-text)
+#speeches_lemmatised <- mutate(speeches,text_lemmatised = map_chr(text,progress_fn)) %>%
+	#select(-text)
 
 
 ## Write data
 
 usethis::use_data(speeches,overwrite=TRUE)
-usethis::use_data(speeches_lemmatised,overwrite=TRUE)
+#usethis::use_data(speeches_lemmatised,overwrite=TRUE)
+
