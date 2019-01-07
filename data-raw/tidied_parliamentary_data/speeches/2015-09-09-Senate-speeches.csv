@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2015-09-09,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (09:31):  Does any senator wish to have the question put on any of those motions? There being no request, we shall proceed.
 
-",Senate,<title>COMMITTEES</title>,"<title>Parliamentary Joint Committee on Law Enforcement, National Broadband Network Select Committee</title>",COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,"<title>Parliamentary Joint Committee on Law Enforcement, National Broadband Network Select Committee</title>",COMMITTEES,1,1,speech
 "PRESIDENT, The",,2015-09-09,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (09:31):  Does any senator wish to have the question put on any of those motions? There being no request, we shall proceed.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "Fifield, Sen Mitch",LP,2015-09-09,"
 
 
@@ -91,7 +91,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Banking Laws Amendment (Unclaimed Money) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Banking Laws Amendment (Unclaimed Money) Bill 2015</title>,BILLS,2,1,speech
 "PRESIDENT, The",,2015-09-09,"
 
 
@@ -99,7 +99,7 @@ Bill read a second time.
 The PRESIDENT
  (09:45):  As no amendments to the bill have been circulated, I shall call the minister to move the third reading unless any senator requires that the bill be considered in Committee of the Whole.
 
-",Senate,<title>BILLS</title>,<title>Banking Laws Amendment (Unclaimed Money) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Banking Laws Amendment (Unclaimed Money) Bill 2015</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2015-09-09,"
 
 
@@ -116,7 +116,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Banking Laws Amendment (Unclaimed Money) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Banking Laws Amendment (Unclaimed Money) Bill 2015</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2015-09-09,"
 
 
@@ -193,7 +193,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "McGrath, Sen James",LP,2015-09-09,"
 
 
@@ -240,7 +240,7 @@ I would like to place on the record my appreciation to Graeme Mickelberg, from t
 
 I remain committed to working with ex-service organisations, who represent hundreds of thousands of Australians, to secure formal recognition of the unique nature of military service. Please sign the petition at defencecovenant.com and send the link on to your friends and families.
 
-",Senate,<title>STATEMENTS BY SENATORS</title>,<title>Australian Defence Force</title>,STATEMENTS BY SENATORS,3,1
+",Senate,<title>STATEMENTS BY SENATORS</title>,<title>Australian Defence Force</title>,STATEMENTS BY SENATORS,3,1,speech
 "Abetz, Sen Eric",LP,2015-09-09,"
 
 
@@ -257,7 +257,7 @@ I think I speak for my generation when I say that the example and continuity pro
 
 Today we pay tribute to the Queen of Australia and we respectfully thank Her Majesty for her wonderful service. God save the Queen, the longest to reign over us.
 
-",Senate,<title>STATEMENTS</title>,<title>Queen Elizabeth II</title>,STATEMENTS,4,1
+",Senate,<title>STATEMENTS</title>,<title>Queen Elizabeth II</title>,STATEMENTS,4,1,speech
 "Wong, Sen Penny",ALP,2015-09-09,"
 
 
@@ -265,7 +265,7 @@ Today we pay tribute to the Queen of Australia and we respectfully thank Her Maj
 Senator WONG
  (South Australia—Leader of the Opposition in the Senate) (14:04):  by leave—I join Senator Abetz in acknowledging the long and meritorious service of the Queen. It is the first and almost certainly the last time the Australian Senate will mark such a milestone in relation to the monarch. Her Majesty Queen Elizabeth II is, of course, the Queen of Australia. In fact, that has only been her title since 1973, and that is obviously not the only thing that has changed during her reign. So too has Australia's relationship to the United Kingdom and the monarchy. What has not changed is the affection of the Australian people for the Queen. On behalf of the opposition I extend our appreciation for her service.
 
-",Senate,<title>STATEMENTS</title>,<title>Queen Elizabeth II</title>,STATEMENTS,4,1
+",Senate,<title>STATEMENTS</title>,<title>Queen Elizabeth II</title>,STATEMENTS,4,1,speech
 "PRESIDENT, The",,2015-09-09,"
 
 
@@ -273,7 +273,234 @@ Senator WONG
 The PRESIDENT
  (14:04):  Before we proceed to questions without notice I want to draw senators' attention to the behaviour so far this week that has been brought to my attention by members of the public and by others within this building. The behaviour, in particular, yesterday during question time was not acceptable. I particularly want to draw senators' attention to standing order 203(1)(e), which says that a Senator will be in infringement of the standing orders if they 'persistently and wilfully disregards the authority of the chair'. I am placing all senators, from all sides, on notice that standing order 203 exists. It is reluctantly used by the chair, but if behaviour continues as it was yesterday it will be a considered option.
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Parliamentary Behaviour</title>,STATEMENT BY THE PRESIDENT,5,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Parliamentary Behaviour</title>,STATEMENT BY THE PRESIDENT,5,1,speech
+"Moore, Sen Claire",ALP,2015-09-09,"
+
+
+
+Senator MOORE
+ (Queensland) (14:06):  My question is to the Assistant Minister for Social Services, Senator Fifield. I refer to advertisements that confirm that the government wants to replace NDIS board members who have experience with disability and the disability sector with board members who only have corporate and board experience. Why is the minister trying to reduce representation of board members who have such important experience with disability and the disability sector?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Disability Insurance Scheme</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Moore, Sen Claire",ALP,2015-09-09,"
+
+
+
+Senator MOORE
+ (Queensland) (14:08):  Mr President, I ask a supplementary question. Can the minister confirm that he commissioned liquidators KordaMentha to review NDIS board requirements? Why did you direct KordaMentha to 'not engage with any of the current board members or staff of the NDIA'?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Disability Insurance Scheme</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Moore, Sen Claire",ALP,2015-09-09,"
+
+
+
+Senator MOORE
+ (Queensland) (14:10):  Mr President, I ask a further supplementary question. Will the minister guarantee that the uncertainty created by his attack on the NDIS board will not cause a delay to the full rollout of the scheme by 2019? Does the minister guarantee that this rollout of the scheme will be done by 2019.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Disability Insurance Scheme</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Fifield, Sen Mitch",LP,2015-09-09,"
+
+
+
+Senator FIFIELD
+ (Victoria—Manager of Government Business in the Senate and Assistant Minister for Social Services) (14:06):  A few facts are important to put before the chamber. The first is that the previous government did not follow best corporate governance practice when they appointed all of the directors of the NDIS board to have their terms expire on the same day, on 30 June 2016. That is not best corporate governance practice. 
+
+
+If I did nothing, we would not have a board for the NDIS from the middle of next year. Clearly, therefore, there is a process required to look at the issue of appointment and re-appointment of directors of the NDIS board. I can advise the chamber that on 17 April this year COAG first ministers agreed that the NDIS should have the best board possible and that there should be a process to look at the appointment or re-appointment of board members. I can confirm that on 24 April the Disability Reform Council, which I chair, discussed this and that on 7 July this year I wrote to my ministerial counterparts seeking their agreement to a proposed approach for the appointment of board positions and that by 29 July all jurisdictions had replied, saying that they agreed with the selection process.
+
+
+What I want to see and what all jurisdictions want to see from the middle of next year is that we have a board which has continuity and that there are some existing board members who are re-appointed—continuity is important at this stage of the scheme's rollout, but we are also open to having new board members. The most important thing is to make sure that this board has the best skill set possible in combination to ensure that the NDIS is the very best that it can be. So there is absolutely nothing unusual or odd about seeking to ensure that we have the best board possible.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Disability Insurance Scheme</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Fifield, Sen Mitch",LP,2015-09-09,"
+
+
+
+Senator FIFIELD
+ (Victoria—Manager of Government Business in the Senate and Assistant Minister for Social Services) (14:09):  For the very good reason that KordaMentha were not engaged to review the performance of the existing board members. The purpose of KordaMentha was to provide advice to government as to what are relevant considerations for looking at a venture of this scale when considering the appointment or re-appointment of board members. This is a vast exercise. This is a scheme, at full rollout, which will be $22 billion a year that will be supporting 460,000 Australians. This is a very complex exercise. We wanted to make sure that we had in the next iteration of the board people who had the right skill set in combination for the transition phase which will rollout from 18,000 participants today to 460,000 participants over three years. I make no apology for the steps that we have taken.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Disability Insurance Scheme</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Fifield, Sen Mitch",LP,2015-09-09,"
+
+
+
+Senator FIFIELD
+ (Victoria—Manager of Government Business in the Senate and Assistant Minister for Social Services) (14:10):  On this side of the chamber we have a remorseless focus on making sure that the NDIS is the best that it can be and that it is rolled out as quickly as possible. Suggestions from the other side that we are spilling the board are completely wrong.
+
+
+
+
+Senator Wong:
+  You just confirmed it.
+
+
+
+
+Senator FIFIELD:
+  All board positions expire in the middle of next year and if we did nothing—if we had no process—there would not be a board in the middle of next year. It is self-evident that you need a process to look at who will be the board members from the middle of next year, which is exactly what we are doing. As to the other part of your question, Senator Moore, we are continuing negotiations with the jurisdictions on full rollout. They are going well and those negotiations are taking place in the context of heads of agreement, which, as you know, specify the target date for full rollout of the scheme.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Disability Insurance Scheme</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"O'Neill, Sen Deb",ALP,2015-09-09,"
+
+
+
+Senator O'NEILL
+ (New South Wales) (14:16):  My question is to the minister representing the Minister for Small Business, Senator Abetz. Does the Abbott government support the inclusion of an effects test in Australian competition law?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"O'Neill, Sen Deb",ALP,2015-09-09,"
+
+
+
+Senator O'NEILL
+ (New South Wales) (14:19):  Mr President, I ask a supplementary question. Do the comments by the small minister, I mean the small business minister—that was genuinely accidental.
+
+
+
+Honourable senators interjecting—
+
+
+
+The PRESIDENT:  Order on both sides. Just a moment, Senator O'Neill. Firstly, we will take that as a genuine error and, secondly, start again with your question.
+
+
+
+
+Senator O'NEILL:
+  Thank you, Mr President. Do the comments by the small business minister that section 46 of the competition law 'is a dud, does not work, and is like a hunting dog that won't leave the porch' reflect government policy? If not, what is the government's policy?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"O'Neill, Sen Deb",ALP,2015-09-09,"
+
+
+
+Senator O'NEILL
+ (New South Wales) (14:21):  I ask a further supplementary question. I refer to comments by Senator Matt Canavan, who said, 'To protect small businesses we need stronger competition laws, like an effects test.' Who speaks for the government on this—Senator Canavan or the small business minister or the Treasurer? Is Senator Canavan correct when he says there is 'strong support in the party room for an effects test'?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"Abetz, Sen Eric",LP,2015-09-09,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:16):  As the honourable senator would know, this is a matter that has been provided to us as a proposal from the Harper review. The government is going through the Harper review and its proposals and giving consideration to the many suggestions therein. We are consulting widely and we will be in a position in due course to announce what our final decision is.
+
+
+Having said that, I am reminded of Senator O'Neill's former leader, Mr Beazley, who quite some time ago acknowledged that the Labor Party never pretended to be a friend of small business. We on this side are and that is why we are looking—
+
+
+
+The PRESIDENT:  Pause the clock. Point of order, Senator O'Neill.
+
+
+
+
+Senator O'Neill:
+  The question was a very simple one, and the answer needs to go the effects test and the government's position with regard to an inclusion of an effects test in Australian competition law.
+
+
+
+The PRESIDENT:  The minister did address the question by saying it is under consideration.
+
+
+
+Senator Wong interjecting—
+
+
+
+The PRESIDENT:  I am not going to enter into a debate about this. Senator Wong, on the point of order.
+
+
+
+
+Senator Wong:
+  Just because the minister references it once it does not then make a subsequent discussion about a former Labor leader directly relevant to the question.
+
+
+
+Honourable senators interjecting—
+
+
+
+The PRESIDENT:  Order on both sides, on my right and on my left. As I have said on numerous occasions, as have many predecessors, once a minister has answered the question a minister can enhance their answer if they wish to enhance their answer.
+
+
+
+Senator Wong interjecting—
+
+
+
+The PRESIDENT:  It has always been the case. Senator Wong, I have ruled on the point of order. Order on my right.
+
+
+
+
+Senator Wong:
+  Mr President, perhaps subsequent to question time it could be clarified with the chamber whether the scope of your ruling is that a minister can say anything she or he likes on any topic if they address the question in the first sentence, because if that is the ruling I would like some clarification. Thank you.
+
+
+
+Government senators interjecting—
+
+
+
+The PRESIDENT:  Order on my right. Thank you, Senator Wong, I will take your comments into account and I will consider those comments. But, as a general principle, providing the minister does not stray too far from the original question, the enhancement has always been allowed. Minister, you have the call. You have one minute—
+
+
+
+
+Senator ABETZ:
+  I have finished my answer.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
+"Abetz, Sen Eric",LP,2015-09-09,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:20):  Mr President, I have already answered the honourable senator's question. We have been provided with a review by Professor Ian Harper. Part of that review canvasses—
+
+
+
+Senator Wong interjecting—
+
+
+
+
+Senator ABETZ:
+  Mr President, I think you warned all senators, including Senator Wong, about section 203 of our standing orders. I would invite you to enforce it, if the Labor Party want any answers at all.
+
+
+
+Honourable senators interjecting—
+
+
+
+The PRESIDENT:  Order! My apologies, Senator Abetz, the Clerk was addressing me at the time and I did not hear what happened.
+
+
+
+Opposition senators interjecting—
+
+
+
+The PRESIDENT:  Order on my left. In any event, I reiterate about standing orders that they must be complied with.
+
+
+
+
+Senator ABETZ:
+  Professor Ian Harper, who undertook a review for and on behalf of the government, has put forward certain suggestions to us, including about section 46. We are working through those in a methodical and purposeful manner and will determine our approach in due course. Having said that, I do not think anybody would doubt that Mr Billson is a true champion of small business.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
+"Abetz, Sen Eric",LP,2015-09-09,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:22):  Within the coalition, we actually allow debate. We actually allow people to have a view and, indeed, until such time as the government have determined a view, even cabinet ministers can express a view. As there is a debate within the community that is being expressed as to particular approaches to section 46, it is appropriate for my good friend Senator Canavan to also champion the cause of small business as he sees fit, as he believes is within the best interests of his constituents in Queensland. The fact that there might be a diversity of ideas might come as a shock to all those who come out of trade union school and are told exactly what to say, how to say it and when to say it. We actually allow freedom of thought, we socialise those views and as a result— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
 "Di Natale, Sen Richard",AG,2015-09-09,"
 
 
@@ -307,7 +534,7 @@ Senator DI NATALE:
 
 That is the refuge of a scoundrel. To suggest that what we are doing by questioning our involvement in a war in Syria is somehow reflecting a lack of commitment to the troops engaged in conflict in that region is pathetic. The best thing we can do to safeguard our troops is to ensure that before we embark on a conflict of that nature we have a full, frank and open debate in this parliament to ensure that what we are doing is going to a war that is legal, going to have a war that is not based on the self-interest of a Prime Minister who is desperate to save his political hide. We need to have a debate in the Australian parliament—
 
-",Senate,<title>MOTIONS</title>,<title>Syria</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Syria</title>,MOTIONS,10,1,speech
 "Macdonald, Sen Ian",LP,2015-09-09,"
 
 
@@ -340,7 +567,7 @@ At the announcement of our first involvement in Iraq, we said it would be a very
 
 And the use of military action is always a last resort. This is very dangerous action indeed, and the parliament should be debating it. (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Syria</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Syria</title>,MOTIONS,10,1,speech
 "Abetz, Sen Eric",LP,2015-09-09,"
 
 
@@ -386,7 +613,7 @@ Senator ABETZ:
 
 Sometimes, regrettably, evil has to be fought with force. That is why the Prime Minister's announcement today is such a good and balanced one. It has a military component, to try to defeat the evil which is one of the causes of the mass migration, whilst on the other hand also providing humanitarian assistance to the victims in the short term. (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Syria</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Syria</title>,MOTIONS,10,1,speech
 "Conroy, Sen Stephen",ALP,2015-09-09,"
 
 
@@ -397,7 +624,7 @@ Senator CONROY
 
 The government has made that commitment—the former minister made that commitment—and I urge the government to clear some time in the parliamentary schedule, by negotiation or from its own time, to enable all of the senators in this chamber to discuss and debate this issue. It would be a healthy thing for the parliament and a healthy thing for our country if there were an ability for people to express their views. There will be many differing points of view, but the chamber, the parliament and the country will be better for hearing those views. So I urge the government to consider making a statement, perhaps on Thursday, which would allow us to have some discussion and debate during the course of the afternoon. With deference to my colleagues in the Greens, I cannot indicate support for your proposition, but I encourage the government to look at setting aside some time for a genuine discussion in this chamber.
 
-",Senate,<title>MOTIONS</title>,<title>Syria</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Syria</title>,MOTIONS,10,1,speech
 "Fifield, Sen Mitch",LP,2015-09-09,"
 
 
@@ -414,7 +641,7 @@ That is not to say, however, that it is not appropriate to debate decisions of g
 
 I think Senator Abetz is quite right to describe ISIS as evil and to suggest that it is appropriate that we do what we can to help stop its evil. There are times, regrettably, when the deployment of force is required to be determined by the government of the day, but I must completely reject Senator Di Natale's suggestion that the decision of the Prime Minister and the government is in any way, shape or form framed by political considerations. The decision of the government is framed entirely by considerations both of our own national interest and also of the broader international interest. It is not in the interest of Australia, and it is certainly not in the interest of Syria or Iraq or the neighbouring nations, that ISIS be allowed to flourish. ISIS should be contained. ISIS should be destroyed. The government has taken the right decision that we should be a part of that effort, and the Greens have not made a case for the suspension of standing orders.
 
-",Senate,<title>MOTIONS</title>,<title>Syria</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Syria</title>,MOTIONS,10,1,speech
 "Ludlam, Sen Scott",AG,2015-09-09,"
 
 
@@ -456,7 +683,7 @@ The ALP—and I have noted Senator Conroy's comments and those of the Leader of 
 
 The DEPUTY PRESIDENT:  The question is that the motion to suspend standing orders, moved by Senator Di Natale, be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Syria</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Syria</title>,MOTIONS,10,1,speech
 "O'Neill, Sen Deb",ALP,2015-09-09,"
 
 
@@ -510,7 +737,7 @@ The DEPUTY PRESIDENT:  Order! Senator Smith, you will get your opportunity.
 Senator O'NEILL:
   This disunity of ideas is exactly as Senator Joseph Ludwig aptly described. I want to put it on the record because it would not have been picked up. He said, 'This is a government that is all over the shop like a dropped pie.' That is exactly the visual image: the detritus all over the floor of a government that has no position on anything of substance, and it is on the watch of Abbott and Hockey—a disaster for businesses across this nation. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1,speech
 "Smith, Sen Dean",LP,2015-09-09,"
 
 
@@ -544,7 +771,7 @@ What did the Premier of South Australia, Mr Weatherill, have to say about the de
 
 The DEPUTY PRESIDENT:  Senator, you have now run out of time. I did grant you a lot of latitude in respect to the later part of your comments, given that the question before the chair is simply: the answer to the question asked by Senator O'Neill.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1,speech
 "Ketter, Sen Christopher",ALP,2015-09-09,"
 
 
@@ -558,7 +785,7 @@ Senator O'Neill has made reference to a recent report concerning the coalition's
 
 I want to take up Senator Smith's assertion that this issue has not been looked at before. The issue of an effects test has been considered in 12 reviews since 1976—10 have recommended against its introduction, and that includes the Dawson review in 2003. I understand that that review rejected the proposition of an effects test, and that was also endorsed by then Treasurer Costello and Minister Hockey. We are finding that this is a government which, in contrast to the opposition's very clear position on this issue, seems to be gripped by analysis paralysis. It is not able to make a decision, mainly because the Prime Minister himself is not respected within the Liberal and National parties. The Prime Minister appears to have let the small business minister off the leash to put out his case for these ill-thought out changes. Labor is not in favour of abuse of market power—of course we are not—but we have other mechanisms that we are prepared to pursue. In government we did address this issue by bringing together some of the major supermarket retailers and the National Farmers Federation in an attempt to come up with a code of conduct. There are sensible propositions, but this is a government that clearly is incapable of bringing those forward. 
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1,speech
 "Lindgren, Sen Joanna",LP,2015-09-09,"
 
 
@@ -584,7 +811,7 @@ Misuse of market power cases are rare and, even with the proposed changes to sec
 
 Harper's recommendations focus on the public interest, since healthy competition is what is best for the vitality of our economy and delivers durable benefits for consumers. Is there any alternative superior proposal—one that will deliver durable benefits for consumers, raise our productivity and economic performance, while giving adequate consideration to the concerns of some parties about uncertainty? I do not think so—not at this stage, anyway, from those opposite. If there is, one thing the government would welcome is suggestions from the Labor Party, particularly if they start getting serious about this and start considering the need to implement the Harper review recommendations.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1,speech
 "McAllister, Sen Jenny",ALP,2015-09-09,"
 
 
@@ -625,7 +852,7 @@ The government do not stand for anything at all, except for the pursuit of power
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1,speech
 "Siewert, Sen Rachel",AG,2015-09-09,"
 
 
@@ -654,7 +881,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Dementia</title>,MOTIONS,15,1
+",Senate,<title>MOTIONS</title>,<title>Dementia</title>,MOTIONS,15,1,speech
 "Moore, Sen Claire",ALP,2015-09-09,"
 
 
@@ -668,7 +895,7 @@ That there be laid on the table by the Minister for Human Services, no later tha
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Centrepay</title>,DOCUMENTS,16,1
+",Senate,<title>DOCUMENTS</title>,<title>Centrepay</title>,DOCUMENTS,16,1,speech
 "Moore, Sen Claire",ALP,2015-09-09,"
 
 
@@ -682,7 +909,7 @@ That there be laid on the table by the Minister for Human Services, no later tha
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2,speech
 "Lines, Sen Susan",ALP,2015-09-09,"
 
 
@@ -721,7 +948,7 @@ In answer to a question on notice from me to Minister Scullion about the likelih
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Custodial Notification Service</title>,MOTIONS,17,1
+",Senate,<title>MOTIONS</title>,<title>Custodial Notification Service</title>,MOTIONS,17,1,speech
 "Urquhart, Sen Anne",ALP,2015-09-09,"
 
 
@@ -732,7 +959,7 @@ Senator URQUHART
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Scrutiny of Bills Committee</title>,COMMITTEES,19,1
+",Senate,<title>COMMITTEES</title>,<title>Scrutiny of Bills Committee</title>,COMMITTEES,19,1,speech
 "Urquhart, Sen Anne",ALP,2015-09-09,"
 
 
@@ -743,7 +970,7 @@ Senator URQUHART
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,19,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,19,2,speech
 "Fifield, Sen Mitch",LP,2015-09-09,"
 
 
@@ -760,7 +987,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2015</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2015</title>,BILLS,20,1,speech
 "Fifield, Sen Mitch",LP,2015-09-09,"
 
 
@@ -963,7 +1190,7 @@ I commend the Bill to the Senate.
 
 Debate adjourned. 
 
-",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2015</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2015</title>,BILLS,20,1,speech
 "Fifield, Sen Mitch",LP,2015-09-09,"
 
 
@@ -980,7 +1207,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,20,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,20,2,speech
 "Singh, Sen Lisa",ALP,2015-09-09,"
 
 
@@ -1075,7 +1302,7 @@ As I said, the success of the Basin Plan has always rested on that bipartisanshi
 
 In considering the depth and detail of the bill before us, Labor will support it and vote with the government on this bill.
 
-",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2015</title>,BILLS,22,1
+",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2015</title>,BILLS,22,1,speech
 "Rhiannon, Sen Lee",AG,2015-09-09,"
 
 
@@ -1170,7 +1397,7 @@ but the Senate is of the opinion that water purchases managed under the Act shou
 
 This legislation is a great set back. I recommend our amendment. It is the one contribution we can make to try to get water policy in this country back on track.
 
-",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2015</title>,BILLS,22,1
+",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2015</title>,BILLS,22,1,speech
 "Ruston, Sen Anne",LP,2015-09-09,"
 
 
@@ -1259,7 +1486,7 @@ In conclusion, it gives me great pleasure to be here and to be able to say to th
 
 Initially the plan was skewed towards only environmental outcomes and was devil may care about the consequences for our river communities and our irrigators. We successfully changed it in conjunction with the opposition, which was then the government. I think that we achieved a very sensible outcome. We sought to achieve an environmental outcome that reasonably and rationally considering the communities that live along the river and that rely on water and irrigation. I commend the bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2015</title>,BILLS,22,1
+",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2015</title>,BILLS,22,1,speech
 "Canavan, Sen Matthew",Nats,2015-09-09,"
 
 
@@ -1354,7 +1581,7 @@ The Commonwealth Environmental Water Holder are now the biggest irrigator in our
 
 The final thing I want to say is that this should not just be about water; this is about the environment. Just adding water is a simplistic way of trying to deal with this issue. This is not a cake mix that you buy down at your local shops and just add water to make it work. It needs a lot more sense to get a productive environment in our Murray-Darling system. We need to be smarter about this and look at what we are targeting, which is the environment, not people's jobs, which is what the Greens want to do.
 
-",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2015</title>,BILLS,22,1
+",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2015</title>,BILLS,22,1,speech
 "Bernardi, Sen Cory",LP,2015-09-09,"
 
 
@@ -1395,7 +1622,7 @@ To prove that there is a human dimension to this and that we are not just talkin
 
 Madam Acting Deputy President, I regret that I am unable to complete my remarks tonight because I have to replace you in the chair. But there is a lot more to say. I think we need to herald the brave, courageous approach that the government has taken. I acknowledge that the opposition have chosen not to oppose this legislation for petty politicking's sake—they may have had some variations in how they might have approached it, but they recognise that this is a very important step for the security and sustainability of both our environmental river system in the Murray-Darling Basin and the agricultural communities that rely so much on it.
 
-",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2015</title>,BILLS,22,1
+",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2015</title>,BILLS,22,1,speech
 "McKenzie, Sen Bridget",Nats,2015-09-09,"
 
 
@@ -1593,7 +1820,7 @@ Senator McKENZIE:
 
 Debate interrupted.
 
-",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2015</title>,BILLS,22,1
+",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2015</title>,BILLS,22,1,speech
 "Singh, Sen Lisa",ALP,2015-09-09,"
 
 
@@ -1688,7 +1915,7 @@ As I said, the success of the Basin Plan has always rested on that bipartisanshi
 
 In considering the depth and detail of the bill before us, Labor will support it and vote with the government on this bill.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Rhiannon, Sen Lee",AG,2015-09-09,"
 
 
@@ -1783,7 +2010,7 @@ but the Senate is of the opinion that water purchases managed under the Act shou
 
 This legislation is a great set back. I recommend our amendment. It is the one contribution we can make to try to get water policy in this country back on track.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Ruston, Sen Anne",LP,2015-09-09,"
 
 
@@ -1872,7 +2099,7 @@ In conclusion, it gives me great pleasure to be here and to be able to say to th
 
 Initially the plan was skewed towards only environmental outcomes and was devil may care about the consequences for our river communities and our irrigators. We successfully changed it in conjunction with the opposition, which was then the government. I think that we achieved a very sensible outcome. We sought to achieve an environmental outcome that reasonably and rationally considering the communities that live along the river and that rely on water and irrigation. I commend the bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Canavan, Sen Matthew",Nats,2015-09-09,"
 
 
@@ -1967,7 +2194,7 @@ The Commonwealth Environmental Water Holder are now the biggest irrigator in our
 
 The final thing I want to say is that this should not just be about water; this is about the environment. Just adding water is a simplistic way of trying to deal with this issue. This is not a cake mix that you buy down at your local shops and just add water to make it work. It needs a lot more sense to get a productive environment in our Murray-Darling system. We need to be smarter about this and look at what we are targeting, which is the environment, not people's jobs, which is what the Greens want to do.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Bernardi, Sen Cory",LP,2015-09-09,"
 
 
@@ -2008,7 +2235,7 @@ To prove that there is a human dimension to this and that we are not just talkin
 
 Madam Acting Deputy President, I regret that I am unable to complete my remarks tonight because I have to replace you in the chair. But there is a lot more to say. I think we need to herald the brave, courageous approach that the government has taken. I acknowledge that the opposition have chosen not to oppose this legislation for petty politicking's sake—they may have had some variations in how they might have approached it, but they recognise that this is a very important step for the security and sustainability of both our environmental river system in the Murray-Darling Basin and the agricultural communities that rely so much on it.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "McKenzie, Sen Bridget",Nats,2015-09-09,"
 
 
@@ -2206,7 +2433,7 @@ Senator McKENZIE:
 
 Debate interrupted.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Smith, Sen Dean",LP,2015-09-09,"
 
 
@@ -2274,4 +2501,4 @@ For supporters of the Crown within a parliamentary democracy, the continuing tas
 
 On this day, when the Queen becomes our longest reigning sovereign, I am sure all parliamentarians would wish to join with me in acknowledging and thanking Her Majesty Queen Elizabeth II for her lifetime of devoted service and dedication to duty. Long may she reign.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Queen Elizabeth II</title>,ADJOURNMENT,23,1
+",Senate,<title>ADJOURNMENT</title>,<title>Queen Elizabeth II</title>,ADJOURNMENT,23,1,speech

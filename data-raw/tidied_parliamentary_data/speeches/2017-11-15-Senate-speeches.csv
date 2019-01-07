@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2017-11-15,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (09:31):  I have received, through the Governor-General, from the Governor of South Australia a copy of the certificate of the choice by the houses of parliament of South Australia of Rex Patrick to fill the vacancy caused by the resignation of Senator Xenophon. I table the document.
 
-",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>South Australia</title>,PARLIAMENTARY REPRESENTATION,2,1
+",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>South Australia</title>,PARLIAMENTARY REPRESENTATION,2,1,speech
 "McAllister, Sen Jenny",ALP,2017-11-15,"
 
 
@@ -44,7 +44,7 @@ We will establish a bond aggregator that will assist community housing providers
 
 We need substantial, meaningful intervention from government in the housing market. We need leadership, we need a minister for housing and we need a government with the courage to take on this most difficult challenge.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,5,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,5,1,speech
 "Fifield, Sen Mitch",LP,2017-11-15,"
 
 
@@ -61,7 +61,7 @@ Question agreed to.
 
 Bills read a second time.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,5,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,5,1,speech
 "Gallacher, Sen Alex (The ACTING DEPUTY PRESIDENT)",ALP,2017-11-15,"
 
 
@@ -72,7 +72,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Gallacher
 ) (09:50):  As no amendments to the bills have been circulated, I shall call the minister to move the third reading unless any senator requires that the bills be considered in the Committee of the Whole.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,5,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,5,1,speech
 "Fifield, Sen Mitch",LP,2017-11-15,"
 
 
@@ -89,7 +89,7 @@ Question agreed to.
 
 Bills read a third time.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,5,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,5,1,speech
 "McAllister, Sen Jenny",ALP,2017-11-15,"
 
 
@@ -127,7 +127,7 @@ We will establish a bond aggregator that will assist community housing providers
 
 We need substantial, meaningful intervention from government in the housing market. We need leadership, we need a minister for housing and we need a government with the courage to take on this most difficult challenge.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Fifield, Sen Mitch",LP,2017-11-15,"
 
 
@@ -144,7 +144,7 @@ Question agreed to.
 
 Bills read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "O'Sullivan, Sen Barry",Nats,2017-11-15,"
 
 
@@ -191,7 +191,123 @@ They're the words of Brian Courtice, not mine. They're the words of a Labor lege
 
 Disappointingly, she is joined by Senator Watt of the Labor Party, a current member of this chamber. Senator Watt ought to come down now into this place and put on the record that he doesn't agree with Ms Donaldson's protest that there has been no contact with her, because he knows full well there has been contact. Senator Watt is always a little bit careless around the facts in relation to matters, but here is an opportunity for him to clear the air. Ms Donaldson may well have misled a Senate inquiry, and we'll have a look at that over time, but for the good people of Bundaberg and the good people of Australia, whose taxes are to be wisely invested, this program is going to proceed for the benefit of the community.
 
-",Senate,<title>STATEMENTS BY SENATORS</title>,<title>Welfare Reform</title>,STATEMENTS BY SENATORS,6,1
+",Senate,<title>STATEMENTS BY SENATORS</title>,<title>Welfare Reform</title>,STATEMENTS BY SENATORS,6,1,speech
+"Moore, Sen Claire",ALP,2017-11-15,"
+
+
+
+Senator MOORE
+ (Queensland) (14:00):  Mr President, I take the opportunity to congratulate you on your position and wish you well in that job. My question is to the Minister for Women, Senator Cash. I refer to the announcement of Queensland One Nation's domestic violence policy, which supports violent fathers' visitation rights despite court issued protection orders. This position is outlined on Senator Hanson's One Nation website. Has the Minister for Women spoken with Senator Hanson in regard to this policy?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Domestic and Family Violence</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Moore, Sen Claire",ALP,2017-11-15,"
+
+
+
+Senator MOORE
+ (Queensland) (14:01):  The One Nation candidate for Thuringowa runs a business which recently posted on social media jokes about domestic violence. The posts have been condemned by DVConnect chief executive, Ms Mangan—whom you know, Minister—as 'the legitimising of violence against women and children.' Does the minister agree with Ms Mangan? Although you've not spoken to Senator Hanson yet, is this the issue that you would raise with her?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Domestic and Family Violence</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Moore, Sen Claire",ALP,2017-11-15,"
+
+
+
+Senator MOORE
+ (Queensland) (14:03):  Given the harmful policies of Queensland's One Nation and its candidates, and given the statements the minister has made already in answers to questions that I've put, will the Minister for Women now condemn her Queensland LNP counterparts for preferencing One Nation in no fewer than 49 seats in the upcoming state election?
+
+
+
+
+Senator McGrath:
+  Tell us about Billy Gordon! Sanctimonious hypocrites!
+
+
+
+The PRESIDENT:  Senator Wong on a point of order?
+
+
+
+The 
+
+Senator Wong:
+  He should withdraw.
+
+
+
+The PRESIDENT:  Senator Wong has raised a point of order. Senator McGrath, will you withdraw that comment?
+
+
+
+
+Senator McGrath:
+  What am I withdrawing?
+
+
+
+The PRESIDENT:  The term you used is unparliamentary.
+
+
+
+
+Senator McGrath:
+  I withdraw 'sanctimonious hypocrites'.
+
+
+
+The PRESIDENT:  Senator McGrath, it's out of order to repeat the unparliamentary term. Please withdraw.
+
+
+
+
+Senator McGrath:
+  I withdraw 'sanctimonious hypocrites'.
+
+
+
+The PRESIDENT:  No, it's out of order to repeat the term. You just need to withdraw.
+
+
+
+
+Senator McGrath:
+  I withdraw.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Domestic and Family Violence</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Cash, Sen Michaelia",LP,2017-11-15,"
+
+
+
+Senator CASH
+ (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (14:00):  The answer, Senator Moore, is, no, I haven't spoken to Senator Hanson in relation to that policy. But, in relation to domestic violence generally, I think that we can all say that it is something that I would hope that each and every one of us in this chamber is committed to absolutely eradicating.
+
+
+The government's position has been very, very clear. All women and children in Australia need to be safe at home, safe in the streets and safe online. That is very much why the first announcement of the Turnbull government was the $100 million Women's Safety Package. That is, of course, on top of the Third Action Plan under the Commonwealth action plan to reduce violence against women and their children, which we committed a further $100 million to. I certainly hope that all of us in this chamber are absolutely committed to doing everything that we can to ensure that when we do say that women and children in Australia deserve to be safe we are putting in place the policies that will effect that.
+
+
+
+The PRESIDENT:  Senator Moore, a supplementary question?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Domestic and Family Violence</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Cash, Sen Michaelia",LP,2017-11-15,"
+
+
+
+Senator CASH
+ (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (14:02):  Again, I would hope that each and every one of us in this chamber is absolutely committed to ensuring that domestic violence in Australia, whether it is perpetrated against women or, as the case can be—and as Senator Leyonhjelm has raised—against men. It is something that we stand together in solidarity against. In no way is domestic violence ever a joking matter. It is never a matter to be laughed at. That is why the coalition government has been very, very clear since we came to office that we are determined to keep women and children in Australia safe at home, safe in the streets and safe online. To that extent, again, the very first announcement of the Turnbull government was the $100 million Women's Safety Package.
+
+
+
+The PRESIDENT:  A final supplementary question, Senator Moore?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Domestic and Family Violence</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Cash, Sen Michaelia",LP,2017-11-15,"
+
+
+
+Senator CASH
+ (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (14:04):  In relation to Queensland and the LNP, I am advised that there is no preference deal between the LNP and One Nation in Queensland, and any suggestion of that fact is Labor yet again deliberately muddying the waters. The LNP in Queensland, led ably by Mr Tim Nicholls, have made their position very clear: no deals, no coalition and no shared ministry. But, Senator Moore, in relation to allegations of violence and in particular domestic violence, when those on the other side actually stand up and absolutely condemn Luke Collier and have him thrown out of the CFMEU instead of ensuring he is sent to Western Australian to become the youth advocate, then I might start believing some of those on the other side when they say they don't support domestic violence.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Domestic and Family Violence</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
 "Moore, Sen Claire",ALP,2017-11-15,"
 
 
@@ -239,7 +355,7 @@ There was a clear reason behind my question. When there are such strong and very
 
 So my question remains. If there are these concerns raised with the minister, who has taken a lead in the area of domestic violence nationally, there should be an interaction, there should be discussion and there should be discussions about whether the LNP is fully aware of this particular policy and, if so—and having their shadow minister knowing about it—what will happen next. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Domestic and Family Violence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Domestic and Family Violence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Macdonald, Sen Ian",LP,2017-11-15,"
 
 
@@ -280,7 +396,7 @@ This is despicable. It is deliberately misleading, and it is a typical Labor ror
 
 I conclude where I started, again, to make it very clear that the LNP in the electorate of Thuringowa, which Senator Moore used in her questions, will be preferencing the ALP before preferencing the One Nation candidate. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Domestic and Family Violence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Domestic and Family Violence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Watt, Sen Murray",ALP,2017-11-15,"
 
 
@@ -307,7 +423,7 @@ Senator WATT:
 
 The Gold Coast is one of the areas that I've been spending most of my time campaigning in and doing most of my activity. We all know that is a key battleground in this election, where there are a number of highly vulnerable LNP seats that are at risk of falling to Labor. Rather than cutting a preference deal with One Nation there, what the LNP and One Nation have done is come to an arrangement where One Nation won't even stand a candidate. That's their way of propping up vulnerable LNP members on the Gold Coast, as they are in so many other places. So Senator Cash and the state LNP back in Queensland are saying: 'No, believe us: there's no deal here whatsoever, just like there's never been a deal anywhere else. It just so happens that, in 49 seats, we're giving One Nation our preferences and, in a number of other seats, including our most vulnerable seats, One Nation isn't even standing a candidate.' If that's not a deal, I don't know what is. How could the Queensland LNP be doing a deal with One Nation? That is a party that makes offensive statements and has offensive positions, policy-wise, on domestic violence. They have a senator who walks in here dressed in a burqa and shames some of our multicultural communities. They're out there—and forgive the language, Mr Acting Deputy President Sterle—saying teachers are teaching kids to strap on dildos. And there is the chaos from the anti-vaxxers about autism. Why does the LNP keep doing deals with One Nation? (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Domestic and Family Violence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Domestic and Family Violence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Hume, Sen Jane",LP,2017-11-15,"
 
 
@@ -327,7 +443,7 @@ If you want to talk about domestic violence, fine, let's talk about domestic vio
 
 This is a place of dignity. It is a place of solemn and thorough consideration of issues. There will always be political argy-bargy, but your insinuations and accusations today are completely out of line, and you know it. The integrity of senators here has never been in doubt. It's never been in doubt by the leadership. It's never been in doubt in my mind and, let's face it, it's never been in doubt in your mind either. What you have done today is political opportunism. It is opportunistic deflection at best; it is shameless and immoral disingenuousness at worst. I hope you hang your heads in shame, because this is not what this place is for.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Domestic and Family Violence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Domestic and Family Violence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Chisholm, Sen Anthony",ALP,2017-11-15,"
 
 
@@ -353,7 +469,7 @@ If stability is going to be the focus of this election campaign, whilst the LNP 
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Domestic and Family Violence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Domestic and Family Violence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "PRESIDENT, The",,2017-11-15,"
 
 
@@ -361,7 +477,7 @@ Question agreed to.
 The PRESIDENT
  (15:41):  I remind senators that the question may be put on any proposal at the request of any senator. There being none, we will now proceed to the discovery of formal business, which I will move through in a specified order. I'll do my best to replicate my predecessor's management of this.
 
-",Senate,<title>COMMITTEES</title>,<title>Procedure Committee</title>,COMMITTEES,14,1
+",Senate,<title>COMMITTEES</title>,<title>Procedure Committee</title>,COMMITTEES,14,1,speech
 "PRESIDENT, The",,2017-11-15,"
 
 
@@ -369,7 +485,7 @@ The PRESIDENT
 The PRESIDENT
  (15:41):  I remind senators that the question may be put on any proposal at the request of any senator. There being none, we will now proceed to the discovery of formal business, which I will move through in a specified order. I'll do my best to replicate my predecessor's management of this.
 
-",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,14,2
+",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,14,2,speech
 "Leyonhjelm, Sen David",LDP,2017-11-15,"
 
 
@@ -399,7 +515,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Judiciary Amendment (Commonwealth Model Litigant Obligations) Bill 2017</title>,BILLS,16,1
+",Senate,<title>BILLS</title>,<title>Judiciary Amendment (Commonwealth Model Litigant Obligations) Bill 2017</title>,BILLS,16,1,speech
 "Leyonhjelm, Sen David",LDP,2017-11-15,"
 
 
@@ -479,7 +595,7 @@ Senator LEYONHJELM:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Judiciary Amendment (Commonwealth Model Litigant Obligations) Bill 2017</title>,BILLS,16,1
+",Senate,<title>BILLS</title>,<title>Judiciary Amendment (Commonwealth Model Litigant Obligations) Bill 2017</title>,BILLS,16,1,speech
 "Leyonhjelm, Sen David",LDP,2017-11-15,"
 
 
@@ -509,7 +625,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,16,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,16,2,speech
 "Hinch, Sen Derryn",DHJP,2017-11-15,"
 
 
@@ -535,7 +651,7 @@ That the Senate recognises that:
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Repatriation Commission Outpatient Clinic</title>,MOTIONS,17,1
+",Senate,<title>MOTIONS</title>,<title>Repatriation Commission Outpatient Clinic</title>,MOTIONS,17,1,speech
 "Rice, Sen Janet",AG,2017-11-15,"
 
 
@@ -561,7 +677,7 @@ That the Senate—
 
 (b) orders that there be laid on the table by the Minister for Resources and Northern Australia, by no later than 12.45 pm on 16 November 2017, copies of the Master Facility Agreements agreed between the Federal Government and the Governments of Queensland, Western Australia and the Northern Territory.
 
-",Senate,<title>DOCUMENTS</title>,<title>Master Facility Agreements</title>,DOCUMENTS,18,1
+",Senate,<title>DOCUMENTS</title>,<title>Master Facility Agreements</title>,DOCUMENTS,18,1,speech
 "McGrath, Sen James",LP,2017-11-15,"
 
 
@@ -582,7 +698,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Master Facility Agreements</title>,DOCUMENTS,18,1
+",Senate,<title>DOCUMENTS</title>,<title>Master Facility Agreements</title>,DOCUMENTS,18,1,speech
 "Rice, Sen Janet",AG,2017-11-15,"
 
 
@@ -608,7 +724,7 @@ That the Senate—
 
 (b) orders that there be laid on the table by the Minister for Resources and Northern Australia, by no later than 12.45 pm on 16 November 2017, copies of the Master Facility Agreements agreed between the Federal Government and the Governments of Queensland, Western Australia and the Northern Territory.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2,speech
 "McGrath, Sen James",LP,2017-11-15,"
 
 
@@ -629,7 +745,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2,speech
 "Moore, Sen Claire",ALP,2017-11-15,"
 
 
@@ -688,7 +804,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>War Crimes</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>War Crimes</title>,MOTIONS,19,1,speech
 "O'Neill, Sen Deb",ALP,2017-11-15,"
 
 
@@ -702,7 +818,7 @@ That the time for the presentation of the report of the Parliamentary Joint Comm
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Corporations and Financial Services Committee</title>,COMMITTEES,20,1
+",Senate,<title>COMMITTEES</title>,<title>Corporations and Financial Services Committee</title>,COMMITTEES,20,1,speech
 "O'Neill, Sen Deb",ALP,2017-11-15,"
 
 
@@ -716,7 +832,7 @@ That the time for the presentation of the report of the Parliamentary Joint Comm
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,20,2
+",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,20,2,speech
 "Whish-Wilson, Sen Peter",AG,2017-11-15,"
 
 
@@ -745,7 +861,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,"<title>Public Governance, Performance and Accountability Amendment (Executive Remuneration) Bill 2017</title>",BILLS,21,1
+",Senate,<title>BILLS</title>,"<title>Public Governance, Performance and Accountability Amendment (Executive Remuneration) Bill 2017</title>",BILLS,21,1,speech
 "Whish-Wilson, Sen Peter",AG,2017-11-15,"
 
 
@@ -840,7 +956,7 @@ Senator WHISH-WILSON:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>BILLS</title>,"<title>Public Governance, Performance and Accountability Amendment (Executive Remuneration) Bill 2017</title>",BILLS,21,1
+",Senate,<title>BILLS</title>,"<title>Public Governance, Performance and Accountability Amendment (Executive Remuneration) Bill 2017</title>",BILLS,21,1,speech
 "Whish-Wilson, Sen Peter",AG,2017-11-15,"
 
 
@@ -869,7 +985,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,21,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,21,2,speech
 "Siewert, Sen Rachel",AG,2017-11-15,"
 
 
@@ -898,7 +1014,7 @@ That the Senate—
 
 (c) calls on the Federal Government to work with the NSW Government and other state governments to ensure that funding for disability advocacy is not reduced at the state level.
 
-",Senate,<title>MOTIONS</title>,<title>Disability Services</title>,MOTIONS,22,1
+",Senate,<title>MOTIONS</title>,<title>Disability Services</title>,MOTIONS,22,1,speech
 "McGrath, Sen James",LP,2017-11-15,"
 
 
@@ -916,7 +1032,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator McGRATH:
   The coalition government recognises the role of advocates in representing people with disability. The government considers that all jurisdictions should continue to play a role in disability advocacy under the National Disability Strategy and, in line with the recommendations of the 2017 Productivity Commission review of NDIS costs, the government will continue to put this position to our state and territory colleagues.
 
-",Senate,<title>MOTIONS</title>,<title>Disability Services</title>,MOTIONS,22,1
+",Senate,<title>MOTIONS</title>,<title>Disability Services</title>,MOTIONS,22,1,speech
 "Siewert, Sen Rachel",AG,2017-11-15,"
 
 
@@ -931,7 +1047,7 @@ The PRESIDENT:  Leave is granted.
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Disability Services</title>,MOTIONS,22,1
+",Senate,<title>MOTIONS</title>,<title>Disability Services</title>,MOTIONS,22,1,speech
 "Brandis, Sen George",LP,2017-11-15,"
 
 
@@ -962,7 +1078,7 @@ Senator BRANDIS:
 
 The Prime Minister and I and other members of the government have always said that there should be strong protections for religious freedom and freedom of conscience. Different senators will have their own views about whether the protections in Senator Smith's bill go far enough. I myself would prefer to see them go further, so I foreshadow that in the committee stage of the debate I will move an amendment to extend the right of conscientious objection to performing a ceremony of marriage from ministers of religion to include civil marriage celebrants as well. That is not a government position—there is no government position on a private senator's bill—but my own private view. Nothing in this bill inhibits the right of churches or of people of religious faith generally to continue to adhere to the doctrines and teachings of their church when it comes to marriage and to speak freely of those teachings, and to bring up their children in accordance with the tenets of their faith. Some have suggested incorrectly that the effect of the bill may be to limit that right. To put the matter beyond doubt, I will also move an amendment to make it clear that nothing in the bill makes it unlawful for people to hold and to express the views of their own religion on the subject of marriage. Such an amendment would not in any way derogate from the primary purpose of the bill, to enable same-sex couples to marry, but would make it clear that, as the Prime Minister and I have always said, that reform and the protection of religious freedom are not inconsistent. I thank the Senate.
 
-",Senate,<title>BILLS</title>,<title>Marriage Amendment (Definition and Religious Freedoms) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Marriage Amendment (Definition and Religious Freedoms) Bill 2017</title>,BILLS,23,1,speech
 "O'Sullivan, Sen Barry",Nats,2017-11-15,"
 
 
@@ -980,7 +1096,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator O'SULLIVAN:
   I stand representing quite a body of colleagues here on this side of the Senate and, I suspect, in some other parts of the Senate. I'm very heartened to hear the Attorney indicate his intention to move the amendments that he's articulated in his statement. The point I want to make today—and this will be an historic day—is that there are five million Australians who are cautious about this process. I'm simply calling on all colleagues over the next week or so to have a respectful debate and to go carefully and cautiously, in a timely fashion. I, too, share the view that we, as a government, and we, as a parliament, need to have this matter resolved. There is an inevitability about the passage of this bill, but I want to be certain that people out there who want the protections to which they're entitled know that they have strong voices still within this due process. We will debate it and bring amendments respectfully because, I think, we all share one view: we want to create legislation here that brings a nation together and doesn't leave the potential for a nation to be divided.
 
-",Senate,<title>BILLS</title>,<title>Marriage Amendment (Definition and Religious Freedoms) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Marriage Amendment (Definition and Religious Freedoms) Bill 2017</title>,BILLS,23,1,speech
 "Wong, Sen Penny",ALP,2017-11-15,"
 
 
@@ -1004,7 +1120,7 @@ In relation to the amendments, and in the spirit of the respectful way in which 
 
 I will also make a point about the management of debate. There's obviously a free vote amongst the major parties on the substantive issue. There will be the need to ensure that there is time for consideration within groups of amendments, and I would encourage senators who are seeking to put amendments to try to ensure that those are provided early to enable various groupings around the chamber to consider them carefully. In closing, I simply say this: I believe the Australian people voted to remove discrimination and I trust the bill will reflect that.
 
-",Senate,<title>BILLS</title>,<title>Marriage Amendment (Definition and Religious Freedoms) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Marriage Amendment (Definition and Religious Freedoms) Bill 2017</title>,BILLS,23,1,speech
 "Di Natale, Sen Richard",AG,2017-11-15,"
 
 
@@ -1025,7 +1141,7 @@ Senator DI NATALE:
 
 I just say to people, particularly those people in support of marriage equality: we have already made our position very, very clear when it comes to amendments. The consensus position that we arrived at through that cross-party bill was the position that the Greens support and that we would not be entering into discussions about further extending discrimination in law. I would just say to every person who supports ending discrimination in this place: think very, very carefully about entrenching discrimination in order to appease your colleagues, rather than listening to the Australian people who spoke loudly and clearly today.
 
-",Senate,<title>BILLS</title>,<title>Marriage Amendment (Definition and Religious Freedoms) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Marriage Amendment (Definition and Religious Freedoms) Bill 2017</title>,BILLS,23,1,speech
 "Smith, Sen Dean",LP,2017-11-15,"
 
 
@@ -1093,7 +1209,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Marriage Amendment (Definition and Religious Freedoms) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Marriage Amendment (Definition and Religious Freedoms) Bill 2017</title>,BILLS,23,1,speech
 "Smith, Sen Dean",LP,2017-11-15,"
 
 
@@ -1234,7 +1350,7 @@ Leave granted.
 
 The PRESIDENT:  In accordance with this motion, the bill will be listed for consideration at the time for private senators' bills tomorrow.
 
-",Senate,<title>BILLS</title>,<title>Marriage Amendment (Definition and Religious Freedoms) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Marriage Amendment (Definition and Religious Freedoms) Bill 2017</title>,BILLS,23,1,speech
 "Brandis, Sen George",LP,2017-11-15,"
 
 
@@ -1265,7 +1381,7 @@ Senator BRANDIS:
 
 The Prime Minister and I and other members of the government have always said that there should be strong protections for religious freedom and freedom of conscience. Different senators will have their own views about whether the protections in Senator Smith's bill go far enough. I myself would prefer to see them go further, so I foreshadow that in the committee stage of the debate I will move an amendment to extend the right of conscientious objection to performing a ceremony of marriage from ministers of religion to include civil marriage celebrants as well. That is not a government position—there is no government position on a private senator's bill—but my own private view. Nothing in this bill inhibits the right of churches or of people of religious faith generally to continue to adhere to the doctrines and teachings of their church when it comes to marriage and to speak freely of those teachings, and to bring up their children in accordance with the tenets of their faith. Some have suggested incorrectly that the effect of the bill may be to limit that right. To put the matter beyond doubt, I will also move an amendment to make it clear that nothing in the bill makes it unlawful for people to hold and to express the views of their own religion on the subject of marriage. Such an amendment would not in any way derogate from the primary purpose of the bill, to enable same-sex couples to marry, but would make it clear that, as the Prime Minister and I have always said, that reform and the protection of religious freedom are not inconsistent. I thank the Senate.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,23,2,speech
 "O'Sullivan, Sen Barry",Nats,2017-11-15,"
 
 
@@ -1283,7 +1399,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator O'SULLIVAN:
   I stand representing quite a body of colleagues here on this side of the Senate and, I suspect, in some other parts of the Senate. I'm very heartened to hear the Attorney indicate his intention to move the amendments that he's articulated in his statement. The point I want to make today—and this will be an historic day—is that there are five million Australians who are cautious about this process. I'm simply calling on all colleagues over the next week or so to have a respectful debate and to go carefully and cautiously, in a timely fashion. I, too, share the view that we, as a government, and we, as a parliament, need to have this matter resolved. There is an inevitability about the passage of this bill, but I want to be certain that people out there who want the protections to which they're entitled know that they have strong voices still within this due process. We will debate it and bring amendments respectfully because, I think, we all share one view: we want to create legislation here that brings a nation together and doesn't leave the potential for a nation to be divided.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,23,2,speech
 "Wong, Sen Penny",ALP,2017-11-15,"
 
 
@@ -1307,7 +1423,7 @@ In relation to the amendments, and in the spirit of the respectful way in which 
 
 I will also make a point about the management of debate. There's obviously a free vote amongst the major parties on the substantive issue. There will be the need to ensure that there is time for consideration within groups of amendments, and I would encourage senators who are seeking to put amendments to try to ensure that those are provided early to enable various groupings around the chamber to consider them carefully. In closing, I simply say this: I believe the Australian people voted to remove discrimination and I trust the bill will reflect that.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,23,2,speech
 "Di Natale, Sen Richard",AG,2017-11-15,"
 
 
@@ -1328,7 +1444,7 @@ Senator DI NATALE:
 
 I just say to people, particularly those people in support of marriage equality: we have already made our position very, very clear when it comes to amendments. The consensus position that we arrived at through that cross-party bill was the position that the Greens support and that we would not be entering into discussions about further extending discrimination in law. I would just say to every person who supports ending discrimination in this place: think very, very carefully about entrenching discrimination in order to appease your colleagues, rather than listening to the Australian people who spoke loudly and clearly today.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,23,2,speech
 "Smith, Sen Dean",LP,2017-11-15,"
 
 
@@ -1396,7 +1512,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,23,2,speech
 "McKim, Sen Nicholas",AG,2017-11-15,"
 
 
@@ -1411,7 +1527,7 @@ The PRESIDENT:  It's a question of leave that I can put to the chamber, Senator 
 
 Leave not granted.
 
-",Senate,<title>MOTIONS</title>,<title>Immigration Detention</title>,MOTIONS,24,1
+",Senate,<title>MOTIONS</title>,<title>Immigration Detention</title>,MOTIONS,24,1,speech
 "PRESIDENT, The",,2017-11-15,"
 
 
@@ -1441,7 +1557,7 @@ More than the number of senators required by the standing orders having risen in
 
 The PRESIDENT:  I understand that informal arrangements have been made to allocate specific times to each of the speakers in today's debate. With the concurrence of the Senate, I shall ask the clerks to set the clock accordingly.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Climate Change, Energy</title>",MATTERS OF PUBLIC IMPORTANCE,25,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Climate Change, Energy</title>",MATTERS OF PUBLIC IMPORTANCE,25,1,speech
 "Di Natale, Sen Richard",AG,2017-11-15,"
 
 
@@ -1467,7 +1583,7 @@ Queensland are about to head to the polls. They know the Greens are the party st
 
 Queenslanders now have a choice. In a few days time they have an opportunity to put in place three wonderful, outstanding representatives—Kirsten Lovejoy in McConnel, Amy MacMahon in South Brisbane and Michael Berkman in Maiwar—to send a very strong statement to whoever should form government in Queensland at the next election that the community does not want to see that Adani mine built. Today we learnt that the former Deputy Prime Minister Barnaby Joyce and Minister Canavan have written to the Chinese government and said, 'If private financiers won't fund it, we want you to fund it.' It's another secret deal that we see this government entering into, with the Chinese government, begging for support for that coalmine. In a few short days the people of Queensland will have an opportunity to make such a strong statement about where their values stand. The only thing that stands between them and the Adani coalmine is the Australian Greens. Vote for Kirsten Lovejoy, Amy MacMahon and Michael Berkman and say to the next Queensland government, 'This cannot be built.' (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Climate Change, Energy</title>",MATTERS OF PUBLIC IMPORTANCE,25,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Climate Change, Energy</title>",MATTERS OF PUBLIC IMPORTANCE,25,1,speech
 "Brockman, Sen Slade",LP,2017-11-15,"
 
 
@@ -1517,7 +1633,7 @@ On the east coast itself, the coalition government secured a deal with the gas p
 
 The long-term solution, as I've said, is the National Energy Guarantee. We obviously need to keep working on the detail of this policy with the state and territory governments, but this is a plan that will deliver real benefits to the people of Australia. This is a plan that will deliver a reliable energy supply to the households and businesses of Australia whilst meeting our international obligations—again, very important. We are meeting our international obligations and I'm very proud to be part of a government that is doing so.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Climate Change, Energy</title>",MATTERS OF PUBLIC IMPORTANCE,25,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Climate Change, Energy</title>",MATTERS OF PUBLIC IMPORTANCE,25,1,speech
 "Moore, Sen Claire",ALP,2017-11-15,"
 
 
@@ -1549,7 +1665,7 @@ In the proposed new plan that the government has gone out marketing very strongl
 
 I'm concerned about the information that has come out from the Bonn conference. People are worried about whether Australia is going to be able to maintain the obligations that Prime Minister Turnbull made at the original Paris conference. We have made a commitment that we are going to be part of an international reduction of emissions so that we can respond to the international issue of climate change. In the last week at the recent conference the Prime Minister attended, he reaffirmed that we were going to be continuing our role in that process. But what we don't know from the plan before us is how that is going to happen. In taking up Senator Siewert's notice of motion we are working on— (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Climate Change, Energy</title>",MATTERS OF PUBLIC IMPORTANCE,25,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Climate Change, Energy</title>",MATTERS OF PUBLIC IMPORTANCE,25,1,speech
 "Hanson, Sen Pauline",PHON,2017-11-15,"
 
 
@@ -1578,7 +1694,7 @@ Here in Australia we have energy resources. We have an abundance of coal and gas
 
 Renewables will come. There will be a time for that when we actually have the technology to be able to store the energy. But to head down this path, destroying families, businesses, industries and manufacturing when most of us in this place have no idea what we're talking about when we're making legislation—I think you have to look at the factors and start looking after our own country first without being led by those who have more to gain by selling their own product. They don't understand and they don't give two hoots about the people in this country who are struggling to keep their heads above water. What I'd say to the Greens and about the Adani— (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Climate Change, Energy</title>",MATTERS OF PUBLIC IMPORTANCE,25,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Climate Change, Energy</title>",MATTERS OF PUBLIC IMPORTANCE,25,1,speech
 "Macdonald, Sen Ian",LP,2017-11-15,"
 
 
@@ -1643,7 +1759,7 @@ But ask any of the people at the latte place next time you go there, Senator Ric
 
 This is a debate which I think more and more Australians are starting to understand is just ideological claptrap from the Greens, regrettably being now mirrored by the Labor Party as they fight for Greens votes. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Climate Change, Energy</title>",MATTERS OF PUBLIC IMPORTANCE,25,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Climate Change, Energy</title>",MATTERS OF PUBLIC IMPORTANCE,25,1,speech
 "Urquhart, Sen Anne",ALP,2017-11-15,"
 
 
@@ -1696,7 +1812,7 @@ Weeks after the launch of his National Energy Guarantee, the Prime Minister can 
 
 On our investment in renewables, it's worse than business as usual. The National Energy Guarantee is so bad that Australia's energy mix will be comprised of only 28 per cent renewables by 2030. That's seven per cent lower than the Chief Scientist said would occur if we did nothing at all. It's a bizarre and dangerous policy, but it is true to form for this government. Under their watch, one in three renewable energy jobs has been lost and confidence and certainty in that sector has been shattered.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Climate Change, Energy</title>",MATTERS OF PUBLIC IMPORTANCE,25,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Climate Change, Energy</title>",MATTERS OF PUBLIC IMPORTANCE,25,1,speech
 "Steele-John, Sen Jordon",AG,2017-11-15,"
 
 
@@ -1728,7 +1844,7 @@ The ACTING DEPUTY PRESIDENT
 Senator O'Sullivan
 ):  The time for the discussion has expired. 
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Climate Change, Energy</title>",MATTERS OF PUBLIC IMPORTANCE,25,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Climate Change, Energy</title>",MATTERS OF PUBLIC IMPORTANCE,25,1,speech
 "Smith, Sen Dean",LP,2017-11-15,"
 
 
@@ -1739,7 +1855,7 @@ Senator SMITH
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Regulations and Ordinances Committee</title>,COMMITTEES,27,1
+",Senate,<title>COMMITTEES</title>,<title>Regulations and Ordinances Committee</title>,COMMITTEES,27,1,speech
 "Smith, Sen Dean",LP,2017-11-15,"
 
 
@@ -1750,7 +1866,7 @@ Senator SMITH
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Delegated Legislation Monitor</title>,COMMITTEES,27,2
+",Senate,<title>COMMITTEES</title>,<title>Delegated Legislation Monitor</title>,COMMITTEES,27,2,speech
 "Watt, Sen Murray",ALP,2017-11-15,"
 
 
@@ -1827,7 +1943,7 @@ It's not just him. The member for Capricornia is another. We know that there are
 
 In conclusion, I don't understand why we would want to tamper with a world-leading superannuation system. It has served us, its members and the Australian economy very well, having that cooperative approach between employers and employees. The last thing we should be doing is letting the big banks get their hands on this before they fix up their own problems.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Improving Accountability and Member Outcomes in Superannuation Measures No. 1) Bill 2017, Superannuation Laws Amendment (Strengthening Trustee Arrangements) Bill 2017</title>",BILLS,30,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Improving Accountability and Member Outcomes in Superannuation Measures No. 1) Bill 2017, Superannuation Laws Amendment (Strengthening Trustee Arrangements) Bill 2017</title>",BILLS,30,1,speech
 "Fawcett, Sen David",LP,2017-11-15,"
 
 
@@ -1883,7 +1999,7 @@ Members opposite made the point, 'It's a good thing if industry super funds outp
 
 What the government is looking to do is not just make the funds more user-friendly for the people who are using them but, importantly, put accountability and transparency around the governance—still keeping the model that the Labor Party want in terms of having employee and employer representatives. That's absolutely fine. But what we're saying is that one-third of the directors should be independent so that we can deal with the issues of conflict of interest and we can ensure that accountability and transparency are there, not in our interests but in the interests of the men and women who those opposite and the unions purport to represent. What we see in the facts before us is that around the country, in union after union and industry fund after industry fund, the savings of hardworking Australians are creamed off and paid to unions for their own political benefit rather than the benefit of their members. I will be supporting this bill.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Improving Accountability and Member Outcomes in Superannuation Measures No. 1) Bill 2017, Superannuation Laws Amendment (Strengthening Trustee Arrangements) Bill 2017</title>",BILLS,30,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Improving Accountability and Member Outcomes in Superannuation Measures No. 1) Bill 2017, Superannuation Laws Amendment (Strengthening Trustee Arrangements) Bill 2017</title>",BILLS,30,1,speech
 "Ketter, Sen Christopher",ALP,2017-11-15,"
 
 
@@ -1967,7 +2083,7 @@ A number of the submitters to our inquiry—including, I think, Choice—were ve
 
 When it comes to member outcomes—I have a brief period of time to address this issue; this is a very dense piece of legislation and I won't go through all the details—I am concerned this legislation will not improve protections, accountability and outcomes for members across the sector. In particular, the need to strengthen outcomes for choice products and to improve reporting and accountability of retail RSCs with a large financial firm parent company has not been given due consideration in these bills. In closing, these bills are misdirected; they are a protection racket for the banks and should be rejected.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Improving Accountability and Member Outcomes in Superannuation Measures No. 1) Bill 2017, Superannuation Laws Amendment (Strengthening Trustee Arrangements) Bill 2017</title>",BILLS,30,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Improving Accountability and Member Outcomes in Superannuation Measures No. 1) Bill 2017, Superannuation Laws Amendment (Strengthening Trustee Arrangements) Bill 2017</title>",BILLS,30,1,speech
 "Macdonald, Sen Ian",LP,2017-11-15,"
 
 
@@ -2074,7 +2190,7 @@ Senator IAN MACDONALD:
 
 Clearly the whole superannuation industry and the industry funds really do need serious looking at. What's wrong with having independent directors—not workers' representatives or employers' representatives but independent directors—who will look after the money well on behalf of the contributors? (Time expired)
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Improving Accountability and Member Outcomes in Superannuation Measures No. 1) Bill 2017, Superannuation Laws Amendment (Strengthening Trustee Arrangements) Bill 2017</title>",BILLS,30,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Improving Accountability and Member Outcomes in Superannuation Measures No. 1) Bill 2017, Superannuation Laws Amendment (Strengthening Trustee Arrangements) Bill 2017</title>",BILLS,30,1,speech
 "Dastyari, Sen Sam",ALP,2017-11-15,"
 
 
@@ -2115,7 +2231,7 @@ Senator DASTYARI:
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Improving Accountability and Member Outcomes in Superannuation Measures No. 1) Bill 2017, Superannuation Laws Amendment (Strengthening Trustee Arrangements) Bill 2017</title>",BILLS,30,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Improving Accountability and Member Outcomes in Superannuation Measures No. 1) Bill 2017, Superannuation Laws Amendment (Strengthening Trustee Arrangements) Bill 2017</title>",BILLS,30,1,speech
 "Watt, Sen Murray",ALP,2017-11-15,"
 
 
@@ -2192,7 +2308,7 @@ It's not just him. The member for Capricornia is another. We know that there are
 
 In conclusion, I don't understand why we would want to tamper with a world-leading superannuation system. It has served us, its members and the Australian economy very well, having that cooperative approach between employers and employees. The last thing we should be doing is letting the big banks get their hands on this before they fix up their own problems.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,30,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,30,2,speech
 "Fawcett, Sen David",LP,2017-11-15,"
 
 
@@ -2248,7 +2364,7 @@ Members opposite made the point, 'It's a good thing if industry super funds outp
 
 What the government is looking to do is not just make the funds more user-friendly for the people who are using them but, importantly, put accountability and transparency around the governance—still keeping the model that the Labor Party want in terms of having employee and employer representatives. That's absolutely fine. But what we're saying is that one-third of the directors should be independent so that we can deal with the issues of conflict of interest and we can ensure that accountability and transparency are there, not in our interests but in the interests of the men and women who those opposite and the unions purport to represent. What we see in the facts before us is that around the country, in union after union and industry fund after industry fund, the savings of hardworking Australians are creamed off and paid to unions for their own political benefit rather than the benefit of their members. I will be supporting this bill.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,30,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,30,2,speech
 "Ketter, Sen Christopher",ALP,2017-11-15,"
 
 
@@ -2332,7 +2448,7 @@ A number of the submitters to our inquiry—including, I think, Choice—were ve
 
 When it comes to member outcomes—I have a brief period of time to address this issue; this is a very dense piece of legislation and I won't go through all the details—I am concerned this legislation will not improve protections, accountability and outcomes for members across the sector. In particular, the need to strengthen outcomes for choice products and to improve reporting and accountability of retail RSCs with a large financial firm parent company has not been given due consideration in these bills. In closing, these bills are misdirected; they are a protection racket for the banks and should be rejected.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,30,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,30,2,speech
 "Macdonald, Sen Ian",LP,2017-11-15,"
 
 
@@ -2439,7 +2555,7 @@ Senator IAN MACDONALD:
 
 Clearly the whole superannuation industry and the industry funds really do need serious looking at. What's wrong with having independent directors—not workers' representatives or employers' representatives but independent directors—who will look after the money well on behalf of the contributors? (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,30,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,30,2,speech
 "Dastyari, Sen Sam",ALP,2017-11-15,"
 
 
@@ -2480,7 +2596,7 @@ Senator DASTYARI:
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,30,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,30,2,speech
 "Dodson, Sen Patrick",ALP,2017-11-15,"
 
 
@@ -2506,4 +2622,4 @@ It is up to us as individuals, as fellow humans, to do what our conscience tells
 
 I look forward to seeing more of the respectful attitudes that were portrayed today—when the bill was moved by Senator Smith and in the responses made by the leaders of the various parties. Tomorrow, let us see that respect carried through in a true, just and respectful manner.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Marriage</title>,ADJOURNMENT,31,1
+",Senate,<title>ADJOURNMENT</title>,<title>Marriage</title>,ADJOURNMENT,31,1,speech

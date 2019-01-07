@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2015-02-12,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (09:31):  I remind senators that the question may be put on this proposal at the request of any senator. There being none, we shall proceed to business.
 
-",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,1,1,speech
 "PRESIDENT, The",,2015-02-12,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (09:31):  I remind senators that the question may be put on this proposal at the request of any senator. There being none, we shall proceed to business.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "Ludlam, Sen Scott",AG,2015-02-12,"
 
 
@@ -85,7 +85,7 @@ This bill should pass into law. It will not solve many of the issues contained i
 
 It is our job, I think, to protect the public interest, not the commercial interest and the corporate interest. Our job in here today is to protect the public interest. So I look forward to a resolution of this matter so that we can send this bill to the other place for assent and protect ourselves from making potentially one of the most reckless and dangerous mistakes any parliament could make, which is to handcuff itself from its future legislative obligations to the people of this country.
 
-",Senate,<title>BILLS</title>,<title>Trade and Foreign Investment (Protecting the Public Interest) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Trade and Foreign Investment (Protecting the Public Interest) Bill 2014</title>,BILLS,2,1,speech
 "Canavan, Sen Matthew",Nats,2015-02-12,"
 
 
@@ -230,7 +230,7 @@ As I said to an interjection earlier, we on this side of the chamber do not insi
 
 There is some limitation or shortcoming in the way this bill has been drafted. As it has been drafted, it will stop us from entering into all agreements that have an ISDS clause, even if that agreement exempted us from those clauses. There could clearly be a case—even in the TPP—where we would be exempted from some obligations. That would fall foul of this particular bill, if it were passed. So I do not think it is drafted in a way that we should pass it in this chamber. It would unreasonably restrict the role of the executive government in negotiating and signing agreements that promote trade for Australians and protect their investment rights.
 
-",Senate,<title>BILLS</title>,<title>Trade and Foreign Investment (Protecting the Public Interest) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Trade and Foreign Investment (Protecting the Public Interest) Bill 2014</title>,BILLS,2,1,speech
 "Milne, Sen Christine",AG,2015-02-12,"
 
 
@@ -345,7 +345,7 @@ The two greatest threats to humanity and to the planet are the growing inequalit
 
 We only have to look at what is going on with the power of the corporates. We have to take our democracy back, and one way of taking our democracy back is banning investor-state dispute resolution clauses in any agreement that Australia signs. That is the way we take our democracy back, that is the way we restore the sovereignty of our parliament and our legal system, and that is the way we prevent the multinational corporations of the planet from overseeing the best interests of Australian and the environment. And if we do not, we are going to see billions of taxpayers' dollars over the years being set aside in legal cases. And the culprits responsible are sitting in this parliament, pretending to be a responsible government as we speak.
 
-",Senate,<title>BILLS</title>,<title>Trade and Foreign Investment (Protecting the Public Interest) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Trade and Foreign Investment (Protecting the Public Interest) Bill 2014</title>,BILLS,2,1,speech
 "Macdonald, Sen Ian",LP,2015-02-12,"
 
 
@@ -568,7 +568,7 @@ The Greens political party would have you believe that this means that corporati
 
 Unfortunately time has escaped me. I was going to raise the stupidity of the ban by the Labor Party and the Greens political on live cattle exports to Indonesia. That is a very good case in point, and, unfortunately, as I said, time is not going to allow me to elaborate on that. But Indonesian companies who had invested in Australia on the basis of a trade arrangement in live cattle that had been in place for decades and whose property was made worthless by a stupid decision of an Australian government should have been in some way compensated for that. But unfortunately time is not going to allow me to continue in that vein—perhaps some other time—but I would urge the Senate to reject this bill. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Trade and Foreign Investment (Protecting the Public Interest) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Trade and Foreign Investment (Protecting the Public Interest) Bill 2014</title>,BILLS,2,1,speech
 "Wright, Sen Penny",AG,2015-02-12,"
 
 
@@ -675,7 +675,7 @@ So in the south-east we have, at the moment, an inquiry from the South Australia
 
 We are at a point in history where it is absolutely vital that people's perception that governments are only governing for the rich, the influential and the powerful is changed. There is increasing disillusionment, and I know that everybody in this chamber will be aware of it. When you go and talk to voters, people do not have faith that we are actually fulfilling the trust for which we have been elected, and that is to govern in the interests of all. This is a point in history where we must defend our democracy, and that has to start from the grassroots up. It has to start with respect for the people and for the national interest. Australian governments voluntarily surrendering sovereignty over the policy and the law that we make in this parliament is not only foolish and irresponsible but highly dangerous for the future health and welfare of this nation. But, fundamentally, I believe it is highly dangerous to this nation in being able to remain a viable democracy where our populace has faith in the decisions that we are making. If we lose that I do not know what we will have left. I urge the Senate to support the bill. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Trade and Foreign Investment (Protecting the Public Interest) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Trade and Foreign Investment (Protecting the Public Interest) Bill 2014</title>,BILLS,2,1,speech
 "Back, Sen Chris",LP,2015-02-12,"
 
 
@@ -731,7 +731,7 @@ But Minister Robb told us that what the Chinese actually want is access to our s
 
 Mention was made by previous speakers about the Trans-Pacific Partnership. I was in Mexico only some three weeks ago, discussing with government officials and industry people—for example from the oil and gas sectors, the hard-rock mining area and the energy sector—the value of NAFTA, the North American Free Trade Agreement, to Mexico; it has been massive. But the Mexicans said, 'We cannot wait for the inclusion of more Australian investment.' At their geological survey institution they showed me proudly the geological map of Mexico at the one in 250,000 level and noted the fact that, in those mineral-rich areas of Mexico, they have actually now mapped it at one in 50,000. They then turned to me—through you, Mr Deputy President Marshall, to Senator Whish-Wilson—and said: 'Do you know where we got that expertise from, Senator Back? We got it from Geoscience Australia, and we got it from the CSIRO.' How proud do you think I was? And when they said, 'We are now sending 50,000 of our university students away every year to learn more about energy, oil and gas,' I thought, 'What opportunities are there for Australians to get in there, in hard-rock mining, in their services sector, in their corporate governance, in their insurances and in their health sector?' Those opportunities will be open to us, but, indeed, if we were to accept the provisions of this particular bill, we would be denied them because they will have ISDS provisions.
 
-",Senate,<title>BILLS</title>,<title>Trade and Foreign Investment (Protecting the Public Interest) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Trade and Foreign Investment (Protecting the Public Interest) Bill 2014</title>,BILLS,2,1,speech
 "Rhiannon, Sen Lee",AG,2015-02-12,"
 
 
@@ -806,7 +806,7 @@ I do believe that this is a time when we need to take the strongest stand. It is
 
 The DEPUTY PRESIDENT:  Order! A remarkable convergence of the clocks means that time for this debate has now expired.
 
-",Senate,<title>BILLS</title>,<title>Trade and Foreign Investment (Protecting the Public Interest) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Trade and Foreign Investment (Protecting the Public Interest) Bill 2014</title>,BILLS,2,1,speech
 "Ludlam, Sen Scott",AG,2015-02-12,"
 
 
@@ -877,7 +877,7 @@ This bill should pass into law. It will not solve many of the issues contained i
 
 It is our job, I think, to protect the public interest, not the commercial interest and the corporate interest. Our job in here today is to protect the public interest. So I look forward to a resolution of this matter so that we can send this bill to the other place for assent and protect ourselves from making potentially one of the most reckless and dangerous mistakes any parliament could make, which is to handcuff itself from its future legislative obligations to the people of this country.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Canavan, Sen Matthew",Nats,2015-02-12,"
 
 
@@ -1022,7 +1022,7 @@ As I said to an interjection earlier, we on this side of the chamber do not insi
 
 There is some limitation or shortcoming in the way this bill has been drafted. As it has been drafted, it will stop us from entering into all agreements that have an ISDS clause, even if that agreement exempted us from those clauses. There could clearly be a case—even in the TPP—where we would be exempted from some obligations. That would fall foul of this particular bill, if it were passed. So I do not think it is drafted in a way that we should pass it in this chamber. It would unreasonably restrict the role of the executive government in negotiating and signing agreements that promote trade for Australians and protect their investment rights.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Milne, Sen Christine",AG,2015-02-12,"
 
 
@@ -1137,7 +1137,7 @@ The two greatest threats to humanity and to the planet are the growing inequalit
 
 We only have to look at what is going on with the power of the corporates. We have to take our democracy back, and one way of taking our democracy back is banning investor-state dispute resolution clauses in any agreement that Australia signs. That is the way we take our democracy back, that is the way we restore the sovereignty of our parliament and our legal system, and that is the way we prevent the multinational corporations of the planet from overseeing the best interests of Australian and the environment. And if we do not, we are going to see billions of taxpayers' dollars over the years being set aside in legal cases. And the culprits responsible are sitting in this parliament, pretending to be a responsible government as we speak.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Macdonald, Sen Ian",LP,2015-02-12,"
 
 
@@ -1360,7 +1360,7 @@ The Greens political party would have you believe that this means that corporati
 
 Unfortunately time has escaped me. I was going to raise the stupidity of the ban by the Labor Party and the Greens political on live cattle exports to Indonesia. That is a very good case in point, and, unfortunately, as I said, time is not going to allow me to elaborate on that. But Indonesian companies who had invested in Australia on the basis of a trade arrangement in live cattle that had been in place for decades and whose property was made worthless by a stupid decision of an Australian government should have been in some way compensated for that. But unfortunately time is not going to allow me to continue in that vein—perhaps some other time—but I would urge the Senate to reject this bill. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Wright, Sen Penny",AG,2015-02-12,"
 
 
@@ -1467,7 +1467,7 @@ So in the south-east we have, at the moment, an inquiry from the South Australia
 
 We are at a point in history where it is absolutely vital that people's perception that governments are only governing for the rich, the influential and the powerful is changed. There is increasing disillusionment, and I know that everybody in this chamber will be aware of it. When you go and talk to voters, people do not have faith that we are actually fulfilling the trust for which we have been elected, and that is to govern in the interests of all. This is a point in history where we must defend our democracy, and that has to start from the grassroots up. It has to start with respect for the people and for the national interest. Australian governments voluntarily surrendering sovereignty over the policy and the law that we make in this parliament is not only foolish and irresponsible but highly dangerous for the future health and welfare of this nation. But, fundamentally, I believe it is highly dangerous to this nation in being able to remain a viable democracy where our populace has faith in the decisions that we are making. If we lose that I do not know what we will have left. I urge the Senate to support the bill. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Back, Sen Chris",LP,2015-02-12,"
 
 
@@ -1523,7 +1523,7 @@ But Minister Robb told us that what the Chinese actually want is access to our s
 
 Mention was made by previous speakers about the Trans-Pacific Partnership. I was in Mexico only some three weeks ago, discussing with government officials and industry people—for example from the oil and gas sectors, the hard-rock mining area and the energy sector—the value of NAFTA, the North American Free Trade Agreement, to Mexico; it has been massive. But the Mexicans said, 'We cannot wait for the inclusion of more Australian investment.' At their geological survey institution they showed me proudly the geological map of Mexico at the one in 250,000 level and noted the fact that, in those mineral-rich areas of Mexico, they have actually now mapped it at one in 50,000. They then turned to me—through you, Mr Deputy President Marshall, to Senator Whish-Wilson—and said: 'Do you know where we got that expertise from, Senator Back? We got it from Geoscience Australia, and we got it from the CSIRO.' How proud do you think I was? And when they said, 'We are now sending 50,000 of our university students away every year to learn more about energy, oil and gas,' I thought, 'What opportunities are there for Australians to get in there, in hard-rock mining, in their services sector, in their corporate governance, in their insurances and in their health sector?' Those opportunities will be open to us, but, indeed, if we were to accept the provisions of this particular bill, we would be denied them because they will have ISDS provisions.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Rhiannon, Sen Lee",AG,2015-02-12,"
 
 
@@ -1598,7 +1598,7 @@ I do believe that this is a time when we need to take the strongest stand. It is
 
 The DEPUTY PRESIDENT:  Order! A remarkable convergence of the clocks means that time for this debate has now expired.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Bushby, Sen David",LP,2015-02-12,"
 
 
@@ -2348,7 +2348,7 @@ Senator BUSHBY:
 
 That the report be adopted.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,4,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,4,1,speech
 "Moore, Sen Claire",ALP,2015-02-12,"
 
 
@@ -2368,7 +2368,7 @@ This amendment has been circulated to the chamber. It asks for a change of date 
 
 Under the selection of bills process, we would have an earlier date of report for the legislation committee, which would then open up the opportunity for debate in this place on legislation before the references committee, which has terms of reference which are clearly into a range of issues around the legislation and its impact, has completed. So, on that basis, we ask for consistency of reporting date—again, so the Senate has access to all information available.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,4,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,4,1,speech
 "Birmingham, Sen Simon",LP,2015-02-12,"
 
 
@@ -2401,7 +2401,7 @@ The DEPUTY PRESIDENT:  The question is that the amendment moved by Senator Moore
 
  
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,4,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,4,1,speech
 "Bushby, Sen David",LP,2015-02-12,"
 
 
@@ -3151,7 +3151,7 @@ Senator BUSHBY:
 
 That the report be adopted.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2,speech
 "Moore, Sen Claire",ALP,2015-02-12,"
 
 
@@ -3171,7 +3171,7 @@ This amendment has been circulated to the chamber. It asks for a change of date 
 
 Under the selection of bills process, we would have an earlier date of report for the legislation committee, which would then open up the opportunity for debate in this place on legislation before the references committee, which has terms of reference which are clearly into a range of issues around the legislation and its impact, has completed. So, on that basis, we ask for consistency of reporting date—again, so the Senate has access to all information available.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2,speech
 "Birmingham, Sen Simon",LP,2015-02-12,"
 
 
@@ -3204,7 +3204,7 @@ The DEPUTY PRESIDENT:  The question is that the amendment moved by Senator Moore
 
  
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2,speech
 "Siewert, Sen Rachel",AG,2015-02-12,"
 
 
@@ -3275,7 +3275,7 @@ The impact on service quality, efficiency and sustainability of recent Commonwea
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,7,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,7,1,speech
 "PRESIDENT, The",,2015-02-12,"
 
 
@@ -3283,7 +3283,7 @@ Question agreed to.
 The PRESIDENT
  (12:07):  I remind senators that the question may be put on any of those proposals at the request of any senator. There being none, we will move on.
 
-",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,7,2
+",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,7,2,speech
 "Xenophon, Sen Nick",Ind.,2015-02-12,"
 
 
@@ -3315,7 +3315,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,"<title>Ibrahim, Mr Anwar</title>",MOTIONS,8,1
+",Senate,<title>MOTIONS</title>,"<title>Ibrahim, Mr Anwar</title>",MOTIONS,8,1,speech
 "Wright, Sen Penny",AG,2015-02-12,"
 
 
@@ -3361,7 +3361,7 @@ Senator WRIGHT:
 
 The DEPUTY PRESIDENT:  The question is that general business notice of motion No. 609 be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Nuclear Energy</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Nuclear Energy</title>,MOTIONS,10,1,speech
 "Urquhart, Sen Anne",ALP,2015-02-12,"
 
 
@@ -3406,7 +3406,7 @@ The DEPUTY PRESIDENT:  The question is that general business notice of motion No
 
  
 
-",Senate,<title>DOCUMENTS</title>,<title>Mental Health</title>,DOCUMENTS,11,1
+",Senate,<title>DOCUMENTS</title>,<title>Mental Health</title>,DOCUMENTS,11,1,speech
 "Urquhart, Sen Anne",ALP,2015-02-12,"
 
 
@@ -3451,7 +3451,7 @@ The DEPUTY PRESIDENT:  The question is that general business notice of motion No
 
  
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,11,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,11,2,speech
 "Milne, Sen Christine",AG,2015-02-12,"
 
 
@@ -3481,7 +3481,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Competition and Consumer Amendment (Australian Country of Origin Food Labelling) Bill 2015</title>,BILLS,12,1
+",Senate,<title>BILLS</title>,<title>Competition and Consumer Amendment (Australian Country of Origin Food Labelling) Bill 2015</title>,BILLS,12,1,speech
 "Milne, Sen Christine",AG,2015-02-12,"
 
 
@@ -3628,7 +3628,7 @@ Senator MILNE:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Competition and Consumer Amendment (Australian Country of Origin Food Labelling) Bill 2015</title>,BILLS,12,1
+",Senate,<title>BILLS</title>,<title>Competition and Consumer Amendment (Australian Country of Origin Food Labelling) Bill 2015</title>,BILLS,12,1,speech
 "Milne, Sen Christine",AG,2015-02-12,"
 
 
@@ -3658,7 +3658,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,12,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,12,2,speech
 "Waters, Sen Larissa",AG,2015-02-12,"
 
 
@@ -3675,7 +3675,7 @@ That the Senate—
 
 (b) calls on the Federal Government to urgently establish which individuals or corporate entities control the Abbot Point coal terminal and the Carmichael mine and whether all relevant disclosures have been made to Australian regulators.
 
-",Senate,<title>MOTIONS</title>,<title>Mining</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Mining</title>,MOTIONS,13,1,speech
 "Moore, Sen Claire",ALP,2015-02-12,"
 
 
@@ -3693,7 +3693,7 @@ The DEPUTY PRESIDENT:  Leave is granted for one minute.
 Senator MOORE:
   We have considered this motion proposed by Senator Waters very carefully because of the importance of the issue. Any questions regarding the transparency of the ownership and taxation arrangements for the Abbot Point coal terminal and the proposed Carmichael coalmine should be directed to the appropriate regulators. I recommend that Senator Waters write to the relevant regulators and oversight bodies and, if necessary, request that these agencies appear before the Senate estimates process. It is the role of regulators to ensure that arrangements for private business entities are in order. It is not the role of the Senate to investigate individual corporate entities and individual projects that these companies might be involved in.
 
-",Senate,<title>MOTIONS</title>,<title>Mining</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Mining</title>,MOTIONS,13,1,speech
 "Waters, Sen Larissa",AG,2015-02-12,"
 
 
@@ -3715,7 +3715,7 @@ Senator WATERS:
 
 The DEPUTY PRESIDENT:  I remind senators of a Procedure Committee report which discourages members from using leave to engage in debate and suggests that it should be used simply to make statements. I draw the Senate's attention to that recommendation. The question is that general business notice of motion No. 596 be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Mining</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Mining</title>,MOTIONS,13,1,speech
 "Cameron, Sen Doug",ALP,2015-02-12,"
 
 
@@ -3729,7 +3729,7 @@ This information empowers the business community to make concerted decisions abo
 
 I note that this amendment bill addresses issues that have been raised by key stakeholders in an attempt to reduce red tape in regard to complying with the existing legislation. However, I also know that stakeholders harbour concerns regarding this government's commitment to energy efficiency measures into the future. I call on the government to show leadership in supporting Australians to improve energy efficiency so that our community and our economy can take advantage of the opportunities that these efforts create. But Labor supports this bill.
 
-",Senate,<title>BILLS</title>,<title>Building Energy Efficiency Disclosure Amendment Bill 2014</title>,BILLS,15,1
+",Senate,<title>BILLS</title>,<title>Building Energy Efficiency Disclosure Amendment Bill 2014</title>,BILLS,15,1,speech
 "Ryan, Sen Scott",LP,2015-02-12,"
 
 
@@ -3743,7 +3743,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Building Energy Efficiency Disclosure Amendment Bill 2014</title>,BILLS,15,1
+",Senate,<title>BILLS</title>,<title>Building Energy Efficiency Disclosure Amendment Bill 2014</title>,BILLS,15,1,speech
 "Gallacher, Sen Alex (The ACTING DEPUTY PRESIDENT)",ALP,2015-02-12,"
 
 
@@ -3754,7 +3754,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Gallacher
 ) (12:46):  As no amendments to the bill have been circulated, I shall call the minister to move the third reading unless any senator requires that the bill be considered in Committee of the Whole.
 
-",Senate,<title>BILLS</title>,<title>Building Energy Efficiency Disclosure Amendment Bill 2014</title>,BILLS,15,1
+",Senate,<title>BILLS</title>,<title>Building Energy Efficiency Disclosure Amendment Bill 2014</title>,BILLS,15,1,speech
 "Ryan, Sen Scott",LP,2015-02-12,"
 
 
@@ -3771,7 +3771,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Building Energy Efficiency Disclosure Amendment Bill 2014</title>,BILLS,15,1
+",Senate,<title>BILLS</title>,<title>Building Energy Efficiency Disclosure Amendment Bill 2014</title>,BILLS,15,1,speech
 "Cameron, Sen Doug",ALP,2015-02-12,"
 
 
@@ -3785,7 +3785,7 @@ This information empowers the business community to make concerted decisions abo
 
 I note that this amendment bill addresses issues that have been raised by key stakeholders in an attempt to reduce red tape in regard to complying with the existing legislation. However, I also know that stakeholders harbour concerns regarding this government's commitment to energy efficiency measures into the future. I call on the government to show leadership in supporting Australians to improve energy efficiency so that our community and our economy can take advantage of the opportunities that these efforts create. But Labor supports this bill.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2,speech
 "Ryan, Sen Scott",LP,2015-02-12,"
 
 
@@ -3799,7 +3799,148 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2,speech
+"Conroy, Sen Stephen",ALP,2015-02-12,"
+
+
+
+Senator CONROY
+ (Victoria—Deputy Leader of the Opposition in the Senate) (14:00):  My question is to the Minister representing the Prime Minister. I refer to reports in The Australian today that extensively outline that Japan believes it already has a deal to build Australia's new submarines. I quote:
+
+
+While Japan wants to sell submarines to Australia, Tokyo does not want to be part of a formal open tender process demanded by South Australian MPs.
+
+
+Has the Prime Minister made yet another 'captain's pick' and agreed to have Australia's next submarine fleet built by Japan?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,16,1,question
+"Conroy, Sen Stephen",ALP,2015-02-12,"
+
+
+
+Senator CONROY
+ (Victoria—Deputy Leader of the Opposition in the Senate) (14:02):  Mr President, I ask a supplementary question. Can the minister confirm that draft talking points, draft media releases or any other draft supporting documents have been prepared in the Prime Minister's office, the Prime Minister's department, the new defence minister's office, the old defence minister's office or the Defence Department announcing that Australia's new submarines will be built by Japan?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,16,1,question
+"Conroy, Sen Stephen",ALP,2015-02-12,"
+
+
+
+Senator CONROY
+ (Victoria—Deputy Leader of the Opposition in the Senate) (14:02):  You could take that on notice, minister, to confirm it. Mr President, I ask a further supplementary question. Given the minister's refusal to confirm whether the Prime Minister has already made a captain's pick on submarines, does he agree with Senator Sinodinos, who told Sky News yesterday 'It's a matter that does need to be cleared up'? When is the Prime Minister going to come clean on what he has promised Japan on submarines?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,16,1,question
+"Abetz, Sen Eric",LP,2015-02-12,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:01):  I have indicated to the chamber what the Prime Minister's words are, and that is that 'any Australian company that can credibly meet the requirement will be considered on merit, as will potential international partners.' That is the situation. I previously did get up to make a comment in relation to this, but can I indicate that that is the government's decision and it remains the government's position.
+
+
+
+
+Senator Wong:
+  Mr President, I thought Senator Abetz in fact said no at the start of his answer. I do not know that the microphone is on, but it might be useful for Hansard purposes to ensure that that was in fact recorded.
+
+
+
+The PRESIDENT:  Thank you, Senator Wong. We will take that into account with Hansard.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,16,1,answer
+"Abetz, Sen Eric",LP,2015-02-12,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:02):  I personally cannot confirm that.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,16,1,answer
+"Abetz, Sen Eric",LP,2015-02-12,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:03):  Any discussions in relation to the acquisition of such an important defence capability, of necessity, need to be dealt with in a sensitive manner and not with the bull-in-a-china-shop attitude of the shadow minister for defence, Senator Conroy, whose behaviour we have seen on display at Senate estimates attacking high-level men in uniform. So let's not pretend there is any sensitivity for matters defence from the shadow minister for defence. The situation is clear. We are working through it in a methodical, purposeful manner, a manner that would be completely foreign to the shadow minister who presided over the debacle of the NBN and the Australian national overseas TV network, on which the Auditor-General had plenty to say about you, Senator Conroy. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,16,1,answer
+"Sterle, Sen Glenn",ALP,2015-02-12,"
+
+
+
+Senator STERLE
+ (Western Australia) (14:54):  My question is to the Attorney-General and Minister for the Arts, Senator Brandis. I refer to reports of the Attorney-General's lavish, taxpayer funded dinner at a topnotch restaurant in London's Corinthia Hotel. Can the minister confirm that he spent $1,100 of taxpayers' money on Laurent-Perrier French champagne, tuna tartare and sea bream clams, followed by a cheeky mousse to finish?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Ministerial Expenditure</title>,QUESTIONS WITHOUT NOTICE,18,1,question
+"Sterle, Sen Glenn",ALP,2015-02-12,"
+
+
+
+Senator STERLE
+ (Western Australia) (14:57):  Mr President, I ask a supplementary question. I refer to the Prime Minister's pre-election promise to, 'stop the waste'. Given that the Attorney has billed the taxpayer for a London dinner costing over $1,000 and constructed yet another set of bookshelves at a cost of $15,000, I ask the Attorney: did you get the memo?
+
+
+
+
+Senator Heffernan:
+  Mr President, I rise on a point of order. Air Services Australia, in your term, spent $30,000—
+
+
+
+The PRESIDENT:  That is not a point of order, Senator Heffernan, that is a debating point.
+
+
+
+Senator Heffernan interjecting—
+
+
+
+The PRESIDENT:  Senator Heffernan, you have no point of order.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Ministerial Expenditure</title>,QUESTIONS WITHOUT NOTICE,18,1,question
+"Sterle, Sen Glenn",ALP,2015-02-12,"
+
+
+
+Senator STERLE
+ (Western Australia) (14:59):  Mr President, I ask a further supplementary question. I note that the Corinthia Hotel is just a minute's walk from London's leading bohemian gentlemen's club, the Savage Club. As a famous Melbourne Savage, does the Attorney-General have reciprocal rights, and was a visit on his itinerary?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Ministerial Expenditure</title>,QUESTIONS WITHOUT NOTICE,18,1,question
+"Brandis, Sen George",LP,2015-02-12,"
+
+
+
+Senator BRANDIS
+ (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (14:55):  When I visited the United Kingdom in March of last year I hosted an official dinner in honour of leaders of the United Kingdom's arts community. Among the guests at that dinner, of whom there were six people not four as has been erroneously reported, at an approximate cost of $180 per head not $300 per head as has been erroneously reported, was Sir Peter Bazalgette, the Chairman of Arts Council England and Sir Jonathan Mills, the Director of the Edinburgh Festival.
+
+
+You should know, Senator Sterle, that it is very common for ministers of governments—Labor and coalition—to host official receptions. The restaurant at which the reception was hosted was chosen not by me but by DFAT. It was chosen because it was the in-house restaurant of a hotel at which I was accommodated. That venue was chosen not by me but by DFAT. Senator Sterle, I inquired recently whether or not the Corinthia Hotel is the hotel of choice of the Australian High Commission in London. I was told by the acting high commissioner that, for the last three or four years, all ministers who travelled to London had been accommodated at the Corinthia Hotel. Every minister who has travelled to London, whose travel arrangements have been made by the Australian High Commission, was accommodated at the Corinthia Hotel. That was not their decision; it was the decision of the high commission.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Ministerial Expenditure</title>,QUESTIONS WITHOUT NOTICE,18,1,answer
+"Brandis, Sen George",LP,2015-02-12,"
+
+
+
+Senator BRANDIS
+ (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (14:58):  For a minister to host an official reception for dignitaries of a foreign government at a venue not chosen by me but chosen by the high commission is hardly an unusual thing to do.
+
+
+
+Opposition senators interjecting—
+
+
+
+The PRESIDENT:  Senator Carr and Senator Bilyk, you are holding up one of your colleagues from asking a supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Ministerial Expenditure</title>,QUESTIONS WITHOUT NOTICE,18,1,answer
+"Brandis, Sen George",LP,2015-02-12,"
+
+
+
+Senator BRANDIS
+ (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (14:59):  I am not familiar with that.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Ministerial Expenditure</title>,QUESTIONS WITHOUT NOTICE,18,1,answer
 "O'Neill, Sen Deb",ALP,2015-02-12,"
 
 
@@ -3836,7 +3977,7 @@ But of all of the questions that were taken today I have to say that in my view 
 
 Make no mistake, while applauding the efforts of the private sector in supporting a commemoration of Anzac, this government has been slashing services for our veterans. And the most notable of those is the slashing of ADF pay, which is a great disgrace. I am very mindful of the efforts of many senators in this place to call them to redress there. This is a government that is not answering the questions that the Australian people are asking. They are not truthfully answering the questions that are being asked here in this chamber, and today we saw another performance of a government that is out of control—a government in chaos. The only method we see is their coming in every day and denying the mistakes that they have made. Senator Ronaldson's failure to look after the Defence community—those who have served our country—is on the record again today. His failure to accurately and truthfully represent what he is doing is also on the record today. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1,speech
 "Ryan, Sen Scott",LP,2015-02-12,"
 
 
@@ -3853,7 +3994,7 @@ Yet those opposite, kowtowing to the noisy Greens in the inner suburbs of Melbou
 
 When it comes to submarines, the Labor Party cries crocodile tears, because, if they cared about ASC and if they cared about jobs in Adelaide, they would have done something rather than strip capital expenditure out of the defence budget year after year after year. That saw defence expenditure fall overall to its lowest level since before World War II. The Labor Party is nothing but opportunistic. It is crying crocodile tears for the jobs of Australians.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1,speech
 "Sterle, Sen Glenn",ALP,2015-02-12,"
 
 
@@ -3885,7 +4026,7 @@ But, with the greatest respect, and in fairness, it is not just about the jobs t
 
 This government, in its time in opposition, used three word slogans like 'grown-up government' and 'no more surprises'. My goodness me—I have never realised how much I have missed truck driving, because at least when you are truck driving and you are out there in the Kimberley and the Pilbara, you are meeting real Australians. I was meeting real people. I was meeting genuine people. And I cannot put any faith in there being genuine people in this government because they have not even got the intestinal fortitude to face the Australian people and say: 'Yes, we've traded off your job. We've given it to Japan.'
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1,speech
 "Macdonald, Sen Ian",LP,2015-02-12,"
 
 
@@ -3911,7 +4052,7 @@ But the most important thing this government has done is started the long, hard 
 
 So we have a big job to do but we do not resile from it. It is going to be tough, it is not going to be popular, but it is something that has to be done because that $700 billion has to be repaid by Australia. Governments themselves have no money; they only use taxpayers' money. Shame on the Australian Labor Party and their Greens allies that they could have put future Australia to that expense. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1,speech
 "Bilyk, Sen Catryna",ALP,2015-02-12,"
 
 
@@ -3943,7 +4084,7 @@ I am sure that many senators have helped constituents who have been disadvantage
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1,speech
 "Payne, Sen Marise",LP,2015-02-12,"
 
 
@@ -3986,7 +4127,7 @@ Australia is working hard to conclude negotiations, but will not sacrifice a com
 
 In accordance with the government's treaty-making process, once the TPP text is agreed by the negotiating parties it will be tabled in parliament for 20 joint sitting days to facilitate public consultations and scrutiny by the Joint Standing Committee on Treaties. This will be an opportunity for public and parliamentary discussion of the TPP agreement prior to binding treaty action being taken.
 
-",Senate,<title>DOCUMENTS</title>,<title>Trade</title>,DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,<title>Trade</title>,DOCUMENTS,20,1,speech
 "Wong, Sen Penny",ALP,2015-02-12,"
 
 
@@ -4039,7 +4180,7 @@ The fundamental core issue here is that the government is not updating this parl
 
 I think the government's approach to these matters of trade really demonstrates some of the deeper political problems the government is having and the attitude the government takes. I do not understand why this government thinks everything has to be a fight. I do not understand why this government thinks that it cannot actually engage with others. There is growing concern about the government's approach on the Trans-Pacific Partnership. What I would say to the government is this: your unwillingness to engage with the community is giving free rein to uninformed speculation and giving rise to greater concern, and that is not helpful. It is time this government fulfilled its responsibility to the nation by explaining its position on key issues and by listening and responding to community concerns.
 
-",Senate,<title>DOCUMENTS</title>,<title>Trade</title>,DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,<title>Trade</title>,DOCUMENTS,20,1,speech
 "Whish-Wilson, Sen Peter",AG,2015-02-12,"
 
 
@@ -4089,7 +4230,7 @@ It is time to be honest. Release the TPP text or at least consider Labor's order
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Trade</title>,DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,<title>Trade</title>,DOCUMENTS,20,1,speech
 "Payne, Sen Marise",LP,2015-02-12,"
 
 
@@ -4132,7 +4273,7 @@ Australia is working hard to conclude negotiations, but will not sacrifice a com
 
 In accordance with the government's treaty-making process, once the TPP text is agreed by the negotiating parties it will be tabled in parliament for 20 joint sitting days to facilitate public consultations and scrutiny by the Joint Standing Committee on Treaties. This will be an opportunity for public and parliamentary discussion of the TPP agreement prior to binding treaty action being taken.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "Wong, Sen Penny",ALP,2015-02-12,"
 
 
@@ -4185,7 +4326,7 @@ The fundamental core issue here is that the government is not updating this parl
 
 I think the government's approach to these matters of trade really demonstrates some of the deeper political problems the government is having and the attitude the government takes. I do not understand why this government thinks everything has to be a fight. I do not understand why this government thinks that it cannot actually engage with others. There is growing concern about the government's approach on the Trans-Pacific Partnership. What I would say to the government is this: your unwillingness to engage with the community is giving free rein to uninformed speculation and giving rise to greater concern, and that is not helpful. It is time this government fulfilled its responsibility to the nation by explaining its position on key issues and by listening and responding to community concerns.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "Whish-Wilson, Sen Peter",AG,2015-02-12,"
 
 
@@ -4235,7 +4376,7 @@ It is time to be honest. Release the TPP text or at least consider Labor's order
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "Fawcett, Sen David",LP,2015-02-12,"
 
 
@@ -4246,7 +4387,7 @@ Senator FAWCETT
 
 Ordered that the report be adopted.
 
-",Senate,<title>COMMITTEES</title>,<title>Senate Publications Committee</title>,COMMITTEES,21,1
+",Senate,<title>COMMITTEES</title>,<title>Senate Publications Committee</title>,COMMITTEES,21,1,speech
 "Fawcett, Sen David",LP,2015-02-12,"
 
 
@@ -4257,7 +4398,7 @@ Senator FAWCETT
 
 Ordered that the report be adopted.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2,speech
 "O'Neill, Sen Deb (The ACTING DEPUTY PRESIDENT)",ALP,2015-02-12,"
 
 
@@ -4268,7 +4409,7 @@ The ACTING DEPUTY PRESIDENT
 Senator O'Neill
 ) (16:13):  The President has received a letter from a party leader nominating a senator to be a member of the Advisory Council on Australian Archives.
 
-",Senate,<title>MOTIONS</title>,<title>National Archives of Australia</title>,MOTIONS,25,1
+",Senate,<title>MOTIONS</title>,<title>National Archives of Australia</title>,MOTIONS,25,1,speech
 "Payne, Sen Marise",LP,2015-02-12,"
 
 
@@ -4282,7 +4423,7 @@ That, in accordance with the provisions of the Archives Act 1983, the Senate ele
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>National Archives of Australia</title>,MOTIONS,25,1
+",Senate,<title>MOTIONS</title>,<title>National Archives of Australia</title>,MOTIONS,25,1,speech
 "Polley, Sen Helen",ALP,2015-02-12,"
 
 
@@ -4356,7 +4497,7 @@ Let us be honest, not much is going the way of those opposite at the moment. If 
 
 It is an indictment of this government that it has been built on lies—lie after lie after lie. We say, 'Bring on your new leader when you are ready, when you have a bit of guts, but in the meantime we are going to stand and defend fairness in this country.' We will always stand for fairness and we will always speak up for those who are the most vulnerable in this community. (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,27,1
+",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,27,1,speech
 "Ruston, Sen Anne",LP,2015-02-12,"
 
 
@@ -4516,7 +4657,7 @@ The ACTING DEPUTY PRESIDENT:  Thank you very much, Senator.
 Senator RUSTON:
   In concluding, to allow others to participate in the debate on this ludicrous motion, I will just say that, having spent six years trashing the economy, and then having spent the last 18 months refusing to allow us to fix up the economy, and having knowingly condemned future generations to paying for the excesses of this generation, I would be very interested to see whether anybody on the other side of this chamber, when they get up to speak—because I know a number of them are going to do so—has any constructive suggestions about how we are going to turn around the debt and deficit mess that we inherited from you, so that we actually can turn around the fortunes of this nation, so that we do not condemn our children and their children to a life of paying back the debt that we have racked up on their behalf because you opposite will not allow us to fix up our debt and deficit problem.
 
-",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,27,1
+",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,27,1,speech
 "Di Natale, Sen Richard",AG,2015-02-12,"
 
 
@@ -4569,7 +4710,7 @@ A few words of advice: stop attacking the social contract. People in this countr
 
 We value the ABC. We value SBS. We want our public broadcasters improved. We value the public sector. Public servants are our doctors, our nurses and our teachers. They are the people who help make this country function. Sure, address wasteful spending. We agree with you, there are some areas of waste that we can address. I have written to the Minister for Health and said, 'Let's have a conversation about health care and the areas where we can get better value for money.' Let us stop funding things that do not work. It is important to accept that there are areas where there is waste in the system, but you have to drop your ideological baggage. It is not just about spending. Be honest with the Australian community. We are a low-taxing country. People do not like paying tax—I accept that—but we are low-taxing country and the big end of town is not pulling its weight. It is not. Let us start with the enormous tax concessions in the mining industry. Why is it that people like Gina Rinehart get cheap fuel? Why do they get billion-dollar discounts on their fuel bills when ordinary people have to pay the full value of fuel excise? Let us drop the enormous subsidies that exist on fuel for the big end of town, in particular the mining industry. Look at superannuation and negative gearing. There are huge concessions enjoyed by high-income earners. While they enjoy those concessions we are asking people on low incomes to pay more to see a doctor and to pay more for an education, but if they cannot find a job they are not going to be looked after. That is not the sort of country we are. Let us tackle tax avoidance head on. Let us look at the enormous offshoring that goes on with big multinationals, who are creating elaborate tax avoidance schemes—some of them legal, some of them not. Just yesterday we had someone suggest that these are as bad as, if not worse than, the bottom-of-the-harbour tax avoidance schemes that we saw in the seventies and the eighties. The challenge for this country is to take on the big vested interests, to accept that we have a great country with a social contract that we all enjoy. The government ignores that at its peril, because on the trajectory they are on they will not make it to the end of this year.
 
-",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,27,1
+",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,27,1,speech
 "Ketter, Sen Christopher",ALP,2015-02-12,"
 
 
@@ -4661,7 +4802,7 @@ The Rudd government's stimulus spending during the financial crisis doesn't rate
 
 We have heard that 'good government' has allegedly started this week. It must be a pretty slow starter because I am yet to see it.
 
-",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,27,1
+",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,27,1,speech
 "Back, Sen Chris",LP,2015-02-12,"
 
 
@@ -4727,7 +4868,7 @@ But I am particularly concerned about and interested in employment prospects. We
 
 If only the Labor opposition would stop the negativism. If only they would come in here and act as adults and help in the whole process of improving the economy, of creating jobs and of stimulating activity, the whole of this Australian economy and all of its people would be an awful lot better off.
 
-",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,27,1
+",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,27,1,speech
 "Cameron, Sen Doug",ALP,2015-02-12,"
 
 
@@ -4813,7 +4954,7 @@ Yet in less than two years as prime minister, Abbott has proven shockingly incom
 
 That is only the start of the analysis from the right-wing think tank. The coalition are in political trouble and economic trouble. They will not survive because they are unfair and untrustworthy and have lied their way into power. (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,27,1
+",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,27,1,speech
 "Reynolds, Sen Linda",LP,2015-02-12,"
 
 
@@ -4831,7 +4972,7 @@ We have made a decision on the new Western Sydney airport. After 10 years of dis
 
 The PRESIDENT:  Order! The time allotted for the debate has expired.
 
-",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,27,1
+",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,27,1,speech
 "Cameron, Sen Doug",ALP,2015-02-12,"
 
 
@@ -4899,7 +5040,7 @@ Senator CAMERON:
 
 I take the view that jobs are important. The Defence Materiel Organisation can play a role in creating jobs in this country. When, under the coalition, this country has the highest unemployment rate it has had for 20 years, we need every job we can get, and we should not be handing the submarine build to the Japanese because of a captain's pick by a beleaguered Prime Minister, a Prime Minister who does not even have the confidence of his own backbench, and by a coalition government in disarray—a coalition government that is not trusted by the Australian public. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Defence Materiel Organisation</title>,DOCUMENTS,28,1
+",Senate,<title>DOCUMENTS</title>,<title>Defence Materiel Organisation</title>,DOCUMENTS,28,1,speech
 "Macdonald, Sen Ian",LP,2015-02-12,"
 
 
@@ -4938,7 +5079,7 @@ Senator IAN MACDONALD:
 
 I do not want to prolong the Senate today, but I simply say that Senator Cameron's interpretation of the report—which I know he has not read and which he is speaking to today without any indication of what is actually in the report—makes my argument. The reason it is so difficult for any defence industry activity in Australia is that the Labor Party imposed a carbon tax that sent Australian jobs overseas. That was quite obvious in the defence area, and, in fact, in any area, because our competitors overseas did not have those sorts of imposed costs and they do not have a corrupt trade union movement, as we do—which the royal commission has clearly evidenced. Those sorts of things make it very difficult for Australia to have a manufacturing industry, make it very difficult for Australia to do what we want to do in the defence materiel area. So I would just urge Senator Cameron, when he speaks on these things, to understand what the real problem is with industry support in this country. It is the Labor Party. (Time expired)
 
-",Senate,<title>DOCUMENTS</title>,<title>Defence Materiel Organisation</title>,DOCUMENTS,28,1
+",Senate,<title>DOCUMENTS</title>,<title>Defence Materiel Organisation</title>,DOCUMENTS,28,1,speech
 "Williams, Sen John",Nats,2015-02-12,"
 
 
@@ -4979,7 +5120,7 @@ I would like to thank those groups and individuals who lodged submissions and th
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport References Committee</title>,COMMITTEES,30,1
+",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport References Committee</title>,COMMITTEES,30,1,speech
 "Williams, Sen John",Nats,2015-02-12,"
 
 
@@ -5020,7 +5161,7 @@ I would like to thank those groups and individuals who lodged submissions and th
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,30,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,30,2,speech
 "Fierravanti-Wells, Sen Concetta",LP,2015-02-12,"
 
 
@@ -5040,4 +5181,4 @@ The actions emanating from Senator Dastyari's office do not sit comfortably with
 
 The Labor party needs to get right to the bottom of this scandal and take steps to deal with any branch stacking or vote fiddling. An ALP tribunal may have suspended the middleman who received the redirected ballot papers, but what has happened to any others involved in this episode? Today's report of these irregularities in the ballot that installed Bill Shorten as Labor leader casts doubt on the validity of the vote. I note that Senator Dastyari would not provide comment on this story to The Sydney Morning Herald. I am surprised that Senator Dastyari has not made a statement to the Senate to personally explain this situation and what he knew about the machinations of his staff member. I call on the senator to do so.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Australian Labor Party</title>,ADJOURNMENT,31,1
+",Senate,<title>ADJOURNMENT</title>,<title>Australian Labor Party</title>,ADJOURNMENT,31,1,speech

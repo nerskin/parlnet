@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2018-05-21,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER
  (10:01):  I inform the House that on 11 May 2018 I received a letter from Rebekha Carina Che Sharkie resigning her seat as the member for the electoral division of Mayo. Consideration is being given to the possible dates for this by-election and the other four by-elections, and I will inform the House in due course of the dates which I have fixed for the by-elections.
 
-",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Member for Mayo</title>,PARLIAMENTARY REPRESENTATION,0,1
+",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Member for Mayo</title>,PARLIAMENTARY REPRESENTATION,0,1,speech
 "Smith, Tony, MP",LP,2018-05-21,"
 
 
@@ -14,7 +14,7 @@ The SPEAKER
 The SPEAKER
  (10:01):  I inform the House that on 11 May 2018 I received a letter from Rebekha Carina Che Sharkie resigning her seat as the member for the electoral division of Mayo. Consideration is being given to the possible dates for this by-election and the other four by-elections, and I will inform the House in due course of the dates which I have fixed for the by-elections.
 
-",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Resignation</title>,PARLIAMENTARY REPRESENTATION,0,2
+",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Resignation</title>,PARLIAMENTARY REPRESENTATION,0,2,speech
 "Wicks, Lucy, MP",LP,2018-05-21,"
 
 
@@ -31,7 +31,7 @@ Indeed, these petitions, along with the petitions I present to the House today, 
 
 Thank you. The committee looks forward to presenting its report into e-petitioning in the coming weeks and continuing to update the House on the work of the Petitions Committee.
 
-",HoR,<title>COMMITTEES</title>,<title>Petitions Committee</title>,COMMITTEES,1,1
+",HoR,<title>COMMITTEES</title>,<title>Petitions Committee</title>,COMMITTEES,1,1,speech
 "Wicks, Lucy, MP",LP,2018-05-21,"
 
 
@@ -48,7 +48,7 @@ Indeed, these petitions, along with the petitions I present to the House today, 
 
 Thank you. The committee looks forward to presenting its report into e-petitioning in the coming weeks and continuing to update the House on the work of the Petitions Committee.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,1,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,1,2,speech
 "Wicks, Lucy, MP",LP,2018-05-21,"
 
 
@@ -56,7 +56,7 @@ Thank you. The committee looks forward to presenting its report into e-petitioni
 Mrs WICKS
  (Robertson) (10:04):  I present the following ministerial responses to petitions previously presented:
 
-",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,3,2
+",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,3,2,speech
 "Ley, Sussan, MP",LP,2018-05-21,"
 
 
@@ -203,7 +203,7 @@ I will give the rest of my allotted time to my excellent seconder, the member fo
 
 The SPEAKER:  Is the motion seconded?
 
-",HoR,<title>BILLS</title>,<title>Live Sheep Long Haul Export Prohibition Bill 2018</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Live Sheep Long Haul Export Prohibition Bill 2018</title>,BILLS,4,1,speech
 "Henderson, Sarah, MP",LP,2018-05-21,"
 
 
@@ -223,7 +223,7 @@ The bill also proposes that from 2019 there will be no export of live sheep to t
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Live Sheep Long Haul Export Prohibition Bill 2018</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Live Sheep Long Haul Export Prohibition Bill 2018</title>,BILLS,4,1,speech
 "Bandt, Adam, MP",AG,2018-05-21,"
 
 
@@ -311,7 +311,7 @@ Mr Wilkie:
 
 The SPEAKER:  The time allotted for this debate has expired. The debate is adjourned, and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Making Australia More Equal) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Making Australia More Equal) Bill 2018</title>,BILLS,5,1,speech
 "Watts, Tim, MP",ALP,2018-05-21,"
 
 
@@ -376,7 +376,7 @@ Mr Rob Mitchell
 Ms Ryan:
   I second the motion and reserve my right to speak.
 
-",HoR,<title>MOTIONS</title>,<title>Infrastructure</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Infrastructure</title>,MOTIONS,6,1,speech
 "Drum, Damian, MP",Nats,2018-05-21,"
 
 
@@ -403,7 +403,7 @@ We have here the member for Gellibrand, who has put this bill forward, suggestin
 
 The DEPUTY SPEAKER:  I thank the member for Murray and remind him it's a motion, not a bill, that's before the House.
 
-",HoR,<title>MOTIONS</title>,<title>Infrastructure</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Infrastructure</title>,MOTIONS,6,1,speech
 "Ryan, Joanne, MP",ALP,2018-05-21,"
 
 
@@ -429,7 +429,7 @@ The recent Infrastructure Australia report Future Cities: Planning for our Growi
 
 This Prime Minister likes to travel on the regional rail link when he goes down to Geelong to see the member for Corangamite. I would suggest to him that, next time he wants a photo op in Corangamite, he opens his eyes out the window as he travels and sees Melbourne's west growing—because between one month and the next there are thousands of people moving into our area and they need public transport. There are people moving to Ballarat and Bendigo and they need access to the city by public transport as well. There are people moving to Geelong. The whole of the west of Victoria is growing at a rapid rate, and this Prime Minister needs to get serious about supporting infrastructure for us.
 
-",HoR,<title>MOTIONS</title>,<title>Infrastructure</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Infrastructure</title>,MOTIONS,6,1,speech
 "Wallace, Andrew, MP",LP,2018-05-21,"
 
 
@@ -449,7 +449,7 @@ The 2018 federal budget included a new commitment of $390 million to duplicate t
 
 The business case is expected to take a little more than a year to produce, and when it is published the project will become a prime candidate for funding under the Turnbull government's $10 billion National Rail Program. While we await publication of the business case, I'll be working hard with my friend the member for Fairfax and all my LNP team Queensland colleagues to lay the groundwork to ensure this project is a priority for federal and state government funding. With city deals being agreed all over the country and with a fully funded and unmatched investment of $75 billion in infrastructure nationwide, truly, no government could be said to have achieved greater leadership in promoting the productivity and livability of cities than the Turnbull government.
 
-",HoR,<title>MOTIONS</title>,<title>Infrastructure</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Infrastructure</title>,MOTIONS,6,1,speech
 "Marles, Richard, MP",ALP,2018-05-21,"
 
 
@@ -475,7 +475,7 @@ The alternative is the route through Sunshine. The route through Sunshine is a c
 
 There is a clear choice in terms of what is best for Geelong in those routes. The state government have made that choice very clear. They are saying their preferred option is the Sunshine route. Right now, we actually need to see a decision made and a preference expressed by this government. The member for Corangamite, who has just joined us, is a key player in that, as she represents, as a member of the government in this place, the interests of Geelong within the government. It is absolutely critical for the member for Corangamite to make it completely clear that she supports the Sunshine route as distinct from any of the other routes that are possible, because if the member for Corangamite does not make that clear then she will have sold Geelong out, and it's absolutely essential that the Turnbull government make that clear in this build.
 
-",HoR,<title>MOTIONS</title>,<title>Infrastructure</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Infrastructure</title>,MOTIONS,6,1,speech
 "O'Brien, Ted, MP",LP,2018-05-21,"
 
 
@@ -501,7 +501,7 @@ In contrast, look at what this government has done and also what it forecasts to
 
 There is another point here, and you can see it through the motion. When it comes to ensuring that our cities have the vital infrastructure they need, it isn't just about 'show us the money'. Even though, yes, we have spent more and invested more than Labor, this motion is just another example of a long wish list—show us the money, the money, the money, the money. Such is the complexity around managing the growth of our population, amidst a time when we have a knowledge based economy that is integrated with the global economy, that we can't just throw money at it. That is why we have crafted a Smart Cities Plan. It is one plan that ensures that we have smart investment, smart policy and smart technology. Smart investment prioritises projects, takes long-term investments that also take into account value capture and leverages the strength of the federal balance sheet. Smart policies ensure we have not just three tiers of government working in concert in our major cities—whether they be metro or regional—but also three sectors, being business, government and community. It is through this smart approach that we can continue to be ahead of the curve and invest in infrastructure to ensure population growth does not overtake it.
 
-",HoR,<title>MOTIONS</title>,<title>Infrastructure</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Infrastructure</title>,MOTIONS,6,1,speech
 "King, Catherine, MP",ALP,2018-05-21,"
 
 
@@ -527,7 +527,7 @@ It's not often that such a possibility arises from a single rail project, and, w
 
 I want to reiterate my support for the Sunshine connection to the airport link, but we do actually need to see the money for this project.
 
-",HoR,<title>MOTIONS</title>,<title>Infrastructure</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Infrastructure</title>,MOTIONS,6,1,speech
 "Falinski, Jason, MP",LP,2018-05-21,"
 
 
@@ -556,7 +556,7 @@ The DEPUTY SPEAKER
 Mr Rob Mitchell
 ):  The time allotted for this debate has expired. The debate is adjourned and the resumption of the debate will be made an order of the day for a later hour.
 
-",HoR,<title>MOTIONS</title>,<title>Infrastructure</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Infrastructure</title>,MOTIONS,6,1,speech
 "Marino, Nola, MP",LP,2018-05-21,"
 
 
@@ -564,7 +564,7 @@ Mr Rob Mitchell
 Ms MARINO
  (Forrest—Chief Government Whip) (11:59):  I declare that, unless otherwise ordered, at the adjournment of the House for this sitting, the following bills stand referred to the Federation Chamber for further consideration: Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018 and Appropriation Bill (No. 6) 2017-2018.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,8,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,8,1,speech
 "Marino, Nola, MP",LP,2018-05-21,"
 
 
@@ -572,7 +572,7 @@ Ms MARINO
 Ms MARINO
  (Forrest—Chief Government Whip) (11:59):  I declare that, unless otherwise ordered, at the adjournment of the House for this sitting, the following bills stand referred to the Federation Chamber for further consideration: Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018 and Appropriation Bill (No. 6) 2017-2018.
 
-",HoR,<title>BILLS</title>,<title>Reference to Federation Chamber</title>,BILLS,8,2
+",HoR,<title>BILLS</title>,<title>Reference to Federation Chamber</title>,BILLS,8,2,speech
 "Wilson, Rick, MP",LP,2018-05-21,"
 
 
@@ -670,7 +670,7 @@ I would specifically like to thank committee secretary Melanie Brocklehurst, inq
 
 I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Agriculture and Water Resources</title>,COMMITTEES,9,1
+",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Agriculture and Water Resources</title>,COMMITTEES,9,1,speech
 "Fitzgibbon, Joel, MP",ALP,2018-05-21,"
 
 
@@ -693,7 +693,7 @@ Labor member's agree with most of the committee's recommendations. However, they
 
 The industry will pay. At the same time, the member for New England, with the total approval and applause of the Prime Minister, is spending $28 million or thereabouts moving the agency to Armidale in his own electorate. He is unnecessarily spending $28 million of taxpayers' money just to give effect to disruption. And now he will spend millions more on a so-called digital strategy so that he can pretend people aren't moving to Armidale but will still be working here in Canberra. It is a farce. This government is taking the taxpayer for a ride. It's doing great damage among the professional and dedicated staff at the Australian Pesticides and Veterinary Medicines Authority. It's a great shame that all of those people, who have dedicated their working lives to this cause, are now being asked to uproot their families from schools and workplaces to move to far-flung Armidale. That, more than anything else, explains why the APVMA has not been able to implement these ag-vet chemicals reforms as quickly as we would like.
 
-",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Agriculture and Water Resources</title>,COMMITTEES,9,1
+",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Agriculture and Water Resources</title>,COMMITTEES,9,1,speech
 "Goodenough, Ian (The DEPUTY SPEAKER)",LP,2018-05-21,"
 
 
@@ -704,7 +704,7 @@ The DEPUTY SPEAKER
 Mr Goodenough
 ) (12:00):  I have received advice from the Chief Opposition Whip nominating members to be members of certain committees.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,9,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,9,2,speech
 "Tudge, Alan, MP",LP,2018-05-21,"
 
 
@@ -739,7 +739,7 @@ That:
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,9,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,9,2,speech
 "Chalmers, Jim, MP",ALP,2018-05-21,"
 
 
@@ -792,7 +792,7 @@ On this side of the House we take our responsibilities as the alternative govern
 
 Instead of this warped version of trickle-down economics that we've had for five budgets now in five years, we can satisfy the three objectives that really matter when it comes to managing the economy: economic growth which is inclusive, work that is rewarded and a decent social safety net for those left behind or those at risk of being left behind. That's how we realign economic policy in this country with the values and aspirations of the people. That's how we exercise power on their behalf and not on behalf of the millionaires and multinationals which those opposite prioritise again and again and again in their budgets.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,11,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,11,1,speech
 "Chester, Darren, MP",Nats,2018-05-21,"
 
 
@@ -873,7 +873,7 @@ Mr Albanese interjecting—
 Mr CHESTER:
   I acknowledge the member for Grayndler's contribution. If he had been here earlier and listened to the whole speech, he would know how glowingly I spoke of his contribution to infrastructure investment in Gippsland and the Princes Highway. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,11,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,11,1,speech
 "Albanese, Anthony, MP",ALP,2018-05-21,"
 
 
@@ -965,7 +965,7 @@ In that announcement, with the north-south road project from Torrens to Torrens 
 
 Spin doesn't build infrastructure. Investment is required. It doesn't build itself. Investment is required. Only a Labor government will provide that investment. We've done it before and we'll do it again.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,11,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,11,1,speech
 "Fletcher, Paul, MP",LP,2018-05-21,"
 
 
@@ -1045,7 +1045,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  It being 1.30, the debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,11,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,11,1,speech
 "Chalmers, Jim, MP",ALP,2018-05-21,"
 
 
@@ -1098,7 +1098,7 @@ On this side of the House we take our responsibilities as the alternative govern
 
 Instead of this warped version of trickle-down economics that we've had for five budgets now in five years, we can satisfy the three objectives that really matter when it comes to managing the economy: economic growth which is inclusive, work that is rewarded and a decent social safety net for those left behind or those at risk of being left behind. That's how we realign economic policy in this country with the values and aspirations of the people. That's how we exercise power on their behalf and not on behalf of the millionaires and multinationals which those opposite prioritise again and again and again in their budgets.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2,speech
 "Chester, Darren, MP",Nats,2018-05-21,"
 
 
@@ -1179,7 +1179,7 @@ Mr Albanese interjecting—
 Mr CHESTER:
   I acknowledge the member for Grayndler's contribution. If he had been here earlier and listened to the whole speech, he would know how glowingly I spoke of his contribution to infrastructure investment in Gippsland and the Princes Highway. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2,speech
 "Albanese, Anthony, MP",ALP,2018-05-21,"
 
 
@@ -1271,7 +1271,7 @@ In that announcement, with the north-south road project from Torrens to Torrens 
 
 Spin doesn't build infrastructure. Investment is required. It doesn't build itself. Investment is required. Only a Labor government will provide that investment. We've done it before and we'll do it again.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2,speech
 "Fletcher, Paul, MP",LP,2018-05-21,"
 
 
@@ -1351,7 +1351,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  It being 1.30, the debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2,speech
 "Macklin, Jenny, MP",ALP,2018-05-21,"
 
 
@@ -1369,7 +1369,75 @@ They bring in a cuddly bear, the kids get taken in and, in reality, it is fraudu
 
 The royal commission into our banks and financial system has heard evidence of alleged bribery, forged documents and financial planners charging fees to dead people. We have seen AMP admit to routinely lying to regulators, and now we have the Dollarmite scandal. The Commonwealth Bank posted a profit of $9.8 billion last year, and this is how they behave. The conduct of the CBA in Montmorency in exploiting innocent children is totally unacceptable. (Time expired)
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Banking and Financial Services</title>,STATEMENTS BY MEMBERS,12,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Banking and Financial Services</title>,STATEMENTS BY MEMBERS,12,1,speech
+"Fitzgibbon, Joel, MP",ALP,2018-05-21,"
+
+
+
+Mr FITZGIBBON
+ (Hunter) (14:01):  My question is to the Prime Minister. Given that there are reports today that up to six government MPs support the member for Farrer's private member's bill to phase out live sheep exports, does the Prime Minister support the bill? Will the Prime Minister support further debate on the bill and ensure that government members on the Selection Committee are aware of his view so that all members can have their say on this very important issue?
+
+
+
+The SPEAKER:  The Leader of the House on a point of order?
+
+
+
+
+Mr Pyne:
+  Mr Speaker, matters to do with the Selection Committee and the schedule of the House are not within the responsibility of the Prime Minister. It was not a general question; it was a very specific question about when the bill will be dealt with and how the process will be unfolding. I'm happy to answer that question, but it's not within the responsibility of the Prime Minister.
+
+
+
+The SPEAKER:  I will allow the Manager of Opposition Business to speak on the point of order.
+
+
+
+
+Mr Burke:
+  To the point of order, Mr Speaker: it's impossible I think to view the part of the question that says, 'Does the Prime Minister support the bill?' as being answered by anyone other than the Prime Minister. Will the Prime Minister pass on his—
+
+
+
+The SPEAKER:  The Manager of Opposition Business might have just made the point there. That's the only part of the question that I think is in order.
+
+
+
+An honourable member interjecting—
+
+
+
+The SPEAKER:  No. It's probably best you don't. Certainly I'm going to allow the part of the question that asks whether he supports the bill. The Prime Minister has the call.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Live Animal Exports</title>,QUESTIONS WITHOUT NOTICE,14,1,question
+"Turnbull, Malcolm, MP",LP,2018-05-21,"
+
+
+
+Mr TURNBULL
+ (Wentworth—Prime Minister) (14:02):  I thank the honourable member for his question. The government supports a live export trade that respects animal welfare and obviously respects community views on animal welfare. We are taking immediate action to ensure that animal welfare is maintained, the jobs of thousands of Australian farmers are preserved and our export markets are respected and maintained. As honourable members know, the Minister for Agriculture and Water Resources commissioned a report from Dr Michael McCarthy. That has recommended a number of changes to the export regime. In summary, on live sheep voyages to the Middle East in the coming northern summer, sheep will get 39 per cent more space and stocking densities will be reduced by up to 28 per cent. The reportable mortality level will be halved from two per cent to one per cent. Independent observers on behalf of the government will be on the vessels to make sure that these standards are maintained. The observers will be reporting daily to the regulator.
+
+
+
+The SPEAKER:  The Manager of Opposition Business on a point of order?
+
+
+
+
+Mr Burke:
+  Mr Speaker, given that you ruled that the only part of the question that was in order was whether or not the Prime Minister supports the private member's bill, he should be relevant to that.
+
+
+
+The SPEAKER:  I have been listening very closely. Manager of Opposition Business, when he's talking about the substance of the topic that is the subject of the bill, I really can't see how he's anything other than in order. The Prime Minister is in order.
+
+
+
+
+Mr TURNBULL:
+  Thank you, Mr Speaker. The government's objective is, as I said, to ensure that animal welfare is maintained, that animals are treated humanely in this transport, that the livings and viability of Australian farmers—particularly in Western Australia, where most of these shipments are derived—are respected and maintained, and that our export markets are maintained. We do not want to have a repetition of the debacle that we had under the Labor Party, where the entire live cattle export business was banned and, as a consequence, farming families across the nation were facing ruin and the price of cattle crashed, from the far north of the country all the way down to Tasmania. That's the sort of recklessness the government will not be a party to. What we have put in place—along with the minister, who is absent, as I said—is a careful and considered approach based on science, and that is why the government does not support the bill.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Live Animal Exports</title>,QUESTIONS WITHOUT NOTICE,14,1,answer
 "Smith, Tony, MP",LP,2018-05-21,"
 
 
@@ -1383,7 +1451,63 @@ The commissioner has advised me that he supports these changes. I note they have
 
 As this regulation is not yet in force, there would be no possibility of applying it if by-elections were held on 23 June, and consequently I consider that I should not proceed to issue the writs today for the by-elections to be held on 23 June. I will continue to consult with the commissioner and party leaders about the timing of the by-elections, and I hope to be able to update the House later this week.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Federal By-Elections</title>,STATEMENT BY THE SPEAKER,15,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Federal By-Elections</title>,STATEMENT BY THE SPEAKER,15,1,speech
+"Burke, Tony, MP",ALP,2018-05-21,"
+
+
+
+Mr BURKE
+ (Watson) (15:15):  I have a question to the Speaker.
+
+
+
+Honourable members interjecting—
+
+
+
+The SPEAKER:  If members could cease interjecting, I'm trying to give the Manager of Opposition Business the call.
+
+
+
+
+Mr BURKE:
+  Thanks, Mr Speaker. Thank you for making that statement to the House. I respect the procedure that you said you would follow in terms of who you would consult. The advice you just referred to from the Australian Electoral Commission creates a situation where government policy can hold up whether or not a seat is filled.
+
+
+When the member for Bennelong resigned, a by-election was called two days later. For the seat of New England, it was called on the same day that the High Court handed down its decision. For Batman, it was six days after. Indeed, if a general election is called, once that is agreed with the Governor-General, everything can happen within 33 days, and it happens immediately.
+
+
+That being the case, and respecting the independence of your role as Speaker—
+
+
+
+Mr Pyne interjecting—
+
+
+
+The SPEAKER:  The Leader of the House will cease interjecting.
+
+
+
+
+Mr BURKE:
+  I do have to raise the issue that it is now taking longer to fill five seats than it would take to fill 150, and we are currently in a situation where the government could delay a regulation for as long as they wanted, and that would determine when a by-election was held.
+
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,<title>Federal By-Elections</title>,QUESTIONS TO THE SPEAKER,16,1,question
+"Smith, Tony, MP",LP,2018-05-21,"
+
+
+
+The SPEAKER
+ (15:17):  Let me just address that question as quickly as I can. I'll make a couple of statements because I'll deal with the substance of the question. The last part of my statement the Manager of Opposition Business should acquaint himself with, and that is that I'll continue to consult with the commissioner and party leaders, and I hope to be able to update the House later this week. I think that answers the substance of his question.
+
+
+Let me also point out to the Manager of Opposition Business and all members the process that Speakers normally undertake. Their obligation is to advise the House of resignations and then to advise the House once writs have been issued. I've taken this course of action today because the events are unusual, given the circumstances, and as a courtesy to the House. That's why I've done that.
+
+
+Can I also say, as frankly as I can, that my duty is to consult with the Australian Electoral Commissioner. I realise that lots of people have lots of opinions on this matter, but I would be very surprised if any members of the House thought that I should not consult with the Electoral Commissioner or indeed that I should ignore his advice. I'll update the House later in the week. That's my expectation. Out of courtesy to all members of the House, I wanted to give this update today.
+
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,<title>Federal By-Elections</title>,QUESTIONS TO THE SPEAKER,16,1,answer
 "Smith, Tony, MP",LP,2018-05-21,"
 
 
@@ -1394,7 +1518,7 @@ The SPEAKER
 
 Ordered that the reports be made parliamentary papers.
 
-",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,"<title>Reports Nos 38, 39, 40 and 41 of 2017-18</title>",AUDITOR-GENERAL'S REPORTS,17,1
+",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,"<title>Reports Nos 38, 39, 40 and 41 of 2017-18</title>",AUDITOR-GENERAL'S REPORTS,17,1,speech
 "Neumann, Shayne, MP",ALP,2018-05-21,"
 
 
@@ -1447,7 +1571,7 @@ What the government are doing here is creating the Skilling Australians Fund. Th
 
 This government have failed in the budget. I just want to tell people before I finish that, finally last week, we got them to agree to backtrack on their assurance of support to those persons in those communities who apply for visas, which is so important. They tried to surreptitiously get it in, but we put pressure on and they finally backtracked. They moved the goalposts in this. They made these changes without any warning. Labor stood up to them, and they backflipped on that last week. I am pleased about that. It is great to see they finally saw a bit of sense in that area.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,19,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,19,1,speech
 "Wilson, Tim, MP",LP,2018-05-21,"
 
 
@@ -1500,7 +1624,7 @@ What we cannot afford to do is be complacent, as those on the opposition benches
 
 The return to surplus by the Turnbull government is one of the most critical and significant achievements of this government, and it's the biggest gift that it can give to future generations. This budget is a forward-looking, responsible blueprint for a modern liberal Australia. The Goldstein community has consistently voiced concern over the rising costs of living, the lack of infrastructure investment, particularly by the state government, job security and the challenges of an ageing population. But, more critically, it has consistently raised concerns about the challenges facing our budget and wanting to make sure that a government—their government; the nation's government—is prudent and responsible, exercises spending with caution and seeks to minimise expenses that are unnecessary, to return to a position of surplus so we can start to pay back Labor's debt legacy. That is what this budget does: it delivers opportunity, security and responsibility for our great nation. As a government, we have listened and we have acted.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,19,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,19,1,speech
 "Bird, Sharon, MP",ALP,2018-05-21,"
 
 
@@ -1539,7 +1663,7 @@ This budget, as I said at the beginning, puts their priorities the up in headlig
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,19,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,19,1,speech
 "Neumann, Shayne, MP",ALP,2018-05-21,"
 
 
@@ -1592,7 +1716,7 @@ What the government are doing here is creating the Skilling Australians Fund. Th
 
 This government have failed in the budget. I just want to tell people before I finish that, finally last week, we got them to agree to backtrack on their assurance of support to those persons in those communities who apply for visas, which is so important. They tried to surreptitiously get it in, but we put pressure on and they finally backtracked. They moved the goalposts in this. They made these changes without any warning. Labor stood up to them, and they backflipped on that last week. I am pleased about that. It is great to see they finally saw a bit of sense in that area.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Wilson, Tim, MP",LP,2018-05-21,"
 
 
@@ -1645,7 +1769,7 @@ What we cannot afford to do is be complacent, as those on the opposition benches
 
 The return to surplus by the Turnbull government is one of the most critical and significant achievements of this government, and it's the biggest gift that it can give to future generations. This budget is a forward-looking, responsible blueprint for a modern liberal Australia. The Goldstein community has consistently voiced concern over the rising costs of living, the lack of infrastructure investment, particularly by the state government, job security and the challenges of an ageing population. But, more critically, it has consistently raised concerns about the challenges facing our budget and wanting to make sure that a government—their government; the nation's government—is prudent and responsible, exercises spending with caution and seeks to minimise expenses that are unnecessary, to return to a position of surplus so we can start to pay back Labor's debt legacy. That is what this budget does: it delivers opportunity, security and responsibility for our great nation. As a government, we have listened and we have acted.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Bird, Sharon, MP",ALP,2018-05-21,"
 
 
@@ -1684,7 +1808,7 @@ This budget, as I said at the beginning, puts their priorities the up in headlig
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Kelly, Craig, MP",LP,2018-05-21,"
 
 
@@ -1740,7 +1864,7 @@ There cannot be greater clarity between what the opposition plans for this natio
 
 This is the choice that is coming, and it is a stark choice. It is about a coalition government acting responsibly, bringing the budget back to a balance, then to a surplus and then paying down that debt as the coalition government have done and succeeded at before. The alternative is a reckless Labor Party that will spend and spend money we don't have, make our nation uncompetitive and destroy wealth. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1,speech
 "Ramsey, Rowan, MP",LP,2018-05-21,"
 
 
@@ -1790,7 +1914,7 @@ Something that many schools around my electorate will be celebrating is a commit
 
 So, right across the board, I welcome the budget. As I said, it's probably the one that has gone down the best in the entire time that I've spent in this chamber.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1,speech
 "King, Madeleine, MP",ALP,2018-05-21,"
 
 
@@ -1846,7 +1970,7 @@ As I said before, Labor will abolish Prime Minister Turnbull's cap on university
 
 Labor can deliver on our commitments because we put people ahead of big business and the banks and because that $80 billion of tax windfall to the top end of town can be much better used to deliver for more people in our country. We'll be guided by clear fiscal principles that repair the budget in a fair way. We will not ask the most vulnerable to carry the heaviest burden. Tough calls have been made on tax reform, but they are fair calls: negative gearing, capital gains tax, trusts, and dividend imputation refundability. We will close loopholes to those who need them least. Our plan is fairer and more responsible because we've made the big calls and we've got them right. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1,speech
 "Broad, Andrew, MP",Nats,2018-05-21,"
 
 
@@ -1899,7 +2023,7 @@ One of the other great things in the budget, which is a small thing, which appea
 
 There are a lot of good things in this budget. There are a lot of things to be proud of. There are things that we can do better, and we should always have that robust debate. I do not hold the view that everything we do on our side of the parliament is perfect and everything the other side does is wrong and evil, or vice versa, but we need to ensure that we spend Australians' money wisely, create incentive and look after those who can't look after themselves. I think this is a very fair and reasonable budget.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1,speech
 "Mitchell, Brian, MP",ALP,2018-05-21,"
 
 
@@ -2029,7 +2153,7 @@ Only Labor reverses this government's billion-dollar cuts to health and hospital
 
 We had a speech in the Federation Chamber earlier today on the member for Grey's motion on suicide prevention trials—which has bipartisan support, I must say. The glaring fact out of that speech and that motion was that rural and regional communities suffer with that issue. It's rural and regional communities that need support. It is rural and regional communities that are left behind under this government's budget. We need to do better, and only Labor will do better.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1,speech
 "Wicks, Lucy, MP",LP,2018-05-21,"
 
 
@@ -2088,7 +2212,7 @@ Thousands of hardworking local commuters are also benefitting from our commitmen
 
 I strongly commend this budget and these appropriation bills to the House. I do so because of all the reasons outlined today but also because of people like Meredith, from Daleys Point, who wrote to me to say thank you. She said she was so glad there is better help for older people still needing to work. She made particular mention of the Treasurer, who said that, ultimately, it is not the government's money to spend but belongs to the hard-working people of Australia. On a personal note Meredith said, 'Thank you for your kind birthday wishes and birthday card.' Meredith, I hope you had a very happy birthday and that you can plan for even more birthdays in the future with even greater confidence under this government. I commend these bills to the House.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1,speech
 "Keogh, Matt, MP",ALP,2018-05-21,"
 
 
@@ -2138,7 +2262,7 @@ Under a Shorten Labor government, we will achieve a budget coming back into bala
 
 Our plan is fairer and more responsible because it makes sure that those that are most vulnerable in our community are looked after, and it makes sure that we get budget repair done in a fair way. We're able to do that because we've made the big calls and we've got them right. We will of course support supply, but once again we see in this budget the stark contrast between Labor's fair approach and this government's mean, arrogant, out-of-touch, wrong priorities. Let's hope that this budget is their last.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1,speech
 "Christensen, George, MP",Nats,2018-05-21,"
 
 
@@ -2179,7 +2303,7 @@ We supported VMR, the volunteer marine rescue, in Burdekin with $20,000 for thei
 
 All of this stuff is contained in our budget. It's been a great budget for North Queensland, providing all these local benefits. I'm proud to support these bills.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1,speech
 "Champion, Nick, MP",ALP,2018-05-21,"
 
 
@@ -2244,7 +2368,7 @@ I'm very proud that Labor has committed to reviewing the nature of these payment
 
 So this government's budget strategy, which Ayn Rand would be proud of, I don't think is very sensible or well thought out or reasonable in the modern era. We are saying to the government: you are going down the wrong path; you need to reconsider. The Labor Party won't follow you down this path so you should split the bills, allow us to do taxation reform for those who need it and, for those who don't—the big corporates—we should leave them to do what they should do, which is invest, create jobs and pay taxes like everyone else. We should get back to having a sustainable fiscal strategy which provides tax relief to those who need it, which pays down debt and which allows us as a nation to provide the services that we need now such as schools and hospitals and that we will need for the future.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1,speech
 "Evans, Trevor, MP",LP,2018-05-21,"
 
 
@@ -2312,7 +2436,7 @@ I want to spend a moment comparing and contrasting what I've just outlined to so
 
 Sadly, we all had to endure the opposition leader's budget reply speech a few weeks ago. For those lucky enough not to hear it, let me summarise it briefly. Labor essentially said that they would spend a stack of money that they don't have on all manner of things. They said that they could pay for it because they'll tax banks and big companies more. That's essentially what they said. So, 10 points out of 10 for the politics of division and envy, but, sadly, zero points for adding things up and zero points for honesty. If you look at their numbers, you'll see that there are no changes in the forward estimates to the taxes being paid by big businesses and banks—not in our forward estimates and not in theirs. In their forward estimates over the next four years, their biggest tax takes include $10 billion from retirees, which is the biggest; $6 billion in additional taxes on small and medium businesses, the ones that we just identified as having created all of the jobs and prosperity over the last year; $2 billion from home owners; and precisely zero in additional taxes from big businesses and banks. That stands in stark contrast to the multinational tax avoidance laws that this government's passed—sadly, without Labor's support.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1,speech
 "Hayes, Chris, MP",ALP,2018-05-21,"
 
 
@@ -2377,7 +2501,7 @@ The mums and dads in my community are more concerned about what's happening in e
 
 We are privileged to be in this place. We are privileged to have the honour of representing our communities in this parliament. Not many people get this opportunity. When we're here, we should be trying to make a difference for the better in our community, not simply rattle off some lines about how this is the budget and we're going to do all these various things. We should, on both sides of the House, be trying to make a difference for the better. Quite frankly, after five budgets, I just do not think those opposite have that view in mind. Perhaps they think this is their ticket to another election. I've got to say: guys, I think you're mistaken on that as well. But, if you're not in this House with a genuine commitment to make a difference for the better in the community, you should not be here.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1,speech
 "Wallace, Andrew, MP",LP,2018-05-21,"
 
 
@@ -2472,7 +2596,7 @@ Even if what passes for a moderate version of Labor's tax plan were enacted, the
 
 Whether he's the secretary of the AWU or the Leader of the Opposition, he has only one guiding principle—that is, selling out the people he's meant to represent in the interest of his own. That's how he ran the AWU back then. It's how he's running the Labor Party today. It will be how he runs the country if he is ever allowed to occupy the Lodge. In the end, there is only one Australian the Leader of the Opposition is looking out for, and that is the Leader of the Opposition himself. There is only one standard to which he holds his words and his actions, and that is naked self-interest. His colleagues know that, those present here tonight know that, his supporters know that and the people of Australia know that. They have seen through the shifty Leader of the Opposition, and when they have the chance next year they will, as we should today, shun his empty politics of selfishness and division and support the Turnbull government's plan for a stronger, more prosperous Australia.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1,speech
 "Chesters, Lisa, MP",ALP,2018-05-21,"
 
 
@@ -2489,7 +2613,7 @@ Another area that this government hasn't been honest about is the cuts to early 
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2018-2019, Appropriation Bill (No. 2) 2018-2019, Appropriation (Parliamentary Departments) Bill (No. 1) 2018-2019, Appropriation Bill (No. 5) 2017-2018, Appropriation Bill (No. 6) 2017-2018</title>",BILLS,21,1,speech
 "Kelly, Craig, MP",LP,2018-05-21,"
 
 
@@ -2545,7 +2669,7 @@ There cannot be greater clarity between what the opposition plans for this natio
 
 This is the choice that is coming, and it is a stark choice. It is about a coalition government acting responsibly, bringing the budget back to a balance, then to a surplus and then paying down that debt as the coalition government have done and succeeded at before. The alternative is a reckless Labor Party that will spend and spend money we don't have, make our nation uncompetitive and destroy wealth. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Ramsey, Rowan, MP",LP,2018-05-21,"
 
 
@@ -2595,7 +2719,7 @@ Something that many schools around my electorate will be celebrating is a commit
 
 So, right across the board, I welcome the budget. As I said, it's probably the one that has gone down the best in the entire time that I've spent in this chamber.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "King, Madeleine, MP",ALP,2018-05-21,"
 
 
@@ -2651,7 +2775,7 @@ As I said before, Labor will abolish Prime Minister Turnbull's cap on university
 
 Labor can deliver on our commitments because we put people ahead of big business and the banks and because that $80 billion of tax windfall to the top end of town can be much better used to deliver for more people in our country. We'll be guided by clear fiscal principles that repair the budget in a fair way. We will not ask the most vulnerable to carry the heaviest burden. Tough calls have been made on tax reform, but they are fair calls: negative gearing, capital gains tax, trusts, and dividend imputation refundability. We will close loopholes to those who need them least. Our plan is fairer and more responsible because we've made the big calls and we've got them right. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Broad, Andrew, MP",Nats,2018-05-21,"
 
 
@@ -2704,7 +2828,7 @@ One of the other great things in the budget, which is a small thing, which appea
 
 There are a lot of good things in this budget. There are a lot of things to be proud of. There are things that we can do better, and we should always have that robust debate. I do not hold the view that everything we do on our side of the parliament is perfect and everything the other side does is wrong and evil, or vice versa, but we need to ensure that we spend Australians' money wisely, create incentive and look after those who can't look after themselves. I think this is a very fair and reasonable budget.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Mitchell, Brian, MP",ALP,2018-05-21,"
 
 
@@ -2834,7 +2958,7 @@ Only Labor reverses this government's billion-dollar cuts to health and hospital
 
 We had a speech in the Federation Chamber earlier today on the member for Grey's motion on suicide prevention trials—which has bipartisan support, I must say. The glaring fact out of that speech and that motion was that rural and regional communities suffer with that issue. It's rural and regional communities that need support. It is rural and regional communities that are left behind under this government's budget. We need to do better, and only Labor will do better.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Wicks, Lucy, MP",LP,2018-05-21,"
 
 
@@ -2893,7 +3017,7 @@ Thousands of hardworking local commuters are also benefitting from our commitmen
 
 I strongly commend this budget and these appropriation bills to the House. I do so because of all the reasons outlined today but also because of people like Meredith, from Daleys Point, who wrote to me to say thank you. She said she was so glad there is better help for older people still needing to work. She made particular mention of the Treasurer, who said that, ultimately, it is not the government's money to spend but belongs to the hard-working people of Australia. On a personal note Meredith said, 'Thank you for your kind birthday wishes and birthday card.' Meredith, I hope you had a very happy birthday and that you can plan for even more birthdays in the future with even greater confidence under this government. I commend these bills to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Keogh, Matt, MP",ALP,2018-05-21,"
 
 
@@ -2943,7 +3067,7 @@ Under a Shorten Labor government, we will achieve a budget coming back into bala
 
 Our plan is fairer and more responsible because it makes sure that those that are most vulnerable in our community are looked after, and it makes sure that we get budget repair done in a fair way. We're able to do that because we've made the big calls and we've got them right. We will of course support supply, but once again we see in this budget the stark contrast between Labor's fair approach and this government's mean, arrogant, out-of-touch, wrong priorities. Let's hope that this budget is their last.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Christensen, George, MP",Nats,2018-05-21,"
 
 
@@ -2984,7 +3108,7 @@ We supported VMR, the volunteer marine rescue, in Burdekin with $20,000 for thei
 
 All of this stuff is contained in our budget. It's been a great budget for North Queensland, providing all these local benefits. I'm proud to support these bills.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Champion, Nick, MP",ALP,2018-05-21,"
 
 
@@ -3049,7 +3173,7 @@ I'm very proud that Labor has committed to reviewing the nature of these payment
 
 So this government's budget strategy, which Ayn Rand would be proud of, I don't think is very sensible or well thought out or reasonable in the modern era. We are saying to the government: you are going down the wrong path; you need to reconsider. The Labor Party won't follow you down this path so you should split the bills, allow us to do taxation reform for those who need it and, for those who don't—the big corporates—we should leave them to do what they should do, which is invest, create jobs and pay taxes like everyone else. We should get back to having a sustainable fiscal strategy which provides tax relief to those who need it, which pays down debt and which allows us as a nation to provide the services that we need now such as schools and hospitals and that we will need for the future.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Evans, Trevor, MP",LP,2018-05-21,"
 
 
@@ -3117,7 +3241,7 @@ I want to spend a moment comparing and contrasting what I've just outlined to so
 
 Sadly, we all had to endure the opposition leader's budget reply speech a few weeks ago. For those lucky enough not to hear it, let me summarise it briefly. Labor essentially said that they would spend a stack of money that they don't have on all manner of things. They said that they could pay for it because they'll tax banks and big companies more. That's essentially what they said. So, 10 points out of 10 for the politics of division and envy, but, sadly, zero points for adding things up and zero points for honesty. If you look at their numbers, you'll see that there are no changes in the forward estimates to the taxes being paid by big businesses and banks—not in our forward estimates and not in theirs. In their forward estimates over the next four years, their biggest tax takes include $10 billion from retirees, which is the biggest; $6 billion in additional taxes on small and medium businesses, the ones that we just identified as having created all of the jobs and prosperity over the last year; $2 billion from home owners; and precisely zero in additional taxes from big businesses and banks. That stands in stark contrast to the multinational tax avoidance laws that this government's passed—sadly, without Labor's support.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Hayes, Chris, MP",ALP,2018-05-21,"
 
 
@@ -3182,7 +3306,7 @@ The mums and dads in my community are more concerned about what's happening in e
 
 We are privileged to be in this place. We are privileged to have the honour of representing our communities in this parliament. Not many people get this opportunity. When we're here, we should be trying to make a difference for the better in our community, not simply rattle off some lines about how this is the budget and we're going to do all these various things. We should, on both sides of the House, be trying to make a difference for the better. Quite frankly, after five budgets, I just do not think those opposite have that view in mind. Perhaps they think this is their ticket to another election. I've got to say: guys, I think you're mistaken on that as well. But, if you're not in this House with a genuine commitment to make a difference for the better in the community, you should not be here.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Wallace, Andrew, MP",LP,2018-05-21,"
 
 
@@ -3277,7 +3401,7 @@ Even if what passes for a moderate version of Labor's tax plan were enacted, the
 
 Whether he's the secretary of the AWU or the Leader of the Opposition, he has only one guiding principle—that is, selling out the people he's meant to represent in the interest of his own. That's how he ran the AWU back then. It's how he's running the Labor Party today. It will be how he runs the country if he is ever allowed to occupy the Lodge. In the end, there is only one Australian the Leader of the Opposition is looking out for, and that is the Leader of the Opposition himself. There is only one standard to which he holds his words and his actions, and that is naked self-interest. His colleagues know that, those present here tonight know that, his supporters know that and the people of Australia know that. They have seen through the shifty Leader of the Opposition, and when they have the chance next year they will, as we should today, shun his empty politics of selfishness and division and support the Turnbull government's plan for a stronger, more prosperous Australia.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Chesters, Lisa, MP",ALP,2018-05-21,"
 
 
@@ -3294,7 +3418,7 @@ Another area that this government hasn't been honest about is the cuts to early 
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Rishworth, Amanda, MP",ALP,2018-05-21,"
 
 
@@ -3327,7 +3451,7 @@ The NDIS needs to support and value people with a disability as individuals, and
 
 The NDIS under Labor was designed to alleviate the anxiety of family members. It was meant to be a lifetime of support to stop ageing parents worrying about what will happen to their children when they are no longer there. All I can say from families in my electorate is that it's causing more anxiety, not less—anxiety on a daily basis about what will happen to their children next week rather than in a few years time. It is time the government dealt with these issues immediately. (Time expired)
 
-",HoR,<title>ADJOURNMENT</title>,<title>National Disability Insurance Scheme</title>,ADJOURNMENT,22,1
+",HoR,<title>ADJOURNMENT</title>,<title>National Disability Insurance Scheme</title>,ADJOURNMENT,22,1,speech
 "Perrett, Graham, MP",ALP,2018-05-21,"
 
 
@@ -3344,7 +3468,7 @@ I had some great company for my walks—locals like Anna, Reeta and Eric, who jo
 
 It's been a great experience. I've seen a lot, I've heard from many and I've learnt heaps, but the Say G'day in May campaign is not over yet. This Friday, 25 May, I'm hosting a community groups showcase at the Wellers Hill Bowls Club between 10 am and 12 noon. I've asked local community groups to come along and showcase what they do, where they do it and when they meet. Thirty community groups will be on show, so I've asked everyone in Moreton to come along. They're invited to come and meet these community groups to say g'day to their neighbours in May. (Time expired)
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Moreton Electorate</title>,CONSTITUENCY STATEMENTS,24,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Moreton Electorate</title>,CONSTITUENCY STATEMENTS,24,1,speech
 "Husar, Emma, MP",ALP,2018-05-21,"
 
 
@@ -3445,7 +3569,7 @@ Mrs Wicks
 Dr Freelander:
   I second the motion and reserve my right to speak.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Wallace, Andrew, MP",LP,2018-05-21,"
 
 
@@ -3468,7 +3592,7 @@ While the NDIS may face challenges, we must reflect on how much worse the situat
 
 Under this government, the NDIS is fully funded and on track to roll out on time. As with any project of this size there are challenges to be overcome and where they are identified this government is responding with swift and prudent action. Personally, I cannot wait for the NDIS roll-out on the Sunshine Coast, from 1 January 2019.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Hill, Julian, MP",ALP,2018-05-21,"
 
 
@@ -3507,7 +3631,7 @@ The DEPUTY SPEAKER
 Mrs Wicks
 ):  I thank the member for Bruce. Before I call the member for Bennelong, I'd just like to issue a general reminder to the chamber and to the member for Bruce to direct remarks through the Chair, and also give a reminder to use moderate language in the chamber.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Alexander, John, MP",LP,2018-05-21,"
 
 
@@ -3530,7 +3654,7 @@ Naturally, the transition of such large-scale and established service provider s
 
 Another great NDIS success story in Bennelong is a local organisation called RASAID, the Ryde Area Supported Accommodation for Intellectually Disabled. I've spoken about RASAID a number of times in the past. RASAID brought together 19 local families to secure accommodation for their 20 children with intellectual disabilities and with high-care needs. Last year, upon hearing that RASAID was on the verge of closing its doors due to complications with supported independent living, I immediately approached Assistant Minister for Social Services and Disability Services, Jane Prentice, who boldly leapt into action and ensured the organisation was the beneficiary of an early trial of a new tool kit that ensured funding was secured. I cannot thank Assistant Minister Prentice enough for both her work for RASAID and her continued advocacy for the NDIS to ensure all Australians have— (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Templeman, Susan, MP",ALP,2018-05-21,"
 
 
@@ -3562,7 +3686,7 @@ They're the words of a mum who knows what our community needs. It's not Cameron'
 
 As many Hawkesbury and Blue Mountains residents know, neither place is completely accessible. In the Hawkesbury, we have bumpy and slanted walkways, a legacy of our heritage. We have heritage guttering, high enough to ensure that a trip down the street counts as a leg day at the gym. All of this is a challenge not just for wheelchairs but for prams and elderly walkers. The mountainous terrain naturally creates its own challenges, especially for people to access recreational areas. There is certainly a demand from the community for greater inclusivity in our play areas. I'm determined to see more inclusive facilities across Macquarie, and I'll be standing alongside Rachel and Cameron and other families to fight for what is their right and for a fair go.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Thistlethwaite, Matt, MP",ALP,2018-05-21,"
 
 
@@ -3591,7 +3715,7 @@ The NDIA have had a look at that and responded to that recommendation. In the ND
 
 It's not good enough to have this uncertainty about whether high-dependency support for families in vulnerable situations is going to be able to continue under the new service model. The NDIA have to get their act together. The minister has to step in here and get the NDIA to publish what they will do in the future to ensure that these service providers can continue to provide this support and, importantly, that the people with high-end needs who rely on these services can continue to get the supports to live fulfilling and rewarding lives.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Sudmalis, Ann, MP",LP,2018-05-21,"
 
 
@@ -3623,7 +3747,7 @@ Prior to attending Sunflower House, I was totally housebound. I would not even g
 
 Leanne has been accepted by the NDIS, but many of her new friends at Sunflower House have not, and she asked me to ask the government why not, for many of them with mental health problems are at the same risk as she was. I will ask and follow up.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Vamvakinou, Maria, MP",ALP,2018-05-21,"
 
 
@@ -3643,7 +3767,7 @@ So far the rate of approvals has been disappointing. Complaints by people trying
 
 One of my constituents, Andrew, attempted to access the NDIS and was refused for both the NDIS and the disability support pension. Andrew's a good example of someone who hasn't been able to convince, despite medical records, either providers that he is eligible. He has an impairment in his back, hip and shoulder that make it difficult for him to work. Andrew cannot stand for long periods of time, he cannot lift heavy things, he finds it difficult to write and has restricted movement when sitting. Andrew's treating doctor considered him eligible for the NDIS and the DSP. Despite this, an unnamed delegate told Andrew that he could not access the NDIS because the delegate was not satisfied that Andrew has a physical impairment. He is 64 years old and very soon he will not be able to even access the NDIS. He won't be able to access the age pension age pension for six month. So, the question is: what is someone like Andrew expected to do in order to support himself?
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Andrews, Kevin, MP",LP,2018-05-21,"
 
 
@@ -3666,7 +3790,7 @@ There are also issues in relation to the involvement of providers and their appr
 
 As I said, this is a work in progress. I welcome the specific measures that have been announced by the government in relation to the Early Childhood Early Intervention gateway, the introduction of typical support packages to benchmark the amount of support for participants with specific characteristics, the increases in risk-based quality assurance of the access and plan approval, the very necessary increase in staff training, and the redesign of the participant pathway to look at goals and sustainability in relation to participants themselves. It's a work in progress, but a very valuable scheme. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Freelander, Mike, MP",ALP,2018-05-21,"
 
 
@@ -3701,7 +3825,7 @@ The DEPUTY SPEAKER
 Ms Bird
 ):  The time allotted for this debate has expired. The debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Disability Insurance Scheme</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Bandt, Adam, MP",AG,2018-05-21,"
 
 
@@ -3715,7 +3839,7 @@ Those killed were participating in marches organised by Palestinian civil societ
 
 Australia should be affirming the right to political activity and condemning the killing of protesters. Australia should be recognising the Palestinian state and pushing for an end to the siege of Gaza and the right of return for Palestinian refugees.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Middle East</title>,STATEMENTS BY MEMBERS,26,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Middle East</title>,STATEMENTS BY MEMBERS,26,1,speech
 "Hayes, Chris, MP",ALP,2018-05-21,"
 
 
@@ -3819,7 +3943,7 @@ The DEPUTY SPEAKER
 Mrs Wicks
 ):  Is the motion seconded?
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Myanmar: Rakhine State</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Myanmar: Rakhine State</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
 "O'Neil, Clare, MP",ALP,2018-05-21,"
 
 
@@ -3839,7 +3963,7 @@ It is a massive humanitarian crisis. Even though we are very well aware of what'
 
 On 13 September last year, the UN Security Council agreed on a pretty strongly-worded statement on Myanmar, condemning the violence in the Rakhine region. It was the first time they'd done so in nine years. The United Nations Association of Australia has called on the Australian government to intensify our diplomatic efforts to try to help resolve this, and I want to join in those calls. As Australians, we have an important, respected voice in this region. We can't stand by while people who are our neighbours in South-East Asia are treated in this way. There are people there who are being treated in ways worse than anything, really, that we could imagine. I think we need to be doing a lot more to speak up, and I do so today on behalf of my Rohingyan residents.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Myanmar: Rakhine State</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Myanmar: Rakhine State</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Buchholz, Scott, MP",LP,2018-05-21,"
 
 
@@ -3853,7 +3977,7 @@ It is an issue that I do not profess to be a specialist in. Rather, I would spea
 
 In closing, I'd just like to acknowledge the member for Fowler for bringing this to the attention of the House.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Myanmar: Rakhine State</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Myanmar: Rakhine State</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Byrne, Anthony, MP",ALP,2018-05-21,"
 
 
@@ -3876,7 +4000,7 @@ One of the things that always concerns me—and I support this motion wholeheart
 
 My view is—and I put this forward not as a Labor Party policy but as an individual watching this genocide, with a growing sense of horror and dismay—that there should be some United Nations action invoked under the right to protect that population, because that is not occurring. I would urge the government, in a respectful way, in a bipartisan way, to take that action. It would show real leadership, which we should be showing in this region. We can't allow this sort of inhumanity to continue, particularly in this region but anywhere in the world. So, in supporting the member's motion, I would urge the government to take action under the provisions of the right to protect, to advocate for that, so that these people can no longer be wiped from the face of the planet, as they are now. 
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Myanmar: Rakhine State</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Myanmar: Rakhine State</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Perrett, Graham, MP",ALP,2018-05-21,"
 
 
@@ -3899,7 +4023,7 @@ Sadly, these refugees, having fled extreme violence, are now highly vulnerable t
 
 Labor has made formal representations to the Prime Minister and the foreign minister to do everything in the Turnbull government's power to respond to this escalating humanitarian crisis that is taking place in our backyard. We must speak up to set an example to the rest—not only to ASEAN countries, but to those in our backyard. So I make this request again to the Turnbull government to turn their gaze to the Rohingya crisis.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Myanmar: Rakhine State</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Myanmar: Rakhine State</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Aly, Anne, MP",ALP,2018-05-21,"
 
 
@@ -3919,4 +4043,32 @@ I hope that today's motion, and the number of members who have spoken on this mo
 
 Debate adjourned.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Myanmar: Rakhine State</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Myanmar: Rakhine State</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
+"Albanese, Anthony, MP",ALP,2018-05-21,"
+
+
+
+Mr Albanese
+  asked the Deputy Prime Minister and Minister for Infrastructure and Transport, in writing, on 1 March 2018:
+
+
+1) Is he aware that Commonwealth funding for the Australasian New Car Assessment Program runs out this financial year.
+
+
+2) Will he commit to providing this vital road safety organisation with long term certainty by agreeing to fund it for a further five years.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Australasian New Car Assessment Program (Question No. 945)</title>,QUESTIONS IN WRITING,28,1,question
+"McCormack, Michael, MP",Nats,2018-05-21,"
+
+
+
+Mr McCormack:
+  The answer to the honourable member's question is as follows:
+
+
+1) I have agreed to provide the Australasian New Car Assessment Program (ANCAP) with a total of $6.64 million in funding over the next five years (2018-19 to 2022‑2023).
+
+
+2) N/A.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Australasian New Car Assessment Program (Question No. 945)</title>,QUESTIONS IN WRITING,28,1,answer

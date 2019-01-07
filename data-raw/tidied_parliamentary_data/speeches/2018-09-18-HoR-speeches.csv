@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2018-09-18,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER
  (12:05):  I have received advice from the Chief Government Whip recommending a member to be a member of the Joint Standing Committee on Northern Australia.
 
-",HoR,<title>COMMITTEES</title>,<title>Northern Australia Committee</title>,COMMITTEES,1,1
+",HoR,<title>COMMITTEES</title>,<title>Northern Australia Committee</title>,COMMITTEES,1,1,speech
 "Irons, Steve, MP",LP,2018-09-18,"
 
 
@@ -20,7 +20,7 @@ That Mr O'Dowd be appointed a member of the Joint Standing Committee on Northern
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Northern Australia Committee</title>,COMMITTEES,1,1
+",HoR,<title>COMMITTEES</title>,<title>Northern Australia Committee</title>,COMMITTEES,1,1,speech
 "Smith, Tony, MP",LP,2018-09-18,"
 
 
@@ -28,7 +28,7 @@ Question agreed to.
 The SPEAKER
  (12:05):  I have received advice from the Chief Government Whip recommending a member to be a member of the Joint Standing Committee on Northern Australia.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,1,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,1,2,speech
 "Irons, Steve, MP",LP,2018-09-18,"
 
 
@@ -42,7 +42,7 @@ That Mr O'Dowd be appointed a member of the Joint Standing Committee on Northern
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,1,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,1,2,speech
 "Brodtmann, Gai, MP",ALP,2018-09-18,"
 
 
@@ -95,7 +95,7 @@ Australia is not immune here. If we do not get this right, we will become part o
 
 In closing, I just want to share some of the feedback I've had from Canberrans about My Health Record. A local medical practitioner wrote to me not long after the opt-out period began. He said, 'It's now been 50 minutes, and I still can't get through to a resolution of my request to opt out—trying to opt out online only to finally get the message, ""Unable to process your request."" How can the My Health Record system be trusted if they can't manage to deal with a simple online process?' Labor are not the only ones questioning the government's implementation of My Health Record. We've got Canberrans and health professionals doing it too. We must reassure Australians that the Digital Health Agency is cyber-resilient. We must reassure Australians that the networks that access this data comply with minimum cybersecurity standards. The government must reassure Australians that their personal data stored on My Health Record is secure and prove that the Department of Health and the agency are cyber-resilient. Only then can millions of Australians be assured their personal information will be safe.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Watts, Tim, MP",ALP,2018-09-18,"
 
 
@@ -160,7 +160,7 @@ We need to get better at this. Data governance and managing public anxieties abo
 
 Crucially, we also need to bring the public and the medical profession along with our thinking, something that this government has manifestly failed to do. To date, only around 13,000 provider groups have signed up to the My Health Record. That might sound impressive, but that's out of around 900,000 health professionals who could have signed on. To have a useful system, we need most of these groups to sign on. Although most hospitals have access to My Health Record, most have never looked up the system because a patient may not have a record if it's empty. Although there are significant public anxieties about the system, at this point there's not enough information for it to be useful in a practical sense for either patient or doctor. And so we come to the current situation: an angry and confused public that distrusts the My Health Record, a database used by only a small proportion of health practitioners and a government that has completely misunderstood what it takes to protect patients' privacy and data security.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Jones, Stephen, MP",ALP,2018-09-18,"
 
 
@@ -207,7 +207,7 @@ This is the next leap forward, so I am deeply concerned that, as we have this de
 
 My concern, I say in concluding, is that we do not let an acknowledged stuff-up by the government distract us from the course that is necessary, that we have these debates and that we land at a point where we can ensure that individuals, government and society as a whole can benefit from the next big revolution, which is unleashing data for our mutual benefit.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Husic, Ed, MP",ALP,2018-09-18,"
 
 
@@ -251,7 +251,7 @@ As the Australian Healthcare & Hospitals Association has told the Senate inquiry
 
 Again, these are not small things. They do require effort. They require a lot more time than what the government has said. I think the government needs to do a bigger job in terms of building public confidence in the system, particularly around the protection of data, recognising that people are much more alive to cybersecurity risks than ever before and, when the data is in the system, how it's being used by those who are supposedly allowed to access the data and how it might be used down the track in ways that people hadn't contemplated initially. It certainly needs way more time than the one month opt-out extension that we've seen by the government to date. This should be extended way further than what we are currently seeing. If the government fails to do that, then it comes to the very point I raised at the start of this, that they are not investing the time or care to ensure public confidence in this system.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Dick, Milton, MP",ALP,2018-09-18,"
 
 
@@ -328,7 +328,7 @@ As I indicated and as Labor speakers have said, the government's record on the r
 
 We must get this system right. Rather than pushing through legislation and patching it up as they go, quite frankly the government should suspend the opt-out period until these and other issues can be addressed. If the minister, his office or his advisers are listening to this, and if you don't take my word for it, listen to the one million Australians who are concerned and are voting with their feet. Talk to your constituents who are raising concerns. I have no doubt members of the government are getting the same sorts of phone calls, emails and stress out there in community from health professionals and from people in the legal profession. It is time that the government stopped fighting amongst themselves; stopped trying to grief, bully and undermine each other; and actually started doing their job in this parliament, which is to listen to the community and start delivering what the community needs and, more importantly, what the community needs to keep them safe and protected. Australia's sensitive health data is of the utmost of importance. I call on members of the government to support the amendments that we have moved in this place to get it right.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Thistlethwaite, Matt, MP",ALP,2018-09-18,"
 
 
@@ -366,7 +366,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  The debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Brodtmann, Gai, MP",ALP,2018-09-18,"
 
 
@@ -419,7 +419,7 @@ Australia is not immune here. If we do not get this right, we will become part o
 
 In closing, I just want to share some of the feedback I've had from Canberrans about My Health Record. A local medical practitioner wrote to me not long after the opt-out period began. He said, 'It's now been 50 minutes, and I still can't get through to a resolution of my request to opt out—trying to opt out online only to finally get the message, ""Unable to process your request."" How can the My Health Record system be trusted if they can't manage to deal with a simple online process?' Labor are not the only ones questioning the government's implementation of My Health Record. We've got Canberrans and health professionals doing it too. We must reassure Australians that the Digital Health Agency is cyber-resilient. We must reassure Australians that the networks that access this data comply with minimum cybersecurity standards. The government must reassure Australians that their personal data stored on My Health Record is secure and prove that the Department of Health and the agency are cyber-resilient. Only then can millions of Australians be assured their personal information will be safe.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Watts, Tim, MP",ALP,2018-09-18,"
 
 
@@ -484,7 +484,7 @@ We need to get better at this. Data governance and managing public anxieties abo
 
 Crucially, we also need to bring the public and the medical profession along with our thinking, something that this government has manifestly failed to do. To date, only around 13,000 provider groups have signed up to the My Health Record. That might sound impressive, but that's out of around 900,000 health professionals who could have signed on. To have a useful system, we need most of these groups to sign on. Although most hospitals have access to My Health Record, most have never looked up the system because a patient may not have a record if it's empty. Although there are significant public anxieties about the system, at this point there's not enough information for it to be useful in a practical sense for either patient or doctor. And so we come to the current situation: an angry and confused public that distrusts the My Health Record, a database used by only a small proportion of health practitioners and a government that has completely misunderstood what it takes to protect patients' privacy and data security.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Jones, Stephen, MP",ALP,2018-09-18,"
 
 
@@ -531,7 +531,7 @@ This is the next leap forward, so I am deeply concerned that, as we have this de
 
 My concern, I say in concluding, is that we do not let an acknowledged stuff-up by the government distract us from the course that is necessary, that we have these debates and that we land at a point where we can ensure that individuals, government and society as a whole can benefit from the next big revolution, which is unleashing data for our mutual benefit.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Husic, Ed, MP",ALP,2018-09-18,"
 
 
@@ -575,7 +575,7 @@ As the Australian Healthcare & Hospitals Association has told the Senate inquiry
 
 Again, these are not small things. They do require effort. They require a lot more time than what the government has said. I think the government needs to do a bigger job in terms of building public confidence in the system, particularly around the protection of data, recognising that people are much more alive to cybersecurity risks than ever before and, when the data is in the system, how it's being used by those who are supposedly allowed to access the data and how it might be used down the track in ways that people hadn't contemplated initially. It certainly needs way more time than the one month opt-out extension that we've seen by the government to date. This should be extended way further than what we are currently seeing. If the government fails to do that, then it comes to the very point I raised at the start of this, that they are not investing the time or care to ensure public confidence in this system.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Dick, Milton, MP",ALP,2018-09-18,"
 
 
@@ -652,7 +652,7 @@ As I indicated and as Labor speakers have said, the government's record on the r
 
 We must get this system right. Rather than pushing through legislation and patching it up as they go, quite frankly the government should suspend the opt-out period until these and other issues can be addressed. If the minister, his office or his advisers are listening to this, and if you don't take my word for it, listen to the one million Australians who are concerned and are voting with their feet. Talk to your constituents who are raising concerns. I have no doubt members of the government are getting the same sorts of phone calls, emails and stress out there in community from health professionals and from people in the legal profession. It is time that the government stopped fighting amongst themselves; stopped trying to grief, bully and undermine each other; and actually started doing their job in this parliament, which is to listen to the community and start delivering what the community needs and, more importantly, what the community needs to keep them safe and protected. Australia's sensitive health data is of the utmost of importance. I call on members of the government to support the amendments that we have moved in this place to get it right.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Thistlethwaite, Matt, MP",ALP,2018-09-18,"
 
 
@@ -690,7 +690,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  The debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Kearney, Ged, MP",ALP,2018-09-18,"
 
 
@@ -710,7 +710,7 @@ The people asking for marine parks understand this for what it is: good housekee
 
 I thank my wonderfully engaged constituents for writing to me about this. I'm proud to be a member of the Labor Party, which is committed to restoring the 2012 marine park network in full.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Marine Sanctuaries</title>,STATEMENTS BY MEMBERS,3,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Marine Sanctuaries</title>,STATEMENTS BY MEMBERS,3,1,speech
 "Smith, Tony, MP",LP,2018-09-18,"
 
 
@@ -728,7 +728,143 @@ Honourable members having stood in their places—
 
 The SPEAKER:  I thank the House.
 
-",HoR,<title>CONDOLENCES</title>,"<title>McKiernan, Mr James Philip 'Jim'</title>",CONDOLENCES,4,1
+",HoR,<title>CONDOLENCES</title>,"<title>McKiernan, Mr James Philip 'Jim'</title>",CONDOLENCES,4,1,speech
+"Shorten, Bill, MP",ALP,2018-09-18,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:01):  My question is to the Prime Minister. Is the Prime Minister aware of a leaked email from the Treasurer's office which contains, and I quote, 'Further questions from the Treasurer'? It goes on to ask whether it's correct that the now Prime Minister cut billions from aged care. Therefore, has the Prime Minister briefed the Treasurer on his 2016 budget, which confirms that the now Prime Minister cut $1.2 billion from aged care?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Aged Care</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Morrison, Scott, MP",LP,2018-09-18,"
+
+
+
+Mr MORRISON
+ (Cook—Prime Minister) (14:02):  Once again, the reason that I am seeking to establish, and will be establishing, a royal commission into the aged-care sector is so that we can have a serious discussion about what is needed in the aged-care sector based on facts. Based on actual facts, not based on the lies of the Labor Party and not based on the agendas of others. All of these things can be put aside and we can focus on the needs of senior Australians in their most urgent time of vulnerability and need.
+
+
+Once again, the Labor Party has raised the issue of decisions taken in the 2016 budget. In the 2012 budget, exactly the same decision was taken by the Labor Party in relation to the Aged Care Funding Instrument to ensure that the proper assessments were being made and that overestimations of demand were not being built into future budgets. There was a variation of $1.6 billion by the Labor Party in the 2012 budget.
+
+
+Mr Speaker, I am not making any claims about that. I understand how the ACFI model works. I've put budgets together—three very good budgets, in fact, which are reducing the deficit, bringing the budget back into balance and funding essential services, particularly for aged care, which is increasing by a billion dollars and more every single year under our government. Now, the Labor Party might want to engage in these tactics here in this chamber, but all they are telling senior Australians is that they are more interested in politics than in looking after aged care.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Aged Care</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Bandt, Adam, MP",AG,2018-09-18,"
+
+
+
+Mr BANDT
+ (Melbourne) (14:17):  My question is to the Minister for Energy. Investment in renewables in 2018 and 2019 is at record highs, and even the Reserve Bank has said this investment pipeline will bring down prices. As the PM has acknowledged, it's the Renewable Energy Target driving this investment in new generation, while also cutting pollution. But the RET runs out in 2020 and there's currently no policy to take its place, which threatens investment decisions being made right now. To stop renewables falling into a valley of death while parliament works out a new energy policy, will you agree to the Greens proposal of a stopgap extension of the RET out to 2022, or is your goal to be the grim reaper for renewable energy by letting renewables fall into the valley of death?
+
+
+
+Mr Pyne interjecting—
+
+
+
+The SPEAKER:  The Leader of the House will cease interjecting. 
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Renewable Energy</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Taylor, Angus, MP",LP,2018-09-18,"
+
+
+
+Mr TAYLOR
+ (Hume—Minister for Energy) (14:18):  I thank the member for his question. The truth of the matter is that the Renewable Energy Target is going to wind down from 2020. The target reaches a peak in 2020, and we will not be replacing that with anything. We know that we will reach the 26 per cent emissions reduction target without additional intervention. We are very confident. There is no need to have subsidies in place, because we are going to reach the 26 per cent emissions reduction target without further intervention.
+
+
+Let me tell you this: we have seen the experiment of 50 per cent renewable energy targets in this country in South Australia. We saw it there, and the results were shocking.
+
+
+
+Ms Keay interjecting—
+
+
+
+The SPEAKER:  The minister will pause for a second. I've cautioned the member for Braddon numerous times. She will leave under standing order 94(a).
+
+
+
+
+The member for Braddon then left the chamber
+.
+
+
+
+
+
+Mr TAYLOR:
+  We have seen the results, where in South Australia we now have prices at around 50c per kilowatt hour. They are amongst the highest in the country. We have also seen that, despite the fact that with 50c a kilowatt hour, you would expect to have high service levels and reliability, you are not getting that. South Australia is a great state, but it is held back by one key factor, which is the high prices of energy, which is driven by an absolutely unacceptable target. Those opposite want to have a 45 per cent emissions reduction target and a 50 per cent Renewable Energy Target. They want to take Jay Weatherill's experiment and take it national. The result will be that we will all pay more for our electricity.
+
+
+We are absolutely confident that in the absence of those subsidies we will get the investment we need in the network, and we're doing that through our plan, which has three parts. The first of those parts is that we're going to back investment in new generation. We're going to back investment in fair dinkum, reliable generation, because that's what this country needs. It doesn't need to be stuck with intermittent generation that drives up prices and drives down reliability.
+
+
+On top of that, we will be setting a retail price safety net for all customers—it is those most in need who need this most, the sort of people who you would typically care for but you don't care for anymore. We are stopping the rip-offs from the big energy companies. We will drive prices down. That is our policy. Those opposite will drive them up.
+
+
+
+Mr Conroy interjecting—
+
+
+
+The SPEAKER:  The member for Shortland is warned.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Renewable Energy</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
+"Collins, Julie, MP",ALP,2018-09-18,"
+
+
+
+Ms COLLINS
+ (Franklin) (14:24):  My question is to the Minister for Senior Australians and Aged Care. In the last two financial years the Australian Aged Care Quality Agency reported a near tripling of concerns that accreditation standards for aged-care facilities were not being met. Given the minister is responsible for overseeing the agency, and has been the minister responsible for over 30 months, what warnings did he receive about the type of poor care and treatment that was revealed on Four Corners and when did he receive them?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Aged Care</title>,QUESTIONS WITHOUT NOTICE,10,1,question
+"Wyatt, Ken, MP",LP,2018-09-18,"
+
+
+
+Mr WYATT
+ (Hasluck—Minister for Senior Australians and Aged Care and Minister for Indigenous Health) (14:25):  I thank the member for Franklin for her question. Since becoming involved in the portfolio I have frequently been in and out of aged-care facilities right across this nation, so I've become aware of incidents as they occur. When you talk to people locally and meet with families who have been affected, as I have done—I've met with Noleen Hausler, for example; I listened to the issues that she raised with me.I meet regularly with the quality agency and, in meeting with the quality agency, we talk about the reports that are absolutely critical for those matters that I have referred to the quality agency.
+
+
+In that time within the portfolio and particularly following Oakden, what I did is I set about ensuring that we would make changes to the commission, that we would bring together the aged-care and quality components under one commission that would seek to be more expedient and efficient in dealing with critical issues. I have kept myself across the issues. In South Australia the member for Hindmarsh, who has worked very closely with his community, has raised issues with me. Leon Byner has interviewed me, and each time that matters have been raised I've given a commitment that our government will address them and will follow through and make sure that people are taken care of in times of crisis. I met with the families from Oakden. Senator Xenophon brought them to Parliament House. I met with them. I listened to their issues, and what I was very keen to do was to make sure that our government would focus on ensuring quality was in place for all Australians, hence the legislation that has passed through this chamber, both—
+
+
+
+Ms Collins interjecting—
+
+
+
+
+
+Mr WYATT:
+  It doesn't matter. Each time, Member for Franklin, when issues have been raised with me, we have acted on them. Let me say that, when we had the Carnell-Paterson review, the review was announced on 1 May 2017, and the report came to me on 2 October 2017. The report was released on 25 October. I immediately announced that unannounced reaccreditation audits would apply to every aged-care facility so that none of them would prepare in advance. The Aged Care Quality and Safety Commission is being established. Improving regulation of aged-care quality, strengthening aged-care compliance, a single quality framework, the Tune legislated review—we're acting on them. All of them are focusing on better care and better opportunities for Australians. Let me say that we will continue to tackle those issues and incidents as they arise. Oakden was the most significant one because it was the most public in the reporting in two reports, one undertaken by the Chief Psychiatrist, the other undertaken by a barrister from ICAC. We have continued to make sure that the reforms that we are putting in place continue to have the level of impact that is needed. (Time expired)
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Aged Care</title>,QUESTIONS WITHOUT NOTICE,10,1,answer
+"Wicks, Lucy, MP",LP,2018-09-18,"
+
+
+
+Mrs WICKS
+ (Robertson) (14:36):  My question is to the Minister for Jobs and Industrial Relations and Minister for Women. Will the minister update the House on how the government's plan for a stronger economy is helping older Australians who want to remain part of the workforce? Is the minister aware of any threats to the livelihoods of older Australians posed by different approaches?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Mature Age Workers</title>,QUESTIONS WITHOUT NOTICE,12,1,question
+"O'Dwyer, Kelly, MP",LP,2018-09-18,"
+
+
+
+Ms O'DWYER
+ (Higgins—Minister for Jobs, Industrial Relations and Women) (14:36):  I thank the member for Robertson for her question. She is indeed in this place a very powerful advocate for older Australians. She, like the government, recognises the great skills and experiences that mature-age workers bring to the workforce. She knows that their skills and experiences are refined over a period of time over a long career and, of course, are ready to be harnessed by employers who want people with those skills and experiences. The government also understands that, quite aside from the obvious financial benefits that go with getting a job, continuing to have mature-age workers in the workforce getting a job can improve health outcomes, contribute to self-esteem and have social and emotional benefits for those workers. It is for this reason that the government has invested in a range of programs that help older Australians who want to find a job or who want to upskill.
+
+
+The government is working with industry via a collaborative partnership on mature-age employment to promote the benefits of recruiting and retaining older Australians and to help employers have a more age-diverse workforce. We're also investing $17.7 million to encourage entrepreneurship and self-employment amongst mature-age Australians by expanding entrepreneurship facilitators in a program that extends them out to more than 20 different locations across the country. We are rolling out the Career Transition Assistance program a year earlier so that mature-age workers can seek the benefits sooner from guidance and training so that they can be competitive in their local job market.
+
+
+More than 360,000 jobs have been created for mature-age workers since this government came to office. Of course, we have a very proud record when it comes to jobs. We have created more than 1.1 million jobs since we came to government. We are actively out there working to make sure that older Australians who want a job have the opportunity to get a job so that they can have money in their pockets, and we're delivering those results. But what about those opposite? They are actively looking to take money out of the pockets of older Australians; not helping them to get into a job to put money into their pockets. The way that they are doing this is through their mega retiree tax, which will hit around 900,000 Australians, picking the pockets and the handbags of grandmothers and grandfathers right across our nation. It is not something that is right, and it is certainly not something on this side of the chamber that we would stand for.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Mature Age Workers</title>,QUESTIONS WITHOUT NOTICE,12,1,answer
 "Smith, Tony, MP",LP,2018-09-18,"
 
 
@@ -736,7 +872,7 @@ The SPEAKER:  I thank the House.
 The SPEAKER
  (15:11):  I advise the House that I have received a letter from the Speaker of the Legislative Assembly of the Australian Capital Territory, enclosing a copy of a remonstrance addressed to the President of the Senate and senators in relation to democratic rights of citizens of the ACT. The Speaker of the Legislative Assembly requests that as this is a matter affecting both houses of the Commonwealth Parliament I make the House aware of the remonstrance. I present a copy of the letter and the remonstrance.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Legislative Assembly of the Australian Capital Territory: Remonstrance</title>,STATEMENT BY THE SPEAKER,14,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Legislative Assembly of the Australian Capital Territory: Remonstrance</title>,STATEMENT BY THE SPEAKER,14,1,speech
 "Leigh, Andrew, MP",ALP,2018-09-18,"
 
 
@@ -744,7 +880,7 @@ The SPEAKER
 Dr LEIGH
  (Fenner) (15:11):  on indulgence—For the first time in its 29-year history, the Australian Capital Territory Legislative Assembly has brought to this parliament a message of remonstrance, and it does this asking that the ACT assembly have removed the bar to it having the deeply difficult conversation about voluntary assisted dying. It was 21 years ago that this parliament took that power away from the ACT assembly. Since then, the Victorian parliament has passed laws on euthanasia, and the ACT assembly is remonstrating with this parliament for that right to be restored. I call on the government to bring forward for debate the private member's bill, Restoring Territory Rights Bill 2018, moved by myself and the member for Solomon, Luke Gosling, so that we can have this debate in this place now.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Legislative Assembly of the Australian Capital Territory: Remonstrance</title>,STATEMENT BY THE SPEAKER,14,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Legislative Assembly of the Australian Capital Territory: Remonstrance</title>,STATEMENT BY THE SPEAKER,14,1,speech
 "Smith, Tony, MP",LP,2018-09-18,"
 
 
@@ -765,7 +901,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Collins, Julie, MP",ALP,2018-09-18,"
 
 
@@ -803,7 +939,7 @@ We need transparency. If you want a royal commission that actually looks at all 
 
 We've got legislation coming into the parliament this afternoon that I will be talking on. It is actually joining up the quality agency and the complaints commission. I thank the minister for the briefing that I received on that, but I've asked the department and the minister: can the commissioner actually arbitrate on complaints when people make them? Are people actually protected when they make a complaint? Can we actually improve the system? Are there any penalties payable for providers who do the wrong thing, apart from accreditation failures? So much more needs to be done. We cannot wait two years for the end of a royal commission for it to be fixed. The system is in crisis. Labor have been saying it's in crisis, and the government criticised us for it. Now there's a royal commission. We want action today. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Wyatt, Ken, MP",LP,2018-09-18,"
 
 
@@ -835,7 +971,7 @@ I want to acknowledge the contribution that workers in aged care make. We stand 
 
 Our focus on the needs of senior Australians has not diminished. We will continue to ensure that the work that we do and we've continued in conjunction with the aged-care sector—the providers, the department, all key stakeholders, the carers and the Older Persons Advocacy Network—will be done in tandem together to make sure that what is provided is of quality and that where there is risk it will be called out. I would encourage staff to use the 1800550552 number to lodge their concerns. It is confidential and we've had staff ring that number. The agencies shown in Four Corners last night will receive a visit from the relevant agencies to follow up on the issues raised in the Four Corners program. That will occur this week. I will continue to work with our government to make sure that the matters shown in Four Corners are addressed. I rang Four Corners after the program last night and acknowledged that their stories provided insight into those matters that a quality agency would not have seen—particularly the night-time events—and that the staff, if they ring, will enable the quality agency to become involved. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Claydon, Sharon, MP",ALP,2018-09-18,"
 
 
@@ -852,7 +988,7 @@ The Minister got it terribly wrong when he accused Labor of scaremongering on th
 
 Well, do you know what, Minister, and this government? You don't have to wait for a royal commission to do something about this. Release those in-home packages now. Stop stumping up your tax breaks to the big end of town and put that money where it's needed and where it deserves to be spent. Older Australians do not have to wait for you to have a royal commission so you can act. You need to drive down those waitlists and you need to do it now.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Landry, Michelle, MP",Nats,2018-09-18,"
 
 
@@ -881,7 +1017,7 @@ We are doing these things and so much more, while those opposite can only jeer a
 
 The truth is we take the health and welfare of our older Australians absolutely seriously. Just recently, I was proud to be able to deliver $1.2 million to Mercy Health and Aged Care in Rockhampton to help them expand their Bethany aged-care facility to encompass a new community centre. This project is all about making it easier for elderly residents in Bethany to interact with younger generations in a shared space housing extra services. This makes a lot of sense to anyone whose loved ones have ended up in a home and felt cut off from the outside world.. Re-establishing this connection will promise to make life more enjoyable and help keep older minds sharp. This is a great measure, and so are the myriad of other measures Minister Wyatt and the government are implementing, despite protests from across the aisle. Once again we see an issue we as the federal government wish to properly address, and the naysayer attitude of those opposite comes to the fore. Labor's spinning every false yarn under the sun to justify claims we are not doing our job. It's not going to work, because the Australian people are sick and tired of that. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Freelander, Mike, MP",ALP,2018-09-18,"
 
 
@@ -907,7 +1043,7 @@ It is time the Liberals and the Nationals started doing better in this critical 
 
 My only concern is that the royal commission may delay urgently needed reforms. Many people in aged care are extremely vulnerable. They often have very short life expectancies and deserve to be kept as comfortable as they possibly can be. We have heard horrific stories of what has happened in a poorly resourced aged-care system. In particular, we've seen people dying at home without getting the care they so desperately need. We should not delay urgently needed reforms and we must act now to protect our most vulnerable. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Crewther, Chris, MP",LP,2018-09-18,"
 
 
@@ -927,7 +1063,7 @@ I've listened to those opposite, and I wish that they would take a bipartisan ap
 
 As the royal commission goes about its work, our rigorous reform program continues. We commissioned, for example, the Review of National Aged Care Quality Regulatory Processes because we know about these issues, as, I'm sure, Labor did when they were in government during the six years between 2007 and 2013. And we have been taking action while, at the same time, calling for a royal commission to dig even deeper into the issues facing the sector. For example, we've actioned the 10 recommendations, including quality audits and creating the new tough cop on the beat—the Aged Care Quality and Safety Commission. We have worked through the 2017 Legislated Review of Aged Care and responded in the 2018 budget with the More Choices for a Longer Life package, supporting active ageing and providing an extra $1.6 billion for home care. We have legislated for new aged-care quality standards—the first upgrade in 20 years. Just last week, we released Australia's first Aged Care Workforce Strategy to rapidly grow the professional care workforce, and we've greatly increased our home care packages. We stand with all Australians in supporting the overwhelming majority of the nation's more than 2,700 aged-care homes that provide quality care. There are many dedicated staff—over 360,000—who do a great job, but we need to tackle the issues facing the sector as we are doing through the royal commission, and I call for a bipartisan approach to the aged-care sector.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Georganas, Steve, MP",ALP,2018-09-18,"
 
 
@@ -944,7 +1080,7 @@ We've had three different aged-care ministers across the Abbott-Turnbull-Morriso
 
 Unfortunately, like many other things in this place with this current government, the focus is on the rich end of town, where we're giving billions of dollars of tax cuts and billions and billions to multinationals. But what we're doing in our aged-care sector is taking money away. Earlier, someone on the other side said that they've increased the funding, but that is not correct. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Alexander, John, MP",LP,2018-09-18,"
 
 
@@ -964,7 +1100,7 @@ Ken Wyatt is not afraid of the truth. He wants the entire unvarnished truth. Tha
 
 There are huge issues and challenges involved in addressing the aged-care sector. The government is committed to seeing the sector improve, led by the most committed aged-care minister I have witnessed in the eight years that I've been here in this place. This royal commission is an opportunity for all sides of politics to gain the facts from which better policies can be developed to improve the lives of older Australians. This vulnerable community of elderly and frail Australians deserves better than to seemingly be used as a political football by the mover of this MPI motion. I look forward to working further on aged care with this committed minister. I look forward to reading the recommendations of the royal commission and then working with all sides of politics to make the system better.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "McBride, Emma, MP",ALP,2018-09-18,"
 
 
@@ -990,7 +1126,7 @@ It always strikes me as well that one of the aspects of problems in the aged-car
 
 It must change. There is a crisis in aged care. People like Tom and Coral can't wait. People post strokes can't wait for the intervention that they need, which will give them the quality of life that they deserve. Our aged-care system is in crisis. It is shameful: $2 billion of cuts from this Prime Minister, and then belatedly calling a royal commission. This is urgent. The government must act now on the information that they have about the crisis in aged care.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Pitt, Keith, MP",Nats,2018-09-18,"
 
 
@@ -1056,7 +1192,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  The discussion is now concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aged Care</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Broadbent, Russell, MP",LP,2018-09-18,"
 
 
@@ -1094,7 +1230,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  The debate is adjourned and the resumption of the debate will be made an order of the day on the next day of sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,16,1
+",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,16,1,speech
 "Broadbent, Russell, MP",LP,2018-09-18,"
 
 
@@ -1108,7 +1244,7 @@ That the order of the day be referred to the Federation Chamber for debate.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,16,1
+",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,16,1,speech
 "Broadbent, Russell, MP",LP,2018-09-18,"
 
 
@@ -1146,7 +1282,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  The debate is adjourned and the resumption of the debate will be made an order of the day on the next day of sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,16,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,16,2,speech
 "Collins, Julie, MP",ALP,2018-09-18,"
 
 
@@ -1175,7 +1311,7 @@ Clearly, when over a million Australians have opted out, there are still some co
 
 I'm obviously supporting the amendment moved by the member for Ballarat. I've spoken to the member for Ballarat about my concerns for people with mental ill health and their concerns and the concerns that are being raised with me every day. She has been extraordinarily responsive, because she understands this issue, I think, better than the government. Quite frankly, the Minister for Health doesn't seem to understand quite how concerned the community is, but when over one million Australians have already opted out—and we don't know how many more will between now and November—clearly something has to change. Clearly there's a problem here, and the government needs to do something about it.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1,speech
 "Stanley, Anne, MP",ALP,2018-09-18,"
 
 
@@ -1201,7 +1337,7 @@ A Labor government will deliver e-health reforms but put the privacy and securit
 
 This government's failings on My Health Record should come as little surprise to all of us in the House. This is a government with an appalling track record in delivering efficient, secure IT services. They've botched the rollout of the NBN, they've botched the rollout of the NDIS, we had the census issues, and now we seem to have botched the My Health Record all the way through. It is very important that we get this right to deliver the important reforms that My Health Record could deliver.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1,speech
 "Zappia, Tony, MP",ALP,2018-09-18,"
 
 
@@ -1242,7 +1378,7 @@ Because of the uncertainty, the benefits that the My Health Record system was li
 
 Some of the people that are going to be worst affected by all of this are people that live in country Australia, because people that live in country Australia, for a whole raft of other reasons, are also very likely to need to see a health professional away from their normal place of residence. Again, it would seem to me that the bungling of this service by this government is going to make it more difficult for those people as well. If they are away from home and they have to see a doctor or go to the emergency department of a hospital outside of their normal address, then all of their medical information that would have been absolutely vital to the best treatment that they require would not be with them, because the system itself doesn't provide it. That's why we supported a My Health Record system in this place five or six years ago, because it was in the public interest to do so. What I see now through this government's bungling is a system that was well intended, and still is, that is likely to be undermined not just for a temporary period whilst we sort out the problems but for a long time to come. With that, the benefits that were hoped for as a result of it will be lost.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1,speech
 "McBride, Emma, MP",ALP,2018-09-18,"
 
 
@@ -1307,7 +1443,7 @@ The PSA provides these suggestions for measures which pharmacists believe may he
 
 I am pleased that the Senate has agreed to Labor's proposal for an inquiry into My Health Record as a whole. This will deal with broader issues beyond the scope of this bill, such as the government's decision to shift to an opt-out system from an opt-in system, its communication of this fundamental change, and default settings within the record. I hope that the outcomes of this inquiry will assist in improving public understanding of and participation in My Health Record. This will give My Health Record the best chance of the success it was designed to achieve for individuals, health practitioners, carers, the healthcare system and the government.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1,speech
 "Claydon, Sharon, MP",ALP,2018-09-18,"
 
 
@@ -1351,7 +1487,7 @@ As I mentioned earlier, Labor are a big supporter of electronic health record pr
 
 In summary, in the hands of a competent government, e-health records have the potential to be a game changer for our health systems. They can reduce the stakes, improve outcomes and, indeed, save billions. Labor, I repeat, want the My Health Record to work—but this government has done such an utter botched job of it so far. It took an opt-in system which had been functioning effectively for years and turned it into a public outrage almost overnight. It tried to impose an opt-out model which presumed consent without giving thought to what this might mean for privacy or data security and then it was surprised when there was a public backlash. It's astonishing that the government should be surprised by the backlash. The government failed to consult, it failed to communicate and it failed to correct when it became abundantly clear what a debacle the rollout was turning into. But, most importantly, it failed to adequately consider the privacy and security of millions of Australian men, women and children when it made decisions around the treatment of their most personal medical data. This legislation fixes some very specific issues with the My Health Record rollout, but it doesn't go near fixing the damage the government has done to public confidence.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1,speech
 "Georganas, Steve, MP",ALP,2018-09-18,"
 
 
@@ -1389,7 +1525,7 @@ While doubts remain, as I said, for experts in the health and IT sectors, it's r
 
 It's a great thing. It's a fantastic thing to be able to go anywhere in the nation—and we are a nation, after all. We're not a section of six different countries with a couple of territories. People should be able to access their records at any health centre, at any GP or at any hospital anywhere in the country. And this, as I said earlier, will save lives, so we need to ensure that the government informs the public, lets them know how this will work, informs them of the importance of it, and absolutely guarantees that it is tight and that nothing will be leaked.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1,speech
 "Elliot, Justine, MP",ALP,2018-09-18,"
 
 
@@ -1469,7 +1605,7 @@ That particular method of communication can be through a whole range of media ov
 
 To do that we need a competent and functioning government—not the muppet show we have at the moment—that can put a proper e-health system in place so people have the trust that, when they access a number of health professionals, they won't be terrified as to where their health records will end up, but given the bungling of this government, a lot of work has to be done because of the shambles it is in. We have to find a way through this because e-health provides a great way to move into the future of healthcare systems. It will take a long time and a lot of commitment as to communication and the way this government speaks to people about the benefits of the e-health system, which can be done only if we see all the privacy and security provisions improved so we can have an effective and functioning e-health and My Health Record system for people to access.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1,speech
 "Hill, Julian, MP",ALP,2018-09-18,"
 
 
@@ -1540,7 +1676,7 @@ To have to watch the show
 
 You're not taking this seriously. I believe that these things have to be looked at now, before this legislation passes the House or the parliament and before the rollout continues. It's critical if we're going to have real public confidence in this system, which we should all be seeking and which is so important. If we can get it right, we can build trust with the Australian people in the rollout of this system.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1,speech
 "Sharkie, Rebekha, MP",CA,2018-09-18,"
 
 
@@ -1572,7 +1708,7 @@ There is no doubt that these issues require further scrutiny. In saying that, I 
 
 I do have some sympathy for the government. I can't imagine that getting accurate information out into the community was an easy task, and so an opt-out scheme would no doubt significantly increase the number of people captured under the scheme, but the information being collected is the clearest example of private and personal information. When we are concerning ourselves with this sort of information, I think we need to make sure that those of us who are handing over our medical histories to the mercy of a government server are doing so with our eyes wide open. In conclusion, I offer my support to this bill, but it is qualified support. I want to make it clear that I will continue to speak with my Senate colleagues to determine what, if any, amendments should be made following the release of the committee report.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1,speech
 "Wallace, Andrew, MP",LP,2018-09-18,"
 
 
@@ -1625,7 +1761,7 @@ The amendments can be briefly and simply described. However, these practical and
 
 I'd encourage all my constituents in Fisher to find out more about My Health Record before the new extended opt-out deadline of 15 November this year. I encourage them to be fully informed, to understand the system and the privacy controls available to them. And I encourage them, when they are fully informed, to stay opted into the system, to enjoy the significant benefits that it will bring. If any of my constituents are unable to find the information that they need in order to make an informed choice, my office and I will be very happy to answer any questions that they may have. It's important that we grow and maintain public confidence in the My Health Record system. The system will avoid unnecessary hospital admissions, reduce overdoses and allergic reactions, better coordinate care and facilitate better treatment decisions. In the context of the 21st century medicine going on on the Sunshine Coast and all over Australia today, it is the right solution and will only become more necessary over time.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1,speech
 "Laming, Andrew, MP",LP,2018-09-18,"
 
 
@@ -1675,7 +1811,7 @@ We've had debates over the weekend on the tragic circumstances around the Defqon
 
 Few would dispute that Australia has among the top handful of health systems in the world, with the most highly trained health professionals, so we need to make sure that we have a purpose-built, fit-to-last electronic health record that can do the job for this great nation. The Medicare system has a GP centred approach. It's one that we're extremely proud of and will defend. We defend the team based arrangements that exist for the highest need Australians, because the average Australian visits a doctor around seven times a year and accesses way more Medicare services than that. When that occurs, Australians who wish to will have all of that information on a medical health record.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1,speech
 "Howarth, Luke, MP",LP,2018-09-18,"
 
 
@@ -1716,7 +1852,7 @@ Members opposite have also raised concerns about partner separation, which is va
 
 In conclusion, as I've said, almost six million people have signed up. Only three per cent of the population have opted out. I encourage people in my electorate to get onto the my.gov.au website and create an account. There'll be some ID questions there. You'll need a user name, an email and a password. I encourage you to do that and take control. It's not that hard to do, but, if you do have an issue and you live in my electorate, feel free to call or email my office. I'd be very happy to assist. If you live outside my electorate, contact one of the 12 senators in Queensland, and it is the same throughout every state. I'm very pleased to be able to support this bill. 
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1,speech
 "Alexander, John, MP",LP,2018-09-18,"
 
 
@@ -1778,7 +1914,7 @@ When more people are healthier and when they recover quicker from ailments, the 
 
 I commend to the House this bill and the amendments that provide certainty for Australians and I look forward to not opting out of this brilliant new health reform. Unlike the previous speaker, the member for Petrie, Luke Howarth, I have not had the same doctor since my birth, for obvious reasons, and I'm glad that we live in a country where people come first and where they can opt out if they want, for it is choice that makes our country the great country that it is.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1,speech
 "Broadbent, Russell, MP",LP,2018-09-18,"
 
 
@@ -1816,7 +1952,7 @@ I know that, if we were not in government today and the opposition were in gover
 
 So, I commend the bill to you. I hope we take this opportunity to pass it with enthusiasm and give people the freedom to opt out if that's what they want to do. I accept that. But I encourage everybody to participate in the My Health Records program, which will make a huge difference to all those people who are getting to that time when they need help. Whether you're of a very young age, whether you're in midlife or whether you're in old age, this is of benefit to you.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1,speech
 "Van Manen, Bert, MP",LP,2018-09-18,"
 
 
@@ -1851,7 +1987,7 @@ The value of My Health Record and this bill in terms of improving privacy and se
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,17,1,speech
 "Collins, Julie, MP",ALP,2018-09-18,"
 
 
@@ -1880,7 +2016,7 @@ Clearly, when over a million Australians have opted out, there are still some co
 
 I'm obviously supporting the amendment moved by the member for Ballarat. I've spoken to the member for Ballarat about my concerns for people with mental ill health and their concerns and the concerns that are being raised with me every day. She has been extraordinarily responsive, because she understands this issue, I think, better than the government. Quite frankly, the Minister for Health doesn't seem to understand quite how concerned the community is, but when over one million Australians have already opted out—and we don't know how many more will between now and November—clearly something has to change. Clearly there's a problem here, and the government needs to do something about it.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Stanley, Anne, MP",ALP,2018-09-18,"
 
 
@@ -1906,7 +2042,7 @@ A Labor government will deliver e-health reforms but put the privacy and securit
 
 This government's failings on My Health Record should come as little surprise to all of us in the House. This is a government with an appalling track record in delivering efficient, secure IT services. They've botched the rollout of the NBN, they've botched the rollout of the NDIS, we had the census issues, and now we seem to have botched the My Health Record all the way through. It is very important that we get this right to deliver the important reforms that My Health Record could deliver.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Zappia, Tony, MP",ALP,2018-09-18,"
 
 
@@ -1947,7 +2083,7 @@ Because of the uncertainty, the benefits that the My Health Record system was li
 
 Some of the people that are going to be worst affected by all of this are people that live in country Australia, because people that live in country Australia, for a whole raft of other reasons, are also very likely to need to see a health professional away from their normal place of residence. Again, it would seem to me that the bungling of this service by this government is going to make it more difficult for those people as well. If they are away from home and they have to see a doctor or go to the emergency department of a hospital outside of their normal address, then all of their medical information that would have been absolutely vital to the best treatment that they require would not be with them, because the system itself doesn't provide it. That's why we supported a My Health Record system in this place five or six years ago, because it was in the public interest to do so. What I see now through this government's bungling is a system that was well intended, and still is, that is likely to be undermined not just for a temporary period whilst we sort out the problems but for a long time to come. With that, the benefits that were hoped for as a result of it will be lost.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "McBride, Emma, MP",ALP,2018-09-18,"
 
 
@@ -2012,7 +2148,7 @@ The PSA provides these suggestions for measures which pharmacists believe may he
 
 I am pleased that the Senate has agreed to Labor's proposal for an inquiry into My Health Record as a whole. This will deal with broader issues beyond the scope of this bill, such as the government's decision to shift to an opt-out system from an opt-in system, its communication of this fundamental change, and default settings within the record. I hope that the outcomes of this inquiry will assist in improving public understanding of and participation in My Health Record. This will give My Health Record the best chance of the success it was designed to achieve for individuals, health practitioners, carers, the healthcare system and the government.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Claydon, Sharon, MP",ALP,2018-09-18,"
 
 
@@ -2056,7 +2192,7 @@ As I mentioned earlier, Labor are a big supporter of electronic health record pr
 
 In summary, in the hands of a competent government, e-health records have the potential to be a game changer for our health systems. They can reduce the stakes, improve outcomes and, indeed, save billions. Labor, I repeat, want the My Health Record to work—but this government has done such an utter botched job of it so far. It took an opt-in system which had been functioning effectively for years and turned it into a public outrage almost overnight. It tried to impose an opt-out model which presumed consent without giving thought to what this might mean for privacy or data security and then it was surprised when there was a public backlash. It's astonishing that the government should be surprised by the backlash. The government failed to consult, it failed to communicate and it failed to correct when it became abundantly clear what a debacle the rollout was turning into. But, most importantly, it failed to adequately consider the privacy and security of millions of Australian men, women and children when it made decisions around the treatment of their most personal medical data. This legislation fixes some very specific issues with the My Health Record rollout, but it doesn't go near fixing the damage the government has done to public confidence.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Georganas, Steve, MP",ALP,2018-09-18,"
 
 
@@ -2094,7 +2230,7 @@ While doubts remain, as I said, for experts in the health and IT sectors, it's r
 
 It's a great thing. It's a fantastic thing to be able to go anywhere in the nation—and we are a nation, after all. We're not a section of six different countries with a couple of territories. People should be able to access their records at any health centre, at any GP or at any hospital anywhere in the country. And this, as I said earlier, will save lives, so we need to ensure that the government informs the public, lets them know how this will work, informs them of the importance of it, and absolutely guarantees that it is tight and that nothing will be leaked.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Elliot, Justine, MP",ALP,2018-09-18,"
 
 
@@ -2174,7 +2310,7 @@ That particular method of communication can be through a whole range of media ov
 
 To do that we need a competent and functioning government—not the muppet show we have at the moment—that can put a proper e-health system in place so people have the trust that, when they access a number of health professionals, they won't be terrified as to where their health records will end up, but given the bungling of this government, a lot of work has to be done because of the shambles it is in. We have to find a way through this because e-health provides a great way to move into the future of healthcare systems. It will take a long time and a lot of commitment as to communication and the way this government speaks to people about the benefits of the e-health system, which can be done only if we see all the privacy and security provisions improved so we can have an effective and functioning e-health and My Health Record system for people to access.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Hill, Julian, MP",ALP,2018-09-18,"
 
 
@@ -2245,7 +2381,7 @@ To have to watch the show
 
 You're not taking this seriously. I believe that these things have to be looked at now, before this legislation passes the House or the parliament and before the rollout continues. It's critical if we're going to have real public confidence in this system, which we should all be seeking and which is so important. If we can get it right, we can build trust with the Australian people in the rollout of this system.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Sharkie, Rebekha, MP",CA,2018-09-18,"
 
 
@@ -2277,7 +2413,7 @@ There is no doubt that these issues require further scrutiny. In saying that, I 
 
 I do have some sympathy for the government. I can't imagine that getting accurate information out into the community was an easy task, and so an opt-out scheme would no doubt significantly increase the number of people captured under the scheme, but the information being collected is the clearest example of private and personal information. When we are concerning ourselves with this sort of information, I think we need to make sure that those of us who are handing over our medical histories to the mercy of a government server are doing so with our eyes wide open. In conclusion, I offer my support to this bill, but it is qualified support. I want to make it clear that I will continue to speak with my Senate colleagues to determine what, if any, amendments should be made following the release of the committee report.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Wallace, Andrew, MP",LP,2018-09-18,"
 
 
@@ -2330,7 +2466,7 @@ The amendments can be briefly and simply described. However, these practical and
 
 I'd encourage all my constituents in Fisher to find out more about My Health Record before the new extended opt-out deadline of 15 November this year. I encourage them to be fully informed, to understand the system and the privacy controls available to them. And I encourage them, when they are fully informed, to stay opted into the system, to enjoy the significant benefits that it will bring. If any of my constituents are unable to find the information that they need in order to make an informed choice, my office and I will be very happy to answer any questions that they may have. It's important that we grow and maintain public confidence in the My Health Record system. The system will avoid unnecessary hospital admissions, reduce overdoses and allergic reactions, better coordinate care and facilitate better treatment decisions. In the context of the 21st century medicine going on on the Sunshine Coast and all over Australia today, it is the right solution and will only become more necessary over time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Laming, Andrew, MP",LP,2018-09-18,"
 
 
@@ -2380,7 +2516,7 @@ We've had debates over the weekend on the tragic circumstances around the Defqon
 
 Few would dispute that Australia has among the top handful of health systems in the world, with the most highly trained health professionals, so we need to make sure that we have a purpose-built, fit-to-last electronic health record that can do the job for this great nation. The Medicare system has a GP centred approach. It's one that we're extremely proud of and will defend. We defend the team based arrangements that exist for the highest need Australians, because the average Australian visits a doctor around seven times a year and accesses way more Medicare services than that. When that occurs, Australians who wish to will have all of that information on a medical health record.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Howarth, Luke, MP",LP,2018-09-18,"
 
 
@@ -2421,7 +2557,7 @@ Members opposite have also raised concerns about partner separation, which is va
 
 In conclusion, as I've said, almost six million people have signed up. Only three per cent of the population have opted out. I encourage people in my electorate to get onto the my.gov.au website and create an account. There'll be some ID questions there. You'll need a user name, an email and a password. I encourage you to do that and take control. It's not that hard to do, but, if you do have an issue and you live in my electorate, feel free to call or email my office. I'd be very happy to assist. If you live outside my electorate, contact one of the 12 senators in Queensland, and it is the same throughout every state. I'm very pleased to be able to support this bill. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Alexander, John, MP",LP,2018-09-18,"
 
 
@@ -2483,7 +2619,7 @@ When more people are healthier and when they recover quicker from ailments, the 
 
 I commend to the House this bill and the amendments that provide certainty for Australians and I look forward to not opting out of this brilliant new health reform. Unlike the previous speaker, the member for Petrie, Luke Howarth, I have not had the same doctor since my birth, for obvious reasons, and I'm glad that we live in a country where people come first and where they can opt out if they want, for it is choice that makes our country the great country that it is.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Broadbent, Russell, MP",LP,2018-09-18,"
 
 
@@ -2521,7 +2657,7 @@ I know that, if we were not in government today and the opposition were in gover
 
 So, I commend the bill to you. I hope we take this opportunity to pass it with enthusiasm and give people the freedom to opt out if that's what they want to do. I accept that. But I encourage everybody to participate in the My Health Records program, which will make a huge difference to all those people who are getting to that time when they need help. Whether you're of a very young age, whether you're in midlife or whether you're in old age, this is of benefit to you.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Van Manen, Bert, MP",LP,2018-09-18,"
 
 
@@ -2556,7 +2692,7 @@ The value of My Health Record and this bill in terms of improving privacy and se
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Byrne, Anthony, MP",ALP,2018-09-18,"
 
 
@@ -2594,7 +2730,7 @@ Today, after these four years in which our world has changed I contacted those w
 
 Officer A received the Victoria Police Valour Award and AFP Bravery Medal, the highest honours both organisations have for bravery. Officer B received an AFP Bravery Medal and the Medal for Courage from Victoria Police. As long as I remain in this place, I resolve to remind the public each September of the bravery of Officers A and B and to ensure we never forget their sacrifice, and that of our police and security agencies, in keeping us safe, particularly on that dark, dark September night.
 
-",HoR,<title>ADJOURNMENT</title>,<title>National Security</title>,ADJOURNMENT,18,1
+",HoR,<title>ADJOURNMENT</title>,<title>National Security</title>,ADJOURNMENT,18,1,speech
 "Snowdon, Warren, MP",ALP,2018-09-18,"
 
 
@@ -2608,7 +2744,7 @@ In the CLC’s oral history collection, Every Hill Got a Story, he spoke about h
 
 Kumunjayi Granites was farewelled at a large funeral last Friday in Alice Springs, and I was privileged to be in attendance. I knew this man from the mid-eighties. He was someone who I didn't always agree with, to be fair, but who was prepared to stand up for what he believed. He always advocated for his family and his Warlpiri communities. He leaves a proud tradition and a great legacy. He is someone I am proud to have met and known as a friend.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Granites, Mr Kumunjayi</title>",CONSTITUENCY STATEMENTS,20,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Granites, Mr Kumunjayi</title>",CONSTITUENCY STATEMENTS,20,1,speech
 "Albanese, Anthony, MP",ALP,2018-09-18,"
 
 
@@ -2643,7 +2779,7 @@ In terms of other recommendations in the report, it goes through the importance 
 
 But I do commend the report. I think it provides a constructive contribution to the debate on urban policy in this country.
 
-",HoR,<title>COMMITTEES</title>,"<title>Infrastructure, Transport and Cities Committee</title>",COMMITTEES,21,1
+",HoR,<title>COMMITTEES</title>,"<title>Infrastructure, Transport and Cities Committee</title>",COMMITTEES,21,1,speech
 "Hill, Julian, MP",ALP,2018-09-18,"
 
 
@@ -2705,7 +2841,7 @@ Adrian Dwyer, the head of peak industry group Infrastructure Partnerships Austra
 
 The report, as I said, is worthy, as far as it goes. It has noble sentiments. But there is no sign whatsoever, if you look at the government's track record and study the budget papers, that they're actually serious about investing in cities or investing in infrastructure. They need to come clean and stop talking about this $75 billion infrastructure package as if it were anything more than an episode of Utopiastyle slogan.
 
-",HoR,<title>COMMITTEES</title>,"<title>Infrastructure, Transport and Cities Committee</title>",COMMITTEES,21,1
+",HoR,<title>COMMITTEES</title>,"<title>Infrastructure, Transport and Cities Committee</title>",COMMITTEES,21,1,speech
 "Giles, Andrew, MP",ALP,2018-09-18,"
 
 
@@ -2758,7 +2894,7 @@ In making some concluding remarks about the report and its significance, I want 
 
 There's a big challenge for all of us, because the challenge of making more-livable, more-sustainable and more-productive cities isn't simply a technocratic one; it's also fundamentally a democratic one. We've got to find more ways to involve those millions of Australians who live in our cities, in particular in the growing outer suburbs of our major cities, in shaping the decisions that determine their lives—the places where they live, the places where they work and the places where they raise their families. This democratic involvement is a critical part of the challenge posed for all of us by this report.
 
-",HoR,<title>COMMITTEES</title>,"<title>Infrastructure, Transport and Cities Committee</title>",COMMITTEES,21,1
+",HoR,<title>COMMITTEES</title>,"<title>Infrastructure, Transport and Cities Committee</title>",COMMITTEES,21,1,speech
 "Watts, Tim, MP",ALP,2018-09-18,"
 
 
@@ -2846,7 +2982,7 @@ People don't feel safe cycling without the right bike paths and barriers. Melbou
 
 We need federal government leadership to turn these potential active transport journeys into actual active transport journeys. Cutting immigration won't make our problems easier to solve or our governments better. Instead, we need a plan, as this report argues.
 
-",HoR,<title>COMMITTEES</title>,"<title>Infrastructure, Transport and Cities Committee</title>",COMMITTEES,21,1
+",HoR,<title>COMMITTEES</title>,"<title>Infrastructure, Transport and Cities Committee</title>",COMMITTEES,21,1,speech
 "Marles, Richard, MP",ALP,2018-09-18,"
 
 
@@ -2893,7 +3029,7 @@ It would also improve the public realm. Right now, when you walk along the water
 
 Those two projects are examples of the kind of projects that should find their way, through a collaborative approach, into some partnership between governments of all levels. Were projects of that kind to be done, it would really help in the development of our city, which is an important part of the development of regional Australia.
 
-",HoR,<title>COMMITTEES</title>,"<title>Infrastructure, Transport and Cities Committee</title>",COMMITTEES,21,1
+",HoR,<title>COMMITTEES</title>,"<title>Infrastructure, Transport and Cities Committee</title>",COMMITTEES,21,1,speech
 "O'Toole, Cathy, MP",ALP,2018-09-18,"
 
 
@@ -2931,7 +3067,7 @@ The coalition government fails the fairness test on investment and infrastructur
 
 Only Labor will invest in the infrastructure that regional communities need, and only Labor will invest in infrastructure that will kickstart the country again and create Australian jobs, particularly apprenticeships, for our young people. The facts are very simple: Labor delivers jobs and the LNP do not, because they spend their time looking after the interests of big business and the banks. Prime Minister Scott Morrison is too busy protecting his own job, rather than focusing on and protecting the jobs of real Australian workers in regional, rural and remote Queensland.
 
-",HoR,<title>COMMITTEES</title>,"<title>Infrastructure, Transport and Cities Committee</title>",COMMITTEES,21,1
+",HoR,<title>COMMITTEES</title>,"<title>Infrastructure, Transport and Cities Committee</title>",COMMITTEES,21,1,speech
 "Perrett, Graham, MP",ALP,2018-09-18,"
 
 
@@ -2972,7 +3108,7 @@ Labor understands the infrastructure needs of Australians. The former Labor gove
 
 The future of Australian cities and the urban areas surrounding them is exciting. In South-East Queensland, improving transport links between the CBD and urban areas right down to the Gold Coast will create a more livable environment and provide an economic boost, as well as boosting productivity. So I'm excited for what a Shorten Labor government would do if elected and what it would mean for my urban electorate of Moreton. It would mean better housing, better public transport, better roads, more affordable housing, more jobs and a cleaner environment for our children and our grandchildren. It's time the curtain came down on the Morrison muppet show and that we let a Shorten Labor government start building the infrastructure that Australia needs.
 
-",HoR,<title>COMMITTEES</title>,"<title>Infrastructure, Transport and Cities Committee</title>",COMMITTEES,21,1
+",HoR,<title>COMMITTEES</title>,"<title>Infrastructure, Transport and Cities Committee</title>",COMMITTEES,21,1,speech
 "McGowan, Cathy, MP",IND,2018-09-18,"
 
 
@@ -3013,7 +3149,7 @@ So my closing comments to Sussan Ley, the Assistant Minister for Regional Develo
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,"<title>Infrastructure, Transport and Cities Committee</title>",COMMITTEES,21,1
+",HoR,<title>COMMITTEES</title>,"<title>Infrastructure, Transport and Cities Committee</title>",COMMITTEES,21,1,speech
 "Albanese, Anthony, MP",ALP,2018-09-18,"
 
 
@@ -3048,7 +3184,7 @@ In terms of other recommendations in the report, it goes through the importance 
 
 But I do commend the report. I think it provides a constructive contribution to the debate on urban policy in this country.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2,speech
 "Hill, Julian, MP",ALP,2018-09-18,"
 
 
@@ -3110,7 +3246,7 @@ Adrian Dwyer, the head of peak industry group Infrastructure Partnerships Austra
 
 The report, as I said, is worthy, as far as it goes. It has noble sentiments. But there is no sign whatsoever, if you look at the government's track record and study the budget papers, that they're actually serious about investing in cities or investing in infrastructure. They need to come clean and stop talking about this $75 billion infrastructure package as if it were anything more than an episode of Utopiastyle slogan.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2,speech
 "Giles, Andrew, MP",ALP,2018-09-18,"
 
 
@@ -3163,7 +3299,7 @@ In making some concluding remarks about the report and its significance, I want 
 
 There's a big challenge for all of us, because the challenge of making more-livable, more-sustainable and more-productive cities isn't simply a technocratic one; it's also fundamentally a democratic one. We've got to find more ways to involve those millions of Australians who live in our cities, in particular in the growing outer suburbs of our major cities, in shaping the decisions that determine their lives—the places where they live, the places where they work and the places where they raise their families. This democratic involvement is a critical part of the challenge posed for all of us by this report.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2,speech
 "Watts, Tim, MP",ALP,2018-09-18,"
 
 
@@ -3251,7 +3387,7 @@ People don't feel safe cycling without the right bike paths and barriers. Melbou
 
 We need federal government leadership to turn these potential active transport journeys into actual active transport journeys. Cutting immigration won't make our problems easier to solve or our governments better. Instead, we need a plan, as this report argues.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2,speech
 "Marles, Richard, MP",ALP,2018-09-18,"
 
 
@@ -3298,7 +3434,7 @@ It would also improve the public realm. Right now, when you walk along the water
 
 Those two projects are examples of the kind of projects that should find their way, through a collaborative approach, into some partnership between governments of all levels. Were projects of that kind to be done, it would really help in the development of our city, which is an important part of the development of regional Australia.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2,speech
 "O'Toole, Cathy, MP",ALP,2018-09-18,"
 
 
@@ -3336,7 +3472,7 @@ The coalition government fails the fairness test on investment and infrastructur
 
 Only Labor will invest in the infrastructure that regional communities need, and only Labor will invest in infrastructure that will kickstart the country again and create Australian jobs, particularly apprenticeships, for our young people. The facts are very simple: Labor delivers jobs and the LNP do not, because they spend their time looking after the interests of big business and the banks. Prime Minister Scott Morrison is too busy protecting his own job, rather than focusing on and protecting the jobs of real Australian workers in regional, rural and remote Queensland.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2,speech
 "Perrett, Graham, MP",ALP,2018-09-18,"
 
 
@@ -3377,7 +3513,7 @@ Labor understands the infrastructure needs of Australians. The former Labor gove
 
 The future of Australian cities and the urban areas surrounding them is exciting. In South-East Queensland, improving transport links between the CBD and urban areas right down to the Gold Coast will create a more livable environment and provide an economic boost, as well as boosting productivity. So I'm excited for what a Shorten Labor government would do if elected and what it would mean for my urban electorate of Moreton. It would mean better housing, better public transport, better roads, more affordable housing, more jobs and a cleaner environment for our children and our grandchildren. It's time the curtain came down on the Morrison muppet show and that we let a Shorten Labor government start building the infrastructure that Australia needs.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2,speech
 "McGowan, Cathy, MP",IND,2018-09-18,"
 
 
@@ -3418,7 +3554,7 @@ So my closing comments to Sussan Ley, the Assistant Minister for Regional Develo
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2,speech
 "Snowdon, Warren, MP",ALP,2018-09-18,"
 
 
@@ -3466,4 +3602,4 @@ Forty-six per cent of the Labor Party membership in my electorate of Lingiari ar
 
 I've been blessed in my time in this parliament. Currently 50 per cent of my staff are women—these are good women: Jo Nicol, Kirsty Hunt, Bianca Doyle, Caitlin in my Canberra office. They are wonderfully strong women and very assertive women, let me tell you, who have no trouble putting me in my place. But I want to reflect on a number of others who had a significant influence on me and on their assertiveness in making sure I understood, from their perspective, the need to acknowledge women. I briefly want to mention Margaret Gillespie, who was my first chief of staff and who went on to become the national secretary of the CPSU; Carol Burke, who, sadly, is no longer with us, who was a really, really wonderful woman, a wonderful human being, who taught me a great deal about the respect I needed to have; and my own partner, Elizabeth. Let me tell you, if you want to see some assertive people in your life, meet my partner, Elizabeth, and our two daughters, Frankie and Tessa. If you think that they would cop the crap that's been coming out of the Liberal Party, you'd be sadly mistaken. I applaud them for standing up for their rights and for the rights of all women.
 
-",HoR,<title>GRIEVANCE DEBATE</title>,<title>Women in Parliament</title>,GRIEVANCE DEBATE,22,1
+",HoR,<title>GRIEVANCE DEBATE</title>,<title>Women in Parliament</title>,GRIEVANCE DEBATE,22,1,speech

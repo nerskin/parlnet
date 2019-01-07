@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Hockey, Joe, MP",LP,2012-05-30,"
 
 
@@ -84,7 +84,7 @@ Mr Pyne interjecting—
 
 The DEPUTY SPEAKER:  The Manager of Opposition Business does not have the call. I call the Leader of the House.
 
-",HoR,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,0,1
+",HoR,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,0,1,speech
 "Albanese, Anthony, MP",ALP,2012-05-30,"
 
 
@@ -165,7 +165,7 @@ Mr Ian Macfarlane:
 
 The DEPUTY SPEAKER:  The Leader of the Opposition was on the floor at the time—that is the chamber. We will now proceed with the vote. The question is that the member be no longer heard.
 
-",HoR,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,0,1
+",HoR,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,0,1,speech
 "Burke, Anna (The DEPUTY SPEAKER)",ALP,2012-05-30,"
 
 
@@ -176,7 +176,7 @@ The DEPUTY SPEAKER
 Ms AE Burke
 ) (09:19):  The member for North Sydney's time has expired. Is the motion seconded?
 
-",HoR,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,0,1
+",HoR,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,0,1,speech
 "Robb, Andrew, MP",LP,2012-05-30,"
 
 
@@ -245,7 +245,7 @@ The DEPUTY SPEAKER:  The Leader of the House will resume his seat. The member fo
 Mr ROBB:
   The need to suspend standing orders is quite clear when you look at the problem that we are addressing with this motion. This is a government quite incapable of living within its means. It is still borrowing $100 million a day and this is why—
 
-",HoR,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,0,1
+",HoR,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,0,1,speech
 "Albanese, Anthony, MP",ALP,2012-05-30,"
 
 
@@ -268,7 +268,7 @@ Ms AE Burke
 The question is that the member be no longer heard.
 
 
-",HoR,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,0,1
+",HoR,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,0,1,speech
 "Burke, Anna (The DEPUTY SPEAKER)",ALP,2012-05-30,"
 
 
@@ -279,7 +279,7 @@ The DEPUTY SPEAKER
 Ms AE Burke
 ) (09:34):  The time for the debate on this motion has expired. Can I record my thanks and appreciation to the parliament for their good humour in what has been a trying issue. I am trying to assure the clerks that I am not trying to make it into House of Representatives Practice! I seem to be doing so every day, so I want to thank everyone for their help in these matters. Thank you. 
 
-",HoR,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,0,1
+",HoR,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,0,1,speech
 "Bradbury, David, MP",ALP,2012-05-30,"
 
 
@@ -311,7 +311,7 @@ The DEPUTY SPEAKER
 Ms AE Burke
 ):  The question is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2012-2013</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2012-2013</title>,BILLS,1,1,speech
 "Bradbury, David, MP",ALP,2012-05-30,"
 
 
@@ -325,7 +325,7 @@ That the order of the day be referred to the Federation Chamber for further cons
 
 Question agreed to.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2012-2013</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2012-2013</title>,BILLS,1,1,speech
 "Schultz, Alby, MP",LP,2012-05-30,"
 
 
@@ -333,7 +333,7 @@ Question agreed to.
 Mr SCHULTZ
  (Hume) (13:45):  It does not often happen in this place, but I rise today to thank the Minister for Health, the honourable member for Sydney, for the significant contribution she has made to easing the suffering of one of my constituents. I wrote to her on 27 April about a very serious issue centred around a drug that was not on the PBS, and to her credit she showed the compassion that we should all show to our constituents in this place and did something to make sure that that lady did not have to pay the amount of money that was needed to get the drug. I thank her most sincerely on behalf of my constituent and I thank her most sincerely for doing what needs to be done in this House from time to time—wonderful things done in a bipartisan way.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Minister for Health</title>,STATEMENTS BY MEMBERS,2,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Minister for Health</title>,STATEMENTS BY MEMBERS,2,1,speech
 "Gillard, Julia, MP",ALP,2012-05-30,"
 
 
@@ -350,7 +350,7 @@ We understand all too painfully that such actions pale against the measure of th
 
 Australia will maintain our robust unilateral sanctions against this regime. We will maintain our humanitarian assistance and we will not stop our pressure until this violence comes to an end.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Syria</title>,STATEMENTS ON INDULGENCE,3,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Syria</title>,STATEMENTS ON INDULGENCE,3,1,speech
 "Abbott, Tony, MP",LP,2012-05-30,"
 
 
@@ -358,7 +358,75 @@ Australia will maintain our robust unilateral sanctions against this regime. We 
 Mr ABBOTT
  (Warringah—Leader of the Opposition) (14:02):  I rise to support the remarks of the Prime Minister and to support, on behalf of the coalition, the decision by Western governments including Australia's to expel Syrian diplomats. It is clear that the Syrian regime is waging war on its own people and there is absolutely no excuse ever for the indiscriminate slaughter of unarmed civilians. Our objective must be to secure a democratic government in Syria that respects the rights of all its citizens and lives in peace with all its neighbours.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Syria</title>,STATEMENTS ON INDULGENCE,3,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Syria</title>,STATEMENTS ON INDULGENCE,3,1,speech
+"Abbott, Tony, MP",LP,2012-05-30,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:03):  My question is to the Prime Minister. I refer her to today's report of the Minerals Council and to recent comments from the chairman of BHP both indicating that the proposed investment at Olympic Dam in South Australia is at risk because of higher taxes, higher energy costs and greater uncertainty. Will the Prime Minister apologise to the people of South Australia for jeopardising investment and jobs by breaking her solemn pledge that there will be no carbon tax under the government she leads?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Olympic Dam</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Gillard, Julia, MP",ALP,2012-05-30,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:04):  The Leader of the Opposition in his question refers to a Minerals Council report that was reported in today's newspapers and has been the subject of some discussion since. I think it is worth noting that that article, which was in the pages of the Australian and the Financial Review today, was written by Angus Taylor. That name may be familiar to some because he has just been preselected as the Liberal candidate for the seat of Hume at the next election—a very important point.
+
+
+Is it of any surprise to me that a man who is presenting for election as a candidate for the Liberal Party at the next election is talking the economy down? That is of no surprise to me whatsoever. Is it of any surprise to me that someone preselected as a Liberal candidate for the next election is making absurd claims about carbon pricing? Well, no, that is of no surprise to me either. It is not of any surprise to me that he is actually a very vocal and proud supporter of Work Choices? Apparently he has not got the memo yet that tells members of the opposition to not be truthful about their support for Work Choices.
+
+
+What the Leader of the Opposition ought to be acknowledging in this parliament are the following facts: our economy is strong—
+
+
+
+
+Mr Pyne:
+  Madam Deputy Speaker, I rise on a point of order. This is the largest mine expansion in the world. It is a very serious issue and the Prime Minister should answer the question, not make light of it.
+
+
+
+
+The DEPUTY SPEAKER 
+
+(
+Ms AE Burke
+):  The Manager of Opposition Business will resume his seat. The Prime Minister has the call.
+
+
+
+
+Ms GILLARD:
+  It is a serious issue. It is too serious for the petty politics of the opposition, far too serious for that. Running the economy is a serious issue. Making sure our economy is the envy of the world has required serious work. Making sure that there are $500 million of investments in the pipeline has required serious work. And at every step of the way, this government has worked with the government of South Australia because we want this Olympic Dam project to go ahead. We worked hard with the government of South Australia to achieve that result. What will not help the achievement of that result is a reckless negativity, talking the economy down and making false claims about carbon pricing. Those things are calculated to destroy jobs and opportunity in South Australia and right around the country.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Olympic Dam</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Vamvakinou, Maria, MP",ALP,2012-05-30,"
+
+
+
+Ms VAMVAKINOU
+ (Calwell) (14:16):  My question is to the Prime Minister. Prime Minister, what are the facts about the effect of the carbon price and the extra assistance that the government has provided through the budget to help families?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Gillard, Julia, MP",ALP,2012-05-30,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:17):  I thank the member for Calwell for the question. I know that she in her electorate is working hard to ensure that people are getting the right information about the assistance that they will receive available through our clean energy future package. I do note too that she was proudly in this parliament to support the schoolkids bonus against the opposition from those members of the Liberal-National Party who thought working families did not deserve a break and should not get any money to assist them with the costs of getting the kids to school.
+
+
+The member for Calwell asked me about how Australians will experience carbon pricing from 1 July and what assistance is available to help people make ends meet. I do understand that working families struggle to pay the bills, and that is why we have made sure that in creating a carbon pricing scheme we will be giving families around the nation, on average, assistance of $10.10 per week, and that will be more than the impact that they will experience from carbon pricing. Six out of 10 households will receive assistance that fully matches or exceeds these costs. Three point two million pensioners are already seeing advance payments of $250 per single pensioner and $380 for pensioner couples, and then in March they will see more assistance and it will be ongoing. Our economy will also see the benefits of investments in a clean energy future.
+
+
+From 1 July Australians will be able to experience this, they will be able to live it and they will be able to make up their own minds. That ability to make up their own minds will be a very sharp contrast to the relentlessly negative and destructive fear campaign that has been run by the Leader of the Opposition. They will be able to make up their own minds about his claim that price rises will be unimaginable. They will be able to see whether or not whole towns have been wiped off the map. They will be able to see whether or not their fuel bill or their electricity bill goes up by 30 per cent. And they will be able to see that the mainstays of our manufacturing sector are here and stay strong.
+
+
+From 1 July, Liberal MPs who have joined the Leader of the Opposition in this negative campaign will then be left to wonder whether their relentless negativity has left them at the point of no return—where they will be given the Leader of the Opposition's systematic misleading of the Australian community, on the coal industry, on the cement industry, on jobs, on the cost of living and on electricity prices. We know from this morning that the Leader of the Opposition can run, but come 1 July he will not be able to hide from these claims being revealed to be wholly untrue.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
 "Burke, Anna (The DEPUTY SPEAKER)",ALP,2012-05-30,"
 
 
@@ -373,7 +441,7 @@ Ms AE Burke
 
  Ordered that the report be made a parliamentary paper.
 
-",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 36 of 2011-2012</title>,AUDITOR-GENERAL'S REPORTS,8,1
+",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 36 of 2011-2012</title>,AUDITOR-GENERAL'S REPORTS,8,1,speech
 "Burke, Anna (The DEPUTY SPEAKER)",ALP,2012-05-30,"
 
 
@@ -1389,7 +1457,7 @@ Small-scale renewable energy scheme (Mr Coulton)
 
 Gambling reform (Mr Oakeshott)
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,9,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,9,1,speech
 "Burke, Anna (The DEPUTY SPEAKER)",ALP,2012-05-30,"
 
 
@@ -2405,7 +2473,7 @@ Small-scale renewable energy scheme (Mr Coulton)
 
 Gambling reform (Mr Oakeshott)
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,9,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,9,2,speech
 "Shorten, Bill, MP",ALP,2012-05-30,"
 
 
@@ -2428,7 +2496,7 @@ The aim of the government is to make sure that people do not remain in uncertain
 
 According to initial reports—and I stress 'initial reports'—it is apparent that this unfortunate situation has arisen out of mismanagement, including a multimillion-dollar irregularity in the Hastie Group's accounts. ASIC are investigating the matter and making the appropriate inquiries of directors, administrators and auditors. The government, at the appropriate stage, will consider any policy options arising out of these inquiries, including whether or not mandatory rotation of auditors after a set number of years is required in the future. Members of parliament with any questions should feel free to contact my office.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Hastie Group</title>,MINISTERIAL STATEMENTS,11,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Hastie Group</title>,MINISTERIAL STATEMENTS,11,1,speech
 "Ley, Sussan, MP",LP,2012-05-30,"
 
 
@@ -2445,7 +2513,7 @@ The government has failed to provide the right economic policy settings that wou
 
 The government needs to work with the administrators to ensure that where some of the subsidiaries can remain in business they are given every assistance to do so. I appreciate the minister mentioning that he has received advice from relevant unions who represent these workers, but I also seek his assurance that those workers or subcontractors affected who are not members of unions also receive the same level of support.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Hastie Group</title>,MINISTERIAL STATEMENTS,11,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Hastie Group</title>,MINISTERIAL STATEMENTS,11,1,speech
 "Burke, Anna (The DEPUTY SPEAKER)",ALP,2012-05-30,"
 
 
@@ -2465,7 +2533,7 @@ Prior to this, Mr Bowen was a senior Commonwealth public servant who held variou
 
 In recognition of Mr Bowen's contributions, he was awarded a Public Service Medal on Australia Day 2006 'for outstanding public service in the development, delivery and implementation of enhanced whole-of-government budget processes'. Mr Bowen will commence on 23 July 2012. I congratulate Mr Bowen on his appointment and, on behalf of all members, I wish him well in establishing this new and important office.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Appointment of the Parliamentary Budget Officer</title>,STATEMENT BY THE SPEAKER,12,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Appointment of the Parliamentary Budget Officer</title>,STATEMENT BY THE SPEAKER,12,1,speech
 "Oakeshott, Robert, MP",Ind.,2012-05-30,"
 
 
@@ -2491,7 +2559,7 @@ We only get one chance to get this important new Parliamentary Budget Office rig
 
 Along with the selection of the best person to head the Parliamentary Budget Office, the committee considers that decisions made about the location of the office to be fundamental to its success. While ultimately a decision for the newly appointed Parliamentary Budget Officer, the committee is a strong view that it is an absolute priority that the Parliamentary Budget Officer and his key staff have an office located within Parliament House to ensure ready access for senators and members. The committee welcomes its new role as the oversight committee for the Parliamentary Budget Office and looks forward to working with Mr Bowen, as prescribed in the Parliamentary Services Act 1999, upon his commencement on 23 July 2012.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Appointment of the Parliamentary Budget Officer</title>,STATEMENT BY THE SPEAKER,12,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Appointment of the Parliamentary Budget Officer</title>,STATEMENT BY THE SPEAKER,12,1,speech
 "Burke, Anna (The DEPUTY SPEAKER)",ALP,2012-05-30,"
 
 
@@ -2514,7 +2582,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "Husic, Ed, MP",ALP,2012-05-30,"
 
 
@@ -2597,7 +2665,7 @@ It is important, as the MPI states, to rely on fact instead of fiction. It is in
 
 We have taken action on an issue affecting the nation. In the past, we have had delay—governments have delayed, deferred action on this and put it in the too-hard basket. We have acted. Those opposite agree that we need to act. It is a bipartisan target. It is time to get to work, instead of wilting under the pressure.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "Andrews, Kevin, MP",LP,2012-05-30,"
 
 
@@ -2684,7 +2752,7 @@ I have mentioned just two things. One is transport costs for every good that is 
 
 This is a joke. It comes from a government that is not even a joke. This is a government that is dysfunctional and a Prime Minister who evades questions she is asked here in question time. This is a  Prime Minister who told the unionists she was furious about a labour agreement and yet turned around and said she knew nothing about it. This is a totally dysfunctional government. I hope that some of the backbenchers in the Labor Party do go doorknocking, because what they will hear is that Australian people are totally fed up with this government, with the lies, with the dissembling and with the dysfunction. They want some security. It is about time we delivered hope and reward and opportunity to people of Australia and that will only come by having an election.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "Perrett, Graham, MP",ALP,2012-05-30,"
 
 
@@ -2734,7 +2802,7 @@ Self-funded retirees—a very vocal group in my community who make sure that I k
 
 In question time today, mention was made of an article in the West Australian by one of the Leader of the Opposition's colleagues, questioning his negativity, his ability to say no, no, no all the time. There was even a suggestion that some of his colleagues want to rehabilitate him in terms of his inclination to say no. Obviously that would be a very big project and obviously they have started that process. They tried to make him go to rehab but he said, 'No, no, no.' That is what he said. He was not even able to say yes to the pensioners in his electorate, yes to the families in his electorate, yes to the people in the low-income households in his electorate, or yes to the pensioners who need this $250 to $380 to help them with cost-of-living pressures. Instead, he relies on no.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "Tudge, Alan, MP",LP,2012-05-30,"
 
 
@@ -2775,7 +2843,7 @@ We know, for example, that, in their own words, at least 40 per cent of Australi
 
 There are, of course, an array of other areas where the government is putting upward pressure on prices. It is putting upward pressure on prices through the 22 other taxes which it has introduced in the last four or five years. It has been putting upward pressure on families' cost of living by reducing family tax benefits and eliminating the entrepreneurs tax offset. It is also changing the policy settings in child care, in the private health insurance rebate and in shipping reforms, which makes things more expensive. And, of course, in its macro settings it is making the economy less productive overall. The carbon tax, though, is the worst of it all. To address cost-of-living pressures we must get rid of the carbon tax and we must change this government.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "O'Neill, Deb, MP",ALP,2012-05-30,"
 
 
@@ -2816,7 +2884,7 @@ What have we heard from the Leader of the Opposition? He is going to get rid of 
 
 We know that a price on carbon is the right thing to do. It is a tough thing to do, but it builds a future for this nation that gives us a strong economic base. We absolutely understand, as the member for Chifley stated in his matter of public importance today, that we need to deal in fact, and the fact is: families need assistance with the cost of living and we are delivering that. The fact is in their bank balances right now.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "McCormack, Michael, MP",Nats,2012-05-30,"
 
 
@@ -2851,7 +2919,7 @@ One tonne of rubbish, according to the government, generates one tonne of carbon
 
 Is that what we want from this government which purports to be so environmentally friendly? Is that what we want from this government which is cobbled together by the Greens here in the lower house and definitely in the upper house, where they are led by the nose by Christine Milne and all the rest, and Adam Bandt? It is a disgrace that we have to have a carbon tax when the Prime Minister said five days out from the election that there would be no carbon tax under the government she led. It is an absolute con. It is a disgrace, and those members opposite know it.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "Griggs, Natasha, MP",CLP,2012-05-30,"
 
 
@@ -2904,7 +2972,7 @@ The DEPUTY SPEAKER
 Ms O'Neill
 ):  Order! The discussion has concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "Fitzgibbon, Joel, MP",ALP,2012-05-30,"
 
 
@@ -2933,7 +3001,7 @@ National Health Amendment (Pharmaceutical Benefits Scheme) 2012.
 
 Question agreed to.
 
-",HoR,<title>BILLS</title>,"<title>Corporations Amendment (Proxy Voting) Bill 2012, Tax Laws Amendment (2012 Measures No. 3) Bill 2012, Income Tax (Seasonal Labour Mobility Program Withholding Tax) Bill 2012, Tax Laws Amendment (Income Tax Rates) Bill 2012, National Health Amendment (Pharmaceutical Benefits Scheme) Bill 2012</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Corporations Amendment (Proxy Voting) Bill 2012, Tax Laws Amendment (2012 Measures No. 3) Bill 2012, Income Tax (Seasonal Labour Mobility Program Withholding Tax) Bill 2012, Tax Laws Amendment (Income Tax Rates) Bill 2012, National Health Amendment (Pharmaceutical Benefits Scheme) Bill 2012</title>",BILLS,14,1,speech
 "Fitzgibbon, Joel, MP",ALP,2012-05-30,"
 
 
@@ -2962,7 +3030,7 @@ National Health Amendment (Pharmaceutical Benefits Scheme) 2012.
 
 Question agreed to.
 
-",HoR,<title>BILLS</title>,<title>Reference to Federation Chamber</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Reference to Federation Chamber</title>,BILLS,14,2,speech
 "Oakeshott, Robert, MP",Ind.,2012-05-30,"
 
 
@@ -2970,7 +3038,7 @@ Question agreed to.
 Mr OAKESHOTT
  (Lyne) (16:55):  by leave—I present executive minutes received by the Joint Committee of Public Accounts and Audit relating to: (1) Joint Committee of Public Accounts and Audit Report 428: Review of Auditor-General’s Reports Nos 16 to 46 2010-11, from the Department of Finance and Deregulation, the Department of Education, Employment and Workplace Relations and the Department of Immigration and Citizenship; and (2) Joint Committee of Public Accounts and Audit Report 426: Ninth biannual hearing with the Commissioner of Taxation, from the Australian Taxation Office.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,15,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,15,1,speech
 "Oakeshott, Robert, MP",Ind.,2012-05-30,"
 
 
@@ -2978,7 +3046,7 @@ Mr OAKESHOTT
 Mr OAKESHOTT
  (Lyne) (16:55):  by leave—I present executive minutes received by the Joint Committee of Public Accounts and Audit relating to: (1) Joint Committee of Public Accounts and Audit Report 428: Review of Auditor-General’s Reports Nos 16 to 46 2010-11, from the Department of Finance and Deregulation, the Department of Education, Employment and Workplace Relations and the Department of Immigration and Citizenship; and (2) Joint Committee of Public Accounts and Audit Report 426: Ninth biannual hearing with the Commissioner of Taxation, from the Australian Taxation Office.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2,speech
 "Ripoll, Bernie, MP",ALP,2012-05-30,"
 
 
@@ -2995,7 +3063,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Broadcasting Services Amendment (Digital Television) Bill 2012</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Broadcasting Services Amendment (Digital Television) Bill 2012</title>,BILLS,17,1,speech
 "Ciobo, Steven, MP",LP,2012-05-30,"
 
 
@@ -3021,7 +3089,7 @@ The final point lies with why this is actually taking place. I said I would be r
 
 I am pleased to stand opposed to the CEFC. It is a bad decision. The government should not be in the business of thinking that it is smarter than the private sector because, if there is one thing that we have learned time and time again, it is that governments are not. I have absolute knowledge about one thing, and that is that this government certainly is not.
 
-",HoR,<title>BILLS</title>,"<title>Clean Energy Finance Corporation Bill 2012, Clean Energy Legislation Amendment Bill 2012, Clean Energy (Customs Tariff Amendment) Bill 2012, Clean Energy (Excise Tariff Legislation Amendment) Bill 2012</title>",BILLS,19,1
+",HoR,<title>BILLS</title>,"<title>Clean Energy Finance Corporation Bill 2012, Clean Energy Legislation Amendment Bill 2012, Clean Energy (Customs Tariff Amendment) Bill 2012, Clean Energy (Excise Tariff Legislation Amendment) Bill 2012</title>",BILLS,19,1,speech
 "Combet, Greg, MP",ALP,2012-05-30,"
 
 
@@ -3059,7 +3127,7 @@ The DEPUTY SPEAKER
 Ms AE Burke
 ):  The question is that this bill be now read a second time. Just for the information of the House, there will be a series of one-minute divisions after this, so I suggest nobody gets up and runs away.
 
-",HoR,<title>BILLS</title>,"<title>Clean Energy Finance Corporation Bill 2012, Clean Energy Legislation Amendment Bill 2012, Clean Energy (Customs Tariff Amendment) Bill 2012, Clean Energy (Excise Tariff Legislation Amendment) Bill 2012</title>",BILLS,19,1
+",HoR,<title>BILLS</title>,"<title>Clean Energy Finance Corporation Bill 2012, Clean Energy Legislation Amendment Bill 2012, Clean Energy (Customs Tariff Amendment) Bill 2012, Clean Energy (Excise Tariff Legislation Amendment) Bill 2012</title>",BILLS,19,1,speech
 "Combet, Greg, MP",ALP,2012-05-30,"
 
 
@@ -3076,7 +3144,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,"<title>Clean Energy Finance Corporation Bill 2012, Clean Energy Legislation Amendment Bill 2012, Clean Energy (Customs Tariff Amendment) Bill 2012, Clean Energy (Excise Tariff Legislation Amendment) Bill 2012</title>",BILLS,19,1
+",HoR,<title>BILLS</title>,"<title>Clean Energy Finance Corporation Bill 2012, Clean Energy Legislation Amendment Bill 2012, Clean Energy (Customs Tariff Amendment) Bill 2012, Clean Energy (Excise Tariff Legislation Amendment) Bill 2012</title>",BILLS,19,1,speech
 "Ciobo, Steven, MP",LP,2012-05-30,"
 
 
@@ -3102,7 +3170,7 @@ The final point lies with why this is actually taking place. I said I would be r
 
 I am pleased to stand opposed to the CEFC. It is a bad decision. The government should not be in the business of thinking that it is smarter than the private sector because, if there is one thing that we have learned time and time again, it is that governments are not. I have absolute knowledge about one thing, and that is that this government certainly is not.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Combet, Greg, MP",ALP,2012-05-30,"
 
 
@@ -3140,7 +3208,7 @@ The DEPUTY SPEAKER
 Ms AE Burke
 ):  The question is that this bill be now read a second time. Just for the information of the House, there will be a series of one-minute divisions after this, so I suggest nobody gets up and runs away.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Morrison, Scott, MP",LP,2012-05-30,"
 
 
@@ -3169,7 +3237,7 @@ LTOP is clearly over. The report admits growth and operations at KSA will lead t
 
 Details of this review process are still unavailable. The last thing anyone wants is a return to the days when parallel runways were used, as the former transport minister Mark Vaile said, like the deck of an aircraft carrier in a war zone. With or without a second airport, we need to set our minds to developing LTOP mark 2. We need a new deal and a fair deal for all Sydney communities and we need a decision on a second supplementary airport as soon as possible . Both of these initiatives have my very strong support. (Time expired)
 
-",HoR,<title>ADJOURNMENT</title>,<title>Second Sydney Airport</title>,ADJOURNMENT,20,1
+",HoR,<title>ADJOURNMENT</title>,<title>Second Sydney Airport</title>,ADJOURNMENT,20,1,speech
 "Tudge, Alan, MP",LP,2012-05-30,"
 
 
@@ -3223,7 +3291,7 @@ ng suspended from 10:10 to 10:24
 Mr TUDGE:
   There are too many projects to do overnight, and I have not mentioned them all today. We need to continue to remind governments at all levels that these facilities do not just provide benefit to the direct users but have extensive flow-on effects for the entire community in terms of keeping people active and younger people engaged. For that reason, I will continue to fight to ensure that we have the infrastructure capacity in Knox to meet the growing demand.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Aston Electorate: Sports Infrastructure</title>,CONSTITUENCY STATEMENTS,22,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Aston Electorate: Sports Infrastructure</title>,CONSTITUENCY STATEMENTS,22,1,speech
 "Zappia, Tony, MP",ALP,2012-05-30,"
 
 
@@ -3264,7 +3332,7 @@ I represent an electorate where there are a considerable number of aged people. 
 
 This is good legislation because, for all of those people who have been waiting decades to get good television service, it looks as if they will be able to do so much sooner than they otherwise might have been able to. For those reasons I commend the legislation to the House.
 
-",HoR,<title>BILLS</title>,<title>Broadcasting Services Amendment (Digital Television) Bill 2012</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Broadcasting Services Amendment (Digital Television) Bill 2012</title>,BILLS,23,1,speech
 "Randall, Don, MP",LP,2012-05-30,"
 
 
@@ -3314,7 +3382,7 @@ The key point that I am making is that there are clearly ongoing issues with the
 
 When you put this together with the government's initiative two budgets ago on set-top boxes, it just makes you realise how shambolic and symptomatic this is of a government handling an issue like this TV switch-over. The set-top box situation is just ludicrous. In fact, I have a number of set-top boxes that I cannot even give away to constituents because they do not want them. Attaching a set-top box to an analog TV for a pensioner is not the cheap, $350 option, because you then have to get out a technician to connect it and do something with the aerial. They would be far better off getting the same amount of money to allow them to go to JB Hi-Fi or Harvey Norman and just buy a proper digital TV for probably less money. You can get a good 32-inch digital TV at any of these places for about $350. This thinking is about as clever as some of the other brain snaps like pink batts, green loans and cash for clunkers that this government has come up with, and it does not solve the problem. The government needs a more orderly and structured process when people like those I have mentioned in my electorate are having extreme difficulty with this signal, whether it be for terrestrial reasons or due to the location of the tower—in his speech the member for Makin mentioned the shadow of the signal. All those sorts of issues need to be dealt with because people in outer urban electorates are just as important and just as equal as those in metropolitan areas. They deserve better.
 
-",HoR,<title>BILLS</title>,<title>Broadcasting Services Amendment (Digital Television) Bill 2012</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Broadcasting Services Amendment (Digital Television) Bill 2012</title>,BILLS,23,1,speech
 "Hall, Jill, MP",ALP,2012-05-30,"
 
 
@@ -3337,7 +3405,7 @@ The legislation will allow commercial broadcasters to take a considered and mana
 
 The big problem is in the ABC transmission and how the ABC intends to resolve the clash of their network. That is the biggest problem on the Central Coast. The other will be resolved but I think we need to resolve that issue with the ABC. I have made representation to the ABC about that. Some areas of my electorate are able to receive an ABC transmission from three sources: from Sydney, from Mount Sugarloaf and from the Central Coast. For many, many constituents this results in a signal clash and is very difficult for individual households to resolve. They turn their aerial one way and then the other, they raise their aerial and do many things but still do not resolve the problem. I would really encourage the ABC to resolve that issue on the Central Coast. It is very important to the constituents I represent in the parliament. But I am very, very pleased with the resolution found to the problems experienced by residents at Belmont Beach north of Jewells Beach in the northern part of my electorate. Those residents will be able to receive digital reception once the switchover takes place because of the action that the minister has facilitated through community consultation leading to Regional Broadcasting Australia putting in a proposal to upgrade the site and to ensure that digital television access is available.
 
-",HoR,<title>BILLS</title>,<title>Broadcasting Services Amendment (Digital Television) Bill 2012</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Broadcasting Services Amendment (Digital Television) Bill 2012</title>,BILLS,23,1,speech
 "Albanese, Anthony, MP",ALP,2012-05-30,"
 
 
@@ -3360,7 +3428,7 @@ Bill read a second time.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,<title>Broadcasting Services Amendment (Digital Television) Bill 2012</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Broadcasting Services Amendment (Digital Television) Bill 2012</title>,BILLS,23,1,speech
 "Zappia, Tony, MP",ALP,2012-05-30,"
 
 
@@ -3401,7 +3469,7 @@ I represent an electorate where there are a considerable number of aged people. 
 
 This is good legislation because, for all of those people who have been waiting decades to get good television service, it looks as if they will be able to do so much sooner than they otherwise might have been able to. For those reasons I commend the legislation to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Randall, Don, MP",LP,2012-05-30,"
 
 
@@ -3451,7 +3519,7 @@ The key point that I am making is that there are clearly ongoing issues with the
 
 When you put this together with the government's initiative two budgets ago on set-top boxes, it just makes you realise how shambolic and symptomatic this is of a government handling an issue like this TV switch-over. The set-top box situation is just ludicrous. In fact, I have a number of set-top boxes that I cannot even give away to constituents because they do not want them. Attaching a set-top box to an analog TV for a pensioner is not the cheap, $350 option, because you then have to get out a technician to connect it and do something with the aerial. They would be far better off getting the same amount of money to allow them to go to JB Hi-Fi or Harvey Norman and just buy a proper digital TV for probably less money. You can get a good 32-inch digital TV at any of these places for about $350. This thinking is about as clever as some of the other brain snaps like pink batts, green loans and cash for clunkers that this government has come up with, and it does not solve the problem. The government needs a more orderly and structured process when people like those I have mentioned in my electorate are having extreme difficulty with this signal, whether it be for terrestrial reasons or due to the location of the tower—in his speech the member for Makin mentioned the shadow of the signal. All those sorts of issues need to be dealt with because people in outer urban electorates are just as important and just as equal as those in metropolitan areas. They deserve better.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Hall, Jill, MP",ALP,2012-05-30,"
 
 
@@ -3474,7 +3542,7 @@ The legislation will allow commercial broadcasters to take a considered and mana
 
 The big problem is in the ABC transmission and how the ABC intends to resolve the clash of their network. That is the biggest problem on the Central Coast. The other will be resolved but I think we need to resolve that issue with the ABC. I have made representation to the ABC about that. Some areas of my electorate are able to receive an ABC transmission from three sources: from Sydney, from Mount Sugarloaf and from the Central Coast. For many, many constituents this results in a signal clash and is very difficult for individual households to resolve. They turn their aerial one way and then the other, they raise their aerial and do many things but still do not resolve the problem. I would really encourage the ABC to resolve that issue on the Central Coast. It is very important to the constituents I represent in the parliament. But I am very, very pleased with the resolution found to the problems experienced by residents at Belmont Beach north of Jewells Beach in the northern part of my electorate. Those residents will be able to receive digital reception once the switchover takes place because of the action that the minister has facilitated through community consultation leading to Regional Broadcasting Australia putting in a proposal to upgrade the site and to ensure that digital television access is available.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Albanese, Anthony, MP",ALP,2012-05-30,"
 
 
@@ -3497,4 +3565,29 @@ Bill read a second time.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
+"Hartsuyker, Luke, MP",Nats,2012-05-30,"
+
+
+
+Mr Hartsuyker
+ asked the Minister for School Education, Early Childhood and Youth, in writing, on 8 May 2012:
+
+
+In respect of the Positive Body Image Awards, how many nominations were received as at (a) 23 March, and (b) 10 April, 2012. 
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Positive Body Image Awards (Question No. 969)</title>,QUESTIONS IN WRITING,24,1,question
+"Garrett, Peter, MP",ALP,2012-05-30,"
+
+
+
+Mr Garrett:
+  The answer to the honourable member's question is as follows:
+
+
+A total of eight nominations for the Positive Body Image Awards were received by 23 March 2012.
+
+
+A further seven nominations for the Positive Body Image Awards were received by 10 April 2012. This brought the total number of nominations for the Positive Body Image Awards to 15.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Positive Body Image Awards (Question No. 969)</title>,QUESTIONS IN WRITING,24,1,answer

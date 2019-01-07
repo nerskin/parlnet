@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Bishop, Bronwyn, MP",LP,2014-05-13,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER
  (12:01):  I inform the parliament that on 28 March 2014 I presented to His Excellency the Governor-General at Government House the Farm Household Support Bill 2014 for assent, this being the first bill ready for presentation following the swearing in of His Excellency. The Governor-General, in the name of Her Majesty, was pleased to assent to the bill which is now act No. 12 of 2014.
 
-",HoR,<title>BILLS</title>,<title>Farm Household Support Bill 2014</title>,BILLS,0,1
+",HoR,<title>BILLS</title>,<title>Farm Household Support Bill 2014</title>,BILLS,0,1,speech
 "Bishop, Bronwyn, MP",LP,2014-05-13,"
 
 
@@ -14,7 +14,7 @@ The SPEAKER
 The SPEAKER
  (12:01):  I inform the parliament that on 28 March 2014 I presented to His Excellency the Governor-General at Government House the Farm Household Support Bill 2014 for assent, this being the first bill ready for presentation following the swearing in of His Excellency. The Governor-General, in the name of Her Majesty, was pleased to assent to the bill which is now act No. 12 of 2014.
 
-",HoR,<title>BILLS</title>,<title>Assent</title>,BILLS,0,2
+",HoR,<title>BILLS</title>,<title>Assent</title>,BILLS,0,2,speech
 "Bishop, Bronwyn, MP",LP,2014-05-13,"
 
 
@@ -22,7 +22,7 @@ The SPEAKER
 The SPEAKER
  (12:02):  I have received a message from the Senate informing the House that Senator Ruston has been discharged from the Parliamentary Standing Committee on Public Works.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,1,1
+",HoR,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,1,1,speech
 "Bishop, Bronwyn, MP",LP,2014-05-13,"
 
 
@@ -30,7 +30,7 @@ The SPEAKER
 The SPEAKER
  (12:02):  I have received a message from the Senate informing the House that Senator Ruston has been discharged from the Parliamentary Standing Committee on Public Works.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,1,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,1,2,speech
 "Robb, Andrew, MP",LP,2014-05-13,"
 
 
@@ -104,7 +104,7 @@ That so much of the standing and sessional orders be suspended as would prevent 
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Korea-Australia Free Trade Agreement</title>,MINISTERIAL STATEMENTS,2,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Korea-Australia Free Trade Agreement</title>,MINISTERIAL STATEMENTS,2,1,speech
 "Plibersek, Tanya, MP",ALP,2014-05-13,"
 
 
@@ -158,7 +158,7 @@ On behalf of the shadow minister for trade, Senator Wong, and the opposition, I 
 
 Parliamentary consideration of proposed treaties is a fundamental element of our democratic processes. While we are about to embark on our parliamentary consideration of this treaty proposal I note that equivalent domestic processes are underway in Korea. Labor is committed to working with the government constructively but not uncritically in ensuring the proposed treaty before the House is in our national interest.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Korea-Australia Free Trade Agreement</title>,MINISTERIAL STATEMENTS,2,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Korea-Australia Free Trade Agreement</title>,MINISTERIAL STATEMENTS,2,1,speech
 "Simpkins, Luke, MP",LP,2014-05-13,"
 
 
@@ -205,7 +205,7 @@ The Communist Party, no doubt, will be joined by their fellow travellers in prot
 
 The G20 countries know that it is through economic activity that people are lifted up. It is through excellent opportunities, such as the G20 Forum in November in Brisbane, that a better future is planned for and implemented. I endorse this bill and the benefits for the people of the world that will come from the G20 deliberations.
 
-",HoR,<title>BILLS</title>,<title>G20 (Safety and Security) Complementary Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>G20 (Safety and Security) Complementary Bill 2014</title>,BILLS,3,1,speech
 "Feeney, David, MP",ALP,2014-05-13,"
 
 
@@ -249,7 +249,7 @@ This is a piece of housekeeping legislation, but, again, let me make very plain 
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>G20 (Safety and Security) Complementary Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>G20 (Safety and Security) Complementary Bill 2014</title>,BILLS,3,1,speech
 "Ruddock, Philip, MP",LP,2014-05-13,"
 
 
@@ -257,7 +257,7 @@ Debate adjourned.
 Mr RUDDOCK
  (Berowra—Chief Government Whip) (12:35):  I declare that the G20 (Safety and Security) Complementary Bill 2014 is referred to the Federation Chamber for further consideration.
 
-",HoR,<title>BILLS</title>,<title>G20 (Safety and Security) Complementary Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>G20 (Safety and Security) Complementary Bill 2014</title>,BILLS,3,1,speech
 "Simpkins, Luke, MP",LP,2014-05-13,"
 
 
@@ -304,7 +304,7 @@ The Communist Party, no doubt, will be joined by their fellow travellers in prot
 
 The G20 countries know that it is through economic activity that people are lifted up. It is through excellent opportunities, such as the G20 Forum in November in Brisbane, that a better future is planned for and implemented. I endorse this bill and the benefits for the people of the world that will come from the G20 deliberations.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Feeney, David, MP",ALP,2014-05-13,"
 
 
@@ -348,7 +348,7 @@ This is a piece of housekeeping legislation, but, again, let me make very plain 
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Parke, Melissa, MP",ALP,2014-05-13,"
 
 
@@ -368,7 +368,7 @@ Unfortunately, as Mr Wishart says, it takes the abduction of hundreds of terrifi
 
 Australia makes a critical contribution to supporting the education of girls in developing countries. In the context of the Nigerian kidnapping, we should recognise that practical and effective foreign aid prevents terrorism, creates opportunities and builds resilience in developing countries. Foreign aid has never been more important and it must be shielded from further cuts in the budget.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Nigeria</title>,STATEMENTS BY MEMBERS,4,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Nigeria</title>,STATEMENTS BY MEMBERS,4,1,speech
 "Abbott, Tony, MP",LP,2014-05-13,"
 
 
@@ -391,7 +391,7 @@ In a long and distinguished career, Brian Harradine was deeply respected for his
 
 For Brian Harradine, faith and family were everything. So I say to Brian's family, on behalf of the government, to his wife, Marian, to their 13 children, to their 38 grandchildren and to their family and friends: he was a good man. He made a contribution to this country and will be missed.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Harradine, Mr Richard William Brian</title>",CONDOLENCES,5,1
+",HoR,<title>CONDOLENCES</title>,"<title>Harradine, Mr Richard William Brian</title>",CONDOLENCES,5,1,speech
 "Shorten, Bill, MP",ALP,2014-05-13,"
 
 
@@ -419,7 +419,7 @@ Honourable members having stood in their places—
 
 The SPEAKER:  I thank the House.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Harradine, Mr Richard William Brian</title>",CONDOLENCES,5,1
+",HoR,<title>CONDOLENCES</title>,"<title>Harradine, Mr Richard William Brian</title>",CONDOLENCES,5,1,speech
 "Pyne, Christopher, MP",LP,2014-05-13,"
 
 
@@ -433,7 +433,7 @@ That further statements by indulgence in relation to the death of Brian Harradin
 
 Question agreed to.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Harradine, Mr Richard William Brian</title>",CONDOLENCES,5,1
+",HoR,<title>CONDOLENCES</title>,"<title>Harradine, Mr Richard William Brian</title>",CONDOLENCES,5,1,speech
 "Pyne, Christopher, MP",LP,2014-05-13,"
 
 
@@ -447,7 +447,26 @@ That further statements by indulgence in relation to the death of Brian Harradin
 
 Question agreed to.
 
-",HoR,<title>CONDOLENCES</title>,<title>Reference to Federation Chamber</title>,CONDOLENCES,5,2
+",HoR,<title>CONDOLENCES</title>,<title>Reference to Federation Chamber</title>,CONDOLENCES,5,2,speech
+"Shorten, Bill, MP",ALP,2014-05-13,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:14):  My question is to the Prime Minister. The Prime Minister promised the Australian people on the night before the last election: no cuts to education, no cuts to health, no changes to the pension, no changes to the GST and no cuts to the ABC or SBS. Will the Prime Minister repeat that promise now, and if not how can the Australian people trust anything this Prime Minister has to say?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Abbott, Tony, MP",LP,2014-05-13,"
+
+
+
+Mr ABBOTT
+ (Warringah—Prime Minister) (14:14):  As everyone in this chamber and everyone viewing here and around the country knows, tonight we have a budget. It is a very, very important budget, which obviously represents the values of this government and the necessity for this government to repair the debt and deficit disaster that we were left by members opposite—by the Leader of the Opposition, Mr Shorten, and his colleagues.
+
+
+I want to assure the Labor Party and all the people of Australia that we will fix the debt and deficit disaster that we were left by the Labor Party, and we will do it in ways which are faithful to the commitments we made pre-election. Let me remind members opposite that every day during the election campaign I expressed the objectives of this coalition should we be a government—we would stop the boats, we would scrap the carbon tax, we would build the roads of the 21st century and, above all else, we would bring the budget back under control. That is what this nation needs, and that is what we will deliver.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
 "Bishop, Bronwyn, MP",LP,2014-05-13,"
 
 
@@ -458,7 +477,7 @@ The SPEAKER
 
 Ordered that the reports be made parliamentary papers.
 
-",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Reports Nos 24 to 31 of 2013-14</title>,AUDITOR-GENERAL'S REPORTS,9,1
+",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Reports Nos 24 to 31 of 2013-14</title>,AUDITOR-GENERAL'S REPORTS,9,1,speech
 "Bishop, Bronwyn, MP",LP,2014-05-13,"
 
 
@@ -478,7 +497,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Leigh, Andrew, MP",ALP,2014-05-13,"
 
 
@@ -558,7 +577,7 @@ I am not a doctor but I think that we are in the presence of a condition, a chro
 (Time expired)
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Ciobo, Steven, MP",LP,2014-05-13,"
 
 
@@ -619,7 +638,7 @@ But the other key example—the other crowning glory of Labor's incompetence—w
 
 That is just the latest example where in a relatively short eight months the minister responsible, the member for Cook, has done an outstanding job stopping the boats, delivering on our promise and, when it comes to economics, saving Australian taxpayers billions of dollars as a consequence of our ability to have a backbone and make the tough decisions. Tonight will be further evidence that we are a mature, adult government with a methodical approach and that will make the hard decisions.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Perrett, Graham, MP",ALP,2014-05-13,"
 
 
@@ -669,7 +688,7 @@ Mr PERRETT:
 
 Admittedly, in hindsight we embraced a lot of tax cuts in 2007 that perhaps we should not have. As a candidate at the time, I thought it was good policy—in hindsight, not so much. The reality is that we have a budget that is manageable and in a good, strong position. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "McCormack, Michael, MP",Nats,2014-05-13,"
 
 
@@ -713,7 +732,7 @@ There was a $6 billion to $8 billion blow-out in the cost of overpriced school h
 
 Treasury projects that without policy change the budget would have been in deficit for the next decade. This would mean 16 unbroken years of deficits unless brought under control by the Liberal-National coalition, which is what we are doing, and it starts tonight. The adults are back in charge. As Tony Abbott, the now Prime Minister, promised prior to the election, we would get the economy back on track and the absolute confidence of the people to do that. People have been ringing and telling us, 'Don't squib it.' They want us to get in and make the hard decisions on behalf of the people and on behalf of the taxpayers of this nation, who deserve better. They deserved better over the last six years; they did not get it, but they will certainly get it under the Abbott-Truss Liberal-National government.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Butler, Terri, MP",ALP,2014-05-13,"
 
 
@@ -739,7 +758,7 @@ This mob opposite us have wanted to get rid of Medicare since before its incepti
 
 The people opposite, the Liberals and Nationals, have always hated Medicare and universal health care. People in the electorate of Griffith who I represent and people across Australia love universal health care; they love Medicare because it is one of the defining achievements of our social democracy in Australia. If, as predicted, a GP tax is included in tonight's budget then the Liberals and the Nationals will understand very quickly how people feel about that change to Medicare. They will understand very quickly the backlash to the GP tax, not to mention the petrol tax, the personal tax increase, the failure to fund education as they had promised—the broken promises from a Prime Minister who claimed he would have no excuses. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Smith, Tony, MP",LP,2014-05-13,"
 
 
@@ -781,7 +800,7 @@ Dr Leigh:
 Mr TONY SMITH:
   You just got bored, did you? I tell you what, I will finish on this note: maybe it was the shadow Treasurer's idea to keep you out of the lockup as long as he could.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Watts, Tim, MP",ALP,2014-05-13,"
 
 
@@ -836,7 +855,7 @@ The DEPUTY SPEAKER:  No, that is not a point of order and it is verging on being
 Mr WATTS:
   I can understand the sensitivity from those opposite. It is no surprise that they did not tell voters about their real plans for Australia. They knew that the Australian public would not have a bar of it if they knew about it. The Australian people did not vote for this and they do not want it, and at the next election we are going to hold the government to account.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Taylor, Angus, MP",LP,2014-05-13,"
 
 
@@ -853,7 +872,7 @@ The Commission of Audit has made the gravity of the situation clear. Our biggest
 
 It was irresponsible to run large budget deficits during a mining boom with skyrocketing household debt. However, leaving the problem for another day would be a huge threat to the prosperity of those households with high debt burdens, many of whom are in my electorate, and to the prosperity of all those businesses which rely on those households for their prosperity. We are falling off a fiscal cliff and we still have a long way to fall. The debt and deficit deniers are screaming that it is all okay because we have not yet hit the bottom. I suggest that they look down to see the bodies sprawled below, mostly European. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "O'Neil, Clare, MP",ALP,2014-05-13,"
 
 
@@ -879,7 +898,7 @@ What we see along with these massive areas of spending are some significant area
 
 All the while, we have these very serious people on the other side of the House paying $140,000 for a private jet to bring them to Canberra and having a lovely time sitting in the parliamentary courtyard puffing on Cubans. I would just say to those on the other side of the House that it might be time to stop trying to pretend you are so serious and tough, get real with the facts and start listening to those on the other side of the House who actually have some experience and understanding of economics.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Alexander, John, MP",LP,2014-05-13,"
 
 
@@ -906,7 +925,7 @@ Labor have levelled another attack against this government in the lead-up to ton
 
 The DEPUTY SPEAKER:  Order! The discussion is now concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>National Commission of Audit</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Southcott, Dr Andrew, MP",LP,2014-05-13,"
 
 
@@ -941,7 +960,7 @@ Further proportional funding increases are also required as new entities are cre
 
 In conclusion, the committee remains concerned about the increase in pressures being placed on the PBO and the ANAO. Additional savings measures have been applied that further reduce the available funding and are now at the point where they are having an effect on the scope of the ANAO's work program. As independent authorities, the PBO and the ANAO need to be sufficiently funded to fulfil their legislative requirements and adequately support the parliament. The committee appreciates the efforts of both the Parliamentary Budget Officer and the Auditor-General in maintaining strong working relationships across the parliament and particularly with this committee. They have made themselves available for regular briefings and have been responsive to requests for information on a variety of topics. The committee looks forward to continuing these productive relationships. I present a copy of my statement.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,12,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,12,1,speech
 "Southcott, Dr Andrew, MP",LP,2014-05-13,"
 
 
@@ -991,7 +1010,7 @@ In terms of the development of future rules under the PGPA Act and other element
 
 In conclusion, if the benefits of this new framework are fully captured this will modernise public sector financial management, making Australia once again world leading in this area and positioning us well for the decades ahead. I commend Finance for its leadership in driving this significant reform process. I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,12,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,12,2,speech
 "Conroy, Pat, MP",ALP,2014-05-13,"
 
 
@@ -1005,7 +1024,7 @@ I will not go into too much detail on the report as the chair has ably covered t
 
 The second issue I would like to cover is the dual coverage of PGPA Act and Public Service Act. This was highlighted by several submissions, most notably the Public Service Commission, which stated that the dual coverage of the two acts, with each of them setting out alternative statements seeking to regulate the behaviour and professional standards of public servants in the APS, adds complexity and the potential for confusion for APS employees. To address this potential confusion the committee proposed that the PGPA Act be amended to specify that the provisions of the act relating to the general duties of officials do not apply to those employed under the Public Service Act. In response to these concerns, the Department of Finance has indicated that they will continue to work with the Public Service Commission to ensure clarity around the way in which the two acts interact, and the committee recommended that they come back to parliament with a solution as soon as possible. I will finish by thanking the committee secretariat for their work in preparing the report, and I commend it to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,12,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,12,2,speech
 "Coulton, Mark, MP",Nats,2014-05-13,"
 
 
@@ -1028,7 +1047,7 @@ Another project I have been working on in conjunction with RiverSmart Australia 
 
 I have been a little disappointed by some of the contributions from members of the opposition who see this as some sort of assault on trade unions or some form of cheap, serf labour for young disadvantaged people. The greatest thing we can do to put stability into these young people's lives is give them the opportunity to undertake some form of employment which will be a pathway for them into a future involving work, not disconnectedness, impoverishment and isolation from the mainstream community. Indeed, this program will lead to better outcomes in employment. Also, it will lead to practical environmental outcomes which will benefit the environment, not highfaluting global targets which we may or may not reach but projects that will have a positive effect on the environment in which we live and which sustains us. The Social Security Legislation Amendment (Green Army Programme) Bill 2014 has my full support.
 
-",HoR,<title>BILLS</title>,<title>Social Security Legislation Amendment (Green Army Programme) Bill 2014</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Social Security Legislation Amendment (Green Army Programme) Bill 2014</title>,BILLS,13,1,speech
 "Perrett, Graham, MP",ALP,2014-05-13,"
 
 
@@ -1099,7 +1118,7 @@ There is overwhelming evidence to show how critical the transition from school i
 
 Labor seeks a guarantee from the government that all participants in this Green Army Program who are on income support payments will be better off, regardless of their life situation. We need to ensure that participants are not worse off through any changes in income tax, childcare payments or the potential loss of low-income healthcare cards or associated concessions. I also have serious reservations about preserving existing jobs in areas that overlap with activities to be undertaken by the Green Army. The Green Army simply cannot be an excuse for putting Australians out of work in favour of using low-paid participants. The government needs to stop deceiving the Australian public that this is an environmental program. The coalition's track record on environmental policy, as seen in their disastrous Direct Action policy—a policy which they are embarrassed by and about which no environmentalist or economist can find anything good to say—is shameful, and I urge this government to stop ignoring the signs and start looking at effective climate policy and improved environmental preservation.
 
-",HoR,<title>BILLS</title>,<title>Social Security Legislation Amendment (Green Army Programme) Bill 2014</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Social Security Legislation Amendment (Green Army Programme) Bill 2014</title>,BILLS,13,1,speech
 "Baldwin, Bob, MP",LP,2014-05-13,"
 
 
@@ -1158,7 +1177,7 @@ These projects also led to one of my constituents winning Paterson Corporate Cit
 
 When the former, Labor government took office, this important initiative was torn apart and then it was terminated in 2012. Young people no longer had the opportunity to gain practical skills and improve their local environment. The government is strongly committed to kick-starting the economy and offering the community the ability to address our environmental challenges and to reduce our emissions. I call on the Labor Party and all members of the parliament to support the Social Security Legislation (Green Army Programme) Amendment Bill 2014 for the benefit that it will provide to our environment, for the benefit it will provide to our young people and for the positive effect it will have on our community as a whole. I commend this bill to the House without any reservation. 
 
-",HoR,<title>BILLS</title>,<title>Social Security Legislation Amendment (Green Army Programme) Bill 2014</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Social Security Legislation Amendment (Green Army Programme) Bill 2014</title>,BILLS,13,1,speech
 "Thistlethwaite, Matt, MP",ALP,2014-05-13,"
 
 
@@ -1200,7 +1219,7 @@ Australians are right to be suspicious of the motives of this government when it
 
 To conclude, I believe that the government needs to answer a number of questions before this bill is given passage through the House and the Senate. Those questions are as follows. Firstly, why are participants not considered workers or employees under the Work Health and Safety Act, the Safety, Rehabilitation and Compensation Act and the Fair Work Act? Secondly, exactly what are the implications for participants not being considered workers or employees under these acts? Thirdly, how will the program support people into mainstream employment? That must be the focus of employment and training programs. It is not a quick-fix, quasi-environmental program. It is an employment program. How will people get into long-term employment through these pathways? That question has not been answered by the government in proposing this bill. Will there be minimum training outcomes? If so, what are they? And will there be minimum training hours required for those participating in the program? What protections will there be to ensure that no businesses currently providing and working in this space will lose business or that, indeed, no employees will lose their jobs as a result of the passage of this bill? They are the questions that constituents in Kingsford Smith, in our community, wish the government to answer before this bill is passed.
 
-",HoR,<title>BILLS</title>,<title>Social Security Legislation Amendment (Green Army Programme) Bill 2014</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Social Security Legislation Amendment (Green Army Programme) Bill 2014</title>,BILLS,13,1,speech
 "Kelly, Craig, MP",LP,2014-05-13,"
 
 
@@ -1265,7 +1284,7 @@ We need to think through the unintended consequences of this bad policy. That is
 
 So I commend this bill to the House. Again, it shows the difference between the coalition and the opposition. We are here taking practical, real steps that will improve the environment in Western Sydney, while the opposition are intent on implementing these symbolic measures that not only have no effect but do the opposite—cause harm to people's health.
 
-",HoR,<title>BILLS</title>,<title>Social Security Legislation Amendment (Green Army Programme) Bill 2014</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Social Security Legislation Amendment (Green Army Programme) Bill 2014</title>,BILLS,13,1,speech
 "Conroy, Pat, MP",ALP,2014-05-13,"
 
 
@@ -1321,7 +1340,7 @@ We have to combat climate change. We have to take care of our environment. We he
 
 To get back to this legislation, the Green Army Program is something the opposition will not oppose. We have serious questions marks about its implementation. I know our spokesperson is in meetings with the minister about it, and hopefully we can resolve the issues. Supporting on-the-ground conservation is important, but it cannot be done by sacrificing the safety of the workers involved, by putting out of work people who are already undertaking this work, or by paying them less than income support payments. We support this program, with appropriate safeguards. It builds on long-term programs run by the Keating, Howard, Rudd and Gillard governments. I think we just need to improve the implementation of it and we need to look at moving environmental action beyond empty symbolism to combatting climate change to ensure that our environment is in good hands.
 
-",HoR,<title>BILLS</title>,<title>Social Security Legislation Amendment (Green Army Programme) Bill 2014</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Social Security Legislation Amendment (Green Army Programme) Bill 2014</title>,BILLS,13,1,speech
 "Irons, Steve, MP",LP,2014-05-13,"
 
 
@@ -1374,7 +1393,7 @@ Sitting suspended from 18
 30
 
 
-",HoR,<title>BILLS</title>,<title>Social Security Legislation Amendment (Green Army Programme) Bill 2014</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Social Security Legislation Amendment (Green Army Programme) Bill 2014</title>,BILLS,13,1,speech
 "Coulton, Mark, MP",Nats,2014-05-13,"
 
 
@@ -1397,7 +1416,7 @@ Another project I have been working on in conjunction with RiverSmart Australia 
 
 I have been a little disappointed by some of the contributions from members of the opposition who see this as some sort of assault on trade unions or some form of cheap, serf labour for young disadvantaged people. The greatest thing we can do to put stability into these young people's lives is give them the opportunity to undertake some form of employment which will be a pathway for them into a future involving work, not disconnectedness, impoverishment and isolation from the mainstream community. Indeed, this program will lead to better outcomes in employment. Also, it will lead to practical environmental outcomes which will benefit the environment, not highfaluting global targets which we may or may not reach but projects that will have a positive effect on the environment in which we live and which sustains us. The Social Security Legislation Amendment (Green Army Programme) Bill 2014 has my full support.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Perrett, Graham, MP",ALP,2014-05-13,"
 
 
@@ -1468,7 +1487,7 @@ There is overwhelming evidence to show how critical the transition from school i
 
 Labor seeks a guarantee from the government that all participants in this Green Army Program who are on income support payments will be better off, regardless of their life situation. We need to ensure that participants are not worse off through any changes in income tax, childcare payments or the potential loss of low-income healthcare cards or associated concessions. I also have serious reservations about preserving existing jobs in areas that overlap with activities to be undertaken by the Green Army. The Green Army simply cannot be an excuse for putting Australians out of work in favour of using low-paid participants. The government needs to stop deceiving the Australian public that this is an environmental program. The coalition's track record on environmental policy, as seen in their disastrous Direct Action policy—a policy which they are embarrassed by and about which no environmentalist or economist can find anything good to say—is shameful, and I urge this government to stop ignoring the signs and start looking at effective climate policy and improved environmental preservation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Baldwin, Bob, MP",LP,2014-05-13,"
 
 
@@ -1527,7 +1546,7 @@ These projects also led to one of my constituents winning Paterson Corporate Cit
 
 When the former, Labor government took office, this important initiative was torn apart and then it was terminated in 2012. Young people no longer had the opportunity to gain practical skills and improve their local environment. The government is strongly committed to kick-starting the economy and offering the community the ability to address our environmental challenges and to reduce our emissions. I call on the Labor Party and all members of the parliament to support the Social Security Legislation (Green Army Programme) Amendment Bill 2014 for the benefit that it will provide to our environment, for the benefit it will provide to our young people and for the positive effect it will have on our community as a whole. I commend this bill to the House without any reservation. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Thistlethwaite, Matt, MP",ALP,2014-05-13,"
 
 
@@ -1569,7 +1588,7 @@ Australians are right to be suspicious of the motives of this government when it
 
 To conclude, I believe that the government needs to answer a number of questions before this bill is given passage through the House and the Senate. Those questions are as follows. Firstly, why are participants not considered workers or employees under the Work Health and Safety Act, the Safety, Rehabilitation and Compensation Act and the Fair Work Act? Secondly, exactly what are the implications for participants not being considered workers or employees under these acts? Thirdly, how will the program support people into mainstream employment? That must be the focus of employment and training programs. It is not a quick-fix, quasi-environmental program. It is an employment program. How will people get into long-term employment through these pathways? That question has not been answered by the government in proposing this bill. Will there be minimum training outcomes? If so, what are they? And will there be minimum training hours required for those participating in the program? What protections will there be to ensure that no businesses currently providing and working in this space will lose business or that, indeed, no employees will lose their jobs as a result of the passage of this bill? They are the questions that constituents in Kingsford Smith, in our community, wish the government to answer before this bill is passed.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Kelly, Craig, MP",LP,2014-05-13,"
 
 
@@ -1634,7 +1653,7 @@ We need to think through the unintended consequences of this bad policy. That is
 
 So I commend this bill to the House. Again, it shows the difference between the coalition and the opposition. We are here taking practical, real steps that will improve the environment in Western Sydney, while the opposition are intent on implementing these symbolic measures that not only have no effect but do the opposite—cause harm to people's health.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Conroy, Pat, MP",ALP,2014-05-13,"
 
 
@@ -1690,7 +1709,7 @@ We have to combat climate change. We have to take care of our environment. We he
 
 To get back to this legislation, the Green Army Program is something the opposition will not oppose. We have serious questions marks about its implementation. I know our spokesperson is in meetings with the minister about it, and hopefully we can resolve the issues. Supporting on-the-ground conservation is important, but it cannot be done by sacrificing the safety of the workers involved, by putting out of work people who are already undertaking this work, or by paying them less than income support payments. We support this program, with appropriate safeguards. It builds on long-term programs run by the Keating, Howard, Rudd and Gillard governments. I think we just need to improve the implementation of it and we need to look at moving environmental action beyond empty symbolism to combatting climate change to ensure that our environment is in good hands.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Irons, Steve, MP",LP,2014-05-13,"
 
 
@@ -1743,7 +1762,7 @@ Sitting suspended from 18
 30
 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Ciobo, Steven, MP",LP,2014-05-13,"
 
 
@@ -1766,7 +1785,7 @@ Agency resourcing.
 
 Ordered that the documents be made parliamentary papers. 
 
-",HoR,<title>DOCUMENTS</title>,<title>Budget Documents 2014-15</title>,DOCUMENTS,14,1
+",HoR,<title>DOCUMENTS</title>,<title>Budget Documents 2014-15</title>,DOCUMENTS,14,1,speech
 "Ciobo, Steven, MP",LP,2014-05-13,"
 
 
@@ -1789,7 +1808,7 @@ Agency resourcing.
 
 Ordered that the documents be made parliamentary papers. 
 
-",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,14,2
+",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,14,2,speech
 "McCormack, Michael, MP",Nats,2014-05-13,"
 
 
@@ -1830,4 +1849,107 @@ Details of the proposed expenditure are set out in the schedules to the bill and
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 2) 2014-2015</title>,BILLS,15,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 2) 2014-2015</title>,BILLS,15,1,speech
+"Leigh, Andrew, MP",ALP,2014-05-13,"
+
+
+
+
+Dr Leigh
+
+
+asked the Minister for Social Services, in writing, on 11 February 2014:
+
+
+(1) Is he aware that it was the Productivity Commission's recommendation to establish an Australian Charities and Not-for Profits Commission (ACNC) to regulate the charity sector and support its effectiveness.
+
+
+(2) Why does the Government plan to abolish the ACNC.
+
+
+(3) Has the Government (a) sought, or (b) received, advice on the impact of removing the ACNC on the productivity of charitable organisations; if so, can he disclose the advice.
+
+
+(4) Would the Government consider providing assistance to the charity sector in order to offset the loss of productivity that will result from the abolition of the ACNC; if not, why not.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Australia Charities and Not-for Profits Commission (Question No. 41)</title>,QUESTIONS IN WRITING,17,1,question
+"Andrews, Kevin, MP",LP,2014-05-13,"
+
+
+
+Mr Andrews:
+  The answer to the honourable member's question is as follows: 
+
+
+
+
+(1) The 2010 Productivity Commission
+'
+s research report 
+Contribution of the Not-for-Profit Sector
+ did not recommend the establishment of the ACNC to regulate the charity sector and support its effectiveness.
+
+
+
+
+
+Instead,
+
+
+Recommendation 6.5 of the report states:
+
+
+
+
+The Australian Government should establish a one-stop-shop for Commonwealth regulation by consolidating various regulatory functions into a new national Registrar for Community and Charitable Purpose Organisations.
+
+
+While ultimately the Registrar could be an independent statutory body, initially it should be established as a statutory body corporate or organ in the Australian Securities and Investment Commission.
+
+
+
+
+
+(2) The role of charities and not-for-profit (NFP) organisations in our society is important and the Australian Government believes that supporting the sector
+'
+s ability to self-manage allows organisations to focus more on their work in the community.
+
+
+
+
+
+The Government is implementing a broad deregulation agenda to boost productivity by removing any excessive, unnecessary and overly complex red and green tape imposed on business, community organisations and individuals by at least $1 billion a year.
+
+
+
+
+
+As part of this, the Government has committed to remove the ACNC and provide further support to charities and the NFP sector through a new National Centre for Excellence (NCE).
+
+
+The NCE will foster innovation, provide education and represent the interest of charities 
+and NFP agencies to government.
+
+
+
+
+
+(3) (a) and (b) I have, and will continue to seek advice on the impact of removing the ACNC.
+
+
+The outcome of this advice is a decision for Government.
+
+
+
+
+
+(4) The department is working across government to ensure transition arrangements with the abolition of the ACNC run smoothly.
+
+
+I
+
+
+will continue to seek advice on the impact of removing the ACNC and the outcomes of this advice is a decision for Government.
+
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Australia Charities and Not-for Profits Commission (Question No. 41)</title>,QUESTIONS IN WRITING,17,1,answer

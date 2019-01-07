@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Burke, Anna, MP",ALP,2013-02-07,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER
  (09:01):  I have received a message from the Senate informing the House that the Senate concurs with variations to the resolution on the appointment of the Joint Select Committee on Constitutional Recognition of Local Government.
 
-",HoR,<title>COMMITTEES</title>,<title>Constitutional Recognition of Local Government Committee</title>,COMMITTEES,0,1
+",HoR,<title>COMMITTEES</title>,<title>Constitutional Recognition of Local Government Committee</title>,COMMITTEES,0,1,speech
 "Burke, Anna, MP",ALP,2013-02-07,"
 
 
@@ -14,7 +14,7 @@ The SPEAKER
 The SPEAKER
  (09:01):  I have received a message from the Senate informing the House that the Senate concurs with variations to the resolution on the appointment of the Joint Select Committee on Constitutional Recognition of Local Government.
 
-",HoR,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,0,2
+",HoR,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,0,2,speech
 "Smith, Stephen, MP",ALP,2013-02-07,"
 
 
@@ -275,7 +275,7 @@ That so much of the standing orders be suspended as would prevent the honourable
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,1,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,1,1,speech
 "Robert, Stuart, MP",LP,2013-02-07,"
 
 
@@ -349,7 +349,7 @@ We are all committed to the care and support of veterans and especially to desti
 
 Let me conclude as I started by saying this will not be a normal year for combat operations in Afghanistan. By year's end we will know the mettle of the Afghan National Army and whether they have stood up and fought against an enemy that will try and retake the high ground this year. By year's end, we will know what the outcome will be, and I join the minister in expressing confidence. The 4th Brigade of the Afghan National Army has been trained by the finest fighting force in the world, the Australian Army. I have great hope that the Afghan National Army under such training and guided by the assistance of the 7th Battalion task group and its associated forces will rise to the challenge. By year's end, we will have withdrawn much of our assistance force as well as much of our gear and we will be playing a much reduced combat role if anything apart from our kinetic elements within the Special Operations Task Group. The ANA will have to step up. They will have to prove their mettle during the spring and summer fighting season that will literally start in a matter of a week's time. Our enemy will test them. The Afghan National Army is well trained but now is the time for them to own their own security. Now is the time for Afghanistan as a country to realise its hopes and its dreams of maintaining its own integrity in terms of its borders with that first command of any government: the sovereign security of its state. Our path to withdrawal is set. It has bipartisan support. We welcome the advance of the Afghan National Army's performance and we look forward to the coming year ahead.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,1,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,1,1,speech
 "Gray, Gary, MP",ALP,2013-02-07,"
 
 
@@ -429,7 +429,7 @@ The remaining amounts that appear in Appropriation Bill (No. 3) relate to estima
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 3) 2012-2013</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 3) 2012-2013</title>,BILLS,2,1,speech
 "Gray, Gary, MP",ALP,2013-02-07,"
 
 
@@ -449,7 +449,7 @@ I commend the motion to the House.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,3,1
+",HoR,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,3,1,speech
 "Gray, Gary, MP",ALP,2013-02-07,"
 
 
@@ -469,7 +469,7 @@ I commend the motion to the House.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,3,2
+",HoR,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,3,2,speech
 "Baldwin, Bob, MP",LP,2013-02-07,"
 
 
@@ -564,7 +564,7 @@ Ultimately, this bill is a good thing. In fact, it promises great things for peo
 
 I support the legislation before the House, as do my colleagues, and we look forward to the review of the legislation in two years to make sure that it is meeting the needs it was designed to serve. I support this legislation.
 
-",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,4,1,speech
 "Hayes, Chris, MP",ALP,2013-02-07,"
 
 
@@ -620,7 +620,7 @@ Grace Fava, who is a longstanding friend of mine, is also the Autism Advisory an
 
 I cannot say enough about the steps we are now taking. It is something that is long overdue but also something that we should be proud of because we are taking the steps necessary for people with disabilities to be properly included in our community. I have often said that history will judge our generation on how we relate to and how we include people with disabilities. This bill represents the first step in a long way to go to ensure that— (Time expired)
 
-",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,4,1,speech
 "Gambaro, Teresa, MP",LP,2013-02-07,"
 
 
@@ -697,7 +697,7 @@ The interaction of three components, the NDIS Bill, the NDIS rules and the opera
 
 The concept of the NDIS has gained momentum over the last five years and it is appropriate to acknowledge the role played by Minister Shorten in helping to elevate the public policy profile of disability, but the time has now come. The lion's share of the credit goes to people with disability, their families, their carers and the organisations that support them. They have all come together. They have decided that enough is enough. They speak with one voice. In order to ensure that the NDIS is a success, we support the smooth operation of the launch sites. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,4,1,speech
 "Hall, Jill, MP",ALP,2013-02-07,"
 
 
@@ -756,7 +756,7 @@ The NDIS will also provide access to the system. It will be easily navigated and
 
 I think this is great legislation, just in case you did not pick it up from my contribution to this debate. It will make a real difference to the lives of people who have been ignored for so long. This is legislation about people. It is legislation about delivering a commitment given by this government. Every member in this House should be proud of this legislation. This legislation will make me pleased to go back to my electorate to talk to people with disability. Disability should not be a sentence of total disempowerment and a life of isolation and poverty. People with disability have needs, expectations and rights. This ground-breaking legislation will deliver. It recognises that people with disability have rights and needs.
 
-",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,4,1,speech
 "Broadbent, Russell, MP",LP,2013-02-07,"
 
 
@@ -806,7 +806,7 @@ The parliament supports it and the government supports it, but I am saying to yo
 
 I would love it if the Prime Minister of this nation, or the education minister of this nation, were able to stand up in an international forum and say, 'We have the world's best national disability insurance scheme,' or 'We have the world's only national disability insurance scheme and we proudly lead the world in our approach to people with disability.' I could not think of a better outcome for a parliamentary career, or a better outcome for any term of parliament, than to deliver an NDIS. I could not think of a better outcome than being able to say to the world, 'We in this parliament delivered what could not be delivered.' Wouldn't it be great if, as a member of parliament, you could stand up and say: 'We delivered the world's first national disability insurance scheme and, in that process, we led the world. Now such schemes exist in this country, that country and that country.' I leave you with this final thought: we should not set the bar so high—hopes should not be taken to such a high level—that we are unable to jump over it. Thank you.
 
-",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,4,1,speech
 "Elliot, Justine, MP",ALP,2013-02-07,"
 
 
@@ -865,7 +865,7 @@ I am really proud to be speaking on this debate and I commend the bill to the Ho
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,4,1,speech
 "Baldwin, Bob, MP",LP,2013-02-07,"
 
 
@@ -960,7 +960,7 @@ Ultimately, this bill is a good thing. In fact, it promises great things for peo
 
 I support the legislation before the House, as do my colleagues, and we look forward to the review of the legislation in two years to make sure that it is meeting the needs it was designed to serve. I support this legislation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Hayes, Chris, MP",ALP,2013-02-07,"
 
 
@@ -1016,7 +1016,7 @@ Grace Fava, who is a longstanding friend of mine, is also the Autism Advisory an
 
 I cannot say enough about the steps we are now taking. It is something that is long overdue but also something that we should be proud of because we are taking the steps necessary for people with disabilities to be properly included in our community. I have often said that history will judge our generation on how we relate to and how we include people with disabilities. This bill represents the first step in a long way to go to ensure that— (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Gambaro, Teresa, MP",LP,2013-02-07,"
 
 
@@ -1093,7 +1093,7 @@ The interaction of three components, the NDIS Bill, the NDIS rules and the opera
 
 The concept of the NDIS has gained momentum over the last five years and it is appropriate to acknowledge the role played by Minister Shorten in helping to elevate the public policy profile of disability, but the time has now come. The lion's share of the credit goes to people with disability, their families, their carers and the organisations that support them. They have all come together. They have decided that enough is enough. They speak with one voice. In order to ensure that the NDIS is a success, we support the smooth operation of the launch sites. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Hall, Jill, MP",ALP,2013-02-07,"
 
 
@@ -1152,7 +1152,7 @@ The NDIS will also provide access to the system. It will be easily navigated and
 
 I think this is great legislation, just in case you did not pick it up from my contribution to this debate. It will make a real difference to the lives of people who have been ignored for so long. This is legislation about people. It is legislation about delivering a commitment given by this government. Every member in this House should be proud of this legislation. This legislation will make me pleased to go back to my electorate to talk to people with disability. Disability should not be a sentence of total disempowerment and a life of isolation and poverty. People with disability have needs, expectations and rights. This ground-breaking legislation will deliver. It recognises that people with disability have rights and needs.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Broadbent, Russell, MP",LP,2013-02-07,"
 
 
@@ -1202,7 +1202,7 @@ The parliament supports it and the government supports it, but I am saying to yo
 
 I would love it if the Prime Minister of this nation, or the education minister of this nation, were able to stand up in an international forum and say, 'We have the world's best national disability insurance scheme,' or 'We have the world's only national disability insurance scheme and we proudly lead the world in our approach to people with disability.' I could not think of a better outcome for a parliamentary career, or a better outcome for any term of parliament, than to deliver an NDIS. I could not think of a better outcome than being able to say to the world, 'We in this parliament delivered what could not be delivered.' Wouldn't it be great if, as a member of parliament, you could stand up and say: 'We delivered the world's first national disability insurance scheme and, in that process, we led the world. Now such schemes exist in this country, that country and that country.' I leave you with this final thought: we should not set the bar so high—hopes should not be taken to such a high level—that we are unable to jump over it. Thank you.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Elliot, Justine, MP",ALP,2013-02-07,"
 
 
@@ -1261,7 +1261,7 @@ I am really proud to be speaking on this debate and I commend the bill to the Ho
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Albanese, Anthony, MP",ALP,2013-02-07,"
 
 
@@ -1389,7 +1389,7 @@ That so much of the standing and sessional orders be suspended as would prevent 
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Transport Safety and Security Cooperation with Indonesia</title>,MINISTERIAL STATEMENTS,5,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Transport Safety and Security Cooperation with Indonesia</title>,MINISTERIAL STATEMENTS,5,1,speech
 "Truss, Warren, MP",Nats,2013-02-07,"
 
 
@@ -1424,7 +1424,7 @@ Following the tragic 2002 bombings in Bali, our two countries' counter-terrorism
 
 In conclusion, can I again join Minister Albanese in welcoming Minister Mangindaan, together with officials from his ministry, to Australia and thank them for their commitment to strengthening the security relationship between our two countries. Maintaining a productive and cooperative relationship between our transportation departments and agencies is very important, and the two transport initiatives that will be signed today will assist in improving transport safety and security outcomes, not just for Australia and Indonesia but for our whole region. I welcome Minister Mangindaan. I trust that your visit to Australia will be pleasurable and that the bonds of friendship that are now secure and strongly developed between our countries will be further strengthened by your days in Australia. 
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Transport Safety and Security Cooperation with Indonesia</title>,MINISTERIAL STATEMENTS,5,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Transport Safety and Security Cooperation with Indonesia</title>,MINISTERIAL STATEMENTS,5,1,speech
 "Roy, Wyatt, MP",LP,2013-02-07,"
 
 
@@ -1465,7 +1465,7 @@ Meantime, in my electorate alone there are many examples of waste of taxpayer mo
 
 Government, at the end of the day, is always about priorities. In difficult economic circumstances brought on by the mismanagement of the Labor government, it remains important that we prioritise the NDIS and work together to make it the best that it can be. Any fair-minded Australian would agree with us.
 
-",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,6,1,speech
 "Leigh, Andrew, MP",ALP,2013-02-07,"
 
 
@@ -1545,7 +1545,7 @@ The first stage of the scheme will, apart from the ACT, also be launched in Sout
 
 I want to thank and acknowledge the advocates, those working in the sector, the family members and the people with a disability who have fought for a fair system that is based on their needs and that empowers them with more choice and control. As I have acknowledged before, it was Minister Shorten who initiated much of this reform but I also want to recognise the hard work of Minister Macklin, the Prime Minister and Senator McLucas, who have worked together to make Australia's social contract a little stronger, to make us a little fairer as a nation and, hopefully, to improve the lives of thousands of Australians with a disability and their families and carers.
 
-",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,6,1,speech
 "Jones, Ewen, MP",LP,2013-02-07,"
 
 
@@ -1611,7 +1611,7 @@ Last year I did the Chatterbox Challenge for a series of charities. For a day, I
 
 We can do this. To be a member of a nation's parliament that delivers the world's first National Disability Insurance Scheme would be a great personal achievement, but it would pale into insignificance compared with what it means to someone who lives their life inside the disability system. We have a chance to make a difference, and I think what we all have to do is take a step back and work together. We can make this happen, and we can make it happen now. I thank the House.
 
-",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,6,1,speech
 "Perrett, Graham, MP",ALP,2013-02-07,"
 
 
@@ -1655,7 +1655,7 @@ So there I was at that dinner with my Prime Minister, Kevin Rudd, and right next
 
 I just think of what the NDIS will do to make sure that every Kevin Cox has an opportunity to take control of their life, because not everyone will have the courage of Kevin Cox to stand up to a state government—a Labor government—and say, 'That's not right'. But the NDIS will hopefully set up a scheme that will promote such opportunities. I commend the legislation to the House.
 
-",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,6,1,speech
 "Prentice, Jane, MP",LP,2013-02-07,"
 
 
@@ -1751,7 +1751,7 @@ The National Disability Insurance Scheme is a program supported widely across my
 
 I would also like to take this opportunity to acknowledge the wonderful volunteers in our community who act as carers to a family member or to a family friend. They are the unsung heroes in this story. They are the ones who volunteer 24/7—around the clock. They do not get special statues built for them. They do not get special recognition but they are the ones who devote their lives, and I pay tribute to all those volunteers in this sector.
 
-",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,6,1,speech
 "Rishworth, Amanda, MP",ALP,2013-02-07,"
 
 
@@ -1822,7 +1822,7 @@ In conclusion, we have seen under this government an increase in funding support
 
 Labor has always been involved in giving people the opportunity to get ahead and in making sure no one gets left behind. That is what we did when we introduced the age pension, Medicare, superannuation and paid parental leave and that is what we are doing now with the National Disability Insurance Scheme. This is a critical piece of legislation that will go a long way towards ensuring that people with a disability and their families really get what they deserve, get the support they deserve and get to live a fulfilling life. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,6,1,speech
 "Fletcher, Paul, MP",LP,2013-02-07,"
 
 
@@ -1878,7 +1878,7 @@ To point out this simple fact is not to oppose the NDIS—far from it. It is sim
 
 I conclude by observing that the current arrangements for support to those with a disability are capricious and unsatisfactory and that, at base level, is why the concept of a national disability insurance scheme has bipartisan support. Today's bill goes some short distance down the road towards fleshing out the concept of a national disability insurance scheme. To that extent, is has the support of the coalition. The real challenge here is the gulf between concept and execution.    Given this government's very poor track record of implementation across a whole range of policy areas, it is extremely difficult to have any confidence in the capacity of the present government to turn the NDIS into a reality in an efficient and cost-effective way. Nevertheless, the coalition is committed to offering bipartisan support for the NDIS and, should we come to government, we are committed to pursuing this key initiative.
 
-",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,6,1,speech
 "Husic, Ed, MP",ALP,2013-02-07,"
 
 
@@ -1940,7 +1940,7 @@ The DEPUTY SPEAKER
 Mr S Georganas
 ):  Order! The debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour. 
 
-",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>National Disability Insurance Scheme Bill 2012</title>,BILLS,6,1,speech
 "Roy, Wyatt, MP",LP,2013-02-07,"
 
 
@@ -1981,7 +1981,7 @@ Meantime, in my electorate alone there are many examples of waste of taxpayer mo
 
 Government, at the end of the day, is always about priorities. In difficult economic circumstances brought on by the mismanagement of the Labor government, it remains important that we prioritise the NDIS and work together to make it the best that it can be. Any fair-minded Australian would agree with us.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Leigh, Andrew, MP",ALP,2013-02-07,"
 
 
@@ -2061,7 +2061,7 @@ The first stage of the scheme will, apart from the ACT, also be launched in Sout
 
 I want to thank and acknowledge the advocates, those working in the sector, the family members and the people with a disability who have fought for a fair system that is based on their needs and that empowers them with more choice and control. As I have acknowledged before, it was Minister Shorten who initiated much of this reform but I also want to recognise the hard work of Minister Macklin, the Prime Minister and Senator McLucas, who have worked together to make Australia's social contract a little stronger, to make us a little fairer as a nation and, hopefully, to improve the lives of thousands of Australians with a disability and their families and carers.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Jones, Ewen, MP",LP,2013-02-07,"
 
 
@@ -2127,7 +2127,7 @@ Last year I did the Chatterbox Challenge for a series of charities. For a day, I
 
 We can do this. To be a member of a nation's parliament that delivers the world's first National Disability Insurance Scheme would be a great personal achievement, but it would pale into insignificance compared with what it means to someone who lives their life inside the disability system. We have a chance to make a difference, and I think what we all have to do is take a step back and work together. We can make this happen, and we can make it happen now. I thank the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Perrett, Graham, MP",ALP,2013-02-07,"
 
 
@@ -2171,7 +2171,7 @@ So there I was at that dinner with my Prime Minister, Kevin Rudd, and right next
 
 I just think of what the NDIS will do to make sure that every Kevin Cox has an opportunity to take control of their life, because not everyone will have the courage of Kevin Cox to stand up to a state government—a Labor government—and say, 'That's not right'. But the NDIS will hopefully set up a scheme that will promote such opportunities. I commend the legislation to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Prentice, Jane, MP",LP,2013-02-07,"
 
 
@@ -2267,7 +2267,7 @@ The National Disability Insurance Scheme is a program supported widely across my
 
 I would also like to take this opportunity to acknowledge the wonderful volunteers in our community who act as carers to a family member or to a family friend. They are the unsung heroes in this story. They are the ones who volunteer 24/7—around the clock. They do not get special statues built for them. They do not get special recognition but they are the ones who devote their lives, and I pay tribute to all those volunteers in this sector.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Rishworth, Amanda, MP",ALP,2013-02-07,"
 
 
@@ -2338,7 +2338,7 @@ In conclusion, we have seen under this government an increase in funding support
 
 Labor has always been involved in giving people the opportunity to get ahead and in making sure no one gets left behind. That is what we did when we introduced the age pension, Medicare, superannuation and paid parental leave and that is what we are doing now with the National Disability Insurance Scheme. This is a critical piece of legislation that will go a long way towards ensuring that people with a disability and their families really get what they deserve, get the support they deserve and get to live a fulfilling life. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Fletcher, Paul, MP",LP,2013-02-07,"
 
 
@@ -2394,7 +2394,7 @@ To point out this simple fact is not to oppose the NDIS—far from it. It is sim
 
 I conclude by observing that the current arrangements for support to those with a disability are capricious and unsatisfactory and that, at base level, is why the concept of a national disability insurance scheme has bipartisan support. Today's bill goes some short distance down the road towards fleshing out the concept of a national disability insurance scheme. To that extent, is has the support of the coalition. The real challenge here is the gulf between concept and execution.    Given this government's very poor track record of implementation across a whole range of policy areas, it is extremely difficult to have any confidence in the capacity of the present government to turn the NDIS into a reality in an efficient and cost-effective way. Nevertheless, the coalition is committed to offering bipartisan support for the NDIS and, should we come to government, we are committed to pursuing this key initiative.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Husic, Ed, MP",ALP,2013-02-07,"
 
 
@@ -2456,7 +2456,7 @@ The DEPUTY SPEAKER
 Mr S Georganas
 ):  Order! The debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Simpkins, Luke, MP",LP,2013-02-07,"
 
 
@@ -2467,7 +2467,235 @@ Mr SIMPKINS
 
 I have had some experience with stroke in my family and believe that every effort should be made to help stroke survivors and their families get the information and support they need. Because stroke is Australia's second biggest cause of death and a leading cause of disability amongst adults, stroke should be a health research priority for Australia. I suspect that a lot of people do not comprehend just how serious the risk is. The National Stroke Foundation currently has a program called the Stroke Call to Action which is aimed at making stroke a health priority for everyone. I support this program as I realise that stroke, whether it is through killing or permanently disabling people, is a very serious issue. (Time expired)
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Stroke</title>,STATEMENTS BY MEMBERS,7,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Stroke</title>,STATEMENTS BY MEMBERS,7,1,speech
+"Abbott, Tony, MP",LP,2013-02-07,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:00):  My question is to the Prime Minister. I remind her of the government's declaration in the 2011 budget speech:
+
+
+We will be back in the black by 2012-13, on time, as promised.
+
+
+The alternative—meandering back to surplus—would compound the pressures in our economy and push up the cost of living for pensioners and working people.
+
+
+Why is the government, in its own words, pushing up the cost of living for pensioners and working people by breaking its promise to deliver a surplus this year?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"Abbott, Tony, MP",LP,2013-02-07,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:04):  I have a supplementary question, Madam Speaker. Can the Prime Minister explain this simple proposition: how can meandering back to surplus be bad for people at budget time but good for people now?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"Gillard, Julia, MP",ALP,2013-02-07,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:01):  Once again the Leader of the Opposition comes to the dispatch box and shows his inability to deal with economic concepts and economic facts. I would direct the Leader of the Opposition to the current inflation rate. I would direct the Leader of the Opposition to the Reserve Bank's remarks about the low level of the current inflation rate. I would direct the Leader of the Opposition to those facts, something that the Leader of the Opposition is not overly familiar with. What the Leader of the Opposition would recognise if he looked at the facts is that we have low inflation; we have low interest rates; we have a government that has been prepared to work with families and pensioners to assist them with their cost of living, whether it is our historic pension increase, whether it is our changing of the tax-free threshold so that working people, particularly working women, can earn—
+
+
+
+
+Mr Pyne:
+  Madam Speaker, I raise a point of order. The Leader of the Opposition asked about the disappearing surplus, and the Prime Minister needs to answer that question.
+
+
+
+The SPEAKER:  The Prime Minister has the call and will return to the question before the chair.
+
+
+
+
+Ms GILLARD:
+  I am directly on the question, because the Leader of the Opposition asked about the government's budget strategy and cost-of-living pressures and impacts for low-income Australians and for pensioners. That was the question, so I am talking about cost-of-living pressures for pensioners and low-income earners. I am pointing out that we have low inflation and low interest rates. We have provided a historic increase to pensioners. We have provided a change in the tax arrangements which means that low-income workers—and they tend predominantly to be women—can earn $18,200 before they pay a dollar of tax. And then, of course, if they are buying a family home, they are also in the circumstance where they are paying $5,000 less for a $300,000 mortgage than they used to when those opposite were last in government. So, in terms of cost of living, in terms of working with pensioners and low-income Australians, I refer the Leader of the Opposition to the facts—to the clear economic concepts and to the facts.
+
+
+On the government's budget: nothing asked by the Leader of the Opposition and nothing asked by the shadow Treasurer actually would cause an observer to conclude that they know that a global financial crisis happened and that they recognise that, as a result of that global financial crisis and other pressures in our economy, we have seen huge revenue write-downs—indeed, $160 billion in revenue write-downs across the period of the GFC. You have to ask yourself the question in those circumstances: do you support jobs? We always will. When the Leader of the Opposition has been called on to come into this place and put his hand up for jobs, he never has. (Time expired)
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
+"Gillard, Julia, MP",ALP,2013-02-07,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:05):  Once again the Leader of the Opposition shows his inability to deal with economic concepts. I refer the Leader of the Opposition to our fiscal strategy and budget rules. I know that this will all be alien language to the Leader of the Opposition. A fiscal strategy—what is yours? Budget rules—what are yours? Budget positions—what are yours? Offsetting savings for expenditure—where are yours? Why am I sitting opposite the only person in this parliament, the Leader of the Opposition, who since 2010 has not delivered one policy with proper costings and has not delivered one policy with credible savings—not one policy with proper costings or one policy with credible savings?
+
+
+
+The SPEAKER:  The Prime Minister will return to the question.
+
+
+
+
+Ms GILLARD:
+  The terminology used by the Leader of the Opposition in his question is ridiculous and wrong. We have a clear fiscal strategy to which we are adhering. In adhering to that fiscal strategy, we have needed to make a choice about whether we also seek to offset revenue write-downs, and we have made the choice that that would be too dangerous for jobs and growth. We are standing up for the jobs of working Australians. If the Leader of the Opposition has a criticism of that budget strategy, he should table his own. If he cannot do so, then Australians are entitled to conclude that he is not up to the job of managing the Australian economy. (Time expired)
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
+"Murphy, John, MP",ALP,2013-02-07,"
+
+
+
+Mr MURPHY
+ (Reid) (14:16):  Improving on the questions from the member for North Sydney, I would like to follow on and ask the Treasurer if he would update the House on the government's approach to supporting jobs and growth in the Australian economy?
+
+
+
+The SPEAKER:  Before I call the Treasurer, preambles such as that from the member for Reid are unnecessary and unwelcome. 
+
+
+
+
+Mr Briggs:
+  Tell us about Trish Crossin's job.
+
+
+
+The SPEAKER:  The member for Mayo is warned!
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Swan, Wayne, MP",ALP,2013-02-07,"
+
+
+
+Mr SWAN
+ (Lilley—Deputy Prime Minister and Treasurer) (14:16):  I welcome the question from the member for Reid. There are deep-seated challenges still in the global economy. There is international uncertainty and we are still living with the aftershocks of the global financial crisis. We can see that across Europe. Our economy, in the face of those uncertain conditions globally, is resilient. We can see this in the unemployment data out today. Unemployment is at 5.4 per cent, which is low and unchanged from last month. As I said before, something like 850,000 jobs have been created in this country under this government. Everyone on this side of the House is proud of that achievement.
+
+
+That has been done in the face of very substantial global headwinds, as we all know. As the Prime Minister said at the Press Club last week, the high dollar weighs down on our economy. Despite the fact that commodity prices have come off, we still have a high dollar weighing down on parts of the economy. The uncertainty around the global economy produces a cautious consumer. That is also reflected in the economy. These are very substantial headwinds when it comes to the hiring of workers. That is why this employment performance is so remarkable. We have more people in work than ever before.
+
+
+This is one of the reasons why our economy is 13 per cent bigger than it was at the end of 2007. Compare that to the British economy, which is four per cent smaller. That is an indication of how the macroeconomic framework and policies that have been put in place in this country have worked so well over the past five years. We have contained inflation, which is at 2.2 per cent, as the Prime Minister said before. There is also a low cash rate of three per cent, lower than at any time under those opposite and under half what it was when they left office. They left a legacy of 10 interest rate rises in a row.
+
+
+What we know is that we have to keep building on that success during the global financial crisis and look forward. That is why we have put in place the Asian century white paper, so we can maximise the opportunities that flow from growth in the region. We are making the investments in skills and education, we are investing in the NBN and above all, we are putting in place a fiscal policy that supports growth and jobs. The fiscal policy advocated by those opposite is one that will put a sledgehammer right through our economy. It will push unemployment up. When that happens, deficit and debt are pushed up. That is the contrary proposition that is being put by the shadow Treasurer.
+
+
+We have seen today the complete debacle of the so-called policy on Northern Australia, some thought bubble from Gina Rinehart adopted holus bolus by those opposite. That just shows you how sloppy they are when it comes to policy making. (Time expired)
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
+"Rowland, Michelle, MP",ALP,2013-02-07,"
+
+
+
+Ms ROWLAND
+ (Greenway) (14:27):  My question is to the Assistant Treasurer and Minister Assisting for Deregulation. How is the government supporting hardworking Australian families by delivering tax relief, infrastructure, and health and education services? Why is it important for taxpayers that this support is properly costed and budgeted, and what would be the impact if it was not?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,13,1,question
+"Rowland, Michelle, MP",ALP,2013-02-07,"
+
+
+
+Ms ROWLAND
+ (Greenway) (14:32):  Speaker, I ask a supplementary question. The minister has talked about the importance of fully costed policies for families and taxpayers in Western Sydney and right around the country. Why is it also important that these are set out transparently and are open to proper scrutiny? 
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,13,1,question
+"Bradbury, David, MP",ALP,2013-02-07,"
+
+
+
+Mr BRADBURY
+ (Lindsay—Assistant Treasurer and Minister Assisting for Deregulation) (14:28):  I thank the member for Greenway for her question, as she is a tremendous advocate of the people of Western Sydney and, like all members of the Gillard government, she understands the modern pressures that families are facing across this country. That is why we have put in place a number of targeted policies to assist families and to ease those cost-of-living pressures. We have put in place a schoolkids bonus, we have increased assistance to families, we have provided tax cuts, tripling the tax-free threshold, and we are increasing superannuation.
+
+
+While this government is out there putting in place policies that will assist families, those opposite have already flagged their intention to take a meataxe to these assistance measures. They have announced two policies so far and both of them are an attack on working families. In the first one they want to rip away the schoolkids bonus. In the second one they want to jack up taxes on the superannuation of the lowest paid Australian workers. But, of course, lots of pamphlets and two policies does not make a plan. It does not make a plan, and there is increasing pressure on them to reveal full details of what they want to take to the election.
+
+
+Indeed, it is no surprise that they do not want to tell the Australian people what it is they intend to do. We saw today with the release—or should I say the embarrassing leak—of their policy on Northern Australia exactly why they want to keep their policies a secret. 
+
+
+
+Mr Morrison interjecting—
+
+
+
+The SPEAKER:  Order! The member for Cook, the minister has the call. 
+
+
+
+
+Mr BRADBURY:
+  This is a plan that will divide Australia. It is a plan that will relocate tens of thousands of jobs from places like Western Sydney to the far north of Australia. The message that the coalition is sending to those families in Western Sydney is: 'You either pack up your bags and pack up your family and move to the far north if you want to keep your job; or, if you're not prepared to do that, we'll jack up taxes so that we can fund billions of dollars of white elephant infrastructure projects in the north of Australia. 
+
+
+
+
+Mr Ewen Jones:
+  I raise a point of order on relevance, Madam Speaker. Could he just explain which infrastructure in Northern Australia would be a white elephant. 
+
+
+
+The SPEAKER:  The member for Herbert will resume his seat. 
+
+
+
+Mr Christensen interjecting—
+
+
+
+The SPEAKER:  The member for Dawson will leave the chamber under 94(a). I have given so much latitude and you do not heed the standing orders. The minister has the call.
+
+
+
+
+The member for 
+Dawson 
+then left the chamber.
+
+
+
+
+
+Mr BRADBURY:
+  Thank you, Speaker. I direct the member to ask that question of his frontbench. The fact they have not shared their policy with him yet is not my problem. This is a plan that will increase taxes on people in places like Western Sydney in order to fund white elephant infrastructure projects that have not yet even been conceived. As a result of this policy, we will see gold-plated footpaths in Karratha while people are stuck in traffic gridlock in places like Western Sydney. They talk about real solutions but, I tell you what, if you ever get to see their policies, you will see they have got nothing but real problems for the Australian people. 
+
+
+
+The SPEAKER:  Is the member for North Sydney seeking to table a document? 
+
+
+
+
+Mr Hockey:
+  I am, because the Assistant Treasurer mentioned pamphlets. I am seeking to table a pamphlet from him saying, 'We have delivered a surplus on time as promised.' I am seeking leave. 
+
+
+Leave not granted. 
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,13,1,answer
+"Bradbury, David, MP",ALP,2013-02-07,"
+
+
+
+Mr BRADBURY
+ (Lindsay—Assistant Treasurer and Minister Assisting for Deregulation) (14:32):  I thank the member for Greenway for her supplementary question. This government has detailed its plans and policies and handed down budgets year after year in office; we have delivered fully costed plans that have delivered this assistance into the pockets of working Australians. Those opposite now have the opportunity to release their plans to the Australian people, and this is important because we want to make sure that at the next election the Australian people have the opportunity to scrutinise the policies and the impact of those policies on their future. 
+
+
+What we have seen so far from those opposite on the question of timing and when they actually intend to release costed policies is the member for North Sydney and the member for Goldstein telling us last year that they already had their policies fully costed, ready to be released. Where are they? We saw recently from the member for Sturt that they have 90 policies that they intend to release. Where are they? Then the Leader of the Opposition said, 'We will release all of our policies fully costed between the budget and the next election.' But my favourite contribution was from the member for Curtin, who, when she was asked when they would provide their costings, said that the figure in her mind was 30 September. The only problem with that is that that is after the next election. We all know that is what they intend to do: to keep their plans secret from the Australian people. (Time expired)
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,13,1,answer
+"Alexander, John, MP",LP,2013-02-07,"
+
+
+
+Mr ALEXANDER
+ (Bennelong) (15:51):  Madam Speaker, under standing order 105(b), which covers replies that have not been received 60 days after a question has first appeared on the Notice Paper, I ask you to write to the Minister for Health about questions in writing Nos 1328, 1329 and 1330, which appear on the Notice Paper in my name, to seek a reason from the minister for the delay.
+
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,<title>Questions in Writing</title>,QUESTIONS TO THE SPEAKER,16,1,question
+"Burke, Anna, MP",ALP,2013-02-07,"
+
+
+
+The SPEAKER
+ (15:51):  I will write in accordance with the standing orders.
+
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,<title>Questions in Writing</title>,QUESTIONS TO THE SPEAKER,16,1,answer
 "Burke, Anna, MP",ALP,2013-02-07,"
 
 
@@ -2487,7 +2715,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Billson, Bruce, MP",LP,2013-02-07,"
 
 
@@ -2590,7 +2818,7 @@ We have even got this government saying to small businesses: 'Self-managed super
 
 I have a very strong commitment that I would like to see from the government. If you are going to break another promise about superannuation, if you cannot maintain the assurance of not messing with it, please at least take it to the Australian public. This is too important for this short-termism, self-serving, self-interested government to mess with people's longer term planning requirements for their retirement. Those approaching retirement are relying on their superannuation. The right thing to do is to follow the coalition's lead—offer stability, be clear, no surprises. But if the Gillard government cannot manage that, it should at least face the Australian public so that they know what they are doing and can make their own judgement. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Shorten, Bill, MP",ALP,2013-02-07,"
 
 
@@ -2746,7 +2974,7 @@ It is not going to win you the election, which is all you care about, by slappin
 
  
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Hartsuyker, Luke, MP",Nats,2013-02-07,"
 
 
@@ -2824,7 +3052,7 @@ So take Nick's advice. Do not fiddle with the super system. Give Australians con
 
 The DEPUTY SPEAKER:  The discussion is now concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Hunt, Greg, MP",LP,2013-02-07,"
 
 
@@ -2859,7 +3087,7 @@ Minister, we need your urgent intervention. This issue has lasted for five years
 
 Leave granted.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Mornington Peninsula: Telecommunications</title>,ADJOURNMENT,18,1
+",HoR,<title>ADJOURNMENT</title>,<title>Mornington Peninsula: Telecommunications</title>,ADJOURNMENT,18,1,speech
 "Alexander, John, MP",LP,2013-02-07,"
 
 
@@ -2876,7 +3104,7 @@ It is important to outline the historical context of this work, to emphasise its
 
 In 2011 Jacques joined the North Ryde Community Aid and Information Centre as a volunteer, assisting disabled and aged clients with their transport emergency needs, and providing his specialist language skills for Armenian seniors to interact with the wider community. Legend has it that Adolf Hitler justified his final solution policy against the Jewish community by remarking, 'No one remembers the Armenians.' It is fitting that nearly 100 years after the Armenian genocide we can stand up on the other side of the world and applaud the efforts of people like Jacques Baran and proclaim that we remember the Armenians and we celebrate their enduring language, culture and heritage. As we turn our attention to the Armenian Christian minority currently being targeted in Aleppo, in Syria, we pray that common sense and global leadership will help these proud people prevail once more.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Bennelong Electorate: Mr Jacques Baran</title>,CONSTITUENCY STATEMENTS,20,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Bennelong Electorate: Mr Jacques Baran</title>,CONSTITUENCY STATEMENTS,20,1,speech
 "Brodtmann, Gai, MP",ALP,2013-02-07,"
 
 
@@ -2941,7 +3169,7 @@ In saying this, it is important to stress that this is not a substitute for cons
 
 Formal recognition and respect for Aboriginal and Torres Strait Islander people, wherever they are—Cobourg Peninsula, Bamaga, Nullumbuy, Thursday Island, Redfern, Townsville or over in the west—should not be a divisive or controversial issue; it should be a process that unites all Australians in recognising our first peoples' unique history, culture and connection to this land. It is an important step in Australia's history and a process I hope all members of parliament will support and embrace.
 
-",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1,speech
 "Wyatt, Ken, MP",LP,2013-02-07,"
 
 
@@ -3039,7 +3267,7 @@ One of the challenges that we will need to contemplate, as members of the Austra
 
 It is not dissimilar to the period in which we had the bicentennial celebrations. When we celebrated that, it was fascinating watching the number of people who sought links back to the convicts on those early ships that came to Australia. When they found them, they were proud to announce that they had convict heritage. Australia had matured considerably to accept that there was a convict past, but it was the recognition of the connectivity of family to the past was equally important to them in the bicentennial year as it is today. I would hope that in the future the connectivity to the Aboriginal and Torres Strait Islander communities of this country will become equally as important to every Australian, and that they will see the relationship that they have established either by marriage or through the work that they have done together, and they will walk together. Let us take this step—another step forward—towards healing the hearts and minds of all Australians. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1,speech
 "Neumann, Shayne, MP",ALP,2013-02-07,"
 
 
@@ -3095,7 +3323,7 @@ This legislation, I think, is particularly important and I urge both sides of po
 
 Looking back, we now see how important Mabo was. Sure, it was lauded at the time, but in 200 years time young people who read the Mabo decision will say it was one of the greatest turning points in the history of Australia. I conclude on this note: if we as the leaders of our community and those representing the community in this place really want to show leadership in a formal way, there is something practical we can do in this community; we can start using Indigenous language in this particular place, in these halls of power. I recommend that we do so. I support this legislation and commend it to the House. I look forward to being in Redfern tomorrow with the member for Hasluck to hear the views of various Australian groups at the place where Paul Keating made one of the greatest speeches any prime minister has ever made.
 
-",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1,speech
 "Tudge, Alan, MP",LP,2013-02-07,"
 
 
@@ -3145,7 +3373,7 @@ These are very difficult and complex measures, and it is a good thing that we ha
 
 In the last minute or so I have remaining, I would like to pay tribute to a friend of mine who passed away yesterday. I do so in the context of this debate, because he was one of Noel Pearson's most trusted advisers for the last 20 years—a person by the name of Lou Griffiths. Many people who are connected with Indigenous policy would know him very well, and he tragically died at a very young age yesterday in his hotel room from a heart attack. Although not Indigenous, Lou made a tremendous contribution over the last couple of decades in the thinking and executing of ideas and supporting the work of Noel Pearson and other Cape York leaders. I think his passing is a deep loss to Australia.
 
-",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1,speech
 "Jones, Stephen, MP",ALP,2013-02-07,"
 
 
@@ -3192,7 +3420,7 @@ We've boundless plains to share,
 
 The important thing is that, when white people got here, those plains were not empty. They were occupied by the Aboriginal and Torres Strait Islander people who have lived and practised a culture in this country for over 30,000 years—some say probably more like 70,000 years. That is a claim that can be made in no other place on earth. There is no other place on earth where people can say that they live in a land that has been occupied by people who have continuously practised a culture for over 30,000 years. That is something that all Australians should embrace and be proud of, and as we learn from each other and embark upon the process of reconciliation, I firmly believe that we will become a better place, a greater place, and a place that we, as a united and reconciled Australia, can be very, very proud of. I commend the legislation to the House.
 
-",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1,speech
 "Stone, Dr Sharman, MP",LP,2013-02-07,"
 
 
@@ -3335,7 +3563,7 @@ These debates are recent in Australia's history. They are cruel when you read th
 
 We have come a long way. We have not yet achieved constitutional recognition, accepted by a referendum in this country, but I am saying that it is more than time. We need to stand up amongst the league of other nations in the world who do right by their indigenous peoples; in this case it is our fellow Australians. I very strongly support this bill. I know that it is going to have bipartisan support in this parliament and I hope that, within the next two years, we will see the Australian public give their overwhelming support to this referendum with the same resounding 'yes' as they did for the 1967 referendum, which brought Aboriginal Australians under the same roof in relation to citizenship rights in this country.
 
-",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1,speech
 "Melham, Daryl, MP",ALP,2013-02-07,"
 
 
@@ -3400,7 +3628,7 @@ I think we have moved on. As I said earlier, I applaud the attitude of the curre
 
 I commend the bill to the House and congratulate everyone, including Ken Wyatt, on their work to date.
 
-",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1,speech
 "Leigh, Andrew, MP",ALP,2013-02-07,"
 
 
@@ -3459,7 +3687,7 @@ I believe that maintaining Indigenous employment in the Public Service is import
 
 A constitutional statement of recognition of Aboriginal and Torres Strait Islander people—particularly noting their culture, their history and their connection to the land—a removal of references to race in reflection of Australia's rejection of discrimination and belief in equality and an acknowledgement that we need to make further efforts in closing the gaps in Indigenous disadvantage are an important part of what we are working towards. Reconciliation Australia and the You Me Unity reference group have been spearheading this push, and I am confident that—with more time and more work—compassion, justice, progress and respect will prevail and we will be able to hold a successful referendum.
 
-",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1,speech
 "Perrett, Graham, MP",ALP,2013-02-07,"
 
 
@@ -3555,7 +3783,7 @@ Mrs Prentice interjecting—
 Mr PERRETT:
   Yes, well, self-determination is great comfort to a kid that has not had a parent who is sober, to a kid that has been abused because no-one in the community is sober and child abuse is rampant. That is a great comfort to that child! Shame on the Liberal-National Party government in Queensland for contemplating these changes to the grog rules. These cuts will be felt in every Indigenous community and it is a shameful thing for Premier Newman to have done. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1,speech
 "Grierson, Sharon, MP",ALP,2013-02-07,"
 
 
@@ -3632,7 +3860,7 @@ Credit goes to Reconciliation Australia and to all those around the nation who h
 
 In supporting the Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012, I pay my respects to all Indigenous people of this land and to their elders past and present. I also register my strong support for constitutional recognition of Australia's first people.
 
-",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1,speech
 "Bandt, Adam, MP",AG,2013-02-07,"
 
 
@@ -3661,7 +3889,7 @@ There is still insufficient clarity about what the next steps towards recognitio
 
 Although the bill provides the trigger for a review that will investigate the way towards constitutional recognition after one year, it is clear that there will also need to be significant multi-party commitment and leadership in order to build the understanding and excitement of the Australian people to get behind an important history-making campaign to say 'yes' to recognition and 'no' to racism. For the Australian Greens this bill is a good step forward, but constitutional recognition will remain firmly on the agenda as the ultimate goal.
 
-",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1,speech
 "Husic, Ed, MP",ALP,2013-02-07,"
 
 
@@ -3678,7 +3906,7 @@ We arrive here as a result of the unanimous recommendations of the government ap
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012</title>,BILLS,21,1,speech
 "Brodtmann, Gai, MP",ALP,2013-02-07,"
 
 
@@ -3743,7 +3971,7 @@ In saying this, it is important to stress that this is not a substitute for cons
 
 Formal recognition and respect for Aboriginal and Torres Strait Islander people, wherever they are—Cobourg Peninsula, Bamaga, Nullumbuy, Thursday Island, Redfern, Townsville or over in the west—should not be a divisive or controversial issue; it should be a process that unites all Australians in recognising our first peoples' unique history, culture and connection to this land. It is an important step in Australia's history and a process I hope all members of parliament will support and embrace.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Wyatt, Ken, MP",LP,2013-02-07,"
 
 
@@ -3841,7 +4069,7 @@ One of the challenges that we will need to contemplate, as members of the Austra
 
 It is not dissimilar to the period in which we had the bicentennial celebrations. When we celebrated that, it was fascinating watching the number of people who sought links back to the convicts on those early ships that came to Australia. When they found them, they were proud to announce that they had convict heritage. Australia had matured considerably to accept that there was a convict past, but it was the recognition of the connectivity of family to the past was equally important to them in the bicentennial year as it is today. I would hope that in the future the connectivity to the Aboriginal and Torres Strait Islander communities of this country will become equally as important to every Australian, and that they will see the relationship that they have established either by marriage or through the work that they have done together, and they will walk together. Let us take this step—another step forward—towards healing the hearts and minds of all Australians. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Neumann, Shayne, MP",ALP,2013-02-07,"
 
 
@@ -3897,7 +4125,7 @@ This legislation, I think, is particularly important and I urge both sides of po
 
 Looking back, we now see how important Mabo was. Sure, it was lauded at the time, but in 200 years time young people who read the Mabo decision will say it was one of the greatest turning points in the history of Australia. I conclude on this note: if we as the leaders of our community and those representing the community in this place really want to show leadership in a formal way, there is something practical we can do in this community; we can start using Indigenous language in this particular place, in these halls of power. I recommend that we do so. I support this legislation and commend it to the House. I look forward to being in Redfern tomorrow with the member for Hasluck to hear the views of various Australian groups at the place where Paul Keating made one of the greatest speeches any prime minister has ever made.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Tudge, Alan, MP",LP,2013-02-07,"
 
 
@@ -3947,7 +4175,7 @@ These are very difficult and complex measures, and it is a good thing that we ha
 
 In the last minute or so I have remaining, I would like to pay tribute to a friend of mine who passed away yesterday. I do so in the context of this debate, because he was one of Noel Pearson's most trusted advisers for the last 20 years—a person by the name of Lou Griffiths. Many people who are connected with Indigenous policy would know him very well, and he tragically died at a very young age yesterday in his hotel room from a heart attack. Although not Indigenous, Lou made a tremendous contribution over the last couple of decades in the thinking and executing of ideas and supporting the work of Noel Pearson and other Cape York leaders. I think his passing is a deep loss to Australia.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Jones, Stephen, MP",ALP,2013-02-07,"
 
 
@@ -3994,7 +4222,7 @@ We've boundless plains to share,
 
 The important thing is that, when white people got here, those plains were not empty. They were occupied by the Aboriginal and Torres Strait Islander people who have lived and practised a culture in this country for over 30,000 years—some say probably more like 70,000 years. That is a claim that can be made in no other place on earth. There is no other place on earth where people can say that they live in a land that has been occupied by people who have continuously practised a culture for over 30,000 years. That is something that all Australians should embrace and be proud of, and as we learn from each other and embark upon the process of reconciliation, I firmly believe that we will become a better place, a greater place, and a place that we, as a united and reconciled Australia, can be very, very proud of. I commend the legislation to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Stone, Dr Sharman, MP",LP,2013-02-07,"
 
 
@@ -4137,7 +4365,7 @@ These debates are recent in Australia's history. They are cruel when you read th
 
 We have come a long way. We have not yet achieved constitutional recognition, accepted by a referendum in this country, but I am saying that it is more than time. We need to stand up amongst the league of other nations in the world who do right by their indigenous peoples; in this case it is our fellow Australians. I very strongly support this bill. I know that it is going to have bipartisan support in this parliament and I hope that, within the next two years, we will see the Australian public give their overwhelming support to this referendum with the same resounding 'yes' as they did for the 1967 referendum, which brought Aboriginal Australians under the same roof in relation to citizenship rights in this country.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Melham, Daryl, MP",ALP,2013-02-07,"
 
 
@@ -4202,7 +4430,7 @@ I think we have moved on. As I said earlier, I applaud the attitude of the curre
 
 I commend the bill to the House and congratulate everyone, including Ken Wyatt, on their work to date.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Leigh, Andrew, MP",ALP,2013-02-07,"
 
 
@@ -4261,7 +4489,7 @@ I believe that maintaining Indigenous employment in the Public Service is import
 
 A constitutional statement of recognition of Aboriginal and Torres Strait Islander people—particularly noting their culture, their history and their connection to the land—a removal of references to race in reflection of Australia's rejection of discrimination and belief in equality and an acknowledgement that we need to make further efforts in closing the gaps in Indigenous disadvantage are an important part of what we are working towards. Reconciliation Australia and the You Me Unity reference group have been spearheading this push, and I am confident that—with more time and more work—compassion, justice, progress and respect will prevail and we will be able to hold a successful referendum.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Perrett, Graham, MP",ALP,2013-02-07,"
 
 
@@ -4357,7 +4585,7 @@ Mrs Prentice interjecting—
 Mr PERRETT:
   Yes, well, self-determination is great comfort to a kid that has not had a parent who is sober, to a kid that has been abused because no-one in the community is sober and child abuse is rampant. That is a great comfort to that child! Shame on the Liberal-National Party government in Queensland for contemplating these changes to the grog rules. These cuts will be felt in every Indigenous community and it is a shameful thing for Premier Newman to have done. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Grierson, Sharon, MP",ALP,2013-02-07,"
 
 
@@ -4434,7 +4662,7 @@ Credit goes to Reconciliation Australia and to all those around the nation who h
 
 In supporting the Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012, I pay my respects to all Indigenous people of this land and to their elders past and present. I also register my strong support for constitutional recognition of Australia's first people.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Bandt, Adam, MP",AG,2013-02-07,"
 
 
@@ -4463,7 +4691,7 @@ There is still insufficient clarity about what the next steps towards recognitio
 
 Although the bill provides the trigger for a review that will investigate the way towards constitutional recognition after one year, it is clear that there will also need to be significant multi-party commitment and leadership in order to build the understanding and excitement of the Australian people to get behind an important history-making campaign to say 'yes' to recognition and 'no' to racism. For the Australian Greens this bill is a good step forward, but constitutional recognition will remain firmly on the agenda as the ultimate goal.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Husic, Ed, MP",ALP,2013-02-07,"
 
 
@@ -4480,7 +4708,7 @@ We arrive here as a result of the unanimous recommendations of the government ap
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Entsch, Warren, MP",LP,2013-02-07,"
 
 
@@ -4503,4 +4731,187 @@ I have also learned that a gentleman by the name of Robert Morein, from Pennsylv
 
 Let's not forget the pressure that is also on Google. Google are culpable here because Shane Radbone told them about these defamatory comments being posted on Blogspot four years ago and they did nothing. Adding to this pressure is the fact that Google recently lost another court case in Victoria, having to pay a Melbourne man $200,000 after linking his photograph to a notorious Australian criminal. From a legislative point of view, something has to be done to stop individuals like McCarty using the internet as an unregulated forum to vent lies and ruin lives. I eagerly await Google's revelations later this month.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Broadband</title>,ADJOURNMENT,22,1
+",HoR,<title>ADJOURNMENT</title>,<title>Broadband</title>,ADJOURNMENT,22,1,speech
+"Morrison, Scott, MP",LP,2013-02-07,"
+
+
+
+Mr Morrison
+  asked the Minister for Home Affairs, in writing, on 29 May 2012:
+
+
+In (a) 2008-09, (b) 2009-10, (c) 2010-11, (d) 2011-12, how many redundancies have been issued to Australian Customs and Border Protection Service staff based at (i) Sydney Airport, and (ii) the Sydney International Mail Gateway Facility.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Australian Customs and Border Protection Service: Staffing (Question No. 1021)</title>,QUESTIONS IN WRITING,23,1,question
+"Clare, Jason, MP",ALP,2013-02-07,"
+
+
+
+Mr Clare:
+  The answer to the honourable member's question is as follows: 
+
+
+The number of redundancies issued to Australian Customs and Border Protection Service staff at Sydney Airport and the Sydney International Mail Gateway Facility is as follows:
+
+
+   (i) Sydney Airport
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+(a) 2008-09
+
+
+
+
+
+
+(b) 2009-10
+
+
+
+
+
+
+(c) 2010-11
+
+
+
+
+
+
+(d) 2011-12
+
+
+
+
+
+
+
+Number of redundancies issued
+
+
+
+
+2
+
+
+
+
+0
+
+
+
+
+1
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+   (ii) Sydney International Mail Gateway Facility
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+(a) 2008-09
+
+
+
+
+
+
+(b) 2009-10
+
+
+
+
+
+
+(c) 2010-11
+
+
+
+
+
+
+(d) 2011-12
+
+
+
+
+
+
+
+Number of redundancies issued
+
+
+
+
+1
+
+
+
+
+0
+
+
+
+
+0
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+All of these redundancies were voluntary. 
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Australian Customs and Border Protection Service: Staffing (Question No. 1021)</title>,QUESTIONS IN WRITING,23,1,answer

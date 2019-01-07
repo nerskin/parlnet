@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2015-06-17,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (09:31):  Does any senator wish to—Senator Bushby?
 
-",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee, Legal and Constitutional Affairs Legislation Committee, Legal and Constitutional Affairs References Committee</title>",COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee, Legal and Constitutional Affairs Legislation Committee, Legal and Constitutional Affairs References Committee</title>",COMMITTEES,1,1,speech
 "Bushby, Sen David",LP,2015-06-17,"
 
 
@@ -18,7 +18,7 @@ Senator BUSHBY
 
 The PRESIDENT:  The question is that the Legal and Constitutional Affairs References Committee be authorised to meet during the sittings of the Senate today.
 
-",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee, Legal and Constitutional Affairs Legislation Committee, Legal and Constitutional Affairs References Committee</title>",COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee, Legal and Constitutional Affairs Legislation Committee, Legal and Constitutional Affairs References Committee</title>",COMMITTEES,1,1,speech
 "PRESIDENT, The",,2015-06-17,"
 
 
@@ -26,7 +26,7 @@ The PRESIDENT:  The question is that the Legal and Constitutional Affairs Refere
 The PRESIDENT
  (09:31):  Does any senator wish to—Senator Bushby?
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "Bushby, Sen David",LP,2015-06-17,"
 
 
@@ -38,7 +38,7 @@ Senator BUSHBY
 
 The PRESIDENT:  The question is that the Legal and Constitutional Affairs References Committee be authorised to meet during the sittings of the Senate today.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "Carr, Sen Kim",ALP,2015-06-17,"
 
 
@@ -88,7 +88,7 @@ We have suggested that there needs to be an alternative approach, and that is wh
 
 We have to make sure that this is about building priorities into the budget process that defend the fundamental democratic values, and I am afraid you will not find that on the opposition benches. Unfortunately, I now see that the Greens are falling for the old line about how responsible they are, how thoroughly respectable they are, how desperate they are to actually appease those on the other side. I look forward with interest to how that unfolds.
 
-",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1,speech
 "Leyonhjelm, Sen David",LDP,2015-06-17,"
 
 
@@ -114,7 +114,7 @@ Yes, governments need to spend money and raise taxes, but every tax expert knows
 
 The Liberal Democrats have a comprehensive plan to significantly reduce government spending and an unshakable conviction that your income is yours, not the government's. That is why I am defending the $80 tax cut that is due to each Australian taxpayer in a fortnight's time. But, sadly, the conspiracy of the big government forces of the coalition and Labor will cancel this tax cut through the bill before us today. When the date of the election comes, the taxpayers of Australia will remember.
 
-",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1,speech
 "Whish-Wilson, Sen Peter",AG,2015-06-17,"
 
 
@@ -140,7 +140,7 @@ How many times was this explained by our Prime Minister in the lead-up to the la
 
 My party has supported taking a tax off small business to allow them to get a leg up, but we want to see a progressive taxation system in this country. We want to see the bads taxed. We want to see a really simple, sensible, rational, logical price on carbon, and we want to see that money reallocated in the economy to where it is needed the most. If the government come in here and remove this tax break for low-income earners, I want them to explain why they were too gutless to do this when they removed the carbon price last year. I did not hear any of you in here telling low-income Australians that they were going to lose their tax break when you removed the carbon price. In fact, I remember you saying exactly the opposite—that they would get to keep their tax breaks. Now you are taking them away. These are the people who need a leg up, and I am deeply disappointed that the Labor Party are taking the weak decision of saying they would not do this if they were in government but they are going to have to do it in opposition. Low-income Australians want to see someone standing up for them in parliament. I think most Australians support a progressive taxation system, and the Greens will not be supporting this measure in the Senate.
 
-",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1,speech
 "Macdonald, Sen Ian",LP,2015-06-17,"
 
 
@@ -212,7 +212,7 @@ Our government has not been perfect. I had some concerns about the 2014 budget, 
 
 Senator Whish-Wilson: do not be surprised. The Labor Party are not catching you out. They are doing exactly what they said they would do. They have since voted against it, twice, but credit where credit is due. Now they are agreeing with that. In this small way, the coalition will be able to continue on its path of repairing the budget measures that Labor created for this country.
 
-",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1,speech
 "Milne, Sen Christine",AG,2015-06-17,"
 
 
@@ -265,7 +265,7 @@ So I stand again to say: if we want genuine tax reform in this country, this tax
 
 That is why the Greens are going to stand here and oppose this legislation. We are going to stick with our commitment to Australians—that is, we are going to say that the big polluters should pay their way. We did not support an $18 billion hole in the budget over the forward estimates. We are going to remind Australians that they have not got the windfall gain that they thought they were going to get—because the Prime Minister misled them every step of the way on the impact of the cost of pollution. And now the Australian people are inheriting the cost of pollution. The extreme weather events are going to cost Australians with their lives as well as their livelihoods—while those people who have benefited from the abolition of the mining tax and the carbon price laugh; while they insulate themselves from the cost of pollution as they watch an overwhelming majority of people suffer.
 
-",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1,speech
 "Lambie, Sen Jacqui",Ind.,2015-06-17,"
 
 
@@ -297,7 +297,7 @@ ASIC's Greg Medcraft and Cathie Armour said that they have a team of rocket scie
 
 After what has been going on this morning, it is clear that both major parties have not recognised that there are many battlers out there. So I do wish you luck in the next election, because you are going to need it. I can now see the ads; I am looking forward to running them myself.
 
-",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1,speech
 "Cormann, Sen Mathias",LP,2015-06-17,"
 
 
@@ -323,7 +323,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1,speech
 "Seselja, Sen Zed (The ACTING DEPUTY PRESIDENT)",LP,2015-06-17,"
 
 
@@ -334,7 +334,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Seselja
 ) (10:54):  As no amendments to the bill have been circulated, I shall call on the minister to move the third reading, unless any senator requires that the bill be considered in Committee of the Whole.
 
-",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1,speech
 "Cormann, Sen Mathias",LP,2015-06-17,"
 
 
@@ -351,7 +351,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1,speech
 "Ludlam, Sen Scott",AG,2015-06-17,"
 
 
@@ -363,7 +363,7 @@ Senator LUDLAM
 
 The ACTING DEPUTY PRESIDENT:  So noted.
 
-",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,2,1,speech
 "Carr, Sen Kim",ALP,2015-06-17,"
 
 
@@ -413,7 +413,7 @@ We have suggested that there needs to be an alternative approach, and that is wh
 
 We have to make sure that this is about building priorities into the budget process that defend the fundamental democratic values, and I am afraid you will not find that on the opposition benches. Unfortunately, I now see that the Greens are falling for the old line about how responsible they are, how thoroughly respectable they are, how desperate they are to actually appease those on the other side. I look forward with interest to how that unfolds.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Leyonhjelm, Sen David",LDP,2015-06-17,"
 
 
@@ -439,7 +439,7 @@ Yes, governments need to spend money and raise taxes, but every tax expert knows
 
 The Liberal Democrats have a comprehensive plan to significantly reduce government spending and an unshakable conviction that your income is yours, not the government's. That is why I am defending the $80 tax cut that is due to each Australian taxpayer in a fortnight's time. But, sadly, the conspiracy of the big government forces of the coalition and Labor will cancel this tax cut through the bill before us today. When the date of the election comes, the taxpayers of Australia will remember.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Whish-Wilson, Sen Peter",AG,2015-06-17,"
 
 
@@ -465,7 +465,7 @@ How many times was this explained by our Prime Minister in the lead-up to the la
 
 My party has supported taking a tax off small business to allow them to get a leg up, but we want to see a progressive taxation system in this country. We want to see the bads taxed. We want to see a really simple, sensible, rational, logical price on carbon, and we want to see that money reallocated in the economy to where it is needed the most. If the government come in here and remove this tax break for low-income earners, I want them to explain why they were too gutless to do this when they removed the carbon price last year. I did not hear any of you in here telling low-income Australians that they were going to lose their tax break when you removed the carbon price. In fact, I remember you saying exactly the opposite—that they would get to keep their tax breaks. Now you are taking them away. These are the people who need a leg up, and I am deeply disappointed that the Labor Party are taking the weak decision of saying they would not do this if they were in government but they are going to have to do it in opposition. Low-income Australians want to see someone standing up for them in parliament. I think most Australians support a progressive taxation system, and the Greens will not be supporting this measure in the Senate.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Macdonald, Sen Ian",LP,2015-06-17,"
 
 
@@ -537,7 +537,7 @@ Our government has not been perfect. I had some concerns about the 2014 budget, 
 
 Senator Whish-Wilson: do not be surprised. The Labor Party are not catching you out. They are doing exactly what they said they would do. They have since voted against it, twice, but credit where credit is due. Now they are agreeing with that. In this small way, the coalition will be able to continue on its path of repairing the budget measures that Labor created for this country.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Milne, Sen Christine",AG,2015-06-17,"
 
 
@@ -590,7 +590,7 @@ So I stand again to say: if we want genuine tax reform in this country, this tax
 
 That is why the Greens are going to stand here and oppose this legislation. We are going to stick with our commitment to Australians—that is, we are going to say that the big polluters should pay their way. We did not support an $18 billion hole in the budget over the forward estimates. We are going to remind Australians that they have not got the windfall gain that they thought they were going to get—because the Prime Minister misled them every step of the way on the impact of the cost of pollution. And now the Australian people are inheriting the cost of pollution. The extreme weather events are going to cost Australians with their lives as well as their livelihoods—while those people who have benefited from the abolition of the mining tax and the carbon price laugh; while they insulate themselves from the cost of pollution as they watch an overwhelming majority of people suffer.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Lambie, Sen Jacqui",Ind.,2015-06-17,"
 
 
@@ -622,7 +622,7 @@ ASIC's Greg Medcraft and Cathie Armour said that they have a team of rocket scie
 
 After what has been going on this morning, it is clear that both major parties have not recognised that there are many battlers out there. So I do wish you luck in the next election, because you are going to need it. I can now see the ads; I am looking forward to running them myself.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Cormann, Sen Mathias",LP,2015-06-17,"
 
 
@@ -648,7 +648,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Polley, Sen Helen",ALP,2015-06-17,"
 
 
@@ -686,7 +686,135 @@ What does it say about this government when it keeps cutting support from our mo
 
 We need to recognise these challenges; we need to have a minister and a government that has the vision, the plan and the drive to give this the priority we know it deserves. The evident failure of Tony Abbott when he became Prime Minister was that he did not designate a minister for ageing. That was the beginning of the end for him to demonstrate in any capacity at all to the Australian community that he put ageing where it should be—and that is as the No. 1 priority—(Time expired)
 
-",Senate,<title>STATEMENTS BY SENATORS</title>,<title>Dementia</title>,STATEMENTS BY SENATORS,3,1
+",Senate,<title>STATEMENTS BY SENATORS</title>,<title>Dementia</title>,STATEMENTS BY SENATORS,3,1,speech
+"Wong, Sen Penny",ALP,2015-06-17,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:00):  My question is to the Minister representing the Prime Minister, Senator Brandis. Can the minister confirm that just three out of 19 cabinet ministers have been shown advice from the Solicitor-General on the constitutionality of the proposal to strip citizenship from Australian nationals? Can the minister confirm that the only ministers who have seen this advice are the Prime Minister, the Attorney-General and the immigration minister?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Security: Citizenship</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Wong, Sen Penny",ALP,2015-06-17,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:01):  Mr President, I ask a supplementary question. I refer to communications minister, Mr Turnbull, who says that while Australia must deal with the threat of terrorism, we:
+
+
+… have to do so within the rules … which above all, of course, sits the constitution with which we all have to comply.
+
+
+Does the minister share the Prime Minister's confidence that the legislation will 'minimise constitutional challenge'?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Security: Citizenship</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Wong, Sen Penny",ALP,2015-06-17,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:02):  Mr President, I ask a further supplementary question. Can the Minister representing the Prime Minister advise who decided to exclude ministers who sit on the National Security Committee of Cabinet, including the foreign minister, from receipt of constitutional advice from the Solicitor-General? Was it the Prime Minister, or was it his office?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Security: Citizenship</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Brandis, Sen George",LP,2015-06-17,"
+
+
+
+Senator BRANDIS
+ (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (14:01):  No, I cannot confirm that.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Security: Citizenship</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Brandis, Sen George",LP,2015-06-17,"
+
+
+
+Senator BRANDIS
+ (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (14:01):  I agree with what Mr Turnbull said. What he said—that we should be compliant with the Constitution—is, of course, commonplace and something that I am sure every member of this parliament would understand and accept. In relation to the second question, the answer is yes.
+
+
+
+Senator Conroy interjecting—
+
+
+
+The PRESIDENT:  Order on my left! Senator Conroy!
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Security: Citizenship</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Brandis, Sen George",LP,2015-06-17,"
+
+
+
+Senator BRANDIS
+ (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (14:02):  Your question is entirely based on a false premise, Senator Wong.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Security: Citizenship</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Day, Sen Bob",FFP,2015-06-17,"
+
+
+
+Senator DAY
+ (South Australia) (14:42):  My question is to the Minister for Finance. The 2015-16 budget shows an eight per cent increase in childcare spending, or a 40 per cent increase over four years, or, in dollar terms, from $6.5 billion to over $11 billion. The reason families need child care is that both parents are forced to go out to work because of high housing costs. Then there is the $3 billion a year the Commonwealth spends on housing assistance. We all know the cost of building a basic house has not risen, in real terms, in 20 years. But the cost of land has skyrocketed. In essence, the government is spending over $14 billion a year to offset rising land costs. This is treating the symptoms, not the illness. Does the government accept this?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Housing Affordability</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Day, Sen Bob",FFP,2015-06-17,"
+
+
+
+Senator DAY
+ (South Australia) (14:45):  Mr President, I ask a supplementary question. The Demographia international housing affordability survey for 2015 says the following:
+
+
+For the 11th year in a row … all of Australia's five major metropolitan areas were severely unaffordable …
+
+
+It ranks Sydney and Melbourne third and 9th worst out of 378 cities in the world. What is the government doing to address this national crisis?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Housing Affordability</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Day, Sen Bob",FFP,2015-06-17,"
+
+
+
+Senator DAY
+ (South Australia) (14:46):  Mr President, I ask a further supplementary question. In my experience, the critical factor for healthy markets is for barriers to entry to be as low as possible. How can the Commonwealth and governments in states and territories like my home state of South Australia remove these barriers to first home ownership?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Housing Affordability</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Cormann, Sen Mathias",LP,2015-06-17,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance) (14:42):  I thank Senator Day for that question and I also acknowledge his genuine interest in housing affordability for Australian families. In terms of the numbers he mentioned in relation to government expenditure on child care, Senator Day is broadly right. We expect to spend about $7.3 billion on government support for access to child care, in 2015-16. That is expected to rise to about $11 billion over the forward estimates. That is assuming, of course, that the Senate supports some of the spending reductions required out of the budget in order to pay for the additional investment into child care, because this government is committed to improving affordable access to child care and making access to child care simpler and more flexible, because we understand that is an important part of a strategy to help families get into work, stay in work and be in work. It is an important part of our strategy to strengthen growth and create more jobs.
+
+
+When it comes to housing affordability more broadly, affordability is a function of both price and capacity to pay. Price is a function of supply and demand. In markets where you have demand exceeding supply, prices will go up. In markets where you have supply exceeding demand, prices will go down.
+
+
+Senator Day is quite right. The housing affordability issue in Australia is principally an issue of land supply not meeting demand in the market. The principal lever to address that is at the state level, and the federal government is working, through the Treasurer, with state and territory governments to try and address that. I do not agree with Senator Day that housing building costs have not increased in real terms in Australia by international standards. Housing construction in Australia is significantly more expensive— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Housing Affordability</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Cormann, Sen Mathias",LP,2015-06-17,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance) (14:45):  As I indicated in response to the primary question, the Treasurer is working with state and territory governments in relation to housing affordability policy issues. We do understand, of course, that the most sustainable way of improving housing affordability is by making sure that supply increases to a level where it can meet demand.
+
+
+Australia has a growing population. We have, in particular, a growing population in some of the larger population centres, and obviously there are cycles in the property market. Right now, in Sydney and in Melbourne, demand significantly exceeds supply. There is of course a response in the market as a result. If you look at the national accounts for the first quarter of 2015, you will see that there is a lift in investment in dwelling construction, and that is clearly a response to that upward pressure on prices. But we do need to do more. We do need to ensure that the states actually do better in releasing land so that there can be a more appropriate response. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Housing Affordability</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Cormann, Sen Mathias",LP,2015-06-17,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance) (14:47):  State governments, like the state government in South Australia, could decide to release more land. They could decide not to sit on the land that they currently hold and have already developed in order to try and maximise profits. They could just release more land into the marketplace. If the state government in South Australia and state governments in other parts of Australia decided to do that, it would have a material beneficial effect on housing affordability.
+
+
+Beyond that, we do need to have a mature conversation in Australia about why it is that in Australia it is significantly more expensive to build a house than it is in the United States, for example. Why is it significantly more expensive to build a house in Australia than in the United States? I know that the Labor Party sneered at the Treasurer yesterday in the House of Representatives when he made the point that the coalition's abolition of Labor's carbon tax did help bring down the cost of construction— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Housing Affordability</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
 "Cash, Sen Michaelia",LP,2015-06-17,"
 
 
@@ -694,7 +822,7 @@ We need to recognise these challenges; we need to have a minister and a governme
 Senator CASH
  (Western Australia—Assistant Minister for Immigration and Border Protection and Minister Assisting the Prime Minister for Women) (15:04):  I table a response to the order for the production of documents.
 
-",Senate,<title>DOCUMENTS</title>,<title>Asylum Seekers</title>,DOCUMENTS,8,1
+",Senate,<title>DOCUMENTS</title>,<title>Asylum Seekers</title>,DOCUMENTS,8,1,speech
 "Cash, Sen Michaelia",LP,2015-06-17,"
 
 
@@ -702,7 +830,7 @@ Senator CASH
 Senator CASH
  (Western Australia—Assistant Minister for Immigration and Border Protection and Minister Assisting the Prime Minister for Women) (15:04):  I table a response to the order for the production of documents.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,8,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,8,2,speech
 "O'Neill, Sen Deb",ALP,2015-06-17,"
 
 
@@ -746,7 +874,7 @@ What we saw on show here today was not mature consideration, and it was not a fa
 
 Senator Wong asked questions about why the foreign minister of the country was excluded from receiving advice from the Solicitor-General on the constitutionality of the proposal to strip citizenship from Australian nationals. Things are so dysfunctional, so bad, in the government ranks that they are hiding information from one another, let alone hiding it from the Australian public. I turn now to the questions that I asked about reports published in Australian papers today: Indonesian police reports, saying that people smugglers were actually paid by Australian officials to turn back the boats—recorded interviews, photographs of cash, reports about vessels crashing on reefs. These are facts that are on the public record in Australian newspapers. Instead of answering those questions, we have a government that says: 'The media reports are promoting discord.' They are promoting a question for the government—a question and a request that they tell the truth. We are relying on this government to finally come forward and actually speak the truth for a change.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>National Security: Citizenship, Asylum Seekers</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>National Security: Citizenship, Asylum Seekers</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Back, Sen Chris",LP,2015-06-17,"
 
 
@@ -875,7 +1003,7 @@ The DEPUTY PRESIDENT:  Senator Back, just resume your seat. I have been constant
 Senator BACK:
   The points I wish to make with regard to Mr Walker's comments in his final report are these. First of all, he said that dual citizenship is not a human right; he referred to the action going on in Britain, where a similar discretion is given to the Secretary of State—a minister of the government. Of course, Senator Brandis made no commentary at all, either yesterday or today. He made no commentary at all on what Mr Bret Walker said. For the benefit again of Senator Collins, he merely read out verbatim from Mr Walker's report. Now Mr Walker might come back and want to retract—to change it, to amend it or whatever—but to attack the Attorney-General on something that Mr Walker himself had said in his report is a bit rich. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>National Security: Citizenship, Asylum Seekers</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>National Security: Citizenship, Asylum Seekers</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Dastyari, Sen Sam",ALP,2015-06-17,"
 
 
@@ -923,7 +1051,7 @@ Unfortunately we saw that happen as well when we were talking about the issue of
 
 But, again, when we try to ask some legitimate questions that have been raised by someone as senior as Bret Walker SC, what do we get? We get stonewalling. We get the debate being shifted. So far, in what have been very difficult debates, I think it has been a positive development for this parliament that there has been, to an extent, so much bipartisanship on these kinds of issues. But that cannot exist when the information is not there. You cannot have a bipartisan approach in a vacuum. Unfortunately, we have not seen this legislation and, when we ask legitimate questions of the Attorney-General, he tries to enact a bit of theatre and play some games but he does not answer them.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>National Security: Citizenship, Asylum Seekers</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>National Security: Citizenship, Asylum Seekers</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "McGrath, Sen James",LP,2015-06-17,"
 
 
@@ -969,7 +1097,7 @@ It is also significant that the deputy opposition leader yesterday refused to co
 
 This government will not detail operational activities under Operation Sovereign Borders. What matters is that, under our policy, the boats are stopping. Illegal maritime migration is being stemmed and so are the deaths at sea. My colleague Senator Back from Western Australia made mention of the 1,200 people—the known 1,200 people—who perished at sea under the former Labor-Green government. Those were 1,200 people who we could have saved if our policies had been in operation. In 2008, we had seven boats; in 2013, 302 boats arrived. Since we were elected, in 2014 and 2015, only one boat has arrived. We have put up borders of steel; whereas the Labor Party, sadly, through their failed policies, had, effectively, borders of lace. They put together a border of their nannas' doilies to create a border to stop people smugglers—and it did not work. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>National Security: Citizenship, Asylum Seekers</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>National Security: Citizenship, Asylum Seekers</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Lines, Sen Susan",ALP,2015-06-17,"
 
 
@@ -1019,7 +1147,7 @@ Now an eminent QC has made comments in the media, and what do we see? We just se
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>National Security: Citizenship, Asylum Seekers</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>National Security: Citizenship, Asylum Seekers</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "PRESIDENT, The",,2015-06-17,"
 
 
@@ -1027,7 +1155,7 @@ Question agreed to.
 The PRESIDENT
  (15:37):  Thank you, Clerk. Does any senator wish to have that question put? There being none, we will now proceed to the discovery of formal business.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,11,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,11,1,speech
 "PRESIDENT, The",,2015-06-17,"
 
 
@@ -1035,7 +1163,7 @@ The PRESIDENT
 The PRESIDENT
  (15:37):  Thank you, Clerk. Does any senator wish to have that question put? There being none, we will now proceed to the discovery of formal business.
 
-",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,11,2
+",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,11,2,speech
 "McEwen, Sen Anne",ALP,2015-06-17,"
 
 
@@ -1064,7 +1192,7 @@ That there be laid on the table by the Minister representing the Minister for th
 
 (f) the geographical parameters for each of the licences and authorities.
 
-",Senate,<title>DOCUMENTS</title>,<title>Marine Reserves</title>,DOCUMENTS,12,1
+",Senate,<title>DOCUMENTS</title>,<title>Marine Reserves</title>,DOCUMENTS,12,1,speech
 "Fifield, Sen Mitch",LP,2015-06-17,"
 
 
@@ -1085,7 +1213,7 @@ Senator FIFIELD:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Marine Reserves</title>,DOCUMENTS,12,1
+",Senate,<title>DOCUMENTS</title>,<title>Marine Reserves</title>,DOCUMENTS,12,1,speech
 "McEwen, Sen Anne",ALP,2015-06-17,"
 
 
@@ -1114,7 +1242,7 @@ That there be laid on the table by the Minister representing the Minister for th
 
 (f) the geographical parameters for each of the licences and authorities.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,12,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,12,2,speech
 "Fifield, Sen Mitch",LP,2015-06-17,"
 
 
@@ -1135,7 +1263,7 @@ Senator FIFIELD:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,12,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,12,2,speech
 "Milne, Sen Christine",AG,2015-06-17,"
 
 
@@ -1155,7 +1283,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,"<title>Toyne, Mr Phillip</title>",MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,"<title>Toyne, Mr Phillip</title>",MOTIONS,13,1,speech
 "McAllister, Sen Jenny",ALP,2015-06-17,"
 
 
@@ -1179,7 +1307,7 @@ That there be laid on the table by the Minister for Finance (Senator Cormann) an
 
 The PRESIDENT:  The question is that general business notice of motion No. 728 be agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Broadband</title>,DOCUMENTS,14,1
+",Senate,<title>DOCUMENTS</title>,<title>Broadband</title>,DOCUMENTS,14,1,speech
 "McAllister, Sen Jenny",ALP,2015-06-17,"
 
 
@@ -1203,7 +1331,7 @@ That there be laid on the table by the Minister for Finance (Senator Cormann) an
 
 The PRESIDENT:  The question is that general business notice of motion No. 728 be agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,14,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,14,2,speech
 "O'Sullivan, Sen Barry",Nats,2015-06-17,"
 
 
@@ -1233,7 +1361,7 @@ The PRESIDENT:  The question is that general business notice of motion No. 730 b
 
  
 
-",Senate,<title>MOTIONS</title>,<title>Environmental Conservation</title>,MOTIONS,15,1
+",Senate,<title>MOTIONS</title>,<title>Environmental Conservation</title>,MOTIONS,15,1,speech
 "Waters, Sen Larissa",AG,2015-06-17,"
 
 
@@ -1290,7 +1418,7 @@ The influence of the Australian fossil fuel industry on the Federal Government, 
 
 The PRESIDENT:  The question is that the motion moved by Senator Waters be agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Environment and Communications References Committee</title>,COMMITTEES,16,1
+",Senate,<title>COMMITTEES</title>,<title>Environment and Communications References Committee</title>,COMMITTEES,16,1,speech
 "Waters, Sen Larissa",AG,2015-06-17,"
 
 
@@ -1347,7 +1475,7 @@ The influence of the Australian fossil fuel industry on the Federal Government, 
 
 The PRESIDENT:  The question is that the motion moved by Senator Waters be agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,16,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,16,2,speech
 "Rhiannon, Sen Lee",AG,2015-06-17,"
 
 
@@ -1376,7 +1504,7 @@ That the Senate—
 
 (b) calls on the Government to immediately review the existing beneficial tax arrangements for property investment with a view to improving housing affordability for first home buyers, and providing housing for those on social housing waiting lists and those experiencing homelessness.
 
-",Senate,<title>MOTIONS</title>,<title>Housing Affordability</title>,MOTIONS,17,1
+",Senate,<title>MOTIONS</title>,<title>Housing Affordability</title>,MOTIONS,17,1,speech
 "Fifield, Sen Mitch",LP,2015-06-17,"
 
 
@@ -1398,7 +1526,7 @@ Senator FIFIELD:
 
 The PRESIDENT:  The question is that the motion moved by Senator Rhiannon be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Housing Affordability</title>,MOTIONS,17,1
+",Senate,<title>MOTIONS</title>,<title>Housing Affordability</title>,MOTIONS,17,1,speech
 "Rhiannon, Sen Lee",AG,2015-06-17,"
 
 
@@ -1412,7 +1540,7 @@ That there be laid on the table by the Minister representing the Minister for Ag
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Rural Industries Development Corporation: Report</title>,DOCUMENTS,18,1
+",Senate,<title>DOCUMENTS</title>,<title>Rural Industries Development Corporation: Report</title>,DOCUMENTS,18,1,speech
 "Rhiannon, Sen Lee",AG,2015-06-17,"
 
 
@@ -1426,7 +1554,7 @@ That there be laid on the table by the Minister representing the Minister for Ag
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2,speech
 "Leyonhjelm, Sen David",LDP,2015-06-17,"
 
 
@@ -1437,7 +1565,7 @@ Senator LEYONHJELM
 
 That the Senate accepts the desirability and merit as a general budgetary principle of lowering taxes irrespective of whether the budget is or is not in surplus.
 
-",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,19,1,speech
 "Fifield, Sen Mitch",LP,2015-06-17,"
 
 
@@ -1459,7 +1587,7 @@ Senator FIFIELD:
 
 The PRESIDENT:  The question is that the motion standing in the name of Senators Leyonhjelm, Day and Wang, be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,19,1,speech
 "McEwen, Sen Anne",ALP,2015-06-17,"
 
 
@@ -1470,7 +1598,7 @@ Senator McEWEN
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Scrutiny of Bills Committee</title>,COMMITTEES,22,1
+",Senate,<title>COMMITTEES</title>,<title>Scrutiny of Bills Committee</title>,COMMITTEES,22,1,speech
 "McEwen, Sen Anne",ALP,2015-06-17,"
 
 
@@ -1481,7 +1609,7 @@ Senator McEWEN
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2,speech
 "Ryan, Sen Scott",LP,2015-06-17,"
 
 
@@ -1489,7 +1617,7 @@ Ordered that the report be printed.
 Senator RYAN
  (Victoria—Parliamentary Secretary to the Minister for Education and Training) (16:57):  On behalf of the Minister for Trade and Investment, Mr Robb, I table a ministerial statement and related agreement on the China-Australia Free Trade Agreement. I will take this opportunity to congratulate a friend of many of us, Mr Robb, on this momentous achievement.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>China-Australia Free Trade Agreement</title>,MINISTERIAL STATEMENTS,23,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>China-Australia Free Trade Agreement</title>,MINISTERIAL STATEMENTS,23,1,speech
 "Ryan, Sen Scott",LP,2015-06-17,"
 
 
@@ -1506,7 +1634,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,"<title>Airports Amendment Bill 2015, Customs Amendment (Australian Trusted Trader Programme) Bill 2015</title>",BILLS,24,1
+",Senate,<title>BILLS</title>,"<title>Airports Amendment Bill 2015, Customs Amendment (Australian Trusted Trader Programme) Bill 2015</title>",BILLS,24,1,speech
 "Ryan, Sen Scott",LP,2015-06-17,"
 
 
@@ -1676,7 +1804,7 @@ Debate adjourned.
 
 Ordered that the bills be listed on the Notice Paper as separate orders of the day.
 
-",Senate,<title>BILLS</title>,"<title>Airports Amendment Bill 2015, Customs Amendment (Australian Trusted Trader Programme) Bill 2015</title>",BILLS,24,1
+",Senate,<title>BILLS</title>,"<title>Airports Amendment Bill 2015, Customs Amendment (Australian Trusted Trader Programme) Bill 2015</title>",BILLS,24,1,speech
 "Ryan, Sen Scott",LP,2015-06-17,"
 
 
@@ -1693,7 +1821,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,24,2,speech
 "Ryan, Sen Scott",LP,2015-06-17,"
 
 
@@ -1710,7 +1838,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Ethanol and Biodiesel) Bill 2015, Energy Grants and Other Legislation Amendment (Ethanol and Biodiesel) Bill 2015</title>",BILLS,26,1
+",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Ethanol and Biodiesel) Bill 2015, Energy Grants and Other Legislation Amendment (Ethanol and Biodiesel) Bill 2015</title>",BILLS,26,1,speech
 "Ryan, Sen Scott",LP,2015-06-17,"
 
 
@@ -1811,7 +1939,7 @@ Full details of the measure are contained in the explanatory memorandum.
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Ethanol and Biodiesel) Bill 2015, Energy Grants and Other Legislation Amendment (Ethanol and Biodiesel) Bill 2015</title>",BILLS,26,1
+",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Ethanol and Biodiesel) Bill 2015, Energy Grants and Other Legislation Amendment (Ethanol and Biodiesel) Bill 2015</title>",BILLS,26,1,speech
 "Ryan, Sen Scott",LP,2015-06-17,"
 
 
@@ -1828,7 +1956,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,26,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,26,2,speech
 "Ruston, Sen Anne",LP,2015-06-17,"
 
 
@@ -1839,7 +1967,7 @@ Senator RUSTON
 
 Ordered that the reports be printed.
 
-",Senate,<title>COMMITTEES</title>,"<title>Legal and Constitutional Affairs Legislation Committee, Economics Legislation Committee</title>",COMMITTEES,27,1
+",Senate,<title>COMMITTEES</title>,"<title>Legal and Constitutional Affairs Legislation Committee, Economics Legislation Committee</title>",COMMITTEES,27,1,speech
 "Ruston, Sen Anne",LP,2015-06-17,"
 
 
@@ -1850,7 +1978,7 @@ Senator RUSTON
 
 Ordered that the reports be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,27,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,27,2,speech
 "Muir, Sen Ricky",AMEP,2015-06-17,"
 
 
@@ -1912,7 +2040,7 @@ I seek leave to table a document.
 
 Leave granted.
 
-",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1,speech
 "Lazarus, Sen Glenn",Ind.,2015-06-17,"
 
 
@@ -1944,7 +2072,7 @@ We also need to develop a national feed-in tariff rate for all users of rooftop 
 
 In summary, I do not want Australia to become the first country in the world to reduce a RET and I do not want unfettered cutting down of native forest timber to be included in the RET. I am standing up for all Australians and I hope the Senate will support me by voting for my amendments. If the Abbott government had taken a responsible approach to the management of the RET from day one, shown strong leadership and pulled up its sleeves to assist and support our country to reach the 41,000 target by 2020, we would not be in the mess we are in today. Sadly, the Abbott government's deplorable approach to renewable energy has sent our country backwards, hurting investment, our international reputation, local jobs and local businesses. We now have much to do to restore confidence in the renewable energy sector and to put our country back on the right path to cleaner, greener, more responsible renewable energy. Supporting my amendments will assist in this process.
 
-",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1,speech
 "Birmingham, Sen Simon",LP,2015-06-17,"
 
 
@@ -1994,7 +2122,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Smith
 ):  The question is that the bill be now read a second time.
 
-",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1,speech
 "Waters, Sen Larissa",AG,2015-06-17,"
 
 
@@ -2038,7 +2166,7 @@ Question agreed to.
 
 Progress reported.
 
-",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1,speech
 "Waters, Sen Larissa",AG,2015-06-17,"
 
 
@@ -2056,7 +2184,7 @@ That the Renewable Energy (Electricity) Amendment Bill 2015, together with the c
 
 The PRESIDENT:  The question is that the bill be referred to a committee on the motion moved by Senator Waters.
 
-",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1,speech
 "Singh, Sen Lisa",ALP,2015-06-17,"
 
 
@@ -2124,7 +2252,7 @@ Native wood waste is neither clean nor renewable in the modern-day sense of the 
 
 So Labor is not willing to see the Renewable Energy Scheme used to provide an alternative to the hard work of debating serious questions around the comprehensive inclusive and long-term solutions for our traditional logging industries. So it is for those reasons and for the reason that the reinsertion of native wood waste into the scheme was never raised during the some 12 months of negotiations with the opposition that I move the amendments that are before the Senate.
 
-",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1,speech
 "Macdonald, Sen Ian",LP,2015-06-17,"
 
 
@@ -2162,7 +2290,7 @@ Senator Singh, as I recall, was actually a minister in the Tasmanian government 
 
 It is terribly important that the issue is fully understood, and whilst I appreciate that the Labor Party is supporting the bill as proposed, I am disappointed that they have tried to turn back the clock on this issue of the sustainable use of wood waste: the ability to use wood waste, which would otherwise rot, as a means of creating renewable energy. I guess I should leave it to the minister to indicate the government's view on the amendment, but it would seem to me, from my experience in these areas, that this is not an amendment that is in the best interests a) of Tasmania, b) of the timber industry or c) of the whole renewable energy debate across Australia.
 
-",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1,speech
 "Birmingham, Sen Simon",LP,2015-06-17,"
 
 
@@ -2224,7 +2352,7 @@ In 2010 Senator Wong was continuing at that stage to defend this very legitimate
 
 The tragedy is that the Labor Party did not stand by the position that Penny Wong took consistently and, indeed, that is still the position of the Tasmanian Labor Party. Senator Singh, who has moved these amendments, should really be listening to Mr Bryan Green, the Tasmanian Labor leader. He wrote to the shadow environment minister Mark Butler to strongly put forward the case for a compromise on the inclusion of biomass in the RET. Mr Green is right, Penny Wong was right, our government and party today are right, the Labor Party are, sadly, wrong on this. Sadly, they are standing by a position they adopted when they were in bed with the Greens. They would be wise to withdraw these amendments. They would be wise to support the government in having native forest wood waste included as an eligible source with all of the protections that we are putting forward.
 
-",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1,speech
 "Waters, Sen Larissa",AG,2015-06-17,"
 
 
@@ -2232,7 +2360,7 @@ The tragedy is that the Labor Party did not stand by the position that Penny Won
 Senator WATERS
  (Queensland—Co-Deputy Leader of the Australian Greens) (18:40):  We support this amendment. Indeed, we have amendments that are drafted slightly differently but achieve the same outcome. Native forest burning is not a renewable energy source. It is terrible for biodiversity and it will throw a lifeline to the native forest logging industry just as the woodchips industry dries up. Interestingly, our amendment is drafted in a slightly different way, of course, such that it requires one less vote to pass. I think the Labor Party full well know that the way they have drafted their amendment means it is destined to fail.
 
-",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1,speech
 "Seselja, Sen Zed",LP,2015-06-17,"
 
 
@@ -2240,7 +2368,7 @@ Senator WATERS
 Senator SESELJA
  (Australian Capital Territory) (18:41):  I just want to seek some further clarification from the minister, particularly looking at a number of the aspects of how this would work in practice to ensure we do not see some of the things that the Greens are claiming—some of the ideas that there would be, somehow, wholesale extra logging or destruction of forests as a result of this inclusion. Also, when it comes to the regulation to ensure that this is not abused, I am interested in how that would be regulated. What would be the arrangements when it comes to an auditable trail of documentation from the source of the wood waste to the power station? If you could give some clarity on that, Minister.
 
-",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1,speech
 "Birmingham, Sen Simon",LP,2015-06-17,"
 
 
@@ -2308,7 +2436,7 @@ I think it should be clear to all in the chamber not only that we have strong sa
 
 I look to Dick Adams, who at that stage at least was recognising the value of bioenergy sourced from the native forest biomass. He was part of the House of Representatives inquiry that recommended that under any version of the RET or similar scheme, bioenergy sourced from native forest biomass should continue to qualify as renewable energy where it is true waste product and does not become a driver for the harvesting of native forest. Sadly for the Labor Party, it did not listen to that sort of advice; sadly for the Labor Party, it did the deals with the Australian Greens; and, sadly for the Labor Party, that meant that it went into the last federal election and only managed to win one of the five seats in Tasmania. Labor paid a price for turning its back on sensible forestry policy and on sensible policy relating to renewable energy—policies that were demonstrated to work and to have the effective safeguards in place. If it had any sense today, the Labor Party would be withdrawing this amendment and would be supporting the government's proposal to re-include the eligibility criteria for forest wood waste and to make sure that we have an effective regime in place, as our government intends to have.
 
-",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1,speech
 "Milne, Sen Christine",AG,2015-06-17,"
 
 
@@ -2374,7 +2502,7 @@ The TEMPORARY CHAIRMAN
 Senator Edwards
 ):  Senator Singh, I did not see you. I have given the call to Senator Colbeck.
 
-",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1,speech
 "Colbeck, Sen Richard",LP,2015-06-17,"
 
 
@@ -2439,7 +2567,7 @@ But what really annoys me is that the Greens have come in here with their forest
 
 Progress reported.
 
-",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Renewable Energy (Electricity) Amendment Bill 2015</title>,BILLS,28,1,speech
 "Muir, Sen Ricky",AMEP,2015-06-17,"
 
 
@@ -2501,7 +2629,7 @@ I seek leave to table a document.
 
 Leave granted.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Lazarus, Sen Glenn",Ind.,2015-06-17,"
 
 
@@ -2533,7 +2661,7 @@ We also need to develop a national feed-in tariff rate for all users of rooftop 
 
 In summary, I do not want Australia to become the first country in the world to reduce a RET and I do not want unfettered cutting down of native forest timber to be included in the RET. I am standing up for all Australians and I hope the Senate will support me by voting for my amendments. If the Abbott government had taken a responsible approach to the management of the RET from day one, shown strong leadership and pulled up its sleeves to assist and support our country to reach the 41,000 target by 2020, we would not be in the mess we are in today. Sadly, the Abbott government's deplorable approach to renewable energy has sent our country backwards, hurting investment, our international reputation, local jobs and local businesses. We now have much to do to restore confidence in the renewable energy sector and to put our country back on the right path to cleaner, greener, more responsible renewable energy. Supporting my amendments will assist in this process.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Birmingham, Sen Simon",LP,2015-06-17,"
 
 
@@ -2583,7 +2711,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Smith
 ):  The question is that the bill be now read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Ruston, Sen Anne",LP,2015-06-17,"
 
 
@@ -2627,4 +2755,4 @@ According to the Australian Food and Grocery Council's 2014 State of the industr
 
 These figures also demonstrate how exposed we are to the food manufacturing standards and ethics of other countries—standards and ethics which do not always meet the expectations of Australian consumers. Recent food safety incidents have provided a catalyst for this important reform, but let us not let these distract us from the fundamental reasons for undertaking it—Australians want to know where their food comes from. Again, for everyone who would like to participate in this public consultation process and complete the country-of-origin food labelling survey, I urge you to do so. 
 
-",Senate,<title>ADJOURNMENT</title>,<title>Food Labelling</title>,ADJOURNMENT,29,1
+",Senate,<title>ADJOURNMENT</title>,<title>Food Labelling</title>,ADJOURNMENT,29,1,speech

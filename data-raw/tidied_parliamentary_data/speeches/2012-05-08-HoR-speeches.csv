@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Slipper, Peter, MP",Ind.,2012-05-08,"
 
 
@@ -12,7 +12,7 @@ As Speaker I have sought to improve the standing of the House by introducing ref
 
 As honourable members would understand I place great importance on the institution of parliament. I propose to ask the Deputy Speaker as Deputy Speaker and members of the Speaker's panel to assist in chairing the proceedings of the House. There is much more to be done and I look forward to completing what I have begun. I present a copy of my statement and invite the Deputy Speaker to take the chair.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Speaker</title>,STATEMENT BY THE SPEAKER,0,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Speaker</title>,STATEMENT BY THE SPEAKER,0,1,speech
 "Gillard, Julia, MP",ALP,2012-05-08,"
 
 
@@ -41,7 +41,7 @@ Lionel Bowen was a school cleaner's son. His mother gave him to the Labor moveme
 
 On behalf of the government I offer my condolences to his wife, Claire, their children, many grandchildren and extended family.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Bowen, Hon. Lionel Frost, AC</title>",CONDOLENCES,1,1
+",HoR,<title>CONDOLENCES</title>,"<title>Bowen, Hon. Lionel Frost, AC</title>",CONDOLENCES,1,1,speech
 "Abbott, Tony, MP",LP,2012-05-08,"
 
 
@@ -55,7 +55,7 @@ Question agreed to, honourable members standing in their places.
 
 Debate adjourned.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Bowen, Hon. Lionel Frost, AC</title>",CONDOLENCES,1,1
+",HoR,<title>CONDOLENCES</title>,"<title>Bowen, Hon. Lionel Frost, AC</title>",CONDOLENCES,1,1,speech
 "Albanese, Anthony, MP",ALP,2012-05-08,"
 
 
@@ -72,7 +72,7 @@ I associate myself with the generous comments of the Prime Minister and the Lead
 
 Question agreed to.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Bowen, Hon. Lionel Frost, AC</title>",CONDOLENCES,1,1
+",HoR,<title>CONDOLENCES</title>,"<title>Bowen, Hon. Lionel Frost, AC</title>",CONDOLENCES,1,1,speech
 "Albanese, Anthony, MP",ALP,2012-05-08,"
 
 
@@ -89,7 +89,79 @@ I associate myself with the generous comments of the Prime Minister and the Lead
 
 Question agreed to.
 
-",HoR,<title>CONDOLENCES</title>,<title>Reference to Federation Chamber</title>,CONDOLENCES,1,2
+",HoR,<title>CONDOLENCES</title>,<title>Reference to Federation Chamber</title>,CONDOLENCES,1,2,speech
+"Symon, Mike, MP",ALP,2012-05-08,"
+
+
+
+
+Mr SYMON
+
+ (
+Deakin
+) (
+14:59
+):  My question is to the Prime Minister.
+
+
+
+
+Mr Pyne:
+  Madam Deputy Speaker, I rise on a point of order. The Leader of the Opposition was on his feet to seek the call, and the opposition has not yet had a question. There has been no question from this side of the House.
+
+
+
+
+The DEPUTY SPEAKER 
+
+(
+Ms AE Burke
+):  The member for Sturt was the first to seek the call after I asked for any questions to be put, and I gave it to the opposition. I am now, in turn, giving it to the government. The member for Deakin has the call.
+
+
+
+
+Mr Pyne:
+  Madam Deputy Speaker, on the point of order, while I do not wish to clash with you so early in your tenure in the chair—
+
+
+
+The DEPUTY SPEAKER:  After your last motion, I am beginning to have my doubts.
+
+
+
+
+Mr Pyne:
+  Madam Deputy Speaker, I did not seek the call for a question. I, within my rights, sought the call to seek leave to move a motion and then moved a suspension when that was not granted. Therefore, the call remains with the opposition.
+
+
+
+The DEPUTY SPEAKER:  The member for Sturt will resume his seat. Whilst I appreciate that, I gave him the call on that basis and on that basis I am now giving the call to the member for Deakin.
+
+
+
+
+Mr SYMON:
+  My question is to the Prime Minister. How will tonight's budget lay out a practical plan for Australians and their families to return to surplus and deliver on Labor values?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Gillard, Julia, MP",ALP,2012-05-08,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (15:00):  I thank the member for Deakin for his question, and I thank him for his deep interest in the economy, knowing that it offers jobs and prosperity to working Australians. I thank him for his deep interest in the budget, knowing that it matters to working Australians that tonight's budget responds to the needs of our economy, bringing the budget to surplus whilst of course protecting front-line services for families and building the things that our nation will need for the future, like a National Disability Insurance Scheme, like a better aged-care system and like a better way of looking after the dental needs of Australians who most need our care and concern for their dental care.
+
+
+There is no clearer sign of a strong economy than a surplus, and in tonight's budget we will bring the budget to surplus. We have achieved that despite the global financial crisis and despite continued uncertainty in the global economy. Bringing the budget to surplus is the right economic measure now. It will give us a buffer should the global economy take a downturn in the future and it offers the Reserve Bank the maximum room to move on interest rates should it choose to do so. Members in this parliament—or at least on this side of the chamber—would have recognised the relief that many Australians felt when interest rates were reduced by the Reserve Bank in their recent decision, helping people pay the mortgage because of the pressure of the mortgage on Australian family budgets.
+
+
+I understand, and the government understands, that Australians are concerned about cost-of-living pressures, and we will continue to work with families to help them make ends meet. That is why we are investing more money in child care than ever before. That is why we instituted a paid parental leave scheme. That is why we have worked to ensure that the tax-free threshold will be tripled so people can see more of the benefits of work in their hands. And that is why we are also introducing a schoolkids bonus, so families can get the benefits of dollars in their hands as they pay for the costs of kids going to school. We know that those school bills, whether they are for excursions or uniforms, can put a lot of pressure on working families.
+
+
+Tonight's budget will be a practical plan for Australia to return to surplus and to deliver on Labor values. It will be a truly Labor budget that goes in to bat for millions of Australians on low and middle incomes. They are the people that we have been concerned about as we have put the budget together. It is a budget that goes in to bat for them whilst delivering a budget surplus, the right choice for our economy now.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
 "Pyne, Christopher, MP",LP,2012-05-08,"
 
 
@@ -103,7 +175,7 @@ That in the view of the grave findings made against him by Fair Work Australia, 
 
 Leave not granted.
 
-",HoR,<title>MOTIONS</title>,<title>Member for Dobell</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Member for Dobell</title>,MOTIONS,6,1,speech
 "Pyne, Christopher, MP",LP,2012-05-08,"
 
 
@@ -181,7 +253,7 @@ Mr PYNE:
 
 The DEPUTY SPEAKER:  Is the motion seconded?
 
-",HoR,<title>MOTIONS</title>,<title>Member for Dobell</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Member for Dobell</title>,MOTIONS,6,1,speech
 "Bishop, Julie, MP",LP,2012-05-08,"
 
 
@@ -237,7 +309,7 @@ Standing orders must be suspended so that the Prime Minister, who has left the c
 
 The investigation report by Fair Work Australia does contain far more details and raises many more allegations. The Prime Minister must have been aware of the serious nature of these allegations so why did she not act sooner? Why did she not suspend the member for Dobell from the caucus? Why is she still accepting his vote? Well, if you believe the member for Dobell, she has not acted at all in relation to these allegations. The answer lies in the judgment and instincts of the Prime Minister. She fails to understand the seriousness of the allegations that hundreds of thousands of dollars in union fees collected from people around the country have been used for the personal gain of the member for Dobell. The motion should be supported. (Time expired)
 
-",HoR,<title>MOTIONS</title>,<title>Member for Dobell</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Member for Dobell</title>,MOTIONS,6,1,speech
 "Albanese, Anthony, MP",ALP,2012-05-08,"
 
 
@@ -387,7 +459,7 @@ Ms AE Burke
 
 The DEPUTY SPEAKER:  The member for Sturt may wish to refer to the House of Representatives Practice, page 271, and I stand by my original decision that the member has an entitlement to vote.
 
-",HoR,<title>MOTIONS</title>,<title>Member for Dobell</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Member for Dobell</title>,MOTIONS,6,1,speech
 "Pyne, Christopher, MP",LP,2012-05-08,"
 
 
@@ -401,7 +473,7 @@ That in the view of the grave findings made against him by Fair Work Australia, 
 
 Leave not granted.
 
-",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,6,2
+",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,6,2,speech
 "Pyne, Christopher, MP",LP,2012-05-08,"
 
 
@@ -479,7 +551,7 @@ Mr PYNE:
 
 The DEPUTY SPEAKER:  Is the motion seconded?
 
-",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,6,2
+",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,6,2,speech
 "Bishop, Julie, MP",LP,2012-05-08,"
 
 
@@ -535,7 +607,7 @@ Standing orders must be suspended so that the Prime Minister, who has left the c
 
 The investigation report by Fair Work Australia does contain far more details and raises many more allegations. The Prime Minister must have been aware of the serious nature of these allegations so why did she not act sooner? Why did she not suspend the member for Dobell from the caucus? Why is she still accepting his vote? Well, if you believe the member for Dobell, she has not acted at all in relation to these allegations. The answer lies in the judgment and instincts of the Prime Minister. She fails to understand the seriousness of the allegations that hundreds of thousands of dollars in union fees collected from people around the country have been used for the personal gain of the member for Dobell. The motion should be supported. (Time expired)
 
-",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,6,2
+",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,6,2,speech
 "Albanese, Anthony, MP",ALP,2012-05-08,"
 
 
@@ -685,7 +757,7 @@ Ms AE Burke
 
 The DEPUTY SPEAKER:  The member for Sturt may wish to refer to the House of Representatives Practice, page 271, and I stand by my original decision that the member has an entitlement to vote.
 
-",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,6,2
+",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,6,2,speech
 "Burke, Anna (The DEPUTY SPEAKER)",ALP,2012-05-08,"
 
 
@@ -760,7 +832,7 @@ That this Assembly:
 
 (4) calls on the Speaker to write to the leaders of all political parties and to all independents in the Federal Parliament advising them of the terms of this motion”.
 
-",HoR,<title>DOCUMENTS</title>,<title>Legislative Assembly of the Australian Capital Territory</title>,DOCUMENTS,9,1
+",HoR,<title>DOCUMENTS</title>,<title>Legislative Assembly of the Australian Capital Territory</title>,DOCUMENTS,9,1,speech
 "Burke, Anna (The DEPUTY SPEAKER)",ALP,2012-05-08,"
 
 
@@ -774,7 +846,7 @@ Ms AE Burke
 
 I ask members to ensure that their guests arrive at the galleries in time to undertake the security clearance and be seated in the galleries in a way that ensures the smooth operation of the House. I trust that there will be cooperation from members and from their guests in the galleries and that budget night and budget reply night will proceed smoothly for the benefit of the House and for those watching and listening to the proceedings.
 
-",HoR,<title>STATEMENTS</title>,<title>Budget</title>,STATEMENTS,10,1
+",HoR,<title>STATEMENTS</title>,<title>Budget</title>,STATEMENTS,10,1,speech
 "Burke, Anna (The DEPUTY SPEAKER)",ALP,2012-05-08,"
 
 
@@ -797,7 +869,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Leigh, Andrew, MP",ALP,2012-05-08,"
 
 
@@ -890,7 +962,7 @@ For too long we have had an aged care system that has been patched up with banda
 
 Those opposite should leave off trash-talking the Australian economy. They should say in Australia what the Leader of the Opposition would say were he in London, where he said: 'Australia has serious bragging rights. Compared to most developed countries, our economic circumstances are enviable.' (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Smith, Tony, MP",LP,2012-05-08,"
 
 
@@ -953,7 +1025,7 @@ The other thing we are going to see in this budget is fiddles galore. We have se
 
 What Australians can be sure of, unfortunately, is that whatever this Treasurer says tonight it will not be the outcome. Whatever he says tonight, in a little over three hours, it will not be the outcome. The unfortunate fact about the economic management of this government is that incompetence in the ministry and incompetence across the government is leading to a lack of confidence throughout the Australian economy. There is only one way to restore economic responsibility to Australia and that is with a change of government.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Owens, Julie, MP",ALP,2012-05-08,"
 
 
@@ -1000,7 +1072,7 @@ But it is equally the right thing to do as the economy recovers for us to withdr
 
 In the last two years we have lived through some of the worst natural disasters that we have seen come one after the other. Every time it happened there was a hit to our GDP, there was a loss of work opportunities and we saw the economy slow—and each time we responded. It is sensible when you have the spare capacity to move back into surplus so that if things get rocky again you have the capacity to respond. This is a sensible thing to do. It was sensible to go into deficit and it is sensible to bring the budget back to surplus as early as you can—and that is what we are doing. I am really looking forward to tonight's budget because I know it is going to be a Labor budget that continues on that commitment to growing the economy, to supporting the weakest, to enabling the strongest and to ensuring a future for future generations.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Christensen, George, MP",Nats,2012-05-08,"
 
 
@@ -1038,7 +1110,7 @@ I want to see a budget surplus—a real budget surplus—because it is what a re
 
 Four times the government has come to this place and told us that we are going to have a record huge deficit. They actually came in here and said that. It turned out the reality was much worse. One thing we can be sure of is that whatever the Treasurer announces tonight it will be worse than that when it comes to the crunch. No amount of smoke and mirrors can save this incompetent government. No amount of cooking the books will stop a country from plunging into a real black hole, a worm hole you could say, that it itself has created. And when the good hard-working Australians look up from the bottom of that big black hole where Labor has put them—and it will be sometime soon—they are going to say one thing, 'Beam me up, Scotty'. We need to get this country back to reality and the budget needs to get back to a real surplus, not Labor's science fiction one.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Hayes, Chris, MP",ALP,2012-05-08,"
 
 
@@ -1169,7 +1241,7 @@ It was only yesterday you had the International Monetary Fund coming out and pay
 
 We will be working to deliver for working families. We will not be taking care of mining magnates who are seeking preselection for the Liberal Party; we will work to look after working families. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Van Manen, Bert, MP",LP,2012-05-08,"
 
 
@@ -1256,7 +1328,7 @@ Today's MPI stresses the urgent need to return the budget to surplus, invest in 
 
 It is the coalition that has a proven ability to manage the economy. The urgent need to return the budget to surplus, invest in boosting productivity and provide open and transparent costings to the Australian people will not be achieved by this current government but through a coalition government that will bring reward, hope and opportunity to the people of Australia.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Oakeshott, Robert, MP",Ind.,2012-05-08,"
 
 
@@ -1276,7 +1348,7 @@ Mr OAKESHOTT:
 
 This process reflects both the committee's status as the parliament's audit committee and the Auditor-General's status as an independent officer of the parliament. The committee met with the Auditor-General in March to review the Audit Office's draft estimates for the coming financial year. The Auditor-General advised that, while not seeking additional budget supplementation at this time, the Audit Office is facing a number of cost pressures. These pressures include the cumulative effect of efficiency dividends, increased employee costs and contractor rate pressures. In addition, the ANAO continues to absorb the costs of the increased requirements as a result of changes to the Australian Auditing Standards. Furthermore, recent changes to the Auditor-General Act 1997 gave the ANAO new and welcome powers to undertake audits of key performance indicators and Commonwealth partners such as state governments. These important expansions of the Auditor-General's mandate add further pressure to the ANAO's budget outlook. The committee recognises the essential role the Auditor-General plays in scrutinising government processes and expenditure and therefore endeavours to ensure the ANAO remains adequately resourced. In this light and although the Auditor-General has not requested additional funds in this budget, the committee does not want to see the ANAO's new powers underutilised or their discretionary work, such as the performance audit program, negatively impacted due to future budget constraints. The committee appreciates the efforts of the Auditor-General and his staff in maintaining a strong working relationship with the committee. They have made themselves available to brief the committee regularly and have been responsive to our requests for information on a variety of topics. The committee looks forward to continuing a productive relationship with the Audit Office into the future. The Audit Office's total revenue from government is $74.306 million in 2012-13. The Auditor-General has advised that this appropriation is sufficient for him to discharge his statutory obligations and his work program for the year ahead. On this basis, the committee endorses the proposed budget for the Audit Office in 2012-13 but notes that any reduction in the draft estimates or additional pressure placed on the Audit Office without corresponding additional funds would be of concern. I present a copy of my statement on behalf of the Joint Committee of Public Accounts and Audit.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,15,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,15,1,speech
 "Andrews, Kevin, MP",LP,2012-05-08,"
 
 
@@ -1326,7 +1398,7 @@ Mrs D'Ath
 Mr Ramsey:
   I second the amendment and reserve my right to speak.
 
-",HoR,<title>BILLS</title>,<title>Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Bill 2012</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Bill 2012</title>,BILLS,17,1,speech
 "Jones, Stephen, MP",ALP,2012-05-08,"
 
 
@@ -1382,7 +1454,7 @@ The contrast between the policies of this government and the empty rhetoric of t
 
 The proposals that we have put before the House have the right balance between providing a fair and decent payment to mums, dads and their partners, ensuring that we do it in a responsible way, providing a benefit out of government revenues and, at the same time, transforming the way that workplaces, the government and the whole country think about these issues. So it is good legislation. I commend it to the House, and I commend those opposite who get behind it.
 
-",HoR,<title>BILLS</title>,<title>Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Bill 2012</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Bill 2012</title>,BILLS,17,1,speech
 "Billson, Bruce, MP",LP,2012-05-08,"
 
 
@@ -1513,7 +1585,7 @@ It goes on to talk about how the system operates well through the Family Assista
 
 When announcing this policy before the 2007 election, the Prime Minister herself said there would be no new imposts on small business. When these detailed amendments come forward to give smaller employers and all employers not in a position to or disinclined to carry out this unnecessary administrative burden, it is time to back up the talk with action. I urge the House to do the right thing: cut the red tape and support those amendments— (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Bill 2012</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Bill 2012</title>,BILLS,17,1,speech
 "Smyth, Laura, MP",ALP,2012-05-08,"
 
 
@@ -1570,7 +1642,7 @@ Sitting suspended from 17:53
 19:30
 
 
-",HoR,<title>BILLS</title>,<title>Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Bill 2012</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Bill 2012</title>,BILLS,17,1,speech
 "Andrews, Kevin, MP",LP,2012-05-08,"
 
 
@@ -1620,7 +1692,7 @@ Mrs D'Ath
 Mr Ramsey:
   I second the amendment and reserve my right to speak.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Jones, Stephen, MP",ALP,2012-05-08,"
 
 
@@ -1676,7 +1748,7 @@ The contrast between the policies of this government and the empty rhetoric of t
 
 The proposals that we have put before the House have the right balance between providing a fair and decent payment to mums, dads and their partners, ensuring that we do it in a responsible way, providing a benefit out of government revenues and, at the same time, transforming the way that workplaces, the government and the whole country think about these issues. So it is good legislation. I commend it to the House, and I commend those opposite who get behind it.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Billson, Bruce, MP",LP,2012-05-08,"
 
 
@@ -1807,7 +1879,7 @@ It goes on to talk about how the system operates well through the Family Assista
 
 When announcing this policy before the 2007 election, the Prime Minister herself said there would be no new imposts on small business. When these detailed amendments come forward to give smaller employers and all employers not in a position to or disinclined to carry out this unnecessary administrative burden, it is time to back up the talk with action. I urge the House to do the right thing: cut the red tape and support those amendments— (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Smyth, Laura, MP",ALP,2012-05-08,"
 
 
@@ -1864,7 +1936,7 @@ Sitting suspended from 17:53
 19:30
 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Swan, Wayne, MP",ALP,2012-05-08,"
 
 
@@ -2416,7 +2488,7 @@ I commend the bill to the House.
 
 Debate (on motion by Mr Abbott) adjourned.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2012-2013</title>,BILLS,18,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2012-2013</title>,BILLS,18,1,speech
 "Swan, Wayne, MP",ALP,2012-05-08,"
 
 
@@ -2439,7 +2511,7 @@ Agency Resourcing 2012-13
 
 Ordered that the documents be made parliamentary papers.
 
-",HoR,<title>DOCUMENTS</title>,<title>Budget Documents 2012-13</title>,DOCUMENTS,19,1
+",HoR,<title>DOCUMENTS</title>,<title>Budget Documents 2012-13</title>,DOCUMENTS,19,1,speech
 "Swan, Wayne, MP",ALP,2012-05-08,"
 
 
@@ -2462,7 +2534,7 @@ Agency Resourcing 2012-13
 
 Ordered that the documents be made parliamentary papers.
 
-",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,19,2
+",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,19,2,speech
 "Bradbury, David, MP",ALP,2012-05-08,"
 
 
@@ -2530,4 +2602,89 @@ Details of the proposed appropriations are set out in schedule 2 to the bill, th
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 2) 2012-2013</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 2) 2012-2013</title>,BILLS,21,1,speech
+"Bishop, Julie, MP",LP,2012-05-08,"
+
+
+
+Ms Julie Bishop
+  asked the Minister representing the Minister for Foreign Affairs, in writing, on 24 March 2011:
+
+
+(1) What is the target audience for the Australia Network, and was it determined by market research; if so, is this research publicly available.
+
+
+(2) Has his department undertaken any studies to determine whether the Australia Network is reaching this audience; if so, when were they undertaken and what were the results.
+
+
+(3) Did his department undertake a study of the Australian Network's effectiveness before the Government announced it would put out to tender a new 10 year contract.
+
+
+(4) Does his department believe that television remains the best medium for reaching this target audience; if so, why.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Australia Network (Question No. 330)</title>,QUESTIONS IN WRITING,24,1,question
+"Emerson, Craig, MP",ALP,2012-05-08,"
+
+
+
+Dr Emerson:
+  The Minister for Foreign Affairs has provided the answer to the honourable member's question:
+
+
+(1) The target audience comprises:
+
+
+(a) decision-makers;
+
+
+(b) emerging middle class; 
+
+
+(c) young aspirants;
+
+
+(d) students; and
+
+
+(e) regional nationals who are Australian alumni.
+
+
+DFAT selected the target audience as the demographic sectors which would most likely form a dedicated and influential viewership, and achieve the overarching Commonwealth Objectives for the service, in particular the Objective of ""providing a credible, impartial and independent voice, delivered to an international audience via innovative as well as conventional multimedia platforms"". The selected target audience are also the priority demographic sectors to attract to viewership of Australia Network in terms of the Commonwealth's Objectives to:
+
+
+promote an image of Australia as a dynamic and culturally diverse nation of the Asia-Pacific region and raise awareness of Australia's strengths and achievements across a range of fields;
+
+
+present Australian perspectives on the world and foster public understanding of Australia's global and regional role; and
+
+
+increase awareness of the close links between Australia and the Asia-Pacific region.
+
+
+(2) In accordance with the previous contract dated 4 August 2006 ('ABC Contract'), DFAT undertook a review of the performance of the ABC, including its reach to the target audience, in June 2010
+
+
+the Network was available at that time in 31 million homes across 45 markets, through 640 rebroadcast partners (up from 460 in 2009).
+
+
+This information was sourced from surveys Australia Network has subscribed to (as required under the terms of the ABC Contract). These surveys measure 'elite' viewership across markets (the target audience).
+
+
+(3) Yes
+
+
+The ABC contract set out detailed performance standards which were reported on annually and addressed the reach and appeal of the service, and the quality, relevance and credibility of programming, including of news, current affairs and business programs
+
+
+the ABC Contract also required DFAT to undertake a detailed review of the performance of the ABC after three years of the term of the contract
+
+
+this review was completed in June 2010.
+
+
+(4) Television remains a key medium. DFAT anticipates that the rapid evolution of digital media services and technologies will continue. The Statement of Requirement, which formed part of the Request For Tender, therefore emphasised the Government's expectation of a modern up-to-date service, which is not limited to television, and which keeps pace with technological developments over the life of the contract.
+
+
+The Statement of Requirement anticipated that greater efficiency and effectiveness would be delivered through increasing the Australia Network's online presence, increased use of social media and employment of new digital media technologies as alternative means to the television service of providing audio-visual content to target audiences.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Australia Network (Question No. 330)</title>,QUESTIONS IN WRITING,24,1,answer

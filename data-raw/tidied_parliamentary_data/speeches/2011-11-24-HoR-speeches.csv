@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Jenkins, Harry, MP",ALP,2011-11-24,"
 
 
@@ -39,7 +39,7 @@ Members having risen in their places—
 The SPEAKER:
   Order, order, order! I thank the House and invite the Deputy Speaker to take the chair.
 
-",HoR,<title>PARLIAMENTARY OFFICE HOLDERS</title>,<title>Speaker</title>,PARLIAMENTARY OFFICE HOLDERS,0,1
+",HoR,<title>PARLIAMENTARY OFFICE HOLDERS</title>,<title>Speaker</title>,PARLIAMENTARY OFFICE HOLDERS,0,1,speech
 "Abbott, Tony, MP",LP,2011-11-24,"
 
 
@@ -60,7 +60,7 @@ Mr ABBOTT:
 
 I simply wish to say, to mark this momentous occasion, that former Speaker Jenkins does have our respect and our gratitude, and whoever is to take his position will have our support and our encouragement.
 
-",HoR,<title>PARLIAMENTARY OFFICE HOLDERS</title>,<title>Speaker</title>,PARLIAMENTARY OFFICE HOLDERS,0,1
+",HoR,<title>PARLIAMENTARY OFFICE HOLDERS</title>,<title>Speaker</title>,PARLIAMENTARY OFFICE HOLDERS,0,1,speech
 "Gillard, Julia, MP",ALP,2011-11-24,"
 
 
@@ -68,7 +68,7 @@ I simply wish to say, to mark this momentous occasion, that former Speaker Jenki
 Ms GILLARD
  (Lalor—Prime Minister) (09:07):  A remarkable thing has happened in this parliament this morning. It is my intention to make some statements about Harry Jenkins later this day when he is in the parliament. As he has indicated, he has gone straight from this place to see the Governor-General. There will be remarks that we want to make about him as Speaker; there will be remarks that we want to make about him as a member of the Labor family. But, with your indulgence, Mr Deputy Speaker, I will do that later this day when Harry Jenkins is available to be with us.
 
-",HoR,<title>PARLIAMENTARY OFFICE HOLDERS</title>,<title>Speaker</title>,PARLIAMENTARY OFFICE HOLDERS,0,1
+",HoR,<title>PARLIAMENTARY OFFICE HOLDERS</title>,<title>Speaker</title>,PARLIAMENTARY OFFICE HOLDERS,0,1,speech
 "Jenkins, Harry, MP",ALP,2011-11-24,"
 
 
@@ -109,7 +109,7 @@ Members having risen in their places—
 The SPEAKER:
   Order, order, order! I thank the House and invite the Deputy Speaker to take the chair.
 
-",HoR,<title>PARLIAMENTARY OFFICE HOLDERS</title>,<title>Resignation</title>,PARLIAMENTARY OFFICE HOLDERS,0,2
+",HoR,<title>PARLIAMENTARY OFFICE HOLDERS</title>,<title>Resignation</title>,PARLIAMENTARY OFFICE HOLDERS,0,2,speech
 "Abbott, Tony, MP",LP,2011-11-24,"
 
 
@@ -130,7 +130,7 @@ Mr ABBOTT:
 
 I simply wish to say, to mark this momentous occasion, that former Speaker Jenkins does have our respect and our gratitude, and whoever is to take his position will have our support and our encouragement.
 
-",HoR,<title>PARLIAMENTARY OFFICE HOLDERS</title>,<title>Resignation</title>,PARLIAMENTARY OFFICE HOLDERS,0,2
+",HoR,<title>PARLIAMENTARY OFFICE HOLDERS</title>,<title>Resignation</title>,PARLIAMENTARY OFFICE HOLDERS,0,2,speech
 "Gillard, Julia, MP",ALP,2011-11-24,"
 
 
@@ -138,7 +138,7 @@ I simply wish to say, to mark this momentous occasion, that former Speaker Jenki
 Ms GILLARD
  (Lalor—Prime Minister) (09:07):  A remarkable thing has happened in this parliament this morning. It is my intention to make some statements about Harry Jenkins later this day when he is in the parliament. As he has indicated, he has gone straight from this place to see the Governor-General. There will be remarks that we want to make about him as Speaker; there will be remarks that we want to make about him as a member of the Labor family. But, with your indulgence, Mr Deputy Speaker, I will do that later this day when Harry Jenkins is available to be with us.
 
-",HoR,<title>PARLIAMENTARY OFFICE HOLDERS</title>,<title>Resignation</title>,PARLIAMENTARY OFFICE HOLDERS,0,2
+",HoR,<title>PARLIAMENTARY OFFICE HOLDERS</title>,<title>Resignation</title>,PARLIAMENTARY OFFICE HOLDERS,0,2,speech
 "Smith, Stephen, MP",ALP,2011-11-24,"
 
 
@@ -264,7 +264,7 @@ atters
 
 In my July report I noted the investigation into allegations that the ADF initial screening area team in Afghanistan did not adhere to administrative procedures. I will advise on the outcome of this investigation in due course. Mr Deputy Speaker, I thank the House and I present a paper tabled in conjunction with my ministerial statement.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,1,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,1,1,speech
 "Dreyfus, Mark, MP",ALP,2011-11-24,"
 
 
@@ -278,7 +278,7 @@ That so much of standing and sessional orders be suspended as would prevent the 
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,1,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,1,1,speech
 "Robert, Stuart, MP",LP,2011-11-24,"
 
 
@@ -349,7 +349,7 @@ Let us not underestimate the value of economic activity or the work that the Pro
 
 I thank the minister again for his update to the House. He knows that the government enjoys full coalition support in the prosecution of combat operations. The coalition support the minister's announcements on the commencement of the transfer of detainees to NDS, the ability to hold from 96 hours to 10 days. We support the implementation of the PIC and the full use of the detaining facility. I thank the minister for his update to the House.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,1,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,1,1,speech
 "Shorten, Bill, MP",ALP,2011-11-24,"
 
 
@@ -447,7 +447,7 @@ In summary, the measures in this bill support the key public policy objectives o
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Corporations Amendment (Further Future of Financial Advice Measures) Bill 2011</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Corporations Amendment (Further Future of Financial Advice Measures) Bill 2011</title>,BILLS,3,1,speech
 "Burke, Tony, MP",ALP,2011-11-24,"
 
 
@@ -527,7 +527,7 @@ That so much of the standing orders be suspended as would prevent the member for
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Murray-Darling Basin</title>,MINISTERIAL STATEMENTS,4,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Murray-Darling Basin</title>,MINISTERIAL STATEMENTS,4,1,speech
 "Macfarlane, Ian, MP",LP,2011-11-24,"
 
 
@@ -586,7 +586,7 @@ The plan that is released next week will be judged on some clear principles. Fir
 
 Finally, the plan must take into account the natural limitations of water delivery in the basin. It is simply not acceptable to flood vast parts of private land for the purposes of environmental watering. The coalition will support a plan that can deliver on these outcomes. The problem is that the government is starting from a long way behind. They have lost the true trust of the people in the basin and they have lost the true trust of a vast number of Australians. (Time expired)
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Murray-Darling Basin</title>,MINISTERIAL STATEMENTS,4,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Murray-Darling Basin</title>,MINISTERIAL STATEMENTS,4,1,speech
 "Shorten, Bill, MP",ALP,2011-11-24,"
 
 
@@ -603,7 +603,7 @@ The Joint Select Committee on Cyber-Safety was established by resolution of the 
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Cyber-Safety Committee</title>,COMMITTEES,5,1
+",HoR,<title>COMMITTEES</title>,<title>Cyber-Safety Committee</title>,COMMITTEES,5,1,speech
 "Shorten, Bill, MP",ALP,2011-11-24,"
 
 
@@ -620,7 +620,7 @@ The Joint Select Committee on Cyber-Safety was established by resolution of the 
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,5,2
+",HoR,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,5,2,speech
 "Griggs, Natasha, MP",CLP,2011-11-24,"
 
 
@@ -646,7 +646,7 @@ I thank the House and in particular my coalition colleagues for their support. I
 
 Question agreed to.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Bombing of Darwin</title>,PRIVATE MEMBERS' BUSINESS,7,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Bombing of Darwin</title>,PRIVATE MEMBERS' BUSINESS,7,1,speech
 "Gray, Gary, MP",ALP,2011-11-24,"
 
 
@@ -663,7 +663,7 @@ Defence Housing Australia proposes to develop a 16.3-hectare infill broadacre si
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,11,1
+",HoR,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,11,1,speech
 "Gray, Gary, MP",ALP,2011-11-24,"
 
 
@@ -680,7 +680,7 @@ Defence Housing Australia proposes to develop a 16.3-hectare infill broadacre si
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,11,2
+",HoR,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,11,2,speech
 "Gillard, Julia, MP",ALP,2011-11-24,"
 
 
@@ -697,7 +697,7 @@ Mr Speaker, dealing with a separate topic and with something that I know is of c
 The SPEAKER:
   I am sure that all honourable members associate themselves with the remarks of the Prime Minister.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Larkham, Mrs Maureen</title>",CONDOLENCES,14,1
+",HoR,<title>CONDOLENCES</title>,"<title>Larkham, Mrs Maureen</title>",CONDOLENCES,14,1,speech
 "Abbott, Tony, MP",LP,2011-11-24,"
 
 
@@ -708,7 +708,23 @@ Mr ABBOTT
 
 I note that Maureen was very close to one of my own staff members, Di Honan. Maureen recently attended Di's wedding and I know Di has been particularly affected by Maureen's passing. Our thoughts are with the family of Maureen—her husband, Geoff; her children, Rebecca and Stephen, the rugby international; and her grandchildren. She will be missed.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Larkham, Mrs Maureen</title>",CONDOLENCES,14,1
+",HoR,<title>CONDOLENCES</title>,"<title>Larkham, Mrs Maureen</title>",CONDOLENCES,14,1,speech
+"Pyne, Christopher, MP",LP,2011-11-24,"
+
+
+
+Mr PYNE
+ (Sturt—Manager of Opposition Business) (14:15):  My question is to the Prime Minister. Prime Minister, what discussions, meetings and arrangements have you or your office or any members of your cabinet been party to in relation to the departure of the member for Scullin as Speaker and the elevation of the member for Fisher?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>The Speaker</title>,QUESTIONS WITHOUT NOTICE,16,1,question
+"Gillard, Julia, MP",ALP,2011-11-24,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:16):  I have to say that the question is an unexpected one given the tenor of remarks made when we dealt with your election, Mr Speaker, and the farewells to the member for Scullin. In answer to the question: the former Speaker, the member for Scullin, came to see me at 7.30 this morning and advised me that he would be tendering his resignation at 9 am. In relation to discussions with the current occupant of the Speaker's office, I have had no discussion with the Speaker, other than the public remarks I have made in this place.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>The Speaker</title>,QUESTIONS WITHOUT NOTICE,16,1,answer
 "Abbott, Tony, MP",LP,2011-11-24,"
 
 
@@ -799,7 +815,7 @@ I have to say: the Australian public are not fooled by a Prime Minister who has 
 The SPEAKER:
   Is the motion seconded?
 
-",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,17,1
+",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,17,1,speech
 "Bishop, Julie, MP",LP,2011-11-24,"
 
 
@@ -861,7 +877,7 @@ Then there was her infamous promise six days before the election, 'There will be
 The SPEAKER:
   Order! The Deputy Leader of the Opposition will resume her seat. The question is that the motion be agreed to. I now give the call to the honourable Prime Minister.
 
-",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,17,1
+",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,17,1,speech
 "Gillard, Julia, MP",ALP,2011-11-24,"
 
 
@@ -1285,7 +1301,7 @@ The House divided. [14:48]
 
 Question negatived. 
 
-",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,17,1
+",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,17,1,speech
 "Gillard, Julia, MP",ALP,2011-11-24,"
 
 
@@ -1303,7 +1319,7 @@ Honourable members interjecting—
 The SPEAKER:
   Order! I am on my feet, the member for Sturt. You do not want to build a tally further!
 
-",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,17,1
+",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,17,1,speech
 "Abbott, Tony, MP",LP,2011-11-24,"
 
 
@@ -1394,7 +1410,7 @@ I have to say: the Australian public are not fooled by a Prime Minister who has 
 The SPEAKER:
   Is the motion seconded?
 
-",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,17,2
+",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,17,2,speech
 "Bishop, Julie, MP",LP,2011-11-24,"
 
 
@@ -1456,7 +1472,7 @@ Then there was her infamous promise six days before the election, 'There will be
 The SPEAKER:
   Order! The Deputy Leader of the Opposition will resume her seat. The question is that the motion be agreed to. I now give the call to the honourable Prime Minister.
 
-",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,17,2
+",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,17,2,speech
 "Gillard, Julia, MP",ALP,2011-11-24,"
 
 
@@ -1880,7 +1896,7 @@ The House divided. [14:48]
 
 Question negatived. 
 
-",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,17,2
+",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,17,2,speech
 "Gillard, Julia, MP",ALP,2011-11-24,"
 
 
@@ -1898,7 +1914,7 @@ Honourable members interjecting—
 The SPEAKER:
   Order! I am on my feet, the member for Sturt. You do not want to build a tally further!
 
-",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,17,2
+",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,17,2,speech
 "Gillard, Julia, MP",ALP,2011-11-24,"
 
 
@@ -1906,7 +1922,7 @@ The SPEAKER:
 Ms GILLARD
  (Lalor—Prime Minister) (14:53):  This is a matter that I was speaking to the member for Braddon about yesterday. As people would be aware, we did lose the life of a young Australian woman in the train fire in India. The member for Braddon is the representative of that local community in this place. He is someone who knows the family. There are parents and a family grieving for this lost Australian. She was there with three companions, also from Tasmania, and I did want to take this opportunity to say that I believe the thoughts of every member of the House will be with that family and with that very tight-knit local community.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Scanlon, Ms Kate</title>",CONDOLENCES,18,1
+",HoR,<title>CONDOLENCES</title>,"<title>Scanlon, Ms Kate</title>",CONDOLENCES,18,1,speech
 "Albanese, Anthony, MP",ALP,2011-11-24,"
 
 
@@ -1957,7 +1973,7 @@ Superannuation (Government Co-contribution for Low Income Earners) Act 2003—Qu
 
 Debate adjourned.
 
-",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,19,1
+",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,19,1,speech
 "Albanese, Anthony, MP",ALP,2011-11-24,"
 
 
@@ -1966,7 +1982,7 @@ Debate adjourned.
 Mr ALBANESE
  (Grayndler—Leader of the House and Minister for Infrastructure and Transport) (14:55):  I table the government response to the House of Representatives Standing Committee on Regional Australia report, Of drought and flooding rains: inquiry into the impact of the Guide to the Murray-Darling Basin Planin regional Australia.
 
-",HoR,<title>COMMITTEES</title>,<title>Regional Australia Committee</title>,COMMITTEES,20,1
+",HoR,<title>COMMITTEES</title>,<title>Regional Australia Committee</title>,COMMITTEES,20,1,speech
 "Albanese, Anthony, MP",ALP,2011-11-24,"
 
 
@@ -1975,7 +1991,7 @@ Mr ALBANESE
 Mr ALBANESE
  (Grayndler—Leader of the House and Minister for Infrastructure and Transport) (14:55):  I table the government response to the House of Representatives Standing Committee on Regional Australia report, Of drought and flooding rains: inquiry into the impact of the Guide to the Murray-Darling Basin Planin regional Australia.
 
-",HoR,<title>COMMITTEES</title>,<title>Government Response</title>,COMMITTEES,20,2
+",HoR,<title>COMMITTEES</title>,<title>Government Response</title>,COMMITTEES,20,2,speech
 "Slipper, Peter, MP",Ind.,2011-11-24,"
 
 
@@ -1986,7 +2002,7 @@ The SPEAKER:
 
 That the time for the presentation of the report of the Joint Standing Committee on Electoral Matters on the funding of political parties and election campaigns be extended to 12 December 2011.
 
-",HoR,<title>COMMITTEES</title>,<title>Electoral Matters Committee</title>,COMMITTEES,22,1
+",HoR,<title>COMMITTEES</title>,<title>Electoral Matters Committee</title>,COMMITTEES,22,1,speech
 "Slipper, Peter, MP",Ind.,2011-11-24,"
 
 
@@ -5312,7 +5328,7 @@ Response not required
 
  
 
-",HoR,<title>COMMITTEES</title>,<title>Government Response</title>,COMMITTEES,22,2
+",HoR,<title>COMMITTEES</title>,<title>Government Response</title>,COMMITTEES,22,2,speech
 "Schultz, Alby, MP",LP,2011-11-24,"
 
 
@@ -5354,7 +5370,43 @@ Mr SCHULTZ:
 The SPEAKER:
   My ruling on that is the words 'man', 'woman' and 'horrible' are not unparliamentary.
 
-",HoR,<title>QUESTIONS TO THE SPEAKER</title>,<title>Parliamentary Language</title>,QUESTIONS TO THE SPEAKER,24,1
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,<title>Parliamentary Language</title>,QUESTIONS TO THE SPEAKER,24,1,speech
+"Ellis, Kate, MP",ALP,2011-11-24,"
+
+
+
+Ms KATE ELLIS
+ (Adelaide—Minister for Employment Participation and Childcare and Minister for the Status of Women) (15:07):  Mr Speaker, I seek clarification on the point that the member for Hume made earlier—
+
+
+
+
+The SPEAKER:
+  Is this a question to me?
+
+
+
+
+Ms KATE ELLIS:
+  It is a question to you, if you would like.
+
+
+
+Opposition members interjecting—
+
+
+
+
+Ms KATE ELLIS:
+  Okay, I have a question to you. Do you think it would be appropriate in this House that we set a standard that (1) we try and lessen the insults and (2) we say that it is totally inappropriate to have gendered insults continually thrown across the chamber and, on a day when we are all saying we are encouraging respect for women, we stand up against it?
+
+
+
+
+The SPEAKER:
+  As the Speaker, I am the arbiter of what is parliamentary and what is unparliamentary. I would counsel all honourable members on both sides to observe civilities because, if that does not occur, our chamber might often appear to have a lot fewer than 150 members.
+
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,<title>Parliamentary Behaviour</title>,QUESTIONS TO THE SPEAKER,26,1,question
 "Abbott, Tony, MP",LP,2011-11-24,"
 
 
@@ -5407,7 +5459,7 @@ We came forward with a $2 billion mental health policy. It was so successful tha
 
 We can do better than this government. The Australian people are feeling down because they know we can do better. This is a great country. It deserves a better government, and we stand ready to give it to them. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Gillard Government</title>,MATTERS OF PUBLIC IMPORTANCE,27,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Gillard Government</title>,MATTERS OF PUBLIC IMPORTANCE,27,1,speech
 "Clare, Jason, MP",ALP,2011-11-24,"
 
 
@@ -5484,7 +5536,7 @@ His former boss John Hewson used to say of the Leader of the Opposition that he 
 
 How has this disciple of John Howard ended up opposing the policies of John Howard? Because he is a man who does not believe in anything. When you do not believe in anything you get things wrong. He has come into this place and said that the carbon price would be the death of the coal industry. He said the mining resource rent tax would kill the mining boom stone dead. Last time I was here I reminded the House that one in six members of the opposition have bought shares in coal and resource companies over the last few months since we made that announcement. I have had the Stasi in my office check. There is a sudden silence from the opposition about buying shares. I wonder how that happened. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Gillard Government</title>,MATTERS OF PUBLIC IMPORTANCE,27,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Gillard Government</title>,MATTERS OF PUBLIC IMPORTANCE,27,1,speech
 "Truss, Warren, MP",Nats,2011-11-24,"
 
 
@@ -5534,7 +5586,7 @@ I also want to refer to a number of people who are not going to have a happy Chr
 
 What are this government's priorities? They go on with all this intrigue and political nonsense, when they should be looking after the Australian people. This is the fourth birthday of disaster, an anniversary of an underachieving government—a government that ought to give it away. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Gillard Government</title>,MATTERS OF PUBLIC IMPORTANCE,27,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Gillard Government</title>,MATTERS OF PUBLIC IMPORTANCE,27,1,speech
 "Bradbury, David, MP",ALP,2011-11-24,"
 
 
@@ -5578,7 +5630,7 @@ In the entire time I have been involved in politics—and I was involved in loca
 
 And, of course, we repealed Work Choices—the greatest assault upon the decency of the Australian people that we have witnessed. They put it in; we repealed it. We continue to ensure that working Australians have access to fair arrangements in their workplaces so that they have some rights; they have a framework that allows them to go to work knowing that they have some protection from being summarily dismissed without any recourse. They know that they can bargain with other workers in a context where they will never have equal bargaining power with their employer but they might have a fair go. These are the things that Labor governments deliver, and I am proud to be a part of a government that has been delivering these things over the last four years. We will continue to do that. The challenges that this country faces in the future are just as great, but we believe and have sufficient hope in the Australian people. We know we have the capacity to take those challenges on in the future, and that is what we will do. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Gillard Government</title>,MATTERS OF PUBLIC IMPORTANCE,27,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Gillard Government</title>,MATTERS OF PUBLIC IMPORTANCE,27,1,speech
 "Bishop, Julie, MP",LP,2011-11-24,"
 
 
@@ -5619,7 +5671,7 @@ It does not stop there. There is another really disgraceful episode that has not
 
 The Gillard government announced the most recent tender in December with tender documents issued in February and at stake is $223 million. It was meant to be an arm's length tender. It has always been done through the Department of Foreign Affairs and Trade, as it should, because it involves soft diplomacy into our region. Responsibility for the decision rests with the Minister for Foreign Affairs, but so divided and so dysfunctional is this government at the top that, without explanation, a secret deal was done. They ripped responsibility off the Minister for Foreign Affairs and gave it to none other than the minister for the ABC, Senator Conroy. Talk about a conflict of interest! The minister, who is responsible for the ABC, one of the tenderers, gets to decide the tender. And the Minister for Foreign Affairs is backstabbed yet again. It is like Lucy and Peanuts holding the football and poor old Kevin comes running in and she takes the footy away. This tender is now so discredited, the political and government interference in this tender is now so discredited, that the Attorney-General is intervening to investigate the circumstances. The Prime Minister and the minister for communications are complicit in yet another disgraceful episode of this contemptible— (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Gillard Government</title>,MATTERS OF PUBLIC IMPORTANCE,27,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Gillard Government</title>,MATTERS OF PUBLIC IMPORTANCE,27,1,speech
 "Jones, Stephen, MP",ALP,2011-11-24,"
 
 
@@ -5634,7 +5686,7 @@ It has been an extraordinary year because we have delivered 250 pieces of legisl
 
 The DEPUTY SPEAKER:  Order! The discussion is now concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Gillard Government</title>,MATTERS OF PUBLIC IMPORTANCE,27,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Gillard Government</title>,MATTERS OF PUBLIC IMPORTANCE,27,1,speech
 "Ripoll, Bernie, MP",ALP,2011-11-24,"
 
 
@@ -5658,7 +5710,7 @@ That the House take note of the reports.
 
 The DEPUTY SPEAKER:  In accordance with standing order 39, the debate is adjourned. The resumption of the debate will be made orders of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Corporations and Financial Services Committee</title>,COMMITTEES,29,1
+",HoR,<title>COMMITTEES</title>,<title>Corporations and Financial Services Committee</title>,COMMITTEES,29,1,speech
 "Ripoll, Bernie, MP",ALP,2011-11-24,"
 
 
@@ -5672,7 +5724,7 @@ That the orders of the day be referred to the Main Committee for debate.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Corporations and Financial Services Committee</title>,COMMITTEES,29,1
+",HoR,<title>COMMITTEES</title>,<title>Corporations and Financial Services Committee</title>,COMMITTEES,29,1,speech
 "Ripoll, Bernie, MP",ALP,2011-11-24,"
 
 
@@ -5696,7 +5748,7 @@ That the House take note of the reports.
 
 The DEPUTY SPEAKER:  In accordance with standing order 39, the debate is adjourned. The resumption of the debate will be made orders of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,29,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,29,2,speech
 "Gillard, Julia, MP",ALP,2011-11-24,"
 
 
@@ -5744,7 +5796,7 @@ A government member:  Chifley.
 Ms GILLARD:
   the member for Chifley—I am tired—when he did his maiden speech in this parliament. He said something that always struck me and so I am going to use these words to my Labor colleagues in conclusion. This is a saying in his original language translated into English: 'From my heart to yours, I can't thank you enough.' Thank you.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Valedictories</title>,STATEMENTS ON INDULGENCE,30,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Valedictories</title>,STATEMENTS ON INDULGENCE,30,1,speech
 "Truss, Warren, MP",Nats,2011-11-24,"
 
 
@@ -5782,7 +5834,7 @@ In talking about people who are working, often in hazardous conditions, I also c
 
 It has been an exciting year in the parliament, as it always is. There is a lot more ahead of us, no doubt, in the year ahead. I hope that all members will enjoy a wonderful Christmas season and a pleasant break, and will come back refreshed, ready to do business again. I hope that those who support us, and their families and friends, will also enjoy a pleasant Christmas holiday, when the real message of Christmas rings in their hearts, and that we all express our appreciation and goodwill to our fellow Australians to enjoy this season and to plan for the next year in the hope that it will be both safe and prosperous for us all.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Valedictories</title>,STATEMENTS ON INDULGENCE,30,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Valedictories</title>,STATEMENTS ON INDULGENCE,30,1,speech
 "Swan, Wayne, MP",ALP,2011-11-24,"
 
 
@@ -5799,7 +5851,7 @@ It has also been a very interesting year in the national and international econo
 
 Debate interrupted.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Valedictories</title>,STATEMENTS ON INDULGENCE,30,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Valedictories</title>,STATEMENTS ON INDULGENCE,30,1,speech
 "Swan, Wayne, MP",ALP,2011-11-24,"
 
 
@@ -5831,7 +5883,7 @@ Lastly, I would like to thank my family. We all know that the lot of a politicia
 
 For the year ahead, I am so confident about the future of our country. As I said before, storm clouds are gathering again in the international economy. We are not seeing the progress we would like to see in Europe. We are not necessarily seeing the progress we would like to see in the United States, in terms of the United States dealing with their long-term financial challenges. But the one thing we can be confident of is that we are located in the right part of the world at precisely the right time. We are not, in this region, immune from the fallout of events in Europe or in the United States but, because of decisions that were taken over the past four years here in Australia in terms of our response to the global financial crisis and the global recession, we are in the best possible position to handle the fallout from these events. And so are many other countries in our region. The Asia-Pacific is the hope of the global economy. It does have the capacity to continue to grow and to harvest enormous productivity improvements. For the year ahead there are challenges, but I think we can all be confident, as we go through to Christmas, that we have a country which is in good shape and which has the capacity to respond to the challenges of the future.
 
-",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Valedictory</title>,PARLIAMENTARY REPRESENTATION,32,1
+",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Valedictory</title>,PARLIAMENTARY REPRESENTATION,32,1,speech
 "Abbott, Tony, MP",LP,2011-11-24,"
 
 
@@ -5861,7 +5913,7 @@ Mr Perrett interjecting—
 Mr ABBOTT:
   and yes, in the case of my friend on the other side, our particular rugby league hats—as one human being to the human beings opposite I say: may hostilities momentarily cease and may compliments of the season go to them. May God bless us, may God bless this parliament, may God bless our country and, finally, may I pause to acknowledge brave Australian soldiers killed and wounded this year in the war in Afghanistan.
 
-",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Valedictory</title>,PARLIAMENTARY REPRESENTATION,32,1
+",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Valedictory</title>,PARLIAMENTARY REPRESENTATION,32,1,speech
 "Albanese, Anthony, MP",ALP,2011-11-24,"
 
 
@@ -5887,7 +5939,7 @@ To the secretary of my department, Mr Mrdak; to all the staff of my department; 
 
 Finally, as the Minister for Infrastructure and Transport I encourage everyone to drive safely on the roads over the holidays. It is a sad case that every year around Christmastime there are tragedies on our roads. We need to make sure that we get that drive-safe message out there in the community. It is something I encourage all members of the House of Representatives to do in terms of the messages to their electorate. For too many families in this country Christmas is a time of sadness as they reflect on past Christmases when they lost loved ones. Let us make sure that we minimise the road toll this Christmas. I wish everyone a very merry Christmas.
 
-",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Valedictory</title>,PARLIAMENTARY REPRESENTATION,32,1
+",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Valedictory</title>,PARLIAMENTARY REPRESENTATION,32,1,speech
 "Pyne, Christopher, MP",LP,2011-11-24,"
 
 
@@ -5919,7 +5971,7 @@ I also thank the Leader of the Opposition, Tony Abbott; the Deputy Leader of the
 
 Finally, I thank my family, Carolyn, Barnaby, Eleanor, Felix and Aurelia, who are 11, 11, nine and three—well, Carolyn is not, obviously; she is my age. But the others are my four beautiful children, the little small people who do not really understand, I think, why I spend so much time away from them when I could be with them. They are tremendous in their stoicism. All of our families put up with a great deal, and my family is an inspiration to me. I thank them so much for allowing me to do this job, and I wish everyone in the place a happy and safe Christmas.
 
-",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Valedictory</title>,PARLIAMENTARY REPRESENTATION,32,1
+",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Valedictory</title>,PARLIAMENTARY REPRESENTATION,32,1,speech
 "Windsor, Tony, MP",Ind.,2011-11-24,"
 
 
@@ -5942,7 +5994,7 @@ The other issue that I would raise, Mr Speaker, is one that I hope becomes part 
 
 In conclusion, I thank all of those who have been involved in the year and wish all of you a very happy Christmas and a restive time. No doubt, we will back here to do battle again next year—hopefully, in a slightly different spirit. Thank you.
 
-",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Valedictory</title>,PARLIAMENTARY REPRESENTATION,32,1
+",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Valedictory</title>,PARLIAMENTARY REPRESENTATION,32,1,speech
 "Fitzgibbon, Joel, MP",ALP,2011-11-24,"
 
 
@@ -5998,7 +6050,7 @@ Finally, Mr Speaker, I congratulate you again and I wish all colleagues on all s
 The SPEAKER:
   I thank the Chief Government Whip.
 
-",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Valedictory</title>,PARLIAMENTARY REPRESENTATION,32,1
+",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Valedictory</title>,PARLIAMENTARY REPRESENTATION,32,1,speech
 "Bishop, Julie, MP",LP,2011-11-24,"
 
 
@@ -6027,7 +6079,7 @@ I want to take this opportunity to thank my staff—a competent, loyal and dedic
 
 Finally, I acknowledge the members of the press gallery and thank them for their reporting. 'Fair and balanced' is the phrase, I believe. I wish everyone a safe and happy Christmas and hope that we all return refreshed and reinvigorated as we strive to provide better public policy outcomes for all Australians. I wish all Australians a safe and happy Christmas.
 
-",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Valedictory</title>,PARLIAMENTARY REPRESENTATION,32,1
+",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Valedictory</title>,PARLIAMENTARY REPRESENTATION,32,1,speech
 "Slipper, Peter, MP",Ind.,2011-11-24,"
 
 
@@ -6142,7 +6194,7 @@ Early onset dementia (Ms Rishworth).
 ADJOURNMENT
 
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,33,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,33,1,speech
 "Smith, Stephen, MP",ALP,2011-11-24,"
 
 
@@ -6192,7 +6244,7 @@ Thursday, 24 November 2011
 The DEPUTY SPEAKER
 (Hon. Peter Slipper) took the chair at 09:31.
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,33,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,33,1,speech
 "Slipper, Peter, MP",Ind.,2011-11-24,"
 
 
@@ -6307,7 +6359,7 @@ Early onset dementia (Ms Rishworth).
 ADJOURNMENT
 
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,33,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,33,2,speech
 "Smith, Stephen, MP",ALP,2011-11-24,"
 
 
@@ -6357,7 +6409,7 @@ Thursday, 24 November 2011
 The DEPUTY SPEAKER
 (Hon. Peter Slipper) took the chair at 09:31.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,33,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,33,2,speech
 "Gash, Joanna, MP",LP,2011-11-24,"
 
 
@@ -6431,7 +6483,7 @@ I would like to take advantage of this opportunity now, to thank Ms. Gash and va
 I would like to add that Brydan won a competition from 53 applicants for this trip. Our country is in good hands when we have young people like Brydan, who I am extremely proud of.
 
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Toner, Mr Brydan</title>",CONSTITUENCY STATEMENTS,34,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Toner, Mr Brydan</title>",CONSTITUENCY STATEMENTS,34,1,speech
 "Adams, Dick, MP",ALP,2011-11-24,"
 
 
@@ -6469,7 +6521,7 @@ This is a very good report—I certainly hope. It is a very important report. It
 
 There are some very good recommendations and some very good work in this report. I am very proud that we have been able to pull it together, and I believe that it will serve the nation well.
 
-",HoR,<title>COMMITTEES</title>,"<title>Agriculture, Resources, Fisheries and Forestry Committee</title>",COMMITTEES,36,1
+",HoR,<title>COMMITTEES</title>,"<title>Agriculture, Resources, Fisheries and Forestry Committee</title>",COMMITTEES,36,1,speech
 "McCormack, Michael, MP",Nats,2011-11-24,"
 
 
@@ -6510,7 +6562,7 @@ Ms Vamvakinou
 Mr McCormack:
   Thank you, Madam Deputy Speaker. Hear, hear!
 
-",HoR,<title>COMMITTEES</title>,"<title>Agriculture, Resources, Fisheries and Forestry Committee</title>",COMMITTEES,36,1
+",HoR,<title>COMMITTEES</title>,"<title>Agriculture, Resources, Fisheries and Forestry Committee</title>",COMMITTEES,36,1,speech
 "Lyons, Geoff, MP",ALP,2011-11-24,"
 
 
@@ -6718,7 +6770,7 @@ We plant the ship, which will cross the sea.
 
 We are moving to a great future for forestry, but it must be planned and we must get the right trees in the right places for the right reasons. One of the most important aspects of any inquiry is to spend time listening to people talk about the things they know best. I firmly believe that, with the right policy, the industry has a bright future and will continue to play an important role in Australia's economy, particularly in rural and regional Australia. I say again: we should plan to put the right trees in the right places at the right time for the right reasons for Australia. 
 
-",HoR,<title>COMMITTEES</title>,"<title>Agriculture, Resources, Fisheries and Forestry Committee</title>",COMMITTEES,36,1
+",HoR,<title>COMMITTEES</title>,"<title>Agriculture, Resources, Fisheries and Forestry Committee</title>",COMMITTEES,36,1,speech
 "Christensen, George, MP",Nats,2011-11-24,"
 
 
@@ -6777,7 +6829,7 @@ The submissions we received and the statements made by people who fronted the in
 
 I commend most of the report. There is some stuff about the carbon tax in there and implications regarding that that I do have an issue with, but, all in all, I welcome the report and hope that governments look at the recommendations into the future.
 
-",HoR,<title>COMMITTEES</title>,"<title>Agriculture, Resources, Fisheries and Forestry Committee</title>",COMMITTEES,36,1
+",HoR,<title>COMMITTEES</title>,"<title>Agriculture, Resources, Fisheries and Forestry Committee</title>",COMMITTEES,36,1,speech
 "Tehan, Dan, MP",LP,2011-11-24,"
 
 
@@ -6885,7 +6937,7 @@ I am running out of time so I will look at part 7, which includes recommendation
 
 I will leave it there at recommendation 18 in the chapter 'Forestry into the future' and the rest of the report. I think the timber industry does have a strong future in this country. If we get the policy settings right we will see that happen. What we have to do is change the way the timber industry is viewed. We have to get education into our schools to see the merits and the environmental friendliness of the industry, change the way it is perceived and change some of the policy settings. The timber industry's future is bright. (Time expired)
 
-",HoR,<title>COMMITTEES</title>,"<title>Agriculture, Resources, Fisheries and Forestry Committee</title>",COMMITTEES,36,1
+",HoR,<title>COMMITTEES</title>,"<title>Agriculture, Resources, Fisheries and Forestry Committee</title>",COMMITTEES,36,1,speech
 "Cheeseman, Darren, MP",ALP,2011-11-24,"
 
 
@@ -6941,7 +6993,7 @@ This inquiry has appropriately recommended additional work that needs to be unde
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,"<title>Agriculture, Resources, Fisheries and Forestry Committee</title>",COMMITTEES,36,1
+",HoR,<title>COMMITTEES</title>,"<title>Agriculture, Resources, Fisheries and Forestry Committee</title>",COMMITTEES,36,1,speech
 "Adams, Dick, MP",ALP,2011-11-24,"
 
 
@@ -6979,7 +7031,7 @@ This is a very good report—I certainly hope. It is a very important report. It
 
 There are some very good recommendations and some very good work in this report. I am very proud that we have been able to pull it together, and I believe that it will serve the nation well.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,36,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,36,2,speech
 "McCormack, Michael, MP",Nats,2011-11-24,"
 
 
@@ -7020,7 +7072,7 @@ Ms Vamvakinou
 Mr McCormack:
   Thank you, Madam Deputy Speaker. Hear, hear!
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,36,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,36,2,speech
 "Lyons, Geoff, MP",ALP,2011-11-24,"
 
 
@@ -7228,7 +7280,7 @@ We plant the ship, which will cross the sea.
 
 We are moving to a great future for forestry, but it must be planned and we must get the right trees in the right places for the right reasons. One of the most important aspects of any inquiry is to spend time listening to people talk about the things they know best. I firmly believe that, with the right policy, the industry has a bright future and will continue to play an important role in Australia's economy, particularly in rural and regional Australia. I say again: we should plan to put the right trees in the right places at the right time for the right reasons for Australia. 
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,36,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,36,2,speech
 "Christensen, George, MP",Nats,2011-11-24,"
 
 
@@ -7287,7 +7339,7 @@ The submissions we received and the statements made by people who fronted the in
 
 I commend most of the report. There is some stuff about the carbon tax in there and implications regarding that that I do have an issue with, but, all in all, I welcome the report and hope that governments look at the recommendations into the future.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,36,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,36,2,speech
 "Tehan, Dan, MP",LP,2011-11-24,"
 
 
@@ -7395,7 +7447,7 @@ I am running out of time so I will look at part 7, which includes recommendation
 
 I will leave it there at recommendation 18 in the chapter 'Forestry into the future' and the rest of the report. I think the timber industry does have a strong future in this country. If we get the policy settings right we will see that happen. What we have to do is change the way the timber industry is viewed. We have to get education into our schools to see the merits and the environmental friendliness of the industry, change the way it is perceived and change some of the policy settings. The timber industry's future is bright. (Time expired)
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,36,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,36,2,speech
 "Cheeseman, Darren, MP",ALP,2011-11-24,"
 
 
@@ -7451,4 +7503,79 @@ This inquiry has appropriately recommended additional work that needs to be unde
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,36,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,36,2,speech
+"Fletcher, Paul, MP",LP,2011-11-24,"
+
+
+
+Mr Fletcher
+  asked the Assistant Treasurer, in writing, on 10 May 2011:
+
+
+In respect of investigations by the Australian Securities Investments Commission (ASIC) into (a) Trio Capital Ltd and its associated managed investment schemes, (b) Storm Financial Ltd, and (c) the Westpoint Group of companies, (i) when did investigations commence, (ii) what prompted the investigations, and (iii) what series of actions were taken by ASIC to prevent each entity from continuing to operate, or continuing to offer financial products.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Australian Securities Investments Commission: Managed Investment Schemes (Question No. 354)</title>,QUESTIONS IN WRITING,37,1,question
+"Shorten, Bill, MP",ALP,2011-11-24,"
+
+
+
+Mr Shorten:
+  The answer to the honourable member's question is as follows:
+
+
+As ASIC's investigations and proceedings into the affairs of Storm Financial Limited (Storm), Westpoint Group and Trio Capital Limited (Trio) are continuing ASIC is unable to provide a comprehensive response to all questions in detail. 
+
+
+
+
+Trio 
+
+
+
+ASIC formally commenced its investigation in relation to Trio on 2 October 2009 in respect of the Astarra Strategic Fund ('ASF'), of which Trio was the responsible entity. ASIC in taking regulatory action worked closely with the Australian Prudential Regulation Authority as Trio Capital was the trustee of a number of superannuation funds.
+
+
+On 14 October 2009 ASIC applied to the NSW Supreme Court for orders restricting overseas travel for two directors of the investment manager of the ASF. On 16 October 2009 ASIC placed interim stop orders on the Product Disclosure Statement for the ASF and on 21 October 2009 interim stop orders were placed on three associated Trio superannuation funds. This had the effect of stopping further investments being made into these funds.  On 16 December 2009 Trio was placed into voluntary administration. The next day ASIC suspended its Australian financial services license which ensured it was no longer able to provide financial services 
+
+
+On 16 December 2009 APRA suspended Trio as the trustee of four superannuation funds and one pooled superannuation trust.  APRA also appointed an acting trustee to manage these five entities.
+
+
+On 16 April 2010 Justice Palmer in the Supreme Court of New South Wales, on the application of Trio's administrator, ordered the winding up of five managed investment schemes for which Trio was the responsible entity, including the ASF and ARP.
+
+
+
+
+Storm
+
+
+
+ASIC’s formal investigation commenced on 12 December 2008.
+
+
+In the months of October, November and December 2008 the stock market fell significantly resulting in a shortfall between the equity and margin loans for Storm clients.  Around 18 December 2008, following the commencement of its investigation, ASIC sought to negotiate an enforceable undertaking (EU) with Storm.  The purpose of the EU was to address ASIC’s concerns that Storm may have been providing conflicted and incorrect advice to Storm clients who were in negative equity that they did not need to meet their margin calls and should not deal with the banks.
+
+
+An EU was not ultimately executed.  However, around 19 December 2008, Storm said it would cease contact with all its clients over the Christmas period.  This action was not requested by ASIC and was a decision made by Storm.  Storm subsequently went into administration on 9 January 2009.
+
+
+
+Westpoint
+
+
+
+From 2000 until early 2006, a number of investigations were conducted by ASIC in relation to the Westpoint Group of companies.
+
+
+On 10 May 2004, Bayshore Mezzanine Pty Ltd commenced action against ASIC seeking a determination as to whether the promissory notes issued by it were regulated under the Corporations Act.  On 12 May 2004, ASIC commenced proceedings against Emu Brewery Mezzanine Limited alleging that that company was carrying on an unregistered (but registrable) managed investment scheme. The two proceedings were heard together.  In November 2004, the Supreme Court of Western Australia ruled that the promissory notes issued by Emu Brewery Mezzanine Ltd and Bayshore Mezzanine Pty Ltd were not debentures requiring a prospectus to be lodged with ASIC, but they were interests in a managed investment scheme.  In June 2006, the Court of Appeal held that the promissory notes were interests in a managed investments scheme.
+
+
+In 2004 and 2005 ASIC issued a number of interim and final stop orders in relation to the fundraising activities of the Westpoint Group. 
+
+
+In November and December 2005 ASIC issued applications in the Federal Court seeking to wind up York Street Mezzanine Pty Ltd and Ann Street Mezzanine Pty Ltd and to appoint a provisional liquidator in the interim.  ASIC also sought orders for lodgement of financial reports for a number of Westpoint Group entities.
+
+
+On 20 December 2005 the Federal Court ordered that Ann Street Mezzanine Pty Ltd and York Street Mezzanine Pty Ltd, be wound up.  Orders were also made for the lodgement of financial accounts for a number of Westpoint Group entities.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Australian Securities Investments Commission: Managed Investment Schemes (Question No. 354)</title>,QUESTIONS IN WRITING,37,1,answer

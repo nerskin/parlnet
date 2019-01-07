@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2018-09-19,"
 
 
@@ -835,7 +835,7 @@ Standing Committee on Social Policy and Legal Affairs
 Social Security Commission Bill 2018
 
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,0,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,0,1,speech
 "Smith, Tony, MP",LP,2018-09-19,"
 
 
@@ -1672,7 +1672,7 @@ Standing Committee on Social Policy and Legal Affairs
 Social Security Commission Bill 2018
 
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,0,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,0,2,speech
 "Mitchell, Rob (The DEPUTY SPEAKER)",ALP,2018-09-19,"
 
 
@@ -1683,7 +1683,7 @@ The DEPUTY SPEAKER
 Mr Rob Mitchell
 ) (10:02):  Mr Speaker has received advice from the Chief Opposition Whip nominating a member to be a supplementary member of the Standing Committee on Economics for the purposes of the committee's inquiry of the review of the four major banks.
 
-",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,2,1,speech
 "Tehan, Dan, MP",LP,2018-09-19,"
 
 
@@ -1697,7 +1697,7 @@ That Ms O'Neil be appointed a supplementary member of the Standing Committee on 
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,2,1,speech
 "Mitchell, Rob (The DEPUTY SPEAKER)",ALP,2018-09-19,"
 
 
@@ -1708,7 +1708,7 @@ The DEPUTY SPEAKER
 Mr Rob Mitchell
 ) (10:02):  Mr Speaker has received advice from the Chief Opposition Whip nominating a member to be a supplementary member of the Standing Committee on Economics for the purposes of the committee's inquiry of the review of the four major banks.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,2,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,2,2,speech
 "Tehan, Dan, MP",LP,2018-09-19,"
 
 
@@ -1722,7 +1722,7 @@ That Ms O'Neil be appointed a supplementary member of the Standing Committee on 
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,2,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,2,2,speech
 "Alexander, John, MP",LP,2018-09-19,"
 
 
@@ -1754,7 +1754,7 @@ It was noted in a briefing to delegation members that in the past four years nin
 
 I'd like to personally thank those who played a part in the organisation and conduct of the visit—our hosts in China and the consular staff who supported us. In particular, I would like to thank Her Excellency Jan Adams, Australia's Ambassador to the People's Republic of China; Mr Tony Walter, the Acting Consul-General in Chengdu; Mr Sam Guthrie, the Acting Consul-General in Hong Kong; and Dr Yin Kwan, the Counsellor for Infrastructure with the Australian Embassy in Beijing. Dr Yin travelled with the delegation throughout the visit, ensuring that everything ran smoothly. I would especially like to thank my delegation colleagues, the members for Scullin, Fairfax and North Sydney, who, in a spirit of bipartisanship, ensured that the visit was pleasant and productive. On behalf of the committee, I commend this report to the House.
 
-",HoR,<title>DELEGATION REPORTS</title>,<title>Australian Parliamentary Delegation to China</title>,DELEGATION REPORTS,3,1
+",HoR,<title>DELEGATION REPORTS</title>,<title>Australian Parliamentary Delegation to China</title>,DELEGATION REPORTS,3,1,speech
 "Kelly, Craig, MP",LP,2018-09-19,"
 
 
@@ -1801,7 +1801,7 @@ That the House take note of the report.
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,<title>Law Enforcement Committee</title>,COMMITTEES,4,1
+",HoR,<title>COMMITTEES</title>,<title>Law Enforcement Committee</title>,COMMITTEES,4,1,speech
 "Kelly, Craig, MP",LP,2018-09-19,"
 
 
@@ -1815,7 +1815,7 @@ That the order of the day be referred to the Federation Chamber for debate.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Law Enforcement Committee</title>,COMMITTEES,4,1
+",HoR,<title>COMMITTEES</title>,<title>Law Enforcement Committee</title>,COMMITTEES,4,1,speech
 "Kelly, Craig, MP",LP,2018-09-19,"
 
 
@@ -1862,7 +1862,7 @@ That the House take note of the report.
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2,speech
 "Leigh, Andrew, MP",ALP,2018-09-19,"
 
 
@@ -1931,7 +1931,7 @@ The DEPUTY SPEAKER
 Mr Rob Mitchell
 ):  The original question was that this bill be now read a second time. To this, the honourable member for Fenner has moved an amendment that all words after 'That' be omitted with a view to substituting other words. If it suits the House, I will state the question in the form that the amendment be agreed to, so the question now is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1,speech
 "Gee, Andrew, MP",Nats,2018-09-19,"
 
 
@@ -1996,7 +1996,7 @@ As I've said, this drought has taken a heavy mental toll on our farmers as well.
 
 So we need to be backing our farmers to the hilt in this time of drought. During the recent economic slowdown, it was the Australian farmers and the farm sector which got Australia through, so they've actually been doing the heavy lifting economically for a long time now, and we can't take them for granted. If we want a strong and vibrant farm sector, we need to keep backing them through these dry times. I think people in the cities tend to take their food for granted. They just think that it's something that appears, but we can't take our farmers for granted. We need to be backing them and ramping up relief as these conditions worsen. I fully support this bill and commend it to the House.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1,speech
 "Thistlethwaite, Matt, MP",ALP,2018-09-19,"
 
 
@@ -2034,7 +2034,7 @@ Unfortunately, when it comes to drought, energy policy or electricity prices—w
 
 We can't, as a nation, continue to ignore the fact that, unfortunately, according to climate scientists, drought is going to happen more frequently and more severely in this country. If this parliament have the interests of the livelihoods of Australian farmers and their families in mind—those that toil and work on the land year in, year out—then we need to make sure that we are properly planning to mitigate the effects of climate change and that we're working with state governments and local governments to ensure that we have better processes in place to mitigate those effects. That is what was being approached through the COAG process. It's disappointing that this government stopped that collaborative approach, and has really put its head in the sand about the effects of climate change that we see in their approach to energy policy and electricity prices. It's been five years since this government was elected, and they still don't have a policy on energy prices in this country. That's simply not good enough.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1,speech
 "Marino, Nola, MP",LP,2018-09-19,"
 
 
@@ -2081,7 +2081,7 @@ In Australia, as I said, the farmers produce some of the best-quality food in th
 
 Every farmer in Australia, as I've said previously, works constantly. They are very, very technology savvy. They are constantly innovating and improving. They don't sit back. Most of their information now is coming electronically. They're doing amazing work, and they rely on their technology. I'm really pleased with the mobile phone black spot tower rollout that we've been so strongly supporting and putting the funding into. This has made a huge difference to small businesses, which are, of course, our farming businesses. It gives them access and opportunities. They can be sitting in a tractor—the hay season is not far away, and I am really sorry that in New South Wales it's going to be a challenging hay season because they won't be able to grow the crops that they need for the next 12 months. It's not just this last 12 months that's affected by drought. Look at the feedstocks ahead. I want to thank every one of the farmers and organisations in Western Australia and around Australia who have contributed and are contributing fodder into New South Wales. They know that this is pushing up the prices for the rest of the farmers locally, but they're still doing it to support their fellow farmers. I thank and congratulate everyone who is doing that, and I say to the farmers affected by drought: 'Hang in there, and use your rural financial counselling services as well.' 
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1,speech
 "Mitchell, Brian, MP",ALP,2018-09-19,"
 
 
@@ -2149,7 +2149,7 @@ Mr Hunt:
 Mr BRIAN MITCHELL:
   That's okay. That's okay. As I say, I'm just mentioning by way of passing that the Nationals put on the big hats, the checked shirts and the RM Williams and they wear the whips on their sides as if somehow that tells the story of representing the bush, and it's not accurate. It takes more. It takes policy answers to represent the people of the bush and the people of the regions. It takes policy and a commitment to the real issues: cost of living, Medicare, access to health and access to infrastructure. These are the real issues that affect the people of the bush and the people of the regions. Instead, what the National Party does is vote with the Liberals every day of the week to back in the big corporates, even against the interests of the people of the regions, and they need to be held to account for it.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1,speech
 "Coulton, Mark, MP",Nats,2018-09-19,"
 
 
@@ -2211,7 +2211,7 @@ I don't come into this place speaking from theory or philosophy; I've actually l
 
 This legislation that we're talking about today will certainly make preparation more appropriate and easier for them to do for the next drought. When production does return, they'll be able to take advantage of the markets that are opening up now through the free trade agreements that are being negotiated—some are already agreed to; some are before the House at the moment—which will enable them to trade on the global stage at an advantage over our competitors. I support this legislation. I know that the farmers I represent support this legislation. They are pleased to see a government that's actually putting in practical measures, not the philosophical, ideologically driven, patronising discussions that we're hearing from the other side.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1,speech
 "Fitzgibbon, Joel, MP",ALP,2018-09-19,"
 
 
@@ -2283,7 +2283,7 @@ Mr Joyce:
 Mr FITZGIBBON:
   Yes, I will say something about water. It was the Labor Party that built water infrastructure projects in this country in the six years it was in government. I heard my colleague talking about the Northern Midlands project in Tasmania. That was entirely a Labor project. How about Chaffey Dam in the member for New England's electorate? That was entirely a Labor project. I give credit to the former member for New England, Mr Windsor, who urged the Labor government at the time to build that augmentation project. The member for New England has to stop taking credit for things he had no responsibility for. He needs to get on board with some decent drought policy. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1,speech
 "Joyce, Barnaby, MP",Nats,2018-09-19,"
 
 
@@ -2403,7 +2403,7 @@ Mr Drum:
 Mr JOYCE:
   and negativity. They never come forward and challenge us with real policies. It is all a rhetorical flourish. As we are speaking here today, the Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018 is showing precisely that. We are bringing forward the legislation to support Australian farmers. This is merely part of what is to come. I think it's going to be very important for people—it's good to see Councillor Webb and Mr Bede Burke in the gallery today—to understand that this parliament is hard at work helping them, making sure that we ask the questions and deliver on the outcomes so that we can get fodder from Western Australia over to Tamworth, Gunnedah and the Upper Hunter, an area quite relieved that they now have an advocate who takes agriculture in their area seriously. It's going to be an interesting test today: will the member for Hunter, the shadow minister for agriculture, in the middle of a record drought, get a question up? Once more the only ones that people in regional Australia can truly rely upon are the National Party and the Liberal Party.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1,speech
 "Katter, Bob, MP",KAP,2018-09-19,"
 
 
@@ -2476,7 +2476,7 @@ Now, I've spoken to the Prime Minister personally. I have pleaded on my bended k
 
 I don't think I contributed in any way to the downfall of Mr Turnbull. I most certainly contributed to the downfall of Julia Gillard. She was responsible for the live cattle decision, and she copped it. What, did she really think that I was going to walk away and not break a leg if someone did that? Running commentary: the minister is talking again at the table. At no stage has he listened to anything we've said, just like the LNP people that went on the inquiry all over Queensland and didn't listen to anything that the people there said. They just won't listen! The second thing that needs to be done is on grain. There has to be feed. A grant to people using grain is absolutely essential. I mean, the cattle have to be fed. To feed the cattle, you have got to do that. I might add, in conclusion, that Hell's Gate would feed a million head of cattle a year. Wouldn't that be a weapon? Hughenden and Charters Towers—two little projects we put before the Prime Minister—would feed 300,000 head of cattle a year. Wouldn't it be wonderful if we had that weapon at our disposal as well?
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1,speech
 "Drum, Damian, MP",Nats,2018-09-19,"
 
 
@@ -2508,7 +2508,7 @@ Barnaby Joyce has now been appointed as the drought envoy. You've heard some of 
 
 It's good to see that we've got both Minister Littleproud and Barnaby Joyce from this place bringing together the drought packages and drought assistance. We've also got Major General Stephen Day as the overall coordinator and the Prime Minister and the Treasurer putting in place financial bills like this that are going to assist farmers to make the investments that they need so that they can be better prepared for future droughts. This is a horrible situation that exists in our regions at the moment, and it's probably going to get worse as we move into the summer months. We need a government that is going to be receptive—in the way that the government is already—but it's a reality that we are also probably going to need more and more assistance in the months to come.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1,speech
 "Robert, Stuart, MP",LP,2018-09-19,"
 
 
@@ -2523,7 +2523,7 @@ This measure amends the Income Tax Assessment Act 1997 to allow primary producer
 
 The SPEAKER:  The original question was that this bill now be read a second time. To this the honourable member for Fenner has moved as an amendment that all words after 'That' be omitted with a view to substituting other words. The question now is that the amendment moved by the member for Fenner be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1,speech
 "Katter, Bob, MP",KAP,2018-09-19,"
 
 
@@ -2579,7 +2579,7 @@ Mr KATTER:
 
 Bill agreed to.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1,speech
 "Robert, Stuart, MP",LP,2018-09-19,"
 
 
@@ -2596,7 +2596,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018</title>,BILLS,5,1,speech
 "Leigh, Andrew, MP",ALP,2018-09-19,"
 
 
@@ -2665,7 +2665,7 @@ The DEPUTY SPEAKER
 Mr Rob Mitchell
 ):  The original question was that this bill be now read a second time. To this, the honourable member for Fenner has moved an amendment that all words after 'That' be omitted with a view to substituting other words. If it suits the House, I will state the question in the form that the amendment be agreed to, so the question now is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Gee, Andrew, MP",Nats,2018-09-19,"
 
 
@@ -2730,7 +2730,7 @@ As I've said, this drought has taken a heavy mental toll on our farmers as well.
 
 So we need to be backing our farmers to the hilt in this time of drought. During the recent economic slowdown, it was the Australian farmers and the farm sector which got Australia through, so they've actually been doing the heavy lifting economically for a long time now, and we can't take them for granted. If we want a strong and vibrant farm sector, we need to keep backing them through these dry times. I think people in the cities tend to take their food for granted. They just think that it's something that appears, but we can't take our farmers for granted. We need to be backing them and ramping up relief as these conditions worsen. I fully support this bill and commend it to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Thistlethwaite, Matt, MP",ALP,2018-09-19,"
 
 
@@ -2768,7 +2768,7 @@ Unfortunately, when it comes to drought, energy policy or electricity prices—w
 
 We can't, as a nation, continue to ignore the fact that, unfortunately, according to climate scientists, drought is going to happen more frequently and more severely in this country. If this parliament have the interests of the livelihoods of Australian farmers and their families in mind—those that toil and work on the land year in, year out—then we need to make sure that we are properly planning to mitigate the effects of climate change and that we're working with state governments and local governments to ensure that we have better processes in place to mitigate those effects. That is what was being approached through the COAG process. It's disappointing that this government stopped that collaborative approach, and has really put its head in the sand about the effects of climate change that we see in their approach to energy policy and electricity prices. It's been five years since this government was elected, and they still don't have a policy on energy prices in this country. That's simply not good enough.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Marino, Nola, MP",LP,2018-09-19,"
 
 
@@ -2815,7 +2815,7 @@ In Australia, as I said, the farmers produce some of the best-quality food in th
 
 Every farmer in Australia, as I've said previously, works constantly. They are very, very technology savvy. They are constantly innovating and improving. They don't sit back. Most of their information now is coming electronically. They're doing amazing work, and they rely on their technology. I'm really pleased with the mobile phone black spot tower rollout that we've been so strongly supporting and putting the funding into. This has made a huge difference to small businesses, which are, of course, our farming businesses. It gives them access and opportunities. They can be sitting in a tractor—the hay season is not far away, and I am really sorry that in New South Wales it's going to be a challenging hay season because they won't be able to grow the crops that they need for the next 12 months. It's not just this last 12 months that's affected by drought. Look at the feedstocks ahead. I want to thank every one of the farmers and organisations in Western Australia and around Australia who have contributed and are contributing fodder into New South Wales. They know that this is pushing up the prices for the rest of the farmers locally, but they're still doing it to support their fellow farmers. I thank and congratulate everyone who is doing that, and I say to the farmers affected by drought: 'Hang in there, and use your rural financial counselling services as well.' 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Mitchell, Brian, MP",ALP,2018-09-19,"
 
 
@@ -2883,7 +2883,7 @@ Mr Hunt:
 Mr BRIAN MITCHELL:
   That's okay. That's okay. As I say, I'm just mentioning by way of passing that the Nationals put on the big hats, the checked shirts and the RM Williams and they wear the whips on their sides as if somehow that tells the story of representing the bush, and it's not accurate. It takes more. It takes policy answers to represent the people of the bush and the people of the regions. It takes policy and a commitment to the real issues: cost of living, Medicare, access to health and access to infrastructure. These are the real issues that affect the people of the bush and the people of the regions. Instead, what the National Party does is vote with the Liberals every day of the week to back in the big corporates, even against the interests of the people of the regions, and they need to be held to account for it.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Coulton, Mark, MP",Nats,2018-09-19,"
 
 
@@ -2945,7 +2945,7 @@ I don't come into this place speaking from theory or philosophy; I've actually l
 
 This legislation that we're talking about today will certainly make preparation more appropriate and easier for them to do for the next drought. When production does return, they'll be able to take advantage of the markets that are opening up now through the free trade agreements that are being negotiated—some are already agreed to; some are before the House at the moment—which will enable them to trade on the global stage at an advantage over our competitors. I support this legislation. I know that the farmers I represent support this legislation. They are pleased to see a government that's actually putting in practical measures, not the philosophical, ideologically driven, patronising discussions that we're hearing from the other side.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Fitzgibbon, Joel, MP",ALP,2018-09-19,"
 
 
@@ -3017,7 +3017,7 @@ Mr Joyce:
 Mr FITZGIBBON:
   Yes, I will say something about water. It was the Labor Party that built water infrastructure projects in this country in the six years it was in government. I heard my colleague talking about the Northern Midlands project in Tasmania. That was entirely a Labor project. How about Chaffey Dam in the member for New England's electorate? That was entirely a Labor project. I give credit to the former member for New England, Mr Windsor, who urged the Labor government at the time to build that augmentation project. The member for New England has to stop taking credit for things he had no responsibility for. He needs to get on board with some decent drought policy. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Joyce, Barnaby, MP",Nats,2018-09-19,"
 
 
@@ -3137,7 +3137,7 @@ Mr Drum:
 Mr JOYCE:
   and negativity. They never come forward and challenge us with real policies. It is all a rhetorical flourish. As we are speaking here today, the Treasury Laws Amendment (Supporting Australian Farmers) Bill 2018 is showing precisely that. We are bringing forward the legislation to support Australian farmers. This is merely part of what is to come. I think it's going to be very important for people—it's good to see Councillor Webb and Mr Bede Burke in the gallery today—to understand that this parliament is hard at work helping them, making sure that we ask the questions and deliver on the outcomes so that we can get fodder from Western Australia over to Tamworth, Gunnedah and the Upper Hunter, an area quite relieved that they now have an advocate who takes agriculture in their area seriously. It's going to be an interesting test today: will the member for Hunter, the shadow minister for agriculture, in the middle of a record drought, get a question up? Once more the only ones that people in regional Australia can truly rely upon are the National Party and the Liberal Party.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Katter, Bob, MP",KAP,2018-09-19,"
 
 
@@ -3210,7 +3210,7 @@ Now, I've spoken to the Prime Minister personally. I have pleaded on my bended k
 
 I don't think I contributed in any way to the downfall of Mr Turnbull. I most certainly contributed to the downfall of Julia Gillard. She was responsible for the live cattle decision, and she copped it. What, did she really think that I was going to walk away and not break a leg if someone did that? Running commentary: the minister is talking again at the table. At no stage has he listened to anything we've said, just like the LNP people that went on the inquiry all over Queensland and didn't listen to anything that the people there said. They just won't listen! The second thing that needs to be done is on grain. There has to be feed. A grant to people using grain is absolutely essential. I mean, the cattle have to be fed. To feed the cattle, you have got to do that. I might add, in conclusion, that Hell's Gate would feed a million head of cattle a year. Wouldn't that be a weapon? Hughenden and Charters Towers—two little projects we put before the Prime Minister—would feed 300,000 head of cattle a year. Wouldn't it be wonderful if we had that weapon at our disposal as well?
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Drum, Damian, MP",Nats,2018-09-19,"
 
 
@@ -3242,7 +3242,7 @@ Barnaby Joyce has now been appointed as the drought envoy. You've heard some of 
 
 It's good to see that we've got both Minister Littleproud and Barnaby Joyce from this place bringing together the drought packages and drought assistance. We've also got Major General Stephen Day as the overall coordinator and the Prime Minister and the Treasurer putting in place financial bills like this that are going to assist farmers to make the investments that they need so that they can be better prepared for future droughts. This is a horrible situation that exists in our regions at the moment, and it's probably going to get worse as we move into the summer months. We need a government that is going to be receptive—in the way that the government is already—but it's a reality that we are also probably going to need more and more assistance in the months to come.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Robert, Stuart, MP",LP,2018-09-19,"
 
 
@@ -3257,7 +3257,7 @@ This measure amends the Income Tax Assessment Act 1997 to allow primary producer
 
 The SPEAKER:  The original question was that this bill now be read a second time. To this the honourable member for Fenner has moved as an amendment that all words after 'That' be omitted with a view to substituting other words. The question now is that the amendment moved by the member for Fenner be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Owens, Julie, MP",ALP,2018-09-19,"
 
 
@@ -3284,7 +3284,129 @@ Ms OWENS:
 
 The DEPUTY SPEAKER:  I applaud the member for Parramatta.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>National Week of Deaf People</title>,STATEMENTS BY MEMBERS,6,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>National Week of Deaf People</title>,STATEMENTS BY MEMBERS,6,1,speech
+"Shorten, Bill, MP",ALP,2018-09-19,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:00):  My question is to the Prime Minister. On average, Australian women retire with 40 per cent less in their superannuation. That's approximately $113,000 less. Many single women retire into poverty. Will the Prime Minister therefore support Labor's plan to invest $400 million to strengthen the Australian superannuation system, boost women's super and help Australian women plan for a secure and independent financial future?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Superannuation</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Morrison, Scott, MP",LP,2018-09-19,"
+
+
+
+Mr MORRISON
+ (Cook—Prime Minister) (14:01):  I thank the member for his question, and the government will consider all options in this area. But I do want to point out that, when superannuation reforms were taken through this parliament when I was Treasurer, I was disappointed that the opposition didn't support important measures that would have assisted women with catch-up contributions in their superannuation. That was part of the package where we introduced the low-income superannuation tax offset, and that benefits around 1.9 million women by over $500 million. There was the levelling of the playing field by scrapping restrictions—
+
+
+
+Honourable members interjecting—
+
+
+
+The SPEAKER:  The Prime Minister will pause for a second. The members for Fenner, Griffith and Hotham are already interjecting loudly, as they've done in recent days. They'll cease interjecting. Members on both sides will listen to the answer. The Prime Minister has the call.
+
+
+
+
+Mr MORRISON:
+  There was the levelling of the playing field by scrapping restrictions on those who can make personal deduction contributions. That benefited some 800,000 Australians, including those women working in roles without access to formal salary-sacrificing arrangements. One of the real changes that is occurring across our economy is the start-up of new home-based businesses, which many women, particularly in family roles, are taking on around the country. Our government has ensured that they can get access to the same superannuation tax concessions as anyone else out there working in a normal wage and salary earning job, and we have legislated to do that. These were part of the major changes that we introduced. 
+
+
+On top of that, there were the catch-up concessional contributions. They will benefit some 230,000 Australians, and the Labor Party opposed that. Where you had women who had gone out of the workforce for a period of time and they were in a position to try to make catch-up contributions in the future, to catch up when they went back to work, the Labor Party said no. They said, 'We don't want them to do that.' Fortunately, we've been able to pursue that through the parliament. We've got around two million women who hold a low balance, with inactive accounts, and that will be protected from erosion through the excessive fees and inappropriate insurance arrangements that we are getting rid of as a government. They're the measures that we're pursuing, which I announced in this year's budget. Around 1.6 million who are still contributing to low-balance accounts will see hundreds of millions of dollars worth of savings from those measures. And 1.3 million women will have their retirement savings boosted by around $2.5 billion, thanks to being proactively reunited with their lost, low and inactive balances. 
+
+
+So, as a government, we've been acting on these issues. That's why we've seen the gender pay gap, for example, on women's issues and women in the workforce, fall from 17.2 per cent when we came to government to 14.5 per cent. Under the previous Labor government, who always talks a big game on this, the gender pay gap went from 15.5 per cent up to 17.2 per cent. Don't listen to what Labor promise you; you can rely on what our government has done and will continue to do.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Superannuation</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Wallace, Andrew, MP",LP,2018-09-19,"
+
+
+
+Mr WALLACE
+ (Fisher) (14:12):  My question is to the Attorney-General. As the Attorney knows, my seat is home to many strawberry growers who have been hit hard by recent events. Will the Attorney update the House on steps our government is taking to strengthen Commonwealth laws guaranteeing Australians' food safety and dealing appropriately with those who seek to sabotage our food supply?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Food Safety</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"Porter, Christian, MP",LP,2018-09-19,"
+
+
+
+Mr PORTER
+ (Pearce—Attorney-General) (14:13):  I thank the member for his question. He and I both have electorates with many market gardeners and fruitgrowers, and I've come to know people in my electorate like Anthony and Lee-Anne at Berry Sweet farms in Bullsbrook. They are a couple who have worked their entire lives to build a great business, employing local people. So to see all their hard work now put in jeopardy by the despicable and senseless criminal acts of a small number of perpetrators across Australia is just heartbreaking, and I know everyone in this parliament agrees that we owe it to these hardworking people in your electorate and mine to do everything in our power to stem the tide of this wanton and shocking behaviour.
+
+
+As part of this response, I can inform the House that, after being tasked by the Prime Minister yesterday to provide advice as to how this parliament may improve and strengthen the offences which criminalise this grotesque behaviour, our government will proceed with urgency to effect two changes to the Commonwealth criminal law. While the drafting is being finalised, I can inform the House as to how that drafting will generally operate. Presently, section 380 of the Criminal Code sets out what are known as contamination offences. The four existing offences relating to contaminating food with the intention to cause public alarm or anxiety or the intention to cause significant economic loss or the intention to cause harm to public health will have their maximums increased from 10 to 15 years, making them serious offences comparable to offences such as sex offences and financing terrorism, because that's what they are—terrible and serious offences. Four new offences will also be created with 10-year maximums and they will be created in a way that will not require proof beyond reasonable doubt of intention but rather proof of recklessness as to outcomes. The point is that anyone who chose to argue that it couldn't be shown they had the intention to cause loss or harm would no longer be able to escape prosecution and penalty.
+
+
+Finally, we are looking to create amendments to the sabotage offences in division 82 of the Criminal Code. This would be achieved by amending what was a relatively new definition of sabotage which was meant to cover sabotage of supply of important goods, such as electricity and water, and to extend that definition to goods intended for human consumption. The point here is that on a larger scale we've recently determined that it's appropriate to include sabotage of electricity and water provision, but what this unprecedented criminal behaviour has shown us is that food supply chains can be just as important to Australians' wellbeing and, so, to our national security as the provision of water and electricity.
+
+
+I conclude by saying that, while there are already serious crimes included under Commonwealth law and in each of the states and territories, this parliament has an opportunity to act in a bipartisan way to help people like Anthony and Leanne by responding even more forcefully to this type of terrible criminality.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Food Safety</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
+"Wilkie, Andrew, MP",IND,2018-09-19,"
+
+
+
+Mr WILKIE
+ (Denison) (14:20):  My question is to the Prime Minister. Prime Minister, Tasmanians are routinely waiting years to see a specialist and literally dying while waiting for surgery. Congestion at the Royal Hobart Hospital is now so bad that people sleep on the floor of the emergency department waiting area. Inpatients are held for up to five days in the ED until a bed can be found in a ward, including mental health wards. There's even a proposal for patients to be accommodated in alcoves and storerooms. Prime Minister, do you think this is okay, and will you reach out to the uninterested Tasmanian government and help it remedy a public health system beyond its competency to run effectively?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Tasmania: Health Care</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Morrison, Scott, MP",LP,2018-09-19,"
+
+
+
+Mr MORRISON
+ (Cook—Prime Minister) (14:21):  I don't think it's okay, but I also believe that the Tasmanian government, led by Premier Will Hodgman, is exactly the right government to deal with the problems that you've been highlighting. The Minister for Health has written to the Tasmanian government seeking an update on the issues that you've raised today. I saw that report on the front page of The Mercury today also. But the member would also be aware that the Commonwealth does provide significant funding support to hospitals, public hospitals in particular; not just in Tasmania but all around the country. 
+
+
+When we look at what has been done in terms of Tasmanian and Commonwealth public funding, when we came to office the Commonwealth was investing $294 million in hospitals in Tasmania. That has increased by 42.5 per cent under our government to $419 million this year. And we were pleased that the Hodgman government was one of the first to sign on to the new hospitals agreement which has been negotiated by the Minister for Health, which is delivering record Commonwealth government funding to Tasmanian hospitals out to 2024-25. In the five years from 2020, under the new agreement, Tasmania's public hospitals will receive an additional $373.6 million, growing at 18.4 per cent over that period. 
+
+
+In addition to that, you'll be aware of the $730 million to the Tasmanian government to secure the long-term future of the Mersey Community Hospital in Latrobe for a decade. You'll also be aware that the funding means more services, more doctors and more nurses at the Royal Hobart Hospital, in particular. This funding is delivering significant growth in the number of elective surgeries being performed, from 6,740 when our government first came to office, to 7,755 in 2016-17, on the figures we have available. In terms of mental health support for Tasmania, the Commonwealth, through Primary Health Tasmania, has invested $34.58 million to commission mental health and suicide prevention services. 
+
+
+We are delivering record funding to hospitals and health services around this country, and we will continue to do that. We will ensure that the support is there for our state governments, who have carriage of delivering those services across all the states. The reason we're going to be able to do that and the reason why Tasmanians can count on that is that we are running a strong economy, which means we can generate the revenue not from higher taxes but from a stronger economy, to deliver what Tasmanians need.
+
+
+
+The SPEAKER:  The member for Denison had risen on a point of order. I'm sorry you didn't catch my eye earlier; I apologise for that.
+
+
+
+
+Mr Wilkie:
+  On relevance: the question goes to much more than just financial funding for the states; it also goes to what other assistance the federal government might be able to give Tasmania.
+
+
+
+The SPEAKER:  I thank the member for Denison. The Prime Minister has indicated to me he's concluded his answer.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Tasmania: Health Care</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
+"O'Dowd, Ken, MP",Nats,2018-09-19,"
+
+
+
+Mr O'DOWD
+ (Flynn—Deputy Nationals Whip) (14:35):  My question is to the Deputy Prime Minister and Minister for Infrastructure, Transport and Regional Development. Will the Deputy Prime Minister update the House on how the government is supporting regional Australian families and strengthening local communities by investing in critical infrastructure? How would different views affect regional Australia?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Infrastructure</title>,QUESTIONS WITHOUT NOTICE,13,1,question
+"McCormack, Michael, MP",Nats,2018-09-19,"
+
+
+
+Mr McCORMACK
+ (Riverina—Deputy Prime Minister, Minister for Infrastructure,Transport and Regional Development and Leader of The Nationals) (14:35):  I do thank the good member for Flynn for his question. Thanks to our good economic management, our good economic plan, we can look after regional families. We can look after regional farmers. We can look after drought affected communities, and we can back small, family owned regional businesses. And that's what we're doing. We're supporting regional families throughout the drought. Unfortunately, it is prolonged, and it is ongoing. We've provided $1.8 billion worth of assistance. We can, we need to and we must do more, and we will. We're supporting local governments in 60 drought affected regions—60 drought affected councils—to speed up local infrastructure works and generate local jobs in those councils. We're also supporting strawberry farmers, and of course that's important. I appreciate the bipartisan support that's been offered; we obviously need to support our strawberry producers during this crisis. We're also supporting places as the Gladstone St Vincent de Paul. St Vinnies do a wonderful job right across the nation, and certainly in Gladstone. We've provided $492,000 through the Building Better Regions Fund, providing air conditioning, better storage and a much-needed face lift for the centre there in Gladstone. 
+
+
+We're also providing money for farming families. I was asked about regional farming families. There are family owned and operated trucking transport companies, such as those who operate the road transport link between Gracemere saleyards and the North Rockhampton abattoirs. It's not, as Labor would have it, a measure under the Road Safety Remuneration Tribunal—that ill-conceived, ill-named tribunal. They would force those sorts of companies that operate that sort of route off the road. They would send them off the road, but we're supporting them through better infrastructure—a $30 million piece of infrastructure that I know the member for Flynn and the member for Capricornia are so supportive of.
+
+
+We're getting on with the job of also fixing Labor's mess that they left behind, such as the independent youth allowance. We're helping country students to get a fair go. There are 17,000 small businesses in the member for Flynn's electorate. We're backing them. We're backing them with lower taxes. We're backing them with lower power prices. But, if those opposite get into government, they'll jack the prices up for power. They'll jack the taxes up. That's what they do. They'll put a wrecking ball through the economy—a wrecking ball! I can just see the member for Maribyrnong on his wrecking ball going right through retirees' savings in the member for Flynn's electorate. The regional funding programs: they'll be gone. There will be higher taxes. And the Queensland land management laws—those ill-conceived, ill-named native vegetation laws—will become national. That's what this man stands for. That's what he stands for: higher taxes, higher power prices. God help those small businesses in Flynn and elsewhere.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Infrastructure</title>,QUESTIONS WITHOUT NOTICE,13,1,answer
 "Smith, Tony, MP",LP,2018-09-19,"
 
 
@@ -3304,7 +3426,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Bowen, Chris, MP",ALP,2018-09-19,"
 
 
@@ -3365,7 +3487,7 @@ Women deserve more than cliches. They don't need to be told that women hold up h
 
 A lack of females at senior levels makes a difference; a lack of females in the senior levels of government makes a difference. I'm very proud of the fact that I've worked with great colleagues—the Leader of the Opposition, the Deputy Leader of the Opposition, the member for Hotham, the member for Barton and others—in getting this policy done. We're men and women working together, men and women who know that women deserve better—men and women who actually think it should be a priority for a Prime Minister and a Treasurer to say: '27 years of uninterrupted economic growth is good, but women deserve a slice of the action.' (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "O'Dwyer, Kelly, MP",LP,2018-09-19,"
 
 
@@ -3437,7 +3559,7 @@ Mr Bowen interjecting—
 Ms O'DWYER:
   It has been brought in. It's in the Senate. You can vote on it. Use the opportunity in the chamber today to tell us that you're happy to support it and we will bring it on for a vote. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "O'Neil, Clare, MP",ALP,2018-09-19,"
 
 
@@ -3460,7 +3582,7 @@ What is so exciting about these changes is that we talk in the parliament about 
 
 Again, can I just say how incredibly proud I am to be in a political party that is willing to accept the centrality of this issue to the Australian people. I have to say I don't think it's an accident that you see two very different political parties that oppose one another in this chamber: one party in which almost half of our members of parliament are female, and one which is having a very significant and deep-seated problem in getting and keeping talented women in this parliament. I take no delight in that problem, because the truth is that, above being a member of parliament and a member of the Labor Party, I'm an Australian woman, and I need governments to make good public policy, and we don't see that on that side of the chamber, because they just can't get the representation they need. Today Labor showed once again that we are there for Australian women when they need us.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Henderson, Sarah, MP",LP,2018-09-19,"
 
 
@@ -3498,7 +3620,7 @@ Mr Hogan
 Ms HENDERSON:
   Yes, shame—and it is shameful. It is shameful that the package has been opposed by Labor, leaving many thousands of women worse off. We've heard from the Minister for Women how important this is, and I would urge those opposite to pass this package in this Senate.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Ryan, Joanne, MP",ALP,2018-09-19,"
 
 
@@ -3539,7 +3661,7 @@ Sitting beside me is the member for Newcastle. She led Labor's Setting the Agend
 
 I want to give a shout-out to the labour movement. On my desk is a photograph of me with Ingrid Stitt and other members of the ASU, which was taken when they came to talk to me about this very issue. It sits on my desk to remind me every day that my job in this place is to ensure that women are given a fair go from the government of the day. I just want to mention this very important thing. When I joined the caucus, I was shocked on budget night in 2014 to learn that the then Prime Minister, the member for Warringah, had made himself the Minister for Women and had cut—cut!—the overview of the budget's impact on women, and I am shocked that three Prime Ministers later we still don't have a commitment to bringing that back in. Documents and actions like that highlight the problems in our economy where women are suffering, where this government is failing to look at things through that particular lens. It's not a surprise that they're failing to look at it through that particular lens. We've seen it all this week: 29 women on this side of the chamber; 29 women proudly fighting for things in our policies and helping to take the tough decisions so that we can do things like we've done today. It's not a surprise that those opposite don't understand women's issues or women's place in the economy. It's clear on their benches that they don't understand the importance— (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Flint, Nicolle, MP",LP,2018-09-19,"
 
 
@@ -3556,7 +3678,7 @@ What we're doing on this side is helping women access the job market by providin
 
 When it comes time for women to retire, our government has provided a superannuation system with flexibility, sustainability and equity. We introduced the low-income superannuation tax offset to support the accumulation of super for low-income earners. We have levelled the playing field by scrapping restrictions on who can make personal deductable contributions, benefitting 800,000 Australians, including those women working in roles without access to formal salary-sacrificing arrangements. In fact, in 2015-16, almost 320,000 low- and middle-income-earning women were paid $100 million in co-contributions. And we, of course, have the Protecting Your Super Package, which will help many, many women. Also, we are assisting 1.6 million women who are still contributing to low-balance accounts by helping to protect their super as well. We know the biggest risk to some of our senior Australian women is actually those opposite and their retiree tax, which is going to do so much damage to people who've worked hard and saved for their retirement.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Swanson, Meryl, MP",ALP,2018-09-19,"
 
 
@@ -3588,7 +3710,7 @@ We're also going to phase out the $450-per-month minimum income threshold for el
 
 When I was talking about this this morning with an employee here in Parliament House, he said to me, 'Don't tell me that you guys are starting to plan more than three years ahead,' and I said, 'Well, we are, because now, if we start to include more people in the truly universal superannuation system, we will have more money put aside in years to come, and this will add an infinite amount of discretionary spending in the economy, but also it will take the pressure off the tax base in the future.' It's an important decision. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Howarth, Luke, MP",LP,2018-09-19,"
 
 
@@ -3630,7 +3752,7 @@ We've also brought in the Protecting Your Superannuation Package. The Protecting
 
 Finally, I want to say, on the Labor policy, that I think, as a member of the government, that super on paid parental leave is actually not a bad idea. I actually support that idea, and I'm happy to put that on the record. I would encourage the government, if we can afford it, to implement that. I don't, however, think that the $450 a month is relevant at all. It equates to a $16,200 saving over 30 years and with compound interest might reach $30,000. We do have a strong pension scheme that will help women.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Lamb, Susan, MP",ALP,2018-09-19,"
 
 
@@ -3650,7 +3772,7 @@ It's no wonder, then, that we've seen a 31 per cent rise in homelessness amongst
 
 Labor pride ourselves on our policies that give a fair go to regular Australians. We pride ourselves in the superannuation policies we have announced today. This is a suite of policies that bring fairness to the superannuation system and will help close the gender gap in super balances. Labor will ensure that the superannuation guarantee is paid on all paid parental leave, and dad and partner pay, from 1 July 2020. This means parents can take time off work to care for their newborn without sacrificing their retirement. Ultimately this will strengthen the superannuation system for 167,000 recipients of paid parental leave and 80,000 recipients of dad and partner pay in the 2020-21 financial year. The other feature of Labor's policy is to phase out the $450-per-month minimum income eligibility threshold for the superannuation guarantee from 2020. We know women are more likely to work in Australia's lowest paid industries, so they are most likely to be affected by this policy. This policy ensures that low-paid workers aren't discriminated against and are able to contribute to their superannuation accounts even when they're on a low income.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Gee, Andrew, MP",Nats,2018-09-19,"
 
 
@@ -3722,7 +3844,7 @@ Mr GEE:
 
 In contrast to the hypocritical opposition, those robbers of Australian retirees, we are helping women and men save for their retirement by giving them jobs. We've got more women working than ever before. We've got more women working full-time than ever before. Employment overall is at a record high of over 12.5 million people. We have the runs on the board, as opposed to the hypocrisy and the bushranger-like behaviour—I'm looking at you, member for Paterson—of those opposite, which is absolutely disgraceful.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Superannuation</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Hill, Julian, MP",ALP,2018-09-19,"
 
 
@@ -3745,7 +3867,7 @@ The MPR is reviewed annually by the Joint Committee of Public Accounts and Audit
 
 The committee's report makes three recommendations aimed at continuing to drive improvements and transparent reporting of Defence's major project expenditure, recommending that Defence report on (1) progress in updating the project maturity scores within three months of the tabling of the committee's report, (2) a methodology which shows how acquisition projects can transition from spreadsheet risk registers to tools with better version control measures and (3) outcomes of the sea trials of the LHD landing craft within three months of the tabling of the committee's report. I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,19,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,19,1,speech
 "Hill, Julian, MP",ALP,2018-09-19,"
 
 
@@ -3768,7 +3890,7 @@ The MPR is reviewed annually by the Joint Committee of Public Accounts and Audit
 
 The committee's report makes three recommendations aimed at continuing to drive improvements and transparent reporting of Defence's major project expenditure, recommending that Defence report on (1) progress in updating the project maturity scores within three months of the tabling of the committee's report, (2) a methodology which shows how acquisition projects can transition from spreadsheet risk registers to tools with better version control measures and (3) outcomes of the sea trials of the LHD landing craft within three months of the tabling of the committee's report. I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,19,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,19,2,speech
 "Wallace, Andrew, MP",LP,2018-09-19,"
 
 
@@ -3815,7 +3937,7 @@ These are only a tiny selection of the research and approaches we benefited from
 
 I'd like to take this opportunity to thank all of the many officials, policymakers, and practitioners, and particularly those from our overseas missions, who were very generous with their time and expertise during our visit and, of course, as I said, officers of the Department of Foreign Affairs and Trade who accompanied us throughout. In particular, on behalf of the delegation I would like to thank High Commissioners their Excellencies then the Hon. Alexander Downer, Dr Brett Mason, Mr Jonathon Keena, and Mr Tony Negus. I'd also like to thank their staff, Matt Anderson and Duncan Hewitt in the United Kingdom, Maaike den Besten in the Netherlands, Antony Lynch and Susanna Fridlund in Sweden and Andrew Clarke and Brittany Noakes in Canada. The professionalism and knowledge of all of these representatives of Australia was absolutely first rate and made a huge difference to the delegation's success. Finally, I'd like to thank my fellow delegates Senators Siewert and O'Neill for a very productive and successful trip, and the Chief Government Whip for choosing me to undertake this trip.
 
-",HoR,<title>DELEGATION REPORTS</title>,"<title>Parliamentary Delegation Field Visit (Mental Health) to the United Kingdom, Netherlands, Sweden and Canada</title>",DELEGATION REPORTS,20,1
+",HoR,<title>DELEGATION REPORTS</title>,"<title>Parliamentary Delegation Field Visit (Mental Health) to the United Kingdom, Netherlands, Sweden and Canada</title>",DELEGATION REPORTS,20,1,speech
 "Gillespie, David, MP",Nats,2018-09-19,"
 
 
@@ -3850,7 +3972,7 @@ Getting back to this bill, the Government Procurement (Judicial Review) Bill 201
 
 I commend this bill to the House. As I said, Commonwealth procurement in the value-for-money decision matrix must take account of value outside the department or entity that is actually doing the procurement. Entities should look at a whole-of-government return benefit, and at the benefit to the whole of the local, regional and national economy from procuring goods and services from local providers. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1,speech
 "Wilson, Josh, MP",ALP,2018-09-19,"
 
 
@@ -3909,7 +4031,7 @@ On defence I would make the broad point that, while you can have exemptions in p
 
 I note that Labor is active in this space and has done things. For instance, we talked about the requirement that one in 10 personnel in government contracts be apprentices. That's the kind of thing you can do through government procurement where you get both a good value-for-money, fit-for-purpose outcome and a broader social benefit. I was happy to meet this week with a delegation from AMWU pushing to get more young women involved in male dominated trades. That's another objective that could be met by properly framed procurement arrangements. To conclude, I support the amendment moved by the member for Rankin. It's good to see some procurement changes that have the potential to benefit small and medium-sized Australian enterprises. It could have been done via a better process than we've seen with this bill, and we'll have to watch the results.
 
-",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1,speech
 "Brodtmann, Gai, MP",ALP,2018-09-19,"
 
 
@@ -3974,7 +4096,7 @@ We really need as a nation to be thinking creatively about how we can maximise t
 
 So we are talking here about potential opportunities for micros and small and medium businesses. That said, I want opportunities not just internationally but also here domestically for micros and small and medium businesses in Australia. I want us to realise their potential. I want us to unlock their innovation. I want us to unlock their agility, their flexibility and their creativity.
 
-",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1,speech
 "Zappia, Tony, MP",ALP,2018-09-19,"
 
 
@@ -4039,7 +4161,7 @@ I finish with this comment, and it relates to a submission made by Dr Elizabeth 
 
 That quote, where Dr Thurbon makes it clear that we cannot give preferential treatment to Australian businesses, is concerning. I hope the government ensures that that is not the case with respect to new agreements that we enter into.
 
-",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1,speech
 "Bandt, Adam, MP",AG,2018-09-19,"
 
 
@@ -4120,7 +4242,7 @@ Mr Wilkie:
 
 The DEPUTY SPEAKER:  The original question was that this bill be now read a second time. To this the honourable member for Rankin has moved as an amendment that all words after 'That' be omitted with a view to substituting other words. The honourable member for Melbourne has moved as an amendment to the proposed amendment that all words after 'Whilst' be omitted with a view to substituting other words. The question now is that the amendment to the proposed amendment be agreed to. 
 
-",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1,speech
 "Katter, Bob, MP",KAP,2018-09-19,"
 
 
@@ -4167,7 +4289,7 @@ God help the people in this place when the history books are written, because th
 
 I hope that somewhere in my country will rise up in righteous anger and destroy the people who are in this place. My brothers in North Queensland, where the last explosion came from, have a look at the figures; have a look at the One Nation and KAP figures. We're ready for the explosion up there, I can tell you. And we'll lead the same as we did last time. But, when that explosion occurs, one of the first things to do is to restore the motor vehicle industry, which is as far away from me as the South Pole. But I love my country. One of the greatest stories in the history of Australia is the story of Laurence Hartnett and Ben Chifley, who created the car industry. It is so easy to do that, because all you've got to do is say, 'All motor vehicles purchased under a government contract will be Australian made.' That's all you've got to do. But the right to do that—that little piece of sovereignty—is being removed, to their eternal shame, by the ALP and the Liberal Party. So that right is being removed by those people. And I promise you, you will be recorded in the history books.
 
-",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1,speech
 "Ley, Sussan, MP",LP,2018-09-19,"
 
 
@@ -4214,7 +4336,7 @@ Question negatived, Mr Bandt, Mr Katter and Mr Wilkie voting aye.
 
 The SPEAKER:  The question is that the amendment moved by the honourable member for Rankin be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1,speech
 "Smith, Tony, MP",LP,2018-09-19,"
 
 
@@ -4238,7 +4360,7 @@ Question agreed to, Mr Bandt, Mr Katter and Mr Wilkie voting no.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1,speech
 "Chester, Darren, MP",Nats,2018-09-19,"
 
 
@@ -4255,7 +4377,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Government Procurement (Judicial Review) Bill 2017</title>,BILLS,21,1,speech
 "Gillespie, David, MP",Nats,2018-09-19,"
 
 
@@ -4290,7 +4412,7 @@ Getting back to this bill, the Government Procurement (Judicial Review) Bill 201
 
 I commend this bill to the House. As I said, Commonwealth procurement in the value-for-money decision matrix must take account of value outside the department or entity that is actually doing the procurement. Entities should look at a whole-of-government return benefit, and at the benefit to the whole of the local, regional and national economy from procuring goods and services from local providers. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Wilson, Josh, MP",ALP,2018-09-19,"
 
 
@@ -4349,7 +4471,7 @@ On defence I would make the broad point that, while you can have exemptions in p
 
 I note that Labor is active in this space and has done things. For instance, we talked about the requirement that one in 10 personnel in government contracts be apprentices. That's the kind of thing you can do through government procurement where you get both a good value-for-money, fit-for-purpose outcome and a broader social benefit. I was happy to meet this week with a delegation from AMWU pushing to get more young women involved in male dominated trades. That's another objective that could be met by properly framed procurement arrangements. To conclude, I support the amendment moved by the member for Rankin. It's good to see some procurement changes that have the potential to benefit small and medium-sized Australian enterprises. It could have been done via a better process than we've seen with this bill, and we'll have to watch the results.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Brodtmann, Gai, MP",ALP,2018-09-19,"
 
 
@@ -4414,7 +4536,7 @@ We really need as a nation to be thinking creatively about how we can maximise t
 
 So we are talking here about potential opportunities for micros and small and medium businesses. That said, I want opportunities not just internationally but also here domestically for micros and small and medium businesses in Australia. I want us to realise their potential. I want us to unlock their innovation. I want us to unlock their agility, their flexibility and their creativity.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Zappia, Tony, MP",ALP,2018-09-19,"
 
 
@@ -4479,7 +4601,7 @@ I finish with this comment, and it relates to a submission made by Dr Elizabeth 
 
 That quote, where Dr Thurbon makes it clear that we cannot give preferential treatment to Australian businesses, is concerning. I hope the government ensures that that is not the case with respect to new agreements that we enter into.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Bandt, Adam, MP",AG,2018-09-19,"
 
 
@@ -4560,7 +4682,7 @@ Mr Wilkie:
 
 The DEPUTY SPEAKER:  The original question was that this bill be now read a second time. To this the honourable member for Rankin has moved as an amendment that all words after 'That' be omitted with a view to substituting other words. The honourable member for Melbourne has moved as an amendment to the proposed amendment that all words after 'Whilst' be omitted with a view to substituting other words. The question now is that the amendment to the proposed amendment be agreed to. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Katter, Bob, MP",KAP,2018-09-19,"
 
 
@@ -4607,7 +4729,7 @@ God help the people in this place when the history books are written, because th
 
 I hope that somewhere in my country will rise up in righteous anger and destroy the people who are in this place. My brothers in North Queensland, where the last explosion came from, have a look at the figures; have a look at the One Nation and KAP figures. We're ready for the explosion up there, I can tell you. And we'll lead the same as we did last time. But, when that explosion occurs, one of the first things to do is to restore the motor vehicle industry, which is as far away from me as the South Pole. But I love my country. One of the greatest stories in the history of Australia is the story of Laurence Hartnett and Ben Chifley, who created the car industry. It is so easy to do that, because all you've got to do is say, 'All motor vehicles purchased under a government contract will be Australian made.' That's all you've got to do. But the right to do that—that little piece of sovereignty—is being removed, to their eternal shame, by the ALP and the Liberal Party. So that right is being removed by those people. And I promise you, you will be recorded in the history books.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Ley, Sussan, MP",LP,2018-09-19,"
 
 
@@ -4654,7 +4776,7 @@ Question negatived, Mr Bandt, Mr Katter and Mr Wilkie voting aye.
 
 The SPEAKER:  The question is that the amendment moved by the honourable member for Rankin be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Smith, Tony, MP",LP,2018-09-19,"
 
 
@@ -4678,7 +4800,7 @@ Question agreed to, Mr Bandt, Mr Katter and Mr Wilkie voting no.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Burke, Tony, MP",ALP,2018-09-19,"
 
 
@@ -4695,7 +4817,7 @@ This is something that can be fixed. Years ago, the idea was you could fix every
 
 We have in the Cooks River an area that was completely degraded, but now the native birds have shown up again. I'm not sure where they came from. The pelicans are along the river again now. It is still too degraded, but we need to see that this can be fixed and we need to understand that the parts of our environment where we have tended to place our cities have historically been sites where large numbers of people have been living since the first sunrise on this continent. There are stories that live on these rivers that if we allow them to continue to be degraded will have nowhere to go. We have an Indigenous rangers program that has focused on the remote areas and played a magnificent role, but I think it will also have a role to play in preserving and restoring the stories and ecology of our urban rivers. It should not be the case that simply because a whole lot of people live somewhere and they're not as wealthy as others they are somehow less entitled to go for a walk where they can hear Australian native birds or walk past habitats with trees and shrubs that have always lived there or look at a river that looks like a river and not a stormwater drain.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Environmental Conservation</title>,ADJOURNMENT,22,1
+",HoR,<title>ADJOURNMENT</title>,<title>Environmental Conservation</title>,ADJOURNMENT,22,1,speech
 "Perrett, Graham, MP",ALP,2018-09-19,"
 
 
@@ -4715,7 +4837,7 @@ For those of us with children, the benefits of reading to them are also signific
 
 Last year, I went to many schools in my electorate to read the Mem Fox book I'm Australian Too to some of the students. Then I donated that book to many of my schools' libraries. It was a wonderful experience. So I'm very excited about Australian Reading Hour 2018. This year I'm going to invite book clubs in my electorate to share with me the history of their book club: how they started, how long they've been going and what special things they do to celebrate books—and perhaps if there is any alcohol involved. I have heard of book clubs that do involve alcohol; I've been a member of a few of those, in fact!—and also what books they're reading so that I can recommend those books to other book clubs in Moreton. So, everybody, happy Australian Reading Hour! Find one hour on Thursday, 20 September to read your book.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Moreton Electorate: Australian Reading Hour</title>,CONSTITUENCY STATEMENTS,24,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Moreton Electorate: Australian Reading Hour</title>,CONSTITUENCY STATEMENTS,24,1,speech
 "Wilson, Josh, MP",ALP,2018-09-19,"
 
 
@@ -4756,7 +4878,7 @@ There is one further thing that I want to raise, and I've raised it in this plac
 
 I want to thank all the members of the JSCOT who participated in this report. The member for Macquarie, who's going to speak after me, did a lion's share of that work. I actually wasn't on the committee for the last several months. I'm very glad to be back on the committee. This is an example of the important work that it does.
 
-",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,25,1
+",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,25,1,speech
 "Templeman, Susan, MP",ALP,2018-09-19,"
 
 
@@ -4806,7 +4928,7 @@ Federation Chamber adjourned at 11:20
 
  
 
-",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,25,1
+",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,25,1,speech
 "Wilson, Josh, MP",ALP,2018-09-19,"
 
 
@@ -4847,7 +4969,7 @@ There is one further thing that I want to raise, and I've raised it in this plac
 
 I want to thank all the members of the JSCOT who participated in this report. The member for Macquarie, who's going to speak after me, did a lion's share of that work. I actually wasn't on the committee for the last several months. I'm very glad to be back on the committee. This is an example of the important work that it does.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,25,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,25,2,speech
 "Templeman, Susan, MP",ALP,2018-09-19,"
 
 
@@ -4897,4 +5019,4 @@ Federation Chamber adjourned at 11:20
 
  
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,25,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,25,2,speech

@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Jenkins, Harry, MP",ALP,2011-09-21,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER:
   I have received a message from the Senate informing the House that in accordance with the Public Works Committee Act 1969 Senator Boyce has been appointed a member of the Parliamentary Standing Committee on Public Works.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,0,1
+",HoR,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,0,1,speech
 "Jenkins, Harry, MP",ALP,2011-09-21,"
 
 
@@ -14,7 +14,7 @@ The SPEAKER:
 The SPEAKER:
   I have received a message from the Senate informing the House that in accordance with the Public Works Committee Act 1969 Senator Boyce has been appointed a member of the Parliamentary Standing Committee on Public Works.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,0,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,0,2,speech
 "Garrett, Peter, MP",ALP,2011-09-21,"
 
 
@@ -172,7 +172,7 @@ I commend the bill to the House.
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Social Security Amendment (Student Income Support Reforms) Bill 2011</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Social Security Amendment (Student Income Support Reforms) Bill 2011</title>,BILLS,1,1,speech
 "O'Connor, Brendan, MP",ALP,2011-09-21,"
 
 
@@ -356,7 +356,7 @@ That so much of the standing orders be suspended as would prevent Mrs Mirabella 
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Antidumping Reforms</title>,MINISTERIAL STATEMENTS,2,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Antidumping Reforms</title>,MINISTERIAL STATEMENTS,2,1,speech
 "Mirabella, Sophie, MP",LP,2011-09-21,"
 
 
@@ -394,7 +394,7 @@ Today's debate on this ministerial statement also represents a good opportunity 
 
 It is a record of unutterable shame, and the ALP must move beyond its modest and straightforward anti-dumping changes to embrace a more comprehensive industry policy—indeed, any industry policy at all. Australian manufacturers are suffering and the government remains paralysed in responding to their problems, whether in the area of coming up with a robust and genuinely reformed anti-dumping regime, in axing unnecessary regulatory costs or in actually engaging in genuine tax reform. Wasn't it ironic yesterday when there were reports of the Prime Minister saying she wanted to help manufacturing and industry with genuine tax reform? I have an idea for her: she can start with a very simple action. She could axe the carbon tax. That would be a very simple, very commendable first step in tax reform in helping industry and the manufacturing sector in this country.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Antidumping Reforms</title>,MINISTERIAL STATEMENTS,2,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Antidumping Reforms</title>,MINISTERIAL STATEMENTS,2,1,speech
 "Andrews, Kevin, MP",LP,2011-09-21,"
 
 
@@ -496,7 +496,7 @@ Michael El-Hillow, the chief executive, said in a statement that his company had
 
 This overseas experience, real data of what is happening, points to two consequences; first, it is a myth that green jobs are being created in large numbers, and, secondly, every job created comes at an enormous cost to the nation. This reflects the experience in the United States. A similar study in Spain found that for every green job created there were two or three other jobs lost in the economy. Not only will families pay the extra costs for energy and transport; the so-called green jobs are a myth. It is no wonder that workers in places like the Latrobe Valley are worried about their future. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1
+",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1,speech
 "Vamvakinou, Maria, MP",ALP,2011-09-21,"
 
 
@@ -549,7 +549,7 @@ We must remind ourselves that this challenge is an intergenerational challenge. 
 
 It is the possibilities that are open to them through the passage of the bills before this parliament that is most encouraging. I have full confidence in Australia's ability to tap into all the possibilities associated with the global push to tackle the effects of climate change through fundamental social and economic reform. It is for these reasons that I commend the bills to the House.
 
-",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1
+",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1,speech
 "Roy, Wyatt, MP",LP,2011-09-21,"
 
 
@@ -635,7 +635,7 @@ We in the coalition are a party of action, of forward thinking and of practical 
 
 In opposing the Labor government's carbon tax, we on this side of the House are standing up for the locals in my electorate. We are standing up for those small businesses that will bear the brunt of this unfair tax. We are standing up for those families whose everyday costs are going to rise with this tax. In conclusion, I encourage those members opposite to also stand up for their communities and vote against this unfair carbon tax.
 
-",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1
+",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1,speech
 "Ellis, Kate, MP",ALP,2011-09-21,"
 
 
@@ -691,7 +691,7 @@ Changes to the tax-free threshold will benefit 3.7 million women with taxable in
 
 I am proud to support action on climate change. I am proud to be a part of a reformist government. I am proud that we are fronting up to our obligations to act for the economy, the environment and the national interest. I am proud that we are standing up and putting facts on the record rather than running around with misinformation and scare campaigns about people's jobs and cost of living increases. The shameful thing is that it has been pointed out to those opposite that they are knowingly spreading misinformation. That is something that we on this side of the House will never do. In fact, we will front up to our responsibility to act now and act for future generations. I urge all members to support these bills and real action on climate change. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1
+",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1,speech
 "Wyatt, Ken, MP",LP,2011-09-21,"
 
 
@@ -882,7 +882,7 @@ When I visit shopping centres and people in the streets, they all say there is a
 
 I do not think there is any member in government who would go without food at any time on any day or have to relinquish the opportunity of buying medications and the necessities of life like I see families do in my electorate. I will continue to champion and advocate for families who will be affected by this tax. I will continue to debate it as long as I need to in order to protect their interests and give them the quality of life that they richly deserve. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1
+",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1,speech
 "Champion, Nick, MP",ALP,2011-09-21,"
 
 
@@ -950,7 +950,7 @@ I think those opposite need to move back to the moderation of John Howard and th
 
 This government is about doing things. We are going to implement this practical solution to a practical problem. I think that on 1 July next year everybody will shrug their shoulders and just get on with a prosperous economy and an increasingly efficient and green society and economy. 
 
-",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1
+",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1,speech
 "Vasta, Ross, MP",LP,2011-09-21,"
 
 
@@ -1000,7 +1000,7 @@ We need not look further than China to put the matter into stark perspective. Be
 
 In conclusion, this tax is a proverbial wolf in sheep's clothing. It masquerades as a panacea for the environment when it is really an unwarranted tax which will devastate jobs, ruin industries and ravage our economy. The Prime Minister of this country has no mandate to impose this tax. She broke her promise and, in doing so, she wilfully betrayed the Australian people by denying them their right to have their say on the carbon tax. Households and businesses in Bonner will be amongst the hardest hit by Labor's carbon tax, which will literally increase the cost of everything regardless of the false promises made by Labor to the people of Bonner. The reality is that every community group, every business, every family and every individual will pay and continue to pay the carbon tax as industry and business pass the cost on to consumers. I want the manufacturers, retailers, business individuals and families who have raised serious concerns with me about the impact of this tax to know that I have listened to them, and that is why today I speak against the imposition of a carbon tax.
 
-",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1
+",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1,speech
 "Melham, Daryl, MP",ALP,2011-09-21,"
 
 
@@ -1133,7 +1133,7 @@ I think another point needs to be made in relation to the carbon price and this 
 
 That is what we are confronting here today: a campaign of fear. It is easier to run a negative campaign, a campaign of fear, than to actually have a debate on the facts. At the end of the day, this is a defining debate, and the opposition stands condemned. I know that there are people on the other side who support a price on carbon and who support an emissions trading scheme. There is not unanimity there but there is an acceptance of the collective view and the majority view on their side of politics. Let's have an honest debate, not a dishonest debate. Let's argue the facts; I think the facts speak for themselves. There is only one way forward and that is to support this legislation. 
 
-",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1
+",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1,speech
 "Slipper, Peter, MP",Ind.,2011-09-21,"
 
 
@@ -1211,7 +1211,7 @@ Mr SLIPPER:
 
 This legislation cannot be described as good legislation. It will encourage businesses to manufacture offshore. It will encourage people to holiday offshore. It will make it more difficult for young Australians and older Australians to obtain work. I just think that it is a very heavy price for us as a community to pay—bringing in this tax so that we all feel good but ultimately destroying our economy, reducing our competitiveness and assisting countries which are worse emitters than us to profit in the international marketplace at our expense. It is not too late for the government to withdraw this legislation. It would be in the national interest for it to do so.
 
-",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1
+",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1,speech
 "Parke, Melissa, MP",ALP,2011-09-21,"
 
 
@@ -1309,7 +1309,7 @@ All these individual and community efforts, these business endeavours and these 
 
 The Clean Energy Future is a bright future, but it is a long way off, and it will need to be hard won, which is why this package of reforms in the long-term national interest is a quintessential Labor task. There has not been a more significant reform debated in this place this century, and I am proud to be here to speak in favour of these bills.
 
-",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1
+",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1,speech
 "Scott, Bruce, MP",Nats,2011-09-21,"
 
 
@@ -1368,7 +1368,7 @@ I will relate a similar story about Crisps Coaches in Warwick. Russell Crisp tol
 
 There is a whole lot more I would like to say, about the Kyoto protocol and how we as a government were able to meet our obligations, as many have done for years, through a direct action plan. We will continue to propose what can be done to reduce carbon emissions through a direct action plan and without an impact on jobs and businesses across the nation and particularly across my own electorate of Maranoa.
 
-",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1
+",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1,speech
 "Saffin, Janelle, MP",ALP,2011-09-21,"
 
 
@@ -1437,7 +1437,7 @@ I want to say a few things in closing. Let us get some things clear. Jobs are no
 
 We talk locally about who you trust. Some people say you cannot trust the science, but that is just ridiculous. All of us, including a lot of farmers, go to the Bureau of Meteorology website every day. It is the most popular website. We look to it and we trust it. We look for the weather and all sorts of things. You should go there. CSIRO believe in climate change and know we have to embrace clean energy.
 
-",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1
+",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1,speech
 "Frydenberg, Josh, MP",LP,2011-09-21,"
 
 
@@ -1496,7 +1496,7 @@ Since coming to power in 2007 this government has had an extremely poor record i
 
 I finish where I started. In my brief career, the parliamentary debate over the government's proposed carbon tax is the most contentious issue with which I have been involved. But, given its implications for our economy and our future, it is a debate that must be had. Our policy, based on incentives and initiative, will always trump that of a punishing new tax based on a broken promise. In the end, the pages of history and their judgment will be on our side.
 
-",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1
+",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1,speech
 "Murphy, John, MP",ALP,2011-09-21,"
 
 
@@ -1577,7 +1577,7 @@ The carbon price is not a tax on households. Around 500 of the biggest polluters
 
 The DEPUTY SPEAKER:  Order! It being 1:45, the debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour, and the honourable member for Reid will then have the opportunity of continuing his remarks.
 
-",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1
+",HoR,<title>BILLS</title>,"<title>Clean Energy Bill 2011, Clean Energy (Consequential Amendments) Bill 2011, Clean Energy (Income Tax Rates Amendments) Bill 2011, Clean Energy (Household Assistance Amendments) Bill 2011, Clean Energy (Tax Laws Amendments) Bill 2011, Clean Energy (Fuel Tax Legislation Amendment) Bill 2011, Clean Energy (Customs Tariff Amendment) Bill 2011, Clean Energy (Excise Tariff Legislation Amendment) Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011, Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011, Clean Energy (Unit Shortfall Charge—General) Bill 2011, Clean Energy (Unit Issue Charge—Auctions) Bill 2011, Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011, Clean Energy (International Unit Surrender Charge) Bill 2011, Clean Energy (Charges—Customs) Bill 2011, Clean Energy (Charges—Excise) Bill 2011, Clean Energy Regulator Bill 2011, Climate Change Authority Bill 2011, Steel Transformation Plan Bill 2011</title>",BILLS,3,1,speech
 "Andrews, Kevin, MP",LP,2011-09-21,"
 
 
@@ -1679,7 +1679,7 @@ Michael El-Hillow, the chief executive, said in a statement that his company had
 
 This overseas experience, real data of what is happening, points to two consequences; first, it is a myth that green jobs are being created in large numbers, and, secondly, every job created comes at an enormous cost to the nation. This reflects the experience in the United States. A similar study in Spain found that for every green job created there were two or three other jobs lost in the economy. Not only will families pay the extra costs for energy and transport; the so-called green jobs are a myth. It is no wonder that workers in places like the Latrobe Valley are worried about their future. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Vamvakinou, Maria, MP",ALP,2011-09-21,"
 
 
@@ -1732,7 +1732,7 @@ We must remind ourselves that this challenge is an intergenerational challenge. 
 
 It is the possibilities that are open to them through the passage of the bills before this parliament that is most encouraging. I have full confidence in Australia's ability to tap into all the possibilities associated with the global push to tackle the effects of climate change through fundamental social and economic reform. It is for these reasons that I commend the bills to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Roy, Wyatt, MP",LP,2011-09-21,"
 
 
@@ -1818,7 +1818,7 @@ We in the coalition are a party of action, of forward thinking and of practical 
 
 In opposing the Labor government's carbon tax, we on this side of the House are standing up for the locals in my electorate. We are standing up for those small businesses that will bear the brunt of this unfair tax. We are standing up for those families whose everyday costs are going to rise with this tax. In conclusion, I encourage those members opposite to also stand up for their communities and vote against this unfair carbon tax.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Ellis, Kate, MP",ALP,2011-09-21,"
 
 
@@ -1874,7 +1874,7 @@ Changes to the tax-free threshold will benefit 3.7 million women with taxable in
 
 I am proud to support action on climate change. I am proud to be a part of a reformist government. I am proud that we are fronting up to our obligations to act for the economy, the environment and the national interest. I am proud that we are standing up and putting facts on the record rather than running around with misinformation and scare campaigns about people's jobs and cost of living increases. The shameful thing is that it has been pointed out to those opposite that they are knowingly spreading misinformation. That is something that we on this side of the House will never do. In fact, we will front up to our responsibility to act now and act for future generations. I urge all members to support these bills and real action on climate change. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Wyatt, Ken, MP",LP,2011-09-21,"
 
 
@@ -2065,7 +2065,7 @@ When I visit shopping centres and people in the streets, they all say there is a
 
 I do not think there is any member in government who would go without food at any time on any day or have to relinquish the opportunity of buying medications and the necessities of life like I see families do in my electorate. I will continue to champion and advocate for families who will be affected by this tax. I will continue to debate it as long as I need to in order to protect their interests and give them the quality of life that they richly deserve. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Champion, Nick, MP",ALP,2011-09-21,"
 
 
@@ -2133,7 +2133,7 @@ I think those opposite need to move back to the moderation of John Howard and th
 
 This government is about doing things. We are going to implement this practical solution to a practical problem. I think that on 1 July next year everybody will shrug their shoulders and just get on with a prosperous economy and an increasingly efficient and green society and economy. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Vasta, Ross, MP",LP,2011-09-21,"
 
 
@@ -2183,7 +2183,7 @@ We need not look further than China to put the matter into stark perspective. Be
 
 In conclusion, this tax is a proverbial wolf in sheep's clothing. It masquerades as a panacea for the environment when it is really an unwarranted tax which will devastate jobs, ruin industries and ravage our economy. The Prime Minister of this country has no mandate to impose this tax. She broke her promise and, in doing so, she wilfully betrayed the Australian people by denying them their right to have their say on the carbon tax. Households and businesses in Bonner will be amongst the hardest hit by Labor's carbon tax, which will literally increase the cost of everything regardless of the false promises made by Labor to the people of Bonner. The reality is that every community group, every business, every family and every individual will pay and continue to pay the carbon tax as industry and business pass the cost on to consumers. I want the manufacturers, retailers, business individuals and families who have raised serious concerns with me about the impact of this tax to know that I have listened to them, and that is why today I speak against the imposition of a carbon tax.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Melham, Daryl, MP",ALP,2011-09-21,"
 
 
@@ -2316,7 +2316,7 @@ I think another point needs to be made in relation to the carbon price and this 
 
 That is what we are confronting here today: a campaign of fear. It is easier to run a negative campaign, a campaign of fear, than to actually have a debate on the facts. At the end of the day, this is a defining debate, and the opposition stands condemned. I know that there are people on the other side who support a price on carbon and who support an emissions trading scheme. There is not unanimity there but there is an acceptance of the collective view and the majority view on their side of politics. Let's have an honest debate, not a dishonest debate. Let's argue the facts; I think the facts speak for themselves. There is only one way forward and that is to support this legislation. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Slipper, Peter, MP",Ind.,2011-09-21,"
 
 
@@ -2394,7 +2394,7 @@ Mr SLIPPER:
 
 This legislation cannot be described as good legislation. It will encourage businesses to manufacture offshore. It will encourage people to holiday offshore. It will make it more difficult for young Australians and older Australians to obtain work. I just think that it is a very heavy price for us as a community to pay—bringing in this tax so that we all feel good but ultimately destroying our economy, reducing our competitiveness and assisting countries which are worse emitters than us to profit in the international marketplace at our expense. It is not too late for the government to withdraw this legislation. It would be in the national interest for it to do so.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Parke, Melissa, MP",ALP,2011-09-21,"
 
 
@@ -2492,7 +2492,7 @@ All these individual and community efforts, these business endeavours and these 
 
 The Clean Energy Future is a bright future, but it is a long way off, and it will need to be hard won, which is why this package of reforms in the long-term national interest is a quintessential Labor task. There has not been a more significant reform debated in this place this century, and I am proud to be here to speak in favour of these bills.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Scott, Bruce, MP",Nats,2011-09-21,"
 
 
@@ -2551,7 +2551,7 @@ I will relate a similar story about Crisps Coaches in Warwick. Russell Crisp tol
 
 There is a whole lot more I would like to say, about the Kyoto protocol and how we as a government were able to meet our obligations, as many have done for years, through a direct action plan. We will continue to propose what can be done to reduce carbon emissions through a direct action plan and without an impact on jobs and businesses across the nation and particularly across my own electorate of Maranoa.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Saffin, Janelle, MP",ALP,2011-09-21,"
 
 
@@ -2620,7 +2620,7 @@ I want to say a few things in closing. Let us get some things clear. Jobs are no
 
 We talk locally about who you trust. Some people say you cannot trust the science, but that is just ridiculous. All of us, including a lot of farmers, go to the Bureau of Meteorology website every day. It is the most popular website. We look to it and we trust it. We look for the weather and all sorts of things. You should go there. CSIRO believe in climate change and know we have to embrace clean energy.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Frydenberg, Josh, MP",LP,2011-09-21,"
 
 
@@ -2679,7 +2679,7 @@ Since coming to power in 2007 this government has had an extremely poor record i
 
 I finish where I started. In my brief career, the parliamentary debate over the government's proposed carbon tax is the most contentious issue with which I have been involved. But, given its implications for our economy and our future, it is a debate that must be had. Our policy, based on incentives and initiative, will always trump that of a punishing new tax based on a broken promise. In the end, the pages of history and their judgment will be on our side.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Murphy, John, MP",ALP,2011-09-21,"
 
 
@@ -2760,7 +2760,7 @@ The carbon price is not a tax on households. Around 500 of the biggest polluters
 
 The DEPUTY SPEAKER:  Order! It being 1:45, the debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour, and the honourable member for Reid will then have the opportunity of continuing his remarks.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Prentice, Jane, MP",LP,2011-09-21,"
 
 
@@ -2774,7 +2774,302 @@ It was with this in mind that I attended the Flood Relief Jazz Concert on the af
 
 I commend the efforts of the volunteers and businesses, including Westpac, who donated money, time and resources to support our community for a successful and happy event.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Queensland Natural Disasters</title>,STATEMENTS BY MEMBERS,4,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Queensland Natural Disasters</title>,STATEMENTS BY MEMBERS,4,1,speech
+"Abbott, Tony, MP",LP,2011-09-21,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:01):  My question is to the Prime Minister. Given that the government now supports offshore processing and given that the opposition acknowledges the importance of the refugee convention, will the Prime Minister give bipartisan support to an amendment which strengthens offshore processing but prevents people being sent to countries that have not signed the UN convention?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Abbott, Tony, MP",LP,2011-09-21,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:07):  I have a supplementary question to the Prime Minister. How can the Prime Minister say that the test of bipartisanship is agreeing, always and only, with her? How can the Prime Minister say that the coalition is acting against the national interest when half of her caucus opposes the Malaysian people swap, including Senator Faulkner?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Gillard, Julia, MP",ALP,2011-09-21,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:01):  To the Leader of the Opposition I say that the position that the government is bringing to the parliament is known to him because he has been briefed on it. It is a position that serves the national interest. It serves the national interest because it does not rule out the policies or plan of either side of parliament. It would enable the Leader of the Opposition, if he were ever Prime Minister of this country, to enact the policy he believes to be the best. On the basis we are not bringing legislation to the parliament that would rule out the Leader of the Opposition's plan, we say to the Leader of the Opposition that it is not appropriate for him to try and change that legislation to rule out the government's plan.
+
+
+What is required here—and what Australians are looking for—is a moment of resolve from this parliament: a moment where we set aside politics as usual and work for the common ground. And the common ground must be legislation that enables either side of the parliament to have sufficient power to enact the solution that they believe to be best. Consistently I have said in this parliament that I do not ask the Leader of the Opposition to endorse the government's plan for Malaysia. I do not ask that. With the appropriate power and with the implementation of the arrangement I would expect that the Leader of the Opposition in public discourse would continue to maintain criticism of it. That would be his right as the Leader of the Opposition and a participant in our democracy. What I do not expect is for the Leader of the Opposition to come into this place and deny to this government the kinds of powers that governments past have had and used and the kinds of powers that governments in the future may well seek to use. 
+
+
+So, to the Leader of the Opposition I say that what we will support is the legislation that the government will bring to the parliament. It is appropriately constructed to be common ground. It would enable me, as Prime Minister, to implement the plan that the government has announced—the arrangement with Malaysia. It would enable the Leader of the Opposition, if he were ever Prime Minister, to implement the policy he believes is best—that is, Nauru. That is why it is common ground. That is why it is appropriate. Of course, every step of the way this side of the House will honour obligations under the refugee convention. I understand that to be common ground as well.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Gillard, Julia, MP",ALP,2011-09-21,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:05):  I say to the Leader of the Opposition that I specifically did not say to him that my definition of bipartisanship is him endorsing the government's policies. I in fact said the complete reverse. What I said to the Leader of the Opposition—and I ask him to reflect on my actual words rather than what he likes to imagine I may have said—were words which I ask the Leader of the Opposition, in an exercise in the national interest to weigh seriously and with a moment of reflection rather than to engage in the kinds of politicking in this area that Australians are rightly sick of. I say again to the Leader of the Opposition that I am well aware, as he is well aware, that this side of the parliament has one plan; that side of the parliament has another plan. I do not ask the Leader of the Opposition to endorse the government's plan. What I do ask the Leader of the Opposition to do—and why this is common ground—is to enable the government, post the High Court case, to put the Migration Act in an appropriate state that this side of the House can implement its policy and, if the Leader of the Opposition were ever to sit on this side of the House in the Prime Minister's chair, he could implement his policy. That it is common ground. That is why it should be an act of bipartisanship. What the Leader of the Opposition is saying to me is in fact an act of high partisanship, and that is why it does not serve the national interest. He is saying to me that the government should endorse legislative amendments which would only enable his solution to be put into place and not enable the government to implement the arrangement with Malaysia. That is why it is a high act of partisanship. That is why it is reckless. That is why it is not in the national interest and that is why it appears that the Leader of the Opposition is now on a course to wreck offshore processing by this country. And after frothing at the mouth for 12 months about the government and political arrangements with the Greens, what he is now planning to do is to vote with the Australian Greens to destroy offshore processing. That is actually what the Leader of the Opposition is proposing to do. He is proposing to engage in that reckless act of partisanship because he believes that it is in his political interest.
+
+
+
+Mr Pyne interjecting—
+
+
+
+
+Ms GILLARD:
+  There is the member for Sturt yelling and interjecting about voting with the Greens. Well, I trust in the divisions that will wreck offshore processing in this country, as the Leader of the Opposition wants to do, that the member for Sturt sits next to the Australian Greens member who will be voting with the Liberal Party. I hope he does that. My point as I articulated was that the opposition likes to yell and scream about the Australian Greens, but they are on a political strategy to lock hands with them, to destroy offshore processing in this country, and if they do that and when they do that then every boat that comes to this country after that moment will be as a result of their reckless conduct.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Burke, Anna, MP",ALP,2011-09-21,"
+
+
+
+Ms BURKE
+ (Chisholm) (14:09):  My question is to the Treasurer. Will the Treasurer update the House on the global economic situation and any implications for our economy.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Global Economy</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Swan, Wayne, MP",ALP,2011-09-21,"
+
+
+
+Mr SWAN
+ (Lilley—Deputy Prime Minister and Treasurer) (14:10):  I thank the member for Chisholm for her very important question. Overnight we have seen the release of the IMF World economic outlook. This talks about the growing instability elsewhere in the global economy and talks about the challenges that are posed for global economic growth. What the IMF has done is give a stark warning that the global economy has entered a dangerous new phase. This does reflect concerns about sovereign debt levels in Europe and it also reflects concerns about weaker economic activity in the United States. What the IMF has done with its forecast is that it has revised down its global forecast to four per cent in 2011 and four per cent in 2012, down from 4.3 per cent in 2011 and 4.5 per cent in 2012.
+
+
+It was always going to be difficult post the global financial crisis and the global recession. Things were never going to be easy. Of course, we are still living with the legacy of those events some years ago. Many advanced economies have not returned their output to what it was prior to the global financial crisis, and that is particularly the case in terms of the United States. You do not have growth momentum in either the United States or Europe, and what that is producing in those countries is very high levels of unemployment. Many of these countries are also struggling with the weight of excessive sovereign debt and hamstrung fiscal policies.
+
+
+What we need to see on a global scale is that these issues do need to be confronted, and they need to be confronted with the same determination that the G20 used during the global financial crisis and the global recession. In particular, we do need the major advanced economies to take swift and credible action to restore growth and confidence. This will certainly be the message that I will be taking to meetings in Washington of the G20, the IMF and the World Bank, because international engagement now is as important as it was a couple of years ago.
+
+
+Australia is not immune from these bouts of instability in the global economy, but we need to remember that our situation could not be more different than what we see in the United States and Europe. In the global economy we stand tall in a position of fundamental strength, because we did act to support jobs and growth at the height of the global financial crisis. What we did in this country successfully—and everyone on this side of the House is so proud of—is we avoided recession.
+
+
+
+Government members:  Hear, hear!
+
+
+
+
+Mr SWAN:
+  Our economy has grown by more than five per cent since the global financial crisis—not something you could say in many other advanced economies. We do have something we are also proud of and that is an exceptional record when it comes to job creation—750,000 jobs in the time that we have been in office. The consequence of that is low unemployment. We treasure that because in those countries which have high unemployment, this is what causes not only weak economic growth but the destruction of communities. We on this side of the House understand the importance of jobs and the dignity of work. The dignity of work is so important not just to individual families but to an economy. That is why we put such a high priority on jobs.
+
+
+On top of that we do have a very big investment pipeline—$430 billion. What we as a country must do is maximise the opportunities that flow from that investment pipeline by putting in place the essential reforms, the long-term reforms, that will maximise our prosperity: pricing carbon, investing in skills, making sure we get a proper return from our resources. If we do that we will continue to create jobs and prosperity for all Australians.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Global Economy</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
+"Pyne, Christopher, MP",LP,2011-09-21,"
+
+
+
+Mr PYNE
+ (Sturt—Manager of Opposition Business) (14:58):  My question is to the Prime Minister. I refer the Prime Minister to the resignation of Mr Mike Williamson from the national executive of the Australian Labor Party—a political party regulated by the government's Electoral Act. Given the Prime Minister has refused to countenance the resignation of the member for Dobell until all investigations concerning the allegations surrounding him have been resolved, did she or her office similarly ask Mr Williamson—
+
+
+
+
+Mr Albanese:
+  Mr Speaker, I rise on a point of order.
+
+
+
+
+The SPEAKER:
+  Order! The member for Sturt will resume his seat. This is not directed at the Leader of the House but the cheer squads. I wish the chamber to take these matters with great caution, so the matters that those with the call have should be heard in silence. 
+
+
+
+
+Mr Albanese:
+  Thank you, Mr Speaker. The question is not within the parameters of questions allowed in question time that go to the responsibility of the Prime Minister. This is about internal affairs of the union or a political party or something, but it certainly is not in accordance with rulings by Speakers over many, many years about internal matters.
+
+
+
+
+The SPEAKER:
+  I am obliged to listen carefully to the questions because to try to predict where the question is going presents difficulties for me. The House is aware of my concern about questions, so I just say to the member for Sturt that the question has to be very, very tightly framed.
+
+
+
+
+Mr PYNE:
+  Mr Speaker, so that you can consider it in its entirety, I will begin again. I refer the Prime Minister—
+
+
+
+Government members interjecting—
+
+
+
+
+The SPEAKER:
+  Order!
+
+
+
+
+Mr PYNE:
+  Well, how can you not? I refer the Prime Minister to the resignation of Mr Mike Williamson from the national executive of the Labor Party, a political party regulated by the government's Electoral Act. Given the Prime Minister has refused to countenance the resignation of the member for Dobell until all investigations concerning the allegations surrounding him have been resolved, did she or her office similarly ask Mr Williamson to remain on the national executive until the investigations into his conduct were resolved?
+
+
+
+
+The SPEAKER:
+  I think I ruled a similar question out of order last week on the basis that it is not in order to ask questions about internal operations of political parties.
+
+
+
+
+Mr Pyne:
+  Mr Speaker, I rise on a point of order. This is a very important ruling because what the question asks about are the actions of the Prime Minister or her office about a member of the national executive of a political party regulated by an act for which her government is responsible and in relation to a member of the parliament who is a member of her political party and whether she applied the same standards to both members, both of whom you could say she is responsible for, and her actions about those two members.
+
+
+
+
+The SPEAKER:
+  On the basis of what the member for Sturt has put to me, I disagree. I think that in neither case is the Prime Minister responsible. In fact, as I have consistently said, for an individual member, a backbench member—and I stress this and underline it: a backbench member, not a member of the executive—I believe the Prime Minister has no responsibility. I know that examples have been given under other administrations but that has been about the actions of members of the executive government. I, if you will remember, ruled questions out of order on the previous member for Robertson and I have referred to those rulings earlier where I believed that the House had indicated a different attitude. What I am now saying to you—and I said this late last week—is that I am reverting, having read Practice, to a belief that members of the executive are the responsibility of a Prime Minister, not backbench members.
+
+
+
+Mr Abbott interjecting—
+
+
+
+
+The SPEAKER:
+  Order! The Leader of the Opposition cannot think that he can get away with just interrupting me. On that occasion, you will remember, comments were made on the public record by the Prime Minister. The question is out of order.
+
+
+
+
+Mr Pyne:
+  Mr Speaker, just to clarify, because this is a very important ruling—I am not trying to be arch about it—what you have essentially ruled is that the Prime Minister is not responsible for her own actions in what she or her office have done.
+
+
+
+
+The SPEAKER:
+  No, what I am saying is that the Prime Minister is not responsible for matters involving backbench members of the parliament. In fact, you have not indicated in your question any basis for your question.
+
+
+
+
+Mr Pyne:
+  Mr Speaker, further on the point of order, I indicated in the question that the Prime Minister had not countenanced the member for Dobell's resignation. She has expressed full confidence in him in this House on many occasions.
+
+
+
+
+The SPEAKER:
+  And what I am indicating—even under those questions and every time they were asked—is that you will remember that, whilst I allowed them, I considered it doubtful that that is the intent and purpose of question time. And, in reverting late last week to a stronger interpretation of the standing orders, I believe, having warned the House, that my ruling on this question is consistent.
+
+
+
+
+Mrs Bronwyn Bishop:
+  Mr Speaker, I rise on a point of order. I would refer you to page 527 of the Practice. I refer to that part where it says that the use of question time is for 'political impact'. It says:
+
+
+... the opportunity given to Members to raise topical or urgent issues is invaluable. Ministers accept the fact that they must be informed through a check of press, television or other sources of possible questions that may be asked of them in order that they may provide satisfactory answers.
+
+
+Mr Speaker, I put it to you that the question that was posed falls right within the parameters of that section of the Practice and that the question is in order and should be allowed to stand.
+
+
+
+
+The SPEAKER:
+  Good try! Page 527 also says:
+
+
+It is also a time when the intensity of partisan politics can be clearly manifested.
+
+
+It can be but I prefer it not to be. The member for Canberra.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Labor Party</title>,QUESTIONS WITHOUT NOTICE,10,1,question
+"Hockey, Joe, MP",LP,2011-09-21,"
+
+
+
+Mr HOCKEY
+ (North Sydney) (15:22):  My question is to the Treasurer. I refer the Treasurer—
+
+
+
+Honourable members interjecting—
+
+
+
+
+The SPEAKER:
+  Order! The member for North Sydney has the call. The Leader of the House. The member for North Sydney will ignore the interjections and the interjections will cease.
+
+
+
+
+Mr HOCKEY:
+  I refer the Treasurer to the IMF's assessment of the current economic conditions. It says, 'The global economy is in a dangerous new phase. Commodity prices could decline abruptly in their downgrading of Australia's growth forecast.' I ask the Treasurer: is now the right time for Australia to be the only country in the world imposing an economy wide carbon tax?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,12,1,question
+"Swan, Wayne, MP",ALP,2011-09-21,"
+
+
+
+Mr SWAN
+ (Lilley—Deputy Prime Minister and Treasurer) (15:23):  Facts are very inconvenient for those opposite. The assertion that somehow there is not carbon pricing occurring elsewhere in the global economy, that we do not have emissions trading schemes in Europe, that we do not have the development of those schemes in China or the development of those schemes in the United States is just simply wrong and it is deliberately misleading to make that point. But I do want to make a couple of points about why we need to put fundamental reform in place for our economy. 
+
+
+When we look at where our economy is today, when we look at the fact that we did avoid recession—almost alone, amongst advanced economies—we should take a bit of time to analyse why that was the case. Yes, it was the very prompt response of the Australian people and the Australian government to deal with circumstances in the past four years but also what has been important, as the trade minister was saying before, has been fundamental long-term reforms, over the past 30 years, put in place by both sides of politics. There is no doubt that the Hawke-Keating government did put in place a whole raft of long-term reforms, which have stood this government in very good stead and stood this country in very good stead—and that side of the House when they were in government. But many of these reforms were opposed tooth and nail by those sitting over there today. They opposed the introduction of national—
+
+
+
+
+Mr Pyne:
+  Mr Speaker, on a point of order: the Treasurer is making almost no attempt at all to answer a straightforward question. Is it now the right time to introduce an economy wide carbon tax?
+
+
+
+Opposition members interjecting—
+
+
+
+
+The SPEAKER:
+  Order! We seem to be interrupting something up the back of the room. As long as you are quiet, I am happy. The Treasurer understands his responsibility to be directly relevant and he can be directly relevant to the whole question, not necessarily that part that is highlighted by the Manager for Opposition Business, but I remind the Treasurer of the requirement.
+
+
+
+
+Mr SWAN:
+  I was making the point that our economy is strong and that our economy is resilient, because past governments have put in place fundamental long-term reforms which have strengthened the resilience of the Australian economy. But many of those reforms, when they were introduced, were opposed tooth and nail. I was just citing one example of national superannuation. There were many others.
+
+
+
+Opposition members interjecting—
+
+
+
+
+The SPEAKER:
+  Order! The Treasurer will ignore the interjections and the interjectors will cease.
+
+
+
+
+Mr SWAN:
+  I want to make the point that when those reforms were brought in, they were brought in in difficult economic circumstances. This government understands that if we are going to stay ahead of the curve what we have to do is continue to strengthen the resilience of our economy. And what we must do to strengthen the resilience of our economy in the 21st century is make sure that as an economy we have cleaner energy sources.
+
+
+You cannot grow strongly in the 21st century unless you have cleaner energy sources and you have investment in renewable energy. That is why carbon pricing—although it is a difficult reform and is being opposed by those opposite, tooth and nail—must be introduced. If we want to continue to reinforce the resilience in our economy we have to keep up to the mark with the long-term reforms. That is why the government is committed to carbon pricing. That is why the government is committed to the MRRT, a fundamental tax reform. What it does is recognise that we need a revenue stream to give a tax cut to business, to many of those businesses that are not in the fast lane of the resources boom. We are putting in place fundamental reforms to make sure that we strengthen the resilience of our economy for the long term. 
+
+
+We are in our 20th year of continuous economic growth. If we want to continue that record going forward, we have to face up to the big questions, to the big reforms for the future. Do what is right for the future of the country. That is what we are doing on this side of the House when it comes to the economy, as we are doing right across the board, while those opposite are just putting their own selfish political interests ahead of the national interest, every time.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,12,1,answer
 "Bishop, Julie, MP",LP,2011-09-21,"
 
 
@@ -2782,7 +3077,7 @@ I commend the efforts of the volunteers and businesses, including Westpac, who d
 Ms JULIE BISHOP
  (Curtin—Deputy Leader of the Opposition) (15:36):  On a matter of indulgence, I think in the spirit of bipartisanship it would be nice if we wished Kevin Rudd a happy birthday today.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Rudd, Hon. Kevin</title>",STATEMENTS ON INDULGENCE,13,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Rudd, Hon. Kevin</title>",STATEMENTS ON INDULGENCE,13,1,speech
 "Swan, Wayne, MP",ALP,2011-09-21,"
 
 
@@ -2924,7 +3219,7 @@ That so much of the standing and sessional orders be suspended as would prevent 
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Tax Reform and our Patchwork Economy</title>,MINISTERIAL STATEMENTS,16,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Tax Reform and our Patchwork Economy</title>,MINISTERIAL STATEMENTS,16,1,speech
 "Hockey, Joe, MP",LP,2011-09-21,"
 
 
@@ -3004,7 +3299,7 @@ Some key lessons emerged from this experience. The first was that reform is mean
 
 As the Leader of the Opposition has already announced, the coalition remains committed to real tax reform while restoring the integrity of our nation's finances. The first step in achieving this is to do everything we can to stop the carbon tax and the mining tax. The second step is to continue to press for cuts in government spending, which is why we continue to highlight the waste and mismanagement of this government. In government the coalition will pursue lower taxes for households and businesses which will be funded through targeted reductions in government spending. This will reduce cost of living pressures and the cost burden of business. It will help ease upward pressure on interest rates because we will not be stimulating the economy with deficit fuelled expenditure. These measures together will help to restore growth in productivity, which has stalled under the dead hand of Labor. There are, however, two comments by the Treasurer with which I heartily agree: any change to the tax system needs to be funded and we cannot all give ourselves a tax cut and expect somebody else to pay for it. It is a shame his actions in funding personal and business tax cuts from the carbon and mining tax revenues do not match his rhetoric. There is only one sustainable way of delivering real tax reform and that is to cut spending and return the budget to surplus. There is one more thing on which I agree with the Treasurer, and that is that there is much to be discussed at the forthcoming tax summit. I urge the government not to let the opportunity go to waste. I fear that it will be just a taxpayer funded talkfest seeking third-party endorsement of Labor's carbon and mining tax proposals and their big-taxing, big-spending ways.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Tax Reform and our Patchwork Economy</title>,MINISTERIAL STATEMENTS,16,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Tax Reform and our Patchwork Economy</title>,MINISTERIAL STATEMENTS,16,1,speech
 "Hawke, Alex, MP",LP,2011-09-21,"
 
 
@@ -3027,7 +3322,7 @@ I record for this House my support for Israel. It is a great ally of Australia. 
 
 I want to make this very clear: while I am a strong supporter of Israel and a strong supporter of Australia's approach to Israel over many years, people do have the right to legitimately express a view and protest in this country. But in Melbourne what we saw was the picket of a business—an illegitimate approach. To block customers and shoppers from legitimately going about their ordinary, day-to-day business and choosing to spend their capital in any store is illegitimate in my mind. This protest, which was violent and led to three people being dragged away by the police, 19 arrests for assaulting police and riotous behaviour really exposes in my view the undercurrent of anti-Israeli sentiment that is dominating this, and that is not legitimate. Tonight I simply want to record my opposition to the whole BDS campaign, my support for Max Brenner in Australia, my support for the state of Israel and the view of this House that we should allow all legitimate businesses to conduct their enterprises free of molestation.
 
-",HoR,<title>ADJOURNMENT</title>,"<title>Boycott, Divestment and Sanctions Campaign</title>",ADJOURNMENT,19,1
+",HoR,<title>ADJOURNMENT</title>,"<title>Boycott, Divestment and Sanctions Campaign</title>",ADJOURNMENT,19,1,speech
 "Alexander, John, MP",LP,2011-09-21,"
 
 
@@ -3041,7 +3336,7 @@ The CHPNG is a great example of the importance that many of our large pharmaceut
 
 In order to promote discussion of these matters with policymakers, I am in the process of forming the parliamentary friends of medicines group, which all MPs are welcome to join. In the meantime, in celebration of the 10th anniversary of the CHPNG, a parliamentary breakfast is being held this Thursday from 7 am in the Reps alcove. I invite all MPs to drop in, have some breakfast and hear about the great work of the Collaboration for Health in Papua New Guinea in its fight against HIV-AIDS in Papua New Guinea.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Papua New Guinea: HIV-AIDS</title>,CONSTITUENCY STATEMENTS,21,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Papua New Guinea: HIV-AIDS</title>,CONSTITUENCY STATEMENTS,21,1,speech
 "Pyne, Christopher, MP",LP,2011-09-21,"
 
 
@@ -3134,7 +3429,7 @@ His interest in airline policy and his interest in being a fighter for tourism w
 
 The DEPUTY SPEAKER:  On behalf of all the honourable members, I thank the honourable member for Sturt for that very fulsome and appropriate recognition of the service of David Jull. I am not sure, though, that Mr Speaker would appreciate the advice that Mr Jull gave the honourable member with respect to the appropriate use of his diaphragm. I now call the honourable member for Fadden.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1,speech
 "Robert, Stuart, MP",LP,2011-09-21,"
 
 
@@ -3163,7 +3458,7 @@ At his 4 October birthday bash, all his staff would turn up from time to time be
 
 A giant has passed—someone whose life was cut short too soon; someone who contributed greatly to the strength, the health, the wellbeing, the calibre, the content and the character of our nation. It is with great sadness that we mourn his passing. But we also look at his legacy. We remember the fun times that David provided my parliamentary colleagues who served with him. Some of the antics they speak of truly reflect the Jully I knew in serving him at a local level as part of his federal divisional council and then of course in receiving his great support when I took over from him. I will always remember the great support he gave and his words of wisdom, encouragement and help. Transitioning from one politician to another in an electorate can be difficult; transitioning with David was truly a joy. The nation has lost a giant.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1,speech
 "Truss, Warren, MP",Nats,2011-09-21,"
 
 
@@ -3198,7 +3493,7 @@ When David made his last speech in parliament, he said that he looked around for
 
 David was a great character. We admired him enormously. He was a great friend, and someone who leaves a gap in the lives of not only the aviation buffs of the country but also those constituents whom he served well, his party colleagues and his parliamentary colleagues. We certainly admired him greatly. I extend my sympathy to his family. His second wife, Erica, I knew quite well, although I did not know many of the other members of his family, but certainly we extend our sympathies to them and assure them of our enduring love and respect for a great Australian.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1,speech
 "Macfarlane, Ian, MP",LP,2011-09-21,"
 
 
@@ -3218,7 +3513,7 @@ As I said, I had the pleasure of sitting with David for two years up the back of
 
 I remember David very fondly. We both suffered from cancer and there was a bond there. Unfortunately for David he was not able to overcome it. As a past colleague of his, and as someone who greatly admired him, I pass on my condolences to Erica and to his family. Unfortunately, due to pre-existing travel commitments, I will not be able to join my colleagues on Friday at the funeral in Brisbane but, if I am at all instinctive about what that day may contain, apart from some of the moments of reflection about David's life and the enormous amount he has done for his community and for Australia, there will be a few stories told. They will all be funny; they will always be about the great companion he was when you travelled with him; they will be about the way in which he mixed amongst his colleagues so easily. As I say, I pass on my condolences to the family. I congratulate David for the life he led—it is a life that many of us would like to emulate. He has been a fine Australian and we should remember him fondly.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1,speech
 "Vasta, Ross, MP",LP,2011-09-21,"
 
 
@@ -3238,7 +3533,7 @@ My electorate of Bonner took in parts of David's old electorate and his connecti
 
 The victory party was the best thing he had ever seen, until his own victory party in 1996. Most of all, Gary remembers the campaign T-shirts in the 1970s worn by the bikini-clad girls with the words 'Liberal lover' splashed across the front. In Bonner, we will always remember him most as a fighter. He fought for the Liberal Party, he fought for his community and, in the end, he courageously fought against cancer. David was first and foremost a gentleman, one of the honourable breeds of MPs who have graced Australia's history. His commitment to our nation—but especially to those who knew him—leaves a profound legacy. My sympathy and prayers are with his family and those close to him as he will be greatly missed.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1,speech
 "Baldwin, Bob, MP",LP,2011-09-21,"
 
 
@@ -3303,7 +3598,7 @@ He will be missed.
 
 Earlier this week at a tourism transport forum I said, and truly believed, that David Jull was Australia's greatest tourism minister we never had. David, may you be resting in peace, because you will be sadly missed.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1,speech
 "Scott, Bruce, MP",Nats,2011-09-21,"
 
 
@@ -3355,7 +3650,7 @@ In conclusion, David was a great friend, a great contributor to this place and a
 
 I pass on my condolences to Erica and other members of his family, because any death of a loved one, a friend or a colleague is a sad time. I look forward to attending the state funeral, which is a very appropriate way to recognise David Jull, a great friend and colleague. David, may you rest in peace.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1,speech
 "Laming, Andrew, MP",LP,2011-09-21,"
 
 
@@ -3402,7 +3697,7 @@ That is a lesson we will use every day and fill it with as much love and achieve
 
 David Jull, you were an inspiration to many of us. We may no longer be bothered collecting boarding passes anymore or remembering registration numbers of the aeroplanes we travel on, but for the tiny things you did so well you will be remembered on both sides of this chamber.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1,speech
 "Gambaro, Teresa, MP",LP,2011-09-21,"
 
 
@@ -3443,7 +3738,7 @@ I last saw David a couple of months ago at a private lunch that I organised with
 
 His state funeral is indeed this Friday. It is at St. John's Cathedral in Brisbane. This good man deserves to be honoured greatly for the contribution that he has made to the nation. David Jull, you will be sadly missed. 
 
-",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1,speech
 "Van Manen, Bert, MP",LP,2011-09-21,"
 
 
@@ -3457,7 +3752,7 @@ As the member for Brisbane has just touched on, David had a career in television
 
 I am very thankful to David for his preparedness to help me as a new member of parliament and also prior to that as a candidate. It is disappointing in some respects, after listening to all the contributions from those who have worked with him over the years and during his career in this place, that I never had that opportunity. But I am thankful for the brief period during which I did get to spend time with him. My best wishes go out to his brother Peter and his sister Gwen. As I said, I am very thankful for the opportunity I got to know David. His presence, his knowledge and his abilities will be greatly missed.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1,speech
 "Slipper, Peter, MP",Ind.,2011-09-21,"
 
 
@@ -3487,7 +3782,7 @@ David had a very broad sense of humour. On one of the Howard reshuffles—and I 
 
 It was sad that he did not have a long retirement from parliament. He had the most amazing history in being elected. He had tenacity and principles. I believe that he is one of the few larger than life characters that we have seen in this parliament. I for one felt when he retired in 2007 that the entire parliament was very much the poorer for his political passing. Having said that, the entire community is very much the poorer for his passing from this world. The community will miss him greatly. His friends will feel enormously deprived of the ongoing opportunity to regularly converse with him. He was one of nature's gentlemen. He was a person who I saw as a role model for members of parliament; an icon; a person who had qualities that the rest of us could only aspire to emulate but so often fell short of. I am very pleased to be able to associate myself with the condolence motion moved by the Hon. the Prime Minister and supported by the Leader of the Opposition and colleagues.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1,speech
 "Broadbent, Russell, MP",LP,2011-09-21,"
 
 
@@ -3531,7 +3826,7 @@ I have said that this place is the lesser without David Jull, and it is. He had 
 
 I have two anecdotes of my own. When I came here as a new member in 1990, David Jull was a tree to lean on. He really was, and everybody felt comfortable being around the man. You could trust him with your problems and the things that you were facing as a new member not knowing this place. I remember saying, 'How do you get through your correspondence?' He said: 'My staff are fantastic. The letters come in; by the time I get back there on Friday every letter is prepared. We have done it over the phone. Every letter is prepared for me to sign on Friday and nobody leaves the office until every letter we have received in every week is responded to one way or the other.' Every week. Now that is an administrator. I will leave you with this—it came from David Jull in one of our conversations when I asked him for his thoughts. Mr Slipper, the member for Fisher, raised this when he talked about David's comments about a group of people. I asked David what he thought of this new frontbench compared to the old frontbench. He said: 'Russell, half of the old frontbench were lazy good-for-nothings. The other half were hardworking, diligent members of the front bench. This new frontbench is the exact opposite.'
 
-",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1,speech
 "Neville, Paul, MP",Nats,2011-09-21,"
 
 
@@ -3566,7 +3861,7 @@ As others have described, he was one of nature's gentlemen. Other than that smal
 
 He was a man of extraordinary tastes. He loved his school. He loved his sport. He loved radio, television and tourism. He had a colourful and full life. He was one of those men for all seasons. I was talking to David Greenwood, who was one of the team at 4IP and has gone back in recent years to manage the Ipswich radio station, and he described him as one of the most balanced and liked guys in the industry. I say so too. Vale, David Jull.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1,speech
 "Entsch, Warren, MP",LP,2011-09-21,"
 
 
@@ -3592,7 +3887,7 @@ Both of us left in 2007. I decided to retire to spend time with my son. I knew t
 
 I would like to pass on my condolences to his former wife, Erica; his sister, Gwen; his brother, Peter; Peter's sons, Stephen and Andrew; his stepsons, Mike and Jay Goldman; and his two grandchildren, whom I know he loved very dearly, Declan and Griffin. He was still very young when he passed away. I think it is going to be a sadder place for his loss. If the legacy of an individual passing from this world is the admiration of his colleagues and friends and the huge amount of respect then I would say Jully achieved outstandingly in that area. I will be attending his service on Friday. Goodbye, Jully. We loved you very much.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1,speech
 "Jones, Ewen, MP",LP,2011-09-21,"
 
 
@@ -3637,7 +3932,7 @@ That further proceedings be conducted in the House.
 
 Question agreed to.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Jull, Hon. David Francis</title>",CONDOLENCES,22,1,speech
 "Jones, Ewen, MP",LP,2011-09-21,"
 
 
@@ -3648,7 +3943,7 @@ Mr EWEN JONES
 
 Cadel Evans rode in Townsville. That is why I am speaking about him today and why he is claimed as Townsville's own. To see this guy go round the strand, for someone who does not understand the sport, was nothing special. I was at the dinner where he donated his pushbike to be auctioned by local charities. They raised $15,000 for a pushbike! I thought to myself, 'My goodness, what is going on here?' But to have won the Tour de France after so much heartache and after so much pressure—what an effort. He is a truly great man. In a sport that has been tainted, that we have someone from Australia who can stand up and be better than everybody else in the world at that race is truly unbelievable. I do wish him all the best, I do congratulate him, I do add Townsville's voice to those congratulations. He can come back to the TP Human Capital triathlon and ride the cycle leg in my team next year or any year he chooses.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Evans, Mr Cadel</title>",STATEMENTS ON INDULGENCE,23,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Evans, Mr Cadel</title>",STATEMENTS ON INDULGENCE,23,1,speech
 "Marino, Nola, MP",LP,2011-09-21,"
 
 
@@ -3689,7 +3984,7 @@ And he has said that he has 'a long, strong passion and interest for Tibet and i
 
 I want to finish by again congratulating Cadel. If you read these particular contributions, Cadel, I hope you know just how much your win has meant to millions of Australians and what a profound impact it has on the lives and dreams of some of our wonderful young people in this nation.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Evans, Mr Cadel</title>",STATEMENTS ON INDULGENCE,23,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Evans, Mr Cadel</title>",STATEMENTS ON INDULGENCE,23,1,speech
 "Jones, Stephen, MP",ALP,2011-09-21,"
 
 
@@ -3712,7 +4007,7 @@ This simple philosophy—passion, practice and the quest for perfection—has re
 
 Australians are used to sporting success and our athletes regularly punch above their weight on the world stage. Sometimes we expect too much and fail to recognise the quality of the achievement, irrespective of the result. I remember Cadel apologising to Australians for not being good enough to win the 2008 and thinking, 'You are apologising to us when we should be congratulating you.' In 2009, Cadel won the road race and the men's world championship. Unfortunately, injury derailed his 2010 campaign in France. But it would be Cadel's year in 2011. While many of us watched the penultimate stage that delivered Cadel an unassailable lead over his closest rivals, it was the day before that stands out in my memory. I remember that last mountain stage, with the Schleck brothers leading the gruelling climb from the Mondane to the Alpe d'Huez. Cadel's assault on Andy Schleck's lead was frustrated by mechanical difficulties. It was hard not to remember 2008. Would this be another case of so close yet so far? But no-one told Cadel Evans this. He fought back, he refused to submit and he pushed his body and his bike to breaking point and beyond. Cadel finished that stage within striking distance of Andy Schleck. The next stage was his pet event, the time trial—and, as they say, the rest is history. That day's riding was the epitome of courage in the face of adversity. Those champion qualities on display made for an experience that was simply exhilarating and quite unforgettable. It took a few more days before Cadel was crowned overall winner of le tour. But for my mind, Cadel won it on that day on the road to Alpe d'Huez, when he displayed the grit, the determination and the courage to play the hand he was dealt, despite the circumstances. Some may say he played and won the Australian way. I certainly do. Congratulations, Cadel Evans.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Evans, Mr Cadel</title>",STATEMENTS ON INDULGENCE,23,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Evans, Mr Cadel</title>",STATEMENTS ON INDULGENCE,23,1,speech
 "Alexander, John, MP",LP,2011-09-21,"
 
 
@@ -3723,7 +4018,7 @@ Mr ALEXANDER
 
 Cadel Evans has all of these qualities in abundance. His chance so cruelly extinguished last year after wearing the yellow jersey with pride despite a fractured elbow. At 33 years of age, surely his chance for the greatest crown in cycling was gone. This was accepted with a smile on his face. His family and friends and those who participate in this sport were so aware of his extraordinary achievement in carrying injuries and fighting on—just like Jeff Harding years earlier. This year, burdened by 34 years, past his prime, but still a gallant competitor, he battled all the way. Back in the field during this race, the greatest test of endurance, surely the aged Australian must have had thoughts of the opportunities lost in the years prior haunting the road before him. There was no quit in him. Gracious in defeat last year, modest in victory to a fault this year. To Don, Ken, Evonne, Dawn and Oppy: you have a new and worthy peer, a champion in sport but, more significantly for we Australians and the standards by which we uniquely judge, a champion bloke.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Evans, Mr Cadel</title>",STATEMENTS ON INDULGENCE,23,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Evans, Mr Cadel</title>",STATEMENTS ON INDULGENCE,23,1,speech
 "Simpkins, Luke, MP",LP,2011-09-21,"
 
 
@@ -3752,7 +4047,7 @@ I do not call professional athletes or elite sportsmen heroes. They do not risk 
 
 We were there with him for that final ride into Paris, but what we know is that if we desire such success ourselves we need to be there for the training and the preparation, where there is no cheering crowd and where it is wet and cold and not just when the sun is shining. We need to understand that defeat may be on the path to victory and that we must be resilient to the challenges that face us. This is what I see as the lessons that Cadel Evans has provided for us all, so I honour him for his lifetime of dedication which has seen him ascend to the very top of cycling in the world.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Evans, Mr Cadel</title>",STATEMENTS ON INDULGENCE,23,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Evans, Mr Cadel</title>",STATEMENTS ON INDULGENCE,23,1,speech
 "Tehan, Dan, MP",LP,2011-09-21,"
 
 
@@ -3769,7 +4064,7 @@ I was back at home in the electorate when stage 19 took place. I had been out th
 
 It is an absolute pleasure and honour to speak on this motion. I congratulate Cadel Evans, I congratulate his coach and I congratulate his team, because if there is one thing my uncle taught me it is that you cannot win the Tour de France unless you have good team. This year, I think more than any other, Cadel had a team which meant that victory was his. So to Cadel, his team, his coaches—including his late coach, whom Cadel rightly recognised for the incredible contribution he made to Cadel's career—I say: I commend you all, I congratulate you all and I hope I am up at Magnetic Island again next year to witness the start of the race and talk about it with my uncle and, hopefully, see Cadel win back-to-back.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Evans, Mr Cadel</title>",STATEMENTS ON INDULGENCE,23,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Evans, Mr Cadel</title>",STATEMENTS ON INDULGENCE,23,1,speech
 "Frydenberg, Josh, MP",LP,2011-09-21,"
 
 
@@ -3792,4 +4087,47 @@ The DEPUTY SPEAKER
 Mr Murphy
 ) (12:40):  By way of finality, I too would like to associate myself with the magnificent contributions that have been made by honourable members to the statements about someone who was clearly an inspiration. We hope that his efforts in France inspire many young people to follow the dream that he followed, not to mention the great benefit to health and lifestyle. Yes, Cadel Evans kept my wife and me up late. We were enthralled with the SBS broadcast, and they should be congratulated for that, particularly Phil Liggett for his very incisive comments. Finally, Cadel certainly presents as a very modest and humble Australian. He brings great credit to our country. He is a wonderful ambassador. Indeed, Cadel Evans you are a great Australian and I too salute you like other honourable members.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Evans, Mr Cadel</title>",STATEMENTS ON INDULGENCE,23,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Evans, Mr Cadel</title>",STATEMENTS ON INDULGENCE,23,1,speech
+"Fletcher, Paul, MP",LP,2011-09-21,"
+
+
+
+Mr Fletcher
+  asked the Minister representing the Minister for Broadband, Communications and the Digital Economy, in writing, on 26 May 2011:
+
+
+Further to the Minister's answer to question in writing No. 179 (House Hansard, 10 May 2011, page 54):
+
+
+(1) Is it a fact that the cost of transit capacity on the Internet is a cost which must be met in providing a service to end users over the National Broadband Network; if so, will this cost be met by NBN Co. or the retail service provider.
+
+
+(2) If this cost is to be met by NBN Co., will NBN Co. know in advance the likely sum in order to recover it from retail service providers in the final price charged.
+
+
+(3) If this cost is to be met by retail service providers, will NBN Co. know in advance the likely sum, so that in setting a price for retail service providers it is able to consider the likely margins to be earned by the retail service provider, taking account of all of the retail service provider's costs (including amounts paid by both the retail service provider to NBN Co. and the service provider for transit capacity).
+
+
+(4) Has NBN Co. developed estimates of what the cost of transit capacity on the Internet (per megabit) will be; if so, what are they; if not, why not.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Broadband (Question No. 389)</title>,QUESTIONS IN WRITING,24,1,question
+"Albanese, Anthony, MP",ALP,2011-09-21,"
+
+
+
+Mr Albanese:
+  The Minister for Broadband, Communications and the Digital Economy has provided the following answer to the honourable member's question:
+
+
+(1) Yes. Depending on the application, transit capacity is required to connect from the NBN Point of Interconnect (POI) to other parts of the internet. The cost of this connectivity is the responsibility of the retail service provider.
+
+
+(2) The cost of this capacity is the responsibility of the retail service provider. 
+
+
+(3) NBN Co considered a range of inputs when developing the wholesale costs for the NBN, including the prices in the ACCC's Declared Transmission Capacity Services Interim Access Determination. Whilst NBN Co can model a number of likely cost scenarios, it cannot know precisely all retail service provider's costs as these will depend on a range of commercial choices made by the RSP.
+
+
+(4) See answer to (3) above.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Broadband (Question No. 389)</title>,QUESTIONS IN WRITING,24,1,answer

@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2017-11-13,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (11:42):  I inform the Senate that the former President of the Senate, Stephen Parry, received a letter from Senator Xenophon on 31 October 2017 resigning his place as a senator for the state of South Australia. Pursuant to the provisions of section 21 of the Constitution, the President notified the Governor of South Australia of the vacancy in the representation of that state caused by his resignation. I table the correspondence.
 
-",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>South Australia</title>,PARLIAMENTARY REPRESENTATION,5,1
+",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>South Australia</title>,PARLIAMENTARY REPRESENTATION,5,1,speech
 "PRESIDENT, The",,2017-11-13,"
 
 
@@ -77,7 +77,7 @@ Senator Bernardi:
 
 The PRESIDENT:  Senator Bernardi, I hasten to add that this is beyond the original point you raised as being a point of order. This is now a matter for a question. There are times on the daily schedule to do that, such as question time. My ruling is that there is no information brought before me to allow me to make a ruling on the matter you have raised. As I said earlier, it is a matter for each individual senator. If they feel they have reached that conclusion, they should bring that forward to the chamber. If not, there are provisions by which the Senate can act, and it has acted in the past in this term of parliament. But you have brought forward no information that would allow me to make a ruling contrary to that long-established practice.
 
-",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Qualifications of Senators</title>,PARLIAMENTARY REPRESENTATION,5,2
+",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Qualifications of Senators</title>,PARLIAMENTARY REPRESENTATION,5,2,speech
 "PRESIDENT, The",,2017-11-13,"
 
 
@@ -85,7 +85,76 @@ The PRESIDENT:  Senator Bernardi, I hasten to add that this is beyond the origin
 The PRESIDENT
  (11:43):  Senators, to enable Senator Steele-John to fully participate in Senate proceedings, I propose, with the concurrence of the Senate, that he be permitted to speak while seated and to vote in divisions on the appropriate side of the chamber floor adjacent to senators' seats. If there is no objection, it is so ordered.
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,"<title>Steele-John, Senator Jordon</title>",STATEMENT BY THE PRESIDENT,6,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,"<title>Steele-John, Senator Jordon</title>",STATEMENT BY THE PRESIDENT,6,1,speech
+"Wong, Sen Penny",ALP,2017-11-13,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:00):  My question is to Senator Fifield, the Minister for Communications. Following Senator Parry's resignation from this place, the minister revealed:
+
+
+Former Senator Parry mentioned to me a few weeks ago that he was endeavouring to check his family's records.
+
+
+When and how did the minister first become aware that Senator Parry's father had relevantly held British citizenship?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,"<title>Parry, Hon. Stephen</title>",QUESTIONS WITHOUT NOTICE,9,1,question
+"Wong, Sen Penny",ALP,2017-11-13,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:01):  Accountability Turnbull Government style! He was asked it here, and I ask it again: when did this minister first become aware that Senator Parry's father had relevantly held British citizenship? It is a simple question. He should answer it.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,"<title>Parry, Hon. Stephen</title>",QUESTIONS WITHOUT NOTICE,9,1,question
+"Wong, Sen Penny",ALP,2017-11-13,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:02):  Can the minister explain to the Senate why he chose not to disclose questions about former Senator Parry's eligibility, given that the government had referred the then Deputy Leader of the Nationals, Senator Nash, to the High Court in the same circumstances? Why is there one rule for Senator Parry and one rule for Senator Nash?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,"<title>Parry, Hon. Stephen</title>",QUESTIONS WITHOUT NOTICE,9,1,question
+"Fifield, Sen Mitch",LP,2017-11-13,"
+
+
+
+Senator FIFIELD
+ (Victoria—Manager of Government Business in the Senate, Minister for Communications, Minister for the Arts and Acting Minister for Regional Communications) (14:00):  I covered these matters in my contribution to the debate in relation to the High Court referral earlier today.
+
+
+
+The PRESIDENT:  A supplementary question, Senator Wong?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,"<title>Parry, Hon. Stephen</title>",QUESTIONS WITHOUT NOTICE,9,1,answer
+"Fifield, Sen Mitch",LP,2017-11-13,"
+
+
+
+Senator FIFIELD
+ (Victoria—Manager of Government Business in the Senate, Minister for Communications, Minister for the Arts and Acting Minister for Regional Communications) (14:01):  As I indicated earlier, I made a contribution in the debate on the referral to the High Court. Senator Wong is asking for particular details about which I did not have knowledge.
+
+
+
+The PRESIDENT:  A supplementary question, Senator Wong?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,"<title>Parry, Hon. Stephen</title>",QUESTIONS WITHOUT NOTICE,9,1,answer
+"Fifield, Sen Mitch",LP,2017-11-13,"
+
+
+
+Senator FIFIELD 
+
+(
+Victoria
+—
+Manager of Government Business in the Senate, Minister for Communications, Minister for the Arts and Acting Minister for Regional Communications
+) (
+14:02
+):  Mr President, I comprehensively covered these matters this morning.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,"<title>Parry, Hon. Stephen</title>",QUESTIONS WITHOUT NOTICE,9,1,answer
 "Farrell, Sen Don",ALP,2017-11-13,"
 
 
@@ -161,7 +230,7 @@ Senator Fifield said he's answered all the questions we have. Let me tell you, h
 
 You might have seen Prime Minister Turnbull ramping up the issue today. He is going to refer all these Labor Party people to the High Court. Apart from being a complete waste of money, he's not relying on good legal advice. All of the people he's talking about have renounced their citizenship. These people are not like Barnaby Joyce, Fiona Nash or Stephen Parry, none of whom renounced their citizenship. All of the people that the Prime Minister is talking about today renounced their citizenship. Why did they do that? It was because the vetting processes—as you would be familiar with, Mr Acting Deputy President Sterle—are thorough. In every case, if there is any doubt whatsoever, as I know from my own personal experience, you renounce your citizenship. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Parry, Hon. Stephen</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Parry, Hon. Stephen</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Macdonald, Sen Ian",LP,2017-11-13,"
 
 
@@ -199,7 +268,7 @@ But I don't know. Perhaps Senator Gallagher has appropriate advice or appropriat
 
 If there is a reasonable explanation for why Senator Gallagher shouldn't do that, then please tell us. But, otherwise, why don't we just put the matter beyond dispute? Why don't we table publicly all of the relevant information so that the public at large can be assuaged? As I say, these journalists are respectable people, as far as journalists go, and they seem to have some doubt about Senator Gallagher's citizenship. I don't really have the doubt, because I simply don't know. But, if the evidence is there, why aren't Labor people, including those in this chamber, coming forward with the documentation to put the matter entirely beyond doubt and entirely beyond argument? That would seem to be a very reasonable way to go.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Parry, Hon. Stephen</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Parry, Hon. Stephen</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "O'Neill, Sen Deb",ALP,2017-11-13,"
 
 
@@ -231,7 +300,7 @@ Were any members of the Senate government leadership team made aware of concerns
 
 We got this long list of process from the senator about who is in the leadership team and who is not in the leadership team, just to give us the benefit of his wisdom. Then he finally summed it up with, 'I have no reason to believe any one of them'—any of the six people in the leadership team—'knew anything prior to Monday 30 October.' 'No reason to believe' is not a clear, concise and believable answer in this context. Senator Farrell has referred to Michelle Grattan's reporting. It tells us that Minister Fifield knew that Senator Parry was in doubt. Minister Fifield had conversations with a range of other people, and we have this chaotic, dysfunctional government in here continuing to misrepresent that reality. I want to go to one of the great comments we heard in question time today: 'This was a candid and thorough response from the minister.' That is the same as saying this government is functional and truthful. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Parry, Hon. Stephen</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Parry, Hon. Stephen</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Brandis, Sen George",LP,2017-11-13,"
 
 
@@ -290,7 +359,7 @@ Senator BRANDIS:
 
 I tried to make this point to Senator Wong across the table during question time, but, of course, she rudely refused to listen to me. I tried to point out that on a reasonable reading of this article in The Conversation the words in direct speech are not said by Michelle Grattan to be the words of Stephen Parry. Nevertheless, the Australian Labor Party has mounted its entire case on the assertion that they are. But we now know that they are not, because Senator Parry never spoke to Michelle Grattan and never used those words to anyone.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Parry, Hon. Stephen</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Parry, Hon. Stephen</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Pratt, Sen Louise",ALP,2017-11-13,"
 
 
@@ -331,7 +400,7 @@ As Senator Wong made clear: when we found out that the then President of the Sen
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Parry, Hon. Stephen</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Parry, Hon. Stephen</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "PRESIDENT, The",,2017-11-13,"
 
 
@@ -339,7 +408,7 @@ Question agreed to.
 The PRESIDENT
  (15:32):  I inform the Senate of the death, on 29 October this year, of former Governor-General the Rt Hon. Sir Ninian Martin Stephen KG, AK, GCMG, GCVO, KBE, QC, Governor-General of the Commonwealth of Australia from 1982 to 1989.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Stephen, The Rt Hon. Sir Ninian Martin, KG, AK, GCMG, GCVO, KBE, QC</title>",CONDOLENCES,11,1
+",Senate,<title>CONDOLENCES</title>,"<title>Stephen, The Rt Hon. Sir Ninian Martin, KG, AK, GCMG, GCVO, KBE, QC</title>",CONDOLENCES,11,1,speech
 "Brandis, Sen George",LP,2017-11-13,"
 
 
@@ -479,7 +548,7 @@ Aside from his work mediating the Irish troubles and establishing the first war 
 
 Sir Ninian Stephen will be remembered for his many achievements as a jurist and a diplomat and for being a man of enormous intelligence and immense charm—the paradigm of the modern statesman. He was a truly eminent Australian, but he was also a dedicated family man, supported in all that he did by Lady Stephen. Sir Ninian and Lady Stephen have aptly been described as one of the great enduring double acts in Australian public life, and it is to Lady Stephen and their children, Mary, Ann, Sarah, Jane and Elizabeth, and to their 12 grandchildren and five great-grandchildren that I tender my condolences on behalf of the government and of a grateful nation.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Stephen, The Rt Hon. Sir Ninian Martin, KG, AK, GCMG, GCVO, KBE, QC</title>",CONDOLENCES,11,1
+",Senate,<title>CONDOLENCES</title>,"<title>Stephen, The Rt Hon. Sir Ninian Martin, KG, AK, GCMG, GCVO, KBE, QC</title>",CONDOLENCES,11,1,speech
 "Wong, Sen Penny",ALP,2017-11-13,"
 
 
@@ -541,7 +610,7 @@ Following the completion of his term at the international tribunals—he had ele
 
 The first whole-of-life biography of Sir Ninian Stephen, by Philip Ayres, is titled Fortunate Voyager. It is easy to see how Sir Ninian, a warm and caring man described by Ayres as 'charming and witty in conversation, and non-judgemental and optimistic in outlook', was indeed a fortunate voyager. Yet in his journeys along multiple paths throughout his life—all 94 years of it—one can appreciate how fortunate so many have been to benefit from his dedicated and selfless service. His work was diverse, his contributions significant, his commitment to service manifest. Our country—indeed, the world—owes Sir Ninian Stephen a great debt. We mourn his passing and again extend our deepest sympathies to his family and friends at this time.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Stephen, The Rt Hon. Sir Ninian Martin, KG, AK, GCMG, GCVO, KBE, QC</title>",CONDOLENCES,11,1
+",Senate,<title>CONDOLENCES</title>,"<title>Stephen, The Rt Hon. Sir Ninian Martin, KG, AK, GCMG, GCVO, KBE, QC</title>",CONDOLENCES,11,1,speech
 "Di Natale, Sen Richard",AG,2017-11-13,"
 
 
@@ -552,7 +621,7 @@ Senator DI NATALE
 
 He was held with regard while Justice of the High Court. His calm and measured style well explains his appointment to the role of Governor-General, where he contributed to the restoration of trust and confidence in that office following the events of 1975. Sir Ninian went on to become Australia's first ambassador for the environment and in that capacity he worked to ban mining in Antarctica. He headed up peace talks in Northern Ireland. He was a judge for the international criminal tribunal investigating war crimes in the former Yugoslavia, and he helped draft a constitution for Afghanistan. Sir Ninian was a statesman, he was a humanitarian and he was a devoted family man. On behalf of the Australian Greens, we would like to thank and honour him for his service.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Stephen, The Rt Hon. Sir Ninian Martin, KG, AK, GCMG, GCVO, KBE, QC</title>",CONDOLENCES,11,1
+",Senate,<title>CONDOLENCES</title>,"<title>Stephen, The Rt Hon. Sir Ninian Martin, KG, AK, GCMG, GCVO, KBE, QC</title>",CONDOLENCES,11,1,speech
 "Scullion, Sen Nigel",CLP,2017-11-13,"
 
 
@@ -590,7 +659,7 @@ He was a great statesman, a great mind and an even greater man. Vale Sir Ninian 
 
 Question agreed to, honourable senators standing in their places.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Stephen, The Rt Hon. Sir Ninian Martin, KG, AK, GCMG, GCVO, KBE, QC</title>",CONDOLENCES,11,1
+",Senate,<title>CONDOLENCES</title>,"<title>Stephen, The Rt Hon. Sir Ninian Martin, KG, AK, GCMG, GCVO, KBE, QC</title>",CONDOLENCES,11,1,speech
 "PRESIDENT, The",,2017-11-13,"
 
 
@@ -617,7 +686,7 @@ More than the number of senators required by the standing orders having risen in
 
 The PRESIDENT:  It is. I understand that informal arrangements have been made to allocate specific times to each of the speakers in today's debate. With the concurrence of the Senate, I shall ask the clerks to set the clock accordingly.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Energy</title>,MATTERS OF URGENCY,15,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Energy</title>,MATTERS OF URGENCY,15,1,speech
 "Hanson, Sen Pauline",PHON,2017-11-13,"
 
 
@@ -684,7 +753,7 @@ It is a disgrace that each year 22,000 Queensland households have their electric
 
 If the next Queensland government follows my prescription, it is going to have to give up its debt habit and learn to manage its budget. I want the savings from lower electricity prices left with households and businesses. Families and businesses know how best to spend or save money from lower electricity bills. Wake up Australia: take your power back and vote for candidates who can explain to you how they are going to lower electricity prices and bring manufacturing back to Australia.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Energy</title>,MATTERS OF URGENCY,15,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Energy</title>,MATTERS OF URGENCY,15,1,speech
 "Macdonald, Sen Ian",LP,2017-11-13,"
 
 
@@ -725,7 +794,7 @@ In the last few seconds remaining to me, I can give the Greens some good news: t
 
 Thank you for raising this matter, Senator Hanson. The Greens hypocrisy and mistruths are becoming more and more obvious as each day passes. (Time expired)
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Energy</title>,MATTERS OF URGENCY,15,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Energy</title>,MATTERS OF URGENCY,15,1,speech
 "Dastyari, Sen Sam",ALP,2017-11-13,"
 
 
@@ -794,7 +863,7 @@ But it's not just on the issue of electricity that we have seen this ideological
 
 Ideology on the conservative side of politics has led to increasing uncertainty when it comes to those who need to make investment decisions as it relates to energy prices. Until this government is able to get itself straight and in order on what it wants to achieve on energy, it is not going to be able to place the downward pressure on prices that is needed to protect and keep Australian manufacturing and jobs.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Energy</title>,MATTERS OF URGENCY,15,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Energy</title>,MATTERS OF URGENCY,15,1,speech
 "Bartlett, Sen Andrew",AG,2017-11-13,"
 
 
@@ -811,7 +880,7 @@ We hear the economically illiterate and ludicrous approach that we need to build
 
 The same sorts of savings would apply to manufacturers in Queensland as well. The jobs would flow on from that. Investing in renewable energy would create over 5,000 jobs a year every year for five years. The Liberal and Labor parties in Queensland want to create a ridiculous, unsustainable mine that would deliver maybe 1,500 jobs and would take all of the investment money that could otherwise be put into renewable energy that would generate over 5,000 jobs year after year after year and create cheaper electricity along the way. They are the visions and the policies that the Greens are putting forward in the state election in Queensland and that is the guaranteed way to get cheaper electricity for all people across this country.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Energy</title>,MATTERS OF URGENCY,15,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Energy</title>,MATTERS OF URGENCY,15,1,speech
 "McKenzie, Sen Bridget",Nats,2017-11-13,"
 
 
@@ -843,7 +912,7 @@ In terms of on-farm costs, for our individual dairy farmers on the 5,800 dairy f
 
 It is unacceptable. It's a handbrake on our growth and development, and where that will be most felt will be in the regions. The highly energy-intensive industries are located in regional Australia, and it is those people who will be feeling the impact of those job losses. We can very glibly just shoot off a thousand here and 17,000 people losing their jobs there. Those are actual mums and dads. It is kitchen table stuff—people losing their jobs. It is unacceptable, because we stand here and, as Senator Dastyari said, pursue ideology over a practical response that sees the whole mix up for discussion and on the table. I would implore those senators here who care about Australian families, about a vibrant manufacturing industry and about the 950,000 Australians employed in that industry and the 43,000 Australians employed in the dairy industry to consider a pragmatic, practical approach which, yes, looks at renewables but also ensures there's reliability within the national energy system and electricity market that drives costs down and increases competition so that we can have a vibrant manufacturing sector going forward into the 21st century. It's what we're doing as a government. Please support us.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Energy</title>,MATTERS OF URGENCY,15,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Energy</title>,MATTERS OF URGENCY,15,1,speech
 "McAllister, Sen Jenny",ALP,2017-11-13,"
 
 
@@ -881,7 +950,7 @@ The coalition have been crab walking sideways towards re-establishing something 
 
 Question agreed to.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Energy</title>,MATTERS OF URGENCY,15,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Energy</title>,MATTERS OF URGENCY,15,1,speech
 "Siewert, Sen Rachel",AG,2017-11-13,"
 
 
@@ -925,7 +994,7 @@ Senator Siewert:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>DOCUMENTS</title>,<title>Community Development Program</title>,DOCUMENTS,16,1
+",Senate,<title>DOCUMENTS</title>,<title>Community Development Program</title>,DOCUMENTS,16,1,speech
 "Siewert, Sen Rachel",AG,2017-11-13,"
 
 
@@ -969,7 +1038,7 @@ Senator Siewert:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,16,2
+",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,16,2,speech
 "Cormann, Sen Mathias",LP,2017-11-13,"
 
 
@@ -1185,7 +1254,7 @@ As the Prime Minister has said, in this Centenary of Anzac period, we best honou
 
  
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,"<title>Foreign Affairs, Defence and Trade References Committee</title>",MINISTERIAL STATEMENTS,18,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,"<title>Foreign Affairs, Defence and Trade References Committee</title>",MINISTERIAL STATEMENTS,18,1,speech
 "Cormann, Sen Mathias",LP,2017-11-13,"
 
 
@@ -1401,7 +1470,7 @@ As the Prime Minister has said, in this Centenary of Anzac period, we best honou
 
  
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Government Response to Report</title>,MINISTERIAL STATEMENTS,18,2
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Government Response to Report</title>,MINISTERIAL STATEMENTS,18,2,speech
 "Sterle, Sen Glenn (The ACTING DEPUTY PRESIDENT)",ALP,2017-11-13,"
 
 
@@ -1412,7 +1481,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Sterle
 ) (17:54):  The President has received a letter requesting changes in the membership of a committee.
 
-",Senate,<title>COMMITTEES</title>,<title>Select Committee on Lending to Primary Production Customers</title>,COMMITTEES,19,1
+",Senate,<title>COMMITTEES</title>,<title>Select Committee on Lending to Primary Production Customers</title>,COMMITTEES,19,1,speech
 "Cormann, Sen Mathias",LP,2017-11-13,"
 
 
@@ -1432,7 +1501,7 @@ Senator Hanson
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Select Committee on Lending to Primary Production Customers</title>,COMMITTEES,19,1
+",Senate,<title>COMMITTEES</title>,<title>Select Committee on Lending to Primary Production Customers</title>,COMMITTEES,19,1,speech
 "Sterle, Sen Glenn (The ACTING DEPUTY PRESIDENT)",ALP,2017-11-13,"
 
 
@@ -1443,7 +1512,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Sterle
 ) (17:54):  The President has received a letter requesting changes in the membership of a committee.
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,19,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,19,2,speech
 "Cormann, Sen Mathias",LP,2017-11-13,"
 
 
@@ -1463,7 +1532,7 @@ Senator Hanson
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,19,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,19,2,speech
 "Cormann, Sen Mathias",LP,2017-11-13,"
 
 
@@ -1480,7 +1549,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,"<title>Medicare Levy Amendment (National Disability Insurance Scheme Funding) Bill 2017, Fringe Benefits Tax Amendment (National Disability Insurance Scheme Funding) Bill 2017, Income Tax Rates Amendment (National Disability Insurance Scheme Funding) Bill 2017, Superannuation (Excess Non-concessional Contributions Tax) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Superannuation (Excess Untaxed Roll-over Amounts Tax) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Income Tax (TFN Withholding Tax (ESS)) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Family Trust Distribution Tax (Primary Liability) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Taxation (Trustee Beneficiary Non-disclosure Tax) (No. 1) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Taxation (Trustee Beneficiary Non-disclosure Tax) (No. 2) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Treasury Laws Amendment (Untainting Tax) (National Disability Insurance Scheme Funding) Bill 2017, Nation-building Funds Repeal (National Disability Insurance Scheme Funding) Bill 2017</title>",BILLS,20,1
+",Senate,<title>BILLS</title>,"<title>Medicare Levy Amendment (National Disability Insurance Scheme Funding) Bill 2017, Fringe Benefits Tax Amendment (National Disability Insurance Scheme Funding) Bill 2017, Income Tax Rates Amendment (National Disability Insurance Scheme Funding) Bill 2017, Superannuation (Excess Non-concessional Contributions Tax) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Superannuation (Excess Untaxed Roll-over Amounts Tax) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Income Tax (TFN Withholding Tax (ESS)) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Family Trust Distribution Tax (Primary Liability) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Taxation (Trustee Beneficiary Non-disclosure Tax) (No. 1) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Taxation (Trustee Beneficiary Non-disclosure Tax) (No. 2) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Treasury Laws Amendment (Untainting Tax) (National Disability Insurance Scheme Funding) Bill 2017, Nation-building Funds Repeal (National Disability Insurance Scheme Funding) Bill 2017</title>",BILLS,20,1,speech
 "Cormann, Sen Mathias",LP,2017-11-13,"
 
 
@@ -1680,7 +1749,7 @@ Full details of the Bill are contained in the Explanatory Memorandum.
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,"<title>Medicare Levy Amendment (National Disability Insurance Scheme Funding) Bill 2017, Fringe Benefits Tax Amendment (National Disability Insurance Scheme Funding) Bill 2017, Income Tax Rates Amendment (National Disability Insurance Scheme Funding) Bill 2017, Superannuation (Excess Non-concessional Contributions Tax) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Superannuation (Excess Untaxed Roll-over Amounts Tax) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Income Tax (TFN Withholding Tax (ESS)) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Family Trust Distribution Tax (Primary Liability) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Taxation (Trustee Beneficiary Non-disclosure Tax) (No. 1) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Taxation (Trustee Beneficiary Non-disclosure Tax) (No. 2) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Treasury Laws Amendment (Untainting Tax) (National Disability Insurance Scheme Funding) Bill 2017, Nation-building Funds Repeal (National Disability Insurance Scheme Funding) Bill 2017</title>",BILLS,20,1
+",Senate,<title>BILLS</title>,"<title>Medicare Levy Amendment (National Disability Insurance Scheme Funding) Bill 2017, Fringe Benefits Tax Amendment (National Disability Insurance Scheme Funding) Bill 2017, Income Tax Rates Amendment (National Disability Insurance Scheme Funding) Bill 2017, Superannuation (Excess Non-concessional Contributions Tax) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Superannuation (Excess Untaxed Roll-over Amounts Tax) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Income Tax (TFN Withholding Tax (ESS)) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Family Trust Distribution Tax (Primary Liability) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Taxation (Trustee Beneficiary Non-disclosure Tax) (No. 1) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Taxation (Trustee Beneficiary Non-disclosure Tax) (No. 2) Amendment (National Disability Insurance Scheme Funding) Bill 2017, Treasury Laws Amendment (Untainting Tax) (National Disability Insurance Scheme Funding) Bill 2017, Nation-building Funds Repeal (National Disability Insurance Scheme Funding) Bill 2017</title>",BILLS,20,1,speech
 "Cormann, Sen Mathias",LP,2017-11-13,"
 
 
@@ -1697,7 +1766,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,20,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,20,2,speech
 "Cormann, Sen Mathias",LP,2017-11-13,"
 
 
@@ -1711,7 +1780,7 @@ Citizenship ceremonies are non-commercial, apolitical, bipartisan and secular. T
 
 In August, the Darebin and Yarra city councils passed motions cancelling their Australia Day citizenship ceremonies to protest the practice of holding Australia Day on 26 January. They also endorsed the #changethedate campaign and defied a warning from the Assistant Minister for Immigration and Border Protection that their motions seriously breached the code. Assistant Minister Hawke responded by revoking the councils' authority to preside over citizenship ceremonies. We believe, in all of the circumstances, this disallowance motion is inappropriate and should not be supported by the Senate.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,"<title>Citizenship (Authorisation) Revocation and Authorisation Instrument 2017, Citizenship (Authorisation) Revocation and Authorisation Amendment Instrument 2017</title>",REGULATIONS AND DETERMINATIONS,23,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,"<title>Citizenship (Authorisation) Revocation and Authorisation Instrument 2017, Citizenship (Authorisation) Revocation and Authorisation Amendment Instrument 2017</title>",REGULATIONS AND DETERMINATIONS,23,1,speech
 "Bartlett, Sen Andrew",AG,2017-11-13,"
 
 
@@ -1770,7 +1839,7 @@ It's wonderful how citizenship ceremonies have started to build in more and more
 
 The only reason I can see that we would have such nasty pettiness is that that is what the Liberal and National parties are now reduced to. All they are now capable of is instantly reacting in such a mean, nasty, bullying, heartless, cruel, pathetic way. I really hope that everyone else in this chamber is not signing themselves up to that agenda and that they will ensure that Australia continues to be a welcoming, open-hearted, open-minded country that looks to continually progress and evolve—one that, if we ever hope to move beyond the colonial era, which we still haven't really done, properly listens to and works with as well as supports and acts in response to the views of Aboriginal and Torres Strait Islander peoples.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,"<title>Citizenship (Authorisation) Revocation and Authorisation Instrument 2017, Citizenship (Authorisation) Revocation and Authorisation Amendment Instrument 2017</title>",REGULATIONS AND DETERMINATIONS,23,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,"<title>Citizenship (Authorisation) Revocation and Authorisation Instrument 2017, Citizenship (Authorisation) Revocation and Authorisation Amendment Instrument 2017</title>",REGULATIONS AND DETERMINATIONS,23,1,speech
 "Steele-John, Sen Jordon",AG,2017-11-13,"
 
 
@@ -1812,7 +1881,7 @@ Senator Steele-John:
 
 The ACTING DEPUTY PRESIDENT:  Yes, we're on the same wavelength. That's fine.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,"<title>Citizenship (Authorisation) Revocation and Authorisation Instrument 2017, Citizenship (Authorisation) Revocation and Authorisation Amendment Instrument 2017</title>",REGULATIONS AND DETERMINATIONS,23,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,"<title>Citizenship (Authorisation) Revocation and Authorisation Instrument 2017, Citizenship (Authorisation) Revocation and Authorisation Amendment Instrument 2017</title>",REGULATIONS AND DETERMINATIONS,23,1,speech
 "McKim, Sen Nicholas",AG,2017-11-13,"
 
 
@@ -1908,7 +1977,7 @@ In summary, again I thank the Australian Labor Party for indicating their suppor
 
 The PRESIDENT:  The question is that the motion moved by Senator McKim to disallow two instruments to the Australian Citizenship Act be agreed to.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,"<title>Citizenship (Authorisation) Revocation and Authorisation Instrument 2017, Citizenship (Authorisation) Revocation and Authorisation Amendment Instrument 2017</title>",REGULATIONS AND DETERMINATIONS,23,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,"<title>Citizenship (Authorisation) Revocation and Authorisation Instrument 2017, Citizenship (Authorisation) Revocation and Authorisation Amendment Instrument 2017</title>",REGULATIONS AND DETERMINATIONS,23,1,speech
 "Cormann, Sen Mathias",LP,2017-11-13,"
 
 
@@ -1922,7 +1991,7 @@ Citizenship ceremonies are non-commercial, apolitical, bipartisan and secular. T
 
 In August, the Darebin and Yarra city councils passed motions cancelling their Australia Day citizenship ceremonies to protest the practice of holding Australia Day on 26 January. They also endorsed the #changethedate campaign and defied a warning from the Assistant Minister for Immigration and Border Protection that their motions seriously breached the code. Assistant Minister Hawke responded by revoking the councils' authority to preside over citizenship ceremonies. We believe, in all of the circumstances, this disallowance motion is inappropriate and should not be supported by the Senate.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,23,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,23,2,speech
 "Bartlett, Sen Andrew",AG,2017-11-13,"
 
 
@@ -1981,7 +2050,7 @@ It's wonderful how citizenship ceremonies have started to build in more and more
 
 The only reason I can see that we would have such nasty pettiness is that that is what the Liberal and National parties are now reduced to. All they are now capable of is instantly reacting in such a mean, nasty, bullying, heartless, cruel, pathetic way. I really hope that everyone else in this chamber is not signing themselves up to that agenda and that they will ensure that Australia continues to be a welcoming, open-hearted, open-minded country that looks to continually progress and evolve—one that, if we ever hope to move beyond the colonial era, which we still haven't really done, properly listens to and works with as well as supports and acts in response to the views of Aboriginal and Torres Strait Islander peoples.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,23,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,23,2,speech
 "Steele-John, Sen Jordon",AG,2017-11-13,"
 
 
@@ -2023,7 +2092,7 @@ Senator Steele-John:
 
 The ACTING DEPUTY PRESIDENT:  Yes, we're on the same wavelength. That's fine.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,23,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,23,2,speech
 "McKim, Sen Nicholas",AG,2017-11-13,"
 
 
@@ -2119,7 +2188,7 @@ In summary, again I thank the Australian Labor Party for indicating their suppor
 
 The PRESIDENT:  The question is that the motion moved by Senator McKim to disallow two instruments to the Australian Citizenship Act be agreed to.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,23,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,23,2,speech
 "Gallagher, Sen Katy",ALP,2017-11-13,"
 
 
@@ -2169,7 +2238,7 @@ But for five years they have been denying there actually is a problem or denying
 
 As I said at the beginning, Labor is not going to stand in the way of the bill—the tax integrity measure. We're supportive of it. It will raise a small amount of money across the forward estimates to assist with budget repair. But Labor is very, very cynical that this bill will do anything to reduce pressure on housing affordability.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,25,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,25,1,speech
 "Whish-Wilson, Sen Peter",AG,2017-11-13,"
 
 
@@ -2286,7 +2355,7 @@ We all know—and I especially know, as an economist—that models are useful fo
 
 To summarise, we'll be supporting these measures tonight, but let's not kid ourselves: this is not any attempt at a holistic approach to tackling the crisis in this country, especially for young Australians, of housing affordability. There's a role for government in our lives, a role for correcting market failures. Let's take away the perverse incentives that have been in place now for a number of years that give property investors a chance to use taxpayer funded concessions to buy more properties while young Australians who are struggling on the lowest income brackets are paying their tax. They don't get the same taxpayer concessions. They don't have the same opportunities to go into the market. Let's fix this. Let's get on with holistic reform.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,25,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,25,1,speech
 "Hume, Sen Jane",LP,2017-11-13,"
 
 
@@ -2366,7 +2435,7 @@ There is so much more to this issue than just a knee-jerk reaction on capital ga
 
 I can only implore my colleagues opposite and on the crossbench—and I was very pleased to hear Senator Whish-Wilson's support for these measures tonight—to support the legislation. Housing accessibility and affordability, as well as a fairer tax system, are truly important matters for this chamber to consider. It is not just one issue—not just first home buyers, not just homelessness, not just social housing, not just downsizing. It's so important to address the whole spectrum of housing affordability issues. I urge my colleagues opposite to consider this legislation seriously and support these changes that have been put to the chamber tonight.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,25,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,25,1,speech
 "Cameron, Sen Doug",ALP,2017-11-13,"
 
 
@@ -2404,7 +2473,7 @@ The coalition refuse to reform negative gearing and capital gains tax. They clos
 
 The speeches those opposite were making a couple of years ago suggested that this was not a federal government responsibility; it was the states' responsibility. But Labor sees putting a roof over people's head as a fundamental responsibility of a federal government. That's why we will have a housing minister, that's why we will have someone there dealing with the states in a proper way. That's why we will reform the housing agreement nationally and why we will be saying to state governments and local governments that inclusionary zoning should be considered. If the business community is going to make squillions out of housing, some of it must go back into housing for the poorer people in this country. This mob do not have a clue. They think that two or three or four per cent inclusionary zoning will fix it. They think a bond aggregator without further government support will fix it. They have rocks in their head, they are an absolute rabble and they just don't get it.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,25,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,25,1,speech
 "Leyonhjelm, Sen David",LDP,2017-11-13,"
 
 
@@ -2421,7 +2490,7 @@ This bill demonstrates, once again, that the coalition and Labor are cut from th
 
 Before I finish, don't let me forget that this teeming chamber of reasoned debate and insight is also debating a second bill, the Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017. This bill introduces a tax on foreign owners of residential real estate whenever the property is not occupied or genuinely available for rent for six months in a year. It is an example of government micromanagement and intrusion—telling property owners what do with the property they own. Protection of property rights is the most important function of any government. Yet, here we have this government seriously eroding them. Even worse, much of the revenue generated from this new tax will be eaten up by the cost of administering the tax. With nonsense policies like this we're on the road to Venezuela, getting closer with each sitting day of parliament. I condemn these bills to this near empty chamber.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,25,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,25,1,speech
 "Duniam, Sen Jonathon",LP,2017-11-13,"
 
 
@@ -2519,7 +2588,7 @@ I don't think there's much more to say other than I looked at the Greens' policy
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,25,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Housing Tax Integrity) Bill 2017, Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017</title>",BILLS,25,1,speech
 "Gallagher, Sen Katy",ALP,2017-11-13,"
 
 
@@ -2569,7 +2638,7 @@ But for five years they have been denying there actually is a problem or denying
 
 As I said at the beginning, Labor is not going to stand in the way of the bill—the tax integrity measure. We're supportive of it. It will raise a small amount of money across the forward estimates to assist with budget repair. But Labor is very, very cynical that this bill will do anything to reduce pressure on housing affordability.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Whish-Wilson, Sen Peter",AG,2017-11-13,"
 
 
@@ -2686,7 +2755,7 @@ We all know—and I especially know, as an economist—that models are useful fo
 
 To summarise, we'll be supporting these measures tonight, but let's not kid ourselves: this is not any attempt at a holistic approach to tackling the crisis in this country, especially for young Australians, of housing affordability. There's a role for government in our lives, a role for correcting market failures. Let's take away the perverse incentives that have been in place now for a number of years that give property investors a chance to use taxpayer funded concessions to buy more properties while young Australians who are struggling on the lowest income brackets are paying their tax. They don't get the same taxpayer concessions. They don't have the same opportunities to go into the market. Let's fix this. Let's get on with holistic reform.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Hume, Sen Jane",LP,2017-11-13,"
 
 
@@ -2766,7 +2835,7 @@ There is so much more to this issue than just a knee-jerk reaction on capital ga
 
 I can only implore my colleagues opposite and on the crossbench—and I was very pleased to hear Senator Whish-Wilson's support for these measures tonight—to support the legislation. Housing accessibility and affordability, as well as a fairer tax system, are truly important matters for this chamber to consider. It is not just one issue—not just first home buyers, not just homelessness, not just social housing, not just downsizing. It's so important to address the whole spectrum of housing affordability issues. I urge my colleagues opposite to consider this legislation seriously and support these changes that have been put to the chamber tonight.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Cameron, Sen Doug",ALP,2017-11-13,"
 
 
@@ -2804,7 +2873,7 @@ The coalition refuse to reform negative gearing and capital gains tax. They clos
 
 The speeches those opposite were making a couple of years ago suggested that this was not a federal government responsibility; it was the states' responsibility. But Labor sees putting a roof over people's head as a fundamental responsibility of a federal government. That's why we will have a housing minister, that's why we will have someone there dealing with the states in a proper way. That's why we will reform the housing agreement nationally and why we will be saying to state governments and local governments that inclusionary zoning should be considered. If the business community is going to make squillions out of housing, some of it must go back into housing for the poorer people in this country. This mob do not have a clue. They think that two or three or four per cent inclusionary zoning will fix it. They think a bond aggregator without further government support will fix it. They have rocks in their head, they are an absolute rabble and they just don't get it.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Leyonhjelm, Sen David",LDP,2017-11-13,"
 
 
@@ -2821,7 +2890,7 @@ This bill demonstrates, once again, that the coalition and Labor are cut from th
 
 Before I finish, don't let me forget that this teeming chamber of reasoned debate and insight is also debating a second bill, the Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Bill 2017. This bill introduces a tax on foreign owners of residential real estate whenever the property is not occupied or genuinely available for rent for six months in a year. It is an example of government micromanagement and intrusion—telling property owners what do with the property they own. Protection of property rights is the most important function of any government. Yet, here we have this government seriously eroding them. Even worse, much of the revenue generated from this new tax will be eaten up by the cost of administering the tax. With nonsense policies like this we're on the road to Venezuela, getting closer with each sitting day of parliament. I condemn these bills to this near empty chamber.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Duniam, Sen Jonathon",LP,2017-11-13,"
 
 
@@ -2919,7 +2988,7 @@ I don't think there's much more to say other than I looked at the Greens' policy
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Fawcett, Sen David",LP,2017-11-13,"
 
 
@@ -2930,7 +2999,7 @@ Senator FAWCETT
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs Legislation Committee</title>,COMMITTEES,26,1
+",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs Legislation Committee</title>,COMMITTEES,26,1,speech
 "Fawcett, Sen David",LP,2017-11-13,"
 
 
@@ -2941,7 +3010,7 @@ Senator FAWCETT
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,26,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,26,2,speech
 "O'Neill, Sen Deb",ALP,2017-11-13,"
 
 
@@ -2979,4 +3048,4 @@ In the future, genetic testing is only going to increase in frequency as genetic
 
 The inquiry of the Parliamentary Joint Committee on Corporations and Financial Services into the life insurance industry is due to report to parliament soon, and we will make recommendations in due course. I look forward to recording these concerns of our time. It is important that we have this issue on the table so that people can take reasonable steps to check their health and not end up being locked out of insurance. We took evidence from Dr Simon Longstaff, the Executive Director of the Ethics Centre. He said at one stage of the committee public hearings: 'If you could get to the point where you had absolute certainty about the particular fate of a particular individual based on their genome, there would no longer be insurance in the sense that we understand it. All of the communal benefits that come from insurance would progressively be lost.' We are not at that point. We do not want to get to that point. But we need to manage the reality that those who take proactive steps to better health cannot continue to be locked out of the life insurance market and dissuaded from taking positive health action. There needs to be a sensible balance achieved for the benefit of Australians more broadly and for the industry as well.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Life Insurance Industry: Genetic Testing</title>,ADJOURNMENT,27,1
+",Senate,<title>ADJOURNMENT</title>,<title>Life Insurance Industry: Genetic Testing</title>,ADJOURNMENT,27,1,speech

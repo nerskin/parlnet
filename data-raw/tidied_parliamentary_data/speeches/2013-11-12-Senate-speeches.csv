@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2013-11-12,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (10:44):  I inform the Senate that I have received letters from Senators Joyce, Thistlethwaite and Feeney resigning their places as senators and from Senator Bob Carr resigning his place as a senator for his current term and his term commencing on 1 July 2014. Pursuant to the provisions of section 21 of the Constitution, I notified the governors of Queensland, New South Wales and Victoria of the vacancies in the representation of those states caused by the resignations. I have received through Her Excellency the Governor-General copies of certificates of the choice by the Parliament of New South Wales of Sam Dastyari and the Parliament of Victoria of Mehmet Tillem as senators to fill the vacancies caused by the resignations of Senators Thistlethwaite and Feeney. I table the documents.
 
-",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,"<title>Queensland, New South Wales and Victoria</title>",PARLIAMENTARY REPRESENTATION,1,1
+",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,"<title>Queensland, New South Wales and Victoria</title>",PARLIAMENTARY REPRESENTATION,1,1,speech
 "Scullion, Sen Nigel",CLP,2013-11-12,"
 
 
@@ -15,7 +15,7 @@ Senator SCULLION
 
  (Northern Territory—Minister for Indigenous Affairs and Leader of The Nationals in the Senate) (17:05):  by leave—I inform honourable senators that Senator Bridget McKenzie has been appointed the Nationals whip in the Senate, Senator Nash has been reappointed as the Deputy Leader of the Nationals in the Senate and I have been appointed as Leader of the Nationals in the Senate.
 
-",Senate,<title>PARTY OFFICE HOLDERS</title>,<title>The Nationals</title>,PARTY OFFICE HOLDERS,6,1
+",Senate,<title>PARTY OFFICE HOLDERS</title>,<title>The Nationals</title>,PARTY OFFICE HOLDERS,6,1,speech
 "Milne, Sen Christine",AG,2013-11-12,"
 
 
@@ -26,7 +26,7 @@ Senator MILNE
 
 Leave granted.
 
-",Senate,<title>PARTY OFFICE HOLDERS</title>,<title>Australian Greens</title>,PARTY OFFICE HOLDERS,8,1
+",Senate,<title>PARTY OFFICE HOLDERS</title>,<title>Australian Greens</title>,PARTY OFFICE HOLDERS,8,1,speech
 "PRESIDENT, The",,2013-11-12,"
 
 
@@ -69,7 +69,7 @@ Responses to Senate resolutions:
    Minister for Foreign Affairs (Senator Bob Carr) – Small scale food producers and attachment (agreed to 24 June 2013)
 
 
-",Senate,<title>DOCUMENTS</title>,<title>Responses to Senate Resolutions</title>,DOCUMENTS,12,1
+",Senate,<title>DOCUMENTS</title>,<title>Responses to Senate Resolutions</title>,DOCUMENTS,12,1,speech
 "Siewert, Sen Rachel",AG,2013-11-12,"
 
 
@@ -83,7 +83,7 @@ That consideration of the responses to Senate resolutions tabled earlier today  
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Responses to Senate Resolutions</title>,DOCUMENTS,12,1
+",Senate,<title>DOCUMENTS</title>,<title>Responses to Senate Resolutions</title>,DOCUMENTS,12,1,speech
 "PRESIDENT, The",,2013-11-12,"
 
 
@@ -4376,7 +4376,7 @@ considerable inquiries from a range of parliamentary committees and the public. 
 
 Ordered that the committee documents be printed.
 
-",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,12,2
+",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,12,2,speech
 "Kroger, Sen Helen",LP,2013-11-12,"
 
 
@@ -4390,7 +4390,7 @@ That consideration of the committee reports and government responses tabled earl
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,12,2
+",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,12,2,speech
 "PRESIDENT, The",,2013-11-12,"
 
 
@@ -4398,7 +4398,7 @@ Question agreed to.
 The PRESIDENT
  (17:12):  I present the report of the 44th Conference of Presiding Officers and Clerks, which was held in Canberra from 30 June to 4 July 2013.
 
-",Senate,<title>DOCUMENTS</title>,<title>Conference of Presiding Officers and Clerks</title>,DOCUMENTS,13,1
+",Senate,<title>DOCUMENTS</title>,<title>Conference of Presiding Officers and Clerks</title>,DOCUMENTS,13,1,speech
 "PRESIDENT, The",,2013-11-12,"
 
 
@@ -4439,7 +4439,7 @@ Senate statistical documents:
 
 Ordered that the Work of Committees be printed.
 
-",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,13,2
+",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,13,2,speech
 "Kroger, Sen Helen",LP,2013-11-12,"
 
 
@@ -4447,7 +4447,7 @@ Ordered that the Work of Committees be printed.
 Senator KROGER
  (Victoria—Chief Government Whip) (17:13):  On behalf of the Education, Employment and Workplace Relations Legislation Committee, I present additional information received by the committee relating to its inquiry into the Social Security Amendment (Supporting More Australians into Work) Bill 2013.
 
-",Senate,<title>COMMITTEES</title>,"<title>Education, Employment and Workplace Relations Legislation Committee</title>",COMMITTEES,14,1
+",Senate,<title>COMMITTEES</title>,"<title>Education, Employment and Workplace Relations Legislation Committee</title>",COMMITTEES,14,1,speech
 "Kroger, Sen Helen",LP,2013-11-12,"
 
 
@@ -4455,7 +4455,7 @@ Senator KROGER
 Senator KROGER
  (Victoria—Chief Government Whip) (17:13):  On behalf of the Education, Employment and Workplace Relations Legislation Committee, I present additional information received by the committee relating to its inquiry into the Social Security Amendment (Supporting More Australians into Work) Bill 2013.
 
-",Senate,<title>COMMITTEES</title>,<title>Additional Information</title>,COMMITTEES,14,2
+",Senate,<title>COMMITTEES</title>,<title>Additional Information</title>,COMMITTEES,14,2,speech
 "PRESIDENT, The",,2013-11-12,"
 
 
@@ -4463,7 +4463,7 @@ Senator KROGER
 The PRESIDENT
  (17:16):  It is with deep regret that I inform the Senate of the death on 30 September 2013, of Janet Frances Powell, AM, a senator for the state of Victoria from 1986 to 1993.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Powell, Janet Frances, AM</title>",CONDOLENCES,19,1
+",Senate,<title>CONDOLENCES</title>,"<title>Powell, Janet Frances, AM</title>",CONDOLENCES,19,1,speech
 "Abetz, Sen Eric",LP,2013-11-12,"
 
 
@@ -4507,7 +4507,7 @@ All of us at the Epilepsy Foundation of Victoria are deeply saddened by the pass
 
 I pass on my sincere condolences, on behalf of the government, to former Senator Powell's family, her four children—Katrine, Emma, Nick and Alex—her granddaughter, her friends and her colleagues over the years. They are all entitled to be extremely proud of their mother, grandmother, friend and colleague for her contribution to our community and our nation.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Powell, Janet Frances, AM</title>",CONDOLENCES,19,1
+",Senate,<title>CONDOLENCES</title>,"<title>Powell, Janet Frances, AM</title>",CONDOLENCES,19,1,speech
 "Wong, Sen Penny",ALP,2013-11-12,"
 
 
@@ -4542,7 +4542,7 @@ It has been said about Janet Powell that she never fitted the mould of a politic
 
 Her life was one dedicated to public service, whether to her rural community or here in the Senate chamber. Through all walks of life she was honest and forthright, and she was a champion of women's rights. I pause here to make this point: there are many women who owe an enormous debt of gratitude to the feminists who have gone before. If we do aspire—as I hope most of us, if not all, do—for our daughters to have the same opportunities as our sons, it is because of women like Janet Powell, and others, who fought to ensure there is a space for our daughters to have those aspirations fulfilled. She was also an environmentalist, a true advocate for equity and a pacifist. Our deepest condolences go to her four children and her family. We thank her and we remember her.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Powell, Janet Frances, AM</title>",CONDOLENCES,19,1
+",Senate,<title>CONDOLENCES</title>,"<title>Powell, Janet Frances, AM</title>",CONDOLENCES,19,1,speech
 "Milne, Sen Christine",AG,2013-11-12,"
 
 
@@ -4574,7 +4574,7 @@ I want to particularly say to her children, Katrine, Emma, Nick and Alex, that t
 
 Question agreed to, honourable senators standing in their places.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Powell, Janet Frances, AM</title>",CONDOLENCES,19,1
+",Senate,<title>CONDOLENCES</title>,"<title>Powell, Janet Frances, AM</title>",CONDOLENCES,19,1,speech
 "Xenophon, Sen Nick",Ind.,2013-11-12,"
 
 
@@ -4609,4 +4609,4 @@ The research by Dr Jason Tye-Din and others indicates that a very significant on
 
 This is an important issue that must be dealt with. In terms of preventative health, it is important that the findings of the research serve as a wake-up call to the health sector for more people with this condition to be diagnosed. I urge this government and all my colleagues to make sure that there is appropriate research and education for people to be appropriately diagnosed if they have this condition which can be so well managed if diagnosed. The lack of diagnosis is a real issue, and I will do all I can to work with the coeliac society to increase the level of awareness of this disease.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Coeliac Disease</title>,ADJOURNMENT,21,1
+",Senate,<title>ADJOURNMENT</title>,<title>Coeliac Disease</title>,ADJOURNMENT,21,1,speech

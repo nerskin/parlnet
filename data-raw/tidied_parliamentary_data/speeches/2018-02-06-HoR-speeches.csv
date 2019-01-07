@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2018-02-06,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER
  (12:01):  Pursuant to the resolution of the Senate on 6 September 1984 and the House of Representatives on 11 October 1984, I present a report on access to committee documents.
 
-",HoR,<title>DOCUMENTS</title>,<title>Access to Committee Reports</title>,DOCUMENTS,0,1
+",HoR,<title>DOCUMENTS</title>,<title>Access to Committee Reports</title>,DOCUMENTS,0,1,speech
 "Smith, Tony, MP",LP,2018-02-06,"
 
 
@@ -14,7 +14,7 @@ The SPEAKER
 The SPEAKER
  (12:01):  Pursuant to the resolution of the Senate on 6 September 1984 and the House of Representatives on 11 October 1984, I present a report on access to committee documents.
 
-",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,0,2
+",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,0,2,speech
 "Marino, Nola, MP",LP,2018-02-06,"
 
 
@@ -22,7 +22,7 @@ The SPEAKER
 Ms MARINO
  (Forrest—Chief Government Whip) (12:03):  I declare the Criminal Code Amendment (Impersonating a Commonwealth Body) Bill 2017 is referred to the Federation Chamber for further discussion.
 
-",HoR,<title>BILLS</title>,<title>Criminal Code Amendment (Impersonating a Commonwealth Body) Bill 2017</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Criminal Code Amendment (Impersonating a Commonwealth Body) Bill 2017</title>,BILLS,5,1,speech
 "Marino, Nola, MP",LP,2018-02-06,"
 
 
@@ -30,7 +30,7 @@ Ms MARINO
 Ms MARINO
  (Forrest—Chief Government Whip) (12:03):  I declare the Criminal Code Amendment (Impersonating a Commonwealth Body) Bill 2017 is referred to the Federation Chamber for further discussion.
 
-",HoR,<title>BILLS</title>,<title>Reference to Federation Chamber</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Reference to Federation Chamber</title>,BILLS,5,2,speech
 "O'Neil, Clare, MP",ALP,2018-02-06,"
 
 
@@ -44,7 +44,47 @@ Mary was a spear carrier for our movement. Her political smarts gained the respe
 
 Mary devoted her life to others from the local kindergarten to the Red Cross, from the Girl Guides to the National Gallery of Victoria. The community I serve in Victoria and the movement and the party I represent in this parliament owe Mary a great deal. She was a stellar human being and deeply respected on both sides of politics, so I know I speak for all of us in the chamber today when I send the chamber's deepest condolences to the Crean family and our great respect and thanks to Mary for all that she contributed and achieved. May she rest in peace.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,"<title>Crean, Mrs Mary</title>",STATEMENTS BY MEMBERS,6,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,"<title>Crean, Mrs Mary</title>",STATEMENTS BY MEMBERS,6,1,speech
+"Shorten, Bill, MP",ALP,2018-02-06,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:01):  My question is to the Prime Minister. Last year, average wages for Australian workers rose by only two per cent but corporate profits rose by 20 per cent. When ordinary workers are already doing it tough, why is the Prime Minister slugging millions of workers with a $300 tax increase at the same time as giving away $65 billion to big business?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Turnbull, Malcolm, MP",LP,2018-02-06,"
+
+
+
+Mr TURNBULL
+ (Wentworth—Prime Minister) (14:02):  The Leader of the Opposition, as usual, is seeking to mislead us by talking about the level of company profits. The reality is the figure that he's using is one massively inflated by the commodities boom, a once-in-a-generation boom. The Treasurer will have more to say about that. What we need to focus on today is the fact that the Labor Party, which poses as the alternative government, has not one policy that would create one job or encourage one business to invest one dollar. The Leader of the Opposition wants to impose $165 billion of new taxes. He seems to think that, somehow or other, it would be good for employment if business owners are forced to pay more taxes. We know that more than half of Australia's workforce works for small and medium family businesses with a turnover of up to $50 million a year. They are not gigantic businesses.
+
+
+
+Opposition members interjecting—
+
+
+
+
+Mr TURNBULL:
+  You can hear the Labor benches scoffing at that. I say to the Leader of the Opposition that he should encourage his team to get out more and find out who the workers in their electorates actually work for. They're working for hardworking Australian-owned family businesses. They have been investing their earnings, their after-tax earnings, for years to grow their businesses and create more jobs. I was with one in Brisbane the other day, the Eckersley Print Group, a classic example of that.
+
+
+
+Opposition members interjecting—
+
+
+
+The SPEAKER:  The member for Griffith.
+
+
+
+
+Mr TURNBULL:
+  They are being encouraged by our small and medium enterprise tax cuts to do more of that, and they're responding. Last year, the Leader of the Opposition went to the National Press Club and said that this year, 2018, he was going to be talking about 'jobs, jobs, jobs'. Well, he didn't talk very much about it, other than his own job. But what we saw was 403,000 jobs created in Australia, three-quarters of them full time. The biggest contribution came from those small and medium family-owned businesses—Australian businesses. They are the very businesses that the Labor Party want to impose higher taxes on, and they claim to come here and say they're for jobs. What do they really think the response of a family-owned business, a small or medium business, is going to be when a Labor government imposes higher taxes? They'll cut back, and I tell you what: they'll cut back on jobs. We're for jobs. Labor's seeking to destroy them. (Time expired)
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
 "Smith, Tony, MP",LP,2018-02-06,"
 
 
@@ -64,7 +104,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Bowen, Chris, MP",ALP,2018-02-06,"
 
 
@@ -120,7 +160,7 @@ The Prime Minister would have more credibility when he talks about a personal in
 
 We welcome this debate. We'll debate tax anywhere the Treasurer likes. We'll debate tax anywhere the Prime Minister likes. We'll debate it in this chamber; we'll debate it in the other chamber; we'll debate it at the National Press Club; we'll debate it in town halls in regional Australia, because we have better plans. We actually understand the cost-of-living pressures on ordinary Australians. We don't say, 'Don't worry; it'll trickle down to you some day.' We don't say, 'Look after the top end of town, and the rest will be okay.' We say that those Australians who are working hard on weekends in cafes and in hospitals deserve not to have their wages cut, and they don't deserve a tax rise—both of those things that this Prime Minister wants to give them. The minister at the table is responsible for penalty rates. He should say to his electorate why he supports people in his electorate—and every other Australian who does so as well—being paid less when they work on the weekend, and why he is supporting increasing their tax at the same time. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Laundy, Craig, MP",LP,2018-02-06,"
 
 
@@ -254,7 +294,7 @@ Then there's the last piece of the puzzle, the piece that for me, as the new min
 
 The system is not broken. It is the unions that want more power. They want more access. In the party opposite, as I said, historically some genuinely right-wing, reforming and economically minded Labor politicians have managed to come up with sensible, centrist economic policy. I can say this loud and clear: those days are long gone. Those opposite are again being dragged so far to the left, under the guise that things are broken. It is their system. They put it in place between 2007 and 2009. It is working the way that it has worked, independent of government, for the past 10 years. It is making decisions that it considers on the basis of fact, with submissions from across the working portfolio, from employers to employees and from unions to employer organisations—you name it. You have the ability in this country to put your best foot forward in that commission. In the matters that are considered there, the decisions that are made are made in good faith by people, based on fact. However, over the past two to three years the facts haven't suited the union movement in this country. So what have they done? They have moved in and strongarmed a weak and feeble leader who is in need of their support to garner and save his own leadership. Formerly a member of the Right side of the party, he is a leader who has now worked so far Left away from everything that could arguably be named a significant Labor reform and has dragged them—some still with economic sense—kicking and screaming back to a place that this party hasn't seen historically. The time warp has gone back to the 1970s—a time that we have walked so far away from. The shadow Treasurer is today not at his 'zippiest'.  I get that, but I know why. It's because I don't believe his heart is in it.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "O'Toole, Cathy, MP",ALP,2018-02-06,"
 
 
@@ -277,7 +317,7 @@ The Turnbull government is doing nothing to stop the inequality or the cost-of-l
 
 While the Turnbull government prefer to be in their ivory towers in Sydney and Canberra, I'm out on the ground fighting for regional    Queenslanders. I know how hard it is for families to pay for their groceries when wages are stagnant, because I'm on the ground standing with workers, fighting for their wage increases and stopping the penalty rate cuts. I know how hard it is for pensioners to pay their electricity bills, and the effects of the Turnbull government's cut to the energy supplement, because I am on the ground meeting with pensioners and fighting for them, so they don't have to penny-pinch to pay their electricity bill. I'm on the ground fighting against the Turnbull government's $66 million outstanding bill to the Townsville Hospital and Health Service. I'm on the ground meeting with families and local organisations like the Upper Ross Community Centre about the detrimental impact of the Turnbull government's $14.8 million cuts to Herbert schools. Labor has always stood up for, fought for and delivered for the underdog. Only Labor has committed $100 million towards long-term water security infrastructure for Townsville, addressing our drought issues and jobs. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Gillespie, David, MP",Nats,2018-02-06,"
 
 
@@ -307,7 +347,7 @@ Dr GILLESPIE:
 
 We've given tax cuts to the average worker. We've addressed bracket creep. The Treasurer already announced over a year ago that tax brackets will be lifted about $7,000 to address that very thing for people in the second-lowest tax bracket. We have done many things to make housing more affordable. We've got a register of Commonwealth land that's available. We're making the grants to the states to improve housing affordability and reach KPIs. They don't just get the money: they have to deliver on housing supply targets. We've got a new Housing Finance and Investment Corp to give cheaper interest rates to low-cost housing providers. It goes on. We have made it easier for first home buyers with the Super Saver initiative. That means you can put up to $30,000 into your super account at a preferential rate to develop your first home deposit. We're letting downsizers, at the other end, make non-contributory $300,000 contributions if they downsize from their family home. So we're helping both ends of the spectrum, but the best thing we can do to make costs of living affordable is to keep people in a job, get more people in a job and make the economy stronger, and we're delivering in spades. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Hayes, Chris, MP",ALP,2018-02-06,"
 
 
@@ -327,7 +367,7 @@ Now we've got the government deciding to freeze the family tax benefit, but at t
 
 This is a government that has all its eggs in one basket: trickle-down economics. We shouldn't be too surprised about this, somehow. We have the advice coming from the Deputy Prime Minister: if you're in housing stress in Sydney, Brisbane or Melbourne, just sell up and move to Armidale—great advice from the Deputy Prime Minister! But just put this in economic terms. The Prime Minister made it very clear at the outset of his leadership, when talking about housing issues, that you need to have rich parents—at least rich like him. The then member for North Sydney, the then Treasurer, Joe Hockey, made it very clear: you just get a better job. Now we have a Deputy Prime Minister adding to the debate by simply saying, 'Get out of town.' That's great economic advice for people that are doing it tough! What it shows is that they don't care. We see the real value of people's pay packets going down. Things like electricity and private health are skyrocketing. We're in a housing affordability crisis, household debt is at record levels, and we have record underemployment and job insecurity, and they are basking in the glory of trickle-down economics. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Buchholz, Scott, MP",LP,2018-02-06,"
 
 
@@ -356,7 +396,7 @@ During the six years of Labor government, electricity prices doubled. Federal an
 
 We're reducing pressures on housing affordability. There are clear differentiations as to which government is creating downward pressure on— (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Templeman, Susan, MP",ALP,2018-02-06,"
 
 
@@ -385,7 +425,7 @@ If you speak to people about the day-to-day grind you have to wonder why anyone 
 
 When there is this sort of gap between how much you earn and how much you spend just to cover the basics, I think the real damage is done in the area of health. In the Blue Mountains my upper-mountains constituents tell me that it is almost impossible to find a bulk-billing GP, unless you're a pensioner or have a health care card or a child. GPs have been absorbing the Liberals' ongoing Medicare freeze for five years under this government and they can't do it any longer. The rent's gone up and their staff's wages have gone up. So health is where people are being hit. The cost of living is not just costing people their pockets; it is costing them their health.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Broad, Andrew, MP",Nats,2018-02-06,"
 
 
@@ -417,7 +457,7 @@ The DEPUTY SPEAKER
 Mr Coulton
 ):  Before I call the member for McEwan, I might remind the member for Lalor that I have just checked the new seating plan and she is out of place. She might be disorderly if she is interjecting.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Mitchell, Rob, MP",ALP,2018-02-06,"
 
 
@@ -460,7 +500,7 @@ Mr ROB MITCHELL:
 
 We heard Treasurer Morrison today saying, 'There are greater times ahead.' Five years in government and all we've heard is, 'gonna, gonna, gonna'. The best way that we can help Australian families and Australian workers is to get rid of this mob opposite and put a government in that actually values people, not big businesses. They want to give big businesses like the banks a tax cut. We want to give them a royal commission. There are stark differences. We want to support people on low incomes. They want to crucify them. The choice is very clear. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Flint, Nicolle, MP",LP,2018-02-06,"
 
 
@@ -498,7 +538,7 @@ The DEPUTY SPEAKER
 Mr Coulton
 ):  Order! The discussion has concluded. 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Cost of Living</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Laming, Andrew, MP",LP,2018-02-06,"
 
 
@@ -506,7 +546,7 @@ Mr Coulton
 Mr LAMING
  (Bowman) (16:16):  I present the report of the Australian Parliamentary Delegation to the 63rd Annual Session of the NATO Parliamentary Assembly in Bucharest, Romania, from 7 to 9 October. I place on record my gratitude to our committee secretariat, Mr Richard Selth and Onu Palm, and my colleague in that delegation Mr Ross Hart, the member for Bass. 
 
-",HoR,<title>DELEGATION REPORTS</title>,"<title>Australian Parliamentary Delegation to the 63rd Annual Session of the NATO Parliamentary Assembly, Bucharest</title>",DELEGATION REPORTS,10,1
+",HoR,<title>DELEGATION REPORTS</title>,"<title>Australian Parliamentary Delegation to the 63rd Annual Session of the NATO Parliamentary Assembly, Bucharest</title>",DELEGATION REPORTS,10,1,speech
 "Giles, Andrew, MP",ALP,2018-02-06,"
 
 
@@ -517,7 +557,7 @@ Mr GILES
 
 In accordance with standing order 39(e) the report was made a parliamentary paper.
 
-",HoR,<title>COMMITTEES</title>,<title>Joint Standing Committee on Electoral Matters</title>,COMMITTEES,11,1
+",HoR,<title>COMMITTEES</title>,<title>Joint Standing Committee on Electoral Matters</title>,COMMITTEES,11,1,speech
 "Giles, Andrew, MP",ALP,2018-02-06,"
 
 
@@ -528,7 +568,7 @@ Mr GILES
 
 In accordance with standing order 39(e) the report was made a parliamentary paper.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,11,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,11,2,speech
 "Giles, Andrew, MP",ALP,2018-02-06,"
 
 
@@ -590,7 +630,7 @@ I think this is a really important point and it goes the nub of the issues which
 
 The Labor approach is not to say no to an extension of proposals such as these but to ask that the government properly interrogates them, having regard to the evidence and fundamentally to the lived experience of those affected. That's why I support the amendments foreshadowed by the member for Jagajaga. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1,speech
 "Katter, Bob, MP",AUS,2018-02-06,"
 
 
@@ -646,7 +686,7 @@ Now I'm going to switch subjects completely. When poker machines were introduced
 
 At the Buffalo Club in Mount Isa, where I spend a lot of my time, Bobby Jacobson said: 'I should never tell this story, you should be the last person I tell this to, but $3.2 million a year is sailing out of Mount Isa down the throats of the poker machines and into the hands of the government of Queensland.' That is for a town of 20,000 people. That's coming out of the pockets of the poorest people in that community. Bobby Leong, the prominent First Australian leader and long-term president of one of our best rugby league clubs there—I had the dishonour of sitting on the sideline when his brother scored against 11 tries against Cloncurry!—said— (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1,speech
 "Lamb, Susan, MP",ALP,2018-02-06,"
 
 
@@ -696,7 +736,7 @@ I mentioned before that in my electorate, down in Caboolture, we have a great ma
 
 This legislation, the Social Services Legislation Amendment (Cashless Debit Card) Bill 2017, needs sensible amendments, ones that of course I agree with, the ones that Labor has put forward. They ensure consultation. They will take a good hard look at the evidence and ensure that people who live in those communities that will be impacted by the introduction of a cashless debit card are consulted and that there is actually an appetite and a welcoming of this as a way of dealing with some of their community's issues.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1,speech
 "Claydon, Sharon, MP",ALP,2018-02-06,"
 
 
@@ -734,7 +774,7 @@ Regrettably, what we have before us in this House is, as I said, a very narrowly
 
 It is a great disappointment that we appear not to be learning from important lessons shown to us in the past. If there were terrific community support backing in these proposals, or if there were a body of strong evidence demonstrating the effectiveness of these proposals, that would be a different conversation for this House. There have been many alternative approaches put before the Senate inquiry. Regrettably, we're not exploring those in this House. We're not looking at different ways that you might look at increasing taxation on alcohol to assist with those. Again, a narrowly focused— (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1,speech
 "Howarth, Luke, MP",LP,2018-02-06,"
 
 
@@ -788,7 +828,7 @@ I have heard from other members here today that there's not enough consultation.
 
 This is a win-win situation. I say to members that if you don't vote for this, you are guilty of maintaining the status quo. Look carefully at what you support. I understand that members opposite don't always want to vote for what the government proposes, but this was supposed to be a bipartisan program that's meant to help Australians, the very people that we're elected to represent. I haven't heard any argument from those opposite. If anyone else gets up and talks about consultation again, give me a break, when I've just read out the statistics and the consultation that the member for Hinkler has taken in his electorate alone. I believe that if this goes through, people will thank us. If you have a gambling problem and you can only lose 20 per cent of your cash, and a couple of days later you've got 80 per cent left, I think they'll thank us. I'd ask members and senators to support this bill. 
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1,speech
 "Zappia, Tony, MP",ALP,2018-02-06,"
 
 
@@ -829,7 +869,7 @@ I turn to a second matter with respect to my concerns: it seems to me that the c
 
 If we want the best for these communities—and I suspect we all do, from both sides of this House—it would be wise to extend the trials that are currently underway in Ceduna and the Kimberley for another 12 months, because that would enable us, at the end of the 12 months, to not only more accurately evaluate the effect of those trials but also evaluate any unintended consequences that were not foreseen when the trials started. It's a cautionary approach. It makes sense. I see little advantage in moving onto two new sites when we still have more work to do in the existing sites where the trials are underway.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1,speech
 "Sharkie, Rebekha, MP",NXT,2018-02-06,"
 
 
@@ -885,7 +925,7 @@ In summary, the data seeking to track the outcomes of the trial are less than ro
 
 I do recognise that 12 months is too short a period for conclusive outcomes and impacts to be fully apparent. It is for that reason that NXT would support the bill to continue, with a limited extension for a 12-month period in its existing trial sites. This is supposed to be a trial, and I want to make it very clear to government that this is not ongoing, indefinite support of the existing sites. We need to get the data, and we need to get this right. However, I reiterate that the Nick Xenophon Team cannot support this bill in its current form until it can be conclusively determined with solid evidence that the cashless debit card is actually effective.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1,speech
 "Andrews, Karen, MP",LP,2018-02-06,"
 
 
@@ -903,7 +943,7 @@ The results of the trials are encouraging. It's reported that there is less publ
 
 The SPEAKER:  The question is that this bill be read a second time.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1,speech
 "Tehan, Dan, MP",LP,2018-02-06,"
 
 
@@ -920,7 +960,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Cashless Debit Card) Bill 2017</title>,BILLS,12,1,speech
 "Giles, Andrew, MP",ALP,2018-02-06,"
 
 
@@ -982,7 +1022,7 @@ I think this is a really important point and it goes the nub of the issues which
 
 The Labor approach is not to say no to an extension of proposals such as these but to ask that the government properly interrogates them, having regard to the evidence and fundamentally to the lived experience of those affected. That's why I support the amendments foreshadowed by the member for Jagajaga. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2,speech
 "Katter, Bob, MP",AUS,2018-02-06,"
 
 
@@ -1038,7 +1078,7 @@ Now I'm going to switch subjects completely. When poker machines were introduced
 
 At the Buffalo Club in Mount Isa, where I spend a lot of my time, Bobby Jacobson said: 'I should never tell this story, you should be the last person I tell this to, but $3.2 million a year is sailing out of Mount Isa down the throats of the poker machines and into the hands of the government of Queensland.' That is for a town of 20,000 people. That's coming out of the pockets of the poorest people in that community. Bobby Leong, the prominent First Australian leader and long-term president of one of our best rugby league clubs there—I had the dishonour of sitting on the sideline when his brother scored against 11 tries against Cloncurry!—said— (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2,speech
 "Lamb, Susan, MP",ALP,2018-02-06,"
 
 
@@ -1088,7 +1128,7 @@ I mentioned before that in my electorate, down in Caboolture, we have a great ma
 
 This legislation, the Social Services Legislation Amendment (Cashless Debit Card) Bill 2017, needs sensible amendments, ones that of course I agree with, the ones that Labor has put forward. They ensure consultation. They will take a good hard look at the evidence and ensure that people who live in those communities that will be impacted by the introduction of a cashless debit card are consulted and that there is actually an appetite and a welcoming of this as a way of dealing with some of their community's issues.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2,speech
 "Claydon, Sharon, MP",ALP,2018-02-06,"
 
 
@@ -1126,7 +1166,7 @@ Regrettably, what we have before us in this House is, as I said, a very narrowly
 
 It is a great disappointment that we appear not to be learning from important lessons shown to us in the past. If there were terrific community support backing in these proposals, or if there were a body of strong evidence demonstrating the effectiveness of these proposals, that would be a different conversation for this House. There have been many alternative approaches put before the Senate inquiry. Regrettably, we're not exploring those in this House. We're not looking at different ways that you might look at increasing taxation on alcohol to assist with those. Again, a narrowly focused— (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2,speech
 "Howarth, Luke, MP",LP,2018-02-06,"
 
 
@@ -1180,7 +1220,7 @@ I have heard from other members here today that there's not enough consultation.
 
 This is a win-win situation. I say to members that if you don't vote for this, you are guilty of maintaining the status quo. Look carefully at what you support. I understand that members opposite don't always want to vote for what the government proposes, but this was supposed to be a bipartisan program that's meant to help Australians, the very people that we're elected to represent. I haven't heard any argument from those opposite. If anyone else gets up and talks about consultation again, give me a break, when I've just read out the statistics and the consultation that the member for Hinkler has taken in his electorate alone. I believe that if this goes through, people will thank us. If you have a gambling problem and you can only lose 20 per cent of your cash, and a couple of days later you've got 80 per cent left, I think they'll thank us. I'd ask members and senators to support this bill. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2,speech
 "Zappia, Tony, MP",ALP,2018-02-06,"
 
 
@@ -1221,7 +1261,7 @@ I turn to a second matter with respect to my concerns: it seems to me that the c
 
 If we want the best for these communities—and I suspect we all do, from both sides of this House—it would be wise to extend the trials that are currently underway in Ceduna and the Kimberley for another 12 months, because that would enable us, at the end of the 12 months, to not only more accurately evaluate the effect of those trials but also evaluate any unintended consequences that were not foreseen when the trials started. It's a cautionary approach. It makes sense. I see little advantage in moving onto two new sites when we still have more work to do in the existing sites where the trials are underway.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2,speech
 "Sharkie, Rebekha, MP",NXT,2018-02-06,"
 
 
@@ -1277,7 +1317,7 @@ In summary, the data seeking to track the outcomes of the trial are less than ro
 
 I do recognise that 12 months is too short a period for conclusive outcomes and impacts to be fully apparent. It is for that reason that NXT would support the bill to continue, with a limited extension for a 12-month period in its existing trial sites. This is supposed to be a trial, and I want to make it very clear to government that this is not ongoing, indefinite support of the existing sites. We need to get the data, and we need to get this right. However, I reiterate that the Nick Xenophon Team cannot support this bill in its current form until it can be conclusively determined with solid evidence that the cashless debit card is actually effective.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2,speech
 "Andrews, Karen, MP",LP,2018-02-06,"
 
 
@@ -1295,7 +1335,7 @@ The results of the trials are encouraging. It's reported that there is less publ
 
 The SPEAKER:  The question is that this bill be read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2,speech
 "Perrett, Graham, MP",ALP,2018-02-06,"
 
 
@@ -1351,7 +1391,7 @@ With these comments, I commend the committee's report No. 1 of 2018 to the House
 
 Report made a parliamentary paper in accordance with standing order 39(e).
 
-",HoR,<title>COMMITTEES</title>,<title>Parliamentary Joint Committee on Human Rights</title>,COMMITTEES,13,1
+",HoR,<title>COMMITTEES</title>,<title>Parliamentary Joint Committee on Human Rights</title>,COMMITTEES,13,1,speech
 "Perrett, Graham, MP",ALP,2018-02-06,"
 
 
@@ -1407,7 +1447,7 @@ With these comments, I commend the committee's report No. 1 of 2018 to the House
 
 Report made a parliamentary paper in accordance with standing order 39(e).
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,13,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,13,2,speech
 "Bowen, Chris, MP",ALP,2018-02-06,"
 
 
@@ -1475,7 +1515,7 @@ But I do recommend this bill to the House. It is a good one. Of course, we could
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Banking Measures No. 1) Bill 2017</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Banking Measures No. 1) Bill 2017</title>,BILLS,14,1,speech
 "Prentice, Jane, MP",LP,2018-02-06,"
 
 
@@ -1489,7 +1529,7 @@ That the bill be referred to the Federation Chamber for further consideration.
 
 Question agreed to.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Banking Measures No. 1) Bill 2017</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Banking Measures No. 1) Bill 2017</title>,BILLS,14,1,speech
 "Bowen, Chris, MP",ALP,2018-02-06,"
 
 
@@ -1557,7 +1597,7 @@ But I do recommend this bill to the House. It is a good one. Of course, we could
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Bowen, Chris, MP",ALP,2018-02-06,"
 
 
@@ -1580,7 +1620,7 @@ What's the value in building this incinerator? We're told it will create jobs. B
 
 Blacktown Council is having a community forum at 12 pm on 17 February at Minchinbury Neighbourhood Centre, and I urge all the residents of Minchinbury, St Clair, Erskine Park and nearby areas to attend and let the state government know this isn't on.
 
-",HoR,<title>ADJOURNMENT</title>,<title>McMahon Electorate: Energy</title>,ADJOURNMENT,15,1
+",HoR,<title>ADJOURNMENT</title>,<title>McMahon Electorate: Energy</title>,ADJOURNMENT,15,1,speech
 "King, Catherine, MP",ALP,2018-02-06,"
 
 
@@ -1598,7 +1638,7 @@ Council knows that there were many other projects back in 2013 that were competi
 
 The city of Ballarat and we as its residents are the custodians of an extraordinary history. The city of Ballarat has been trying to divest itself of various versions of the Eureka Centre for many years. After having lobbied me, the council secured funding under a Labor government of $5 million and a further $5 million from the state. If they vote tomorrow night to abandon their commitment to MADE, it makes it very hard to treat future funding requests seriously. It will be a breach of faith with me and something I strongly caution counsellors against. We have to save the Eureka Centre.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Museum of Australian Democracy at Eureka</title>,CONSTITUENCY STATEMENTS,17,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Museum of Australian Democracy at Eureka</title>,CONSTITUENCY STATEMENTS,17,1,speech
 "Marino, Nola, MP",LP,2018-02-06,"
 
 
@@ -1651,7 +1691,7 @@ Ms MARINO:
 
 The people who live in our electorates take it very seriously when they get any form of communication claiming to be from a government agency. They take it seriously and they need to have confidence that that's who it's actually coming from. That's why this law is so important. We're committed to safeguarding the proper functioning of Australia's democracy—that's what this is about; it's not about anything other than safeguarding our democracy. Trust is so critical. Australian people need to have trust in the validity of communications from our Commonwealth bodies. After all, if you can't trust a Commonwealth body, who can you trust? That's what people say to me. They need to have that level of confidence, and we here are the guardians of that trust. That's why we take it so seriously, and we do, and why I'm very pleased to be speaking on this bill. This bill will strengthen public confidence in all such communications. Just as importantly, it will ensure that those who deliberately deceive the Australian public are ultimately captured by the law. What a great result that will be. I commend the minister for bringing the legislation to the House. It is important legislation. I commend the bill to the House. I'm pleased that my colleagues are here to support that endeavour.
 
-",HoR,<title>BILLS</title>,<title>Criminal Code Amendment (Impersonating a Commonwealth Body) Bill 2017</title>,BILLS,18,1
+",HoR,<title>BILLS</title>,<title>Criminal Code Amendment (Impersonating a Commonwealth Body) Bill 2017</title>,BILLS,18,1,speech
 "Wallace, Andrew, MP",LP,2018-02-06,"
 
 
@@ -1707,7 +1747,7 @@ The committee considers that impersonating or purporting to act on behalf of a C
 
 Everyone, with the exception of the Leader of the Opposition, would agree that we need this legislation, just as we need the Electoral and Other Legislation Amendment Act. We cannot allow a repeat of the outrageous dishonesty and deception that we saw in the 2016 election. We must act now. For that reason, I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Criminal Code Amendment (Impersonating a Commonwealth Body) Bill 2017</title>,BILLS,18,1
+",HoR,<title>BILLS</title>,<title>Criminal Code Amendment (Impersonating a Commonwealth Body) Bill 2017</title>,BILLS,18,1,speech
 "Porter, Christian, MP",LP,2018-02-06,"
 
 
@@ -1736,7 +1776,7 @@ Bill read a second time.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,<title>Criminal Code Amendment (Impersonating a Commonwealth Body) Bill 2017</title>,BILLS,18,1
+",HoR,<title>BILLS</title>,<title>Criminal Code Amendment (Impersonating a Commonwealth Body) Bill 2017</title>,BILLS,18,1,speech
 "Marino, Nola, MP",LP,2018-02-06,"
 
 
@@ -1789,7 +1829,7 @@ Ms MARINO:
 
 The people who live in our electorates take it very seriously when they get any form of communication claiming to be from a government agency. They take it seriously and they need to have confidence that that's who it's actually coming from. That's why this law is so important. We're committed to safeguarding the proper functioning of Australia's democracy—that's what this is about; it's not about anything other than safeguarding our democracy. Trust is so critical. Australian people need to have trust in the validity of communications from our Commonwealth bodies. After all, if you can't trust a Commonwealth body, who can you trust? That's what people say to me. They need to have that level of confidence, and we here are the guardians of that trust. That's why we take it so seriously, and we do, and why I'm very pleased to be speaking on this bill. This bill will strengthen public confidence in all such communications. Just as importantly, it will ensure that those who deliberately deceive the Australian public are ultimately captured by the law. What a great result that will be. I commend the minister for bringing the legislation to the House. It is important legislation. I commend the bill to the House. I'm pleased that my colleagues are here to support that endeavour.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2,speech
 "Wallace, Andrew, MP",LP,2018-02-06,"
 
 
@@ -1845,7 +1885,7 @@ The committee considers that impersonating or purporting to act on behalf of a C
 
 Everyone, with the exception of the Leader of the Opposition, would agree that we need this legislation, just as we need the Electoral and Other Legislation Amendment Act. We cannot allow a repeat of the outrageous dishonesty and deception that we saw in the 2016 election. We must act now. For that reason, I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2,speech
 "Porter, Christian, MP",LP,2018-02-06,"
 
 
@@ -1874,7 +1914,7 @@ Bill read a second time.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2,speech
 "Danby, Michael, MP",ALP,2018-02-06,"
 
 
@@ -1936,7 +1976,7 @@ Lastly, let me deal with the difficult topic of Barry's last years. His courage 
 
 I'm very proud that a group of us—his Praetorian Guard and former ministerial staff, led by Dr Sergio Sergi, Peter Conway, his son Adam and I—travelled to Goulburn to farewell Barry at his nursing home. He was compos mentis. It was a tearful farewell. He recognised all of us. He cried. We all cried. It was a great thing to do, just a few months before he passed. Barry Cohen, a big character and a big Australian. His memory is a blessing.
 
-",HoR,<title>CONDOLENCES</title>,"<title>COHEN, The Hon. Barry, AM</title>",CONDOLENCES,19,1
+",HoR,<title>CONDOLENCES</title>,"<title>COHEN, The Hon. Barry, AM</title>",CONDOLENCES,19,1,speech
 "Wicks, Lucy, MP",LP,2018-02-06,"
 
 
@@ -1959,7 +1999,7 @@ Even when, later in life, Barry began his battle with Alzheimer's, he continued 
 
 May I end with a reflection from Barry's son Stuart. He described his father as a fiercely passionate individual who did nothing by half measure: 'Nothing left undone. He never took a step back.' It's a beautiful tribute to a man who cared so much and gave so much. To his wife, Rae, and to his sons, I extend my deepest sympathy and thank him for his service to our community and our nation.
 
-",HoR,<title>CONDOLENCES</title>,"<title>COHEN, The Hon. Barry, AM</title>",CONDOLENCES,19,1
+",HoR,<title>CONDOLENCES</title>,"<title>COHEN, The Hon. Barry, AM</title>",CONDOLENCES,19,1,speech
 "McBride, Emma, MP",ALP,2018-02-06,"
 
 
@@ -1991,7 +2031,7 @@ Even after his time in public life had ended, Barry Cohen continued to make a co
 
 When we do find this cure, and we will, some small measure of credit must go to the late Barry Cohen for speaking out about the way it affected him and the way it affects so many others living with this condition. I extend my condolences and those of my family, particularly my mum, Barbara, and my father, Grant, to Barry's wife, Ray, and to his family and honour his contribution to the Australian parliament, the Australian people and the people of the Central Coast. May he rest in peace.
 
-",HoR,<title>CONDOLENCES</title>,"<title>COHEN, The Hon. Barry, AM</title>",CONDOLENCES,19,1
+",HoR,<title>CONDOLENCES</title>,"<title>COHEN, The Hon. Barry, AM</title>",CONDOLENCES,19,1,speech
 "Leeser, Julian, MP",LP,2018-02-06,"
 
 
@@ -2080,7 +2120,7 @@ In those extracts you get a sense of Barry's passion and his enormous gift with 
 
 Barry Cohen made an enormous contribution to his party, his community and his country, as a parliamentarian, a writer and an activist. We 're all poorer for his loss. I wish long life to his wife, Rae, and his sons, Stuart, Adam and Martin, and his broader family and to the member for Melbourne Ports, who is practically mishpocha. May his memory be a blessing. 
 
-",HoR,<title>CONDOLENCES</title>,"<title>COHEN, The Hon. Barry, AM</title>",CONDOLENCES,19,1
+",HoR,<title>CONDOLENCES</title>,"<title>COHEN, The Hon. Barry, AM</title>",CONDOLENCES,19,1,speech
 "Brodtmann, Gai, MP",ALP,2018-02-06,"
 
 
@@ -2115,7 +2155,7 @@ The history of the original concept of having a National Museum of Australia is 
 
 In closing, I just want to offer my condolences and the condolences of all Canberrans to Rae, Stuart, Adam, Martin and Barry's many, many friends right across Australia and throughout the world. As was said yesterday, he was a big character. He was a big presence. He created big memories. He had a big life. He was an extraordinary individual who I would have loved to have met. I look forward now to going over his writings and reading them, particularly his comments on the New South Wales Right—which I will very much look forward to—as a member of that esteemed establishment. We honour and thank Barry Cohen AM for his contribution to our nation, to our national capital and to our national institutions. Vale.
 
-",HoR,<title>CONDOLENCES</title>,"<title>COHEN, The Hon. Barry, AM</title>",CONDOLENCES,19,1
+",HoR,<title>CONDOLENCES</title>,"<title>COHEN, The Hon. Barry, AM</title>",CONDOLENCES,19,1,speech
 "Frydenberg, Josh, MP",LP,2018-02-06,"
 
 
@@ -2144,7 +2184,7 @@ Barry Cohen was an outstanding individual. He was decent. He was brave. He was h
 
 He is somebody who shared his views through his columns and his eight books and who has provided wisdom and insight for us here today. To his son Adam, in the chamber; to his mother, Rae; to Stuart; to Martin; to the extended family: you have so much to be proud of in Barry Cohen. I have so much to be proud of as a Jewish member of this parliament. Because we follow in his footsteps, we can learn from his example. And if we do him justice in this place, Australia will be the better for it. 
 
-",HoR,<title>CONDOLENCES</title>,"<title>COHEN, The Hon. Barry, AM</title>",CONDOLENCES,19,1
+",HoR,<title>CONDOLENCES</title>,"<title>COHEN, The Hon. Barry, AM</title>",CONDOLENCES,19,1,speech
 "Leigh, Andrew, MP",ALP,2018-02-06,"
 
 
@@ -2214,7 +2254,7 @@ Honourable members having stood in their places—
 
 The DEPUTY SPEAKER:  I thank the chamber.
 
-",HoR,<title>CONDOLENCES</title>,"<title>COHEN, The Hon. Barry, AM</title>",CONDOLENCES,19,1
+",HoR,<title>CONDOLENCES</title>,"<title>COHEN, The Hon. Barry, AM</title>",CONDOLENCES,19,1,speech
 "Frydenberg, Josh, MP",LP,2018-02-06,"
 
 
@@ -2228,7 +2268,7 @@ That further proceedings be conducted in the House.
 
 Question agreed to.
 
-",HoR,<title>CONDOLENCES</title>,"<title>COHEN, The Hon. Barry, AM</title>",CONDOLENCES,19,1
+",HoR,<title>CONDOLENCES</title>,"<title>COHEN, The Hon. Barry, AM</title>",CONDOLENCES,19,1,speech
 "Templeman, Susan, MP",ALP,2018-02-06,"
 
 
@@ -2275,4 +2315,62 @@ I would say to the minister: you have the power to immediately grant emergency h
 
 Let's be clear: the Hawkesbury was crying out for a new bridge. That's the reason this destruction is taking place. The Hawkesbury needs a new bridge, but it needs a bridge to bypass this Georgian gem and provide two things: a genuine traffic solution and the opportunity to revive and rejuvenate the unique history of Australia's colonial past.
 
-",HoR,<title>GRIEVANCE DEBATE</title>,<title>Macquarie Electorate: Thompson Square</title>,GRIEVANCE DEBATE,20,1
+",HoR,<title>GRIEVANCE DEBATE</title>,<title>Macquarie Electorate: Thompson Square</title>,GRIEVANCE DEBATE,20,1,speech
+"Butler, Terri, MP",ALP,2018-02-06,"
+
+
+
+Ms Butler
+  asked the Minister for Agriculture and Water Resources, in writing, on 23 October 2017:
+
+
+(1) Is it a fact that the Department of Home Affairs has a zero tolerance approach to exposure to fumigant gases in respect of inspections on containers and containerised goods.
+
+
+(2) Is it a fact that his department does not adopt a zero tolerance approach to exposure to fumigant gases in respect of such inspections; if so, why.
+
+
+(3) Is it a fact that until November 2016 his department had a work instruction for tail gates where the only protection from fumigant gas exposure was a '10-minute 2 metre' rule.
+
+
+(4) Is it a fact that in November 2016 his department implemented mandatory usage of photoionisation detectors (ie, gas reading meters); if so, is it a fact that those devices detect, but do not prevent, exposure to fumigant gases.
+
+
+(5) Do his department and the Department of Home Affairs have different approaches to managing the risk of exposure to fumigant gases when performing inspections on containers and containerised goods; if so, why.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Department of Home Affairs (Question No. 840)</title>,QUESTIONS IN WRITING,21,1,question
+"Littleproud, David, MP",Nats,2018-02-06,"
+
+
+
+Mr Littleproud:
+  hasprovided the following answer to the honourable member's question:
+
+
+(1) This question is a matter for the Minister for Home Affairs.
+
+
+(2) Consistent with its requirements under the Work Health and Safety Act 2011, the Department of Agriculture and Water Resources adopts a range of measures to control and manage the risk of workers from being exposed to the harmful effects of fumigant gases. 
+
+
+For example, containers are never opened or deconsolidated by departmental staff, and workers are prohibited from entering any import containers containing cargo.
+
+
+Workers are instructed not to approach a container immediately after the container door is opened (even if import documentation does not indicate that the container has been fumigated). As an additional level of protection, the department requires workers to use photoionisation detectors to detect and alert them to any residual traces of fumigant gases in their intended breathing space as they approach an opened container door. Workers are required to retreat from potentially hazardous areas, and to wait before testing the approach to the opened container door again. 
+
+
+(3) No.
+
+
+(4) The Department of Agriculture and Water Resources implemented mandatory usage of photoionisation detectors in December 2016. Photoionisation detectors detect gases such as fumigants and assist in the management of the risk of workers from being exposed to the harmful effects of fumigant gases. 
+
+
+(5) The approach of the Department of Agriculture and Water Resources in managing the risk of exposure to fumigant gases when performing inspections on containers and containerised goods can be found in the answers above. 
+
+
+Questions relating to the Department of Home Affairs are a matter for the Minister for Home Affairs. 
+
+
+ 
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Department of Home Affairs (Question No. 840)</title>,QUESTIONS IN WRITING,21,1,answer

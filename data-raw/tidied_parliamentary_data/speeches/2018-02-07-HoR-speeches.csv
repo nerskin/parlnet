@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2018-02-07,"
 
 
@@ -1026,7 +1026,7 @@ Other Members
 The Committee determined that consideration of this matter should continue on a future day.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,0,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,0,1,speech
 "Smith, Tony, MP",LP,2018-02-07,"
 
 
@@ -2054,7 +2054,7 @@ Other Members
 The Committee determined that consideration of this matter should continue on a future day.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,0,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,0,2,speech
 "Dutton, Peter, MP",LP,2018-02-07,"
 
 
@@ -2260,7 +2260,7 @@ They will also promote a range of law enforcement, national security and communi
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Identity-matching Services Bill 2018</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Identity-matching Services Bill 2018</title>,BILLS,1,1,speech
 "Taylor, Angus, MP",LP,2018-02-07,"
 
 
@@ -2289,7 +2289,7 @@ In exchange for this, Indonesia has agreed to reduce the tariff applied to Austr
 
 Debate adjourned.
 
-",HoR,<title>TARIFF PROPOSALS</title>,<title>Customs Tariff Proposal (No. 1) 2018</title>,TARIFF PROPOSALS,2,1
+",HoR,<title>TARIFF PROPOSALS</title>,<title>Customs Tariff Proposal (No. 1) 2018</title>,TARIFF PROPOSALS,2,1,speech
 "Mitchell, Rob (The DEPUTY SPEAKER)",ALP,2018-02-07,"
 
 
@@ -2300,7 +2300,7 @@ The DEPUTY SPEAKER
 Mr Rob Mitchell
 ) (10:37):  The Speaker has received advice from the Chief Government Whip nominating members to be members of the Standing Committee on Social Policy and Legal Affairs.
 
-",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,4,1
+",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,4,1,speech
 "Ciobo, Steven, MP",LP,2018-02-07,"
 
 
@@ -2315,7 +2315,7 @@ That Ms Henderson and Ms Ley be discharged from the Standing Committee on Social
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,4,1
+",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,4,1,speech
 "Mitchell, Rob (The DEPUTY SPEAKER)",ALP,2018-02-07,"
 
 
@@ -2326,7 +2326,7 @@ The DEPUTY SPEAKER
 Mr Rob Mitchell
 ) (10:37):  The Speaker has received advice from the Chief Government Whip nominating members to be members of the Standing Committee on Social Policy and Legal Affairs.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,4,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,4,2,speech
 "Ciobo, Steven, MP",LP,2018-02-07,"
 
 
@@ -2341,7 +2341,7 @@ That Ms Henderson and Ms Ley be discharged from the Standing Committee on Social
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,4,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,4,2,speech
 "Fitzgibbon, Joel, MP",ALP,2018-02-07,"
 
 
@@ -2481,7 +2481,7 @@ Dr Leigh:
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Imported Food Control Amendment Bill 2017</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Imported Food Control Amendment Bill 2017</title>,BILLS,5,1,speech
 "Keenan, Michael, MP",LP,2018-02-07,"
 
 
@@ -2495,7 +2495,7 @@ That the Imported Food Control Amendment Bill 2017 be referred to the Federation
 
 Question agreed to.
 
-",HoR,<title>BILLS</title>,<title>Imported Food Control Amendment Bill 2017</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Imported Food Control Amendment Bill 2017</title>,BILLS,5,1,speech
 "Fitzgibbon, Joel, MP",ALP,2018-02-07,"
 
 
@@ -2635,7 +2635,7 @@ Dr Leigh:
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Hill, Julian, MP",ALP,2018-02-07,"
 
 
@@ -2646,7 +2646,7 @@ Mr HILL
 
 Trish's compassion and energy are palpable and shine through whenever you meet her. It is typical, when Trish received this award, that the first thing she did was acknowledge the work of others and the other volunteers, but I congratulate Trish Keilty and the team at Avocare, and urge them to keep up the work.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,"<title>Keilty, Ms Patricia 'Trish'</title>",STATEMENTS BY MEMBERS,6,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,"<title>Keilty, Ms Patricia 'Trish'</title>",STATEMENTS BY MEMBERS,6,1,speech
 "Smith, Tony, MP",LP,2018-02-07,"
 
 
@@ -2654,7 +2654,7 @@ Trish's compassion and energy are palpable and shine through whenever you meet h
 The SPEAKER
  (14:01):  I inform the House that today I issued a writ for the election of a member to serve for the electoral division of Batman, in the state of Victoria, to fill the vacancy caused by the resignation of David Feeney. The dates in connection with the by-election are fixed as follows: close of rolls, Wednesday, 14 February 2018; close of nominations, Thursday, 22 February 2018; date of polling, Saturday, 17 March 2018; return of writ, on or before Friday, 18 May 2018.
 
-",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Batman Electorate</title>,PARLIAMENTARY REPRESENTATION,7,1
+",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Batman Electorate</title>,PARLIAMENTARY REPRESENTATION,7,1,speech
 "Smith, Tony, MP",LP,2018-02-07,"
 
 
@@ -2662,7 +2662,7 @@ The SPEAKER
 The SPEAKER
  (14:01):  I inform the House that today I issued a writ for the election of a member to serve for the electoral division of Batman, in the state of Victoria, to fill the vacancy caused by the resignation of David Feeney. The dates in connection with the by-election are fixed as follows: close of rolls, Wednesday, 14 February 2018; close of nominations, Thursday, 22 February 2018; date of polling, Saturday, 17 March 2018; return of writ, on or before Friday, 18 May 2018.
 
-",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Issue of Writ</title>,PARLIAMENTARY REPRESENTATION,7,2
+",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Issue of Writ</title>,PARLIAMENTARY REPRESENTATION,7,2,speech
 "Turnbull, Malcolm, MP",LP,2018-02-07,"
 
 
@@ -2679,7 +2679,7 @@ Ron was honorary federal treasurer of the Liberal Party. As his successor in tha
 
 When Ron was diagnosed with cancer and given months to live, he railed against that fate. 'I don't want to die. I still have things to do,' he said. He found an experimental but very costly treatment in the United States—and it worked. His refusal to lie down brought another six years in which to do all those things he had wanted to do—and one of those was to ensure that everyone had access to the same cancer treatment he did. His advocacy was tireless, right up until the drug was listed on the PBS in 2015. It revealed a side of Ron that he didn't advertise widely—an understanding that with great wealth came a duty to those who are not so fortunate. There are many, many examples of his philanthropy that the public will never know. I place on record the acknowledgement and thanks of this parliament and our nation for his lifetime of service. To his wife, Barbara, and their family, I offer the heartfelt sympathy of the parliament and the nation.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Walker, Mr Ronald Joseph, AC, CBE</title>",CONDOLENCES,8,1
+",HoR,<title>CONDOLENCES</title>,"<title>Walker, Mr Ronald Joseph, AC, CBE</title>",CONDOLENCES,8,1,speech
 "Shorten, Bill, MP",ALP,2018-02-07,"
 
 
@@ -2705,7 +2705,7 @@ When Ron first fought and beat cancer in 2012, he said, 'I didn't want to die. I
 
 Today we can say with certainty that he loved his family, he lived life to the full and he had done more than enough for his city, for others and for our nation. May he rest in peace.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Walker, Mr Ronald Joseph, AC, CBE</title>",CONDOLENCES,8,1
+",HoR,<title>CONDOLENCES</title>,"<title>Walker, Mr Ronald Joseph, AC, CBE</title>",CONDOLENCES,8,1,speech
 "Pyne, Christopher, MP",LP,2018-02-07,"
 
 
@@ -2719,7 +2719,7 @@ That further statements in relation to the death of Ronald Joseph Walker AC CBE 
 
 Question agreed to.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Walker, Mr Ronald Joseph, AC, CBE</title>",CONDOLENCES,8,1
+",HoR,<title>CONDOLENCES</title>,"<title>Walker, Mr Ronald Joseph, AC, CBE</title>",CONDOLENCES,8,1,speech
 "Pyne, Christopher, MP",LP,2018-02-07,"
 
 
@@ -2733,7 +2733,117 @@ That further statements in relation to the death of Ronald Joseph Walker AC CBE 
 
 Question agreed to.
 
-",HoR,<title>CONDOLENCES</title>,<title>Reference to Federation Chamber</title>,CONDOLENCES,8,2
+",HoR,<title>CONDOLENCES</title>,<title>Reference to Federation Chamber</title>,CONDOLENCES,8,2,speech
+"Shorten, Bill, MP",ALP,2018-02-07,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:11):  My question is to the Prime Minister. The Productivity Commission has found that the government's intervention in the housing sector delivers a windfall gain for banks. Up to half of this gain is paid for by taxpayers, as interest on investment loans is tax deductible. Therefore, Prime Minister, by refusing to reform negative gearing, isn't the government giving banks an annual bonus of half a billion dollars of taxpayers' money? When will the Prime Minister put people ahead of the big banks?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Negative Gearing</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"Turnbull, Malcolm, MP",LP,2018-02-07,"
+
+
+
+Mr TURNBULL
+ (Wentworth—Prime Minister) (14:12):  The parliament has just passed the Banking Executive Accountability Regime, which is holding banking executives to account—an initiative of this government. Labor never did it. And, of course, we've imposed a major bank levy, which has made an important contribution to bringing the budget back into balance.
+
+
+Let me start with what the honourable member said about negative gearing. When Labor first proposed their utterly unfair and discriminatory ban on people earning wages, salaries or professional income from offsetting that against net rental or business losses, they said this was all about bringing down the price of housing, which was too high. That is what they said it was all about. Now they say it wouldn't affect the price of housing at all. 
+
+
+
+An opposition member interjecting—
+
+
+
+
+Mr TURNBULL:
+  He says, 'No, they don't.' They do. Only one per cent, I think, they said—barely a ripple, they are proposing. What the Labor Party is proposing in its ban on negative gearing is the most ill-thought-out tax grab you can imagine.
+
+
+For our part, we have no doubt that it would hit the housing market with a sledgehammer, with very, very negative consequences. But let's leave opinions on the value of real estate to one side. Let's look at how Labor discriminate against the very people they claim to represent. More than two-thirds of the people who file negative gearing claims are middle-income Australians: nurses, teachers and policemen.
+
+
+
+Opposition members interjecting—
+
+
+
+
+Mr TURNBULL:
+  You can hear the Labor Party sneering about it—scoffing and scorning. That is where most of the negative gearing claims are made. And who, under Labor's plan, will be able to continue to offset net business losses? Who will be able to continue negative gearing? Not the wage earner, not the salary earner, not the professional person—no policemen, no teachers. Who will be doing it? Wealthy people with large investment incomes. So, the very people Labor claims to champion they are abandoning, and the people they claim to be taking on are the ones who will benefit from the market, from the greater opportunities afforded by yet another ill-thought Labor policy. They're such hopeless generals they can't even manage a class war. (Time expired)
+
+
+
+Mr Rob Mitchell interjecting—
+
+
+
+The SPEAKER:  The member for McEwen will find it hard to stay in the chamber if he keeps interjecting. I refer him to his several warnings yesterday.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Negative Gearing</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
+"Christensen, George, MP",Nats,2018-02-07,"
+
+
+
+Mr CHRISTENSEN
+ (Dawson) (14:30):  My question is to the Deputy Prime Minister and Minister for Infrastructure and Transport. Will the Deputy Prime Minister outline to the House how the government's investment of $75 billion in infrastructure for regional and metropolitan Australia is driving job opportunities for hardworking Australians? Is he aware of any threats to those job opportunities across Australia?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Infrastructure</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Joyce, Barnaby, MP",Nats,2018-02-07,"
+
+
+
+Mr JOYCE
+ (New England—Deputy Prime Minister, Minister for Infrastructure and Transport and Leader of The Nationals) (14:30):  I thank the honourable member for his question and note his advocacy not only for infrastructure projects in the seat of Dawson but also for such things as the sugar code in the cane industry. It's obviously of great importance that we see the investment that's happening in the seat of Dawson. For MackayRing Road stage 1, there is close to half a billion dollars and 34 jobs. For the pavement widening from Bowen to St Lawrence, there is another $12 million. The Haughton River Floodplainupgrade, which we are currently discussing with the member for Dawson, is well in excess of half a billion dollars. The Vantassel Street toCludin Street duplication, the Sandy Gully Bridge upgrade, the Yellow Gin Creek bridge upgrade, the Sandy Corner to Collinsons Lagoon realignment and raising—close to $1.3 billion of capital investment in the seat of Dawson. I would like to acknowledge the hard work that the member for Dawson has done in bringing about more than 1,700 jobs to his area in this Bruce Highway upgrade.
+
+
+Of course, the Bruce Highway upgrade in itself is a multiple-billion-dollar investment in our nation—$8.5 billion will be the total cost. It goes towards a vision for this nation that goes beyond the seat of Dawson. Our vision is to have a sealed road for the capacity of the traffic that travels along it from the top of Cape York to the bottom of Victoria. This is more than just a pipedream. On the Peninsula Development Road, we've sealed close to 400 kilometres of that 600-kilometre route. We acknowledge that there is still in excess of 400 kilometres of dirt road that goes north from Weipa. We also see the work we are doing on the Midland Highway in Tasmania.
+
+
+This is a government with a vision for our nation. We know that with good infrastructure come jobs and the development of our nation. Likewise we have a vision that goes from the north-east to the south-west, with such things as the upgrade of the Outback Way. With a combination of beef roads and the $100 million investment in the section between Laverton and Winton, we can have the capacity of a sealed road that goes from Cairns down to Perth. This gives us the capabilities in the future to further open up the mineral precincts around Laverton and also to create an intermodal hub at Alice Springs, bringing further economic growth there.
+
+
+I think it is incredibly important that this nation has a vision for these forms of infrastructure projects. It is imperative, if we are to develop this nation away from its crescent form, which goes from Brisbane around to Adelaide, that we have the infrastructure projects such as the upgrade of the Bruce Highway, such as the upgrade of the Pacific Highway, such as the Outback Way connecting Winton to Laverton, creating the first sealed road across our nation, and such as the Inland Rail. That is the form of infrastructure that takes our nation to a higher level.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Infrastructure</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
+"Entsch, Warren, MP",LP,2018-02-07,"
+
+
+
+Mr ENTSCH
+ (Leichhardt) (14:43):  My question is to the Minister for Trade, Tourism and Investment. Will the minister outline to the House the benefits of the Trans-Pacific Partnership, and what this agreement means to the nation's economic growth and the creation of jobs for hardworking Australians? Is the minister aware of any risks to these benefits?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Trans-Pacific Partnership Agreement</title>,QUESTIONS WITHOUT NOTICE,13,1,question
+"Ciobo, Steven, MP",LP,2018-02-07,"
+
+
+
+Mr CIOBO
+ (Moncrieff—Minister for Trade, Tourism and Investment) (14:44):  I thank the member for Leichhardt for his ongoing interest in the TPP 11 and what this government's been able to achieve in terms of trade deals. His interest builds on the interest of many members on this side—in fact, all members on this side—who are committed to opening up export markets for Australia and making sure, as a direct consequence, we drive economic growth and, importantly, jobs. The member for Leichhardt can be justifiably proud of some outstanding examples of export success from his electorate. For example, crocodile leather from the member for Leichhardt's electorate is used to create Hermes bags—iconic bags.
+
+
+
+An opposition member interjecting—
+
+
+
+
+Mr CIOBO:
+  There'd be quite a lot on your side with Hermes bags; make no mistake about that! But this speaks to the fact that Australian exporters are stepping up to the plate in global value chains and making sure that they are at the forefront. That's part of the reason why as a government we are so steadfastly committed to opening up trade export opportunities. But it's not just our word that people can take for granted; it's the fact that, for example, the CEO of the National Farmers' Federation, Tony Mahar, said of the TPP 11:
+
+
+It has great potential to drive job-creating growth across the Australian economy.
+
+
+This is a sentiment that we're hearing right around the country. The Minerals Council of Australia said of the TPP 11 that it will 'help ease cost-of-living pressures on Australian consumers'. That's what this government stands for: creating economic growth, driving jobs and easing the cost-of-living pressures for Australian families. And we will continue to deliver on that.
+
+
+Over the last two days, I've spoken about how the Australian Labor Party stands in the way of good trade deals. We know they get the big calls wrong on trade. The Leader of the Opposition and the shadow trade minister both said the TPP 11 was dead. We heard Ged Kearney, Labor's candidate in Batman, making comments like some kind of rabid Green about how the TPP 11 was going to be bad. The fact is that anti-trade rhetoric from the Australian Labor Party is endemic. Just in January of this year, we heard this: 'The Turnbull government's latest Trans-Pacific trade deal will bring us closer to having the status of a Third World economy.' That is the comment from the president of the AMWU and former president of the Queensland Labor Party. The fact is that Labor's loony-Left, anti-trade rhetoric isn't just confined to winning a by-election; it runs deep in the veins of the Australian Labor Party. It's the reason why they field loony-Left candidates like Ged Kearney. It's the reason they get the big calls wrong on trade. It's the reason why the Australian people know that they can't trust this Leader of the Opposition or Labor to get the trade calls right, because Labor won't— (Time expired)
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Trans-Pacific Partnership Agreement</title>,QUESTIONS WITHOUT NOTICE,13,1,answer
 "Pyne, Christopher, MP",LP,2018-02-07,"
 
 
@@ -2747,7 +2857,7 @@ That the resolution of appointment of the House Select Committee on Regional Dev
 
 Question agreed to. 
 
-",HoR,<title>COMMITTEES</title>,<title>Select Committee on Regional Development and Decentralisation</title>,COMMITTEES,15,1
+",HoR,<title>COMMITTEES</title>,<title>Select Committee on Regional Development and Decentralisation</title>,COMMITTEES,15,1,speech
 "Pyne, Christopher, MP",LP,2018-02-07,"
 
 
@@ -2761,7 +2871,7 @@ That the resolution of appointment of the House Select Committee on Regional Dev
 
 Question agreed to. 
 
-",HoR,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,15,2
+",HoR,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,15,2,speech
 "Lamb, Susan, MP",ALP,2018-02-07,"
 
 
@@ -2799,7 +2909,7 @@ In December last year I voted yes to end uncertainty this parliament had over a 
 
 The simple fact is that not all families look like the Australian version of Little House on the Prairie, let me tell you. In fact, most don't. Families are complex, they face challenges and sometimes, just sometimes, for whatever reason they're just like mine. Thank you.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Member for Longman</title>,STATEMENTS ON INDULGENCE,16,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Member for Longman</title>,STATEMENTS ON INDULGENCE,16,1,speech
 "Smith, Tony, MP",LP,2018-02-07,"
 
 
@@ -2819,7 +2929,7 @@ I call upon those honourable members who approve of the proposed discussion to r
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Plibersek, Tanya, MP",ALP,2018-02-07,"
 
 
@@ -2891,7 +3001,7 @@ This extra funding is critical to our schools. It's this extra funding that has 
 
 And why are they doing it? This is the bit that really gets me. Why are they doing it? So they can give $65 billion of big business tax cuts that they hope will one day trickle down. Well, history has taught us something different, hasn't it—$65 billion of big business tax cuts straight to the pockets of overseas shareholders instead of properly funding our schools so that our kids get every assistance. We want every Australian child to get a great education. We want every Australian school to be a great school. And it is appalling that those opposite have cut $2.19 billion this year and next year from our schools. The cuts hit public schools and Catholic schools the hardest And what are those opposite doing? They are still defending it. They are not even embarrassed. They should go and face their school communities and explain themselves.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Andrews, Karen, MP",LP,2018-02-07,"
 
 
@@ -2923,7 +3033,7 @@ We are now in a position where, because of that, we have a significant issue in 
 
 That is only a small snapshot of some of the work that needs to be done in vocational education, but some of that work is so needed because of the damage that the Labor Party did to vocational education when it was last in government. So the coalition government has put a lot of time, effort and resources into making sure that we look at the education system as a whole. As I indicated previously, I believe the work that Senator Birmingham has done has been truly outstanding. He has looked at education as a whole. He has done a lot of work in the school space in particular. The announcements that he has made will address the funding issues—will get rid of the 27 deals that Labor put in place that distorted the funding to the various sectors of school education. He has dealt with that. He has come up with a proposal. He has engaged with David Gonski to make sure that the funding that has been put in is going to be well used into the future.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Rishworth, Amanda, MP",ALP,2018-02-07,"
 
 
@@ -2943,7 +3053,7 @@ I was surprised about the way that the Nick Xenophon Team voted, because they sa
 
 This is what we are facing here. We are facing a Liberal government that teams up with the crossbench to cut money from South Australian schools. In this state election, the issue of education should come up, and voters should very clearly think about which party will be best for South Australian schools. Who will stand up to Canberra and this Liberal government to fight for South Australian schools—not come in here and cut $210 million from our schools? Every school is affected. In fact, 86 per cent of public schools will be affected. The government needs to be held to account. This cut will hurt schools, it will hurt children and it will hurt families. 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Laming, Andrew, MP",LP,2018-02-07,"
 
 
@@ -2966,7 +3076,7 @@ The education debate is about a globalising workforce. It's about a digitally en
 
 While we have that party over there, where the only thing they know about education is when the next P&C meeting is, we will never have a debate about quality. While you're worried about the South Australian election, you'll never engage in this big picture. So listen, I urge you, to the Association of Independent Schools of New South Wales chief executive, who said it's time to stop the bickering. It's time for the Labor Party to stop egging on parts of Catholic education to complain about cuts when they know overall, when leaders within Catholic education know and independent schools know as well, as does the rest of Australia, that there are nothing but massive education funding increases for this nation. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Champion, Nick, MP",ALP,2018-02-07,"
 
 
@@ -2983,7 +3093,7 @@ Being raised in a country town, I can tell you something. The one thing they dis
 
 We know there's an election, and we know that a new politics is being offered by St Nick of Hartley. But let me tell you something: a vote for SA-BEST, a vote for the Nick Xenophon Team, is a worthless vote, because he'll say one thing before an election—he'll do anything: any media stunt, anything to get his head on TV; he'll say and do anything with any stakeholder—and then after the election he'll do dirty deals with the Liberal Party, because deep down he's a Liberal. He's just got a grudge against the local Liberal Party, who wouldn't let him into Adelaide's student union many moons ago.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Sudmalis, Ann, MP",LP,2018-02-07,"
 
 
@@ -3006,7 +3116,7 @@ For students with a disability, there'll be an increase of about $22.7 million f
 
 Australia is now amongst the highest investors in school education in the OECD. The most important aspect of education is, of course, investment. But the most recent research is that teachers must be part of the formula for better educational outcomes. I know—I was one. The rationalisation and nationalisation of increased funding is critical for our children. That's fact, not fantasy. Making sure the states and territories commit as well—that's critical, and it's fact, not fantasy. Making sure there's money to fund the investment is essential—that's fact, not fantasy.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Zappia, Tony, MP",ALP,2018-02-07,"
 
 
@@ -3029,7 +3139,7 @@ Because of these funding cuts, the schools will have little choice but to increa
 
 Labor will take this issue right through to the next election, because Labor members do care about education, and we oppose the position taken by this government. It's not just in schools. We go to our universities and we see billions of dollars cut there. We go to the TAFEs and we see some $3 billion cut there. Then we go to the education system more broadly and there's $17 billion of cuts there. Enough is enough, and this government's got its priorities wrong. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Evans, Trevor, MP",LP,2018-02-07,"
 
 
@@ -3083,7 +3193,7 @@ The same is true in South Australia. Mr Deputy Speaker Irons, what can you tell 
 
 In conclusion, these are the same old, tired lines from Labor—'misleading', as ABC Fact Check says. The only difference now is trying to link some of those lines to minor parties in South Australia. That's the only new bit here. I wonder: is something happening in South Australia soon, perhaps? It possibly suggests how poor Labor polling is in South Australia in the lead-up to the state election. I'm sure everybody noted how many of the Labor speakers here today were indeed from the state of South Australia. Well, sorry, Labor Party. I'm going to let the minor parties defend themselves, but I suspect they'll have some views quite similar to mine. All this episode shows is why the crossbenchers shouldn't trust Labor. It shows why South Australians and Queenslanders shouldn't trust Labor. It shows why teachers, parents and students shouldn't trust Labor. Their credibility on this issue of cuts is at an all-time low, like the boy who cried wolf.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Georganas, Steve, MP",ALP,2018-02-07,"
 
 
@@ -3109,7 +3219,7 @@ Henley High School in my electorate is suffering a cut of $1.2 million—the lar
 
 Cowandilla Primary School, which I'm very proud to say is my old primary school, will have $403,000 cut from it. It's a great school. We visited there recently with the Leader of the Opposition, Mr Bill Shorten. We looked at their STEM program, and some of the great work they're doing with young students. This is a school that has had, for many years, a great tradition of working with new arrivals—from kids that had come straight off the boat in the sixties, right through to today. This cut will have a massive effect on a school that needs every single cent to help it cope with students that have difficulties with learning and with many other things. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Gee, Andrew, MP",Nats,2018-02-07,"
 
 
@@ -3144,7 +3254,7 @@ The DEPUTY SPEAKER
 Mr Irons
 ):  The time allotted for this discussion has now concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Schools</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Georganas, Steve, MP",ALP,2018-02-07,"
 
 
@@ -3170,7 +3280,7 @@ The program was intended to look at how we could assist and what we are doing to
 
 It was also interesting to notice the connections that many people in Kiribati and in Tonga have to Australia through relatives, people-to-people contacts and the different agencies. One of the things that were highlighted in this delegation trip was the absolute necessity of the work that we do. We also saw how climate change is having a real effect there. It is affecting Kiribati today, as we speak, with rising seas. They've had to build seawalls. After a few years, those seawalls are gone and they have to build more seawalls. It was interesting to see that people were already being evacuated from Kiribati to Fiji because of climate change. One of the things that I took away from this delegation was the absolute necessity of Australian foreign aid to some of our closest neighbours. If we want a stable region, this aid is very important and should continue. 
 
-",HoR,<title>DELEGATION REPORTS</title>,<title>Australian Parliamentary Delegation to Kiribati and the Kingdom of Tonga</title>,DELEGATION REPORTS,18,1
+",HoR,<title>DELEGATION REPORTS</title>,<title>Australian Parliamentary Delegation to Kiribati and the Kingdom of Tonga</title>,DELEGATION REPORTS,18,1,speech
 "Irons, Steve (The DEPUTY SPEAKER)",LP,2018-02-07,"
 
 
@@ -3181,7 +3291,7 @@ The DEPUTY SPEAKER
 Mr Irons
 ) (16:33):  Mr Speaker has received advice that Senator Abetz has been appointed a member of the Parliamentary Joint Committee on Intelligence and Security.
 
-",HoR,<title>COMMITTEES</title>,<title>Parliamentary Joint Committee on Intelligence and Security</title>,COMMITTEES,20,1
+",HoR,<title>COMMITTEES</title>,<title>Parliamentary Joint Committee on Intelligence and Security</title>,COMMITTEES,20,1,speech
 "Irons, Steve (The DEPUTY SPEAKER)",LP,2018-02-07,"
 
 
@@ -3192,7 +3302,7 @@ The DEPUTY SPEAKER
 Mr Irons
 ) (16:33):  Mr Speaker has received advice that Senator Abetz has been appointed a member of the Parliamentary Joint Committee on Intelligence and Security.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,20,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,20,2,speech
 "Sukkar, Michael, MP",LP,2018-02-07,"
 
 
@@ -3209,7 +3319,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Banking Measures No. 1) Bill 2017</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Banking Measures No. 1) Bill 2017</title>,BILLS,21,1,speech
 "Dick, Milton, MP",ALP,2018-02-07,"
 
 
@@ -3241,7 +3351,7 @@ The Commonwealth government commissioned a review into the National Partnership 
 
 I say this to the Prime Minister: on Monday, do not come in here and deliver a Closing the gap speech wanting a pat on the back. If the LNP and the coalition government are serious about closing the gap, the Prime Minister and this government cannot walk away from basic human rights like access to safe and secure housing.
 
-",HoR,<title>ADJOURNMENT</title>,<title>National Partnership on Remote Housing</title>,ADJOURNMENT,22,1
+",HoR,<title>ADJOURNMENT</title>,<title>National Partnership on Remote Housing</title>,ADJOURNMENT,22,1,speech
 "Rishworth, Amanda, MP",ALP,2018-02-07,"
 
 
@@ -3264,7 +3374,7 @@ So thank you to all those organisations, community groups, businesses and indivi
 
 I would also like to thank the local charities I partnered with for the amazing work they do: Junction Australia Christies Beach, AnglicareSA Beach Road, The Vines Uniting Church, Vinnies SA Noarlunga conference, Salvation Army Noarlunga and the RSPCA South Australia. They work all year round to make the lives of others better. (Time expired)
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Kingston Electorate: Christmas Appeal 2017</title>,CONSTITUENCY STATEMENTS,24,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Kingston Electorate: Christmas Appeal 2017</title>,CONSTITUENCY STATEMENTS,24,1,speech
 "Irons, Steve, MP",LP,2018-02-07,"
 
 
@@ -3317,7 +3427,7 @@ Furthermore, as articulated in my final point about the work schedule 5 will do,
 
 I'm confident these measures contained in this bill will ensure a more accountable banking system, a banking system which is strong and fair and one which hardworking Australians can rely upon. Again, I appreciate the support of those on the opposite side and look forward to hearing the member for Kingsford Smith's speech. Without further ado, I commend the bill to the House. 
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Banking Measures No. 1) Bill 2017</title>,BILLS,25,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Banking Measures No. 1) Bill 2017</title>,BILLS,25,1,speech
 "Thistlethwaite, Matt, MP",ALP,2018-02-07,"
 
 
@@ -3355,7 +3465,7 @@ Schedule 5 of the bill amends the credit act to introduce a number of reforms to
 
 In response to the 2015 Labor-led Senate inquiry, the Treasurer promised to progress changes to credit card laws in May 2016. Unfortunately, the Treasurer appeared to forget about this promise, and it took Labor politically and publicly pushing for these reforms to force them to reannounce the measures in the 2017 budget. Nevertheless, we welcome these measures, which will improve consumer protections in relation to credit cards. They are long overdue, and it's disappointing that consumers will have to wait until 2019 to get most of these new protections in place. I pity those who have been in the debt spiral and in the situation where they couldn't get out of some of these credit contracts in the meantime. Nonetheless, Labor does support this bill and the changes it makes, particularly to the rules around non-ADI lenders and bringing them under the gambit of APRA's supervisory jurisdiction when it comes to prudential regulations and ensuring stability in our lending practices, the lending market and, indeed, the changes to credit contracts, particularly making it easier for people to get out of credit cards that they are getting into a bad situation with. I commend this bill to the chamber.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Banking Measures No. 1) Bill 2017</title>,BILLS,25,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Banking Measures No. 1) Bill 2017</title>,BILLS,25,1,speech
 "Hammond, Tim, MP",ALP,2018-02-07,"
 
 
@@ -3413,7 +3523,7 @@ Sitting suspended from
 11:33
 
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Banking Measures No. 1) Bill 2017</title>,BILLS,25,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Banking Measures No. 1) Bill 2017</title>,BILLS,25,1,speech
 "Irons, Steve, MP",LP,2018-02-07,"
 
 
@@ -3466,7 +3576,7 @@ Furthermore, as articulated in my final point about the work schedule 5 will do,
 
 I'm confident these measures contained in this bill will ensure a more accountable banking system, a banking system which is strong and fair and one which hardworking Australians can rely upon. Again, I appreciate the support of those on the opposite side and look forward to hearing the member for Kingsford Smith's speech. Without further ado, I commend the bill to the House. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Thistlethwaite, Matt, MP",ALP,2018-02-07,"
 
 
@@ -3504,7 +3614,7 @@ Schedule 5 of the bill amends the credit act to introduce a number of reforms to
 
 In response to the 2015 Labor-led Senate inquiry, the Treasurer promised to progress changes to credit card laws in May 2016. Unfortunately, the Treasurer appeared to forget about this promise, and it took Labor politically and publicly pushing for these reforms to force them to reannounce the measures in the 2017 budget. Nevertheless, we welcome these measures, which will improve consumer protections in relation to credit cards. They are long overdue, and it's disappointing that consumers will have to wait until 2019 to get most of these new protections in place. I pity those who have been in the debt spiral and in the situation where they couldn't get out of some of these credit contracts in the meantime. Nonetheless, Labor does support this bill and the changes it makes, particularly to the rules around non-ADI lenders and bringing them under the gambit of APRA's supervisory jurisdiction when it comes to prudential regulations and ensuring stability in our lending practices, the lending market and, indeed, the changes to credit contracts, particularly making it easier for people to get out of credit cards that they are getting into a bad situation with. I commend this bill to the chamber.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Hammond, Tim, MP",ALP,2018-02-07,"
 
 
@@ -3562,7 +3672,7 @@ Sitting suspended from
 11:33
 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Byrne, Anthony, MP",ALP,2018-02-07,"
 
 
@@ -3588,7 +3698,7 @@ I really do regret having to stand up here today because it's a reminder of the 
 
 When I explained to him a number of years ago about how influential the book was, it was hard to get a copy so I chanced my arm. Joking about it I asked, 'You wouldn't have a copy?' For weeks he went searching for a copy he'd had in his archive, and then he turned up one day and said, 'I got a copy for you.' No big deal, no great fuss, just the man, his normal humble self. He gave me the book—it's a different iteration to this one—and he'd signed it, 'To a true believer'. I've still got that, and I posted it on the day that I found that Michael had passed. It was just the way he did it; he didn't have to do it and there was nothing in it for him but it was just a mark of the man, the calibre of the person. Like I said, the deepest regret I have is that I didn't have the chance to tell him what I thought about him as a journalist, so I'm going to use the parliamentary record. Michael: you were an incredibly fine human being. You were the best of what journalists represent. I was incredibly sad to see that you had stepped away, stepped aside and retired. I was excited about the fact that you were going to have a new chapter of your life open, and I'm absolutely crushed that that hasn't happened, and I think we are all the worse for it.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Gordon, Mr Michael</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Gordon, Mr Michael</title>",CONDOLENCES,26,1,speech
 "Frydenberg, Josh, MP",LP,2018-02-07,"
 
 
@@ -3617,7 +3727,7 @@ I think that is Michael Gordon to a tee.
 
 He had a broad range of interests: surfing, music and, of course, the Hawthorn Football Club. I know that he has left many friends behind, and we have heard passionately from them in the House, including from the Prime Minister and the Leader of the Opposition, but also from the member for McMillan, who knew him so very well. At this time, I pay my respects to Michael Gordon for a big life, for a good life and for one in which he made a real difference to people's lives. He will be sorely missed but remembered fondly and respectfully.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Gordon, Mr Michael</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Gordon, Mr Michael</title>",CONDOLENCES,26,1,speech
 "Leeser, Julian, MP",LP,2018-02-07,"
 
 
@@ -3646,7 +3756,7 @@ The overwhelming impression Gordon left—with both his byline and his presence�
 
 To his family—his wife, Robyn, his children, Scott and Sarah, his son-in-law, James, and his grandson, Harry—I offer my sincere condolences on the passing of a great Australian.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Gordon, Mr Michael</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Gordon, Mr Michael</title>",CONDOLENCES,26,1,speech
 "Giles, Andrew, MP",ALP,2018-02-07,"
 
 
@@ -3663,7 +3773,7 @@ As a political journalist, Michael wrote a large part of our recent past into hi
 
 All my best thoughts go to his family and those very many people who loved him dearly. Vale.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Gordon, Mr Michael</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Gordon, Mr Michael</title>",CONDOLENCES,26,1,speech
 "Broadbent, Russell, MP",LP,2018-02-07,"
 
 
@@ -3710,7 +3820,7 @@ When you talk about Michael's writing, which I loved, Michael's dad wrote the bo
 
 I just want to finish with this. At Harry's funeral, somebody said to me: 'You know, journalism's just a craft. You can learn it.' I said: 'I disagree. It's a gift. You've got it or you haven't got it.' Michael Gordon had it in spades. So, that's your grandfather, young Harry—he had his talent in spades.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Gordon, Mr Michael</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Gordon, Mr Michael</title>",CONDOLENCES,26,1,speech
 "O'Neil, Clare, MP",ALP,2018-02-07,"
 
 
@@ -3736,7 +3846,7 @@ I want Robyn, Scott and Sarah to know that much of our last conversation was abo
 
 I know I will miss his presence in the press gallery as he watched over question time. I used to look up at his face and I could see we were disappointing him every single day, but seeing him up there made me strive to do what we're trying to do better. I think others felt the same. There he sat, quietly, seriously, watching over affairs, seeing the parliament through its ups and downs over many decades and writing calm, serious, real journalism about the most important issues that confront our country. We are going to miss Michael Gordon, the man, and also his contribution to public life in this country. May he rest in peace.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Gordon, Mr Michael</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Gordon, Mr Michael</title>",CONDOLENCES,26,1,speech
 "Buchholz, Scott (The DEPUTY SPEAKER)",LP,2018-02-07,"
 
 
@@ -3747,7 +3857,7 @@ The DEPUTY SPEAKER
 Mr Buchholz
 ) (16:35):  For the benefit of Michael's family and descendants, I encourage them to take comfort in the honour that this House has bestowed upon him and the heartfelt memories that have been shared by both sides equally. Those comments haven't been shared by members of this House just for the benefit of each other; they've been shared for the benefit of the nation and for our country. We are all the beneficiaries of his work. We flatter him because his life was inviting. He was non-hostile and always seemed to be fair. I think the best way we can honour Michael is—it's so comforting to hear an accolade that we give to a journalist, but if we could have given that to him while he was here he would have blushed—maybe we can find those amongst us in the journalistic core that are also worthy of accolade and give that to them personally so they hear it. They will blush, but, when you do it, you will be honouring Michael. Vale.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Gordon, Mr Michael</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Gordon, Mr Michael</title>",CONDOLENCES,26,1,speech
 "Watts, Tim, MP",ALP,2018-02-07,"
 
 
@@ -3863,7 +3973,7 @@ The provisions in this bill represent a significant structural deterioration of 
 
 We should recall that when the Hawke-Keating government reduced corporate taxes they introduced a fringe benefits tax, they introduced a capital gains tax and they put an end to the bottom-of-the-harbour lurks and perks. They funded the corporate tax cut. In response to that, an editorial in The Australian in 1985 attacked Labor for class warfare and said the tax package which cut corporate taxes represented a bias against business. The Business Council of Australia labelled that government 'anti-business'. The more things change, the more they stay the same. Labor are committed to a taxation policy that doesn't do unfunded corporate tax cuts. We've looked at whether there are inefficiencies in the taxation system—negative gearing, super concessions and the taxation treatment of trusts—and we've acted responsibly on those fronts. We have a plan for the Australian economy, not an ideological blinker. 
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,27,1,speech
 "Wilson, Josh, MP",ALP,2018-02-07,"
 
 
@@ -3916,7 +4026,7 @@ This is a further act of profligacy. It probably goes one step further. This $65
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,27,1,speech
 "Watts, Tim, MP",ALP,2018-02-07,"
 
 
@@ -4032,7 +4142,7 @@ The provisions in this bill represent a significant structural deterioration of 
 
 We should recall that when the Hawke-Keating government reduced corporate taxes they introduced a fringe benefits tax, they introduced a capital gains tax and they put an end to the bottom-of-the-harbour lurks and perks. They funded the corporate tax cut. In response to that, an editorial in The Australian in 1985 attacked Labor for class warfare and said the tax package which cut corporate taxes represented a bias against business. The Business Council of Australia labelled that government 'anti-business'. The more things change, the more they stay the same. Labor are committed to a taxation policy that doesn't do unfunded corporate tax cuts. We've looked at whether there are inefficiencies in the taxation system—negative gearing, super concessions and the taxation treatment of trusts—and we've acted responsibly on those fronts. We have a plan for the Australian economy, not an ideological blinker. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
 "Wilson, Josh, MP",ALP,2018-02-07,"
 
 
@@ -4085,4 +4195,30 @@ This is a further act of profligacy. It probably goes one step further. This $65
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
+"Elliot, Justine, MP",ALP,2018-02-07,"
+
+
+
+Mrs Elliot
+  asked the Prime Minister, in writing, on 1 September 2016:
+
+
+Will the Government honour all 2016 election funding commitments promised to the electoral division of Richmond.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Richmond Electorate: Budget (Question No. 14)</title>,QUESTIONS IN WRITING,28,1,question
+"Turnbull, Malcolm, MP",LP,2018-02-07,"
+
+
+
+Mr Turnbull
+
+:  The answer to the honourable member's question is as follows:
+
+
+The Australian Government is honouring all its election commitments.
+
+
+ 
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Richmond Electorate: Budget (Question No. 14)</title>,QUESTIONS IN WRITING,28,1,answer

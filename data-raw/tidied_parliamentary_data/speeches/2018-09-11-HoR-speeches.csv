@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2018-09-11,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER
  (12:03):  I understand that it's the wish of the House to consider the amendments together.
 
-",HoR,<title>BILLS</title>,<title>Private Health Insurance Legislation Amendment Bill 2018</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>Private Health Insurance Legislation Amendment Bill 2018</title>,BILLS,2,1,speech
 "Hunt, Greg, MP",LP,2018-09-11,"
 
 
@@ -17,7 +17,7 @@ Mr HUNT
 
 That the amendments be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Private Health Insurance Legislation Amendment Bill 2018</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>Private Health Insurance Legislation Amendment Bill 2018</title>,BILLS,2,1,speech
 "King, Catherine, MP",ALP,2018-09-11,"
 
 
@@ -34,7 +34,7 @@ Again, here we have a government that has been so distracted by itself, so distr
 
 Question agreed to.
 
-",HoR,<title>BILLS</title>,<title>Private Health Insurance Legislation Amendment Bill 2018</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>Private Health Insurance Legislation Amendment Bill 2018</title>,BILLS,2,1,speech
 "Smith, Tony, MP",LP,2018-09-11,"
 
 
@@ -42,7 +42,7 @@ Question agreed to.
 The SPEAKER
  (12:03):  I understand that it's the wish of the House to consider the amendments together.
 
-",HoR,<title>BILLS</title>,<title>Consideration of Senate Message</title>,BILLS,2,2
+",HoR,<title>BILLS</title>,<title>Consideration of Senate Message</title>,BILLS,2,2,speech
 "Hunt, Greg, MP",LP,2018-09-11,"
 
 
@@ -53,7 +53,7 @@ Mr HUNT
 
 That the amendments be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Consideration of Senate Message</title>,BILLS,2,2
+",HoR,<title>BILLS</title>,<title>Consideration of Senate Message</title>,BILLS,2,2,speech
 "King, Catherine, MP",ALP,2018-09-11,"
 
 
@@ -70,7 +70,7 @@ Again, here we have a government that has been so distracted by itself, so distr
 
 Question agreed to.
 
-",HoR,<title>BILLS</title>,<title>Consideration of Senate Message</title>,BILLS,2,2
+",HoR,<title>BILLS</title>,<title>Consideration of Senate Message</title>,BILLS,2,2,speech
 "Keay, Justine, MP",ALP,2018-09-11,"
 
 
@@ -84,7 +84,59 @@ My electorate is the fastest-ageing electorate in the country, and the demand fo
 
 Tomorrow is the inaugural Thank You For Working In Aged Care Day, a day organised by the Health Services Union for their campaign, Our Turn To Care. I want to put on the record my sincere thanks to the hundreds and thousands of committed and passionate workers who look after and care for our elderly and loved ones. They are very dignified jobs.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Braddon Electorate: Aged Care</title>,STATEMENTS BY MEMBERS,3,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Braddon Electorate: Aged Care</title>,STATEMENTS BY MEMBERS,3,1,speech
+"Shorten, Bill, MP",ALP,2018-09-11,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:00):  My question is to the Prime Minister. I refer to his answers in question time yesterday. When asked last night if she had any idea at all why the government got rid of Malcolm Turnbull, the Deputy Leader of the National Party said, 'No.' Given the Prime Minister failed to answer this same question yesterday, can the Prime Minister now tell the Australian people and his colleagues why the government got rid of Malcolm Turnbull?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Liberal Party Leadership</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Morrison, Scott, MP",LP,2018-09-11,"
+
+
+
+Mr MORRISON
+ (Cook—Prime Minister) (14:01):  I didn't come to the leadership seeking to change it. There's someone else in this chamber who knows all about rolling leaders and putting knives in their backs, and that's the Leader of the Opposition. There is a litany of victims at the hands of the Leader of the Opposition, and they don't just extend to this place here; they extend to the workers he said he used to represent. This Leader of the Opposition is union-bred, union-fed and union-led. That's the Leader of the Opposition, who now wants to run this country like a union. That's what he proudly proclaims.
+
+
+I came to this position of leadership not seeking it, in support of the previous Prime Minister. My colleagues chose me to lead the party, to take charge when placed in command, and ensure that Australia continues to build an even stronger Australia under this government. This is a government, since we were elected five years ago under the member for Warringah and under the former member for Wentworth, that has been delivering for Australians. A new generation of leadership is taking up that mantle for the Liberal Party, and we are putting the bitterness of the past behind us. The Leader of the Opposition, the Leader of the Labor Party, has been bred, fed and led in a culture of union militancy that he wants to impose on the Australian people. He knows all about those issues. He's been running those sorts of shonky shows for years.
+
+
+
+Mr Husic interjecting—
+
+
+
+The SPEAKER:  The member for Chifley!
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Liberal Party Leadership</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Hartsuyker, Luke, MP",Nats,2018-09-11,"
+
+
+
+Mr HARTSUYKER
+ (Cowper) (14:18):  My question is to the Deputy Prime Minister and Minister for Infrastructure, Transport and Regional Development. Will the Deputy Prime Minister update the House on how the government's strong economic security agenda is prompting increased investment in regional communities and improved investment in local communities? Are there any risks to the government's plan for stronger regional communities?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"McCormack, Michael, MP",Nats,2018-09-11,"
+
+
+
+Mr McCORMACK
+ (Riverina—Deputy Prime Minister, Minister for Infrastructure,Transport and Regional Development and Leader of The Nationals) (14:19):  I thank the member for Cowper for his question. You can't have a strong economy without strong regions. Certainly, our regions are delivering for our country. They are delivering for our economy. We're making sure that we have jobs for Australians. A record number, 412,000, of jobs were created last year, not by government but by the small businesses, the family enterprises, the medium businesses and even the large businesses, who we back with our Ten Year Enterprise Tax Plan and who we back with the confidence and the entrepreneurship to get on with things.
+
+
+Ninety-five thousand young Australians got a job last year. How good is that? Ninety-five thousand young Australians got a job because of the policies of this government and small business being able to back them. That's why we back individuals with income tax cuts. That's why we back Cowper with a $971 million Coffs Harbour bypass. I didn't hear the member for Maribyrnong in his budget reply speech even talk about the Pacific Highway. There's also the Port Macquarie Airport expansion. We're getting on with the job of building for Cowper. There's the Tacking Point Lighthouse upgrade. These are worthy projects. They're making sure that the people of Cowper, the people of regional Australia, can get home sooner and safer.
+
+
+We compare our record with the record of those opposite. With mobile towers, did we have one mobile tower funded by those opposite? No; but more than 800 are being funded by the Liberals and Nationals. Again, there is the Coffs Harbour bypass—we've delivered that final passage, that final piece of the puzzle, in the Pacific Highway upgrade. Small businesses will have higher taxes under Labor. That's what Labor offers us. Regarding self-funded retirees, I know that a lot of people like to retire to the Port Macquarie and Coffs Harbour area. It's a fantastic area with fantastic weather. But those self-funded retirees will be smashed if the person opposite ever becomes Prime Minister, because Labor have a plan to steal the savings of those self-funded retirees. Shame on the member for Maribyrnong and shame on all those opposite for supporting him. The people of Cowper know that you can't trust Labour. They know that they can't trust Labor with their savings. The contrast could not be starker.
+
+
+Good economic management is good for regional Australia. It allows us to spend $1.405 million in regional programs, with many, many more underway. Whether it's the Building Better Regions Fund, the Regional Growth Fund or the Regional Jobs and Investment Packages, they're all funding initiatives that are helping regional Australia and helping regional Australians contribute to our economy. Those opposite stand for higher taxes and higher power prices. Union bred, union fed and union led—that's the member for Maribyrnong.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
 "Dutton, Peter, MP",LP,2018-09-11,"
 
 
@@ -92,7 +144,7 @@ Tomorrow is the inaugural Thank You For Working In Aged Care Day, a day organise
 Mr DUTTON
  (Dickson—Minister for Home Affairs) (15:12):  I wish to briefly add to an answer that I provided in question time. I made reference to an officer who is with the ADF who is working in my office. He's actually there as an adviser, not as a DLO. To be clear, he wasn't at the office at the time of the so-called Brisbane case. I think I stated that in my answer, but I'd like to make that clear to the honourable member.
 
-",HoR,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Minister for Immigration and Border Protection</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,7,1
+",HoR,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Minister for Immigration and Border Protection</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,7,1,speech
 "Smith, Tony, MP",LP,2018-09-11,"
 
 
@@ -103,7 +155,7 @@ The SPEAKER
 
 Document made a parliamentary paper in accordance with the resolution agreed to on 28 March 2018.
 
-",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 6 of 2018-19</title>,AUDITOR-GENERAL'S REPORTS,9,1
+",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 6 of 2018-19</title>,AUDITOR-GENERAL'S REPORTS,9,1,speech
 "Smith, Tony, MP",LP,2018-09-11,"
 
 
@@ -123,7 +175,7 @@ I call upon all honourable members who approve of the proposed discussion to ris
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Butler, Mark, MP",ALP,2018-09-11,"
 
 
@@ -161,7 +213,7 @@ We do know what we're going to get from this energy minister. We're going to get
 
 The Prime Minister, in a previous life, when he was Treasurer only a few weeks ago, recognised that policy uncertainty is the key driver of price rises in this country. He said in that 7.30 interview a few weeks ago, 'If you're not for the National Energy Guarantee, then you're for continued uncertainty which leads to higher prices.' Perhaps the stand-out sentence from this minister's first speech was that he wouldn't 'even try' to deliver policy certainty or investor certainty in the delivery of an essential service in a mixed economy that their party is largely responsible for privatising over the last quarter of a century—a complete abdication of government responsibility. This government is an absolute shambles on energy policy. It has cost another Prime Minister his job, but the most important thing is it's going to cost households and businesses much, much more on their power bills.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Taylor, Angus, MP",LP,2018-09-11,"
 
 
@@ -252,7 +304,7 @@ We know exactly what a 50 per cent renewable energy target will do, because we'v
 
 The contrast could not be clearer. We've taken action. We're securing better deals for 1.8 million households, and prices are coming down. We will not be distracted from our goal of getting power prices down for Australian households and businesses by motions like this.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Albanese, Anthony, MP",ALP,2018-09-11,"
 
 
@@ -275,7 +327,7 @@ What we've seen on energy is perhaps the worst of all of the infrastructure mode
 
 If you are going to get that certainty, you have to know what you stand for and you have to be prepared to take people with you. You have to be able to work collaboratively. For the former Prime Minister, Malcolm Turnbull, who's now in New York, even obscurity is better than trying to work with this mob opposite. And, if you know Malcolm Turnbull, that's really saying something. But for this minister to be given responsibility for this portfolio shows just how bereft those opposite are. We on this side of the House know that the future is renewables. We on this side of the House know that by driving down emissions you drive down prices. Supply and demand—when you increase the amount of supply in the energy sector through growth of renewables, you drive down prices. Those opposite talk about business. The fact is business wants certainty; business wants what those opposite have refused to give them. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Broad, Andrew, MP",Nats,2018-09-11,"
 
 
@@ -308,7 +360,7 @@ You may ask again what our plan is. It is prosperity. Our wages, by world standa
 
 I come here for the betterment of Australia, and I say to Australians that there is really only one side of this chamber that you can trust—and it is the coalition government. The coalition government will bring down power prices. The coalition government will not get caught up in some ideology to keep the Greens happy, to stop the erosion. The coalition government will bring power prices down. That is what we are taking to the people of Australia at the next election—and that is why we will still be here on this side of the chamber after the next election.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Conroy, Pat, MP",ALP,2018-09-11,"
 
 
@@ -340,7 +392,7 @@ The market has responded most emphatically. In the last month and a half, wholes
 
 What we have now is a government riven by divisions. We have a government that has an energy minister who is a climate change sceptic, who hates renewable energy and who doesn't want to provide certainty to the industry, and we have a second speaker who denies the science of climate change. It's no wonder they've given up. The great tragedy of this is it's not them who suffer or pay the price; it's the households in this country. Every single household in this country will pay higher power prices and will face higher emissions because this government has given up. They've given up because they are so hopelessly divided. History will condemn them—the Australian population, right now, is condemning them as a government that has given up governing and is just interested in fighting themselves.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Alexander, John, MP",LP,2018-09-11,"
 
 
@@ -357,7 +409,7 @@ We have some achievements in this sector that are making a real difference to ho
 
 As I said, we have already seen prices come down in Queensland, South Australia and New South Wales on 1 July. We are taking practical action to lower power prices: stopping the price gouging by energy companies, providing customers with a price safety net, backing investment in reliable generation, and encouraging more competition in the market. We have turned the corner on power prices. This will put more money in the pockets of families and small businesses in Bennelong, while the lights remain on.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Keay, Justine, MP",ALP,2018-09-11,"
 
 
@@ -386,7 +438,7 @@ Earlier today I had the privilege of speaking to young Indigenous people from ac
 
 The average small business customer under Labor will save up to $1,500 per year. But, most importantly, all consumers will benefit from increased transparency, simpler bills and downward pressure on prices. The choice is clear: Labor is for renewables and lower prices; the Liberals are for more chaos and higher prices.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Flint, Nicolle, MP",LP,2018-09-11,"
 
 
@@ -416,7 +468,7 @@ We know that the member for Port Adelaide is keen to introduce a 50 per cent ren
 
 This government, led by the Prime Minister, is absolutely committed to reducing power prices while keeping the lights on. We're taking practical action to lower power prices by stopping the price gouging by energy companies, by providing customers with a price safety net and by backing investment in reliable generation and encouraging more competition in the market. We have put pressure on retailers to simplify their offerings, which has resulted in more than 1.6 million households knowing that better deals are available to them. We're banning dodgy discounting practices, getting retailers to notify of price rises more quickly and speeding up meter installations to give back power to customers. These are hardworking Australians—mums and dads, retirees, hardworking small businesses—that this will benefit. My focus is on energy affordability and reliability for each and every person living in my electorate. That is what I will continue to fight for. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Stanley, Anne, MP",ALP,2018-09-11,"
 
 
@@ -445,7 +497,7 @@ Labor is still committed to 50 per cent renewables by 2030. What would this mean
 
 Political commentators in this country like to speak of energy policy as being a political football. Well, I was a rugby league referee for many years and I have never adjudicated a game like this. One team's members are constantly squabbling amongst themselves in the sheds, keep changing captains and are being coached by the likes of 2GB and Sky News. There is only one team on the field, one team listening to the people, and that's the Labor Party on this side of the House.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Evans, Trevor, MP",LP,2018-09-11,"
 
 
@@ -480,7 +532,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  The time allotted for the discussion has concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Hogan, Kevin (The DEPUTY SPEAKER)",Nats,2018-09-11,"
 
 
@@ -501,7 +553,7 @@ The House divided. [16:19]
 
 (The Speaker—Hon. Tony Smith)
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,12,1,speech
 "Fletcher, Paul, MP",LP,2018-09-11,"
 
 
@@ -518,7 +570,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,12,1,speech
 "Hogan, Kevin (The DEPUTY SPEAKER)",Nats,2018-09-11,"
 
 
@@ -539,7 +591,7 @@ The House divided. [16:19]
 
 (The Speaker—Hon. Tony Smith)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2,speech
 "Goodenough, Ian, MP",LP,2018-09-11,"
 
 
@@ -565,7 +617,7 @@ In Report 7 of 2018, the committee sought further information from the minister 
 
 I encourage my fellow members and others to examine the committee's latest scrutiny report to better inform their consideration of proposed legislation. With these comments, I commend the committee's Report 9 of 2018 to the chamber.
 
-",HoR,<title>COMMITTEES</title>,<title>Human Rights Committee</title>,COMMITTEES,13,1
+",HoR,<title>COMMITTEES</title>,<title>Human Rights Committee</title>,COMMITTEES,13,1,speech
 "Perrett, Graham, MP",ALP,2018-09-11,"
 
 
@@ -607,7 +659,7 @@ On a final note, I thank Prime Minister Morrison for agreeing to deliver a natio
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,<title>Human Rights Committee</title>,COMMITTEES,13,1
+",HoR,<title>COMMITTEES</title>,<title>Human Rights Committee</title>,COMMITTEES,13,1,speech
 "Goodenough, Ian, MP",LP,2018-09-11,"
 
 
@@ -633,7 +685,7 @@ In Report 7 of 2018, the committee sought further information from the minister 
 
 I encourage my fellow members and others to examine the committee's latest scrutiny report to better inform their consideration of proposed legislation. With these comments, I commend the committee's Report 9 of 2018 to the chamber.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,13,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,13,2,speech
 "Perrett, Graham, MP",ALP,2018-09-11,"
 
 
@@ -675,7 +727,7 @@ On a final note, I thank Prime Minister Morrison for agreeing to deliver a natio
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,13,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,13,2,speech
 "Drum, Damian, MP",Nats,2018-09-11,"
 
 
@@ -704,7 +756,7 @@ I'm very proud of the work that we are doing as a government to try and assist t
 
 As has been spoken about this afternoon, we've got support for our Veterans' Children Education Scheme and the Military Rehabilitation and Compensation Act Education and Training Scheme to try to assist the children of our veterans with their education and the supports that they need as well. The supports that they need are extremely many and varied. I want to congratulate the minister for bringing this legislation forward. Hopefully, we can sort this issue out. Hopefully, we can make sure that we continue the practice of having minimal impact on these families as they go through their time of loss and grief, we can make the accounting procedures as simple as possible and we can continue to raise the need for government to be in lock-step with our veterans when they return—for all those who are in good health, all those who are struggling at various stages, all those who are struggling every day, and all those somewhere in between, because the lot of our veterans is a mixed and varied lot and they have varying degrees of capacity to live a full and wholesome life. What has to be acknowledged is the respect that the community of Australia has towards our veterans. We need to make sure that they know that they have that respect from each and every one of us.
 
-",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1
+",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1,speech
 "Snowdon, Warren, MP",ALP,2018-09-11,"
 
 
@@ -766,7 +818,7 @@ It's not appropriate. It's not fair and it's something we shouldn't do. But some
 
 I want to say to the government: we would support you to lift this freeze and address the question in a proper manner. But I'll bet that when we come to the vote on this amendment we'll get no support from the government. If those opposite don't give us support for the amendment, it will say to us that they think it's okay that veterans are unable to access services because of cost. A right which veterans have is effectively being taken away from them because of a budget decision by this government. It's tawdry. It's wrong. It shouldn't be, but it is. The government have an opportunity to fix it, but they won't. And the people who will suffer are those veterans who have served this nation proudly in our uniform. We have an obligation to these people and their families; we all admit it here. We say it all the time. But, by maintaining this freeze, those opposite are saying they only accept that obligation as a partial obligation. They don't see it as we on this side of the House see it—as the need to make sure that veterans have access to the health services they properly require at no cost to them.
 
-",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1
+",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1,speech
 "Wilson, Tim, MP",LP,2018-09-11,"
 
 
@@ -792,7 +844,7 @@ The current system is inefficient and unnecessarily burdensome on the families o
 
 There are 215,000 veterans receiving support from the Department of Veterans' Affairs, and our measures aim to improve their lives, every single one of them. They're Aussies, just like us, and they deserve our support. So, with the measures in this bill, particularly in times of tragedy or in times where people are grieving, veterans' families will know that everything that this government can do to minimise their pain and the burden of bureaucracy is being taken off them so they can have their thoughts and prayers where they're properly deserved.
 
-",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1
+",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1,speech
 "Gosling, Luke, MP",ALP,2018-09-11,"
 
 
@@ -848,7 +900,7 @@ As I said, I know doctors. I've talked to them and I've pleaded with some of the
 
 From where I stand, I think that Australians are right not to trust the Abbott-Turnbull-Morrison government with Medicare, and veterans can't trust the government to take care of their health needs until this issue is dealt with. I urge the government to take action on this issue and ensure veterans are not disadvantaged by their DVA healthcare cards and are able to access the services that they need. I know and other service people, such as first responders, know that those who have been in a difficult situation need the best possible health care that our country can give them. That's what they deserve. For DVA clients there is a way that the government can help, so do it.
 
-",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1
+",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1,speech
 "Brodtmann, Gai, MP",ALP,2018-09-11,"
 
 
@@ -892,7 +944,7 @@ Finally, I want to focus on two events that I went to recently that commemorated
 
 We also had the opportunity to honour the fact that one of the national servicemen, Allen May, donated his medals to the Australian War Memorial. It was a very, very special moment. Mr May was 21 when he was conscripted in 1965 to Vietnam. After arriving in Vietnam, he became a forward scout. Historians believe he fired the first shots in what became known as the Battle of Long Tan. It was a beautiful gesture to present those medals to the War Memorial. They will be a constant reminder to all of us here in Australia and to anyone who visits the Australian War Memorial of the significant contribution that our national servicemen made to our nation over all that period of time, and a constant reminder of those who, in national service, made the ultimate sacrifice. I don't know whether many Australians really understand the scale of the national servicemen who served for that very, very lengthy period of time. It was an honour to be there at that very special memorial, which is nearly 10 years old, alongside the War Memorial with national service veterans. There were some veterans from Canberra and there were some veterans who had travelled from all over the country. It was a great honour to be with them to commemorate their service and to honour their mates who didn't make it home.
 
-",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1
+",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1,speech
 "Dick, Milton, MP",ALP,2018-09-11,"
 
 
@@ -963,7 +1015,7 @@ Once again, we've seen the quality of a future Shorten Labor government, if we a
 
 I very much look forward to giving, if Labor were privileged to be in government, that commitment to make sure that we not only honour but, importantly, deliver on the commitments to those men and women who've served our great nation. With those few remarks, I commend the bill to the House and thank the minister and the shadow minister for the constructive way they have handled this debate tonight.
 
-",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1
+",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1,speech
 "Broad, Andrew, MP",Nats,2018-09-11,"
 
 
@@ -1001,7 +1053,7 @@ There's another thing I'm also keen to see. We have suburbs in new parts of our 
 
 I commend this bill and I'm happy to have had a few moments to talk about the service of our Australian troops. I believe there is a lot of merit, particularly, in getting those country communities to welcome back and use the troops in their agricultural field. I will continue to talk about that with the Minister for Veterans' Affairs. I'm pleased that we are standing by those who have given so much for our country.
 
-",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1
+",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1,speech
 "Chester, Darren, MP",Nats,2018-09-11,"
 
 
@@ -1037,7 +1089,7 @@ Mr Hastie
 
 The SPEAKER:  The original question was that this bill be now read a second time. To this, the honourable member for Kingston has moved as an amendment that all words after 'that' be omitted with a view to substituting other words. So the immediate question before the House is that the amendment moved by the member for Kingston be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1
+",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1,speech
 "Broad, Andrew, MP",Nats,2018-09-11,"
 
 
@@ -1054,7 +1106,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1
+",HoR,<title>BILLS</title>,<title>Veterans' Entitlements Amendment Bill 2018</title>,BILLS,15,1,speech
 "Drum, Damian, MP",Nats,2018-09-11,"
 
 
@@ -1083,7 +1135,7 @@ I'm very proud of the work that we are doing as a government to try and assist t
 
 As has been spoken about this afternoon, we've got support for our Veterans' Children Education Scheme and the Military Rehabilitation and Compensation Act Education and Training Scheme to try to assist the children of our veterans with their education and the supports that they need as well. The supports that they need are extremely many and varied. I want to congratulate the minister for bringing this legislation forward. Hopefully, we can sort this issue out. Hopefully, we can make sure that we continue the practice of having minimal impact on these families as they go through their time of loss and grief, we can make the accounting procedures as simple as possible and we can continue to raise the need for government to be in lock-step with our veterans when they return—for all those who are in good health, all those who are struggling at various stages, all those who are struggling every day, and all those somewhere in between, because the lot of our veterans is a mixed and varied lot and they have varying degrees of capacity to live a full and wholesome life. What has to be acknowledged is the respect that the community of Australia has towards our veterans. We need to make sure that they know that they have that respect from each and every one of us.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2,speech
 "Snowdon, Warren, MP",ALP,2018-09-11,"
 
 
@@ -1145,7 +1197,7 @@ It's not appropriate. It's not fair and it's something we shouldn't do. But some
 
 I want to say to the government: we would support you to lift this freeze and address the question in a proper manner. But I'll bet that when we come to the vote on this amendment we'll get no support from the government. If those opposite don't give us support for the amendment, it will say to us that they think it's okay that veterans are unable to access services because of cost. A right which veterans have is effectively being taken away from them because of a budget decision by this government. It's tawdry. It's wrong. It shouldn't be, but it is. The government have an opportunity to fix it, but they won't. And the people who will suffer are those veterans who have served this nation proudly in our uniform. We have an obligation to these people and their families; we all admit it here. We say it all the time. But, by maintaining this freeze, those opposite are saying they only accept that obligation as a partial obligation. They don't see it as we on this side of the House see it—as the need to make sure that veterans have access to the health services they properly require at no cost to them.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2,speech
 "Wilson, Tim, MP",LP,2018-09-11,"
 
 
@@ -1171,7 +1223,7 @@ The current system is inefficient and unnecessarily burdensome on the families o
 
 There are 215,000 veterans receiving support from the Department of Veterans' Affairs, and our measures aim to improve their lives, every single one of them. They're Aussies, just like us, and they deserve our support. So, with the measures in this bill, particularly in times of tragedy or in times where people are grieving, veterans' families will know that everything that this government can do to minimise their pain and the burden of bureaucracy is being taken off them so they can have their thoughts and prayers where they're properly deserved.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2,speech
 "Gosling, Luke, MP",ALP,2018-09-11,"
 
 
@@ -1227,7 +1279,7 @@ As I said, I know doctors. I've talked to them and I've pleaded with some of the
 
 From where I stand, I think that Australians are right not to trust the Abbott-Turnbull-Morrison government with Medicare, and veterans can't trust the government to take care of their health needs until this issue is dealt with. I urge the government to take action on this issue and ensure veterans are not disadvantaged by their DVA healthcare cards and are able to access the services that they need. I know and other service people, such as first responders, know that those who have been in a difficult situation need the best possible health care that our country can give them. That's what they deserve. For DVA clients there is a way that the government can help, so do it.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2,speech
 "Brodtmann, Gai, MP",ALP,2018-09-11,"
 
 
@@ -1271,7 +1323,7 @@ Finally, I want to focus on two events that I went to recently that commemorated
 
 We also had the opportunity to honour the fact that one of the national servicemen, Allen May, donated his medals to the Australian War Memorial. It was a very, very special moment. Mr May was 21 when he was conscripted in 1965 to Vietnam. After arriving in Vietnam, he became a forward scout. Historians believe he fired the first shots in what became known as the Battle of Long Tan. It was a beautiful gesture to present those medals to the War Memorial. They will be a constant reminder to all of us here in Australia and to anyone who visits the Australian War Memorial of the significant contribution that our national servicemen made to our nation over all that period of time, and a constant reminder of those who, in national service, made the ultimate sacrifice. I don't know whether many Australians really understand the scale of the national servicemen who served for that very, very lengthy period of time. It was an honour to be there at that very special memorial, which is nearly 10 years old, alongside the War Memorial with national service veterans. There were some veterans from Canberra and there were some veterans who had travelled from all over the country. It was a great honour to be with them to commemorate their service and to honour their mates who didn't make it home.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2,speech
 "Dick, Milton, MP",ALP,2018-09-11,"
 
 
@@ -1342,7 +1394,7 @@ Once again, we've seen the quality of a future Shorten Labor government, if we a
 
 I very much look forward to giving, if Labor were privileged to be in government, that commitment to make sure that we not only honour but, importantly, deliver on the commitments to those men and women who've served our great nation. With those few remarks, I commend the bill to the House and thank the minister and the shadow minister for the constructive way they have handled this debate tonight.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2,speech
 "Broad, Andrew, MP",Nats,2018-09-11,"
 
 
@@ -1380,7 +1432,7 @@ There's another thing I'm also keen to see. We have suburbs in new parts of our 
 
 I commend this bill and I'm happy to have had a few moments to talk about the service of our Australian troops. I believe there is a lot of merit, particularly, in getting those country communities to welcome back and use the troops in their agricultural field. I will continue to talk about that with the Minister for Veterans' Affairs. I'm pleased that we are standing by those who have given so much for our country.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2,speech
 "Chester, Darren, MP",Nats,2018-09-11,"
 
 
@@ -1416,7 +1468,7 @@ Mr Hastie
 
 The SPEAKER:  The original question was that this bill be now read a second time. To this, the honourable member for Kingston has moved as an amendment that all words after 'that' be omitted with a view to substituting other words. So the immediate question before the House is that the amendment moved by the member for Kingston be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2,speech
 "Hastie, Andrew (The DEPUTY SPEAKER)",LP,2018-09-11,"
 
 
@@ -1427,7 +1479,7 @@ The DEPUTY SPEAKER
 Mr Hastie
 ) (18:28):  I have received advice from the Chief Government Whip nominating Mr O'Dowd to be a member of the Selection Committee in place of Mr LS O'Brien.
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,16,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,16,1,speech
 "Broad, Andrew, MP",Nats,2018-09-11,"
 
 
@@ -1441,7 +1493,7 @@ That Mr L. S. O'Brien be discharged from the Selection Committee and that, in hi
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,16,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,16,1,speech
 "Hastie, Andrew (The DEPUTY SPEAKER)",LP,2018-09-11,"
 
 
@@ -1452,7 +1504,7 @@ The DEPUTY SPEAKER
 Mr Hastie
 ) (18:28):  I have received advice from the Chief Government Whip nominating Mr O'Dowd to be a member of the Selection Committee in place of Mr LS O'Brien.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,16,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,16,2,speech
 "Broad, Andrew, MP",Nats,2018-09-11,"
 
 
@@ -1466,7 +1518,7 @@ That Mr L. S. O'Brien be discharged from the Selection Committee and that, in hi
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,16,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,16,2,speech
 "King, Catherine, MP",ALP,2018-09-11,"
 
 
@@ -1589,7 +1641,7 @@ Mr Butler:
 
 The DEPUTY SPEAKER:  The original question was that this bill be now read a second time. To this, the honourable member for Ballarat has moved as an amendment that all words after 'that' be omitted with a view to substituting other words. If it suits the House I will state the question in the form that the amendment be agreed to. The question now is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Tobacco Plain Packaging Amendment Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Tobacco Plain Packaging Amendment Bill 2018</title>,BILLS,17,1,speech
 "Wilson, Tim, MP",LP,2018-09-11,"
 
 
@@ -1621,7 +1673,7 @@ I think we should stand up against criminal gangs. I don't think we should fuel 
 
 We must focus on assisting people who are motivated to quit smoking through education, support services, harm minimisation and—I will say, resolutely—preferably cessation. When people are allowed to exercise their free will, they are still better off choosing a healthy life. If they struggle with that, I would have thought the job of the people in this place is to provide them with the clearest and simplest pathway to do so. It's time to empower those who want to quit and to help reduce the stagnant smoking rates in this country by properly looking at not just the intent but also the consequences of the policies and the legislation we are passing through this parliament.
 
-",HoR,<title>BILLS</title>,<title>Tobacco Plain Packaging Amendment Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Tobacco Plain Packaging Amendment Bill 2018</title>,BILLS,17,1,speech
 "Freelander, Mike, MP",ALP,2018-09-11,"
 
 
@@ -1701,7 +1753,7 @@ The reforms to cigarette packaging proposed by the Rudd opposition and enacted b
 
 The public was warned that mandatory plain packaging was unconstitutional. What a silly reason to bring up! It clearly wasn't, and the High Court supported that. They were told the scheme was costly and impractical, which was wrong again. There were even claims from the tobacco industry that plain packaging would lead to increased levels of smoking. What a joke! It was quite silly, and archly and narrowly political to the nth degree. I support this bill. I'm proud, as I've said, to be a member of the Labor Party, which has done all it can to reduce smoking rates in Australia and elsewhere. I commend the bill.
 
-",HoR,<title>BILLS</title>,<title>Tobacco Plain Packaging Amendment Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Tobacco Plain Packaging Amendment Bill 2018</title>,BILLS,17,1,speech
 "Falinski, Jason, MP",LP,2018-09-11,"
 
 
@@ -1742,7 +1794,7 @@ Consultation with each relevant state and territory agency has been undertaken. 
 
 I will take a moment to plug a good friend of mine, the former English MP for Enfield North, Nick de Bois. Nick wrote a book, Confessions of a Recovering MP, which he penned after he left office and, which, I believe, is available on Amazon. In this book, he dedicated a chapter to the criminal activity related to tobacco and cigarette sales. He went undercover in his own constituency to see how rife the sale of these products was. He was so eager to go undercover, he dressed down to what he thought the attire of undercover agents must have been—old pair of jeans; tatty, worn sweater; unpolished boots; and uncombed hair. Nick didn't have to go far, as it turned out. The shop right next door to his electorate office was where they would find illicit cigarettes. It is for this reason and the stats I outlined earlier that I support this bill to enhance our enforcement agencies in relation to noncompliance. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Tobacco Plain Packaging Amendment Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Tobacco Plain Packaging Amendment Bill 2018</title>,BILLS,17,1,speech
 "Snowdon, Warren, MP",ALP,2018-09-11,"
 
 
@@ -1821,7 +1873,7 @@ Mr SNOWDON:
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Tobacco Plain Packaging Amendment Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Tobacco Plain Packaging Amendment Bill 2018</title>,BILLS,17,1,speech
 "King, Catherine, MP",ALP,2018-09-11,"
 
 
@@ -1944,7 +1996,7 @@ Mr Butler:
 
 The DEPUTY SPEAKER:  The original question was that this bill be now read a second time. To this, the honourable member for Ballarat has moved as an amendment that all words after 'that' be omitted with a view to substituting other words. If it suits the House I will state the question in the form that the amendment be agreed to. The question now is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Wilson, Tim, MP",LP,2018-09-11,"
 
 
@@ -1976,7 +2028,7 @@ I think we should stand up against criminal gangs. I don't think we should fuel 
 
 We must focus on assisting people who are motivated to quit smoking through education, support services, harm minimisation and—I will say, resolutely—preferably cessation. When people are allowed to exercise their free will, they are still better off choosing a healthy life. If they struggle with that, I would have thought the job of the people in this place is to provide them with the clearest and simplest pathway to do so. It's time to empower those who want to quit and to help reduce the stagnant smoking rates in this country by properly looking at not just the intent but also the consequences of the policies and the legislation we are passing through this parliament.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Freelander, Mike, MP",ALP,2018-09-11,"
 
 
@@ -2056,7 +2108,7 @@ The reforms to cigarette packaging proposed by the Rudd opposition and enacted b
 
 The public was warned that mandatory plain packaging was unconstitutional. What a silly reason to bring up! It clearly wasn't, and the High Court supported that. They were told the scheme was costly and impractical, which was wrong again. There were even claims from the tobacco industry that plain packaging would lead to increased levels of smoking. What a joke! It was quite silly, and archly and narrowly political to the nth degree. I support this bill. I'm proud, as I've said, to be a member of the Labor Party, which has done all it can to reduce smoking rates in Australia and elsewhere. I commend the bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Falinski, Jason, MP",LP,2018-09-11,"
 
 
@@ -2097,7 +2149,7 @@ Consultation with each relevant state and territory agency has been undertaken. 
 
 I will take a moment to plug a good friend of mine, the former English MP for Enfield North, Nick de Bois. Nick wrote a book, Confessions of a Recovering MP, which he penned after he left office and, which, I believe, is available on Amazon. In this book, he dedicated a chapter to the criminal activity related to tobacco and cigarette sales. He went undercover in his own constituency to see how rife the sale of these products was. He was so eager to go undercover, he dressed down to what he thought the attire of undercover agents must have been—old pair of jeans; tatty, worn sweater; unpolished boots; and uncombed hair. Nick didn't have to go far, as it turned out. The shop right next door to his electorate office was where they would find illicit cigarettes. It is for this reason and the stats I outlined earlier that I support this bill to enhance our enforcement agencies in relation to noncompliance. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Snowdon, Warren, MP",ALP,2018-09-11,"
 
 
@@ -2176,7 +2228,7 @@ Mr SNOWDON:
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Thistlethwaite, Matt, MP",ALP,2018-09-11,"
 
 
@@ -2196,7 +2248,7 @@ This is simply not good enough. Our community can't be left in the dark with suc
 
 On Sunday, 23 September, Michael Daley and I will be holding a community forum at the Yarra Bay Sailing Club. We're encouraging those in our community who are opposed to a cruise ship terminal at Yarra Bay to come along and voice their opposition and let the New South Wales Liberal government know that we are opposed to this cruise ship terminal in Yarra Bay. There's also a petition against this proposal on my website that I encourage people to sign. On behalf of our community, I call on the Prime Minister and the Premier of New South Wales to rule out and reject this ridiculous proposal for a cruise ship terminal at Yarra Bay.
 
-",HoR,<title>ADJOURNMENT</title>,<title>NSW Cruise Development Plan</title>,ADJOURNMENT,18,1
+",HoR,<title>ADJOURNMENT</title>,<title>NSW Cruise Development Plan</title>,ADJOURNMENT,18,1,speech
 "Byrne, Anthony, MP",ALP,2018-09-11,"
 
 
@@ -2217,7 +2269,7 @@ An honourable member interjecting—
 Mr BYRNE:
   The weedy sea dragon—just remember that. We're claiming it, though. It was wonderful to hear the passion and the commitment of two of these leading experts. Dr Pat McWhirter was talking about the vegetation trail from the Dandenongs leading into Western Port Bay. It's the knowledge of these two experts that we're going to need to protect the environmental integrity of the Western Port Bay region, because surrounding Western Port Bay is one of the fastest growth belts in the country. It's something like 10 kilometres away from Cranbourne East. What does that mean? Cranbourne East is the fastest-growing suburb in Australia. On one hand, you have the fastest-growing area in Australia with all of those young families coming to live and make a life for themselves. On the other hand, you have this absolutely unique marine environment. And getting the mixture right in terms of getting the development but protecting the ecosystems is going to be absolutely essential to the integrity of that Western Port Bay and the Tooradin coastal village region. Thank you, Marlene, for making me feel so welcome at this business association dinner, and I look forward to working with you in the future.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Holt Electorate: Tooradin</title>,CONSTITUENCY STATEMENTS,21,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Holt Electorate: Tooradin</title>,CONSTITUENCY STATEMENTS,21,1,speech
 "Andrews, Kevin (The DEPUTY SPEAKER)",LP,2018-09-11,"
 
 
@@ -2228,7 +2280,7 @@ The DEPUTY SPEAKER
 Mr Andrews
 ) (17:14):  Before calling the member for Gellibrand, I add my condolences to the family and friends of the late Senator John McCain. I met John McCain on a number of occasions, particularly when I was the defence minister. He was a man who led a remarkable life of great experience and learning. He was a wonderful patriot of his country—the United States of America—and a great advocate of freedom not just for Americans but for those around the world.
 
-",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1,speech
 "Watts, Tim, MP",ALP,2018-09-11,"
 
 
@@ -2278,7 +2330,7 @@ In many ways, when viewed from Down Under, John McCain was a living embodiment o
 
 John McCain himself was a living embodiment of this call. We honour him here in this place. Vale.
 
-",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1,speech
 "Joyce, Barnaby, MP",Nats,2018-09-11,"
 
 
@@ -2313,7 +2365,7 @@ I will always treasure the brief time that I had in discussion with someone I th
 
 I hope that Senator McCain's family, including his mother, who's 106, manage to take some solace from the giant of a life that is represented by Senator John McCain. Obviously, he was a man of Christian faith. Borrowing from the same, I wish that he remain in our prayers and that he rest in peace.
 
-",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1,speech
 "Marles, Richard, MP",ALP,2018-09-11,"
 
 
@@ -2363,7 +2415,7 @@ This was generosity of spirit indeed.
 
 Within two months of visiting Australia, Senator McCain was diagnosed with brain cancer. His death is a loss to all of us. I think that, for all of us who seek to serve in this place and to represent people in democratic societies, Senator John McCain, in his life, stands as the personification of dignity and the personification of what it is to provide service to our communities in a generous way, a way which puts them at the centre of our thoughts and a way which does not indulge populism, the darker angels of our nature or a contest which isn't real. John McCain is absolutely a hero, and John McCain is an inspiration to us all.
 
-",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1,speech
 "Falinski, Jason, MP",LP,2018-09-11,"
 
 
@@ -2407,7 +2459,7 @@ No ma'am, he's a decent family man, a citizen that I just happen to have disagre
 
 Politics has changed a lot in the decade since Senator McCain ran against Barack Obama in 2008. Sometimes it seems as if the politics of John McCain are the product of a bygone era. As elected representatives we must honour his legacy by remembering that our No. 1 duty is to serve our communities. Even in his final years, when his health was ailing, John McCain was still steadfast in speaking out for what he believed to be right.
 
-",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1,speech
 "Khalil, Peter, MP",ALP,2018-09-11,"
 
 
@@ -2448,7 +2500,7 @@ I can't tell you the times he would tell me about what an incredible experience 
 
 That was said on what was to be his last visit to Australia. I note, too, that he visited our parliament during that visit. I and many of my colleagues here had the opportunity and the honour to meet with him on several occasions. He actually addressed the Labor Party caucus, which was a fantastic experience. A number of MPs on both sides of politics got to sit down with Senator McCain to have a really robust discussion about our place in the world and our alliance, and the challenges that we face in the Indo-Pacific. It was a real joy to have that conversation with someone with such great experience. Then and at other times, he said of our alliance, 'This alliance between our countries is more important than ever, because we have fought and sacrificed side by side for a long time, and it is a unique relationship in that respect.' Cameron Stewart, who writes for The Australian, last week described John McCain as Australia's closest friend in Washington. That's probably true. We haven't had a better friend than John McCain in the US. Indeed, he was one of our closest friends, if not the closest friend that we've had. So we will miss him. Vale John McCain. May he rest in peace.
 
-",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1,speech
 "Buchholz, Scott, MP",LP,2018-09-11,"
 
 
@@ -2491,7 +2543,7 @@ Mr BUCHHOLZ:
 
 I commend and associate myself with the comments from this room that have honoured and offered affirmation to Senator John McCain. I think all of us will be stronger politicians, better able to make contributions to our country and patriots if we take a little bit of John McCain and weave it into who we are. I thank the House. I offer my condolences. Rest in peace, John.
 
-",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1,speech
 "Gosling, Luke, MP",ALP,2018-09-11,"
 
 
@@ -2538,7 +2590,7 @@ At his best, John showed us what that means. For that, we are all deeply in his 
 
 May God bless John McCain, and may God bless this country he served so well.
 
-",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1,speech
 "Wilson, Tim, MP",LP,2018-09-11,"
 
 
@@ -2567,7 +2619,7 @@ The DEPUTY SPEAKER
 Mr Goodenough
 ):  It being 6.30 pm, the time for statements on indulgence on the death of Senator John McCain has come to an end in accordance with standing order 192B.
 
-",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,22,1,speech
 "Neumann, Shayne, MP",ALP,2018-09-11,"
 
 
@@ -2611,4 +2663,4 @@ We must choose to guarantee the essential services that Australians rely on.
 
 You know what? We're still waiting for that. All of this was done, by the way, to attend to the so-called debt and deficit disaster. Net debt for this year, 2018-19, is double what it was when the Liberals came to power: $175 billion compared to $350 billion. Under the Liberals, gross debt has crashed through more than half a trillion dollars for the first time in our country's history and remains well above this level for the next decade: $533.9 billion as of 7 September 2018 and $280 billion in September 2013. Both of these kinds of debts will grow quicker per month under the Liberals than under us when we had a global financial crisis to deal with. So much for the government delivering a budget surplus in the first year and every year thereafter. We're still waiting for this. This is simply not good enough. The government must govern better.
 
-",HoR,<title>GRIEVANCE DEBATE</title>,<title>Coalition Government</title>,GRIEVANCE DEBATE,23,1
+",HoR,<title>GRIEVANCE DEBATE</title>,<title>Coalition Government</title>,GRIEVANCE DEBATE,23,1,speech

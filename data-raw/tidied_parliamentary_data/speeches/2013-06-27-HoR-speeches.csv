@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Burke, Anna, MP",ALP,2013-06-27,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER
  (12:23):  The minister has sought the call on indulgence to clear up an issue. I am going to grant indulgence to the minister.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Mandela, Mr Nelson</title>",STATEMENTS ON INDULGENCE,3,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Mandela, Mr Nelson</title>",STATEMENTS ON INDULGENCE,3,1,speech
 "Gray, Gary, MP",ALP,2013-06-27,"
 
 
@@ -14,7 +14,7 @@ The SPEAKER
 Mr GRAY
  (Brand—Minister for Small Business, Minister for Resources and Energy and Minister for Tourism) (12:23):  I rise to correct, and apologise unreservedly for, remarks I made last night at the Minerals Council of Australia official dinner held in the Great Hall. Acting on what I thought was reliable advice, I made the incorrect statement that the former President of South Africa Nelson Mandela had passed away. I wish to apologise for the error, and I have conveyed my apologies directly to the South African high commissioner and to the Minerals Council of Australia.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Mandela, Mr Nelson</title>",STATEMENTS ON INDULGENCE,3,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Mandela, Mr Nelson</title>",STATEMENTS ON INDULGENCE,3,1,speech
 "Morrison, Scott, MP",LP,2013-06-27,"
 
 
@@ -29,7 +29,7 @@ That so much of standing and sessional orders be suspended as to allow the membe
 
 The SPEAKER:  I am loath to put the member for Lyne in this situation. If you want the honest truth, and I understand the intention of the member for Cook, I am loath to use a member's valedictory in this way. But you have put the motion.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Temporary Sponsored Visas) Bill 2013</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Temporary Sponsored Visas) Bill 2013</title>,BILLS,5,1,speech
 "Albanese, Anthony, MP",ALP,2013-06-27,"
 
 
@@ -44,7 +44,7 @@ That the question be put.
 
 The SPEAKER:  I had understood that the member for Cook might have been seeking another option and that is why I gave him the call. I had thought he had intended to move quickly to the member for Lyne, but I have misread that. The member for Cook has the call.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Temporary Sponsored Visas) Bill 2013</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Temporary Sponsored Visas) Bill 2013</title>,BILLS,5,1,speech
 "Morrison, Scott, MP",LP,2013-06-27,"
 
 
@@ -118,7 +118,7 @@ The SPEAKER:  Yes, it does actually, member for Mackellar. The suspension must r
 
 The SPEAKER:  The question now is that this bill, as amended, be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Temporary Sponsored Visas) Bill 2013</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Temporary Sponsored Visas) Bill 2013</title>,BILLS,5,1,speech
 "Morrison, Scott, MP",LP,2013-06-27,"
 
 
@@ -133,7 +133,7 @@ That so much of standing and sessional orders be suspended as to allow the membe
 
 The SPEAKER:  I am loath to put the member for Lyne in this situation. If you want the honest truth, and I understand the intention of the member for Cook, I am loath to use a member's valedictory in this way. But you have put the motion.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,5,2,speech
 "Albanese, Anthony, MP",ALP,2013-06-27,"
 
 
@@ -148,7 +148,7 @@ That the question be put.
 
 The SPEAKER:  I had understood that the member for Cook might have been seeking another option and that is why I gave him the call. I had thought he had intended to move quickly to the member for Lyne, but I have misread that. The member for Cook has the call.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,5,2,speech
 "Morrison, Scott, MP",LP,2013-06-27,"
 
 
@@ -222,7 +222,7 @@ The SPEAKER:  Yes, it does actually, member for Mackellar. The suspension must r
 
 The SPEAKER:  The question now is that this bill, as amended, be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,5,2,speech
 "Oakeshott, Robert, MP",Ind.,2013-06-27,"
 
 
@@ -236,7 +236,7 @@ Leave granted.
 
 In accordance with standing order 39(f) the report was made a parliamentary paper.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,6,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,6,1,speech
 "Oakeshott, Robert, MP",Ind.,2013-06-27,"
 
 
@@ -253,7 +253,7 @@ Leave granted.
 Mr OAKESHOTT:
   I present executive minutes on reports 434 and 435 of the Joint Committee of Public Accounts and Audit.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,6,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,6,1,speech
 "Oakeshott, Robert, MP",Ind.,2013-06-27,"
 
 
@@ -267,7 +267,7 @@ Leave granted.
 
 In accordance with standing order 39(f) the report was made a parliamentary paper.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Oakeshott, Robert, MP",Ind.,2013-06-27,"
 
 
@@ -284,7 +284,7 @@ Leave granted.
 Mr OAKESHOTT:
   I present executive minutes on reports 434 and 435 of the Joint Committee of Public Accounts and Audit.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Marino, Nola, MP",LP,2013-06-27,"
 
 
@@ -310,7 +310,7 @@ Leave granted.
 Ms MARINO:
   I just want to thank everybody on that committee and also the officers involved for the work as part of that in this parliament.
 
-",HoR,<title>COMMITTEES</title>,<title>Appropriations and Administration Committee</title>,COMMITTEES,8,1
+",HoR,<title>COMMITTEES</title>,<title>Appropriations and Administration Committee</title>,COMMITTEES,8,1,speech
 "Marino, Nola, MP",LP,2013-06-27,"
 
 
@@ -336,7 +336,121 @@ Leave granted.
 Ms MARINO:
   I just want to thank everybody on that committee and also the officers involved for the work as part of that in this parliament.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,8,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,8,2,speech
+"Abbott, Tony, MP",LP,2013-06-27,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:00):  Madam Speaker, my question is to the Prime Minister. Will the Prime Minister explain to this House why the events of last night were necessary, and will he end the uncertainty that they have created by confirming the date for the election?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Labor Party</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Abbott, Tony, MP",LP,2013-06-27,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:03):  Madam Speaker, I ask a supplementary question of the Prime Minister.
+
+
+
+A government member interjecting—
+
+
+
+The SPEAKER:  Order! The Leader of the Opposition has the call; the parliamentary secretary does not.
+
+
+
+A government member interjecting—
+
+
+
+The SPEAKER:  My friend from Tasmania! The Leader of the Opposition has the call.
+
+
+
+
+Mr ABBOTT:
+  Why should the Australian people accept that their right to choose their Prime Minister has been usurped by faceless men for the second time in just three years?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Labor Party</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Rudd, Kevin, MP",ALP,2013-06-27,"
+
+
+
+Mr RUDD
+ (Griffith—Prime Minister) (14:01):  I thank the Leader of the Opposition for his question. Let me go to the second part of his question first, which deals with the timing of the election. As the honourable gentleman knows, the timing of the election is governed by the Australian Constitution, and it is worth having a look at that document as it is the law that governs all Australians. Secondly, I would simply draw the Leader of the Opposition's attention to the fact that the practice of Prime Minister Keating, Prime Minister Hawke, Prime Minister Howard and Prime Minister Menzies was in accordance with the provisions of the Constitution to identify a date for an election. I will be no different to any of my predecessors.
+
+
+The Leader of the Opposition again goes to questions of timing. I would draw his attention to facts which are material to the considerations of the government: (1) is the timing of the G20 summit in St Petersburg, scheduled for 6 and 7 September; (2) is the timing of the local government referendum; and (3), for the Leader of the Opposition, is the current coincidence of the election date with Yom Kippur. I will therefore go through these issues with my cabinet colleagues. The Leader of the Opposition can rest assured there is going to be an election, it will be held consistent with the Constitution and, if he has looked at the dates, there is not going to be a huge variation one way or the other—and it is for the Australian people to decide.
+
+
+
+Mr Pyne interjecting—
+
+
+
+
+Mr RUDD:
+  I look forward to contesting him in these elections on our alternative plans for Australia's future. Positive plans, not slogans.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Labor Party</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
+"Rudd, Kevin, MP",ALP,2013-06-27,"
+
+
+
+Mr RUDD
+ (Griffith—Prime Minister) (14:03):  I thank the honourable member for his question. Leader of the Opposition: in the four years that I was leader of the Australian Labor Party, I faced John Howard, I faced Brendan Nelson, I faced someone by the name of Malcolm Turnbull, and most recently, as the honourable member for Wentworth will recall, I faced Tony Abbott. I had four leaders in four years. These are matters for internal party deliberations in his party and in ours. Let us get onto questions about the country's future.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Labor Party</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
+"Abbott, Tony, MP",LP,2013-06-27,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:24):  My question is to the Prime Minister. I remind him of his promises to take 'a very hard line' on people smuggling, to fix public hospitals or take them over, to run surpluses over the economic cycle and to reduce the cost of living through Fuelwatch and GroceryWatch, all of which promises he subsequently broke or dumped. As he was all talk and no action then, why should the Australian people believe that anything has changed?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Prime Minister</title>,QUESTIONS WITHOUT NOTICE,13,1,question
+"Rudd, Kevin, MP",ALP,2013-06-27,"
+
+
+
+Mr RUDD
+ (Griffith—Prime Minister) (14:24):  I thank the Leader of the Opposition for his question and in his listing of the litany he skipped happily over a number of facts, including the state of our public hospital system and the funding proposals which we have put forward to fix that. I remind the Leader of the Opposition that he went on the public record some years ago to say that he believed the perfect public policy response on his part was to take over the national hospital system of Australia from the states. What I instead proposed as Prime Minister, and what Prime Minister Gillard subsequently followed up on, was an arrangement with the states whereby we would provide 60 per cent of the funding of the public hospital system in order to provide durable public funding from the Commonwealth into the future. My successor as Prime Minister then undertook a further negotiation with the states which landed that at 50 per cent.
+
+
+Can I say to the Leader of the Opposition a very simple thing? That is, under his period as health minister we saw the level of federal contributions to the public hospital system go down and down and down. Therefore, when the states around Australia said that there was a problem with the hospital system, it was necessary for the Commonwealth to step in and we did.
+
+
+
+The SPEAKER:  Order! The Prime Minister will resume his seat. Before the Manager of Opposition Business begins his point of order I will again remind him of abuses of points or order. The Manager of Opposition Business has the call.
+
+
+
+
+Mr Pyne:
+  That would be fair enough, Speaker. My point of order is simply: how can the Prime Minister be relevant to the question when he is repeating a falsehood which has been cleared up in this House time and time again by the Leader of the Opposition?
+
+
+
+The SPEAKER:  The Manager of Opposition Business will leave the chamber under 94(a). The Manager of Opposition Business knows full well he cannot use points of order for debate.
+
+
+
+
+The member for 
+Sturt
+ then left the chamber
+
+
+
+
+
+Mr RUDD:
+  And so, Speaker, I would simply say this: under the Leader of the Opposition, when he was minister for health, the relative real contribution by the Commonwealth to the public hospital system of Australia went down and down and down. That is a statistical fact which once again, if the Leader of the Opposition is happy to do so, I would be happy to debate with him one day at the National Press Club. That is: what are the relative funding and contributions by us as opposed to them for the public health of the Commonwealth? I would welcome a debate on public policy, welcome a debate on the future of the health system, welcome a debate on the future of the education system, welcome a debate on the future of the economy and on broadband. I would welcome a debate on national security, but all we get here is politics, politics, politics—the old politics of simply negative interjections and invective as opposed to building a constructive argument for one vision for Australia's future versus anything else he may choose to offer. We are on the side of a positive plan for Australia's future. I wish he would join the bus.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Prime Minister</title>,QUESTIONS WITHOUT NOTICE,13,1,answer
 "Burke, Anna, MP",ALP,2013-06-27,"
 
 
@@ -348,7 +462,7 @@ The SPEAKER
 
 Honourable members:  Hear, hear.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,"<title>Malcolm, Mr Terry</title>",STATEMENT BY THE SPEAKER,14,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,"<title>Malcolm, Mr Terry</title>",STATEMENT BY THE SPEAKER,14,1,speech
 "Smith, Stephen, MP",ALP,2013-06-27,"
 
 
@@ -366,7 +480,27 @@ The SPEAKER:  The minister may proceed.
 Mr STEPHEN SMITH:
   For the sake of the record, the 2+2 I forgot in question time today was Indonesia. 
 
-",HoR,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>North Asia</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,16,1
+",HoR,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>North Asia</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,16,1,speech
+"Jenkins, Harry, MP",ALP,2013-06-27,"
+
+
+
+Mr JENKINS
+ (Scullin) (15:21):  Speaker, this will be a bit of an anticlimax, but I should adjust my cuffs and straighten my tie—Stephen, there is nothing I can do with my hair, but anyway—and raise this because I think that it is an important development in the way in which this place operates. So by way of questions to you under standing order 103: does the Speaker agree that the efforts of officers from the Department of the House of Representatives and the Department of Parliamentary Services at short notice and which enabled members and senators to carry out their business last night unhindered, whilst at the same time allowing members of the press gallery to appropriately give public coverage to the historic events, were exemplary? Will the Speaker convey, both to departmental officials and to the executive of the gallery, the gratitude of the House for the development of protocols to handle such events both cooperatively and to the satisfaction of the interests of all concerned?
+
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,<title>Parliamentary Precinct</title>,QUESTIONS TO THE SPEAKER,18,1,question
+"Burke, Anna, MP",ALP,2013-06-27,"
+
+
+
+The SPEAKER
+
+ (15:22):  I certainly will. I will concur with the member for Scullin in my appreciation of all the departmental staff and the members of the press gallery for the way the situation yesterday was handled. There were some outbreaks earlier in the day; but, when the new rules were reinforced, they were adhered to. I wish to thank everyone and the member for Scullin for bringing it to our attention.
+
+
+However, there have been some unwarranted instances in the last 24 hours. When members of the parliament and their staff breach the rules that the members of the press are being asked to adhere to, that is a grave violation. People taking photographs in any section of the building nowadays where we have said they are not to without the permission of the individual will no longer be tolerated. This is a workplace for everybody, and people should remember and respect that.
+
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,<title>Parliamentary Precinct</title>,QUESTIONS TO THE SPEAKER,18,1,answer
 "Roxon, Nicola, MP",ALP,2013-06-27,"
 
 
@@ -374,7 +508,7 @@ Mr STEPHEN SMITH:
 Ms ROXON
  (Gellibrand) (15:25):  As required by resolutions of the House, I table copies of notifications of alterations of interests received during the period 21 March to 26 June 2013 and present the report from the Standing Committee of Privileges and Members' Interests concerning an application from Mr Brian McCarty for the publication of a response to a reference made in the House of Representatives.
 
-",HoR,<title>COMMITTEES</title>,<title>Privileges and Members' Interests Committee</title>,COMMITTEES,20,1
+",HoR,<title>COMMITTEES</title>,<title>Privileges and Members' Interests Committee</title>,COMMITTEES,20,1,speech
 "Roxon, Nicola, MP",ALP,2013-06-27,"
 
 
@@ -382,7 +516,7 @@ Ms ROXON
 Ms ROXON
  (Gellibrand) (15:25):  As required by resolutions of the House, I table copies of notifications of alterations of interests received during the period 21 March to 26 June 2013 and present the report from the Standing Committee of Privileges and Members' Interests concerning an application from Mr Brian McCarty for the publication of a response to a reference made in the House of Representatives.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2,speech
 "Albanese, Anthony, MP",ALP,2013-06-27,"
 
 
@@ -405,7 +539,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Australian Sports Anti-Doping Authority Amendment Bill 2013</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Australian Sports Anti-Doping Authority Amendment Bill 2013</title>,BILLS,21,1,speech
 "Albanese, Anthony, MP",ALP,2013-06-27,"
 
 
@@ -422,7 +556,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Australian Sports Anti-Doping Authority Amendment Bill 2013</title>,BILLS,21,1
+",HoR,<title>BILLS</title>,<title>Australian Sports Anti-Doping Authority Amendment Bill 2013</title>,BILLS,21,1,speech
 "Scott, Bruce (The DEPUTY SPEAKER)",Nats,2013-06-27,"
 
 
@@ -445,7 +579,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Labor Party Leadership</title>,MATTERS OF PUBLIC IMPORTANCE,24,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Labor Party Leadership</title>,MATTERS OF PUBLIC IMPORTANCE,24,1,speech
 "Abbott, Tony, MP",LP,2013-06-27,"
 
 
@@ -508,7 +642,7 @@ We will not neglect the environment. Not only will we cut emissions with incenti
 
 This has been a low and dishonourable parliament in many respects. And last night the prime ministership was debased yet again, to be traded by the faceless men rather than decided by the Australian people as it should be. The Australian people should control the prime ministership and the government of this country. That is why, Prime Minister, you should not run away, you should name the date. Name the date. Tell us when it will be. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Labor Party Leadership</title>,MATTERS OF PUBLIC IMPORTANCE,24,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Labor Party Leadership</title>,MATTERS OF PUBLIC IMPORTANCE,24,1,speech
 "Rudd, Kevin, MP",ALP,2013-06-27,"
 
 
@@ -683,7 +817,7 @@ Government members:  No!
 
 The DEPUTY SPEAKER:  Order! The Leader of the Opposition has the call.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Labor Party Leadership</title>,MATTERS OF PUBLIC IMPORTANCE,24,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Labor Party Leadership</title>,MATTERS OF PUBLIC IMPORTANCE,24,1,speech
 "Abbott, Tony, MP",LP,2013-06-27,"
 
 
@@ -738,7 +872,7 @@ Mr Albanese interjecting—
 
 The DEPUTY SPEAKER:  The Deputy Prime Minister will resume his seat.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Labor Party Leadership</title>,MATTERS OF PUBLIC IMPORTANCE,24,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Labor Party Leadership</title>,MATTERS OF PUBLIC IMPORTANCE,24,1,speech
 "Bishop, Julie, MP",LP,2013-06-27,"
 
 
@@ -770,7 +904,7 @@ That is why the coalition can provide strong, stable, competent and experienced 
 
 In the area of international relations, I have outlined our policy position, our portfolio responsibilities, and our approach in trade and in foreign affairs in some detail. Should we be elected, we will move quickly to repair the damage caused by bans on the live cattle trade—which took away Indonesia's trust and confidence in us to be a reliable trading partner—and we will restore the standing of this country in the eyes of the international community. We will attract foreign investment to our shores, we will stand behind our mining and resources sector, we will build a stronger economy and we will be a government that Australia can be proud of.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Labor Party Leadership</title>,MATTERS OF PUBLIC IMPORTANCE,24,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Labor Party Leadership</title>,MATTERS OF PUBLIC IMPORTANCE,24,1,speech
 "Champion, Nick, MP",ALP,2013-06-27,"
 
 
@@ -814,7 +948,7 @@ This next election is going to be about the future and it is going to be about f
 
 We know that securing the economy is the most important thing to do. Labor has always been focused on the jobs of working Australians. We think that this election will be about the future, it will be about fairness and it will be won by the Australian Labor Party.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Labor Party Leadership</title>,MATTERS OF PUBLIC IMPORTANCE,24,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Labor Party Leadership</title>,MATTERS OF PUBLIC IMPORTANCE,24,1,speech
 "Pyne, Christopher, MP",LP,2013-06-27,"
 
 
@@ -913,7 +1047,7 @@ The SPEAKER:  The member will withdraw.
 Mr PYNE:
   I withdraw, Speaker. The Prime Minister wants to avoid at all costs an election on 14 September. He wants to leave the date open. The people of Australia want an election. They demand a change. The people of Australia want to put this horrible parliament behind them and to elect a new government. I am sure the Minister for Health would agree with much of what I have said, because she was loyal to the former Prime Minister to the end. She was not one of their henchmen sent out to tear down the Prime Minister, unlike the member for Hunter and his coterie of people who have woven a very tangled web.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Labor Party Leadership</title>,MATTERS OF PUBLIC IMPORTANCE,24,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Labor Party Leadership</title>,MATTERS OF PUBLIC IMPORTANCE,24,1,speech
 "Smith, Tony, MP",LP,2013-06-27,"
 
 
@@ -921,7 +1055,7 @@ Mr PYNE:
 Mr TONY SMITH
  (Casey) (16:54):  I pass on my best to the member for Kingsford Smith on his final speech. Members of this House will have established local Anzac Centenary community committees, and the Casey committee was established back in May. I recognise those local members of the Yarra Valley and outer east community who have agreed to give of their time on that committee. The committee is chaired by Mr Ray Yates, who is the principal of Monbulk Primary School. He has strongly promoted the stories of ANZAC in his community, as well as contributing to numerous community organisations over many decades. Also on the committee is Brigadier Michael Phelps AM, recently retired, a senior member of the Australian Army; Mr Graham Warren, the former mayor and councillor of the Shire of Yarra Ranges; Mr Anthony McAleer,a local historian and author of a number of significant works on the contribution of local Anzacs from Mount Evelyn, Monbulk and Lilydale; Ms Margi Sank,who has contributed greatly to the Rotary Club of Lilydale, the Mount Evelyn Bendigo Community Bankand a number of other local causes; Mr Bob Gannaway,a prominent affiliate member and commemorations officer at the Healesville RSL; Ms Sue Thompson,a former journalist, and an author, historian and long-time promoter of the history of Lilydale and the district; Mr Chris Thomas,a prominent local business owner and community volunteer in the Upper Yarra; MrJohn Shackleton, principal at Gladysdale Primary School and a resident of Warburton; and Mr Blake Hadlow, the youngest member of the committee, a 21-year-old student from Mount Evelynwith a deep interest in the history of ANZAC. Blake is the grandson of the late Harry Smith of Montrose, who served Australia with distinction in Korea and then afterwards as a prominent member of the RSL. I want to thank each member of the committee for kindly agreeing to serve on it, for the benefit of our local community.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Electorate of Casey: Anzac Centenary</title>,ADJOURNMENT,25,1
+",HoR,<title>ADJOURNMENT</title>,<title>Electorate of Casey: Anzac Centenary</title>,ADJOURNMENT,25,1,speech
 "Garrett, Peter, MP",ALP,2013-06-27,"
 
 
@@ -1010,7 +1144,7 @@ The next thing to say is that our future is borne on three or four things. It is
 
 Speaker, thank you very much for allowing me the opportunity to put on record some of my thoughts. I did not have too much time to prepare this, I must confess—that may have been obvious to you! I do want to say that I have appreciated the opportunity to serve with those of you who are my colleagues on this side of the House. I have very much appreciated the support I have had from my staff, who are sitting over there in the advisers box. I cannot even tell you—if I look across there and talk too much longer, you know what will happen. To my friends and family and also many in the community who have provided support to me over time, you have my deep gratitude. I wish all of you in this House well in the future. Thanks very much.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Valedictory</title>,ADJOURNMENT,25,2
+",HoR,<title>ADJOURNMENT</title>,<title>Valedictory</title>,ADJOURNMENT,25,2,speech
 "Rudd, Kevin, MP",ALP,2013-06-27,"
 
 
@@ -1018,4 +1152,44 @@ Speaker, thank you very much for allowing me the opportunity to put on record so
 Mr RUDD
  (Griffith—Prime Minister) (16:53):  on indulgence, Speaker—We have just heard an eloquent presentation from a retiring member, based on his contribution to this parliament and this government in two great capacities, the environment and schools. He was an extraordinarily successful Australian prior to coming to this place. He will be remembered for the great contribution he has made in this place. I take to heart and am encouraged by the fact that he will hit the campaign trail to preserve our environmental achievements in Queensland once he departs this place. I wish him and his family all the best for the future.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Valedictory</title>,ADJOURNMENT,25,2
+",HoR,<title>ADJOURNMENT</title>,<title>Valedictory</title>,ADJOURNMENT,25,2,speech
+"Crook, Tony, MP",NatsWA,2013-06-27,"
+
+
+
+Mr Crook
+  asked the Treasurer, upon notice, on 14 February 2013:
+
+
+(1) Does he know of any magnetite projects in Australia over the next five years that will be liable for the Minerals Resource Rent Tax (MRRT); if so, can he indicate the number. 
+
+
+(2) Does the statement made by the Minister for Resources and Energy on 2 November 2011 on ABC Radio: 'When…you go through the detail of this tax, you'll see that in terms of the small miners we've gone out of our way, for example, in magnetite to effectively provide them the opportunity to pay little or no tax, because at the taxing point magnetite the dirt is of very little value. The value is the downstream processing that occurs.' reflect the Government's policy position. 
+
+
+(3) What is the policy rationale for making magnetite subject to the MRRT. 
+
+
+(4) Did the Treasury use data from any magnetite companies when forecasting tax liabilities.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Minerals Resource Rent Tax (Question No. 1360)</title>,QUESTIONS IN WRITING,26,1,question
+"Bowen, Chris, MP",ALP,2013-06-27,"
+
+
+
+Mr Bowen:
+  The answer to the honourable member's question is as follows:
+
+
+(1) As the MRRT is a profits based tax, whether particular projects, including magnetite projects, will be liable to pay MRRT in a given year will depend on whether they have earned a MRRT assessable profit for that year. This, in turn, will depend on a range of factors including commodity prices, the exchange rate, and costs incurred in relation to the specific project. 
+
+
+(2) The MRRT is a tax on the proceeds arising from the sale of iron ore and coal, but only that part of the proceeds that is reasonably attributable to the resource. To ensure the MRRT does not tax the value-added by downstream processing and beneficiation, the point at which MRRT liability is determined is set at a point immediately after extraction. The value attributable to the resource at that point will depend on both the costs incurred in downstream operations and the final price received for the marketable commodity. Consequently, a lower value will be attributable to the resource in cases where significant downstream processing of the resource is required to produce a marketable commodity, relative to a case where it is not. 
+
+
+(3) The MRRT applies in relation to the extraction of iron ore and coal resources in Australia. The Policy Transition Group, in its report to Government in December 2010, considered that magnetite should be subject to the MRRT like other types of iron ore. The PTG noted that excluding magnetite would result in inequitable treatment of competing segments in the iron ore industry and may distort investment decisions within the sector. Such an outcome would be at odds with a key rationale for profit-based taxes such as the MRRT and PRRT which is to minimise distortions. 
+
+
+(4) MRRT revenue forecasts were calculated using an aggregate 'top-down' model which took account of industry data as a whole, rather than on a project by project basis. This was checked against a project-by-project model that was built for DRET during the PTG process.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Minerals Resource Rent Tax (Question No. 1360)</title>,QUESTIONS IN WRITING,26,1,answer

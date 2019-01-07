@@ -1,15 +1,15 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Campbell, Sen Ian",LP,1999-10-14,"—I indicate to the Senate that those bills which have just been announced are being introduced together. After debate on the motion for the second reading has been adjourned, I will be moving a motion to have the bills listed separately on the Notice Paper . I move:
 That these bills may proceed without formalities, may be taken together and be now read a first time.
 Question resolved in the affirmative.
-Bills read a first time.",SENATE,<title>TELECOMMUNICATIONS (INTERCEPTION) AMENDMENT BILL 1999</title>,<title>First Reading</title>,Bills,5,1
+Bills read a first time.",SENATE,<title>TELECOMMUNICATIONS (INTERCEPTION) AMENDMENT BILL 1999</title>,<title>First Reading</title>,Bills,5,1,speech
 "Murray, Sen Andrew",AD,1999-10-14,"—Madam Temporary Chairman, I had the impression last night that we had not finished opposition amendments Nos 35 and 36. Had we?
 —That is correct.
-—I know it is a formality, but we had the impression that Nos 35 and 36 had not been dealt with.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1
+—I know it is a formality, but we had the impression that Nos 35 and 36 had not been dealt with.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1,speech
 "Conroy, Sen Stephen",ALP,1999-10-14,"—My colleagues and I share the view of Senator Murray that we had not quite fin 
  ished, but I am happy for the record to stand. I know we dealt with the substantive points, but there were some other amendments and we were not sure whether we actually did—
 —Senator Conroy, may I just clarify this. Section 614 and items 283 and 363 were put last night together, so we are now on the Democrat amendment No. 2 on revised sheet 1592.
-—Just before we move on, can I flag the possibility that there may be a consequential amendment that arises out of deleting the mandatory bid. I flag that we may wish to come back to deal with a particular amendment in this section. Because of time constraints, I have not had a chance to consult Senator Murray on it yet.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1
+—Just before we move on, can I flag the possibility that there may be a consequential amendment that arises out of deleting the mandatory bid. I flag that we may wish to come back to deal with a particular amendment in this section. Because of time constraints, I have not had a chance to consult Senator Murray on it yet.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1,speech
 "Murray, Sen Andrew",AD,1999-10-14,"—Now that we are all straight on that issue, I would like to move Democrat amendment No. 2 on sheet 1592 revised:
 (2)	 Schedule 1, item 5, page 158 (after line 19), after paragraph (j), insert:
 	 (ja)	 if, during the period of 4 months before the date of the bid, the bidder or an associate gave, or offered to give or agreed to give a benefit to another person and the benefit was likely to induce the other person, or an associate, to:
@@ -18,13 +18,13 @@ Bills read a first time.",SENATE,<title>TELECOMMUNICATIONS (INTERCEPTION) AMENDM
 			 and the benefit is not offered to all holders of securities in the bid class under the bid—details of the benefit
 This amendment relates to the provision of collateral benefits during a takeover bid. My understanding is that it is presently the case that a person may not provide collateral benefits during the period of four months which precedes a takeover bid that are likely to induce a person to accept an offer under a bid. Because of a recent interpretation by the courts as to the definition of collateral benefit, the government has chosen to remove that prohibition. That decision is given effect to by government amendment No. 14 on sheet EP247, which will follow this amendment. The Australian Democrats are not concerned about the removal of the prohibition, but we do believe that the provision of collateral 
  benefits to any prospective seller of shares should be disclosed to all subsequent offerees, and that is the effect of our amendment. We have advised the government and the opposition of this amendment, and I therefore commend it to the committee.
-Amendment agreed to.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1
+Amendment agreed to.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1,speech
 "Campbell, Sen Ian",LP,1999-10-14,"—I move government amendment No. 14:
 (14)	 Schedule 1, item 5, page 140 (lines 10 to 28), omit subsections (2) and (3).
-This amendment is also in relation to collateral benefits. I understand there is agreement around the chamber on it.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1
-"Murray, Sen Andrew",AD,1999-10-14,"—For the record, the Democrats will support the government's amendment.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1
+This amendment is also in relation to collateral benefits. I understand there is agreement around the chamber on it.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1,speech
+"Murray, Sen Andrew",AD,1999-10-14,"—For the record, the Democrats will support the government's amendment.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1,speech
 "Conroy, Sen Stephen",ALP,1999-10-14,"—We are happy to go along.
-Amendment agreed to.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1
+Amendment agreed to.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1,speech
 "Murray, Sen Andrew",AD,1999-10-14,"—by leave—I move Democrat amendments Nos 3 and 13 on sheet 1592 revised:
 (3)	 Schedule 1, item 5, page 229 (after line 21), at the end of Part 6A.2, add:
 Division 3—Notice that person has become 85% holder of a class of securities
@@ -68,7 +68,7 @@ Penalty: 25 penalty units or imprisonment for 6 months, or both.
 These amendments relate to the new provision in section 664A that will allow a person who owns 90 per cent or more of the shares in a company to compulsorily acquire the remaining shares in the company. The acquisition must occur at a fair price and the minority shareholders have the right to object and have the matter determined by a court if they believe that the price does not represent a fair price. For many people, this issue is probably the most contentious issue in the bill, and I am sure Senator Conroy will speak on it at length later on when he comes to his amendment.
 I made a number of comments in relation to the compulsory acquisition power in previous remarks. I am not going to repeat those except to say that we do accept the need for a power of compulsory acquisition, and of course that is where the debate will be later on, I suspect. This amendment, however, is part of our effort to increase the safeguards attaching to the compulsory acquisition process. We all know that compulsory acquisition needs to be dealt with with great care. The effect of these amendments is to require a shareholder who acquires more than 85 per cent of a company to give notice to the company that they have reached that shareholding. When a company receives notice from a shareholder that that is the case, the company is obliged to give notice to the remaining shareholders that there is an 85 per cent holding and that if that holder increases their holding to 90 per cent the minority may 
  be subject to compulsory acquisition. In other words, it is an early warning device designed to make the market as informed as possible so that people can take action and not have the compulsory acquisition ability descend on them by surprise and not have them unable to plan in advance of that event.
-Our desire in moving this amendment is to forewarn minority shareholders that their shares may be the subject of compulsory acquisition in the future. The situation we are trying to avoid is a person holding shares for a number of years while a substantial shareholder creeps over the 90 per cent line and that minority holder receiving a letter in the mail out of the blue which states that their shares are going to be acquired compulsorily. This provision will result in those shareholders being given notice in advance that their shares may be compulsorily acquired in the future. As with our other amendments, we have advised both the government and the opposition of our intention and of these amendments. I commend them to the committee.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1
+Our desire in moving this amendment is to forewarn minority shareholders that their shares may be the subject of compulsory acquisition in the future. The situation we are trying to avoid is a person holding shares for a number of years while a substantial shareholder creeps over the 90 per cent line and that minority holder receiving a letter in the mail out of the blue which states that their shares are going to be acquired compulsorily. This provision will result in those shareholders being given notice in advance that their shares may be compulsorily acquired in the future. As with our other amendments, we have advised both the government and the opposition of our intention and of these amendments. I commend them to the committee.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1,speech
 "Conroy, Sen Stephen",ALP,1999-10-14,"—I foreshadow that we will move amendments Nos 17, 18, 19 to 26 and 37 after the Democrat amendments. I indicate that under the current arrangements a bidder seeking to take a 100 per cent ownership of a company after the initial step of a part A or part C offer has effectively three steps or options to achieve that goal. Firstly, the bidder might wish to extend the offer period till at least it gains 90 per cent of the shares. On successfully acquiring 90 per cent of the shares in the target company, the bidder could then inform outstanding shareholders of their rights as well as convincing them further of the merits of the bid. Thirdly, should the bidder gain 75 per cent of the outstanding shareholders—that is, shareholders of the remaining 10 per cent—the bidder could then after the close of the offer period issue the outstanding shareholders with a compulsory acquisition notice.
 These steps are not as entirely onerous as the government might claim. These are appropriate and necessary steps before one party is given the authority to take the proper 
  ty of another. I would concede that a slight improvement may be worthwhile. That is why the opposition supports part of the government's changes to compulsory acquisition. We agree that compulsory acquisition should be allowed once 90 per cent of all securities, not just shares, have been acquired and when 75 per cent of the outstanding securities—that is, by the number of securities, not shareholders—have been acquired by the bidder. But we consider that the government is simply going too far with the proposition that compulsory acquisition can be initiated at any time after 90 per cent of all securities have been acquired, with only a notice of acquisition being issued with an independent report valuing the remaining security.
@@ -84,24 +84,24 @@ It is possible to argue that you may want to go forward to ensure that future ta
 There are some protections, as I said, and I believe it is a fair-minded attempt by the Democrats in this area to try to ensure an `independent valuation'. That is almost an oxymoron nowadays, as we have seen with the GIO example. We have seen the valuations that have recently been done in the GIO case. I think their shares are now trading down around $3 and people were told, not three or four months ago, that they were worth $5.50. Many hundreds of ordinary Australian battling mums and dads shareholders believed the valuation that they were given by GIO and acted in accordance with that, only to find—a few months later—that their shares had almost halved in value. A class action has begun to try to bring to account whoever was responsible for giving such misleading information to the market.
 I believe that, while the Democrat amendments will go some way to protecting the valuation process—and a truly independent valuer is a very important step—they do not go far enough, and it is disappointing that representations from many shareholders have not been addressed. I know there is one in particular who has made many representations to all members of the government. I have my own filing cabinet now dedicated to Mr Fielding, as I am sure everyone else in the chamber has, and I know he has made many representations and has many concerns which he has documented at length. It is disappointing that some of his concerns have not been directly addressed. His most recent correspondence to me suggests that he will consider moving offshore. In actual fact he quotes an example where he believes greenmailing will not be fixed by this particular amendment: 
  that if a number of small companies get together and buy up the 10 per cent you will still have this greenmailing. So orchestrated greenmailing will not be fixed by this amendment. The only people who will be disadvantaged are the vulnerable and those who do not quite have all the information necessary to defend themselves.
-I will be interested in Senator Murray's responses to that. I do not think the Senate chamber has enough time to deal with all of Mr Fielding's concerns, but I would certainly be interested in a response from him on the greenmailing issue. I would also be interested in the government's response. I know they have had extensive correspondence with Mr Fielding. I do not know if he is still a member of the Liberal Party; I think he said he was when he first appeared before me. If Senator Campbell has a few moments, I would be particularly interested to talk about how we will still be able to get together and frustrate orchestrated greenmailing by a couple of companies—I do not know if you have seen his latest correspondence—and how this legislation will deal with a situation like that.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1
+I will be interested in Senator Murray's responses to that. I do not think the Senate chamber has enough time to deal with all of Mr Fielding's concerns, but I would certainly be interested in a response from him on the greenmailing issue. I would also be interested in the government's response. I know they have had extensive correspondence with Mr Fielding. I do not know if he is still a member of the Liberal Party; I think he said he was when he first appeared before me. If Senator Campbell has a few moments, I would be particularly interested to talk about how we will still be able to get together and frustrate orchestrated greenmailing by a couple of companies—I do not know if you have seen his latest correspondence—and how this legislation will deal with a situation like that.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1,speech
 "Murray, Sen Andrew",AD,1999-10-14,"—I omitted to relate my previous remarks to yesterday's mandatory bid situation. I want to put on record that Senator Conroy's strong advocacy for caution in that area was indeed responsible for the mandatory bid effort being preserved. We were dealing there with 80 per cent of shareholders. Given those circumstances and the timing, the right decision was made. Now we are dealing with 10 per cent of the shareholders, and the question before us is: is what we are doing fair? The Rubicon that anyone considering this had to cross was whether it was appropriate and good policy for a minority to be compulsorily bought out. Should there be some mechanism for that to apply? There always have been some mechanisms, of course.
 We crossed that particular Rubicon, and once we had done that, we had to pay attention to the questions of fair value, of fair notice, of proper market information and of due process. We have three sets of amend 
- ments. We are dealing with the first set now, which relates to better market information and better notice. The second set deals with the independent valuation issue, and the third question deals with ensuring a fairer price. I do not think our sequence of three improvements should be considered minor; I think they are quite significant and quite helpful in ensuring as much fairness as possible in this process.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1
+ ments. We are dealing with the first set now, which relates to better market information and better notice. The second set deals with the independent valuation issue, and the third question deals with ensuring a fairer price. I do not think our sequence of three improvements should be considered minor; I think they are quite significant and quite helpful in ensuring as much fairness as possible in this process.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1,speech
 "Campbell, Sen Ian",LP,1999-10-14,"—I will not delay the committee. I have been asked to respond to a couple of points, and I will respond first to the question asked by Senator Conroy. We believe that the proposition put by the gentleman he mentioned is entirely without foundation and silly. Under these provisions, 10 per cent of the remaining 10 per cent—that is, one per cent of the entire company—can still get together and take a matter off to court.
 These provisions have been carefully designed to try and balance the interests of all shareholders—to reach a balance between oppression of a minority and dictation by a majority. Senator Conroy raised a fair point about someone who does not want his or her shares acquired. They are a minority; they may get oppressed by a majority. One has to look equally at the small shareholder, the householder, the so-called mums and dads who are on the other side of the barrier between the 90 per cent and the 10 per cent and who are missing out on the benefits of being a wholly-owned subsidiary. They will not get any of the benefit of the 100 per cent control if the 10 per cent who are compulsorily acquired get a bigger amount paid for their shares because the valuer decides it. The 90 per cent do not get any of the value of that, so the 10 per cent are in a powerful position because they hold a leverage over the rest of the corporation. There is a significant benefit, in many respects, in having a 100 per cent ownership of a company—in administration, reporting, taxation and a whole range of things—and that, of course, is what corporations seek.
 So the point I make, hopefully clearly, is that there are small shareholders on either side of the divide. Surely there will be small shareholders in the 10 per cent which could be compulsorily acquired, but there will be small shareholders on the other side of the divide. Furthermore, we should not think of big businesses or even big institutions as big, nasty fat cats. The reality of institutional as well as direct investment in Australia is that the big institutional investors in Australia—AMP, Colonial, AXA—invest on behalf of lots of small shareholders. The directors of these companies, as well as institutional investors and managed investment schemes, are investing on behalf of small investors.
 I will quickly summarise the government's position in relation to this. We think that the balance struck in the CLERP bill is sound and that it contains a series of safeguards that protects small shareholders. It involves the disclosure of all material information to minority shareholders; independent experts' reports; a process by which shareholders can object to the compulsory acquisition, which I have already outlined; court approval of the fairness of the price where at least 10 per cent of the shareholders object—so you only need one per cent of the company to object and you can have it referred; and a requirement that the person seeking to make the compulsory acquisition fund any reasonable court costs incurred by the minority shareholders.
 We do not think the Democrat amendments are necessary or an improvement. However, we believe that it is very important that this legislation is passed. Greenmailing is a serious problem in Australia. ASIC have said publicly that greenmailing is a serious problem. Greenmailing acts to the benefit of a minority of greedy people to the detriment of the great majority of small shareholders, who miss out on the opportunity to use their leverage. That is what a greenmailer does. They use a strategic position—often planned out years in advance—to extort an exorbitant price at the cost of the other shareholders. It is a serious problem. ASIC have said that it is a serious problem in the Australian marketplace, as have experts on CASAC, the Corporations and Securities Advisory Committee.
-I do pay very close attention to the views of people like Ted Rofe, as I have said on a number of occasions in this debate. Ted thinks that we have got the balance slightly wrong in this case; I think we have got it slightly right. But we are happy to see these provisions put in place with the Democrat amendments. We do not welcome the amendments but we want the provisions to go ahead. We will not oppose the amendments. If it means passage in that form, we will be pleased to support them.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1
+I do pay very close attention to the views of people like Ted Rofe, as I have said on a number of occasions in this debate. Ted thinks that we have got the balance slightly wrong in this case; I think we have got it slightly right. But we are happy to see these provisions put in place with the Democrat amendments. We do not welcome the amendments but we want the provisions to go ahead. We will not oppose the amendments. If it means passage in that form, we will be pleased to support them.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1,speech
 "Cooney, Sen Barney",ALP,1999-10-14,"—This is another example of where legislators—and in many cases quite correctly, in my view—interfere with market forces. It is an attractive demonstration of a socialist approach to society. What you are trying to do is to adjust the balances between two forces. I hope that philosophy remains in this chamber when we come to talk about the Workplace Relations Act, because what we will be doing then is trying to find means whereby we can adjust unequal forces.
 This is a strike against the old capitalist system. It is a strike for the socialist approach to things; that is, where you try to get some fairness into the system by frustrating forces which flow within the marketplace normally. To get over that problem you say it is going to be more efficient and you demonise a particular group of people. You say that the 10 per cent—not the 90 per cent—are the demons because they are capable of greenmail, and if you are within that 10 per cent you must be a greenmailer by definition. In the old days they used to call that a witch-hunt. Then you get some authority from the Australian Securities Investment Commission to say, `These are evil people and therefore we will frustrate the market forces that operate in their favour.' Not only that, but you then say, `If there's going to be a court case about this, you're not going to be able to call your own witnesses. We are going to tell you what witnesses to call. ASIC, which has been very upset about greenmail, will choose those witnesses for you.'
 I would not like to run the sort of case where you say, `These 10 per cent of people are all greenmailers; they are evil people. We 
  have to suppress them. ASIC has told us about these people who get too much money. We are going to get ASIC to choose the witnesses in this case and they will have to be happy about that.' It just seems to me an extraordinary approach that, where property—and property of course is at the basis of Western society, as Senator Hutchins knows, and we have respect for property—is in the hands of that 10 per cent of people, we say that these people are evil and therefore we are going to affect their property rights. If they want compensation we will give them that—it is fair compensation—and if they want to call certain witnesses we say, `No, you're not allowed to call those witnesses; we will tell you what witnesses you can call.'
-I can understand all this. It does my old socialist heart good. I am not sure it does my old socialist heart so good when I know that I cannot exercise the rights that I should be able to exercise to at least run my own court case. Nevertheless, if the—I almost have to say—bolshie government and the Democrats want to take this approach, I do not think we can do anything about it.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1
+I can understand all this. It does my old socialist heart good. I am not sure it does my old socialist heart so good when I know that I cannot exercise the rights that I should be able to exercise to at least run my own court case. Nevertheless, if the—I almost have to say—bolshie government and the Democrats want to take this approach, I do not think we can do anything about it.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1,speech
 "Harris, Sen Len",IND,1999-10-14,"—I would just like to respond to the comments of the government in relation to, as the government put it, one per cent of the company having leverage over the rest of the company in relation to the prices that they would receive for their shares. The first thing I would like to raise is that a person's right to buy and sell at any given time is part of the market. If a person chooses to hold their shares for a longer period with the desired benefit of achieving a higher price for them, that cannot be regarded as being to the detriment of the other 90 per cent who are locked out, because those 90 per cent of shareholders have the free option of when they wish to purchase their shares.
 The other side of the balance is that the persons holding that one per cent of the shares are still exposed to the normal market forces. Market forces can move those share prices up or down, and that can be a result of either intentional actions by the company or unintentional actions. There could be equally as great a danger in that small percentage of 
- shareholders retaining that holding and then finding that the share price has been driven down. They would be left with no option other than to cut their losses and sell their shares and, in doing so, give the company the 100 per cent it desires to hold. The government is saying there is leverage for that small percentage of shareholders; in actuality there are equally well balanced reasons for those shareholders to end up suffering for having held those shares. So I believe it is incorrect for the government to raise just one side of the issue in relation to this 10 per cent of residual shareholders and not raise the downside: that those people would actually be exposed, either by intentional or unintentional actions, to market forces.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1
+ shareholders retaining that holding and then finding that the share price has been driven down. They would be left with no option other than to cut their losses and sell their shares and, in doing so, give the company the 100 per cent it desires to hold. The government is saying there is leverage for that small percentage of shareholders; in actuality there are equally well balanced reasons for those shareholders to end up suffering for having held those shares. So I believe it is incorrect for the government to raise just one side of the issue in relation to this 10 per cent of residual shareholders and not raise the downside: that those people would actually be exposed, either by intentional or unintentional actions, to market forces.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1,speech
 "Conroy, Sen Stephen",ALP,1999-10-14,"—I have been drawn into referring to the contribution made in the other place by the Minister for Financial Services and Regulation, unfortunately. He has again been on his feet, as he was yesterday, accusing the Labor Party of opposing everything—opposing corporate law reform. He is saying that we are the problem; we are the reason that this bill has been slow. I just want to take up a little more of this chamber's time, unfortunately, because the minister in the other place cannot control himself. As I said, he has again been on his feet slagging us, saying that we do not understand the issues, that we are being laughed at globally because of this, that we are going to pay the price and that the sky is going to fall in.
 It is good to see that he has dragged himself away from the many lunches he has been telling the Financial Review he has been having—`the Minister for Lunch', as he is becoming known now. His comments are disappointing because this bill was brought on yesterday for the first time. We are seeing the government attempting to paint the Labor Party as the reason it has taken three years for this bill to make it into this chamber; whereas the government has not seen fit to give this bill the priority that I believe it deserved. This is not actually a criticism in any way of Senator Ian Campbell, because he has a case of Grange on it for a start, Senator Murray possibly has a couple of bottles to come out 
  of it, and I don't drink so I am clear on the Grange.
@@ -124,7 +124,7 @@ And I am not going to cop the minister standing up in the other place making acc
 —Where are you going next week?
 —I will be trying to keep pace with Joe, but it is a pretty tough call. So I am not going to cop the minister standing up and giving us a serve every time he sees fit to try to paper over his own deficiencies by blaming the Labor Party. It is not good enough, and I am not going to stand for it, just like he said he is not going to stand for it. So, if Mr Hockey wants to be fair dinkum about this process, he should stand up 
  and say, `We did not list this bill. We did not give it priority, but now we have finally done it.' It is not Senator Ian Campbell's fault, as I have said. Senator Campbell has fought, kicked and scratched to try to get this bill up and through as fast as he can. So this is in no way a reflection on Senator Ian Campbell. But the minister should not be allowed to mislead the chamber, to mislead the business community in this country and to mislead the Australian public about the way the movement of this bill has happened.
-Amendments agreed to.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1
+Amendments agreed to.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1,speech
 "Murray, Sen Andrew",AD,1999-10-14,"—by leave—I move Democrat amendments Nos 4, 5 and 6 on sheet 1592 revised:
 (4)	 Schedule 1, item 5, page 232 (before line 5), before paragraph 667A(1)(a), insert:
 		 (aa)	 be prepared by a person nominated by ASIC under section 667AA; and
@@ -140,12 +140,12 @@ Amendments agreed to.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 
 I will speak very briefly to these amendments. Amendments Nos 4 and 5 relate to the new 
  compulsory acquisition power and are all about ensuring that the price minority shareholders are paid is fair. Under the existing provisions of this bill, an expert is commissioned by the 90 per cent holder to prepare an expert report on the value of the securities being compulsorily acquired.
 As I mentioned during my speech on the second reading, the Australian Democrats think it is appropriate for the expert to be appointed by an independent body. During negotiations with the government we canvassed numerous possible options as to who the independent appointee should be. Ultimately, we came to the conclusion that ASIC is in the best position to undertake this role. It will be incumbent on a 90 per cent holder to request ASIC to nominate a person or up to five persons from which the 90 per cent holder can choose to prepare the report. In determining whether a person is appropriate to prepare the report, ASIC is obliged to consider the nature of the company to be valued and, obviously, obliged to consider the appropriateness of the professionals available. Our desire is that these amendments increase the independence and the perception of independence of the preparation of the expert's report, and that has been a longstanding aim of ours.
-Amendment No. 6 relates to the new compulsory acquisition provisions and particularly to the determination of a fair value for the securities which are the subject of the compulsory acquisition. The amendment requires that, in determining what is fair value for securities, the price, if any, paid for securities within the previous six months must be taken into account. I commend those amendments to the Senate.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1
+Amendment No. 6 relates to the new compulsory acquisition provisions and particularly to the determination of a fair value for the securities which are the subject of the compulsory acquisition. The amendment requires that, in determining what is fair value for securities, the price, if any, paid for securities within the previous six months must be taken into account. I commend those amendments to the Senate.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1,speech
 "Cooney, Sen Barney",ALP,1999-10-14,"—I just want to say something about this independent choosing of experts, as if ASIC is a body that has the capabilities of deciding whether a person is a reasonable expert or not. That is normally something that is left to the court to decide, and it also locks in the ability of a person to litigate and to have his matter heard on the basis that he wants to put it, or she wants to put—or it wants to put it, for that matter. Apparently it is now the 
  position in Victoria—it used to be the position only in Queensland, and Senator Hutchins will remember this—that you have a panel of doctors and an injured worker has to take one of those doctors as the expert in the field. But, if that doctor is wrong, the person gets nowhere near the compensation that he or she ought to. I notice the position in Queensland—and I must check in Victoria, since it has come in there now—is that the sorts of doctors chosen are not those who are all that sympathetic to the injured worker.
 This is a repeat of that. You have the person who is likely to be in the weakest position—the one in the 10 per cent of those who hold shares—having to put up with an `expert' chosen by ASIC, who, we have been told, does not like greenmailers, those in the 10 per cent, and that person has got to make do with that. ASIC cannot be cross-examined about the way they go about choosing the expert. The expert can. But why this great lack of faith in the court's ability to decide who the expert ought to be and what the ability of that expert ought to be? Why do we consistently lack faith in our judicial system? Why do we foist upon people witnesses that they might not want? Yet we say we are in a free society.
-Amendments agreed to.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1
-"Conroy, Sen Stephen",ALP,1999-10-14,—The opposition opposes sections 664A to 665C.,SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1
+Amendments agreed to.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1,speech
+"Conroy, Sen Stephen",ALP,1999-10-14,—The opposition opposes sections 664A to 665C.,SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1,speech
 "Harris, Sen Len",IND,1999-10-14,"—In rising to support the Labor Party in it opposition to these sections, I would like to raise some concerns with relation to proposed part 6A.2. This section proposes to introduce a new compulsory acquisition power which would enable a majority shareholder to compulsorily acquire the shares of the minority shareholders without making a proper takeover offer. This is not only unfair to minority shareholders, but it is also unnecessary in light of the following: the government's proposal to allow capital gains tax rollover relief for scrip takeover offers; other amendments included in the bill facilitating the acquisition of the shares of dissenting shareholders following a takeover offer which has received 90 per cent acceptance, and other 
  existing provisions in the Corporations Law enabling a majority of shareholders to acquire the shares of minority shareholders at a fair price; section 661E, which proposes to take away the powers of a court to prevent a compulsory acquisition of shares which is clearly unfair to the shareholders whose shares it is proposed are to be acquired; section 667A(1), which proposes to prevent an expert's report from stating whether or not the terms of a proposed compulsory acquisition are fair and reasonable; and, lastly, section 667C, which proposes to impose an arbitrary and unfair formula for valuing securities.
 There is a list of companies which at this time are clearly being affected by this proposal from the government. These companies all have a shareholder or shareholders with more than 90 per cent of the capital. I would like to take the time of the Senate to name a few of these companies and the possibilities that they face. They are Albert Street Property Ltd, formerly Fitwear Ltd, and Mr Solly Lew, who owns 90 per cent of that company. Australian Consolidated Investments Ltd, previously known as Bell Resources Ltd, then under the control of Alan Bond, is owned 97.866 per cent by Brierley Investments Ltd, a New Zealand public company. There are 3,053 other shareholders holding the balance of that company. Some of those are banks and sharebroker nominee companies and it would be anticipated that they would represent a number of those minority shareholders.
@@ -156,9 +156,9 @@ Lasarex Ltd has 98.75 per cent of ordinary shares owned by Continental Venture C
 Public Holdings (Australia) Ltd is more than 90 per cent owned by a Hong Kong based Indonesian group; Quatro Ltd; Standard Chartered Bank Australia Ltd is a preferential share class and the parent company is Standard Chartered Pty Ltd; Van Diemens Land Company, which was established by royal charter from George III and is now more than 90 per cent owned by Tasman Agriculture Ltd; and, lastly, Geoffrey Thompson Holdings Ltd, now more than 90 per cent owned by the Geoffrey Thompson family.
 If the government's proposal goes forward, even if these companies do as the government indicated but one per cent of the company holdings—in other words, 10 per cent of the minority 10 per cent shareholders—decide to go to court under the conditions that the government is proposing, these companies will find themselves in a position where they will not be able to argue whether the price that is being offered is just and fair. I believe that this is definitely an unfair impost on those people.
 In conclusion, I support the Labor Party's opposition to this section, which will bring a balance, I believe, and give minority shareholders a chance to remain in the market until such time as they believe it is the correct time for them to sell their shares. We are venturing into a section where we are legislating when people can and cannot sell their shares. I think that is to the detriment of the whole intent of publicly listed companies.
-Progress reported.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1
+Progress reported.",SENATE,<title>CORPORATE LAW ECONOMIC REFORM PROGRAM BILL 1998</title>,<title>In Committee</title>,Bills,9,1,speech
 "Cooney, Sen Barney",ALP,1999-10-14,"—The opposition supports the Customs (Tariff Concession System Validations) Bill 1999 . I notice the Democrats are about to move an amendment, and I would expect that to be on the basis that this is retrospective. I think retrospectivity is bad. The defence, if that is the right word to use, of those proposing the bill is that this was a mistake—that everybody knew what the situation was and the mistake was quite apparent and that, therefore, it is reasonable, in the interests of revenue, to make retrospective legislation so that the money that has been collected will after this have been collected lawfully. Up until now, it is has been collected unlawfully.
-The opposition supports this position, but it is good to get legislation right when it is first written. If we get legislation right when it is first written, people do not have the opportunity to get themselves into a position with money whereby it has to be taken from them by retrospective legislation, as you know, Parliamentary Secretary, from your many years as one of the well-known figures on the Regulations and Ordinances and the Scrutiny of Bills committees. In any event, I make those comments and indicate that the opposition is supporting the bill.",SENATE,<title>CUSTOMS (TARIFF CONCESSION SYSTEM VALIDATIONS) BILL 1999</title>,<title>Second Reading</title>,Bills,10,1
+The opposition supports this position, but it is good to get legislation right when it is first written. If we get legislation right when it is first written, people do not have the opportunity to get themselves into a position with money whereby it has to be taken from them by retrospective legislation, as you know, Parliamentary Secretary, from your many years as one of the well-known figures on the Regulations and Ordinances and the Scrutiny of Bills committees. In any event, I make those comments and indicate that the opposition is supporting the bill.",SENATE,<title>CUSTOMS (TARIFF CONCESSION SYSTEM VALIDATIONS) BILL 1999</title>,<title>Second Reading</title>,Bills,10,1,speech
 "Murray, Sen Andrew",AD,1999-10-14,"—In rising to speak on the Customs (Tariff Concession System Valida 
  tions) Bill 1999 , I was amused by two things. Firstly, Senator Cooney and I discussed how the shifting sands of truth, light and justice move. He was vigorously opposed to me just now, and I am now vigorously opposed to him. The second thing I was amused by was his willingness to refer to the many years the parliamentary secretary has been in this place.
 —No, on Scrutiny of Bills and Regs and Ords.
@@ -171,39 +171,39 @@ This bill will remove any doubt about the validity of decisions made between Jul
 The problem that the Democrats have with this bill is the arbitrary cut-off date. If you applied for a refund of duty because of the inadequate delegation before 1 June 1999, then you were okay. If you have just discovered that you would have had a right to a refund, then it is too late. In other words, same classes of taxpayers are being dealt with in a different way. The Democrats are not comfortable with the backdating of the cut-off date. It should be made clear that people who potentially had the right to obtain a refund of duty were not given notice of that right and, as far as I am aware, the Customs Service did not publicly advertise prior to 1 June 1999 that from that date the rights to refunds would be extinguished.
 I will be moving an amendment in the committee stage which has been circulated. It will seek to amend the 1 June 1999 cut-off date to the date on which this bill commences. This amendment would have the affect of allowing anyone who has claimed a refund or commenced review proceedings in the AAT before the commencement date to continue with their application. The right to obtain a refund will be cut off only from the date of commencement.
 I understand, from what Senator Cooney has said, that the Labor Party will not support me in that amendment, essentially for the reason that they feel they must deal with the bill in the Senate in precisely the same way as they have dealt with the bill in the House of Representatives. Also, because this issue was not raised with them before the bill was dealt with in the other chamber, they cannot at this time change their position. If that summary of your situation is untrue, I am 
- sure you will tell me but, if that is correct, I think it indicates an inflexibility which is regrettable. The Australian Democrats will take the amendment on the voices and will be supporting the passage of the bill thereafter.",SENATE,<title>CUSTOMS (TARIFF CONCESSION SYSTEM VALIDATIONS) BILL 1999</title>,<title>Second Reading</title>,Bills,10,1
+ sure you will tell me but, if that is correct, I think it indicates an inflexibility which is regrettable. The Australian Democrats will take the amendment on the voices and will be supporting the passage of the bill thereafter.",SENATE,<title>CUSTOMS (TARIFF CONCESSION SYSTEM VALIDATIONS) BILL 1999</title>,<title>Second Reading</title>,Bills,10,1,speech
 "Patterson, Sen Kay",LP,1999-10-14,"—I thank honourable senators for their contributions and also for the fact that they have done so succinctly. The Australian Democrats have been concerned that the bill may be invalid as it could represent an acquisition of property on unjust terms, contrary to section 51(xxxi) of the Constitution. Legal advice obtained from the Chief General Counsel of the Australian Government Solicitor indicates that the bill is not a law with respect to the acquisition of property for the purposes of that section. A copy of that advice has been provided to the Australian Democrats and the Australian Labor Party.
 With respect to the amendment, the bill does not remove any legal right that a person or company may have to seek review of a decision made under the tariff concession system. It simply acts to remove any doubt about the validity of certain decisions to the extent that they were taken in reliance on a delegation that may not have been sufficient. It does not change the decisions which have been made. The effect of the amendment would be to provide a windfall gain to any importer who chooses to lodge a refund or AAT application before the bill receives royal assent. This would also reinstate certain tariff concession orders even though application of the provisions of the tariff concession system has established that those tariff concession orders should be revoked. The government will not be supporting the Democrats amendment. I commend the bill to the chamber.
 Question resolved in the affirmative.
-Bill read a second time.",SENATE,<title>CUSTOMS (TARIFF CONCESSION SYSTEM VALIDATIONS) BILL 1999</title>,<title>Second Reading</title>,Bills,10,1
+Bill read a second time.",SENATE,<title>CUSTOMS (TARIFF CONCESSION SYSTEM VALIDATIONS) BILL 1999</title>,<title>Second Reading</title>,Bills,10,1,speech
 "Cooney, Sen Barney",ALP,1999-10-14,"—The opposition supports this bill with an amendment which I understand the government accepts. This is a bill which strengthens the power of Customs at the border. It is a lot better to stop things at the border than to discover them within the country. I think the time is coming when it is more and more urgent to get some sort of system going where matters are stopped before they even get to the border. In other words, we need to come to an arrangement with other countries to stop drugs and other illegal cargo being taken away from the port of departure. In any event, this is a move to strengthen the border, and the opposition agrees with that move.
 The opposition's amendment takes away vicarious criminal liability. The bill, as originally written, made employers criminally responsible for the actions of their employees, which is a very harsh approach. It is different with companies. Companies are organisations which, by their very nature, operate through a whole series of people. In the course of that operation, as it were, within its shell—that is, the body of the company that is made up by all of these people—if part of that body acts 
  in a criminal way, then the body itself is criminally responsible. For example, if the hand did something—if it stole with the mind behind it—then that is criminal and the whole body is criminal.
 —It depends if you are left or right handed!
-—It does not matter what it is. Why should an employer be responsible when he or she had no part in the crime at all? Just because there is an employment relationship between the two, if the employer is punished and given a criminal conviction, it is just not right. I am very pleased to see that the government has realised that it will be fairer to go with this amendment.",SENATE,<title>CUSTOMS LEGISLATION AMENDMENT BILL (No. 1) 1998 [1999]</title>,<title>Second Reading</title>,Bills,11,1
+—It does not matter what it is. Why should an employer be responsible when he or she had no part in the crime at all? Just because there is an employment relationship between the two, if the employer is punished and given a criminal conviction, it is just not right. I am very pleased to see that the government has realised that it will be fairer to go with this amendment.",SENATE,<title>CUSTOMS LEGISLATION AMENDMENT BILL (No. 1) 1998 [1999]</title>,<title>Second Reading</title>,Bills,11,1,speech
 "Murray, Sen Andrew",AD,1999-10-14,"—My colleague Senator Stott Despoja made a number of comments on Labor's amendment in her minority report when the Senate Legal and Constitution Legislation Committee inquired into the Customs Legislation Amendment Bill (No. 1) 1998 [1999] . I draw the Senate's attention to those comments. This bill makes companies and people criminally responsible for certain actions of their employees. Statutory and common law determines the obligations of companies. As fictional legal entities, it has been appropriate to attach vicarious liability for the criminal actions of their employees. However, individuals should not be treated in the same way as companies. It is not appropriate for vicarious liability to attach to a person for the behaviour of other persons, whether they be employees or employers.
 There are relationships between people which properly attract criminal sanctions. A person might rightly be punished for aiding and abetting another or inciting him or her in the commission of a crime, but the relationship giving rise to those offences is quite different from that established by employment alone. The Democrats cannot accept that a person should be deemed to be a criminal simply because he or she employs someone else who commits an offence. Criminality is a grave matter. It ought not be visited on anyone without due course. I wish to place on the record that the Australian Democrats 
- unreservedly support the amendment moved by the Labor Party and will thereafter support the bill.",SENATE,<title>CUSTOMS LEGISLATION AMENDMENT BILL (No. 1) 1998 [1999]</title>,<title>Second Reading</title>,Bills,11,1
+ unreservedly support the amendment moved by the Labor Party and will thereafter support the bill.",SENATE,<title>CUSTOMS LEGISLATION AMENDMENT BILL (No. 1) 1998 [1999]</title>,<title>Second Reading</title>,Bills,11,1,speech
 "Patterson, Sen Kay",LP,1999-10-14,"—Again, I thank honourable senators for their contributions and their brevity. The Customs Legislation Amendment Bill (No. 1) 1998 [1999]  contains legislative amendments proposed by the government to implement part of the Tough on Drugs strategy, an initiative announced by the Prime Minister on 2 November 1997. The bill amends the Customs Act 1901 with the objective of providing Customs officers with more effective powers in relation to the detection of illicit drugs at the border. The bill also amends the Customs Administration Act 1985 in relation to the use made of information obtained or held by the Australian Customs Service.
 The issue of vicarious liability was raised and was the subject of two minority reports of the Senate Legal and Constitutional Legislation Committee—one from the opposition and one from the Democrats. The government will agree to the proposed amendment to remove personal liability. Individuals should not be held liable for the action of their employees in relation to vicarious liability. I indicate that the government will be supporting the amendment. I commend the bill to the chamber.
 Question resolved in the affirmative.
-Bill read a second time.",SENATE,<title>CUSTOMS LEGISLATION AMENDMENT BILL (No. 1) 1998 [1999]</title>,<title>Second Reading</title>,Bills,11,1
+Bill read a second time.",SENATE,<title>CUSTOMS LEGISLATION AMENDMENT BILL (No. 1) 1998 [1999]</title>,<title>Second Reading</title>,Bills,11,1,speech
 "Cooney, Sen Barney",ALP,1999-10-14,"—The Intellectual Property Laws Amendment (Border Interception) Bill 1999  seeks to give added protection to the Olympic Games movement in Sydney. I have seen you running through Sydney, Mr Acting Deputy President Campbell. It is not too late to set your sights on the Olympic Games.
 This legislation is tied up with the whole concept of intellectual property. It is good to see that intellectual property is given protection. Perhaps we ought to give more protection than we presently do to intellectual property outside the Olympic Games. It has often been said in this place and elsewhere that intellectual property is the way forward to the future. The protection we give to the intellectual property connected with the Olympic Games ought to be the sort of protection we give to intellectual property generally.
 In this context, I cannot resist pointing out a report that was done in this general area in 1995 by the Senate Legal and Constitutional References Committee. It was during that inquiry that the new system of Senate committees came in. The new system came in on 10 October 1995, as the Deputy Clerk will well remember. Like all their works, it was seminal at that time.
 —A few of us remember.
-—As Senator West says, a few of us do remember. If more people remembered and took regard of reports like this, this legislation would have been passed with enthusiasm. In any event, the opposition supports this legislation.",SENATE,<title>INTELLECTUAL PROPERTY LAWS AMENDMENT (BORDER INTERCEPTION) BILL 1999</title>,<title>Second Reading</title>,Bills,12,1
+—As Senator West says, a few of us do remember. If more people remembered and took regard of reports like this, this legislation would have been passed with enthusiasm. In any event, the opposition supports this legislation.",SENATE,<title>INTELLECTUAL PROPERTY LAWS AMENDMENT (BORDER INTERCEPTION) BILL 1999</title>,<title>Second Reading</title>,Bills,12,1,speech
 "Patterson, Sen Kay",LP,1999-10-14,"—The Intellectual Property Laws Amendment (Border Interception) Bill 1999  will improve the protection available to the Sydney Organising Committee for the Olympic Games and the Sydney Paralympic Organising Committee against imported goods that seek to ambush their marketing activities. It will also improve the protection available to owners of registered trademarks against imported goods that bear infringing marks. I thank Senator Cooney for his brief comments. I am pleased that this bill has attracted broad support, especially in the final year leading up to the Sydney 2000 Games. I commend the bill to the Senate.
 Question resolved in the affirmative.
-Bill read a second time, and passed through its remaining stages without amendment or debate.",SENATE,<title>INTELLECTUAL PROPERTY LAWS AMENDMENT (BORDER INTERCEPTION) BILL 1999</title>,<title>Second Reading</title>,Bills,12,1
-"Cooney, Sen Barney",ALP,1999-10-14,"—The opposition supports this Customs Legislation Amendment Bill (No. 2) 1999 . It deals with machinery matters, all of which are very important but not the sorts of things that you storm the barricades about. I notice, for example, that in schedule 3 the word `agent' is going to be deleted and the word `broker' put in. That is of great importance. In addition, in schedule 1 they are going to introduce a legislative option for an electronic lodgment and payments system for refunds of customs duty. That indicates how things will go. While it is an interesting bill, it is not the sort of one that you would make inspired speeches about, so I will not.",SENATE,<title>CUSTOMS LEGISLATION AMENDMENT BILL (No. 2) 1999</title>,<title>Second Reading</title>,Bills,13,1
+Bill read a second time, and passed through its remaining stages without amendment or debate.",SENATE,<title>INTELLECTUAL PROPERTY LAWS AMENDMENT (BORDER INTERCEPTION) BILL 1999</title>,<title>Second Reading</title>,Bills,12,1,speech
+"Cooney, Sen Barney",ALP,1999-10-14,"—The opposition supports this Customs Legislation Amendment Bill (No. 2) 1999 . It deals with machinery matters, all of which are very important but not the sorts of things that you storm the barricades about. I notice, for example, that in schedule 3 the word `agent' is going to be deleted and the word `broker' put in. That is of great importance. In addition, in schedule 1 they are going to introduce a legislative option for an electronic lodgment and payments system for refunds of customs duty. That indicates how things will go. While it is an interesting bill, it is not the sort of one that you would make inspired speeches about, so I will not.",SENATE,<title>CUSTOMS LEGISLATION AMENDMENT BILL (No. 2) 1999</title>,<title>Second Reading</title>,Bills,13,1,speech
 "Patterson, Sen Kay",LP,1999-10-14,"—Senator Cooney, I think that you and I should just do these non-controversial bills with Senator Murray and we would speed up the process of legislation enormously. I thank Senator Cooney for his very succinct speech. I have to agree with you that it is not something that you could make a passionate speech about. The Customs Legislation Amendment Bill (No. 2) 1999  proposes to amend the Customs Act in three separate areas. Those areas are: the introduction of an electronic lodgment and payments system for refunds of customs duty, the introduction of a deferral facility and the extension from one year to three years for customs agent licences. I am sure it excites those who are involved, but they are not controversial changes and they are supported by the industry. I commend the bill to honourable senators.
 Question resolved in the affirmative.
-Bill read a second time, and passed through its remaining stages without amendment or debate.",SENATE,<title>CUSTOMS LEGISLATION AMENDMENT BILL (No. 2) 1999</title>,<title>Second Reading</title>,Bills,13,1
+Bill read a second time, and passed through its remaining stages without amendment or debate.",SENATE,<title>CUSTOMS LEGISLATION AMENDMENT BILL (No. 2) 1999</title>,<title>Second Reading</title>,Bills,13,1,speech
 "O'Brien, Sen Kerry",ALP,1999-10-14,"—When the message from the House of Representatives came to this chamber this morning, there was some banter about this being fishy legislation. I was guilty of that, as was Senator Ian Campbell. There is nothing flippant about the legislation because there are three main purposes of the Fisheries Legislation Amendment Bill (No. 1) 1999 . The first is to provide for more effective enforcement against foreign vessels and foreign nationals engaging in illegal fishing within Australian waters. The second is to implement a range of legislative measures that will allow Australia to ratify the agreement for the implementation of the United Nations Convention on the Law of the Sea relating to the conservation and management of straddle stocks and highly migratory fish stocks. The third is to allow Australia to participate in regional fisheries management organisations under the fish stocks agreement.
 The bill consists of two schedules. The first relates to new forfeiture and enforcement powers to combat illegal foreign fishing. These measures are aimed at ensuring more efficient fisheries surveillance and enforcement within the Australian fishing zone. The second relates to implementing obligations necessary to ratify the above convention. Both schedules address the growing use of illegal, unregulated and unreported fishing. The issue of illegal fishing in Australian waters has unfortunately been an ongoing and increasing problem, and for that reason the opposition is happy to support this bill.
 The fishing industry in Australia is a key primary industry, particularly in regional areas such as the state of Tasmania. It is also an industry that continues to grow in importance. Recent surveys of fish consumption in Australia indicate an increase in consumption of some 13 per cent since 1991. Australian 
- exports have also risen over the past decade from about $783 million to just under $1.5 billion. That remarkable export performance is built around our highly prized and highly priced shellfish and other fish sold at a premium into the Asian markets in Japan, Hong Kong, Taiwan and China. Tuna, abalone, crabs, prawns, scallops and rock lobsters are all in increasing demand in those markets. It is important to note that these past growth patterns and export performance can only be sustained if these key fisheries are managed in a sustainable manner. A number of these fisheries are very susceptible to overfishing, and the problem of illegal fishing only exacerbates that problem. We are therefore happy to support this bill.",SENATE,<title>FISHERIES LEGISLATION AMENDMENT BILL (No. 1) 1999</title>,<title>Second Reading</title>,Bills,14,1
+ exports have also risen over the past decade from about $783 million to just under $1.5 billion. That remarkable export performance is built around our highly prized and highly priced shellfish and other fish sold at a premium into the Asian markets in Japan, Hong Kong, Taiwan and China. Tuna, abalone, crabs, prawns, scallops and rock lobsters are all in increasing demand in those markets. It is important to note that these past growth patterns and export performance can only be sustained if these key fisheries are managed in a sustainable manner. A number of these fisheries are very susceptible to overfishing, and the problem of illegal fishing only exacerbates that problem. We are therefore happy to support this bill.",SENATE,<title>FISHERIES LEGISLATION AMENDMENT BILL (No. 1) 1999</title>,<title>Second Reading</title>,Bills,14,1,speech
 "Greig, Sen Brian",AD,1999-10-14,"—Having a personal history of working within the fishing industry, I have a particular interest in such matters. I am pleased to report that the Democrats do support this bill, the Fisheries Legislation Amendment Bill (No. 1) 1999 , for the following reasons. Conservation groups, the fishing industry and the general community have expressed a strong interest and concern in the issues of unsustainable high seas fishing and illegal, unregulated and unreported fishing, particularly as they affect Australia's living resources. I recall—I think it was only my first week here in the Senate—when orange roughie was fish of the day—if you will forgive me for saying that. Not only is it a practice which is decimating fish stocks around the world; it is also a practice which is threatening the viability of the Australian fishing industry.
 This bill provides for far more effective enforcement against foreign vessels and foreign nationals engaging in illegal fishing within Australian waters. It will greatly aid the Australian fishing industry and, in significantly increasing the powers of fisheries to detain illegal vessels, it will provide significant protection for those depleting fish stocks. Firstly, as Senator O'Brien said, it will change the current conviction based scheme for illegal foreign fishers to one which is based on the automatic forfeiture of vessels, gear and catch of illegal foreign fishers apprehended in Australian waters—not only commercial 
  fishers but also recreational fishers. Secondly, it will ensure that the automatic forfeiture regime for foreign fishers will prevail over the Admiralty Act 1988. Thirdly, it will strengthen the powers of fisheries officers to detain and deal with illegal foreign vessels, including use of reasonable force. For example, they will have explicit powers consistent with international law to use reasonable force when requiring a boat to stop to apprehend foreign boats suspected of illegal fishing. Examples of reasonable force could include firing at or into a ship after appropriate warning shots have been fired and using devices to stop propulsion of the boat. Finally, fines for such offences will be doubled with top penalties now rising to $550,000.
@@ -211,7 +211,7 @@ In relation to endangered species, the mechanism exists for listing under the CI
 In November 1998, the Minister for the Environment and Heritage, Senator Robert Hill, and the Minister for Agriculture, Fisheries and Forestry, the Hon. Mark Vaile, stated that if CCAMLR—that is, the Commission for the Conservation of Antarctic Marine Living Resources—is not prepared to move on Australia's proposals to stop illegal fishing of the Patagonian toothfish, Australia will `assess the role for other international fora such as the CITES convention'. I am confident that the Australian Democrats would be fully supportive of a CITES listing for those species.
 A listing on appendix 2 of the CITES convention does not mean that commercial fishing would be banned or the trade of the products of such fishery, rather that they would be regulated under the CITES convention. The export of products of such species 
  would require a management plan to be developed under the Wildlife Protection (Regulation of Exports and Imports) Act 1982 in a similar manner to which the export of kangaroo products is conducted.
-CITES is an international tool to keep illegal fishing and its profits under control. We Democrats would certainly welcome this additional tool, which would further strengthen this bill. However, we note that the government must be prepared to deliver a submission to CITES on this matter before the closing date of 12 November this year—less than one month away—otherwise this opportunity would be lost. So, in supporting this bill, I would like to ask the Parliamentary Secretary to the Minister for Agriculture, Fisheries and Forestry if, when she rises to her feet in a moment, she can please explain why it is that the government appears to be dragging its feet on that proposal.",SENATE,<title>FISHERIES LEGISLATION AMENDMENT BILL (No. 1) 1999</title>,<title>Second Reading</title>,Bills,14,1
+CITES is an international tool to keep illegal fishing and its profits under control. We Democrats would certainly welcome this additional tool, which would further strengthen this bill. However, we note that the government must be prepared to deliver a submission to CITES on this matter before the closing date of 12 November this year—less than one month away—otherwise this opportunity would be lost. So, in supporting this bill, I would like to ask the Parliamentary Secretary to the Minister for Agriculture, Fisheries and Forestry if, when she rises to her feet in a moment, she can please explain why it is that the government appears to be dragging its feet on that proposal.",SENATE,<title>FISHERIES LEGISLATION AMENDMENT BILL (No. 1) 1999</title>,<title>Second Reading</title>,Bills,14,1,speech
 "Troeth, Sen Judith",LP,1999-10-14,"—I would like to thank senators for their contribution to the debate. Senator Greig, I hope to deal with that point that you raised before I finish. The Fisheries Legislation Amendment Bill (No. 1) 1999  comes at a time when the issues of illegal and unregulated fishing are receiving a considerable amount of community attention and concern—and rightly so. Australia has the third largest fishing zone in the world. A lot of that zone is isolated and it has therefore been easier for people to make illegal use of our zone. It is a real challenge to adequately supervise such a large fishing area. We have some very valuable fishing stocks in Australia, and these are a considerable degree of attraction to rogue fishing operators, who are looking to free ride off the efforts of Australia to manage its fishing resources sustainably.
 This bill will strengthen Australia's powers to manage and protect these resources, and there are two particular initiatives that I would like to mention. Schedule 1 has measures for more effective enforcement against those illegal foreign fishing operations and will provide for greater deterrents for those seeking to take fish from our waters. The second, dealt with in schedule 2, allows for the 
  implementation of the United Nations fish stocks agreement that provides for more effective management of straddling and highly migratory species, many of which are found in Australian waters.
@@ -225,7 +225,21 @@ Lastly, Senator Greig, I refer to the question you asked me earlier. The fish st
 To briefly sum up, the government has made strong efforts in this legislation to pursue strong action to support the sustainability of our fisheries resources, backed by international law. The passage of the bill will send a clear message to those foreign fishers, who might now think twice about fishing illegally. As well, it provides real benefits for the conservation of marine resources in Australia and also the future viability of our very important fishery industry. I commend the bill to the Senate.
 Question resolved in the affirmative.
 Bill read a second time, and passed through its remaining stages without amendment or debate.
-Sitting suspended from 1.31 p.m. to 2.00 p.m.",SENATE,<title>FISHERIES LEGISLATION AMENDMENT BILL (No. 1) 1999</title>,<title>Second Reading</title>,Bills,14,1
+Sitting suspended from 1.31 p.m. to 2.00 p.m.",SENATE,<title>FISHERIES LEGISLATION AMENDMENT BILL (No. 1) 1999</title>,<title>Second Reading</title>,Bills,14,1,speech
+"Carr, Sen Kim",ALP,1999-10-14,"—My question without notice is to Senator Ellison, representing the Minister for Education, Training and Youth Affairs. Is the minister aware of this morning's stampede of the Prime Minister and his ministers to distance themselves from their colleague Dr David Kemp and his cabinet submission on higher education? As the minister representing Dr Kemp in the Senate, 
+ will the minister also publicly repudiate his colleague?",SENATE,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Government Policy</title>,Questions Without Notice,15,1,question
+"Carr, Sen Kim",ALP,1999-10-14,"—Madam President, I ask a supplementary question. Given that you say the Prime Minister has ruled out vouchers, can you confirm that on 17 April 1998 Dr Kemp issued a statement setting out unequivocally that the Howard government had:
+. . . no intention of introducing vouchers for post-secondary education or deregulating university fees.
+In light of the fact that the leaked cabinet submission proposes exactly that, what possible credibility can Dr Kemp have—or the Prime Minister have, for that matter—having stated as they have today that these proposals are not on the government's agenda?",SENATE,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Government Policy</title>,Questions Without Notice,15,1,question
+"Ellison, Sen Chris",LP,1999-10-14,"—At the outset, there is absolutely no distance between the Prime Minister and Dr Kemp. They are of one accord on this. The Prime Minister himself has totally rejected the scare campaign of the opposition over there, who are trying to scare Australian students into believing that we are going to go down the American path. The Prime Minister has said that we will not do that. The Prime Minister has said that we will stick by our commitments and he has ruled out a voucher system. He has said that we will stick with the HECS system. In fact, there is even a proposal to expand it.
+—Is that the same commitment as with the GST?
+—The opposition obviously do not want to hear this because they want to beat this question up. They want to scare the Australian public into believing that we are going down the path of introducing vouchers—the American system. The Prime Minister has totally rejected that. We will stand by our commitments—commitments to increase tertiary education in this country. In fact, under the coalition we have increased the number of students who have access to undergraduate university education. In 1999 there will be over 13,000 more Commonwealth fully subsidised places than there were in the last year of Labor. In just over three short years we have increased by over 13,000 the number of Commonwealth funded places for university students in this country.
+There is other good news in relation to the tertiary education sector. Can I just point out—the opposition do not want to hear this—that university enrolments in 1999 have reached a record high, with just under 30,000 more students enrolling in 1999 than in the last year of Labor. That spells out to the people of Australia that this government is doing great things for those students who want to engage in tertiary education. What Senator Carr is trying to do with this question is just beat up the situation and try and scare people into thinking that we are going to do something that we are not.",SENATE,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Government Policy</title>,Questions Without Notice,15,1,answer
+"Ellison, Sen Chris",LP,1999-10-14,"—Senator Carr should not premise his question on an absolutely false assumption.
+—Are you saying it is not true?
+—And a number of them, I might add. What he said is that this is a cabinet submission. They will not even table the document. Why won't you table the document? Because you are saying that this is a cabinet submission.
+—Senator Ellison, address your remarks through the chair.
+—Madam President, why will they not table this document if it is so authentic? They will not. That reveals them for what they are—scaremongers.",SENATE,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Government Policy</title>,Questions Without Notice,15,1,answer
 "Carr, Sen Kim",ALP,1999-10-14,"—I move:
 That the Senate take note of the answers given by the Special Minister of State (Senator Ellison) and the Minister for the Environment and Heritage (Senator Hill), to questions without notice asked today, relating to higher education fees.
 Today Senator Ellison said it all. He exposed the real Howard government policy, that is, `no fee, no degree'. We now have it all spelled out to us: $100,000 per degree is the basis of their new approach to funding higher education in this country. We are told that the Prime Minister and many other members of this government are seeking to walk away from their US style education system and their plans to deregulate university fees. The same approach has been taken as when Dr Kemp said in the past that he would not introduce vouchers—just as Senator Newman claims she has no secret claim to dismantle social security and just as the Prime Minister said he would never ever introduce a GST. The truth is out there for anyone to see. The truth is very simple: this government live by an ideological obsession with the privatisation and deregulation of this industry and the undermining of the capacity of ordinary Australians to enjoy the fruits of a higher education.
@@ -237,7 +251,7 @@ I would have thought that Senator Vanstone would have been saying a great deal m
 —This is a wide-ranging discussion. I call Senator Carr.
 —It is quite clear to me that Senator Vanstone may well be the person we should thank for exposing this government's hypocrisy and its pattern of deceit with regard to higher education. Senator Vanstone knows only too well what the practices of this government are in reality: they say one thing, they do another. There is no way that anyone can believe for a moment the assurances given by this government, given their pattern of deceit in so many areas.
 We have experienced the claims made by this government that they are not undertaking certain policies, when it has been quite apparent on at least two occasions this year, as a result of the documentation that the public has before it, that this government have been considering actions to move towards the deregulation of the university sector, the introduction of oppressive fees and the remov 
- al of any commitment they may have made in previous times. We have before us in written form the fact that this government have sought to introduce a new system of higher education which quite directly benefits those in this community who are already very wealthy and privileged and who will enjoy further advantage as a result of policies which are quite apparently directed at making sure that those who enjoy the fruits of power and privilege in this community will continue to do so.",SENATE,<title>ANSWERS TO QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Government Policy</title>,Miscellaneous,16,1
+ al of any commitment they may have made in previous times. We have before us in written form the fact that this government have sought to introduce a new system of higher education which quite directly benefits those in this community who are already very wealthy and privileged and who will enjoy further advantage as a result of policies which are quite apparently directed at making sure that those who enjoy the fruits of power and privilege in this community will continue to do so.",SENATE,<title>ANSWERS TO QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Government Policy</title>,Miscellaneous,16,1,speech
 "Tierney, Sen John",LP,1999-10-14,"—What a waste of five minutes that was, listening to what Senator Carr had to say. I thought he was going to make a serious contribution in relation to educational policy, but talking about champagne between various ministers did not have much  at all to do with the answer to the question.
 Moving to this spurious issue which has been brought up in the last 24 hours, we are faced with the situation of a document which is creating a storm in a teacup. This is not at all government policy that we are talking about. It is a great pity that the press has got into bed with the ALP and scaremongered, as we saw by the headlines today. Those headlines have nothing to do with government policy. These matters have not been discussed by cabinet or by the party. I chair the backbench committee and we certainly have not discussed any of them. This issue has no credibility, but at least it is something we can base some discussion on. By comparison, if we went to the ALP policy cupboard and we opened that cupboard, what would we find?
 —It would be bare.
@@ -258,7 +272,7 @@ Mark Latham found the official policy of the ALP—it was devised by someone els
  policy, he should get in and write the policy himself because the ALP certainly does not have one.
 We need to continue to develop ideas in education because we were left with a terrible legacy by the ALP government in this area. I came into the Senate in 1991. At that stage in higher education there were 50,000 people knocking at the gates trying to get in. This was after eight years of Labor control of education policy. Over that time, for a start, fees were brought in. Senator Carr starts his speech today with, `No fees, no degrees'—
 —That is Liberal policy.
-—He starts on this issue but, Senator, your government brought in the fees in the first place. Then you increased the number of students and didn't bring in the resources to match. The result of that under the Labor policy was a decline in standards, a decline in the quality of what was delivered, a crisis in the libraries of the country and a run-down in the IT. That is what you left this country. What we have to do now to make up for your legacy of 13 years is come up with some creative ideas to try to improve the state of higher education. If we wait for the Labor Party to come up with that we will not get it, because you are a policy free zone. (Time expired)",SENATE,<title>ANSWERS TO QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Government Policy</title>,Miscellaneous,16,1
+—He starts on this issue but, Senator, your government brought in the fees in the first place. Then you increased the number of students and didn't bring in the resources to match. The result of that under the Labor policy was a decline in standards, a decline in the quality of what was delivered, a crisis in the libraries of the country and a run-down in the IT. That is what you left this country. What we have to do now to make up for your legacy of 13 years is come up with some creative ideas to try to improve the state of higher education. If we wait for the Labor Party to come up with that we will not get it, because you are a policy free zone. (Time expired)",SENATE,<title>ANSWERS TO QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Government Policy</title>,Miscellaneous,16,1,speech
 "Forshaw, Sen Michael",ALP,1999-10-14,"—It is obvious that the government is running scared. The cat is out of the bag and the people of this country, particularly the students, the future university students, those who are about to sit for their HSC, and their families, have now had exposed to them what this government has in store for them in the future. Senator Tierney, in his rambling attempt at defence of this government's position on education, threw out a challenge. The ALP has form in respect of education—great form. You only have to look at some of the people in the ranks of those opposite who have been the beneficiaries of the great improvements that the Labor government made in the 1970s under Gough Whitlam and then in the 1980s under Prime Minister Hawke and then Prime Minister Keating to see what great achievements we produced.
 For instance, look at people like the former minister for education, Senator Vanstone. She obtained her degree from university at a time when university fees were essentially non-existent—the great reform brought in by the Whitlam government that I and many others have been beneficiaries of. The same applies to the current spokesperson for education in this chamber, Senator Ellison. It is unfortunate that when they were given the job of running or representing the ministry of education they failed dismally.
 For instance, what was Senator Vanstone's first move as the minister for education when this government came to power in 1996? It was to slash $800 million out of the university sector. When she tried to placate the vice-chancellors—not a noted pro-Labor group of people—who were irate about this government's policies on higher education, what was her response? In terms of university cuts it was: `Why don't you think of a number between about one and 15?' That is how seriously she treated it. And Senator Tierney has the hide to make some wisecrack about champagne, which is very relevant if you look at the record of the previous minister in regard to education policy.
@@ -267,7 +281,7 @@ What are those proposals? As we have seen exposed, they involve total deregulati
  after—to pay $100,00 or more to get a university degree.
 —To choose.
 —That's right, Senator Hutchins—to have to make choices as to whether they can afford in the future to send their children to university—the dream of every child in this country to get a higher education; the dream of every child and the dream of every parent.
-You say that this is a beat-up. Well, the only people that are doing the beating up are this government and this minister. They are beating up the families and those students that right now are about to go and sit for the HSC. That is the real scaremongering. You are frightening the living daylights out of them in terms of the policy that you have in store for them. It has taken the exposure of this policy today to demonstrate the real difference between the Labor Party and the Liberal Party. We stand for education, for educational opportunity and for equity for Australian children. We have always done it and we have been responsible for the great reforms. You stand for the wealthy and the privileged. (Time expired)",SENATE,<title>ANSWERS TO QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Government Policy</title>,Miscellaneous,16,1
+You say that this is a beat-up. Well, the only people that are doing the beating up are this government and this minister. They are beating up the families and those students that right now are about to go and sit for the HSC. That is the real scaremongering. You are frightening the living daylights out of them in terms of the policy that you have in store for them. It has taken the exposure of this policy today to demonstrate the real difference between the Labor Party and the Liberal Party. We stand for education, for educational opportunity and for equity for Australian children. We have always done it and we have been responsible for the great reforms. You stand for the wealthy and the privileged. (Time expired)",SENATE,<title>ANSWERS TO QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Government Policy</title>,Miscellaneous,16,1,speech
 "Tchen, Sen Tsebin",LP,1999-10-14,"—What a sorry spectacle Senator Forshaw made, having to follow the performance of Senator Carr. Senator Carr rather reminded me of a story I heard when I was younger about a veteran newspaper editor who was teaching younger cadets how to write newspaper headlines. He said, `A good editor can always compress the story into one line.' For example, the story of the first part of Exodus, about Moses, could be compressed to say, `Moses opens mouth; bull rushes out.' We could easily substitute Senator Carr for that, for his performance.
 Senator Hutchins interjecting—
 —Don't give up the day job.
@@ -277,7 +291,7 @@ Senator Hutchins interjecting—
 You have a shadow minister on education who has managed not to speak on education topics for three years. There is no policy. That is keeping in mind that when Mr Beazley, the Leader of the Opposition in the other house, became Leader of the Opposition, he proclaimed that he was going to be the education prime minister. Yet, all this time, the only policy that the Labor Party actually came up with was, as Senator Tierney mentioned, put up by Mr Mark Latham, who subsequently lost his job. That is his reward for actually coming up with alternative policies.
 There is a very obvious reason why the Labor Party have no policy at the moment. It is because they are still recovering from 13 years of managing education without a policy. At the time when the Labor Party lost government, there was enormous unmet demand in the community. We heard that in 1991. The Labor government had introduced a fee payment for university education but they had done nothing about funding universities. They encouraged more students to apply for and go to university and then did nothing to improve the situation there. At the time when the Howard government took over, there was 
  unmet demand of at least 40,000 qualified students who could not get places.
-The Howard government has introduced positive policies. We are determined to make Australia an educated, knowledge based society with opportunity for all, regardless of their financial circumstances and the financial circumstances of their institution. (Time expired)",SENATE,<title>ANSWERS TO QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Government Policy</title>,Miscellaneous,16,1
+The Howard government has introduced positive policies. We are determined to make Australia an educated, knowledge based society with opportunity for all, regardless of their financial circumstances and the financial circumstances of their institution. (Time expired)",SENATE,<title>ANSWERS TO QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Government Policy</title>,Miscellaneous,16,1,speech
 "McLucas, Sen Jan",ALP,1999-10-14,"—In taking note of answers this afternoon, I wish to reserve my comments to the impact on regional universities, notably in Queensland, of the Kemp proposals we have seen in the last couple of days. When Senator Ellison made his comments today, he omitted to remember this important sector of higher education in Australia—that is, regional universities across our nation. Haven't this government learned the lesson of Victoria—the lesson that all of us have seen in the last three weeks? Haven't they seen what rural Australia will do when they have been forgotten? I suggest that this Kemp model will herald the end of regional universities across this nation. It is not only I and the ALP that recognise that. Mr Mullarvey, the Australian Vice-Chancellors Committee Acting Executive Director, said today in the Courier-Mail  that if the proposal was embraced and funding to universities was cut it would be a major concern for Australia. He went on to say that under proposed changes newer and regional universities would find it difficult to survive.
 The phone calls to my office today from Townsville, Cairns, Mackay, Rockhampton and Toowoomba support this view. Let me explain to the government about the characteristics of regional universities.
 —James Cook has done very well out of this government.
@@ -287,7 +301,7 @@ Let us look at the impact of the Kemp proposals on regional universities. Becaus
 Under this government we are moving to a system of haves and have-nots. Regional Australia already suffers under the tyrannies of distance and the higher cost of living. This government is driving the wedge between city and country even further in terms of educational opportunities for regional Australia. This Kemp policy will deny regional Australia access to tertiary education.
 Let us look further at the impact on the universities themselves. As I have said, regional universities are emerging in their specialisation. They are younger and they are newer—they are establishing themselves. They are struggling to develop their options for students under this government with the incredible cuts they have suffered. They are struggling to develop their research capacity. Come the Kemp model, it is the research arm of those regional universities that will suffer. Regional universities are looking to specialise and carve a niche in the education sector, but what chance will they have to develop those specialisations, as some of our other universities have been able to do?
 I now turn to the impact on a community that the Kemp model will bring. Regional universities contribute significantly to our regional centres. I know that personally, coming from Cairns and seeing the change in 
- our community when the James Cook University of North Queensland established its campus in our city. It was a wonderful change that that university brought. The contribution of students and staff to general community activities has improved the quality of life in our centre. Under the Kemp model, those universities will not be able to contribute to the broader society of our regional towns, because they will be spending all of their time focused on the business of teaching. Can I suggest that the Kemp model follows the ideology of this government as a whole. It is back to the future. (Time expired)",SENATE,<title>ANSWERS TO QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Government Policy</title>,Miscellaneous,16,1
+ our community when the James Cook University of North Queensland established its campus in our city. It was a wonderful change that that university brought. The contribution of students and staff to general community activities has improved the quality of life in our centre. Under the Kemp model, those universities will not be able to contribute to the broader society of our regional towns, because they will be spending all of their time focused on the business of teaching. Can I suggest that the Kemp model follows the ideology of this government as a whole. It is back to the future. (Time expired)",SENATE,<title>ANSWERS TO QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Government Policy</title>,Miscellaneous,16,1,speech
 "Mason, Sen Brett",LP,1999-10-14,"—We have heard from Senator Ellison, the Prime Minister and Dr Kemp that there will be no deregulation of fees and no US style voucher system.
 —Do you believe them? No-one does in the Labor Party!
 —Senator Carr often misunderstands the politics of the eighties and the nineties. The Left are irrelevant in the nineties. Let me explain why. I had the privilege the other day to address students at QUT, Brisbane. They all accept, down to a student, that they should help with their fees.
@@ -301,7 +315,7 @@ Under the HECS system, tertiary students pay about 30 per cent of their total fe
 It has also enabled universities—and I make no apologies for this—to be much more entrepreneurial and much more flexible. That is also a great thing. The tired, old, leftwing hack view that, somehow, the state is there to provide a teat for all and that people need not give anything back is absolutely dead and finished. That is the difference. It worries me that this is such a time warp. This debate comes back, and all I can hear ringing in my ears is Senator Susan Ryan standing up and suggesting that the whole system would crumble if we had tertiary fees. A great thing—one of the greatest achievements of your government and one of the greatest achievements of our government—is the enormous increase in access to tertiary education. 
 I know it does not accord with left wing views at all—it would not because it is relevant. What is important to the future is this: the quality of tertiary teaching. That is important because at the moment academics are simply talking to each other and not engaging in public debate. That is very important. Also very important is how we are going to fund top-class tertiary education into the next millennium. That is becoming very difficult. We are going to have to do that as well. They are the big questions for the next century—not bleating about scare campaigns being revisited from the 1980s, Senator Carr. You and I agree on one thing for once—that is, that access to tertiary education is all important. You and I should be arm in arm on this question. It is a great pity that once again you are engaging in a bleating scare campaign. (Time expired)
 —Order! The time for the debate has expired.
-Question resolved in the affirmative.",SENATE,<title>ANSWERS TO QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Government Policy</title>,Miscellaneous,16,1
+Question resolved in the affirmative.",SENATE,<title>ANSWERS TO QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Government Policy</title>,Miscellaneous,16,1,speech
 "Stott Despoja, Sen Natasha",AD,1999-10-14,"—I move:
 That, in the opinion of the Senate, the following is a matter of urgency:
 The government's proposal to deregulate the higher education sector, introduce a system of voucher based funding contrary to previous assurances, replace HECS with student loans repayable with a real rate of interest and reduce public expenditure on higher education, excluding thousands of Australians from further education and cutting investment in human capital.
@@ -336,7 +350,7 @@ These proposals are a hybrid of the worst aspects of both of these systems. They
 Vouchers apparently have been ruled out by the Prime Minister today, yet we know that the cabinet has already seen the proposed reforms and requested that the minister for 
  education investigate them further, contrary to numerous public assurances that the government would not introduce vouchers. These vouchers, of course, are the idea of student centred funding that we have seen closely examined through the West review. Note that the only relevant term of reference that was not included but should have been in the West review was actually looking at how we can fund our higher education system better through public resources. The issue of public funding was not even touched on in that document. Once again, the government has failed to recognise that there is a public good, a public benefit, as a consequence of education in our society.
 On fee deregulation, Senator Ellison, representing the minister for education, today has apparently ruled that out, but I do not trust this government, not when it has broken nearly every promise, nearly every assurance, specifically in relation to higher education policy and funding—and not just this minister but also the one who preceded him. I call on the government not only to rule out any move towards a privatised system of funding such as that in the US but also to rule out the UK style reforms of vouchers and student loans.
-If these cabinet-in-confidence documents are even a glimpse of what this government has countenanced in relation to higher education reform, we will have an education system that once and for all is an elite system for the rich and blocks out the poor. (Time expired)",SENATE,<title>MATTERS OF URGENCY</title>,<title>Higher Education: Government Policy</title>,Matters of Urgency,17,1
+If these cabinet-in-confidence documents are even a glimpse of what this government has countenanced in relation to higher education reform, we will have an education system that once and for all is an elite system for the rich and blocks out the poor. (Time expired)",SENATE,<title>MATTERS OF URGENCY</title>,<title>Higher Education: Government Policy</title>,Matters of Urgency,17,1,speech
 "Ellison, Sen Chris",LP,1999-10-14,"—Can I say at the outset that the government totally rejects the motion proposed by Senator Stott Despoja, which is based on an entirely false premise, and that is that the government somehow has some proposals to deregulate the higher education sector and introduce a whole system of fanciful measures. The Prime Minister has made the government's position absolutely clear, as has Dr Kemp, the Minister for Education, Training and Youth Affairs. We have to go no further than the Prime Minister when he was interviewed today and he stated:
 We have no intention, no intention at all, of introducing an American style approach to universi 
  ty funding in this country. It won't work. It's not good for Australia and it's not something that I can support or would ever support. I make that very clear.
@@ -356,7 +370,7 @@ What is being lost in all this is the assumption that this is all going to happe
 I just don't see why the government would embark on this so-called vision, and I'm very concerned about it.
 I can tell you, Senator Stott Despoja—through the chair—that there is no need to be concerned because it is not happening. It is not happening because the Prime Minister has ruled it out.
 What we are ruling in is looking at ways to improve access by Australians to tertiary education, and we have had a number of innovations. I could point to the total research funding for higher education being up from $396 million in the last year of Labor to just over $450 million in the financial year 1998-99. What we are doing is increasing funding for research. But, as well is that, we have established the Committee for University Teaching and Staff Development. We recognise the needs of those who are engaged in teaching and lecturing in the tertiary education sector and we have developed that committee to encourage improved teaching. We have also provided the Australian awards for university teaching, to help give greater status to university teaching. These are very important steps in the recognition of those working in the sector.
-This government has done much in the tertiary education sector and the opposition, before it attacks the government, should look at how it locked out tens of thousands of Australians who wanted to take up a university course but could not. They had the money to pay for a course but they could not take one up, because you had a wholly funded government-set enrolment target. As well as that you had Labor's Higher Education Contribution Scheme, which was unfair because students in courses with lower income prospects paid the same amount as those in courses with higher income prospects. Of course, it was only fair for us to recognise the differences in the incomes that those students would be deriving when qualified. What the community ought to realise and should remember is what Labor did not do and then remember what we have done to increase access for all Australians to tertiary education. I urge all Australians not to succumb to the scaremongering by the Democrats and the opposition. (Time expired)",SENATE,<title>MATTERS OF URGENCY</title>,<title>Higher Education: Government Policy</title>,Matters of Urgency,17,1
+This government has done much in the tertiary education sector and the opposition, before it attacks the government, should look at how it locked out tens of thousands of Australians who wanted to take up a university course but could not. They had the money to pay for a course but they could not take one up, because you had a wholly funded government-set enrolment target. As well as that you had Labor's Higher Education Contribution Scheme, which was unfair because students in courses with lower income prospects paid the same amount as those in courses with higher income prospects. Of course, it was only fair for us to recognise the differences in the incomes that those students would be deriving when qualified. What the community ought to realise and should remember is what Labor did not do and then remember what we have done to increase access for all Australians to tertiary education. I urge all Australians not to succumb to the scaremongering by the Democrats and the opposition. (Time expired)",SENATE,<title>MATTERS OF URGENCY</title>,<title>Higher Education: Government Policy</title>,Matters of Urgency,17,1,speech
 "Carr, Sen Kim",ALP,1999-10-14,"—My colleagues Mr Beazley and Mr Lee have done the people of this country a great service by letting them know the horrors planned by this government in its higher education policies. We have been told again here this afternoon by Minister Ellison that this is not a proposal that the government is considering. We are told that there are not plans before the government. What I would ask then is this: what is the situation in regard to this cabinet submission? I would ask the speakers that follow me to explain to me what is the status of the cabinet deliberations. Is it not the case that Dr Kemp was in fact invited by cabinet to prepare this submission? In fact, was it not the case that on 28 June 1999 the cabinet noted cabinet submission No. JH99\0222 where it said:
 I indicated a preference—
 these are Dr Kemp's own words—
@@ -382,7 +396,7 @@ Dr Kemp's so-called solution seems to me to be no solution whatsoever. Dr Kemp h
 Higher student:staff ratios, less frequent lecture and tutorial contact, the persistence of outdated technology and gaps in key areas of professional preparation . . . are fuelling a perception of declining quality.
 He could not be more right than he is about that. But who is responsible? I say this government is responsible—that Dr Kemp is 
  personally responsible. Look at student-staff ratios: they have worsened from 12.8 to one in 1989 to 17.9 to one in 1998. They have been in constant decline in recent years. That decline has been exacerbated by the changes we have seen. The numbers have dropped by over 3½ per cent as a direct result of the policies. No wonder we are seeing fewer opportunities for students to actually see their lecturers—there are fewer lecturers for them to actually see. Operating grants have dropped dramatically in real terms since this government came to office. No wonder there is a perception—and I say it is a perception based on reality—of a decline in quality.
-What we are noticing on the industrial front is that the government's clear ideological agendas are further exacerbating the sense of crisis and chaos within our universities. Their strategy is to divide universities, to divide administrations from their staff, to blame lecturers and to blame employees within the universities. The government proposes to hold out a carrot so that universities will accept draconian and coercive action as a vehicle by which the staff will then be obliged to accept Peter Reith's draconian industrial agenda. I look forward to watching how this government explains the balaclavas and the guard dogs in the lecture rooms of this country, because that is what this submission proposes: a vigorous pursuit of Peter Reith's industrial relations strategy applied to the universities. You have to ask yourself: why is it that the universities are falling so far behind? Why is the quality falling off so appallingly? (Time expired)",SENATE,<title>MATTERS OF URGENCY</title>,<title>Higher Education: Government Policy</title>,Matters of Urgency,17,1
+What we are noticing on the industrial front is that the government's clear ideological agendas are further exacerbating the sense of crisis and chaos within our universities. Their strategy is to divide universities, to divide administrations from their staff, to blame lecturers and to blame employees within the universities. The government proposes to hold out a carrot so that universities will accept draconian and coercive action as a vehicle by which the staff will then be obliged to accept Peter Reith's draconian industrial agenda. I look forward to watching how this government explains the balaclavas and the guard dogs in the lecture rooms of this country, because that is what this submission proposes: a vigorous pursuit of Peter Reith's industrial relations strategy applied to the universities. You have to ask yourself: why is it that the universities are falling so far behind? Why is the quality falling off so appallingly? (Time expired)",SENATE,<title>MATTERS OF URGENCY</title>,<title>Higher Education: Government Policy</title>,Matters of Urgency,17,1,speech
 "Brown, Sen Bob",AG,1999-10-14,"—The appalling situation as I see it—independently listening to question time today—is the corroboration by avoiding any disclaimer that cabinet had discussed this matter in April and that the Prime Minister was involved in the discussions which led up to this paper which the opposition has now made public. When you see that process afoot you know it is dinkum and you know that the government's intentions are to proceed with the philosophy that understraps the proposals that have been released here and which are going to make it a factor in this country that 
  you have to be rich if you are going to have choice in higher education.
 Let me read into the Hansard the requests to the Prime Minister from the students who have occupied Liberal Party offices in Sydney, Melbourne and Brisbane today:
@@ -395,7 +409,7 @@ On behalf of the students of Australia we demand that John Howard, Prime Ministe
 . State his Government's commitment to ensuring access to high quality education for all; and
 . Sack his education minister, Dr David Kemp, on the basis that he has an ideological desire to dismantle any notion of accessible or equitable education.
 I was in Ireland five or six years ago, and the debate there was how to remove the limited fee structure there to ensure that everybody had free access to tertiary education. We get that assurance as far as primary and secondary education is concerned, and the Greens believe that we should have it for tertiary education.
-How far from that ideal of a fair deal for all and equal access to tertiary education is this bundle of extreme Right dogma which is to facilitate the rich and which will end up, as the New Zealand experience has it, expanding those faculties which put already rich students into rich professions, such as, for example, accounting, law and medicine, to the detriment of science and other necessary services coming out of tertiary education—nursing, to name one? This is the wrong way to go. No wonder students around the country are reacting the way they are. The minister ought to go. (Time expired)",SENATE,<title>MATTERS OF URGENCY</title>,<title>Higher Education: Government Policy</title>,Matters of Urgency,17,1
+How far from that ideal of a fair deal for all and equal access to tertiary education is this bundle of extreme Right dogma which is to facilitate the rich and which will end up, as the New Zealand experience has it, expanding those faculties which put already rich students into rich professions, such as, for example, accounting, law and medicine, to the detriment of science and other necessary services coming out of tertiary education—nursing, to name one? This is the wrong way to go. No wonder students around the country are reacting the way they are. The minister ought to go. (Time expired)",SENATE,<title>MATTERS OF URGENCY</title>,<title>Higher Education: Government Policy</title>,Matters of Urgency,17,1,speech
 "Tierney, Sen John",LP,1999-10-14,"—I take particular note of the 
  contributions of Senator Carr, Senator Stott Despoja and, most recently, Senator Brown. We have here the most comprehensive set of scaremongering tactics that I have probably ever seen.
 —What does the University of Newcastle think?
@@ -407,7 +421,7 @@ The other argument against having a totally government funded system is that not
 Labor, because they stuck with the system initially devised by Gough Whitlam—and they stuck with it for the first five years of their government—created a situation where we had these massive shortages. We do not want to go back to that. We want to set up a system, and we are proposing to do that under this government. We want a system which will resource higher education properly. We have moved a fair way down that track so far. 
  You do not see the queues outside the gates of universities that we saw under the Labor government. Basically, supply is meeting demand pretty well. As a matter of fact, some universities want to try to get more students in because they cannot get enough in some of the courses—a big change in the last six years on this.
 Revenue is going up, and those opposite keep creating this furphy that total revenue has gone down in universities—it has not. The composition of the revenue has changed. Revenue has gone up in universities in the last three years and we have a situation now where there is more money in universities than there ever has been. We have also an increase in students of 12,600 since this government came to power—that is up by 3½ per cent. University revenue is up by $376 million, between 1996 and 1999. There is a seven per cent increase in the number of students going to rural universities. Indigenous student numbers are up by 12 per cent. Numbers of students from a lower SES background are up by 9.4 per cent and, wait for this one, Senator Crossin, the numbers of people with disabilities attending universities are up by 61 per cent. The disadvantaged groups are much better off under this policy.
- Let me finally say that this scaremongering that we are going to go to this new type of system was nailed very thoroughly by the Prime Minister this morning at a doorstop interview. He said that `we have no intention to go to an all American, US-style system. We have no intention to bring in vouchers and we have no intention to deregulate fees'. It is disgraceful that people like Senator Carr, Senator Brown and Senator Stott-Despoja are scaring the Australian public by misleading them. We have no intention of going down that line; that is not government policy and it will not be implemented. It is about time you got back onto some real issues.",SENATE,<title>MATTERS OF URGENCY</title>,<title>Higher Education: Government Policy</title>,Matters of Urgency,17,1
+ Let me finally say that this scaremongering that we are going to go to this new type of system was nailed very thoroughly by the Prime Minister this morning at a doorstop interview. He said that `we have no intention to go to an all American, US-style system. We have no intention to bring in vouchers and we have no intention to deregulate fees'. It is disgraceful that people like Senator Carr, Senator Brown and Senator Stott-Despoja are scaring the Australian public by misleading them. We have no intention of going down that line; that is not government policy and it will not be implemented. It is about time you got back onto some real issues.",SENATE,<title>MATTERS OF URGENCY</title>,<title>Higher Education: Government Policy</title>,Matters of Urgency,17,1,speech
 "Crossin, Sen Trish",ALP,1999-10-14,"—Well, California, here we come! Dr Kemp says in his paper that some universities will position themselves at the premium end of the market and that cost behaviour is unpredictable. Well, off we go to the USA—a system that he wants us to emulate in this 
  paper. Costs of higher education tuition have soared in America. Study undertaken by the Commission on National Investment in Higher Education released in 1997 estimated that if tuition fees rose at their current rate, effectively half of those who want to pursue higher education will be shut out. The main reason for soaring fees is information technology infrastructure costs. Universities are jostling to position themselves near the top of the market. The commission in America recommended that `increasing public investment should occur to arrest this crisis'.
 What a lot of hypocrisy we have seen in relation to higher education policies trotted out by this government, not since yesterday but since 1996. We had one minister who did so much damage to the higher education sector that she was demoted. Now we have another minister who has no plan for higher education, other than to put the cost of education in this sector onto students—to pitch students against staff and to pit families against how they can afford this for their children. Let us look at the track record: we have no plan and no vision, other than a strategy that, firstly, cut $800 million from higher education in the 1996 budget and has starved universities of adequate funding ever since then. Now, universities in deficit and at risk will be offered a new funding source—students, families' incomes and staff salaries. We have a minister who said during question time yesterday in the House of Representatives—of course, before this grand scheme was uncovered—in answer to a question about there being eight institutions that appear to be operating at a deficit:
@@ -415,7 +429,7 @@ The suggestion that there are regional university campuses at risk is absolutely
 Why is it, then, Minister, that in your cabinet submission, in paragraph 3, you admit there are eight institutions that appear to be operating at a deficit and that some regional campuses are at risk. They certainly are! Take yourself five hours flying time away from here and have a long look at what is happening at the Northern Territory University.
 This is about an attack on the National Tertiary Education Union, just like we saw 
  with the wharfies and with the building sector. In his submission he goes on to say that what they want to do is interfere in the industrial relations climate in universities—free up universities to determine their own destiny but interfere in the enterprise bargaining and the wage increases they can offer to their staff, and interfere in a very good climate of representation by members and staff in that sector. Let me finish by saying this: this outrageous document is about choice. If you have a fat wallet, you will go to university. If you have two, three, four or six kids in your family, you will choose who goes—and it won't be the girl, I can tell you that. (Time expired)
-Question resolved in the affirmative.",SENATE,<title>MATTERS OF URGENCY</title>,<title>Higher Education: Government Policy</title>,Matters of Urgency,17,1
+Question resolved in the affirmative.",SENATE,<title>MATTERS OF URGENCY</title>,<title>Higher Education: Government Policy</title>,Matters of Urgency,17,1,speech
 "Crossin, Sen Trish",ALP,1999-10-14,"—The Workplace Relations Amendment (Australian Defence Force Service and Training) Bill 1999 (No. 2)  gives me the opportunity, for the first time in this chamber, to pay tribute to the efforts of Major General Cosgrove and his troops—and particularly those troops who come from the Northern Territory—who are currently serving under him in East Timor. It is also timely, I think, to recognise those members of the Defence Force who are deployed in duties around this country backing up the work of those currently overseas. We are relying on these people. I, along with the rest of the community, have great confidence in their ability and military skill and their understanding of the situation in which they find themselves.
 The aim of the Workplace Relations Amendment (Australian Defence Force Service and Training) Bill is to reinstate to the Australian Industrial Relations Commission the power to include leave for reserve Defence Force personnel from their employment to participate in the activities necessary to be a member of the Australian Defence Force reserves. This has become a necessary action on behalf of the Labor Party as a result of the short-sightedness of this government and the arrogance of its industrial relations minister back in 1996 when the first amendments to the Workplace Relations Act were presented to this parliament. That legislation excluded Defence Force leave from the 20 allowable award matters that the Industrial Relations Commission was able to deal with. It has now been shown to be one of the many detrimental elements of that legislation, in its impact on 
  not only those wanting to access Defence Force leave but also the Defence Force itself, particularly in situations such as this country is now experiencing, and participating in, in East Timor.
@@ -439,7 +453,7 @@ That is the formal minute the government got from the defence department, which 
 What has the government done about that in the two years since this matter was first raised and in the nearly three years since the legislation that created the problem? The simple fact is that it has done nothing. Labor has recognised that there is a problem and has been willing to do something about it. My colleague Arch Bevis introduced a private member's bill in the House—the Workplace Relations Amendment (Defence Purposes Leave) Bill—on 21 June this year. But the government did not bring it on for debate. The government has found itself in a position where it has fallen short of all of its targets on reserves, and now it really matters.
 Let us look at its recruitment against target over the course of 1998-99. The shortfall in recruitment for the RAAF is 44 per cent; for the RAN it is 80 per cent; and for the Army it is 49 per cent. That is a substantial record of failure to encourage people in the general work force to uphold their patriotic duty and make a contribution, if they so choose, to the 
  defence forces of this nation in the reserves. It is now critical, and it will become even more so in the coming months. It will not be possible to sustain the activities in East Timor for any length of time without relying on our reserves. Reserves must be recruited now and given the certainty, in terms of their employment and their capacity whilst in their employment, to be trained properly for circumstances of danger in which they will find themselves.
-In the current climate, this bill must proceed, must be debated and must be passed. It will provide job security for those men and women who wish to undertake duty as an Australian Defence Force reservist. It will allow them to undertake the training they need to prepare themselves for any dangerous circumstances and for the opportunity, which they want as members of the Defence Force reserves, to give our soldiers and our people in East Timor the break that they will need, and will deserve, in the coming months. I urge people in this chamber to support this bill.",SENATE,<title>WORKPLACE RELATIONS AMENDMENT (AUSTRALIAN DEFENCE FORCE SERVICE AND TRAINING) BILL 1999 (No. 2)</title>,<title>Second Reading</title>,Bills,20,1
+In the current climate, this bill must proceed, must be debated and must be passed. It will provide job security for those men and women who wish to undertake duty as an Australian Defence Force reservist. It will allow them to undertake the training they need to prepare themselves for any dangerous circumstances and for the opportunity, which they want as members of the Defence Force reserves, to give our soldiers and our people in East Timor the break that they will need, and will deserve, in the coming months. I urge people in this chamber to support this bill.",SENATE,<title>WORKPLACE RELATIONS AMENDMENT (AUSTRALIAN DEFENCE FORCE SERVICE AND TRAINING) BILL 1999 (No. 2)</title>,<title>Second Reading</title>,Bills,20,1,speech
 "Abetz, Sen Eric",LP,1999-10-14,"—I commence my comments by agreeing with Senator Crossin on only one aspect, that is, the comments she made about Major General Cosgrove and the troops we have in East Timor. I believe Major General Cosgrove has shown superb and inspirational leadership. Our troops have done us proud. They have showcased Australia's defence forces to the world. To try to play politics with this issue is not in the best interests of those that are risking life and limb over there on behalf of this government's policy. I do not believe it is necessarily the best course of action to take. Having said that, I agree with Senator Crossin as to the fantastic way our troops are performing in very difficult circumstances.
 However, there is another rationale and reason for this piece of legislation coming before the Senate today. Those of us who know about the treachery that goes on in the Australian Labor Party know what the hidden agenda is. Indeed, some of the treachery within the Labor Party seems to be limitless. Former Labor defence minister Robert Ray 
  once boasted about the Labor Party, `We hunt and kill our own', or words to that effect. That is what he told the Senate, and he was very proud of that statement. I suggest to the Senate today that that is exactly what is going on now.
@@ -514,7 +528,7 @@ In contrast—and this is important—the workplace relations regime is working.
 Under the workplace relations regime—which, just in case the Labor Party missed, the former Senator Kernot, now Ms Kernot, the member for Dickson, voted for and supported—Telstra, the Commonwealth Bank, the Northern Territory government, Wesfarmers Dalgety and Serco Gardner Merchant are just some examples of employ 
  ers with flexible reserve leave. So reservists are not being forgotten under this new regime; they are being considered. Where appropriate, the employers and employees together work it out.
 We as a government also work things out when employers do not give leave, in breach of the Defence (Re-establishment) Act 1965. That act prevents employers from penalising or prejudicing employees because of their service. Senator Crossin bemoaned the fact that there had never been a prosecution under the legislation. I simply say that often the best test for legislation is that you do not need to penalise anybody under it because they understand that it is there and they understand the consequences if they offend against it. The defence department seeks to work out any difficulties with an employer and an employee to organise an outcome which suits both sides and not shoehorn employers and employees into award agreements which do not necessarily suit their particular enterprise. We have had successful arrangements with Telstra, and also with the Victorian police where originally there were hiccups but after discussions and negotiations those hiccups have now been sorted out.
-We are confident that the current arrangements are working well. The trade union backers of the opposition have told them `You've got to do something in the area of industrial relations. You've got to try and breathe new life into the award system', and in a very cynical way they have unfortunately sought to bring the reserves into this industrial relations debate at a time that I would have thought was most inopportune and most unstatesmanlike. I believe that was why Mr Beazley stuttered and stalled through that interview that I read into the Hansard. I reckon his heart was not in this stunt, either.",SENATE,<title>WORKPLACE RELATIONS AMENDMENT (AUSTRALIAN DEFENCE FORCE SERVICE AND TRAINING) BILL 1999 (No. 2)</title>,<title>Second Reading</title>,Bills,20,1
+We are confident that the current arrangements are working well. The trade union backers of the opposition have told them `You've got to do something in the area of industrial relations. You've got to try and breathe new life into the award system', and in a very cynical way they have unfortunately sought to bring the reserves into this industrial relations debate at a time that I would have thought was most inopportune and most unstatesmanlike. I believe that was why Mr Beazley stuttered and stalled through that interview that I read into the Hansard. I reckon his heart was not in this stunt, either.",SENATE,<title>WORKPLACE RELATIONS AMENDMENT (AUSTRALIAN DEFENCE FORCE SERVICE AND TRAINING) BILL 1999 (No. 2)</title>,<title>Second Reading</title>,Bills,20,1,speech
 "Murray, Sen Andrew",AD,1999-10-14,"—This is a debate on the Workplace Relations Amendment (Australian Defence Force Service and Training) Bill 1999 (No. 2) , a private member's bill introduced by Senator Collins from Victoria. However, it has its genesis in the House of Representatives. In the House of Representatives, this issue has had all the politics, bluff and 
  bluster attached to it that you get in the debates there—quite different from the high standard we have up here! But the fact is that at the heart of all this there could indeed be a good point. I would like to take you through the actual status of leave in the defence forces to see why I arrive at the conclusion.
 The question I have asked is: is Defence Force leave an allowable matter under section 89A(2)(g) of the Workplace Relations Act? As one of the persons involved with that section when it was brought into the parliament, I thought it was and I still think it is. However, the commission is yet to definitively rule on the issue. As far as I am aware, there have only been two commission cases on this—Commissioner Lewin's decision on the Higher Education Award and Commissioner Larkin's case on Airservices Australia—and in the absence of a full bench determination on the matter it was clear that she was uncertain about it. On that decision, Commissioner Larkin said:
@@ -524,7 +538,7 @@ My advice is that only five per cent of awards had military training leave in th
  under section 170MX, through arbitration, because these were mostly paid rates awards, and 170MX awards are not bound by section 89A. Or, it could be enforced as an exceptional matters order if an employer refused to agree to it. So the issue here is nowhere near as dramatic as some in the Labor Party might allege. The other half of these awards were single employer awards, and it is likely that the conditions have been replicated in the relevant certified agreements.
 The other 95 per cent of awards, including all the big industry awards, do not include military training leave. As far as I am aware, in none of the few negotiated award simplifications that happened prior to 1 July 1998 did the unions or the employers argue for military training leave to be included. In the years when the Leader of the Opposition was defence minister and the years that Labor were in government, there was no change to the lack of military training leave in big industry awards, and there has been no change in the years of the coalition government. So if it was good enough not to have the issue regulated from 1983 to 1996 and to leave it to the provisions of the defence acts which I outlined earlier, why is it not appropriate to do that now? The answer of the Labor Party may be that the Workplace Relations Act 1996 makes a difference.
 So on the one hand there is a sense that this is a bit of a beat-up—`It's good politics at this time so let's have a bit of a go'—and on the other hand is my view, where I think military training leave will be found by a full bench to be an allowable matter. And then there is the view we have already had and which I have quoted, where there is some doubt in this matter. So I come to the conclusion that military training leave should be allowable because of its importance to the country and because of the inference within the Defence Act and the Defence (Re-establishment) Act that we should encourage matters which encourage reservists to do their duty. I would make the point that, since we are engaged in East Timor in an international exercise of peace enforcement under international law, conventions are a part of international law which we attach a great deal of 
- notice to. I think the inclusion of military training leave as an allowable matter would help Australia meet its international obligations. Whilst I have doubt as to the validity of the case, to remove doubt I am inclined to support your bill, Senator Collins. That is the conclusion I have come to.",SENATE,<title>WORKPLACE RELATIONS AMENDMENT (AUSTRALIAN DEFENCE FORCE SERVICE AND TRAINING) BILL 1999 (No. 2)</title>,<title>Second Reading</title>,Bills,20,1
+ notice to. I think the inclusion of military training leave as an allowable matter would help Australia meet its international obligations. Whilst I have doubt as to the validity of the case, to remove doubt I am inclined to support your bill, Senator Collins. That is the conclusion I have come to.",SENATE,<title>WORKPLACE RELATIONS AMENDMENT (AUSTRALIAN DEFENCE FORCE SERVICE AND TRAINING) BILL 1999 (No. 2)</title>,<title>Second Reading</title>,Bills,20,1,speech
 "McLucas, Sen Jan",ALP,1999-10-14,"—I rise this afternoon to add my voice to that of my colleagues in urging the government to act on the matter of Defence Force leave for reservists. Like my colleagues, I find it extraordinary that the government have stubbornly refused to address the issue, despite the glaring evidence that they have made a mistake. The government's 1996 Workplace Relations Act deliberately removed from the Industrial Relations Commission any power to provide leave for Australian reservists to participate in the activities necessary to be a member of the Australian Defence Force reserves. It suited them to think that employers would pick up the provision in either Australian workplace agreements or certified agreements. As we know, that has not been the case, and our reserve capabilities are suffering as a result.
 In the midst of our biggest troop deployment since Vietnam, we are well short of our reserve recruitment targets in all of the services. The government has been told this repeatedly. We in the Labor Party have consistently pointed out the short-sightedness of the Workplace Relations Act's  omissions in relation to our reservists. We have told current and previous defence ministers that they need to act in the interests of our reservists. We have introduced private members' bills about it, only to have them ignored by this government.
 But let us be clear about this. The damage currently being done to our reserve capabilities by the government has been brought to their attention not only by the Labor Party. The Defence Force reserves' own support committee, chaired by a former Liberal defence minister, has raised the matter, as have senior reserve officers and the Victorian Liberal Council, which carried a resolution urging the government to ensure that defence leave for reserve Defence Force members is 
@@ -536,7 +550,7 @@ I also draw the attention of the chamber to the treatment of reservists employed
 But contrary to its stated intention, Telstra is not supporting all its reservists. Reservists employed on a contract basis have been granted leave with pay for the duration of their service. Reservists employed under an industrial award have been granted just two weeks paid leave in addition to their four weeks Defence Force leave. If this is not enough, these employees will have to use their accrued long service leave or any other accrued leave they have. Contract employees will have access to unlimited paid leave from Telstra while award employees will only receive two weeks plus any existing annual ADF leave they have.
 All this has been done without a murmur of protest from the government. How cynical! The government are willing to have some reservists discriminated against rather than question what Telstra is doing. They would rather have some reservists, who have given their time, their holidays and their service to 
  this country, penalised for serving rather than pull up an organisation clearly intent on using the situation in East Timor for its own workplace agenda. How cynical is that?
-I want to place on record my admiration for the men and women who make up our Defence Force reserves. They give up their spare time to serve our country and right now, in the midst of the biggest deployment since Vietnam, we are relying on them more than ever. Yet there is a serious problem. The Labor Party has, on numerous occasions, drawn the attention of the government to the fact that reserve numbers are falling. I wonder why! Why would you volunteer your time when you might jeopardise your paid employment in the process? Why would you give up your time when, if you are actually required to report for duty, you might have to draw on your own annual or long service leave? Why would you when you have a federal government which is ignoring advice that you are being disadvantaged by one of its policies? The Labor Party calls on the government to finally do the right thing by its reservists and support this bill.",SENATE,<title>WORKPLACE RELATIONS AMENDMENT (AUSTRALIAN DEFENCE FORCE SERVICE AND TRAINING) BILL 1999 (No. 2)</title>,<title>Second Reading</title>,Bills,20,1
+I want to place on record my admiration for the men and women who make up our Defence Force reserves. They give up their spare time to serve our country and right now, in the midst of the biggest deployment since Vietnam, we are relying on them more than ever. Yet there is a serious problem. The Labor Party has, on numerous occasions, drawn the attention of the government to the fact that reserve numbers are falling. I wonder why! Why would you volunteer your time when you might jeopardise your paid employment in the process? Why would you give up your time when, if you are actually required to report for duty, you might have to draw on your own annual or long service leave? Why would you when you have a federal government which is ignoring advice that you are being disadvantaged by one of its policies? The Labor Party calls on the government to finally do the right thing by its reservists and support this bill.",SENATE,<title>WORKPLACE RELATIONS AMENDMENT (AUSTRALIAN DEFENCE FORCE SERVICE AND TRAINING) BILL 1999 (No. 2)</title>,<title>Second Reading</title>,Bills,20,1,speech
 "Ferguson, Sen Alan",LP,1999-10-14,"—I rise to speak briefly to this bill as there are only a small number of issues which I want to raise. I notice that this bill has been introduced by Senator Jacinta Collins and her second reading speech has been incorporated in Hansard . That is not unusual when a bill is being introduced into this place except that, on most occasions when a second reading speech is incorporated in Hansard  before a bill comes on for debate, those who want to participate in the debate have had a chance to read it because it usually does not come on on the same day. I am not suggesting there is anything wrong with the practice, it is just that I have no idea what Senator Jacinta Collins's comments are in relation to this bill because I understand that you incorporated the speech today.
 —No, yesterday.
 —Yesterday? I do apologise. I thought it was today, because I am one staff member short today and I went to look very quickly.
@@ -562,7 +576,7 @@ Senator Vanstone has been in this place a lot longer than I have, and I have no 
 —Thank you, Senator Vanstone—very wide ranging. So your attempt to take a point of order, Senator Collins, was—
 —Ungracious.
 —Very ungracious. When Senator Collins has been in this place a bit longer she will realise that speeches in the second reading debate give people the opportunity to range somewhat wider than they would in other speeches that they have 
- to make in this chamber. I do not want to continue much longer because I know my colleague Senator Mason wants to speak to this bill, and I know we have to finish in half an hour. I conclude my remarks by reiterating that it is the view on this side of the chamber that this bill to amend the Workplace Relations Act to introduce another allowable award matter is simply a return of the Labor Party to their old ideology, and will simply not stand them in good stead because, as they know themselves, the operation of the existing Workplace Relations Act has provided tremendous benefits to those people who are workers in Australia today—higher wages and less unemployment. With the economy running on very low interest rates, the last thing we want to do is to return to the bad old days of the Labor Party.",SENATE,<title>WORKPLACE RELATIONS AMENDMENT (AUSTRALIAN DEFENCE FORCE SERVICE AND TRAINING) BILL 1999 (No. 2)</title>,<title>Second Reading</title>,Bills,20,1
+ to make in this chamber. I do not want to continue much longer because I know my colleague Senator Mason wants to speak to this bill, and I know we have to finish in half an hour. I conclude my remarks by reiterating that it is the view on this side of the chamber that this bill to amend the Workplace Relations Act to introduce another allowable award matter is simply a return of the Labor Party to their old ideology, and will simply not stand them in good stead because, as they know themselves, the operation of the existing Workplace Relations Act has provided tremendous benefits to those people who are workers in Australia today—higher wages and less unemployment. With the economy running on very low interest rates, the last thing we want to do is to return to the bad old days of the Labor Party.",SENATE,<title>WORKPLACE RELATIONS AMENDMENT (AUSTRALIAN DEFENCE FORCE SERVICE AND TRAINING) BILL 1999 (No. 2)</title>,<title>Second Reading</title>,Bills,20,1,speech
 "Ludwig, Sen Joe",ALP,1999-10-14,"—The contribution I will make this afternoon is going to be short. The previous speakers from the Labor Party have covered the main points very well, but there are a couple of matters that I want to clarify in terms of the debate so far. Senator Ferguson mentioned flexibility in our system of industrial relations. That is in fact what the bill allows to happen. It allows the Industrial Relations Commission to deal with Defence Force leave upon a certain ground. It allows the commission to deal with the potential flexibility between the submissions on behalf of employers and submissions by unions as to what form clauses in awards should take in relation to Defence Force leave. This is an important matter, notwithstanding the contribution Senator Abetz made in relation to it, where after a while I came to the conclusion that we were not talking about this bill at all, though it appears that he got to it in the end.
 The matters that Senator Murray went to were interesting. However, I want to clarify something in relation to his contribution. He did mention the exceptional matters order as another way of putting Defence Force leave within a framework which the commission may be able to deal with. However, exceptional matters orders have a limited life, unlike an award provision, which would go on ad infinitum and allow the parties to be 
  able to deal with the matter in a sensible and appropriate manner.
@@ -574,7 +588,7 @@ I also take this opportunity to add my full support to Major General Cosgrove an
 This bill has the effect of making the award provisions on Defence Force leave an allowable matter. Let us not get hooked up on the term `allowable matter'. Long before the Reith legislation's first wave in 1996, allowable matters were simply matters that the commission could deal with—all matters. Let me go now into these innocuous clauses that Mr Reith has found so unpalatable. It is worth while to do so. In fact, I found in a federal award one of these matters that were not allowable under the 1996 legislation. It is a simple provision. It reads:
 An employee who is a member of the Australian Defence Force Reserve shall receive two weeks leave to attend annual training camps. For this period, such employee shall be reimbursed by the employer an amount equal to the difference between the amount paid in respect of such attendance and the employee's base weekly salary (which shall include the tropical allowance, clause 11.4, where applicable).
 This was simply a make-up provision to ensure that the employee, while serving and providing support to the nation, was provided with an amount to make up the difference between the two rates of pay. There are other clauses which simply provided for leave without pay and others which provided for 
- paid leave. All these types of things could be argued before the commission and agreed to by employers and unions and placed in awards, but this government will not allow that to occur. What it should do is allow that to occur and support this bill.",SENATE,<title>WORKPLACE RELATIONS AMENDMENT (AUSTRALIAN DEFENCE FORCE SERVICE AND TRAINING) BILL 1999 (No. 2)</title>,<title>Second Reading</title>,Bills,20,1
+ paid leave. All these types of things could be argued before the commission and agreed to by employers and unions and placed in awards, but this government will not allow that to occur. What it should do is allow that to occur and support this bill.",SENATE,<title>WORKPLACE RELATIONS AMENDMENT (AUSTRALIAN DEFENCE FORCE SERVICE AND TRAINING) BILL 1999 (No. 2)</title>,<title>Second Reading</title>,Bills,20,1,speech
 "Mason, Sen Brett",LP,1999-10-14,"—I want to say a few things this afternoon about the people that this bill is directed towards, the Australian reservists. One of my favourite political leaders of this century, Sir Winston Churchill, was right when he described those who serve the national interest as a member of volunteer defence forces while also doing a civilian job or studies as `twice the citizen'. They have a proud tradition of service to the community in peace and war. This country has produced perhaps the finest soldiers this century, and of course the Army reservists have played a very proud part in that tradition. They are an important link between the Australian Defence Force and our community.
 Senator Ludwig is one of those who is part of that link, and it is a great link and an old link. Indeed it goes right back to Federation in 1901, when Australia had a military force—comprising militia and volunteers—of 27,000 people with a permanent force of only 1,500. The reserve forces comprised about 96½ per cent of Australia's total force and today of course they represent something like one third of Australia's defence forces.
 It is important, and I certainly agree with the opposition, that we provide the men and women in our reserve force with the support, assistance and recognition that they deserve. It is important too that we recognise the support provided by the employers of reservists in allowing them to undertake training and in encouraging them to provide service to our nation. In return, those who participate in the reserve forces learn valuable skills in leadership and also trade skills.
@@ -589,7 +603,7 @@ If employers and employees wish to make more comprehensive arrangements about se
 Labor's `one size fits all' forces employers to comply with rules that do not in fact fit the particular employee. Sadly, despite his role as a former defence minister, the Leader of the Opposition, Mr Beazley, now seems confused as to how the amendments to the Workplace Relations Act that he introduced earlier this week will operate. As Senator Abetz pointed out, Mr Beazley seemed unsure, when interviewed on 6PR on Monday, whether reservists would receive unpaid or paid leave under his amendments. And the comments one day later from Mr Ferguson, the shadow minister for defence science and personnel, showed that Labor still does not understand the laws and arrangements governing reserve service. All that this does is cause unnecessary doubt about the contribution reservists can make to our efforts in East Timor at the moment.
 This bill will not assist the Reserve and it certainly will not assist Australia's efforts in East Timor. The agenda here is not practical; it is actually ideologically driven. It calls for centralising outcomes, not for the flexibility necessary in the modern work force. And it is not necessary here, it is inappropriate and it flies in the face of modern workplace relations. It was a pillar of this country in 1901 but, as the opposition still do not understand, the world has changed. They live under the shade of the tree of knowledge at Barcaldine and they cannot get out of the shade.
 Opposition senators interjecting—
-—Within your lifetime the entire workplace relations system will change. It has to, to accord with flexible modern workplace arrangements.",SENATE,<title>WORKPLACE RELATIONS AMENDMENT (AUSTRALIAN DEFENCE FORCE SERVICE AND TRAINING) BILL 1999 (No. 2)</title>,<title>Second Reading</title>,Bills,20,1
+—Within your lifetime the entire workplace relations system will change. It has to, to accord with flexible modern workplace arrangements.",SENATE,<title>WORKPLACE RELATIONS AMENDMENT (AUSTRALIAN DEFENCE FORCE SERVICE AND TRAINING) BILL 1999 (No. 2)</title>,<title>Second Reading</title>,Bills,20,1,speech
 "Quirke, Sen John",ALP,1999-10-14,"—I think that a number of contributions this afternoon have been somewhat concerning—to me anyway. Probably the most concerning was the one by the Parliamentary Secretary to the Minister for Defence. In fact, he spent most of his time—I think some 16 minutes of his 20 minutes—talking about problems in the Labor Party and suggesting that Mr Beazley would not be the leader of the Labor Party. In fact, he said that Mr Beazley was suffering a declining support level within the ALP. Let me assure you that that is not so.
 I do not want to spend 16 minutes talking about that, but I want to make just one comment about Senator Abetz. We all know over here that he has a thermometer firmly placed in Senator Newman and he checks the Fahrenheit level every day. I suggest that Senator Newman's body temperature probably dropped to about 90 degrees Fahrenheit today. Senator Abetz is jumping around over there, just waiting for the opportunity to replace her. I do not want to say too much about that because there has already been one point of order taken on relevance—and the senator in the chair said it was okay to go on for 16 minutes with this sort of drivel. Senator Abetz ought to be the last person in here to talk about the demise or decline of anyone on the frontbench—that is, until he gets there himself.
 I am concerned about his contribution for another reason. There are a number of issues at stake here. Firstly, is it the case that we have adequate reserve levels in this country? I think the answer is no. Do we have the proper legislative provisions to support those reserves? I think the answer is no. Do we have a situation where we have to look at these issues with some urgency? The answer is certainly yes. The East Timor situation surfaced quite quickly on us. Somebody made the comment years ago that the defence forces in this country, or in any country, are an insurance policy that you hope never to use. 
@@ -605,9 +619,753 @@ We have heard the government talk about raising other battalions up to a state o
  without any fighting or any of the rest of it, we will still need to ensure that peace with one fully armed brigade well into next year. If the problems with the militia materialise—and I hope they do not—we may indeed need to have two brigades up there fully deployed and with other resources that we will have to find, presumably from our allies.
 In the last six weeks this government should have been dealing with, at the very least, the issues of where the reserves are going, their security of employment and other necessary important provisions that will ensure that they remain within the defence forces. Over the years, the level of reserves in the forces has been dropping each year. This is a worrying trend that must be reversed. It must be reversed because those soldiers who are now deployed in Timor will need some relief in the very near future and so that we can restrict our defence budget. I support, as far as possible, restricting our defence budget, so that we can spend money on education, health and all those other things that also have budgets that cry out for dollars.
 One of the key elements in this debate here today is that Senator Collins's bill addresses a path that the government really should have had us back here addressing a couple of weeks ago to at least give some security to some of those people who are currently in the reserves and others who wish to join. Unless we can build up the morale of our defence forces—and the reserves are an important part of it—our defence bills in the future will be extremely expensive. They will be more and more expensive as time goes on. I think that Senator Collins's bill addresses a part of the problem—not all of it, but a part of the problem. As a consequence of that, I welcome the bill's introduction here today. I think it is important that we get this through as quickly as we can. I know that there are other speakers who wish to address this today. (Time expired)
-Debate interrupted.",SENATE,<title>WORKPLACE RELATIONS AMENDMENT (AUSTRALIAN DEFENCE FORCE SERVICE AND TRAINING) BILL 1999 (No. 2)</title>,<title>Second Reading</title>,Bills,20,1
+Debate interrupted.",SENATE,<title>WORKPLACE RELATIONS AMENDMENT (AUSTRALIAN DEFENCE FORCE SERVICE AND TRAINING) BILL 1999 (No. 2)</title>,<title>Second Reading</title>,Bills,20,1,speech
 "Calvert, Sen Paul",LP,1999-10-14,"—I would like to talk to the Workplace Relations Amendment (Australian Defence Force Service and Training) Bill that Senator Jacinta Collins is putting forward. Without entering into too much controversy, I must say as a former national serviceman or `nasho' that I am well aware of our reserve forces and the great record that they have had over the years. You can go right back to the VDC—and I do not reckon a lot of you would even remember what that was, but that was the Volunteer Defence Corps. We then had the Citizen Military Forces and, of course, who could forget the great job that our militia did up on the Kokoda Trail, in Papua New Guinea, during the Second World War. They were reservists who were thrown in at the deep end, and they were the first ones to turn back the Japanese. So the reserve forces in Australia have had a long and distinguished history.
 I must say, without being too critical, that I thought some of the comments made here today by the opposition did amount to a tad of scaremongering and nitpicking. That seems to have been the thrust of the debate since we have had troops in East Timor. I really must say that I am disappointed in this. We have quite a few specialist reservists in Tasmania and, as you know, Mr Acting Deputy President Sherry, some of them are already in East Timor, particularly on the transport side. One of the transport squadrons is based in the area of my electorate that I have my office, at Warrane, and I must say that I have never had a reservist come to me complaining about the fact that they have been badly treated by their employers. The way the government has approached it over the years, to allow negotiation between the employer and the reservists, has worked very well and is the preferred objective of the government.
 So, while Senator Collins may have had the best of intentions, I really do not think the bill proposed here today has done a lot to help the situation. It really has not fostered the bipartisan approach that was promised in this matter by the former defence minister, now Leader of the Opposition, Mr Beazley. The last thing that our people in East Timor want to know, whether they be reservists or permanent troops, is that the government and the opposition back home are at odds about what is happening. I find it most unusual that the former defence minister did not even know whether reservists were paid, were going to be paid, whether their employers paid them or whether they got double pay. But, of course, we know that reservists who volunteer to serve are paid a full military salary, and if they are deployed as part of a peace enforcement mission they receive the same tax free salary and allowances as their counterparts in the regulars. And so they should, and they should receive the same repatriation benefits when they return.
 I listened with interest to Senator Quirke talking about what may be needed next year. I was of the understanding that the United Nations were going to put together a sufficient force and that some of our troops would be returning early in the new year. I know 
- that things change on a weekly basis as to what is happening, but I was of the understanding that there was going to be a much more significant input from the United Nations. But, in any event, I was interested to hear some of the debate today. I say once again that I just do not believe it is doing the opposition any good whatsoever, with the lack of support they seem to be getting and the nitpicking that seems to be going on about our troops in East Timor. I just hope that we do not have any more of it and that we give our troops the full support they deserve, on a bipartisan basis.",SENATE,<title>ADJOURNMENT</title>,<title>Australian Defence Force Service and Training</title>,Adjournment,23,1
+ that things change on a weekly basis as to what is happening, but I was of the understanding that there was going to be a much more significant input from the United Nations. But, in any event, I was interested to hear some of the debate today. I say once again that I just do not believe it is doing the opposition any good whatsoever, with the lack of support they seem to be getting and the nitpicking that seems to be going on about our troops in East Timor. I just hope that we do not have any more of it and that we give our troops the full support they deserve, on a bipartisan basis.",SENATE,<title>ADJOURNMENT</title>,<title>Australian Defence Force Service and Training</title>,Adjournment,23,1,speech
+"O'Brien, Sen Kerry",ALP,1999-10-14," asked the Minister representing the Minister for Transport and Regional Services, upon notice, on 5 August 1999:
+(1) Did a trial regional forum, as part of the Regional Forums Australia Program (RFAP), take place in the Spencer Gulf region of South Australia on 22 and 23 July 1999: (a) if so: (i) where did the forum take place, (ii) who attended the forum, and (iii) what organisation did each attendee represent; and (b) if not: (i) when is the trial forum now scheduled to take place, and (ii) why was the forum postponed.
+(2) (a) What was the agenda for the trial forum; and (b) was a report produced of the forum's proceedings, as was required by the contract with the forum facilitator, if so, can a copy of the report from the trial forum be provided.
+
+(3) If there has not been a report or record of the forum produced: (a) why not; and (b) when will the report be available.
+(4) (a) What was the cost of the trial forum; and (b) can a detailed breakdown of that cost be provided.",SENATE,<title>QUESTIONS ON NOTICE</title>,<title>Regional Forums Australia Program: Trials</title>,Answers to Questions on Notice,25,1,question
+"Macdonald, Sen Ian",LP,1999-10-14,"—The Minister for Transport and Regional Services has provided the following answer to the honourable senator's question:
+(1) Yes (a) (i) Whyalla, (ii) and (iii) a list of the attendees and the organisations they represented is provided attached.
+(2) (a) and (b) Copies of the agenda and the record of forum proceedings are available from the Table Office.
+(3) Not applicable.
+(4) (a) and (b) the cost of the forum and a breakdown of the cost is attached.
+
+ATTACHMENT A
+
+
+
+Name
+Organisation
+
+
+
+Liza
+Albion
+Office of Senator The Honourable Ian Macdonald
+Chris
+Arbon
+Centrelink
+Peter
+Arnold
+Port Pirie Regional Council
+Rhonda
+Baker
+Telstra
+Joy
+Baluch
+Mayor-City of Pt Augusta
+Russell
+Bambridge
+Spencer Institute TAFE
+Faye
+Barrett
+SA Office of Local Government
+Paul
+Barrett
+ATSIC
+Dr Andrew
+Beer
+Flinders University of South Australia
+Jack
+Best
+Department of Health & Aged Care
+Nick
+Blazow
+Department of Health & Aged Care
+Rita
+Blieshke
+Port Pirie Regional Council
+Bill
+Boehm
+Roxby Downs Council
+Con
+Boekel
+Department of Environment & Heritage
+Nick
+Bogiatzis
+Department of Transport and Regional Services 
+Darrell 
+Boothey
+Main Street Coordinator-Whyalla
+Rob
+Bradley
+Department of Transport and Regional Services 
+Lyn
+Breuer
+Member for Giles
+Geoff 
+Buckland
+Australian Workers Union-Whyalla/Woomera
+Jeff
+Burgess
+Northern Areas Council
+Ron
+Burnett
+Action Engineering-Whyalla
+ Mark 
+Cant
+District Council of Kimba
+Cavina
+Cartwright
+Primary Industry & Resources SA
+Daryl
+Cearns
+The Flinders Ranges Council
+Jenny
+Chadwick
+Prime Minister & Cabinet
+Fred 
+Cook
+Primary Industry & Resources SA
+Henry
+Croft
+Buttlingarra Aboriginal Corporation
+Barry
+Croft
+Buttlingarra Aboriginal Corporation
+Laurie
+Curtis
+District Council of Tumby Bay
+Sue
+Dalla Santa
+Northern Regional Development Board
+Barbara
+Derham
+Area Consultative Committee
+Stephen
+Dry
+Chamber of Commerce-Pt Lincoln
+Maurie
+Dwyer
+Australian Workers Union
+Brian 
+Elton
+Brian Elton & Associates
+James
+Evans
+Brian Elton & Associates
+Rod
+Fairclough
+Spencer Gulf Aquaculture
+Jim
+Fisher
+District Council Yorke Peninsula
+Brian
+Fogarty
+Port Pirie Regional Council
+Bruce 
+Francis
+District Council of Franklin Harbour
+Kevin
+Gent
+Primary Industry & Resources SA
+Kym
+Gerner
+Brian Elton & Associates
+Frank
+Gillings
+District Council of Cleve
+Ian 
+Gordon
+District Council of Cooper Pedy
+Professor Stephen
+Hall
+Flinders University
+John
+Haren
+State Development SA
+Des
+Harris
+Department of Transport and Regional Services
+Hayden
+Hart
+Pichi Richi Railway
+Bob
+Harvey
+Department of Employment Workplace Relations & Small Business
+Bob
+Hogan
+Department of Education, Training & Youth Affairs-Adelaide
+Robert
+Horne
+Department of Education, Training & Youth Affairs
+Eddie
+Hughes
+Whyalla City Council
+Eugene
+Hurley
+Bishop of Port Pirie
+Brian
+Hurn
+The Barossa Council
+Brian
+Hutchinson
+Port Pirie Regional Development Board
+Colleen
+Hutchinson
+Northern Regional Development Board
+Tony
+Irvine
+District Council of Ceduna
+Pamela
+Jones
+Department of Family & Community Services
+Robert
+Keane
+Flinders University of South Australia
+Barry
+Kearsley
+District Council of Cummins
+Mary
+Kearsley
+District Council of Lower Eyre Peninsula
+Peter
+Kelly
+Port Pirie Regional Development Board
+Tom
+Kennedy
+Bank SA-Port Pirie
+The Hon. Rob
+Kerin
+Deputy Premier, Minister for Primary Industries, Natural Resources and Regional Development
+Onko
+Kingma
+Department of Agriculture Fisheries & Forestry
+Mary
+Kosiak
+Centrelink
+Judith
+La Forgia
+Chamber of Commerce Port Pirie
+David 
+Lane
+District Council of Streaky Bay
+Michelle
+Lucas
+Department of Education, Training & Youth Affairs-Pt Augusta
+Newton
+Luscombe
+District Council of Le Hunte
+ Senator The Hon. Ian
+Macdonald
+Minister for Regional Services, Territories and Local Government
+Mark
+Malcolm
+Port Pirie Regional Development Board
+Trevor 
+May
+SA Department of Industry and Trade
+Max
+McHugh
+Flinders Ranges Council
+Bill
+McIntosh
+Outback Areas Community Development Trust
+Trevor
+McLeod
+District Council of Cooper Pedy
+Lorraine
+McLoughlin
+Office of Employment & Youth
+Mariann
+McNamara
+Department of Education, Training & Youth Affairs
+Ian
+McSporran
+City of Port Augusta
+Trudi
+Meakins
+Department of Transport & Regional Services 
+Robert
+Mellor
+Centre for Local Government- University of Technology-Sydney
+Harry
+Miller
+Pt Lincoln Kuju CDEP
+Mike
+Milln
+Transport SA
+Don
+Morris
+Office of Senator The Honourable Ian Macdonald
+Wayne 
+Mossop
+SA Department of Primary Industries and Resources
+Barry 
+Mouton
+Department of Employment Workplace Relations & Small Business
+John
+Mundy
+South Australian Regional Development Association
+Simon
+Murnane
+Department of Transport and Regional Services 
+Siobhan 
+Mutton
+Planning SA
+Tony
+Neilson
+Mid North Regional Health
+Ian
+Nightingale
+Eyre Regional Development Board
+Bob
+Norrris
+District Council of Franklin Harbour
+Bruce
+O'Meagher
+Department of Industry Science & Resources
+William 
+Oates
+District Council of Copper Coast
+Brenton 
+Pain
+AusIndustry
+Jeff
+Pearson
+Eyre Regional Development Board
+Fred
+Pedler
+City of Port Lincoln
+Helen
+Peel
+Department of Finance & Administration
+Don
+Pfitzner
+Mid North Regional Development Board
+Terry
+Price
+ABC Radio-Pt Pirie
+Carol
+Procter
+SA Office of Local Government
+Jim
+Ramsey
+ATSIC
+Abul
+Rizvi
+Department of Immigration & Multicultural Affairs
+Andy 
+Robb
+Division of State Aboriginal Affairs
+Trevor 
+Roocke
+District Council of Mt Remarkable
+Tricia
+Rushton
+Department of Family & Community Services
+John
+Schumann
+District Council of Cleve
+Jo
+Schumann
+Department of Veteran Affairs
+Wayne
+Schuttlofel
+Northern Regional Development Board
+Pam
+Seaman
+Department of Education & Training-Whyalla
+Marc
+Seidel
+Anangu Pitjantjatjara Services
+John
+Shane
+District Council Copper Coast
+Georgie
+Sharp
+Department of Education Training & Employment-Whyalla
+Chris
+Sheedy
+Department of Health & Aged Care
+Geoff
+Sheridan
+District Council Kapunda & Light
+John
+Simcock
+Airport Technical Services
+Ian
+Smith
+SA Information Economy Policy Office
+John
+Smith
+Mayor-Whyalla Council
+Colin
+Struck
+Struck Aquaculture-Port Augusta
+ Vance
+Thomas
+Eyre Peninsula Local Government Association
+Peter
+Todd
+Transport SA
+John
+Tonkin
+Department of Immigration & Multicultural Affairs
+Richard
+Trevena
+ATSIC
+Greg
+Turner
+Freight Corp
+Phil
+Tyler
+Whyalla Economic Development Board
+Geoff
+Upton
+Austrade
+Sema
+Varova
+Department of Transport and Regional Services 
+Jack
+Velthausen
+Whyalla TAFE
+Barry
+Wakelin
+Member for Grey
+Daryl
+Warman
+Flinders Pastoral Rural Counselling Service
+John
+Warner
+University of South Australia-Student
+John
+Watson
+Whyalla Economic Development Board
+Glen
+Watson
+Centrelink
+Warwick
+Welsh
+Yorke Peninsula Regional Development Board
+John
+Wharff
+District Council of Streaky Bay
+Jim
+White
+BHP-Whyalla
+David
+Whittenbury
+SA Department of Industry & Trade 
+Shelagh
+Whittleston
+Department of Education, Training & Youth Affairs
+Barry
+Wilkins
+District Council of LeHunte
+Marcia
+Williams
+Centrelink
+David
+Williamson
+Department of Communications IT & Arts
+Craig
+Wilson
+Mid North Regional Development Board
+ATTACHMENT D
+COST OF SPENCER GULF AREA TRIAL REGIONAL FORUM AND BREAKDOWN OF COSTS
+
+
+ITEM
+COST
+
+
+Facilitator*, including travel
+$20,374
+Venue hire and catering
+$6,408
+Bus hire
+$447
+Printing, photocopying, etc.
+$2,667
+TOTAL
+$29,896
+*	 The Facilitator, Brian Elton and Associates, was engaged to:
+	 undertake lead up work for six weeks prior to the forum (including preparing the Spencer Gulf Area Regional Future Brief); organise and facilitate the forum; and work with the region on identifying and progressing priorities identified for up to four months after the forum. It is estimated that the work done by the facilitator on the forum itself (preparation, facilitation etc.) amounted to approximately $15,000 of the total consultancy fee.
+Spencer Gulf Regional Forum
+Whyalla, 22nd-23rd July 1999
+Summary Report of Outcomes
+Day 1- July 22nd 
+
+Welcome
+Terry Price-Regional Program Manager, Australian Broadcasting Corporation
+Henry Croft+ Administrator, Buttlingarra Aboriginal Corporation
+John Smith-Mayor Whyalla City Council
+Federal Minister's Address
+(Provided as Appendix 1).
+State Minister's Response
+The Honourable Rob Kerin
+Deputy Premier, Minister for Primary Industries, Natural Resources & Regional Development
+Mr Kerin welcomed Senator Macdonald, Lyn Breuer-Member of Giles, Barry Wakelin-Member 
+ for Grey, Mayor John Smith and forum participants. His response included the following points:
+.	 He acknowledged the Federal commitment to regional development over the last two budgets.
+.	 The forum process represents an opportunity to deliver a message to Canberra on how funding could be best used in the region.
+.	 A lot of thought is required to achieve the outcomes that add value to the region communities. It is acknowledged that the government has not always made the best decisions on regional development in the past.
+.	 Care should be taken to ensure that the proposed Rural Transaction Centres don't impact on local businesses.
+.	 The Federal Governments Regional Economic Development Organisation's (REDO's) initiative lacked synergy in a region which is extremely large, diverse and includes coastal cities and remote areas. There should be care taken not to revisit the confusion that was created by having two layers of regional development bodies in the same area. There is a good system of state and local Regional Development Boards and it should be recognised that one size doesn't fit all.
+.	 He commented on the difficulty for the Federal Government in providing flexible programs and acknowledged contributions made in a number of areas including: rail reform, Agriculture Advancing Australia and telecommunications infrastructure funds.
+.	 The State Government has reviewed Regional Development in South Australia with the preparation of the Regional Development Task Force Report. This has brought about a changed definition of Regional Development that considers regions in economic, social and environmental terms.
+.	 The State Government has a number of ways to assist regions and has established the Office of Regional Development.
+.	 Examples of current issues in the Spencer Gulf area include:
+	 .	 The Eyre Peninsula region has strong growth in aquaculture. Towns such as Cowell have received a strong employment boost with the introduction of aquaculture activities and one micro-economic indicator is the fact that training is now required to play for the B grade football team.
+	 .	 Land access for the Aboriginal population is a key issue for the region.
+	 .	 The Asia crisis has impacted on the mineral sectors of the Upper Spencer Gulf, however 
+ some further development has occurred at Roxby and Beverley and the potential exists for magnesium mining at Pt Augusta.
+.	 In closing he made two requests:
+	 .	 Firstly that all three levels of government work together and focus on outcomes
+	 .	 Secondly that all leaders be positive about what happens in regional areas through improved marketing of the region. Decision-makers want to hear positive messages, although it is acknowledged that government requires a ""belt"" from time to time and some regions need more assistance than others.
+SESSION 1
+Presentation and Discussion of Spencer Gulf Area and its Constituent Regions Regional Future Brief
+Session objective: To present and discuss the current context of the Spencer Gulf Area and its constituent regions and to identify area specific economic, social and environmental priorities.
+Spencer Gulf Area
+Barry Wakelin, Federal Member for Grey
+Barry Wakelin, Federal member for Grey, provided a description of key issues in the region from a personal perspective. His presentation included the following:
+.	 The Federal seat of Grey comprises 92% of South Australia. He has been the elected member since 1993 and comes from Kimba on the Eyre Peninsula.
+.	 The Government is committed to the region and now has stronger regional representation than in 1996 including the recent appointment of John Anderson as Deputy Prime Minister. Barry Wakelin is a member the steering committee for a regional Summit to be conducted in October this year.
+.	 Great diversity has brought great strength in the region and self-reliance is a trademark.
+.	 Some government programs, which have not been high cost, have demonstrated success including: The Job Network (50% improvement over 12 months compared to the CES) and Work for the Dole schemes.
+.	 Development issues in the electorate have included: Western Mining, Beverley, Aquaculture and other existing industries. (70% of new investment comes from existing business)
+.	 Long term commitment to the region by Government is important. The Government anticipates that there will be significant improvement in mobile phone coverage over the next two years. 
+
+.	 The small population base of the region is difficult to provide programs for and the region. Government policy over a period has resulted in a number of inequities for the region including: health, education and roads.
+.	 There needs to be an improvement in the relationships between Federal, State and regional bureaucracies.
+Upper Spencer Gulf
+Phil Tyler-Chief Executive Officer, Whyalla Economic Development Board
+Mark Malcolm-Executive Manager, Port Pirie Regional Development Board
+Eyre Peninsula
+Ian Nightingale-Chief Executive Officer Eyre Regional Development Board
+Vance Thomas-Executive Officer Eyre Peninsula Local Government Association
+Yorke/Mid-North/Flinders
+Don Pfitzner-Chairman, Mid North Regional Development Board
+Far North
+Bill Macintosh-Chairman, Outback Areas Community Development Trust
+SESSION 2
+Presentation by Commonwealth
+Sema Varova:	 First Assistant Secretary, Regional Services, Development and Local Government Division, Department of Transport and Regional Services
+Session objective: To present a Commonwealth perspective on the range of approaches and initiatives required to improve the Commonwealth's responsiveness to regional needs.
+Ms Varova provided a brief outline of the broad range of Commonwealth activity in the Spencer Gulf area and its constituent regions. She described the work to date of the Commonwealth Interdepartmental working group on the Regional Forums Australia Programme and how this mechanism is designed to assist Federal agencies to take a whole of government approach rather than looking at
+
+issues from their own portfolio perspective and dealing with a region in isolation from other portfolios. She also described the task of the Transport and Regional Services portfolio in being responsible for coordinating cross-portfolio issues in relation to regional Australia.
+Ms Varova and other Federal agency representatives also took questions from the floor on the Federal Government's approach to regional Australia and particularly the Spencer Gulf Area.
+Facilitated Discussion of Commonwealth Position Paper
+Issues Raised:
+.	 There is a need for regional development programs that provide initiatives, which allow regions to become competitive. A focus on services doesn't allow this. While services such as Austrade and Invest Australia are excellent, they should be considered as the next step after the establishment of a regional development program.
+.	 The Federal Government's Green Paper on higher education discusses the potential role of local universities in the regional economy. The Lincoln Science Centre and Rural Health unit at Whyalla indicate that a model exists for building up regional university campuses. A critical issue is human resources and there is a case for providing funding to create higher level academic positions in areas such as agribusiness that would subsequently attract research students and allow building up rather than down sizing.
+.	 The inequity between the money collected from fuel taxes and the level of expenditure on roads.
+SESSION 3
+The Key Strategies and the Agenda for Change
+An interactive session with a panel drawn from Commonwealth, State, Local Government and regional leaders:
+Session objective: To bring together all spheres of government and regional leaders to begin to identify and agree regional priorities for post-Forum action.
+
+Panel members:
+
+
+Phil Tyler
+Chief Executive Officer Whyalla Economic Development Board
+Ian Nightingale
+Chief Executive Officer, Eyre Regional Development Board
+Donald Pfitzner
+Chairman, Mid North Regional Development Board
+Bill Macintosh
+Chairman, Outback Areas Community Development Trust
+Tony Crichton
+Acting Director ,  South Australian Office of Regional Development
+Henry Croft
+Administrator, Buttlingarra Aboriginal Corporation
+ Barbara Derham 
+Chairperson, Area Consultative Committee
+Barry Wakelin
+Federal Member for Grey
+Sema Varova
+First Assistant Secretary, Department of Transport and Regional Services 
+Issues Raised:
+.	 A key policy issue for State, Commonwealth and Local Governments is how to turn a limited amount of money to the strategic advantage of many varying regions. It is critical to develop a communication strategy so people in the regions can understand what can be offered by various government agencies.
+.	 There is a need for a whole of government approach.
+.	 State employment programs ie Kickstart have provided an excellent example of empowering local communities to determine the priority and direction of funding.
+.	 A problem for Regional Development Boards is tapping into funding programs, which are very competitive and require time-consuming submissions. The marketing and communication of these programs also needs improving.
+.	 Dollar for dollar matching funding programs of the Commonwealth, disenfranchise poorer areas who most need assistance.
+.	 State employment programs eg Kickstart have greater flexibility and give more responsibility to the regions than Commonwealth programs. The region would like to see this ""mature"" type of relationship develop with the Commonwealth.
+.	 The SA Regional Development Taskforce report produced a number of excellent recommendations. Ways of implementing these should be investigated.
+.	 Projects in Aboriginal lands (eg Gawler Craton) offer employment benefits to local communities and tribal people do not want to hold up development. There is however a need for improved communication in relation to sacred site issues as there have been instances where developers have not acknowledged these issues (Lake Gairdner). Aboriginal people are happy to work cooperatively with Councils to identify areas, which do not have sacred site status. (Wudinna)
+.	 The Area Consultative Committee (ACC) should have a broad cross section from the community including representatives from the business sector. It should work with all levels of government and the regional economic development boards.
+.	 There are inequities with Commonwealth funding for local roads and Financial Assist 
+ ance Grants, between the eastern states and this region. The per capita formulas used for these funds disadvantage the Spencer Gulf area.
+.	 Equity of outcomes is a key issue, people shouldn't be disadvantaged by lesser services because of their decision to live in a regional area.
+.	 Equity of access to funding should be given to the regions along with the responsibility for dispersing it. Transparency in funding provision is required to built trust.
+.	 There is a current lack of coordination in funding programs.
+.	 Regions need to be clearly defined for funding programs. Some AusIndustry programs have been unsuitable for implementation in some regions.
+.	 Solutions should be defined to fit regions.
+.	 Many reports have been prepared for Aboriginal people by State and Federal government including those on health, deaths in custody and employment. Many of these have not been acted on and funding associated with reports has not reached indigenous people. Services should be better coordinated to reach people who really need it.
+.	 Equity of access to intellectual capital. There is a need for access to a wider range of tertiary courses in regional areas.
+.	 An expectation in coming to the forum was that people wouldn't be told there was no more money and that more innovation is required.
+.	 There are opportunities for employment in regional areas. These opportunities and the benefits of country living should be marketed at the Federal and State level. The Federal government could provide economic development officers in established economic development boards.
+.	 Access to and equity in social service provision. There are a growing number of people dependent on welfare and services and an increase in the number of social problems. Economic development initiatives may benefit larger regional centres but have alarming affects on smaller centres through shifting of resources.
+.	 The time taken in getting approval for regional projects (eg 3 years) can result in lost opportunities. 
+
+.	 There is an opportunity to channel ACC funds into Regional Development boards.
+.	 Lack of infrastructure creates loss of development and can constrain associated employment opportunities. Eg Winery expansion disapproved by Council due to insufficient road infrastructure.
+.	 ATSIC funding is divided into many programs with different guidelines. Aboriginal people have limited access to funding programs. CDC funding has not benefited Aboriginal communities in the region. (eg Gulf Link Ferry, Oyster farm).
+.	 Regional Development boards and the ACC should take a leadership role in the region and develop telecommunications expertise.
+.	 Regional areas have greater access to fresh air and an environment with lower levels of crime and stress.
+.	 Environmental issues should be seen as opportunities. Ways of integrating economic and environmental issues should be investigated.
+.	 Outback mining developments tend to have significant levels of ""fly-in fly-out"" employees and use contractors. These issues need to be considered in estimating their value to the region.
+.	 A beneficial aspect of the forum is the opportunity it provides for regional people to link up with Commonwealth agency representatives and pursue issues relating to specific programs.
+SESSION 4
+Identification of Priority Issues for Day 2 Working Groups
+Session objective: Participants identified four to five topics drawn from agreed regional priorities for more detailed examination in facilitated Working Groups on Day 2.
+The following six workshop topics were identified following Session 4
+Workshop No. 1: Partnering for Regional Development
+Workshop No. 2: Equity for Regions
+Workshop No. 3: Opportunities for the Region
+Workshop No. 4: Infrastructure & Planning
+Workshop No. 5: Breaking Down the ""Silos"" and sharing control
+Workshop No. 6: Better Co-ordination for Aboriginal Development
+Day 2- July 23rd
+Working Breakfast ""The Bishop's Wake-up Call""
+Bishop Eugene Hurley, Bishop of Port Pirie 
+
+SESSION 5:
+Facilitated Working Groups on Regional Priorities
+Session objective: Facilitated Working Groups on agreed regional priorities. The working groups developed implementation strategies and recommended actions.
+Workshop No 1: Partnering for Regional Development
+Key targeted projects:
+.	 In 3 months to explore whether we can have a ""signed off"" memorandum of understanding (MOU) on the recommendations of the Spencer Gulf Common Purpose Group Report
+.	 Explore areas for more flexibility in the special purpose funding for infrastructure—roads, power & water
+.	 Steering group to develop and facilitate a communication process network between AusIndustry and potential clients in the Spencer Gulf region
+.	 ATSIC suggests a proposal for developing an agreed and defined partnerships between the Steering Group and the new ATSIC Regional Council
+.	 A memorandum of understanding to be developed by Department of Transport and Regional Services to offer a ""case manager"" service to requests/enquiries from the Spencer Gulf region.
+Criteria for models on partnership-to be tested:
+.	 Process must be merit driven
+.	 Government as a broker
+.	 Advocacy
+.	 Government to provide a ""case manager""
+.	 Potential for early communication and advice
+.	 Distilling from previous models for success
+.	 How to build personal relationships?
+.	 Marketing programs and also the regional group
+.	 Flexible time length (set in MOU)
+.	 Develop a model MOU for use with all projects (either by service or region)
+.	 Learn lessons from ""excellent"" contact officers- what works and what would help
+.	 Explore flexibility in: approach, process, application, reporting, evaluation & funding models
+.	 2 way approach to streamlining & rationalisation- ""We don't just want more-we are all prepared to give and take"" 
+
+Workshop No. 2: Equity for Regions
+Scope:
+.	 Program/funding information
+.	 Funding (including : Local Government Financial Assistance Grants (FAGs), GST, Tax Share)
+.	 Intellectual capital/education
+.	 Health and social services
+.	 Information & technology
+.	 Government services
+Focus on:
+1.	 Gaining improved equity from traditional sources ie FAGs, road grants, GST allocation, major State/Federal programs
+2.	 Improving equity for the region by community action in attracting and holding private investment-self help
+3.	 Inclusive decision making processes-a holistic approach which gets the regions in the decision making loop from day 1
+	 .	 New investment opportunities
+	 .	 Withdrawal of services and
+	 .	 Structural adjustment processes
+All underpinned by the need for flexibility—one size, one process doesn't fit all.
+The Action Plan
+Over the next four months we want to engage with Federal, State, Local and regional leaders to examine
+.	 Funding formulae in relation to major regional grants. Action: Nominate a working group within 2 weeks of today and meet within 1 month
+.	 Live case study around investment proposal- 2 or 3 projects. Action: Selection of studies and a working group to consider inclusive decision making structures and processes within 1 month.
+Message: Renewal fostering of leadership
+Workshop No. 3: Opportunities for the Region
+.	 There is a need to develop
+	 .	 A belief in the region. ""Be different and tell people""
+	 .	 Partnerships with both government and the private sector
+	 .	 The right mindset to build on opportunities
+	 .	 Campaigns to market itself both within and outside the region
+	 .	 Involvement from the media
+	 .	 A regional brand 
+
+A number of opportunities that could be developed or further built upon include:
+	 .	 Cuttlefish diving
+	 .	 Tourism in Cooper Pedy
+	 .	 Oyster farming
+	 .	 Flinders Ranges
+	 .	 An education city
+	 .	 Recreation
+	 .	 Fishing
+	 .	 Roxby Downs expansion
+	 .	 Pichi Richi Rail
+	 .	 Steel works tours
+Action Plan: Market the region to investors with Commonwealth, State & Local Government groups
+Workshop No. 4: Infrastructure & Planning
+1.	 Funding Programs- State and Federal Governments to consult on guidelines—identify the representative group to consult with.
+2.	 Federal Government response to executive summary of Regional Future Brief
+3.	 Planning Issues. Pilot on industrial land zoning performance measures—Newcastle-BHP
+4.	 Integration of Federal/State/Local Government regional development efforts. eg rural counselling
+5.	 Infrastructure Audit: Establish priorities; include strategies in an information clearing house/ GIS system for all infrastructure related information.
+6.	 Develop skills and expertise in smaller communities to take full advantage of information technology and fund human resources in Councils and Regional Development Boards to input information into the ""clearing house""
+7.	 Business case development to ensure that all parts of the region have access to telecommunication infrastructure at reasonable prices.
+8.	 Genuine commitment to establishing Places of Presence (POP's) in the Spencer Gulf
+9.	 Amend the criteria for funding mobile telephones to enable improved access for remote locations
+10.	 Review of funding criteria for: road funding, FAGs. Consider different equations in recognition of hardships
+11.	 Better market approval processes
+12.	 Pilot cooperative investment projects + market models
+	 .	 Tourism-Interpretative centre
+	 .	 Federal/State/Local and private investment
+	 .	 Effluent treatment 
+
+	 .	 Economies of scale in offering a number of infrastructure projects
+	 .	 Facilitate process through Invest Australia
+Workshop No. 5: Breaking Down the ""Silos"" and sharing control
+Regional agreement upon a real development opportunity as a test case in two discrete zones
+.	 Coastal
+.	 Non coastal
+Along the way the project must have all agencies agreeing with the process
+.	 Define projects
+.	 Terms of reference
+	 .	 Long term model covering economic environmental and social considerations
+.	 Time Line
+	 .	 1 month for regions to agree on the project
+	 .	 2 months for all parties to meet
+	 .	 3 months DECISION to go
+Workshop No. 6: Better Co-ordination for Aboriginal Development
+1.	 Regional autonomy
+.	 More direct funding to the regions would offer benefits including reduced time constraints, which is commercially beneficial. Two regional plans currently exist in the region. Port Augusta & Ceduna. Approach to RCC. Refer SA Regional Development Taskforce.
+2.	 Promotion of positive achievements
+.	 Eg Public relations, Ministerial endorsement for local initiatives. Eg Buttlingarra
+3.	 Building trust/brokering—
+.	 A brokering role by Regional Development Boards could improve project credibility
+4.	 Consider a changed perception of accountability
+.	 ATSIC has comprehensive evaluation and audit processes. Regional communities also have a responsibility in relation to accountability.
+SESSION 6
+Constituent Regions De-briefing+Chaired by Regional Steering Group Members
+Session objective: Opportunity for participants from each of the four regions to de-brief with their representative on the Steering Group prior to the Steering Group considering the Post-Forum Action Plan. The focus was on proposed strategic actions and accompanying timetables for four-month period after the Forum. 
+
+Feed-back from Steering Group members on Proposed strategic actions and Timetables for Post- Forum Action Plan
+COMMON PURPOSE GROUP
+1.	 Memorandum of understanding with the Common Purpose Group—Strategic plan
+2.	 State/Federal/Local Government. Memorandum of understanding on forum issues. Communications—Local Government.
+3.	 Review of criteria for Local Government funding—roads
+4.	 Department of Transport & Regional Services (Case Manager)
+EYRE PENINSULA
+Signposts
+1.	 More certainty in planning and development processes
+2.	 Equity in funding—the case for a regional development fund
+3.	 Practical outcomes
+4.	 Lift the regions game in advocacy/marketing
+Outcomes
+.	 Commitment to change
+MID NORTH/YORKE/FLINDERS
+1.	 Direct Federal Government involvement in existing regional development boards (including appropriate funding)
+2.	 Access to Regional Assistance Program funding for an infrastructure audit
+3.	 Marketing (equity issue) by Federal Government on opportunity and contribution of country Australia. (Leadership by Federal Government)
+4.	 Information technology infrastructure as a priority for Government.
+5.	 Funding review—economic outcome driven
+FAR NORTH
+1.	 Authorities have a better understanding of the types of disadvantages and commit to assisting on a needs basis rather than per capita basis.
+2.	 Infrastructure and communications are a priority with more interaction between the Anangu Pitjantjatjara (Aboriginal) lands and the rest of the region
+3.	 Commitment to organising partnerships dedicated to achieving results and having a network of people known to these partnerships in terms of who they are and what they do.
+4.	 No change to FAGs grants except to find a way that enhances them for small Councils
+The forum concluded with agreement that further outcomes will be documented as they are deter 
+ mined through the Regional Forum Programme process.",SENATE,<title>QUESTIONS ON NOTICE</title>,<title>Regional Forums Australia Program: Trials</title>,Answers to Questions on Notice,25,1,answer

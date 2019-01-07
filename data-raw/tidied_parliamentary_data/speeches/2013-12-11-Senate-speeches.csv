@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2013-12-11,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (09:31):  I advise honourable senators that there will be a condolence book for Nelson Mandela made available in my walkway today, and I invite senators to sign it. Out the back of the chamber, just move through and you will see it is available there, so sign that if you so desire. It will only be there today.
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",STATEMENT BY THE PRESIDENT,0,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",STATEMENT BY THE PRESIDENT,0,1,speech
 "Kroger, Sen Helen",LP,2013-12-11,"
 
 
@@ -20,7 +20,7 @@ That the Environment and Communications Legislation Committee be authorised to h
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Environment and Communications Legislation Committee</title>,COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,<title>Environment and Communications Legislation Committee</title>,COMMITTEES,1,1,speech
 "Kroger, Sen Helen",LP,2013-12-11,"
 
 
@@ -34,7 +34,7 @@ That the Environment and Communications Legislation Committee be authorised to h
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "Johnston, Sen David",LP,2013-12-11,"
 
 
@@ -619,7 +619,7 @@ We will never forget them.
 
 An inscription I saw during my recent visit to Tarin Kot summarised their sacrifice in a few words: ""All gave some, some gave all"".
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,2,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,2,1,speech
 "Faulkner, Sen John",ALP,2013-12-11,"
 
 
@@ -643,7 +643,7 @@ He is right to identify that many challenges will remain for those returning fro
 
 Given that Senator Conroy is now able to speak on behalf of the opposition, I merely thank the Senate for the opportunity to make these brief remarks. I thank the Minister for Defence, as he at times thanked me when I held that office, for providing the Senate and the Australian parliament with an ongoing update of Australia's service in Afghanistan.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,2,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,2,1,speech
 "Conroy, Sen Stephen",ALP,2013-12-11,"
 
 
@@ -681,7 +681,7 @@ Before I conclude, it is important to reflect on what our deployment in Afghanis
 
 Again, I thank the minister for taking this opportunity to update the Senate.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,2,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,2,1,speech
 "Milne, Sen Christine",AG,2013-12-11,"
 
 
@@ -722,7 +722,7 @@ So at this point, out of respect for people who have served there, who have lost
 
 In closing, I want to acknowledge not only our own troops who have died and been injured but also the cost to the people of Afghanistan. A large number of civilians have died in Afghanistan in that violence. This has been a human tragedy at every scale and the Australian Greens, in paying tribute to the service of our men and women, ask that the parliament thinks very carefully about changing the way we deploy our troops to war in the future. It should use a reflection on this period in Afghanistan to change the law in this country to make sure that it is parliament which actually backs deployment of troops and not just the government of the day.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,2,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,2,1,speech
 "Macdonald, Sen Ian",LP,2013-12-11,"
 
 
@@ -742,7 +742,7 @@ That memorial does, forever, commemorate the lives of soldiers who gave their li
 
 The Roll of Honour at the opening ceremony was read by General Cantwell, and that in itself is a very difficult thing to do. It was a very moving ceremony and there would not have been a dry eye as General Cantwell read out the names of those who had given their lives in Afghanistan. I simply say to my colleagues that, if you ever have the chance, if you are ever in North Queensland on the Atherton Tableland behind Cairns, one of the things you must see is the Avenue of Honour. It is a magnificent living memorial to the efforts made by our soldiers in Afghanistan.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,2,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,2,1,speech
 "Macdonald, Sen Ian",LP,2013-12-11,"
 
 
@@ -813,7 +813,7 @@ The government will be well advised in relation to climate matters by the CSIRO,
 
 We do not need that, and the Australian people do not need to have to pay for that. We have some of the pre-eminent scientific organisations in the world—the Bureau of Meteorology and CSIRO—there to advise us. We also have very expert people in the Department of the Environment to advise the minister. We have a minister who understands these things, unlike previous ministers, and who appreciates what is what and, more importantly, a minister who is determined to ensure that the promises we made to the Australian people before the last election are honoured.
 
-",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1,speech
 "Bilyk, Sen Catryna",ALP,2013-12-11,"
 
 
@@ -977,7 +977,7 @@ Senators in this place should be extremely disappointed with this bill and indee
 
 The Liberal-National government are seeking to destroy the Climate Change Authority because they do not like the advice it provides and they do not want any government authority at all to be able to measure how well or how poorly their Direct Action policy is or is not working. I just find it a bit of a joke. It is a joke, unfortunately, at the expense of the Australian people. I would urge all senators, but particularly those National Party senators who are voting to destroy a board that has granted tens of millions of dollars to Australian farmers, the people they claim to represent, to think again and to vote against this bill.
 
-",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1,speech
 "Ludwig, Sen Joe",ALP,2013-12-11,"
 
 
@@ -1057,7 +1057,7 @@ Mr Turnbull went on to bell the cat. He recognised that the subsidy schemes, lik
 
 In conclusion in this debate, and coming back to the main scope of this bill: again, it is simply a negative, retrograde step by a government that has no clear policy and that can only see its way to say 'no', to abolish things and to cut things. It has no positive plan for Australia's future, and this is but one example of where removing the independent umpire also gives it the ability to hide the truth and not allow it to be put into the public domain—to control the message.
 
-",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1,speech
 "Lines, Sen Susan",ALP,2013-12-11,"
 
 
@@ -1164,7 +1164,7 @@ The campaign by this coalition government of shutting down credible scientists a
 
 The Climate Change Authority said in their October draft report that Australia should aim for a 15 per cent cut in emissions by 2020. The CCA believe that leaving our emissions target at its current level will prove to be inadequate into the future. This is an example of the Climate Change Authority's frank and fearless advice. Repealing the legislation and abolishing the Climate Change Authority is a demonstration of the government completely disregarding this information. The establishment of an independent Climate Change Authority to advise on the operation of a carbon pricing scheme or a direct action scheme is critical but, again, this government wants to go backwards and turn back the clock with no assessment of whether the authority is good, bad or indifferent, and with no transparency. It is a case of: let us just get on and continue to try to hoodwink people, as this government continues to rely on instincts and not facts and not scientific evidence. I do not support the abolition of the Climate Change Authority. 
 
-",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1,speech
 "O'Neill, Sen Deb",ALP,2013-12-11,"
 
 
@@ -1289,7 +1289,7 @@ Stewardship of our great nation requires governments to have the vision to deliv
 
 Considering the Abbott coalition's approach to climate change, it is little wonder it has systematically moved to close down, censor or intimidate independent sources of advice and information. This is at the heart of its decision to abolish the Climate Commission and to shut down the Climate Change Authority. Labor will vote against this shambolic policy, and we will not allow the coalition to silence expert advice— (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1,speech
 "Cameron, Sen Doug",ALP,2013-12-11,"
 
 
@@ -1376,7 +1376,7 @@ Senator CAMERON:
 
 That is why they want to get rid of the Climate Change Authority. That would be a check and balance on this terrible government the community has already said is no good, on a government that is one of the poorest ever to start off in this country. The public are onto them and onto them early. All these policies they said they would deliver are not going to be delivered unless it means crashing jobs for unionised workers in the car industry, unless it means destroying the environment for their short-term political gain. That is what they are about. They are the most hopeless government that has ever come in here. They have had the shortest honeymoon period of any government in the history of this country. They want to destroy the environment for the sake of their mates in big business. They have no capacity to stand up for the local communities. They have no capacity to stand up to big business. They will continue to run a position here that is economically illiterate and environmental vandalism. So I take the view that, the sooner we get to the next election and the sooner you lot are gone, the better, because that is in the interests of this country.
 
-",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1,speech
 "Singh, Sen Lisa",ALP,2013-12-11,"
 
 
@@ -1432,7 +1432,7 @@ There is time for this government to reflect upon what it has done, to move from
 
 The Climate Change Authority acts very similarly to the UK's committee on climate change, which has also been providing independent advice on the issue of emissions reduction. To abolish this authority would be another step backwards, just as it was a step backwards to abolish the Climate Change Commission and just as it was a step backwards to attempt to abolish the Clean Energy Finance Corporation. We need the architecture that we have in place on climate change so that we can play our part in the international community and, ultimately, reduce carbon emissions in this country.
 
-",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1,speech
 "Williams, Sen John",Nats,2013-12-11,"
 
 
@@ -1461,7 +1461,7 @@ We now have all of these troubles with the motor vehicle industry. The cost to t
 
 As I said thousands of times, the Australian people were quite clear about how they voted on 7 September and what our policies were. One policy was to abolish the carbon tax, and another was to abolish the mining tax. That is exactly what will happen. We will go back to the people if it does not. So come to accept that the carbon tax is not working, is a cost on our nation and our businesses, is transferring business and jobs overseas, is having no effect in Australia and is hugely expensive. That is why this bill that we are debating now is part of the carbon tax abolition policies that we went to the people with and that they clearly voted for. This was in a case where the Australian Labor Party had its lowest primary vote for 110 years, dating back to 1903. If they are going to stand in the road, the people will decide.
 
-",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1,speech
 "Faulkner, Sen John",ALP,2013-12-11,"
 
 
@@ -1520,7 +1520,7 @@ Limiting climate change will require substantial and sustained reductions in gre
 
 Debate interrupted. 
 
-",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Climate Change Authority (Abolition) Bill 2013</title>,BILLS,4,1,speech
 "Macdonald, Sen Ian",LP,2013-12-11,"
 
 
@@ -1591,7 +1591,7 @@ The government will be well advised in relation to climate matters by the CSIRO,
 
 We do not need that, and the Australian people do not need to have to pay for that. We have some of the pre-eminent scientific organisations in the world—the Bureau of Meteorology and CSIRO—there to advise us. We also have very expert people in the Department of the Environment to advise the minister. We have a minister who understands these things, unlike previous ministers, and who appreciates what is what and, more importantly, a minister who is determined to ensure that the promises we made to the Australian people before the last election are honoured.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Bilyk, Sen Catryna",ALP,2013-12-11,"
 
 
@@ -1755,7 +1755,7 @@ Senators in this place should be extremely disappointed with this bill and indee
 
 The Liberal-National government are seeking to destroy the Climate Change Authority because they do not like the advice it provides and they do not want any government authority at all to be able to measure how well or how poorly their Direct Action policy is or is not working. I just find it a bit of a joke. It is a joke, unfortunately, at the expense of the Australian people. I would urge all senators, but particularly those National Party senators who are voting to destroy a board that has granted tens of millions of dollars to Australian farmers, the people they claim to represent, to think again and to vote against this bill.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Ludwig, Sen Joe",ALP,2013-12-11,"
 
 
@@ -1835,7 +1835,7 @@ Mr Turnbull went on to bell the cat. He recognised that the subsidy schemes, lik
 
 In conclusion in this debate, and coming back to the main scope of this bill: again, it is simply a negative, retrograde step by a government that has no clear policy and that can only see its way to say 'no', to abolish things and to cut things. It has no positive plan for Australia's future, and this is but one example of where removing the independent umpire also gives it the ability to hide the truth and not allow it to be put into the public domain—to control the message.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Lines, Sen Susan",ALP,2013-12-11,"
 
 
@@ -1942,7 +1942,7 @@ The campaign by this coalition government of shutting down credible scientists a
 
 The Climate Change Authority said in their October draft report that Australia should aim for a 15 per cent cut in emissions by 2020. The CCA believe that leaving our emissions target at its current level will prove to be inadequate into the future. This is an example of the Climate Change Authority's frank and fearless advice. Repealing the legislation and abolishing the Climate Change Authority is a demonstration of the government completely disregarding this information. The establishment of an independent Climate Change Authority to advise on the operation of a carbon pricing scheme or a direct action scheme is critical but, again, this government wants to go backwards and turn back the clock with no assessment of whether the authority is good, bad or indifferent, and with no transparency. It is a case of: let us just get on and continue to try to hoodwink people, as this government continues to rely on instincts and not facts and not scientific evidence. I do not support the abolition of the Climate Change Authority. 
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "O'Neill, Sen Deb",ALP,2013-12-11,"
 
 
@@ -2067,7 +2067,7 @@ Stewardship of our great nation requires governments to have the vision to deliv
 
 Considering the Abbott coalition's approach to climate change, it is little wonder it has systematically moved to close down, censor or intimidate independent sources of advice and information. This is at the heart of its decision to abolish the Climate Commission and to shut down the Climate Change Authority. Labor will vote against this shambolic policy, and we will not allow the coalition to silence expert advice— (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Cameron, Sen Doug",ALP,2013-12-11,"
 
 
@@ -2154,7 +2154,7 @@ Senator CAMERON:
 
 That is why they want to get rid of the Climate Change Authority. That would be a check and balance on this terrible government the community has already said is no good, on a government that is one of the poorest ever to start off in this country. The public are onto them and onto them early. All these policies they said they would deliver are not going to be delivered unless it means crashing jobs for unionised workers in the car industry, unless it means destroying the environment for their short-term political gain. That is what they are about. They are the most hopeless government that has ever come in here. They have had the shortest honeymoon period of any government in the history of this country. They want to destroy the environment for the sake of their mates in big business. They have no capacity to stand up for the local communities. They have no capacity to stand up to big business. They will continue to run a position here that is economically illiterate and environmental vandalism. So I take the view that, the sooner we get to the next election and the sooner you lot are gone, the better, because that is in the interests of this country.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Singh, Sen Lisa",ALP,2013-12-11,"
 
 
@@ -2210,7 +2210,7 @@ There is time for this government to reflect upon what it has done, to move from
 
 The Climate Change Authority acts very similarly to the UK's committee on climate change, which has also been providing independent advice on the issue of emissions reduction. To abolish this authority would be another step backwards, just as it was a step backwards to abolish the Climate Change Commission and just as it was a step backwards to attempt to abolish the Clean Energy Finance Corporation. We need the architecture that we have in place on climate change so that we can play our part in the international community and, ultimately, reduce carbon emissions in this country.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Williams, Sen John",Nats,2013-12-11,"
 
 
@@ -2239,7 +2239,7 @@ We now have all of these troubles with the motor vehicle industry. The cost to t
 
 As I said thousands of times, the Australian people were quite clear about how they voted on 7 September and what our policies were. One policy was to abolish the carbon tax, and another was to abolish the mining tax. That is exactly what will happen. We will go back to the people if it does not. So come to accept that the carbon tax is not working, is a cost on our nation and our businesses, is transferring business and jobs overseas, is having no effect in Australia and is hugely expensive. That is why this bill that we are debating now is part of the carbon tax abolition policies that we went to the people with and that they clearly voted for. This was in a case where the Australian Labor Party had its lowest primary vote for 110 years, dating back to 1903. If they are going to stand in the road, the people will decide.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Faulkner, Sen John",ALP,2013-12-11,"
 
 
@@ -2298,7 +2298,7 @@ Limiting climate change will require substantial and sustained reductions in gre
 
 Debate interrupted. 
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Williams, Sen John",Nats,2013-12-11,"
 
 
@@ -2419,7 +2419,65 @@ The ACTING DEPUTY PRESIDENT:  Order! Senator Sterle, Senator Williams has the ri
 Senator WILLIAMS:
   I agree with you, Madam Acting Deputy President; thank you very much. So that is the point I make. I support safety on the road and I support safety for our truckies by whatever we can do. We have got the national road safety plan coming into place and the national regulations, and the sooner they get here the better so we do not have different weights in different states and all the red tape. But I do not want to see the paperwork swamping them and just being thrown around. We have already got too much paperwork when small businesses, especially owner-drivers, are trying to survive; it is more time and more cost to them, and all so they can do the paperwork. So you are trying to run a small business and the paperwork is swimming all around you and you are drowning in it, and I do not want to see more paperwork. So, regardless of what Senator Sterle says, let us see that people can actually run their business in this country without being swamped by red tape and regulation.
 
-",Senate,<title>MATTERS OF PUBLIC INTEREST</title>,<title>Road Safety Remuneration Tribunal</title>,MATTERS OF PUBLIC INTEREST,5,1
+",Senate,<title>MATTERS OF PUBLIC INTEREST</title>,<title>Road Safety Remuneration Tribunal</title>,MATTERS OF PUBLIC INTEREST,5,1,speech
+"McLucas, Sen Jan",ALP,2013-12-11,"
+
+
+
+Senator McLUCAS
+ (Queensland) (14:00):  My question is to the Assistant Minister for Health, Senator Nash. I refer to the minister's inability to answer my question yesterday about the DonateLife program, despite it being discussed at Senate estimates. Now that she has had the opportunity to be briefed, I ask again: can the minister advise the Senate if any grants have been made since the new grants approval process was put in place?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Organ and Tissue Donation</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"McLucas, Sen Jan",ALP,2013-12-11,"
+
+
+
+Senator McLUCAS
+ (Queensland) (14:01):  I am pleased to receive that answer. Mr President, I ask a supplementary question. Can the minister advise the Senate when that decision was made?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Organ and Tissue Donation</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"McLucas, Sen Jan",ALP,2013-12-11,"
+
+
+
+Senator McLUCAS
+ (Queensland) (14:02):  Mr President, I ask a further supplementary question. I ask the minister: when were applicants notified of their success in receiving that funding; and when will the funding actually become physically available so that they can undertake the work to promote organ and tissue donation in our community?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Organ and Tissue Donation</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Nash, Sen Fiona",Nats,2013-12-11,"
+
+
+
+Senator NASH
+ (New South Wales—Deputy Leader of The Nationals in the Senate and Assistant Minister for Health) (14:01):  I thank Senator McLucas for her question. The senator will be pleased to be informed that the government has indeed approved the funding for the consideration of the Community Awareness Grants round, and that that round is currently being considered by the OTA.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Organ and Tissue Donation</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
+"Nash, Sen Fiona",Nats,2013-12-11,"
+
+
+
+Senator NASH
+ (New South Wales—Deputy Leader of The Nationals in the Senate and Assistant Minister for Health) (14:01):  The senator would be aware that the decision was made quite recently. In terms of the specific date—
+
+
+
+Opposition senators interjecting—
+
+
+
+
+Senator NASH:
+  I will certainly advise the senator of the specific date. But I think it is very important to remember that this government, compared to the previous government, has a plan for the future of this nation: delivering a safer, stronger Australia. Now, we actually have a plan, unlike the previous government, to ensure that we have sustainability across our portfolios into the future—unlike the previous government—and we will be making the appropriate decisions accordingly.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Organ and Tissue Donation</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
+"Nash, Sen Fiona",Nats,2013-12-11,"
+
+
+
+Senator NASH
+ (New South Wales—Deputy Leader of The Nationals in the Senate and Assistant Minister for Health) (14:02):  Clearly, the senator was not listening to my first answer very closely. I did indicate to the chamber that the funding for the round had been approved and that the OTA was now considering that and was in the stages of finalising the process. So the process is yet to be completed.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Organ and Tissue Donation</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
 "Wong, Sen Penny",ALP,2013-12-11,"
 
 
@@ -2460,7 +2518,7 @@ Senator Abetz:
 Senator WONG:
   What a complete disgrace you are! A straight question about workers and that is what you come back with. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Fierravanti-Wells, Sen Concetta",LP,2013-12-11,"
 
 
@@ -2489,7 +2547,7 @@ small domestic market and arguably the most competitive and fragmented auto mark
 
 So what would those high costs of production be? Try the carbon tax, which Holden estimates is about $45 per locally made vehicle; the rates of company tax; the fringe benefits tax. Let us go back to Labor's record on cars. You have absolutely no plan whatsoever. You have no plan, you have no vision and you belted the car industry around. In the last two years, you broke $1.4 billion of your promised funding commitments as you chopped and changed, and that is on top of the carbon tax, which slugged the sector with a further $460 million bill at the worst possible time. Julia Gillard promised $34 million for Ford, which she said would create 300 jobs—another broken promise. In eight months 330 jobs were gone. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Carr, Sen Kim",ALP,2013-12-11,"
 
 
@@ -2512,7 +2570,7 @@ What is the government's point of view? First point: we take $500 million out of
 
 What do you expect? What do you expect when you get the answer that you have asked for? You get the answer you have been demanding. You have pursued a vendetta against this company, and you have now got what you have asked for. You established a Productivity Commission inquiry—I have said for some time I was very, very concerned that what you were actually doing was establishing a coroner's inquiry, a post-mortem process. The only difference here is the coroner was actually pleased about the death. That is the situation with this government. They have been seeking this result. They have been pursuing a campaign against manufacturing in this country, particularly automotive manufacturing. They have campaigned against the international automotive industry; they have been playing chicken with this company, and we now have the result. The consequences are going to be a social and economic catastrophe for this country, and you, Minister, and your government are directly responsible.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Bernardi, Sen Cory",LP,2013-12-11,"
 
 
@@ -2564,7 +2622,7 @@ I am sick of the hypocrisy on the other side. We inherited a basket case of a bu
 
 Senator Carr would have the people of Australia believe that somehow General Motors in Detroit last night just said: 'Let's shut down our South Australian and Victorian manufacturing facilities. Let's do that at a cost of some $600 million.' Unfortunately, we know the Labor Party is cavalier about $600 million, $1 billion and $100 billion, but General Motors are not. They would have been looking at and examining for many years the consequences and the potential costs. We know there are unavoidable issues attached to manufacturing in this country—the high dollar, the tyranny of distance, the relatively small market and so on—but Senator Carr and his cohorts in the Labor Party need to come clean and start telling the truth. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Farrell, Sen Don",ALP,2013-12-11,"
 
 
@@ -2642,7 +2700,7 @@ We know that the workers themselves understood the severity of this problem. The
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Abetz, Sen Eric",LP,2013-12-11,"
 
 
@@ -2650,7 +2708,7 @@ Question agreed to.
 Senator ABETZ
  (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (15:40):  For the information of senators, I table the government's statement of ministerial standards. This document will be made available on the website of the Department of the Prime Minister and Cabinet.
 
-",Senate,<title>DOCUMENTS</title>,<title>Statement of Ministerial Standards</title>,DOCUMENTS,10,1
+",Senate,<title>DOCUMENTS</title>,<title>Statement of Ministerial Standards</title>,DOCUMENTS,10,1,speech
 "Abetz, Sen Eric",LP,2013-12-11,"
 
 
@@ -2658,7 +2716,7 @@ Senator ABETZ
 Senator ABETZ
  (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (15:40):  For the information of senators, I table the government's statement of ministerial standards. This document will be made available on the website of the Department of the Prime Minister and Cabinet.
 
-",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,10,2
+",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,10,2,speech
 "Rhiannon, Sen Lee",AG,2013-12-11,"
 
 
@@ -2720,7 +2778,7 @@ Senator RHIANNON:
 
 (b) hold public hearings in all capital cities, with a minimum of Melbourne, Sydney, Perth and Brisbane, as well as a major regional centre in either New South Wales or Victoria.
 
-",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,13,1
+",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,13,1,speech
 "Fifield, Sen Mitch",LP,2013-12-11,"
 
 
@@ -2741,7 +2799,7 @@ Senator FIFIELD:
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,13,1
+",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,13,1,speech
 "Rhiannon, Sen Lee",AG,2013-12-11,"
 
 
@@ -2803,7 +2861,7 @@ Senator RHIANNON:
 
 (b) hold public hearings in all capital cities, with a minimum of Melbourne, Sydney, Perth and Brisbane, as well as a major regional centre in either New South Wales or Victoria.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,13,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,13,2,speech
 "Fifield, Sen Mitch",LP,2013-12-11,"
 
 
@@ -2824,7 +2882,7 @@ Senator FIFIELD:
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,13,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,13,2,speech
 "Xenophon, Sen Nick",Ind.,2013-12-11,"
 
 
@@ -2853,7 +2911,7 @@ Ticket scalping in Australia, with particular reference to:
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Economics References Committee</title>,COMMITTEES,15,1
+",Senate,<title>COMMITTEES</title>,<title>Economics References Committee</title>,COMMITTEES,15,1,speech
 "Xenophon, Sen Nick",Ind.,2013-12-11,"
 
 
@@ -2882,7 +2940,7 @@ Ticket scalping in Australia, with particular reference to:
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,15,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,15,2,speech
 "Fifield, Sen Mitch",LP,2013-12-11,"
 
 
@@ -3041,7 +3099,7 @@ Question agreed to.
 
 The DEPUTY PRESIDENT:  I can advise senators there are another 14 motions to be dealt with but it is my understanding there will not be any further divisions in resolving those motions. That is my understanding. I cannot guarantee that, of course, but I am just advising the Senate for your information.
 
-",Senate,<title>MOTIONS</title>,<title>Broadcasting Senate and Committee Proceedings</title>,MOTIONS,16,1
+",Senate,<title>MOTIONS</title>,<title>Broadcasting Senate and Committee Proceedings</title>,MOTIONS,16,1,speech
 "Xenophon, Sen Nick",Ind.,2013-12-11,"
 
 
@@ -3055,7 +3113,7 @@ That the following bill be introduced: A Bill for an Act to amend the Criminal C
 
 Question agreed to.
 
-",Senate,<title>BILLS</title>,<title>Criminal Code Amendment (Harming Australians) Bill 2013</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Criminal Code Amendment (Harming Australians) Bill 2013</title>,BILLS,17,1,speech
 "Xenophon, Sen Nick",Ind.,2013-12-11,"
 
 
@@ -3072,7 +3130,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Criminal Code Amendment (Harming Australians) Bill 2013</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Criminal Code Amendment (Harming Australians) Bill 2013</title>,BILLS,17,1,speech
 "Xenophon, Sen Nick",Ind.,2013-12-11,"
 
 
@@ -3126,7 +3184,7 @@ Ultimately, this question is one of support for Australian families who have los
 
 It makes no sense to limit a person’s access to justice when the crimes concerned include murder and manslaughter. These are rightly considered inexcusable acts, and the right to seek justice in these cases should not be limited. As Martin Luther King said: “Law and order exist for the purpose of establishing justice, and when they fail in this purpose they become the dangerously structured dams that block the flow of social progress.”
 
-",Senate,<title>BILLS</title>,<title>Criminal Code Amendment (Harming Australians) Bill 2013</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Criminal Code Amendment (Harming Australians) Bill 2013</title>,BILLS,17,1,speech
 "Xenophon, Sen Nick",Ind.,2013-12-11,"
 
 
@@ -3137,7 +3195,7 @@ Senator XENOPHON
 
 Leave granted; debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Criminal Code Amendment (Harming Australians) Bill 2013</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Criminal Code Amendment (Harming Australians) Bill 2013</title>,BILLS,17,1,speech
 "Xenophon, Sen Nick",Ind.,2013-12-11,"
 
 
@@ -3151,7 +3209,7 @@ That the following bill be introduced: A Bill for an Act to amend the Criminal C
 
 Question agreed to.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,17,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,17,2,speech
 "Xenophon, Sen Nick",Ind.,2013-12-11,"
 
 
@@ -3168,7 +3226,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,17,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,17,2,speech
 "Urquhart, Sen Anne",ALP,2013-12-11,"
 
 
@@ -3182,7 +3240,7 @@ That the Senate expresses its sincere condolences to the families, friends and w
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,"<title>Gleeson, Mr Craig and Lucas, Mr Alistair</title>",MOTIONS,18,1
+",Senate,<title>MOTIONS</title>,"<title>Gleeson, Mr Craig and Lucas, Mr Alistair</title>",MOTIONS,18,1,speech
 "Siewert, Sen Rachel",AG,2013-12-11,"
 
 
@@ -3193,7 +3251,7 @@ Senator SIEWERT
 
 That there be laid on the table by the Minister representing the Minister for Immigration and Border Protection, no later than noon on Thursday, 12 December 2013, all incident reports, briefings, internal communications and other reports (excluding already publicly available documents), between the Minister or the Minister's office and the Department of Immigration and Border Protection or the Detection, Interception and Transfer Task Group and related agencies in relation to an undetected boat arrival suspected to have arrived on Monday, 3 December 2013, carrying 27 asylum seekers.
 
-",Senate,<title>DOCUMENTS</title>,<title>Asylum Seekers</title>,DOCUMENTS,19,1
+",Senate,<title>DOCUMENTS</title>,<title>Asylum Seekers</title>,DOCUMENTS,19,1,speech
 "Cash, Sen Michaelia",LP,2013-12-11,"
 
 
@@ -3214,7 +3272,7 @@ Senator CASH:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Asylum Seekers</title>,DOCUMENTS,19,1
+",Senate,<title>DOCUMENTS</title>,<title>Asylum Seekers</title>,DOCUMENTS,19,1,speech
 "Siewert, Sen Rachel",AG,2013-12-11,"
 
 
@@ -3225,7 +3283,7 @@ Senator SIEWERT
 
 That there be laid on the table by the Minister representing the Minister for Immigration and Border Protection, no later than noon on Thursday, 12 December 2013, all incident reports, briefings, internal communications and other reports (excluding already publicly available documents), between the Minister or the Minister's office and the Department of Immigration and Border Protection or the Detection, Interception and Transfer Task Group and related agencies in relation to an undetected boat arrival suspected to have arrived on Monday, 3 December 2013, carrying 27 asylum seekers.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,19,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,19,2,speech
 "Cash, Sen Michaelia",LP,2013-12-11,"
 
 
@@ -3246,7 +3304,7 @@ Senator CASH:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,19,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,19,2,speech
 "Hanson-Young, Sen Sarah",AG,2013-12-11,"
 
 
@@ -3257,7 +3315,7 @@ Senator HANSON-YOUNG
 
 That the Senate records its deepest condolences for the families and loved ones of the three refugees, including a toddler, who tragically lost their lives at sea on a boat bound for Australia.
 
-",Senate,<title>MOTIONS</title>,<title>Asylum Seekers</title>,MOTIONS,20,1
+",Senate,<title>MOTIONS</title>,<title>Asylum Seekers</title>,MOTIONS,20,1,speech
 "Cash, Sen Michaelia",LP,2013-12-11,"
 
 
@@ -3278,7 +3336,7 @@ Senator CASH:
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Asylum Seekers</title>,MOTIONS,20,1
+",Senate,<title>MOTIONS</title>,<title>Asylum Seekers</title>,MOTIONS,20,1,speech
 "Moore, Sen Claire",ALP,2013-12-11,"
 
 
@@ -3302,7 +3360,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Trade</title>,DOCUMENTS,21,1
+",Senate,<title>DOCUMENTS</title>,<title>Trade</title>,DOCUMENTS,21,1,speech
 "Moore, Sen Claire",ALP,2013-12-11,"
 
 
@@ -3326,7 +3384,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,21,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,21,2,speech
 "Whish-Wilson, Sen Peter",AG,2013-12-11,"
 
 
@@ -3343,7 +3401,7 @@ That the Senate calls on the Government to:
 
 (b) ensure That the resources devoted to patrolling illegal foreign fishing are not diverted to other activities, including That the Australian Customs Vessel Ocean Protector and/or its replacement is provided with sufficient funding to devote an adequate level of patrol days in the Southern waters every financial year.
 
-",Senate,<title>MOTIONS</title>,<title>Whaling and Illegal Fishing</title>,MOTIONS,22,1
+",Senate,<title>MOTIONS</title>,<title>Whaling and Illegal Fishing</title>,MOTIONS,22,1,speech
 "Whish-Wilson, Sen Peter",AG,2013-12-11,"
 
 
@@ -3367,7 +3425,7 @@ Senator WHISH-WILSON:
 
 The problem we have at the moment is that our custom-built boat for the Southern Ocean, the Ocean Protector, is off Christmas Island acting as an expensive water taxi. It is needed in the Southern Ocean and it should be off Macquarie Island. I expect the coalition to support today's motion given that these exact words are word-for-word from their policy documents.
 
-",Senate,<title>MOTIONS</title>,<title>Whaling and Illegal Fishing</title>,MOTIONS,22,1
+",Senate,<title>MOTIONS</title>,<title>Whaling and Illegal Fishing</title>,MOTIONS,22,1,speech
 "Cash, Sen Michaelia",LP,2013-12-11,"
 
 
@@ -3388,7 +3446,7 @@ Senator CASH:
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Whaling and Illegal Fishing</title>,MOTIONS,22,1
+",Senate,<title>MOTIONS</title>,<title>Whaling and Illegal Fishing</title>,MOTIONS,22,1,speech
 "Milne, Sen Christine",AG,2013-12-11,"
 
 
@@ -3495,7 +3553,7 @@ Senator MILNE
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Select Committee on the Abbott Government's Commission of Audit</title>,COMMITTEES,23,1
+",Senate,<title>COMMITTEES</title>,<title>Select Committee on the Abbott Government's Commission of Audit</title>,COMMITTEES,23,1,speech
 "Milne, Sen Christine",AG,2013-12-11,"
 
 
@@ -3602,7 +3660,7 @@ Senator MILNE
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,23,2
+",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,23,2,speech
 "Whish-Wilson, Sen Peter",AG,2013-12-11,"
 
 
@@ -3610,7 +3668,7 @@ Question agreed to.
 Senator WHISH-WILSON
  (Tasmania) (16:15):  by leave—I table a document relating to my motion on whaling.
 
-",Senate,<title>MOTIONS</title>,<title>Whaling</title>,MOTIONS,24,1
+",Senate,<title>MOTIONS</title>,<title>Whaling</title>,MOTIONS,24,1,speech
 "DEPUTY PRESIDENT, The",,2013-12-11,"
 
 
@@ -3633,7 +3691,7 @@ Is the proposal supported?
 More than the number of senators required by the standing orders having risen in their places—
 
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Great Barrier Reef</title>,MATTERS OF PUBLIC IMPORTANCE,25,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Great Barrier Reef</title>,MATTERS OF PUBLIC IMPORTANCE,25,1,speech
 "Waters, Sen Larissa",AG,2013-12-11,"
 
 
@@ -3677,7 +3735,7 @@ That was yesterday. Today they are moving to abolish protection for the Murray-D
 
 This has been an atrocious week for the environment. It has been a terribly sad week for the Great Barrier Reef and for all of those who love it. We know that it is not just Australians who love our reef. It is hugely popular with international tourists and, in fact, it is sacred in the hearts of many people across the world. We can and should be doing so much better. I will be reintroducing a bill in this place shortly to adopt those World Heritage Committee recommendations to save our reef. It is not that hard. We just have to start putting the reef and the people who rely on it ahead of the interests of the big mining companies. We can do that. It is not that hard. Will this government do it? They have not yet and I remain hopeful, for the sake of those 63,000 Queenslanders and for everyone who loves the reef, that they will soon change their tune.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Great Barrier Reef</title>,MATTERS OF PUBLIC IMPORTANCE,25,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Great Barrier Reef</title>,MATTERS OF PUBLIC IMPORTANCE,25,1,speech
 "Boswell, Sen Ronald",Nats,2013-12-11,"
 
 
@@ -3758,7 +3816,7 @@ That is exactly what you are doing today, and then you are claiming that this ha
 
 I do acknowledge that it has some problems attached to it in professional fishing and amateur fishing. I do believe that there will need to be some offsets for those people. Maybe boat ramps and fishing tables and cleaning tables will have to be offered, and, if significant fishing grounds are going to be lost, then I think there will have to be offsets. Fishermen want to continue to fish. But if they cannot, they are realists. They recognise that they cannot stand in the way of $17 billion or hundreds of billions of dollars of projects that will provide many thousands of jobs. They understand that. But if they are to be removed or if their fishing grounds are to be removed or taken away from them or put out of limits, then there have to be more fishing grounds given to them to compensate for the loss. If that cannot be done, then they have to be compensated to get out of the industry. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Great Barrier Reef</title>,MATTERS OF PUBLIC IMPORTANCE,25,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Great Barrier Reef</title>,MATTERS OF PUBLIC IMPORTANCE,25,1,speech
 "Ludwig, Sen Joe",ALP,2013-12-11,"
 
 
@@ -3802,7 +3860,7 @@ We expect the government to manage the project's progress and ensure the propone
 
 On this issue the world is watching. It is the Great Barrier Reef and the world will hold us to account if we do not ensure proper environmental management is put in place. The world will not accept the excuse that we passed it to Queensland and Queensland dropped the ball on the issue. The world will not accept that. It will only look to us, from a Commonwealth perspective, to ensure that we get it right. In this instance, given all of the conditions, we say we will continue to hold this government to account. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Great Barrier Reef</title>,MATTERS OF PUBLIC IMPORTANCE,25,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Great Barrier Reef</title>,MATTERS OF PUBLIC IMPORTANCE,25,1,speech
 "Milne, Sen Christine",AG,2013-12-11,"
 
 
@@ -3834,7 +3892,7 @@ What will happen to the Queensland economy? We know the Great Barrier Reef is a 
 
 This is a disgrace and people will be held accountable for this, not just now but by future generations. They will look back and say, 'This was environmental vandalism, and never let it be said that they did not know what they were doing'. You know exactly what you are doing. Scientists around the world have condemned you for what you are doing to the Great Barrier Reef. They have pleaded with you not to proceed with this industrialisation of the Great Barrier Reef, and yet you are going on to do it in the interests of the supporters of the coalition. The big coalminers of Australia have now pulled the strings of the Abbott government to the detriment of the Great Barrier Reef. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Great Barrier Reef</title>,MATTERS OF PUBLIC IMPORTANCE,25,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Great Barrier Reef</title>,MATTERS OF PUBLIC IMPORTANCE,25,1,speech
 "Boyce, Sen Sue",LP,2013-12-11,"
 
 
@@ -3884,7 +3942,7 @@ We do not need the Greens patronising the Queensland state government by suggest
 
 Debate interrupted. 
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Great Barrier Reef</title>,MATTERS OF PUBLIC IMPORTANCE,25,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Great Barrier Reef</title>,MATTERS OF PUBLIC IMPORTANCE,25,1,speech
 "Furner, Sen Mark",ALP,2013-12-11,"
 
 
@@ -3928,7 +3986,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Stephens
 ):  Order! The time for the discussion has expired.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Great Barrier Reef</title>,MATTERS OF PUBLIC IMPORTANCE,28,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Great Barrier Reef</title>,MATTERS OF PUBLIC IMPORTANCE,28,1,speech
 "McKenzie, Sen Bridget",Nats,2013-12-11,"
 
 
@@ -3939,7 +3997,7 @@ Senator McKENZIE
 
 Ordered that the reports be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Legislation Committees</title>,COMMITTEES,29,1
+",Senate,<title>COMMITTEES</title>,<title>Legislation Committees</title>,COMMITTEES,29,1,speech
 "McKenzie, Sen Bridget",Nats,2013-12-11,"
 
 
@@ -3950,7 +4008,7 @@ Senator McKENZIE
 
 Ordered that the reports be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,29,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,29,2,speech
 "Stephens, Sen Ursula (The ACTING DEPUTY PRESIDENT)",ALP,2013-12-11,"
 
 
@@ -3961,7 +4019,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Stephens
 ) (18:13):  I present the Presiding Officers' statement on Pacific Parliamentary Partnerships, the first of what is intended to be an annual statement to the parliament.
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Pacific Parliamentary Partnerships</title>,STATEMENT BY THE PRESIDENT,31,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Pacific Parliamentary Partnerships</title>,STATEMENT BY THE PRESIDENT,31,1,speech
 "Stephens, Sen Ursula (The ACTING DEPUTY PRESIDENT)",ALP,2013-12-11,"
 
 
@@ -3972,7 +4030,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Stephens
 ) (18:13):  I present the report of the Australian parliamentary delegation to the 129th Inter-Parliamentary Union Assembly in Geneva, Switzerland, which took place from 6 October to 10 October 2013.
 
-",Senate,<title>DELEGATION REPORTS</title>,<title>Australian Parliamentary Delegation to the 129th Inter-Parliamentary Union Assembly</title>,DELEGATION REPORTS,33,1
+",Senate,<title>DELEGATION REPORTS</title>,<title>Australian Parliamentary Delegation to the 129th Inter-Parliamentary Union Assembly</title>,DELEGATION REPORTS,33,1,speech
 "Stephens, Sen Ursula (The ACTING DEPUTY PRESIDENT)",ALP,2013-12-11,"
 
 
@@ -3983,7 +4041,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Stephens
 ) (18:14):  In accordance with the provisions of the Auditor-General Act 1997, I present the following report of the Auditor-General: Report No. 10 of 2013-14: Performance Audit: Torres Strait Regional Authority—service delivery: Torres Strait Regional Authority.
 
-",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 10 of 2013-14</title>,AUDITOR-GENERAL'S REPORTS,34,1
+",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 10 of 2013-14</title>,AUDITOR-GENERAL'S REPORTS,34,1,speech
 "Sinodinos, Sen Arthur",LP,2013-12-11,"
 
 
@@ -4006,7 +4064,7 @@ That in accordance with the provisions of the National Library Act 1960, the Sen
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>National Library of Australia</title>,MOTIONS,38,1
+",Senate,<title>MOTIONS</title>,<title>National Library of Australia</title>,MOTIONS,38,1,speech
 "Polley, Sen Helen",ALP,2013-12-11,"
 
 
@@ -4074,7 +4132,7 @@ Well, Minister Fifield—it is good that you are here in the chamber—you certa
 
 The manner in which the minister has moved to turn back progress for aged-care workers is shameful, and you should feel ashamed. Today, Labor is removing the prohibition on workers seeking better pay and conditions. We are clearing the way for providers and workers to sit down and continue negotiating.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,"<title>Residential Care Subsidy Amendment (Workforce Supplement) Principle 2013, Aged Care Subsidies Amendment (Workforce Supplement) Determination 2013</title>",REGULATIONS AND DETERMINATIONS,39,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,"<title>Residential Care Subsidy Amendment (Workforce Supplement) Principle 2013, Aged Care Subsidies Amendment (Workforce Supplement) Determination 2013</title>",REGULATIONS AND DETERMINATIONS,39,1,speech
 "Fifield, Sen Mitch",LP,2013-12-11,"
 
 
@@ -4233,7 +4291,7 @@ Aged care and the ageing portfolio is an extremely exciting place to be working 
 
 But there are Australians who, as they age, obviously need a little more help and that is where the aged-care part of the ageing portfolio comes into play. I am pleased that certainly in the last parliament there was a large degree of bipartisanship when it came to aged-care policy and aged-care reform. Yes, we do disagree with the Labor Party on the aged-care supplement, but I hope that it is possible to have a civil disagreement about one area of policy and that, more broadly in aged care, we perhaps can follow the model that there has been in disability where the various parties in parliament come together to work for a common outcome. I hope that is the case, because just as Australians with disability have little time for petty partisan point-scoring, I think that ageing Australians and particularly those in aged care and their families do not have much time for petty partisan point-scoring in this area either. They just want us to get on with the job, making sure that those who face some extra challenges as a result of ageing get the additional support they need. As I have indicated, Mr Deputy President, we will not be supporting this disallowance motion. (Time expired)
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,"<title>Residential Care Subsidy Amendment (Workforce Supplement) Principle 2013, Aged Care Subsidies Amendment (Workforce Supplement) Determination 2013</title>",REGULATIONS AND DETERMINATIONS,39,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,"<title>Residential Care Subsidy Amendment (Workforce Supplement) Principle 2013, Aged Care Subsidies Amendment (Workforce Supplement) Determination 2013</title>",REGULATIONS AND DETERMINATIONS,39,1,speech
 "Siewert, Sen Rachel",AG,2013-12-11,"
 
 
@@ -4252,7 +4310,7 @@ What has happened is that in the past when there has been additional funding put
 
 Debate interrupted.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,"<title>Residential Care Subsidy Amendment (Workforce Supplement) Principle 2013, Aged Care Subsidies Amendment (Workforce Supplement) Determination 2013</title>",REGULATIONS AND DETERMINATIONS,39,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,"<title>Residential Care Subsidy Amendment (Workforce Supplement) Principle 2013, Aged Care Subsidies Amendment (Workforce Supplement) Determination 2013</title>",REGULATIONS AND DETERMINATIONS,39,1,speech
 "Polley, Sen Helen",ALP,2013-12-11,"
 
 
@@ -4320,7 +4378,7 @@ Well, Minister Fifield—it is good that you are here in the chamber—you certa
 
 The manner in which the minister has moved to turn back progress for aged-care workers is shameful, and you should feel ashamed. Today, Labor is removing the prohibition on workers seeking better pay and conditions. We are clearing the way for providers and workers to sit down and continue negotiating.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,39,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,39,2,speech
 "Fifield, Sen Mitch",LP,2013-12-11,"
 
 
@@ -4479,7 +4537,7 @@ Aged care and the ageing portfolio is an extremely exciting place to be working 
 
 But there are Australians who, as they age, obviously need a little more help and that is where the aged-care part of the ageing portfolio comes into play. I am pleased that certainly in the last parliament there was a large degree of bipartisanship when it came to aged-care policy and aged-care reform. Yes, we do disagree with the Labor Party on the aged-care supplement, but I hope that it is possible to have a civil disagreement about one area of policy and that, more broadly in aged care, we perhaps can follow the model that there has been in disability where the various parties in parliament come together to work for a common outcome. I hope that is the case, because just as Australians with disability have little time for petty partisan point-scoring, I think that ageing Australians and particularly those in aged care and their families do not have much time for petty partisan point-scoring in this area either. They just want us to get on with the job, making sure that those who face some extra challenges as a result of ageing get the additional support they need. As I have indicated, Mr Deputy President, we will not be supporting this disallowance motion. (Time expired)
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,39,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,39,2,speech
 "Siewert, Sen Rachel",AG,2013-12-11,"
 
 
@@ -4498,7 +4556,7 @@ What has happened is that in the past when there has been additional funding put
 
 Debate interrupted.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,39,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,39,2,speech
 "Brown, Sen Carol",ALP,2013-12-11,"
 
 
@@ -4509,4 +4567,4 @@ Senator CAROL BROWN
 
 I will end it there, but I will come back and inform the Senate of more of the good works of Joan Fitz-Nead.
 
-",Senate,<title>ADJOURNMENT</title>,"<title>Fitz-Nead, Ms Joan, AM</title>",ADJOURNMENT,42,1
+",Senate,<title>ADJOURNMENT</title>,"<title>Fitz-Nead, Ms Joan, AM</title>",ADJOURNMENT,42,1,speech

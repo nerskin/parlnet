@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2018-06-19,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER
  (12:01):  I have received a message from the Senate informing the House that Senator Hanson has been discharged from the Joint Standing Committee on the National Broadband Network and that Senator Georgiou has been appointed a member and Senator Hanson appointed a participating member of the committee. 
 
-",HoR,<title>COMMITTEES</title>,<title>National Broadband Network - Joint Standing</title>,COMMITTEES,0,1
+",HoR,<title>COMMITTEES</title>,<title>National Broadband Network - Joint Standing</title>,COMMITTEES,0,1,speech
 "Smith, Tony, MP",LP,2018-06-19,"
 
 
@@ -14,7 +14,7 @@ The SPEAKER
 The SPEAKER
  (12:01):  I have received a message from the Senate informing the House that Senator Hanson has been discharged from the Joint Standing Committee on the National Broadband Network and that Senator Georgiou has been appointed a member and Senator Hanson appointed a participating member of the committee. 
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,0,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,0,2,speech
 "King, Madeleine, MP",ALP,2018-06-19,"
 
 
@@ -64,7 +64,7 @@ I'm very pleased to talk about science and research in this place. I spruik at a
 
 I mentioned before that research is a long-term proposition. We need longer-term funding arrangements with, of course, proper accountability. Researchers and scientists need some certainty for their careers so that we don't drive them out of the very important endeavours that they're undertaking at research institutions and universities around this country. I'm a keen supporter of science in this country, particularly the work undertaken at universities. I objected very strongly when the minister for education, Senator Birmingham, accused universities of having rivers of gold. It only demonstrated his total lack of understanding of how universities are funded and how the money that comes from student fees has cross-subsidised the research effort in this country. In my view, this country has to face up to the challenge of science and research funding so that we might have a better future for all young people—like those who are watching from the gallery—so they have the opportunity to study science and do research at schools and at university.
 
-",HoR,<title>BILLS</title>,<title>Australian Astronomical Observatory (Transition) Bill 2018</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Australian Astronomical Observatory (Transition) Bill 2018</title>,BILLS,1,1,speech
 "Brodtmann, Gai, MP",ALP,2018-06-19,"
 
 
@@ -129,7 +129,7 @@ There's a natural fit. We have a rich history of the Mount Stromlo Observatory a
 
 Australians have a great love for space. We saw it in the sixties, where everyone was out with their lunar modules and talking nothing but space and missions to the moon. Through the expertise that we have and through a commitment to a space agency and investment in space in the future, Labor hopes that we can excite future generations to enjoy the pleasure that we enjoyed so much in the sixties in that first mission to the moon.
 
-",HoR,<title>BILLS</title>,<title>Australian Astronomical Observatory (Transition) Bill 2018</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Australian Astronomical Observatory (Transition) Bill 2018</title>,BILLS,1,1,speech
 "Khalil, Peter, MP",ALP,2018-06-19,"
 
 
@@ -188,7 +188,7 @@ I would say that, on that basis, the evidence is pretty clear that Australians l
 
 I started my speech by talking about the fundamental questions that we ask when we look up to the night sky: are we alone? What's out there? What are these wonders of the universe that we dream about as kids and as adults? Astronomy is very much a part of our lives because it helps us ask those perennial human questions about who we are and our place in the universe. I will finish with a well-known farewell: 'Live long and prosper!'
 
-",HoR,<title>BILLS</title>,<title>Australian Astronomical Observatory (Transition) Bill 2018</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Australian Astronomical Observatory (Transition) Bill 2018</title>,BILLS,1,1,speech
 "Hawke, Alex, MP",LP,2018-06-19,"
 
 
@@ -223,7 +223,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Australian Astronomical Observatory (Transition) Bill 2018</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Australian Astronomical Observatory (Transition) Bill 2018</title>,BILLS,1,1,speech
 "Hawke, Alex, MP",LP,2018-06-19,"
 
 
@@ -240,7 +240,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Australian Astronomical Observatory (Transition) Bill 2018</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Australian Astronomical Observatory (Transition) Bill 2018</title>,BILLS,1,1,speech
 "King, Madeleine, MP",ALP,2018-06-19,"
 
 
@@ -290,7 +290,7 @@ I'm very pleased to talk about science and research in this place. I spruik at a
 
 I mentioned before that research is a long-term proposition. We need longer-term funding arrangements with, of course, proper accountability. Researchers and scientists need some certainty for their careers so that we don't drive them out of the very important endeavours that they're undertaking at research institutions and universities around this country. I'm a keen supporter of science in this country, particularly the work undertaken at universities. I objected very strongly when the minister for education, Senator Birmingham, accused universities of having rivers of gold. It only demonstrated his total lack of understanding of how universities are funded and how the money that comes from student fees has cross-subsidised the research effort in this country. In my view, this country has to face up to the challenge of science and research funding so that we might have a better future for all young people—like those who are watching from the gallery—so they have the opportunity to study science and do research at schools and at university.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2,speech
 "Brodtmann, Gai, MP",ALP,2018-06-19,"
 
 
@@ -355,7 +355,7 @@ There's a natural fit. We have a rich history of the Mount Stromlo Observatory a
 
 Australians have a great love for space. We saw it in the sixties, where everyone was out with their lunar modules and talking nothing but space and missions to the moon. Through the expertise that we have and through a commitment to a space agency and investment in space in the future, Labor hopes that we can excite future generations to enjoy the pleasure that we enjoyed so much in the sixties in that first mission to the moon.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2,speech
 "Khalil, Peter, MP",ALP,2018-06-19,"
 
 
@@ -414,7 +414,7 @@ I would say that, on that basis, the evidence is pretty clear that Australians l
 
 I started my speech by talking about the fundamental questions that we ask when we look up to the night sky: are we alone? What's out there? What are these wonders of the universe that we dream about as kids and as adults? Astronomy is very much a part of our lives because it helps us ask those perennial human questions about who we are and our place in the universe. I will finish with a well-known farewell: 'Live long and prosper!'
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2,speech
 "Hawke, Alex, MP",LP,2018-06-19,"
 
 
@@ -449,7 +449,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2,speech
 "Owens, Julie, MP",ALP,2018-06-19,"
 
 
@@ -460,7 +460,187 @@ Ms OWENS
 
 So I say to the state government: leave it alone. Stop destroying things that we love that tell our story. Give us our community and the Australian stories that unfolded in our region some respect. Hands off our heritage.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Parramatta Electorate: Powerhouse Museum</title>,STATEMENTS BY MEMBERS,2,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Parramatta Electorate: Powerhouse Museum</title>,STATEMENTS BY MEMBERS,2,1,speech
+"Shorten, Bill, MP",ALP,2018-06-19,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:01):  My question is to the Prime Minister. Under Labor's tax plan, anyone earning under $125,000 will get a bigger, better, fairer tax cut compared to stage 1 of the government's scheme.
+
+
+
+Mr Pyne interjecting—
+
+
+
+Mr Morrison interjecting—
+
+
+
+The SPEAKER:  The Leader of the Opposition will resume his seat. The Leader of the House and the Treasurer are interjecting so loudly that I cannot hear the question. It's only the beginning of question time, but I'm cautioning members on both sides. It's the Leader of the House who wants me to listen very carefully to the questions. I'm going to ask the Leader of the Opposition to commence his question again.
+
+
+
+
+Mr SHORTEN:
+  My question is to the Prime Minister. Under Labor's tax plan, anyone earning under $125,000 will get a bigger, better, fairer tax cut compared to stage 1 of the government scheme, so why won't the Prime Minister support Labor's plan to give 10 million Australians a tax cut of $928 a year, almost double the tax cut they'll get from his government?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE,3,1,question
+"Turnbull, Malcolm, MP",LP,2018-06-19,"
+
+
+
+Mr TURNBULL
+ (Wentworth—Prime Minister) (14:02):  We are a government that believes in Australians' enterprise and their aspiration. We believe Australians should be entitled to aspire to get ahead, to get a better job, to invest in their business, to make some real economic progress in their lives. Aspiration is at the very heart of everything we are doing, seeking to support Australians to realise their dreams. In the very DNA of our parties, the Liberal and National parties, we believe the government's job is to enable you to do your best, to realise your dreams, to aspire and to get ahead. You'd think that was pretty straightforward. You'd think that every Australian would embrace that, but not the Deputy Leader of the Opposition. Today, she said, 'Honestly, this aspiration term—it mystifies me.'
+
+
+
+Ms Plibersek interjecting—
+
+
+
+The SPEAKER:  Does the member for Sydney have a point of order?
+
+
+
+Ms Burney interjecting—
+
+
+
+The SPEAKER:  The member for Barton is warned.
+
+
+
+
+Ms Plibersek:
+  I'm seeking leave to table a document.
+
+
+
+The SPEAKER:  No, you cannot do that in the middle of an answer. It's very clear in the standing orders. The member for Sydney will resume her seat.
+
+
+
+
+Mr TURNBULL:
+  Imagine how her great hero, Paul Keating, would feel now. Keating said only a couple of years ago that the Labor Party 'has lost the ability to speak aspirationally to people and to fashion policies to meet those aspirations'. There is no doubt why they've lost the ability to do so: because it's all a mystery! It's all a mystery. From the hard-scrabble streets of Rosebery, with a household income of just under a million dollars, the Deputy Leader of the Opposition says aspiration is a mystery.
+
+
+We believe that every Australian is entitled to aspire, to have great ambitions and high hopes and to seek to do their best—to get the best job or the biggest business and to realise their dreams. That's what we stand for.
+
+
+
+Mr Brendan O'Connor interjecting—
+
+
+
+The SPEAKER:  Member for Gorton!
+
+
+
+
+Mr Turnbull:
+  It's what Labor used to stand for, but no more. This privileged elite opposite wants to keep the workers in their place. I remember when the Labor Party had members that had really worked. I look at this group of university-educated apparatchiks and I don't see any Jack Fergusons there. I see an educated, privileged class that wants to kick the ladder out so that others can't realise their dreams.
+
+
+
+Government members interjecting—
+
+
+
+The SPEAKER:  Members on my right!
+
+
+
+Honourable members interjecting—
+
+
+
+The SPEAKER:  Members on both sides! Quite obviously to all members, the level of interjections is far too high. I've mentioned a number of people over recent days. I've warned a number of people. I'm going to remind them that 94(a) does not require a warning. I've taken note of a number of people loudly interjecting and I'll take whatever action is needed. Is the Deputy Leader of the Opposition seeking to table a document?
+
+
+
+
+Ms Plibersek:
+  I am. I'm seeking to table the transcript from which the Prime Minister partially quoted.
+
+
+
+The SPEAKER:  Is leave granted? Leave is not granted.
+
+
+
+
+Ms Plibersek:
+  Why can't I table it?
+
+
+
+The SPEAKER:  Leave is not granted. The member for Sydney will resume her seat. I'm not going to labour the point. The member for Sydney knows the rules of this place. She had to seek leave. Leave was denied. She's not going to remain at the dispatch box and debate the matter. She was warned yesterday on two occasions. She will now leave under 94(a).
+
+
+
+
+The member for Sydney then left the chamber.
+
+
+
+
+Government members interjecting—
+
+
+
+The SPEAKER:  Members on my right! I'm not going to keep warning people day after day.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE,3,1,answer
+"Wilkie, Andrew, MP",IND,2018-06-19,"
+
+
+
+Mr WILKIE
+ (Denison) (14:19):  My question is to the Prime Minister. Prime Minister, a whistleblower tells me that from 1 July Centrelink will stop backdating payments to the intention-to-claim date. This is unacceptable, because people needing Centrelink can initially be in crisis and unable to lodge the paperwork immediately—for example, women fleeing domestic violence—and, when they do, the process can be convoluted, with delays commonplace. This change would also appear to be illegal, because section 13 of the Social Security (Administration) Act 1999 clearly intends that a person is taken to have made a claim when they first contact Centrelink. Prime Minister, will you stop this unfair, unlawful and sneaky attack on the most vulnerable members of our community?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Centrelink</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Turnbull, Malcolm, MP",LP,2018-06-19,"
+
+
+
+Mr TURNBULL
+ (Wentworth—Prime Minister) (14:20):  I thank the honourable member for his question.
+
+
+
+
+Ms Owens:
+  Aren't they aspirational enough for you?
+
+
+
+The SPEAKER:  The member for Parramatta is warned.
+
+
+
+
+Mr TURNBULL:
+  The government is committed to ensuring more Australians find jobs, maximising their ability to support themselves and their families. However, for those who are unable to find work, we have a strong social welfare safety net, and the only reason we can continue to guarantee that into the future is because we've got a strong economy. The honourable member from Tasmania understands well how much stronger the Tasmanian economy has become because of the great Liberal leadership of Will Hodgman, supported by our coalition government in Canberra. 
+
+
+The honourable member described this change as unlawful and sneaky. The honourable member would recall that it was a policy change that was part of the Social Services Legislation Amendment (Welfare Reform) Bill, which was debated and passed by the parliament in March this year. The honourable member didn't speak in the debate, but he did vote against it. The change was made in schedule 11 of the bill, so it is both lawful and very transparent.
+
+
+The rationale for the amendments—
+
+
+I'm quoting from the Bills Digest, which is available to everybody—
+
+
+is that the deeming provisions were introduced at a time when claim forms were mailed to claimants, completed and then returned to Centrelink by mail. With the progressive rollout of online claiming, these provisions are no longer necessary.
+
+
+That's why, in the debate the honourable member voted in and presumably paid attention to, the change was made.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Centrelink</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
 "Smith, Tony, MP",LP,2018-06-19,"
 
 
@@ -471,7 +651,7 @@ The SPEAKER
 
 Documents made parliamentary papers in accordance with the resolution agreed to on 28 March 2018.
 
-",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report Nos 47 and 48 of 2017-18</title>,AUDITOR-GENERAL'S REPORTS,7,1
+",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report Nos 47 and 48 of 2017-18</title>,AUDITOR-GENERAL'S REPORTS,7,1,speech
 "Smith, Tony, MP",LP,2018-06-19,"
 
 
@@ -482,7 +662,7 @@ The SPEAKER
 
 Document made a parliamentary paper in accordance with the resolution agreed to on 28 March 2018.
 
-",HoR,<title>DOCUMENTS</title>,<title>Commonwealth Ombudsman</title>,DOCUMENTS,8,1
+",HoR,<title>DOCUMENTS</title>,<title>Commonwealth Ombudsman</title>,DOCUMENTS,8,1,speech
 "Smith, Tony, MP",LP,2018-06-19,"
 
 
@@ -493,7 +673,7 @@ The SPEAKER
 
 Document made a parliamentary paper in accordance with the resolution agreed to on 28 March 2018.
 
-",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,8,2
+",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,8,2,speech
 "Smith, Tony, MP",LP,2018-06-19,"
 
 
@@ -513,7 +693,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Bowen, Chris, MP",ALP,2018-06-19,"
 
 
@@ -560,7 +740,7 @@ If the Prime Minister really believes his rhetoric, there is one thing he can do
 
 We are ready. We relish it. We relish this argument. The Treasurer could have turned up to take this debate. He's in his office doing other things. He could turn up to take this debate to defend his tax plans, but he won't do it. I tell you what, he won't be able to hide if there is an election campaign on. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Sukkar, Michael, MP",LP,2018-06-19,"
 
 
@@ -668,7 +848,7 @@ The shadow Treasurer, in his contribution, referred to the top 20 per cent of ta
 
 In the end, the shadow Treasurer has spent two years running around this country, saying, 'We're going after the bad millionaires, the bad billionaires and the big multinationals,' and what's it all boiled down to? It's boiled down to him attacking working Australians on low and medium incomes, going after retirees, people who are on low incomes, and denying them up to a quarter of their income and going after small family businesses, people who might have one or two employees and treat them more like family than staff. He's saying to them, 'No, you don't deserve a tax cut either.' This shadow Treasurer is so divorced from what ordinary working Australians need that he thinks they don't deserve tax cuts—in fact, they should contribute a bit more because, apparently, carrying the whole system is not enough for those 70 per cent of taxpayers. And, in addition, to top it all off, they should be paying higher electricity costs in order to fund mad green schemes, because Labor has capitulated to the Left. On this side of the House, we will always fight for those people who want to strive hard, who have aspiration and who want to do better for their families. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Chalmers, Jim, MP",ALP,2018-06-19,"
 
 
@@ -713,7 +893,7 @@ For a party that likes to talk about how much they hate the redistribution of we
 
 Australia will continue down this dangerous and perilous path of rising inequality and less social mobility for as long as these characters are on that side of the parliament. That's why the member for McMahon was so right to say that there are two ways to resolve this big barney we're having about tax right now in this parliament. One is to split the bill so that we can vote for genuine tax relief for 10 million working Australians. But we can also have an election and take it to the people. Let the people of Australia resolve this. Let the people of Australia choose between our bigger, fairer tax cuts and the trickle-down Reaganomics proposed by members opposite. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Coleman, David, MP",LP,2018-06-19,"
 
 
@@ -739,7 +919,7 @@ Under this policy, the people who earn over $200,000, who are in the top bracket
 
 We believe in this passionately. Those opposite do not believe in it because they believe that all money resides with the government. They believe it's the government's and they believe that it's some sort of act of largesse if the government lets you keep some of your money. We believe the absolute opposite: money earned by employees is their money and we should take the bare minimum of that to finance the operations of the government. And we should encourage aspiration, we should promote aspiration and we should celebrate those people who go out, work hard and build the economy of this nation. We should not smash them with hundreds of billions in taxes, as those opposite would do.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Aly, Anne, MP",ALP,2018-06-19,"
 
 
@@ -784,7 +964,7 @@ The DEPUTY SPEAKER:  Could the member for Cowan refer to members by their correc
 Dr ALY:
   Yes, Mr Deputy Speaker. We could pass real tax cuts today for working and middle-class Australians, ensuring tax relief goes back into the pockets of 10 million Australians. We won't hold tax cuts for teachers, tradies, bus drivers and nurses hostage to tax cuts for bankers and millionaires. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Gee, Andrew, MP",Nats,2018-06-19,"
 
 
@@ -807,7 +987,7 @@ Since June 2013, unemployment in Lithgow has dropped 4.7 per cent from 10.1 per 
 
 Total employment has increased by over one million jobs since September 2013. That's an 8.8 per cent increase since the government came to power. These are real results, and they're making a real difference to the lives of people, not only in the cities but also in country areas. One of the most important things that we can do as a government is make sure that our people in the cities, but most importantly in the regions, actually have jobs. Compare this to those opposite, where the days of high unemployment reigned supreme—and now they're coming after retirees' savings! (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Dick, Milton, MP",ALP,2018-06-19,"
 
 
@@ -844,7 +1024,7 @@ We also saw today that the Prime Minister was quite happy to see an executive ea
 
 Let's vote on it and let's make it a reality today. But, if you don't want to do that, take it to an election. Take it to an election and, in the seat of Corangamite, Libby Coker will be standing up for real working people—in contrast to the sellout that we are seeing with the current member. In every electorate, whether it be Corangamite, my electorate or the 150 electorates in Australia, we will be reminding the Australian people that, when it comes to real tax reform and genuine tax relief for those who need it, only a Shorten Labor government will deliver it.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Henderson, Sarah, MP",LP,2018-06-19,"
 
 
@@ -883,7 +1063,7 @@ And now what are we seeing from Labor? We're seeing a plan to deliver more than 
 
 Aspiration is not about having your life savings ripped out from under you, which is what Labor is all about. Consider what we've seen from Labor's plan to attack businesses. Let's not forget that a few years ago Labor supported lower company tax rates. The Leader of the Opposition and others argued that this was good for business and good for jobs and investment. Now, in an unprincipled reversal of that position, we have seen Labor declare a war on business—and they were the Leader of the Opposition's very own words. This pathetic and weak Labor Party is so unprincipled that it can't stand up for Australia's coal workers and it's now planning to drive jobs offshore by this terrible policy, including the $70 billion it is penalising Australians with. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Stanley, Anne, MP",ALP,2018-06-19,"
 
 
@@ -909,7 +1089,7 @@ How can young people in my area be expected to obtain their full potential if th
 
 Labor is ready to vote today for tax cuts for 10 million people from 1 July 2018. We're ready to work constructively to provide better tax relief for the Australians who need it most. What we're not prepared to support is the creation of a situation where someone on $40,000 pays the same tax rate as someone on $200,000. This is unfair, and this government should know better. I call on everyone opposite to show some real compassion for working- and middle-class Australians like those in my area, and to work with Labor today to deliver the tax relief they sorely need.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Pitt, Keith, MP",Nats,2018-06-19,"
 
 
@@ -953,7 +1133,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  The time for discussion has concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Taxation</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Goodenough, Ian, MP",LP,2018-06-19,"
 
 
@@ -988,7 +1168,7 @@ In this respect, the committee tabled 17 scrutiny reports examining a total of 4
 
 I encourage my fellow members and others to examine the committee's annual report to better inform their consideration of the committee's work during the relevant period. With these comments, I commend the committee's fifth report of 2018 and the Annual report 2016-17 to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Human Rights Committee</title>,COMMITTEES,12,1
+",HoR,<title>COMMITTEES</title>,<title>Human Rights Committee</title>,COMMITTEES,12,1,speech
 "Goodenough, Ian, MP",LP,2018-06-19,"
 
 
@@ -1023,7 +1203,7 @@ In this respect, the committee tabled 17 scrutiny reports examining a total of 4
 
 I encourage my fellow members and others to examine the committee's annual report to better inform their consideration of the committee's work during the relevant period. With these comments, I commend the committee's fifth report of 2018 and the Annual report 2016-17 to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,12,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,12,2,speech
 "Thistlethwaite, Matt, MP",ALP,2018-06-19,"
 
 
@@ -1146,7 +1326,7 @@ Mr Dreyfus:
 
 The DEPUTY SPEAKER:  I thank the member for Isaacs. The original question was that this bill be now read a second time. To this the honourable member for Kingsford Smith has moved as an amendment that all words after 'That' be omitted with a view to substituting other words. If it suits the House, I will state the question in the form that the amendment be agreed to. The question now is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1,speech
 "O'Brien, Ted, MP",LP,2018-06-19,"
 
 
@@ -1184,7 +1364,7 @@ Those around the chamber may not know that the business environment is quite uni
 
 We know that small businesses are vulnerable to sudden adverse business conditions. They can put a strain particularly on a company's cash flow, and the smaller a business is, the more that strain on cash flow hurts. That is precisely why incentive measures such as the instant asset write-off are so important. Further, and quite deliberately, it is the temporary nature of the measure through to 30 June 2019 that the government hopes will encourage small businesses to bring their capital investments forward to help feed business confidence and drive economic activity at the local level. Continuing the support for immediate deductibility for businesses with an annual turnover of less than $10 million by allowing an instant deduction in the year the cost was incurred for depreciating assets of less than $20,000, while also offering the potential to leverage a small business asset pool for other depreciating assets that cost $20,000 or more, is excellent news. It's excellent news for the more than 3.3 million small-business owners across the country and the 40,000 small businesses on the Sunshine Coast. It's for those reasons that I'm more than happy to commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1,speech
 "Owens, Julie, MP",ALP,2018-06-19,"
 
 
@@ -1279,7 +1459,7 @@ We are particularly supportive of the Australian Investment Guarantee's inclusiv
 
 There is quite an extensive list of people supportive of the Labor opposition's approach through the Australian investment guarantee. I wish for once that the government would look slightly more broadly for a view rather than just in its own caucus room. Look at what people are saying about this and support our proposals.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1,speech
 "Marino, Nola, MP",LP,2018-06-19,"
 
 
@@ -1335,7 +1515,7 @@ The measure in this bill of defining small businesses with a turnover of up to $
 
 I will finish by saying a huge thank you to each of those small businesses. They are helping the government in its ambition to see over a million more people in work. That frequently comes back to the work and the efforts of people in small to medium businesses. I say thank you to each of them. Thank you for the fact that you actually had the courage to invest, to follow your passions, but to take a genuine commercial focus on your business—as we heard at the small business awards on Saturday night in Bunbury. Nudge Psychological Services said on the night that, at the end of their first full operating month, they made the princely profit of $1.40—I think that was the amount; I'm not 100 per cent sure, but it was some small amount—and grew their business from there. They persisted. That's what small businesses do, and that's why this government will continue to support their efforts.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1,speech
 "Chalmers, Jim, MP",ALP,2018-06-19,"
 
 
@@ -1551,7 +1731,7 @@ We support this bill. We do it enthusiastically. We agree with much of what the 
 (Time expired)
 
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1,speech
 "Falinski, Jason, MP",LP,2018-06-19,"
 
 
@@ -1697,7 +1877,7 @@ Mr FALINSKI:
 
 The DEPUTY SPEAKER:  The question is that the amendment be agreed to. I call the member for Hughes, and I'm sure he'll speak to the bill.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1,speech
 "Kelly, Craig, MP",LP,2018-06-19,"
 
 
@@ -1750,7 +1930,7 @@ Many of these small businesses that can take advantage of the accelerated deprec
 
 We've also redefined 'small business' as a business with a turnover of up to $10 million, which now includes 99 per cent of all businesses. We've cut taxes for small and medium enterprises to 25 per cent and increased the unincorporated business discount to 16 per cent. I've already mentioned that we've extended the $20,000 instant asset write-off for another 12 months. And, importantly, we've abolished $5.8 billion worth of red tape—or I should more correctly say red and green tape—whereas the opposition want to tie businesses up, put more regulations on them and give them more forms to fill out, because the opposition think that form-filling is productive. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1,speech
 "Coleman, David, MP",LP,2018-06-19,"
 
 
@@ -1803,7 +1983,7 @@ But Labor want to increase company taxes by $59 billion. They want to talk about
 
 The member for Kingsford Smith, in his perhaps misguided enthusiasm, has invited us to talk about the big contrast on company tax and tax in general. We created a record number of jobs last year. A big part of that is our support for small business through tax relief. This bill will provide more tax relief. It's absolutely the right thing to do. I'm pleased to speak in support of the bill. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1,speech
 "Howarth, Luke, MP",LP,2018-06-19,"
 
 
@@ -1853,7 +2033,7 @@ We have also seen the free trade agreements helping in agriculture. A lot of peo
 
 That is all at risk if the Labor Party is elected. We know they are reckless. We know they don't understand small businesses. If they did, they would certainly be supporting the instant asset tax write-off for businesses up to $10 million. It is outrageous that they think only businesses under $2 million should take advantage of this opportunity. This is good policy. I support the bill.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1,speech
 "Sukkar, Michael, MP",LP,2018-06-19,"
 
 
@@ -1889,7 +2069,7 @@ Original question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1,speech
 "Bandt, Adam, MP",AG,2018-06-19,"
 
 
@@ -2156,7 +2336,7 @@ Question negatived.
 
 Bill agreed to.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1,speech
 "Sukkar, Michael, MP",LP,2018-06-19,"
 
 
@@ -2173,7 +2353,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Accelerated Depreciation for Small Business Entities) Bill 2018</title>,BILLS,13,1,speech
 "Thistlethwaite, Matt, MP",ALP,2018-06-19,"
 
 
@@ -2296,7 +2476,7 @@ Mr Dreyfus:
 
 The DEPUTY SPEAKER:  I thank the member for Isaacs. The original question was that this bill be now read a second time. To this the honourable member for Kingsford Smith has moved as an amendment that all words after 'That' be omitted with a view to substituting other words. If it suits the House, I will state the question in the form that the amendment be agreed to. The question now is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "O'Brien, Ted, MP",LP,2018-06-19,"
 
 
@@ -2334,7 +2514,7 @@ Those around the chamber may not know that the business environment is quite uni
 
 We know that small businesses are vulnerable to sudden adverse business conditions. They can put a strain particularly on a company's cash flow, and the smaller a business is, the more that strain on cash flow hurts. That is precisely why incentive measures such as the instant asset write-off are so important. Further, and quite deliberately, it is the temporary nature of the measure through to 30 June 2019 that the government hopes will encourage small businesses to bring their capital investments forward to help feed business confidence and drive economic activity at the local level. Continuing the support for immediate deductibility for businesses with an annual turnover of less than $10 million by allowing an instant deduction in the year the cost was incurred for depreciating assets of less than $20,000, while also offering the potential to leverage a small business asset pool for other depreciating assets that cost $20,000 or more, is excellent news. It's excellent news for the more than 3.3 million small-business owners across the country and the 40,000 small businesses on the Sunshine Coast. It's for those reasons that I'm more than happy to commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Owens, Julie, MP",ALP,2018-06-19,"
 
 
@@ -2429,7 +2609,7 @@ We are particularly supportive of the Australian Investment Guarantee's inclusiv
 
 There is quite an extensive list of people supportive of the Labor opposition's approach through the Australian investment guarantee. I wish for once that the government would look slightly more broadly for a view rather than just in its own caucus room. Look at what people are saying about this and support our proposals.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Marino, Nola, MP",LP,2018-06-19,"
 
 
@@ -2485,7 +2665,7 @@ The measure in this bill of defining small businesses with a turnover of up to $
 
 I will finish by saying a huge thank you to each of those small businesses. They are helping the government in its ambition to see over a million more people in work. That frequently comes back to the work and the efforts of people in small to medium businesses. I say thank you to each of them. Thank you for the fact that you actually had the courage to invest, to follow your passions, but to take a genuine commercial focus on your business—as we heard at the small business awards on Saturday night in Bunbury. Nudge Psychological Services said on the night that, at the end of their first full operating month, they made the princely profit of $1.40—I think that was the amount; I'm not 100 per cent sure, but it was some small amount—and grew their business from there. They persisted. That's what small businesses do, and that's why this government will continue to support their efforts.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Chalmers, Jim, MP",ALP,2018-06-19,"
 
 
@@ -2701,7 +2881,7 @@ We support this bill. We do it enthusiastically. We agree with much of what the 
 (Time expired)
 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Falinski, Jason, MP",LP,2018-06-19,"
 
 
@@ -2847,7 +3027,7 @@ Mr FALINSKI:
 
 The DEPUTY SPEAKER:  The question is that the amendment be agreed to. I call the member for Hughes, and I'm sure he'll speak to the bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Kelly, Craig, MP",LP,2018-06-19,"
 
 
@@ -2900,7 +3080,7 @@ Many of these small businesses that can take advantage of the accelerated deprec
 
 We've also redefined 'small business' as a business with a turnover of up to $10 million, which now includes 99 per cent of all businesses. We've cut taxes for small and medium enterprises to 25 per cent and increased the unincorporated business discount to 16 per cent. I've already mentioned that we've extended the $20,000 instant asset write-off for another 12 months. And, importantly, we've abolished $5.8 billion worth of red tape—or I should more correctly say red and green tape—whereas the opposition want to tie businesses up, put more regulations on them and give them more forms to fill out, because the opposition think that form-filling is productive. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Coleman, David, MP",LP,2018-06-19,"
 
 
@@ -2953,7 +3133,7 @@ But Labor want to increase company taxes by $59 billion. They want to talk about
 
 The member for Kingsford Smith, in his perhaps misguided enthusiasm, has invited us to talk about the big contrast on company tax and tax in general. We created a record number of jobs last year. A big part of that is our support for small business through tax relief. This bill will provide more tax relief. It's absolutely the right thing to do. I'm pleased to speak in support of the bill. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Howarth, Luke, MP",LP,2018-06-19,"
 
 
@@ -3003,7 +3183,7 @@ We have also seen the free trade agreements helping in agriculture. A lot of peo
 
 That is all at risk if the Labor Party is elected. We know they are reckless. We know they don't understand small businesses. If they did, they would certainly be supporting the instant asset tax write-off for businesses up to $10 million. It is outrageous that they think only businesses under $2 million should take advantage of this opportunity. This is good policy. I support the bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Sukkar, Michael, MP",LP,2018-06-19,"
 
 
@@ -3039,7 +3219,7 @@ Original question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Butler, Mark, MP",ALP,2018-06-19,"
 
 
@@ -3059,7 +3239,7 @@ Hun Sen has frozen democracy and obliterated due process in Cambodia. CNRP figur
 
 Australia must act to protect our stewardship of the peace accords and, importantly, we must also call out to protect our way of life here in Australia. Australians should feel safe, secure and free from intimidation, not still living under the thumb of a dictator.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Cambodia</title>,ADJOURNMENT,14,1
+",HoR,<title>ADJOURNMENT</title>,<title>Cambodia</title>,ADJOURNMENT,14,1,speech
 "Claydon, Sharon, MP",ALP,2018-06-19,"
 
 
@@ -3076,7 +3256,7 @@ There is one sure-fire way to ensure that TAFE will live on, and that is to vote
 
 But until we have a Labor government we must unite against the Turnbull government's ongoing cuts. That's why I have launched a local campaign and established a petition—which is at my website, www.sharonclaydon.com—to demand that Mr Turnbull stop his vicious attacks on our skills and training system. Please join me in telling the Prime Minister that we won't sit back and watch quietly while his government tears our TAFE apart.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>National TAFE Day</title>,CONSTITUENCY STATEMENTS,15,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>National TAFE Day</title>,CONSTITUENCY STATEMENTS,15,1,speech
 "Hunt, Greg, MP",LP,2018-06-19,"
 
 
@@ -3099,7 +3279,7 @@ What we also see is that we are making profound changes in private health insura
 
 What we also see is record funding, with an additional $338 million for mental health—a passion of every member of this parliament, I say with confidence—and the $1.3 billion National Health and Medical Industry Growth Plan. That will deliver almost $250 million for rare cancer and rare disease clinical trials; $240 million for frontier science; and, through the Medical Research Future Fund, $500 million for the National Genomics Health Futures Mission over the next decade, which will change and transform treatment, diagnosis and prospects for Australians.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Collins, Julie, MP",ALP,2018-06-19,"
 
 
@@ -3125,7 +3305,7 @@ The minister should come clean today, while he is here, about where that data is
 
 I know that you care about this, so would you explain to the chamber exactly what you are going to do. How is the government going to fix this? It knew that this waiting list would happen. It knew that it would continue to grow. It said it would address it in the budget, and it clearly has not. It has not done anywhere near enough for older Australians, their carers and their loved ones. It is playing a cruel hoax on older Australians, trying to pretend that, somehow, this budget is going to provide care faster for them, when we know that the response is completely inadequate, that those older Australians are going to continue to wait for considerable periods of time and that the government is not planning any further investment when it comes to home care packages. Those older Australians, their loved ones and their carers deserve much better than what they got in this budget. The minister should respond to my questions.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Ramsey, Rowan, MP",LP,2018-06-19,"
 
 
@@ -3145,7 +3325,7 @@ To move on and discuss these issues further, I am part of the Select Committee o
 
 Eldercare have had great difficulty in recruiting senior staff, particularly to the Stansbury site, and it's completely blowing their budget. In fact, this year they're on track to make an EBIT, earnings before interest and tax, of negative $380,000 from that site, which has over 40 places. That's a net loss of $9,000 or more per bed. The average care cost as a percentage of the ACFI at Stansbury is 112 per cent. Clearly, if not for Eldercare's city facilities, their country sites might well be gone already. So my question is, Minister: what is the government doing to ensure country sites like Peterborough and Eldercare's Yorke Peninsula can not only survive but also expand to meet the anticipated increase in demand? 
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Snowdon, Warren, MP",ALP,2018-06-19,"
 
 
@@ -3162,7 +3342,7 @@ Secondly, if you wouldn't mind, Minister, could you comment on the proposed prim
 
 I understand that what the government is proposing may result in a massive disincentive to Aboriginal medical services to increase their uptake of MBS item 715. Higher performing Aboriginal medical services, like the Institute for Urban Indigenous Health and others around Australia, are deeply concerned that they are going to lose out with this model. So I would appreciate it, Minister, if you could tell us what considerations have been given to this possible disincentive and what you'll be doing to address the issue when you provide us with the details of the new funding model.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Wyatt, Ken, MP",LP,2018-06-19,"
 
 
@@ -3185,7 +3365,7 @@ The funding model for Aboriginal community-controlled health services has been a
 
 I thank you for your ongoing interest in the issue, Member for Franklin, and I certainly will continue the process I have with you in which I meet with you fortnightly, and I'll keep you informed on the matters that you raise.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "King, Catherine, MP",ALP,2018-06-19,"
 
 
@@ -3208,7 +3388,7 @@ We know that the cuts to Medicare have had a substantial impact on out-of-pocket
 
 I want to again draw the government's attention to reports around a trading of MRI licences for One Nation's vote on tax cuts. I want to ask the minister: instead of horsetrading with life-saving MRIs, will you support our plan to fund 20 new MRI licences around the country; and are you still insistent on your $416 million cut to Medicare services?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Drum, Damian, MP",Nats,2018-06-19,"
 
 
@@ -3222,7 +3402,7 @@ I am painting this picture widely because of the diverse spread and demographics
 
 This situation is bringing to light some of the investments that the government has made and the positive steps it has taken to try and address these shortages. We had a huge announcement last year by the then Assistant Minister for Health and Aged Care, David Gillespie, in relation to the appointment of our Rural Health Commissioner, Emeritus Professor Paul Worley. The commissioner's first priority is to develop the National Rural Generalist Pathway, and he is well on the way to delivering that pathway. It must be understood that we do not need more doctors. We have, in essence, enough doctors throughout Australia. The medical students are actually worried about whether or not they're going to get a job. The biggest problem we have is the maldistribution of those positions throughout Australia. It has been the National Party's long-held belief that we need a series of end-to-end medical schools in the Murray-Darling region. This came to fruition when Senator McKenzie was able to announce that, in conjunction with the University of Melbourne and La Trobe University, we are going to be able to offer students from the Goulburn Valley the opportunity to do end-to-end medical training, to do an undergraduate degree to become a medical doctor and then to undertake a larger array of the specialist courses that one needs to undertake on the journey from being an aspiring medical student to actually having your area of specialty in the future. This $95 million commitment for the Murray-Darling medical school network has come to fruition now, and those students in the Goulburn Valley are going to be the beneficiaries. Minister, can you outline some of the benefits of having more doctors, more specialists, in regional Australia due to these medical schools?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "King, Catherine, MP",ALP,2018-06-19,"
 
 
@@ -3254,7 +3434,7 @@ This is the minister's record funding for public hospitals, and the legacy he is
 
 So, in the meantime, when we see that funding is going to continue to be cut from our public hospitals, I ask: will the minister honour his government's commitment to fund 50 per cent of growth in the efficient price of hospital funding? It is a commitment that you went to the election in 2013 saying that you were going to deliver. Will you deliver your own election promises? If not, can the minister finally admit, as his department has already been willing to admit, that 45 per cent is less than 50 per cent and that this cut is hurting every hospital, every patient, every doctor, every nurse and everybody in the country?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Morton, Ben, MP",LP,2018-06-19,"
 
 
@@ -3274,7 +3454,7 @@ Some of the best news in the federal budget for the young athletes in my elector
 
 Our Local Sporting Champions grant recipients are the next generation of world champions, and set ambitious goals. I want to make sure that we do everything we can to make their dreams of representing Australia come true. The extension of the Local Sporting Champions grants program is a great start which will keep more young competitors involved in sport and help them achieve their full potential. Can the minister update us on the increased funding in the budget for local sporting champions? Can the minister please confirm that this increase will support more WA and more Tangney athletes in their travel to international and national sporting competitions.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Collins, Julie, MP",ALP,2018-06-19,"
 
 
@@ -3323,7 +3503,7 @@ The DEPUTY SPEAKER
 Mr Hastie
 ):  I thank the honourable member. Before I call the member for Bennelong, I would remind members to keep interjections to a dull roar. Thank you. 
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Alexander, John, MP",LP,2018-06-19,"
 
 
@@ -3350,7 +3530,7 @@ To this end, in the local community, I've approached one of the pharmacies in th
 
 This is an area that I think is very important. I would like to see this type of program rolled out because, when we often talk about the cost of exercise and the cost of these programs, it's a far greater cost if we do nothing. One of the biggest costs in our health system is that of treating lifestyle illness—illness as a result of poor lifestyle. So I look forward to this being rolled out across the country, and I ask the minister to elaborate on the government's efforts to promote preventive medicine and sport. Thank you.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "King, Catherine, MP",ALP,2018-06-19,"
 
 
@@ -3373,7 +3553,7 @@ The third point I particularly want to make is the PBS has been, and should alwa
 
 Frankly, for ministers who ignore or cherrypick PBAC advice, the recommendations of the independent committee risk chipping away at the trust in the drug-listing system that has served us so well. So I ask the minister: will you come clean about why you rejected the advice of PBAC on this drug? Is it, as was reported, because you wanted the manufacturer's support for a trial of new payment arrangements announced in the 2018 budget? How can the minister boast about listing all drugs when we've seen delays of up to two years from PBAC recommendations under the minister? (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Hunt, Greg, MP",LP,2018-06-19,"
 
 
@@ -3396,7 +3576,7 @@ In addition to that, we see that Labor itself has walked away from its own fundi
 
 In relation to the Local Sporting Champions program, I can say with great confidence to the member for Tangney that there will be an $11.8 million increase, with 9,000 new grants, and the program will particularly focus on the needs of those travelling long distances and from rural and remote areas. All up, I think that's an outstanding set of outcomes.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Collins, Julie, MP",ALP,2018-06-19,"
 
 
@@ -3413,7 +3593,7 @@ I'm particularly interested to know whether or not the PHNs contacted the govern
 
 I'm keen to know when the minister actually made the decision to extend the suicide prevention trial sites, why it wasn't included in the budget and why we received notification six days after the budget that this was being extended. And, as I said, I would like to know about any additional money that's going to specific trial sites and what sites are going to get the additional money. I'm particularly concerned, as I said, about some of the trial sites in rural and regional Australia, such as the Kimberley trial site, because I know that they did spend a fair amount of their $3 million through the PHN on holding meetings and consultations and getting everything together in terms of the plan. I wonder if the minister could also let me know exactly when he expects to receive some of the initial reports from Black Dog Institute, who are doing some of the evaluations of the trial sites, whether those evaluations are going to be made public and whether we can receive a briefing on those valuations when they come through so that we know what is happening on the ground in the suicide prevention trial sites, because in this place we're all really concerned to make sure that this works.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Wallace, Andrew, MP",LP,2018-06-19,"
 
 
@@ -3433,7 +3613,7 @@ In the meantime, I'd like the minister to please outline to the chamber what the
 
 What we've also got to recognise is that our first responders, our ambos, our firies and our police will quite often see more death and carnage in a 20- or 30-year career on the streets back home than our soldiers, airmen or sailors might see in a career in the military. Our first responders, our emergency service workers, also suffer terribly from PTSD. My brother is one of them. He's been an ambo for 30 years. Just as we as a federal government look to repair our broken soldiers—rightly so—I'd like to ask the minister what we are looking to do to assist our first-line responders. I know some will say that's a state issue, but these men and women endure, without overplaying it, the worst of all horrors that we see in modern-day life, and we need to do more. I'd like to ask the minister what his intentions are to help our first-line responders.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Collins, Julie, MP",ALP,2018-06-19,"
 
 
@@ -3462,7 +3642,7 @@ So I'm keen to know from the minister exactly what is happening in relation to a
 
 As we heard last night, people living with eating disorders are having terrible trouble trying to access services. I know the minister is aware of that. He would've heard similar stories from people around the country. It is very difficult indeed to get the allied health services and psychological support that people living with eating disorders need. They do often need more than just the eight or 10 Better Access visits that they can access. They often need care over many years, not just over a short period of time. It's a very serious illness and it has very severe consequences. I'm keen to hear from the minister and the government about when the government is going to act, how the Sunshine Coast proposal is going to work with the trial, whether or not there's going to be an evaluation of the trial, when the government expects to have that, when the MBS task force is expected to report to government and when we're going to get action. 
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Gee, Andrew, MP",Nats,2018-06-19,"
 
 
@@ -3479,7 +3659,7 @@ I would like to pay tribute to all of our members of the community who have foug
 
 My question to the minister is: can the minister please tell the chamber how the Murray-Darling medical school network came about and how it will affect the lives of people living in rural Australia? Before I close, can I also thank the minister for all of his hard work on this project. He got it over the line with the help of his ministerial colleagues, and we're very grateful.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "King, Catherine, MP",ALP,2018-06-19,"
 
 
@@ -3499,7 +3679,7 @@ We've had the member for Franklin ask about funding in residential aged care and
 
 We've asked about the PBS processes. The straw man that the minister likes to put up—he likes to do the straw man around lung cancer—is a nonsense, again. It's beneath the dignity of this parliament to think about it. This minister is actually doing something very unusual when it comes to PBAC. It's something I've referred to the Audit Office, because it has very serious consequences for the ongoing confidence and sustainability of the PBS. It is something the sector is worried about, and the minister should be concerned that he thinks it's okay. 
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Hunt, Greg, MP",LP,2018-06-19,"
 
 
@@ -3538,7 +3718,7 @@ Mr HUNT:
 
 Proposed expenditure agreed to.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Andrews, Karen, MP",LP,2018-06-19,"
 
 
@@ -3558,7 +3738,7 @@ Our new early learning and childcare package balances the need for essential ser
 
 In the few seconds that I have left, can I just say with respect to vocational education and training that the Australian government is absolutely committed to growing the number of apprentices that we have to meet the skills needs, both now and in the future. The Skilling Australians Fund has been signed by a number of states and territories and has indicated clearly that we are on the road to meeting our skills needs.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Plibersek, Tanya, MP",ALP,2018-06-19,"
 
 
@@ -3587,7 +3767,7 @@ Labor have said that we will restore funding to TAFE, including scrapping up-fro
 
 We've also said that one in 10 jobs on Commonwealth projects will be Australian apprentices and trainees. This government's also making 280,000 families worse off because of their childcare changes. What an appalling attack on families!
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Wallace, Andrew, MP",LP,2018-06-19,"
 
 
@@ -3607,7 +3787,7 @@ Those who've sought to restrict freedom or enforce agreement with their own idea
 
 Our universities are the nurseries of Australia's intellectual future. They are the training grounds for our next leaders and the incubators of the ideas that will preserve our nation's prosperity. Rampant politicisation, intellectual cowardice and ideological enforcement— (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Giles, Andrew, MP",ALP,2018-06-19,"
 
 
@@ -3627,7 +3807,7 @@ I want to briefly talk also about early years, because unfortunately the member 
 
 I wonder also if the minister could deal with deep concerns I have about schools. These concerns go to the question of appropriate funding for students with disability. If disability is a priority, can the minister explain why in the recent report handed down by David Gonski and received by government there is not a single reference to students with disability? It seems to me that that is an omission that needs to be remedied. As the shadow minister made clear, it could be remedied were there an evidence institute as recommended by Mr Gonski and supported and promised to be funded by Labor. But what we have from this government is a mess when it comes to funding for students with disabilities. We have inconsistent advice to government on the NCCD data process. We have inconsistencies and no apparent interest in progressing this. We had in November a statement by the minister advertising that the School Resourcing Board would look at the disability loading in November, but there has been not a single statement by the minister or the board in advancing that. So perhaps the assistant minister can tell us and parents of students with disabilities how this will be rectified.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Laming, Andrew, MP",LP,2018-06-19,"
 
 
@@ -3647,7 +3827,7 @@ That investment of $1.1 billion back in late 2015, over four years, to incentivi
 
 Lastly, government is obviously an exemplar, leading by example and showing that we can manage data and transform data into useable information for the population. These are all objectives that I think are noble and would be supported on both sides. So my question to the assistant minister is: how has this year's budget continued to build on the government's National Innovation and Science Agenda? 
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Butler, Terri, MP",ALP,2018-06-19,"
 
 
@@ -3667,7 +3847,7 @@ Deputy Speaker, you would also be aware that this government, in the MYEFO annou
 
 I'd like to know whether the government will relent and lift its freeze on funding, and whether the government has any intention of ensuring that the freeze has some way of taking into account inflation. I'd like the assistant minister to confirm that the freeze means that a university cannot receive more dollars in 2018 or in 2019 than it did in 2017 for places funded under the demand driven system, the non-designated CGS places. I'd like the government to advise the year in which the freeze will end. This is a matter of crucial importance, not only to universities but to future prospective students and their families. I'd also like the assistant minister to advise exactly how the performance measures that were announced at the same time as MYEFO are going to work, and what additional funding will be available to pay universities in respect of those performance measures, and how those performance measures will be assessed in respect of university funding.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Andrews, Karen, MP",LP,2018-06-19,"
 
 
@@ -3702,7 +3882,7 @@ There have been a number of comments made with respect to vocational education a
 
 We know that we need to train for specific areas in the future. We are partnering with the states and territories to make sure that, collectively, we meet those needs. We have said to the states that we want to work with them to develop the projects that are going to change this space—and it's a space where change is very much needed. We need to make sure that we are addressing those skills shortages. We have put up a proposal in two parts, and I do intend to talk in more detail about that later. But at this stage, it is sufficient to say that we have partnered with five states and territories for the new Skilling Australians Fund National Partnership Agreement that commences on 1 July and runs for four years.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Ryan, Joanne, MP",ALP,2018-06-19,"
 
 
@@ -3722,7 +3902,7 @@ I just want to make this point. It is not surprising at all that this government
 
 I want to go too to some of the things that were said today in question time as they relate to the budget. The Prime Minister said today in question time that we all need to be aspirational. The Prime Minister suggested a 60-year-old aged-care worker should get themselves a better job. On this side, we understand that getting a better job might require you to retrain, go to TAFE. The cuts that have occurred mean this is less likely. The cuts to university mean it is less likely that the 60-year-old might be able to aspire to get a better job. I would ask the assistant minister if she agrees with me that perhaps the 60-year-old childcare worker would be better to vote Labor and get themselves a better Prime Minister.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Wicks, Lucy, MP",LP,2018-06-19,"
 
 
@@ -3739,7 +3919,7 @@ It's also important to note that our $1.2 billion childcare safety net is design
 
 Recognising that this is the biggest reform in child care for 40 years, can the minister please update the chamber on the progress of implementation of the coalition government's new childcare package commencing in just under two weeks, on 2 July?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Butler, Terri, MP",ALP,2018-06-19,"
 
 
@@ -3763,7 +3943,7 @@ Ms BUTLER:
 
 When I asked the minister some questions previously, I did ask about the MYEFO cuts to university funding—the $2.2 billion in cuts. I didn't really get much of an answer. Obviously, the assistant minister had other questions that she had to answer in the course of her earlier response, and they were important questions. But perhaps the assistant minister could give some thought to those $2.2 billion in cuts announced in December last year and baked into the budget in May this year, because, as I said earlier, Universities Australia calculated that that would mean about 9½ thousand places in 2018. It'll mean something similar in 2019. Of course, these cuts were announced in December, weren't they? By then, a lot of the universities had already made their offers for 2018. Most of them didn't renege on those and say, 'Actually, sorry, you can't have that place at uni that we told you you could have.' They had to find other ways to absorb the cuts, didn't they? I was saying before when a different Deputy Speaker was in the chair that I spoke to a university just this morning who said that they'd absorbed the funding cuts by cutting courses. That's not really a shock. It's what they had to do. They cut some courses. They cut some psychology courses, which I thought was particularly disappointing—courses that had been created to help teachers skill up in teaching science. I raise that specifically because the member for Bowman came in before and asked some questions about the National Innovation and Science Agenda. Cutting $2.2 billion from university funding is not really consistent with a commitment to the National Innovation and Science Agenda. It's pretty inconsistent with a commitment to that agenda. It's pretty inconsistent with a commitment to families. It's pretty inconsistent with a commitment to young people who are looking to the future and trying to work out what skills they will need for the jobs of the future. It's pretty inconsistent with a commitment to mature-aged people who are thinking about reskilling, retraining and getting better qualifications so that they can, as the Prime Minister today suggested, get a better job. And it's pretty inconsistent with a government wanting to do the best for the Australian economy, because, when you fund higher education, you're not just funding something that, together with international tourism, is our most important service export. You're funding something that makes a massive contribution to our economy domestically, because, of course, education is not just great for dealing with inequality, for helping with social mobility and for helping people to get ahead regardless of the circumstances of their birth. It's also great for making our future workforce and our current workforce more productive. It's great for making our firms more productive. It's great for the research that is done that also contributes to the Australian economy. So I ask the assistant minister to explain what will be done to reverse the impact of these terrible MYEFO cuts from last year.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Andrews, Karen, MP",LP,2018-06-19,"
 
 
@@ -3787,7 +3967,7 @@ Labor also negotiated an agreement with the states, a national partnership agree
 
 I am on the record as saying that universities have been extraordinarily successful in building and selling the dream of what a university degree can offer. And for many people, that is a reality. I'm very supportive of the work that universities are doing, and there are many people who study at university and go on to very worthwhile, rewarding careers, and that's great. But there are many people out there who would be much better served if they followed a vocational education pathway. The government is committed to making sure that those people do not feel that they are second-class citizens and that they are given every opportunity to succeed in worthwhile, rewarding, fulfilling careers. We have put money on the table—$1.5 billion through the Skilling Australians Fund. We are supporting the Australian Apprenticeship Support Network to go out there and make sure that we are getting the right people into apprenticeships and matching them with the right employers. We are building a vocational education strategy so that we can make sure that we can attract those students in the latter years of their schooling to follow a vocational education pathway—because we know that we need their skills, and we know that they need a fulfilling job for the future, and we're planning to make sure they get it.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Butler, Terri, MP",ALP,2018-06-19,"
 
 
@@ -3807,7 +3987,7 @@ If the assistant minister is looking for ideas on how to do something about the 
 
 This party is not a party that's in any way above using procurement and funding mechanisms. If you want an example of that, look no further than the Building Code, the Building Code that the Australian Building and Construction Commission enforced and, before it, the Building Industry Taskforce had an interest in. That code set conditions for workplace relations arrangements as a condition of getting government work. They've used procurement before. In fact, they did the same in universities. Remember the higher-education workplace relations requirements, the HEWRRs, they used to try to force academics off collective agreements and onto individual contracts? It was a very long time ago. This government is led by the Liberals, of course, who have got form in using procurement for, I would say, quite nefarious purposes. Will the government now consider using procurement for the forces of good?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Van Manen, Bert, MP",LP,2018-06-19,"
 
 
@@ -3830,7 +4010,7 @@ Both of these centres are in areas we classify as low-socioeconomic areas, parti
 
 Equally, I'm pleased with the budget announcement and the changes we've made in childcare funding. There are some 8,900 families across my electorate, and their children will benefit from the increased funding we're making to the childcare sector. That has been very well received. It is just another example of what this government is doing across the spectrum of education. And I haven't touched on vocational education. I think vocational education is tremendously important. We need carpenters and plumbers and electricians, because the average age of that workforce today is the mid-50s. We need a new generation to come through. Could the minister please explain how these programs are helping across our electorates and particularly in mine of Forde?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Perrett, Graham, MP",ALP,2018-06-19,"
 
 
@@ -3847,7 +4027,7 @@ I have a particular concern about the flow-on of funds coming from the Turnbull 
 
 The Queensland Catholic Education Commission has a role for administering Commonwealth funds. The basic plan is that the Commonwealth gives them the money and they distribute it across the diocese so that, basically, some of the wealthier Catholic parents are supporting some of the poorer Catholic parents. It's not really in their prospectus, but it's the sort of thing that the Queensland Catholic Education Commission could talk to you about. I suggest you talk to Lee-Anne Perry, the head of the Queensland Catholic Education Commission. She used to be the principal of All Hallow's, an inner-city school that certainly had some wealthier parents but also had a few battlers. I should declare that it's my mother's former school. Lee-Anne Perry would be good to talk to about how they're getting ready for this change in funding, and I'd like you to report back to the parliament.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Crewther, Chris, MP",LP,2018-06-19,"
 
 
@@ -3873,7 +4053,7 @@ Mr Hogan
 Federation Chamber adjourned at 19:31
 
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,16,1,speech
 "Hunt, Greg, MP",LP,2018-06-19,"
 
 
@@ -3896,7 +4076,7 @@ What we also see is that we are making profound changes in private health insura
 
 What we also see is record funding, with an additional $338 million for mental health—a passion of every member of this parliament, I say with confidence—and the $1.3 billion National Health and Medical Industry Growth Plan. That will deliver almost $250 million for rare cancer and rare disease clinical trials; $240 million for frontier science; and, through the Medical Research Future Fund, $500 million for the National Genomics Health Futures Mission over the next decade, which will change and transform treatment, diagnosis and prospects for Australians.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Collins, Julie, MP",ALP,2018-06-19,"
 
 
@@ -3922,7 +4102,7 @@ The minister should come clean today, while he is here, about where that data is
 
 I know that you care about this, so would you explain to the chamber exactly what you are going to do. How is the government going to fix this? It knew that this waiting list would happen. It knew that it would continue to grow. It said it would address it in the budget, and it clearly has not. It has not done anywhere near enough for older Australians, their carers and their loved ones. It is playing a cruel hoax on older Australians, trying to pretend that, somehow, this budget is going to provide care faster for them, when we know that the response is completely inadequate, that those older Australians are going to continue to wait for considerable periods of time and that the government is not planning any further investment when it comes to home care packages. Those older Australians, their loved ones and their carers deserve much better than what they got in this budget. The minister should respond to my questions.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Ramsey, Rowan, MP",LP,2018-06-19,"
 
 
@@ -3942,7 +4122,7 @@ To move on and discuss these issues further, I am part of the Select Committee o
 
 Eldercare have had great difficulty in recruiting senior staff, particularly to the Stansbury site, and it's completely blowing their budget. In fact, this year they're on track to make an EBIT, earnings before interest and tax, of negative $380,000 from that site, which has over 40 places. That's a net loss of $9,000 or more per bed. The average care cost as a percentage of the ACFI at Stansbury is 112 per cent. Clearly, if not for Eldercare's city facilities, their country sites might well be gone already. So my question is, Minister: what is the government doing to ensure country sites like Peterborough and Eldercare's Yorke Peninsula can not only survive but also expand to meet the anticipated increase in demand? 
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Snowdon, Warren, MP",ALP,2018-06-19,"
 
 
@@ -3959,7 +4139,7 @@ Secondly, if you wouldn't mind, Minister, could you comment on the proposed prim
 
 I understand that what the government is proposing may result in a massive disincentive to Aboriginal medical services to increase their uptake of MBS item 715. Higher performing Aboriginal medical services, like the Institute for Urban Indigenous Health and others around Australia, are deeply concerned that they are going to lose out with this model. So I would appreciate it, Minister, if you could tell us what considerations have been given to this possible disincentive and what you'll be doing to address the issue when you provide us with the details of the new funding model.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Wyatt, Ken, MP",LP,2018-06-19,"
 
 
@@ -3982,7 +4162,7 @@ The funding model for Aboriginal community-controlled health services has been a
 
 I thank you for your ongoing interest in the issue, Member for Franklin, and I certainly will continue the process I have with you in which I meet with you fortnightly, and I'll keep you informed on the matters that you raise.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "King, Catherine, MP",ALP,2018-06-19,"
 
 
@@ -4005,7 +4185,7 @@ We know that the cuts to Medicare have had a substantial impact on out-of-pocket
 
 I want to again draw the government's attention to reports around a trading of MRI licences for One Nation's vote on tax cuts. I want to ask the minister: instead of horsetrading with life-saving MRIs, will you support our plan to fund 20 new MRI licences around the country; and are you still insistent on your $416 million cut to Medicare services?
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Drum, Damian, MP",Nats,2018-06-19,"
 
 
@@ -4019,7 +4199,7 @@ I am painting this picture widely because of the diverse spread and demographics
 
 This situation is bringing to light some of the investments that the government has made and the positive steps it has taken to try and address these shortages. We had a huge announcement last year by the then Assistant Minister for Health and Aged Care, David Gillespie, in relation to the appointment of our Rural Health Commissioner, Emeritus Professor Paul Worley. The commissioner's first priority is to develop the National Rural Generalist Pathway, and he is well on the way to delivering that pathway. It must be understood that we do not need more doctors. We have, in essence, enough doctors throughout Australia. The medical students are actually worried about whether or not they're going to get a job. The biggest problem we have is the maldistribution of those positions throughout Australia. It has been the National Party's long-held belief that we need a series of end-to-end medical schools in the Murray-Darling region. This came to fruition when Senator McKenzie was able to announce that, in conjunction with the University of Melbourne and La Trobe University, we are going to be able to offer students from the Goulburn Valley the opportunity to do end-to-end medical training, to do an undergraduate degree to become a medical doctor and then to undertake a larger array of the specialist courses that one needs to undertake on the journey from being an aspiring medical student to actually having your area of specialty in the future. This $95 million commitment for the Murray-Darling medical school network has come to fruition now, and those students in the Goulburn Valley are going to be the beneficiaries. Minister, can you outline some of the benefits of having more doctors, more specialists, in regional Australia due to these medical schools?
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "King, Catherine, MP",ALP,2018-06-19,"
 
 
@@ -4051,7 +4231,7 @@ This is the minister's record funding for public hospitals, and the legacy he is
 
 So, in the meantime, when we see that funding is going to continue to be cut from our public hospitals, I ask: will the minister honour his government's commitment to fund 50 per cent of growth in the efficient price of hospital funding? It is a commitment that you went to the election in 2013 saying that you were going to deliver. Will you deliver your own election promises? If not, can the minister finally admit, as his department has already been willing to admit, that 45 per cent is less than 50 per cent and that this cut is hurting every hospital, every patient, every doctor, every nurse and everybody in the country?
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Morton, Ben, MP",LP,2018-06-19,"
 
 
@@ -4071,7 +4251,7 @@ Some of the best news in the federal budget for the young athletes in my elector
 
 Our Local Sporting Champions grant recipients are the next generation of world champions, and set ambitious goals. I want to make sure that we do everything we can to make their dreams of representing Australia come true. The extension of the Local Sporting Champions grants program is a great start which will keep more young competitors involved in sport and help them achieve their full potential. Can the minister update us on the increased funding in the budget for local sporting champions? Can the minister please confirm that this increase will support more WA and more Tangney athletes in their travel to international and national sporting competitions.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Collins, Julie, MP",ALP,2018-06-19,"
 
 
@@ -4120,7 +4300,7 @@ The DEPUTY SPEAKER
 Mr Hastie
 ):  I thank the honourable member. Before I call the member for Bennelong, I would remind members to keep interjections to a dull roar. Thank you. 
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Alexander, John, MP",LP,2018-06-19,"
 
 
@@ -4147,7 +4327,7 @@ To this end, in the local community, I've approached one of the pharmacies in th
 
 This is an area that I think is very important. I would like to see this type of program rolled out because, when we often talk about the cost of exercise and the cost of these programs, it's a far greater cost if we do nothing. One of the biggest costs in our health system is that of treating lifestyle illness—illness as a result of poor lifestyle. So I look forward to this being rolled out across the country, and I ask the minister to elaborate on the government's efforts to promote preventive medicine and sport. Thank you.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "King, Catherine, MP",ALP,2018-06-19,"
 
 
@@ -4170,7 +4350,7 @@ The third point I particularly want to make is the PBS has been, and should alwa
 
 Frankly, for ministers who ignore or cherrypick PBAC advice, the recommendations of the independent committee risk chipping away at the trust in the drug-listing system that has served us so well. So I ask the minister: will you come clean about why you rejected the advice of PBAC on this drug? Is it, as was reported, because you wanted the manufacturer's support for a trial of new payment arrangements announced in the 2018 budget? How can the minister boast about listing all drugs when we've seen delays of up to two years from PBAC recommendations under the minister? (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Hunt, Greg, MP",LP,2018-06-19,"
 
 
@@ -4193,7 +4373,7 @@ In addition to that, we see that Labor itself has walked away from its own fundi
 
 In relation to the Local Sporting Champions program, I can say with great confidence to the member for Tangney that there will be an $11.8 million increase, with 9,000 new grants, and the program will particularly focus on the needs of those travelling long distances and from rural and remote areas. All up, I think that's an outstanding set of outcomes.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Collins, Julie, MP",ALP,2018-06-19,"
 
 
@@ -4210,7 +4390,7 @@ I'm particularly interested to know whether or not the PHNs contacted the govern
 
 I'm keen to know when the minister actually made the decision to extend the suicide prevention trial sites, why it wasn't included in the budget and why we received notification six days after the budget that this was being extended. And, as I said, I would like to know about any additional money that's going to specific trial sites and what sites are going to get the additional money. I'm particularly concerned, as I said, about some of the trial sites in rural and regional Australia, such as the Kimberley trial site, because I know that they did spend a fair amount of their $3 million through the PHN on holding meetings and consultations and getting everything together in terms of the plan. I wonder if the minister could also let me know exactly when he expects to receive some of the initial reports from Black Dog Institute, who are doing some of the evaluations of the trial sites, whether those evaluations are going to be made public and whether we can receive a briefing on those valuations when they come through so that we know what is happening on the ground in the suicide prevention trial sites, because in this place we're all really concerned to make sure that this works.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Wallace, Andrew, MP",LP,2018-06-19,"
 
 
@@ -4230,7 +4410,7 @@ In the meantime, I'd like the minister to please outline to the chamber what the
 
 What we've also got to recognise is that our first responders, our ambos, our firies and our police will quite often see more death and carnage in a 20- or 30-year career on the streets back home than our soldiers, airmen or sailors might see in a career in the military. Our first responders, our emergency service workers, also suffer terribly from PTSD. My brother is one of them. He's been an ambo for 30 years. Just as we as a federal government look to repair our broken soldiers—rightly so—I'd like to ask the minister what we are looking to do to assist our first-line responders. I know some will say that's a state issue, but these men and women endure, without overplaying it, the worst of all horrors that we see in modern-day life, and we need to do more. I'd like to ask the minister what his intentions are to help our first-line responders.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Collins, Julie, MP",ALP,2018-06-19,"
 
 
@@ -4259,7 +4439,7 @@ So I'm keen to know from the minister exactly what is happening in relation to a
 
 As we heard last night, people living with eating disorders are having terrible trouble trying to access services. I know the minister is aware of that. He would've heard similar stories from people around the country. It is very difficult indeed to get the allied health services and psychological support that people living with eating disorders need. They do often need more than just the eight or 10 Better Access visits that they can access. They often need care over many years, not just over a short period of time. It's a very serious illness and it has very severe consequences. I'm keen to hear from the minister and the government about when the government is going to act, how the Sunshine Coast proposal is going to work with the trial, whether or not there's going to be an evaluation of the trial, when the government expects to have that, when the MBS task force is expected to report to government and when we're going to get action. 
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Gee, Andrew, MP",Nats,2018-06-19,"
 
 
@@ -4276,7 +4456,7 @@ I would like to pay tribute to all of our members of the community who have foug
 
 My question to the minister is: can the minister please tell the chamber how the Murray-Darling medical school network came about and how it will affect the lives of people living in rural Australia? Before I close, can I also thank the minister for all of his hard work on this project. He got it over the line with the help of his ministerial colleagues, and we're very grateful.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "King, Catherine, MP",ALP,2018-06-19,"
 
 
@@ -4296,7 +4476,7 @@ We've had the member for Franklin ask about funding in residential aged care and
 
 We've asked about the PBS processes. The straw man that the minister likes to put up—he likes to do the straw man around lung cancer—is a nonsense, again. It's beneath the dignity of this parliament to think about it. This minister is actually doing something very unusual when it comes to PBAC. It's something I've referred to the Audit Office, because it has very serious consequences for the ongoing confidence and sustainability of the PBS. It is something the sector is worried about, and the minister should be concerned that he thinks it's okay. 
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Hunt, Greg, MP",LP,2018-06-19,"
 
 
@@ -4335,4 +4515,4 @@ Mr HUNT:
 
 Proposed expenditure agreed to.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech

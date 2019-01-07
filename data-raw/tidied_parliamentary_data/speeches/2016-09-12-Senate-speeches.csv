@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2016-09-12,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (10:01):  As Senator Ryan was absent from the Senate on 30 August 2016, I will now administer the oath of allegiance, as required by section 42 of the Constitution. I remind honourable senators that Senator Ryan's certificate of election was tabled on 30 August 2016. Senator Ryan, please come to the table and make and subscribe the oath of allegiance.
 
-",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Victoria</title>,PARLIAMENTARY REPRESENTATION,2,1
+",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Victoria</title>,PARLIAMENTARY REPRESENTATION,2,1,speech
 "Wong, Sen Penny",ALP,2016-09-12,"
 
 
@@ -14,7 +14,142 @@ The PRESIDENT
 Senator WONG
  (South Australia—Leader of the Opposition in the Senate) (10:03):  by leave—I advise the Senate that the opposition has appointed Senator Katy Gallagher to the position of Manager of Opposition Business in the Senate, with effect from the meeting of the Senate this morning. I further advise that Senator Chisholm will serve as deputy manager, to assist in managing opposition business. I congratulate Senators Gallagher and Chisholm on their new roles and look forward to working with them, together with the whole Senate team, in continuing to hold this government to account.
 
-",Senate,<title>PARTY OFFICE HOLDERS</title>,<title>Australian Labor Party</title>,PARTY OFFICE HOLDERS,3,1
+",Senate,<title>PARTY OFFICE HOLDERS</title>,<title>Australian Labor Party</title>,PARTY OFFICE HOLDERS,3,1,speech
+"Farrell, Sen Don",ALP,2016-09-12,"
+
+
+
+Senator FARRELL
+ (South Australia) (14:00):  My question is to the minister representing the Prime Minister, Senator Brandis. What is the government's position on public funding of the 'yes' and the 'no' campaigns for its proposed marriage equality plebiscite?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Farrell, Sen Don",ALP,2016-09-12,"
+
+
+
+Senator FARRELL
+ (South Australia) (14:01):  Has the Prime Minister committed, either publicly or privately, to funding the 'no' campaign as part of his proposed plebiscite?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Farrell, Sen Don",ALP,2016-09-12,"
+
+
+
+Senator FARRELL
+ (South Australia) (14:00):  I refer to the statement by the Anglican Archbishop of Sydney, the Most Reverend Dr Glenn Davies, who says that the Prime Minister gave an unambiguous offer to fund the 'no' campaign. Who should the Australian people believe, the Archbishop or the Prime Minister?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Brandis, Sen George",LP,2016-09-12,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:00):  Thank you very much indeed, Senator Farrell. I think I would be joined by most, if not all, of your colleagues in welcoming you back to the Senate. You are one of our favourite Labor senators—and we do not have many!
+
+
+
+
+Senator Farrell:
+  On a point of order, Mr President—I am everybody's favourite senator.
+
+
+
+The PRESIDENT:  That is no point of order, Senator Farrell.
+
+
+
+
+Senator BRANDIS:
+  Senator Farrell, you may well be right. Senator Farrell, as you know, at the recent election the government committed to having this matter disposed of by the parliament taking into consideration the views of the Australian people as demonstrated in a plebiscite. I will shortly be taking to the cabinet a submission to give effect to that commitment. That was a commitment that was endorsed by the Australian people at the recent election. As you know, Senator Farrell, questions of the kind which you raise are aspects of the design and architecture of that plebiscite. It will be considered by the cabinet, it will be considered by our party room through its ordinary processes, and when a decision is made I will make an announcement at the appropriate time.
+
+
+
+The PRESIDENT:  A supplementary question, Senator Farrell.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Brandis, Sen George",LP,2016-09-12,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:02):  The government's position, as expressed by the Prime Minister, as expressed by me, as expressed by other ministers, is perfectly clear: if there is public funding, it will be in equal shares between the 'yes' and the 'no' case.
+
+
+
+The PRESIDENT:  A final supplementary question, Senator Farrell.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Brandis, Sen George",LP,2016-09-12,"
+
+
+
+Senator BRANDIS
+
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:02):  I am not going to comment on a meeting which I did not attend. I have seen the remarks attributed to His Grace the Archbishop. It would not be the first time in the history of the world that different people had different recollections of a conversation. But I can assure you that the government's position has been entirely consistent, and has never changed from the first day to this—if there is public funding, it will be in equal shares.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Bushby, Sen David",LP,2016-09-12,"
+
+
+
+Senator BUSHBY
+ (Tasmania—Chief Government Whip in the Senate) (14:03):  My question is to the Attorney-General, Senator Brandis. Can the Attorney-General update the Senate on the current national security threat environment in light of the stabbing incident in Minto at the weekend?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Security</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Bushby, Sen David",LP,2016-09-12,"
+
+
+
+Senator BUSHBY
+ (Tasmania—Chief Government Whip in the Senate) (14:05):  Can the Attorney-General advise the Senate of the actions the government is taking to keep Australian safe from terrorism, and, in particular, what action it is taking in the region?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Security</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Bushby, Sen David",LP,2016-09-12,"
+
+
+
+Senator BUSHBY
+ (Tasmania—Chief Government Whip in the Senate) (14:07):  Can the Attorney-General advise the Senate of the government's plans to introduce further national security legislation?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Security</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Brandis, Sen George",LP,2016-09-12,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:03):  Thank you very much, Senator Bushby. It is a very important issue that you raise. As honourable senators would know, yesterday morning a 22-year-old man appeared before Parramatta court charged with the offences of attempted murder and committing a terrorist act under section 101 of the Commonwealth Criminal Code. The charges relate to a horrific knife attack against a 59-year-old man at Minto, in south-western Sydney, on Saturday afternoon. The investigation is ongoing; however, police have confirmed that they will allege the act was an ISIL-inspired attack. Of course, our thoughts are with the victim of this attack and we pray for his quick and complete recovery. 
+
+
+I can assure honourable senators that there is no ongoing threat to the community arising from this particular incident, which was disrupted through the brave actions of bystanders in the community who put their own safety, and indeed potentially their lives, at risk to save the life of the victim. Of course, our thanks are also extended to the police, who subdued and arrested the attacker. Nevertheless, the National Terrorism Threat Level remains at 'probable', as it has been for two years, since it was elevated to that level on 12 September 2014. What that means is that a terrorism event of some kind is assessed as likely.
+
+
+This is now the fourth attack in Australia since the National Terrorism Threat Level was raised, but in the same period our law enforcement and security agencies have disrupted and prevented a further 10 planned terror attacks. The Australian government is committed to doing everything it can to tackle the threat posed by terrorism and those who support it, and keeping our community safe.
+
+
+
+The PRESIDENT:  Senator Bushby, a supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Security</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Brandis, Sen George",LP,2016-09-12,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:06):  Yes, Senator Bushby, I can. Since August 2014, the government has invested an additional $1.3 billion to support Australia's efforts in combating terrorism. It has engaged in a program of significant counterterrorism law reform designed to give our law enforcement and security agencies the tools they need to disrupt and combat terrorism, and, while it is critical that we target the threat of ISIL at its base in Syria and northern Iraq, we are also working closely with our international partners, particularly our regional partners, to deal with radicalisation and violent extremism closer to home. Last year my Indonesian counterpart and I established a new Ministerial Council on Law and Security, to focus and coordinate our two nations' efforts to counter terrorism. Last month, the Minister for Justice and I attended an international summit on counterterrorism in Bali, hosted by the Indonesian government, and Australia and Indonesia co-hosted an important international conference on terrorism financing. (Time expired).
+
+
+
+The PRESIDENT:  Senator Bushy, a final supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Security</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Brandis, Sen George",LP,2016-09-12,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:07):  Yes, Senator Bushby, I can tell you that this week the government will introduce into the parliament two further pieces of national security legislation. The Criminal Code Amendment (High Risk Terrorist Offenders) Bill will enable Supreme Courts, on the application of the Attorney-General, to make an order for the ongoing detention of high-risk terrorist offenders serving custodial sentences when the court is persuaded to a high degree of probability that they continue to pose an ongoing risk to the community were they to be released upon the expiry of their sentence. The government will also reintroduce the Counter-Terrorism Legislation Amendment Bill, originally introduced in November last year. The revised version of the bill adopts all of the recommendations made on a bipartisan basis by the Parliamentary Joint Committee on Intelligence and Security. Those bills will be the latest instalment in the architecture of protections for which this government is determined to— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>National Security</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
 "Brandis, Sen George",LP,2016-09-12,"
 
 
@@ -22,7 +157,7 @@ Senator WONG
 Senator BRANDIS
  (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (15:00):  Mr President, may I correct an answer I gave to a question asked of me by Senator Waters. I said in answer to Senator Waters' question that Mr Graeme Wood of Wotif had donated $1.2 million to the Greens, but I am advised that the actual figure is $1.6 million.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Australian Renewable Energy Agency</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,8,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Australian Renewable Energy Agency</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,8,1,speech
 "Cameron, Sen Doug",ALP,2016-09-12,"
 
 
@@ -51,7 +186,7 @@ The view that I take and that the Labor Party takes is that we should not be was
 
 Why should our fellow Australians be subjected to a government-funded campaign of denigration against their rights as Australians to love a fellow Australian and get married in this country? This is an obnoxious proposition, this plebiscite. This is a plebiscite that has been forced on the Prime Minister by the extreme right in this government. It is a plebiscite that is driven by the right wing on a weak prime minister. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Paterson, Sen James",LP,2016-09-12,"
 
 
@@ -77,7 +212,7 @@ My own personal view is that there should be no public funding for either the ye
 
 My reason for opposing public funding for either the yes or the no case is that I think if we cannot think of a better way to spend taxpayers' money than in a political campaign, then I think we are not doing our jobs. My view is that there are better ways of spending this money. If people want to raise money themselves to spend in this campaign, then I wish them the absolute best in doing so. They should do as any other organisation campaigning for or against community change or social change does. They are able to fundraise from their supporters to generate support for their ideas and to use their position in the community to raise that money and support themselves. I do not think there is a compelling case for taxpayer funding in this instance.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Moore, Sen Claire",ALP,2016-09-12,"
 
 
@@ -100,7 +235,7 @@ It worries me that, on such a clear element of the whole issue of a plebiscite, 
 
 I believe that this just continues the confusion. I think it continues the uncertainty in the community about how this will operate, and it does not genuinely reflect the levels of concern that seem to be around people about how this plebiscite will operate. That there would be a plebiscite was hung out as an election promise, but the details around that plebiscite and how it is to be funded are still uncertain. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Duniam, Sen Jonathon",LP,2016-09-12,"
 
 
@@ -120,7 +255,7 @@ I think everyone would agree that this is the best way, regardless of where you 
 
 As I said at the beginning of my contribution to this debate, Senator Brandis was incredibly clear on the issue of funding. What the government will do will be announced in due course once we have gone through the process that needs to be gone through and the decision has been made. We will then announce what is going to be the case. We can all drop this 'he said-she said' political game, focus on the important issue at hand and allow the Australian people to get on with considering this important issue. I am sure many of you get thousands of emails and letters from your constituents asking you to vote a certain way. As soon as we know what the details are, we will be able to move on and get on with the debate.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Gallacher, Sen Alex",ALP,2016-09-12,"
 
 
@@ -164,7 +299,7 @@ Those on the other side can debate the issues to and fro on marriage equality. B
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Ludlam, Sen Scott",AG,2016-09-12,"
 
 
@@ -193,7 +328,7 @@ That there be laid on the table no later than 10 am on Monday, 12 September 2016
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Perth Freight Link</title>,DOCUMENTS,14,1
+",Senate,<title>DOCUMENTS</title>,<title>Perth Freight Link</title>,DOCUMENTS,14,1,speech
 "Ludlam, Sen Scott",AG,2016-09-12,"
 
 
@@ -222,7 +357,7 @@ That there be laid on the table no later than 10 am on Monday, 12 September 2016
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,14,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,14,2,speech
 "Siewert, Sen Rachel",AG,2016-09-12,"
 
 
@@ -261,7 +396,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Mental Health</title>,MOTIONS,15,1
+",Senate,<title>MOTIONS</title>,<title>Mental Health</title>,MOTIONS,15,1,speech
 "Xenophon, Sen Nick",NXT,2016-09-12,"
 
 
@@ -293,7 +428,7 @@ That—
 
 (b)   there be laid on the table no later than 3 pm on Wednesday, 14 September 2016 by the Minister representing the Minister for Small Business, the legal advice referred to by the Australian Statistician during his appearance on 7.30 on 3 August 2016.
 
-",Senate,<title>DOCUMENTS</title>,<title>Australian Statistician</title>,DOCUMENTS,16,1
+",Senate,<title>DOCUMENTS</title>,<title>Australian Statistician</title>,DOCUMENTS,16,1,speech
 "McGrath, Sen James",LP,2016-09-12,"
 
 
@@ -315,7 +450,7 @@ Senator McGRATH:
 
 The PRESIDENT:  The question is that the motion, as amended, moved by Senator Xenophon be agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Australian Statistician</title>,DOCUMENTS,16,1
+",Senate,<title>DOCUMENTS</title>,<title>Australian Statistician</title>,DOCUMENTS,16,1,speech
 "Xenophon, Sen Nick",NXT,2016-09-12,"
 
 
@@ -347,7 +482,7 @@ That—
 
 (b)   there be laid on the table no later than 3 pm on Wednesday, 14 September 2016 by the Minister representing the Minister for Small Business, the legal advice referred to by the Australian Statistician during his appearance on 7.30 on 3 August 2016.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2,speech
 "McGrath, Sen James",LP,2016-09-12,"
 
 
@@ -369,7 +504,7 @@ Senator McGRATH:
 
 The PRESIDENT:  The question is that the motion, as amended, moved by Senator Xenophon be agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2,speech
 "Watt, Sen Murray",ALP,2016-09-12,"
 
 
@@ -422,7 +557,7 @@ Senator WATT:
 
 (2)   That the committee be granted access to all inquiry submissions and documents of the preceding committee relating to its inquiry into the conditions and treatment of asylum seekers and refugees at the regional processing centres in the Republic of Nauru and Papua New Guinea.
 
-",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,17,1
+",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,17,1,speech
 "McGrath, Sen James",LP,2016-09-12,"
 
 
@@ -444,7 +579,7 @@ Senator McGRATH:
 
 The PRESIDENT:  The question is that the motion as amended by Senator Watt be agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,17,1
+",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,17,1,speech
 "Watt, Sen Murray",ALP,2016-09-12,"
 
 
@@ -497,7 +632,7 @@ Senator WATT:
 
 (2)   That the committee be granted access to all inquiry submissions and documents of the preceding committee relating to its inquiry into the conditions and treatment of asylum seekers and refugees at the regional processing centres in the Republic of Nauru and Papua New Guinea.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,17,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,17,2,speech
 "McGrath, Sen James",LP,2016-09-12,"
 
 
@@ -519,7 +654,7 @@ Senator McGRATH:
 
 The PRESIDENT:  The question is that the motion as amended by Senator Watt be agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,17,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,17,2,speech
 "Rice, Sen Janet",AG,2016-09-12,"
 
 
@@ -554,7 +689,7 @@ That the Senate—
 
 (b) supports the approach that all contracts, business cases, transport and economic modelling and other associated documents of governments and between governments and private contractors in the planning, construction and operation of toll roads should be made fully available to the public, unredacted, in a timely manner.
 
-",Senate,<title>MOTIONS</title>,<title>Roads</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>Roads</title>,MOTIONS,19,1,speech
 "McGrath, Sen James",LP,2016-09-12,"
 
 
@@ -572,7 +707,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator McGRATH:
   The Western Distributor Project in Melbourne is being funded and delivered by the Victorian government through an unsolicited bid process with no involvement from the Commonwealth. Toll roads are operated on behalf of state governments and are a matter for those jurisdictions. All projects which receive more than $100 million in Commonwealth funding are assessed by Infrastructure Australia, and assessments are released publicly. Information related to project details is commercial-in-confidence in nature, and its release may prejudice Commonwealth-state relations.
 
-",Senate,<title>MOTIONS</title>,<title>Roads</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>Roads</title>,MOTIONS,19,1,speech
 "Gallagher, Sen Katy",ALP,2016-09-12,"
 
 
@@ -594,7 +729,7 @@ Senator GALLAGHER:
 
 The PRESIDENT:  The question is that the motion moved by Senator Rice be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Roads</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>Roads</title>,MOTIONS,19,1,speech
 "PRESIDENT, The",,2016-09-12,"
 
 
@@ -602,7 +737,7 @@ The PRESIDENT:  The question is that the motion moved by Senator Rice be agreed 
 The PRESIDENT
  (16:07):  Does any senator wish to have the motion put? There being none, we will proceed.
 
-",Senate,<title>COMMITTEES</title>,<title>Economics Legislation Committee</title>,COMMITTEES,20,1
+",Senate,<title>COMMITTEES</title>,<title>Economics Legislation Committee</title>,COMMITTEES,20,1,speech
 "PRESIDENT, The",,2016-09-12,"
 
 
@@ -610,7 +745,7 @@ The PRESIDENT
 The PRESIDENT
  (16:07):  Does any senator wish to have the motion put? There being none, we will proceed.
 
-",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,20,2
+",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,20,2,speech
 "PRESIDENT, The",,2016-09-12,"
 
 
@@ -637,7 +772,7 @@ More than the number of senators required by the standing orders having risen in
 
 The PRESIDENT:  I understand that informal arrangements have been made to allocate specific times to each of the speakers in today's debate. With the concurrence of the Senate, I shall ask the clerks to set the clock accordingly.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Marriage</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Marriage</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "Pratt, Sen Louise",ALP,2016-09-12,"
 
 
@@ -684,7 +819,7 @@ I am not concerned here about Australians who have traditional notions of marria
 
 In my view, it is fine for me as a senator to make a plea to the parliament about equality. It is my job. I have heard a minority of extremists in the parliament—in this place—make just about every homophobic spray possible. It is horrible and it hurts. Frankly, this is not something I want young, same-sex attracted people to be exposed to—the need to go door to door to plead for their civil rights. This negative campaigning is not likely to defeat a plebiscite, in my view, because people will be repelled rather than persuaded. However, its impact will be lasting and damaging to some of the most vulnerable people in our community.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Marriage</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Marriage</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "Back, Sen Chris",LP,2016-09-12,"
 
 
@@ -731,7 +866,7 @@ It has been put to me that the cost of something like $150 million is a lot of m
 
 I do have to say that I have little confidence in the integrity of people on the other side who are likely to put the cases for which they so eloquently speak. Why do I have little confidence? It is because I have long believed that the best predictor of future behaviour is past behaviour. The recent past behaviour of those opposite is that of the scandalous Mediscare campaign leading up to the 2 July election, when it took an ABC journalist to call out the Leader of the Opposition and the national president of the Australian Medical Association to call them out. But did they stop? No. On the evening of 29 June an elderly lady in a nursing home in Perth received a phone call—not a robocall; a phone call—asking her what she was going to do beyond 30 June when the coalition government, if they won the election, would remove all funding for aged care and health care. That is the level of integrity we see and, if it flowed through to this other exercise, I have no faith in Mr Shorten's position. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Marriage</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Marriage</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "Rice, Sen Janet",AG,2016-09-12,"
 
 
@@ -796,7 +931,7 @@ I think we do need to come together. We can come together. We can bring together
 
 We are talking about subjecting the human rights of a minority, of LGBTIQ people, to a popular vote. There are no other minorities that we are saying that this should happen to. The rest of us do not have to ask the rest of the country whether we can get married. For the rest of us, it is just accepted. It is how it should be for LGBTIQ people as well, so that together we can support and embrace their rights and really come together, because we know that love is love. We know that they deserve to be able to get married and celebrate their love with the rest of us. Let us work together and put it into law. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Marriage</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Marriage</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "McAllister, Sen Jenny",ALP,2016-09-12,"
 
 
@@ -849,7 +984,7 @@ Senator McALLISTER:
 
 This stands in very real contrast to the alternative pathway, the pathway that has served our democracy pretty well for more than 100 years, which is that the parliament takes its responsibilities seriously and takes seriously its responsibility to decide issues. That is why we are here. That is what we are elected to do. Labor takes that responsibility seriously. It is why we have introduced a bill into the House of Representatives today to legislate for marriage equality, as we have done so many times before. What does it say to LGBTI Australians that their issue is the only one that is so special that we need to have a special process to ask every Australian citizen about it specifically? What we want is a conscience vote in the parliament to let the majority of parliamentarians who support marriage equality have their say and get this done. But there is one thing you need to vote with your conscience, there is one thing you need to have a conscience vote, and that is the one thing that Prime Minister Turnbull seems to be lacking.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Marriage</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Marriage</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "Macdonald, Sen Ian",LP,2016-09-12,"
 
 
@@ -903,7 +1038,7 @@ Senator Kim Carr interjecting—
 Senator IAN MACDONALD:
   Senator Carr, from the Mal Colston faction of the Labor Party, would not understand what that was about. Keeping your word and honouring your promises is something foreign to the Labor Party but something that I, as a Liberal, am proud my party always adheres to.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Marriage</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Marriage</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "Brown, Sen Carol",ALP,2016-09-12,"
 
 
@@ -953,7 +1088,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Gallacher
 ):  Order! The time for the discussion has expired. We shall now proceed to the consideration of documents.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Marriage</title>,MATTERS OF PUBLIC IMPORTANCE,23,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Marriage</title>,MATTERS OF PUBLIC IMPORTANCE,23,1,speech
 "McKim, Sen Nicholas",AG,2016-09-12,"
 
 
@@ -976,7 +1111,7 @@ The view in this RFA response document from the Liberal governments here in Canb
 
 I have fought native forest logging since I was arrested at Farmhouse Creek in the mid 1980s. I have fought it through my parliamentary career. I will continue to fight until we end the industrial strip mining of our forests that are protected and delivered through regional forest agreements; until we see our beautiful globally significant forests—much of which are quite rightly reserved on behalf of all of humanity inside our Tasmanian Wilderness World Heritage Area—and the forests that need to be protected actually protected in formal reserves and inside the World Heritage Area; until we end this mendicant, make-work industry that is the native forest logging industry in Tasmania; and until we protect the carbon that is embedded in those forests so that, in Tasmania, we can move on to the 21st-century industries and away from an over-reliance on the dig-it-up, chop-it-down mentality of the last century.
 
-",Senate,<title>DOCUMENTS</title>,<title>Tasmanian Regional Forest Agreement</title>,DOCUMENTS,24,1
+",Senate,<title>DOCUMENTS</title>,<title>Tasmanian Regional Forest Agreement</title>,DOCUMENTS,24,1,speech
 "Macdonald, Sen Ian",LP,2016-09-12,"
 
 
@@ -1021,7 +1156,7 @@ The regional forest agreements, the subject of this debate, were a good attempt 
 
 The regional forest agreements were a good idea. They worked for a while. Regrettably, they did not achieve their ultimate goal.
 
-",Senate,<title>DOCUMENTS</title>,<title>Tasmanian Regional Forest Agreement</title>,DOCUMENTS,24,1
+",Senate,<title>DOCUMENTS</title>,<title>Tasmanian Regional Forest Agreement</title>,DOCUMENTS,24,1,speech
 "Rice, Sen Janet",AG,2016-09-12,"
 
 
@@ -1044,7 +1179,7 @@ Senator Macdonald claims that the timber industry has shrunk compared to what it
 
 Debate adjourned.
 
-",Senate,<title>DOCUMENTS</title>,<title>Tasmanian Regional Forest Agreement</title>,DOCUMENTS,24,1
+",Senate,<title>DOCUMENTS</title>,<title>Tasmanian Regional Forest Agreement</title>,DOCUMENTS,24,1,speech
 "McKim, Sen Nicholas",AG,2016-09-12,"
 
 
@@ -1067,7 +1202,7 @@ The view in this RFA response document from the Liberal governments here in Canb
 
 I have fought native forest logging since I was arrested at Farmhouse Creek in the mid 1980s. I have fought it through my parliamentary career. I will continue to fight until we end the industrial strip mining of our forests that are protected and delivered through regional forest agreements; until we see our beautiful globally significant forests—much of which are quite rightly reserved on behalf of all of humanity inside our Tasmanian Wilderness World Heritage Area—and the forests that need to be protected actually protected in formal reserves and inside the World Heritage Area; until we end this mendicant, make-work industry that is the native forest logging industry in Tasmania; and until we protect the carbon that is embedded in those forests so that, in Tasmania, we can move on to the 21st-century industries and away from an over-reliance on the dig-it-up, chop-it-down mentality of the last century.
 
-",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,24,2
+",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,24,2,speech
 "Macdonald, Sen Ian",LP,2016-09-12,"
 
 
@@ -1112,7 +1247,7 @@ The regional forest agreements, the subject of this debate, were a good attempt 
 
 The regional forest agreements were a good idea. They worked for a while. Regrettably, they did not achieve their ultimate goal.
 
-",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,24,2
+",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,24,2,speech
 "Rice, Sen Janet",AG,2016-09-12,"
 
 
@@ -1135,7 +1270,7 @@ Senator Macdonald claims that the timber industry has shrunk compared to what it
 
 Debate adjourned.
 
-",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,24,2
+",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,24,2,speech
 "Rhiannon, Sen Lee",AG,2016-09-12,"
 
 
@@ -1143,7 +1278,7 @@ Debate adjourned.
 Senator RHIANNON
  (New South Wales) (18:19):  by leave—I present to the Senate a petition relating to live animal exports from the port of Townsville, from 2,676 citizens, which is not in conformity with standing orders.
 
-",Senate,<title>PETITIONS</title>,<title>Live Animal Exports</title>,PETITIONS,25,1
+",Senate,<title>PETITIONS</title>,<title>Live Animal Exports</title>,PETITIONS,25,1,speech
 "Ruston, Sen Anne",LP,2016-09-12,"
 
 
@@ -1151,7 +1286,7 @@ Senator RHIANNON
 Senator RUSTON
  (South Australia—Assistant Minister for Agriculture and Water Resources) (18:19):  On behalf of the Prime Minister, Mr Turnbull, I table a ministerial statement on economic security and stability. 
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Economy</title>,MINISTERIAL STATEMENTS,26,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Economy</title>,MINISTERIAL STATEMENTS,26,1,speech
 "Ruston, Sen Anne",LP,2016-09-12,"
 
 
@@ -1159,7 +1294,7 @@ Senator RUSTON
 Senator RUSTON
  (South Australia—Assistant Minister for Agriculture and Water Resources) (18:19):  I table a document relating to the order for the production of documents concerning the Perth freight link.
 
-",Senate,<title>DOCUMENTS</title>,<title>Perth Freight Link</title>,DOCUMENTS,27,1
+",Senate,<title>DOCUMENTS</title>,<title>Perth Freight Link</title>,DOCUMENTS,27,1,speech
 "Ruston, Sen Anne",LP,2016-09-12,"
 
 
@@ -1167,7 +1302,7 @@ Senator RUSTON
 Senator RUSTON
  (South Australia—Assistant Minister for Agriculture and Water Resources) (18:19):  I table a document relating to the order for the production of documents concerning the Perth freight link.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,27,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,27,2,speech
 "Gallacher, Sen Alex (The ACTING DEPUTY PRESIDENT)",ALP,2016-09-12,"
 
 
@@ -2330,7 +2465,7 @@ That:
 
 (16) the provisions of this resolution, so far as they are inconsistent with the standing orders, have effect notwithstanding anything contained in the standing orders.
 
-",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,28,2
+",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,28,2,speech
 "Ruston, Sen Anne",LP,2016-09-12,"
 
 
@@ -2344,7 +2479,7 @@ That the Senate concurs with the resolutions of the House of Representatives con
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,28,2
+",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,28,2,speech
 "Ruston, Sen Anne",LP,2016-09-12,"
 
 
@@ -2406,7 +2541,7 @@ It is desirable the Bill be passed in the 2016 Spring sittings since currently t
 
 Question agreed to.
 
-",Senate,<title>BILLS</title>,<title>Registration of Deaths Abroad Amendment Bill 2016</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Registration of Deaths Abroad Amendment Bill 2016</title>,BILLS,30,1,speech
 "Ruston, Sen Anne",LP,2016-09-12,"
 
 
@@ -2456,7 +2591,7 @@ The amendments will allow the Registrar of Deaths Abroad to register deaths that
 
 In order to ensure that only the Registrar of Deaths Abroad can register deaths under the Act, the bill removes any references to 'registering officers' from the Act.
 
-",Senate,<title>BILLS</title>,<title>Registration of Deaths Abroad Amendment Bill 2016</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Registration of Deaths Abroad Amendment Bill 2016</title>,BILLS,30,1,speech
 "Wong, Sen Penny",ALP,2016-09-12,"
 
 
@@ -2479,7 +2614,7 @@ The opposition believes the anomalies in the registration of deaths abroad syste
 
 As I said at the outset, we support the bill. It is a worthy bill but it is a bill correcting a technical error; it is not a bill that is part of a clear agenda from the government. One wonders why the government believes its agenda should commence with a bill that could have been dealt with in non-controversial legislation on Thursday or, frankly, prior to the parliament being dissolved. The government's agenda is focused on fixing a technical error in this bill. To our way of thinking, this is a clear sign that this is a government that is in office but not in power. It is unsurprising that so many, even on the government benches, are wondering what on earth the government's agenda is. The opposition is happy to support the legislation. I commend the bill to the chamber.
 
-",Senate,<title>BILLS</title>,<title>Registration of Deaths Abroad Amendment Bill 2016</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Registration of Deaths Abroad Amendment Bill 2016</title>,BILLS,30,1,speech
 "Ruston, Sen Anne",LP,2016-09-12,"
 
 
@@ -2561,7 +2696,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Registration of Deaths Abroad Amendment Bill 2016</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Registration of Deaths Abroad Amendment Bill 2016</title>,BILLS,30,1,speech
 "Ruston, Sen Anne",LP,2016-09-12,"
 
 
@@ -2578,7 +2713,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Registration of Deaths Abroad Amendment Bill 2016</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Registration of Deaths Abroad Amendment Bill 2016</title>,BILLS,30,1,speech
 "Ruston, Sen Anne",LP,2016-09-12,"
 
 
@@ -2640,7 +2775,7 @@ It is desirable the Bill be passed in the 2016 Spring sittings since currently t
 
 Question agreed to.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2,speech
 "Ruston, Sen Anne",LP,2016-09-12,"
 
 
@@ -2732,7 +2867,7 @@ Levy payer information will also be available to the Australian Bureau of Statis
 
 Question agreed to.
 
-",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1
+",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1,speech
 "Ruston, Sen Anne",LP,2016-09-12,"
 
 
@@ -2803,7 +2938,7 @@ We will now work with the RDCs and industry to make this happen.
 
 The government is committed to an Australian R&D system that remains transparent, consultative and delivers tangible benefits to Australia's agricultural industries into the future.
 
-",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1
+",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1,speech
 "Brown, Sen Carol",ALP,2016-09-12,"
 
 
@@ -2847,7 +2982,7 @@ As I initially stated, the opposition do see value in allowing the RDCs to creat
 
 Rather than further delaying this bill due to the go-slow nature of the government, the shadow minister for agriculture has written to the minister for agriculture asking him to ensure that draft guidelines are put forward for consideration by the opposition, minor parties, Independents, industry groups and individual levy payers, so that we can ensure confidence is maintained in our world class levy payer rural research and development system.
 
-",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1
+",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1,speech
 "Rice, Sen Janet",AG,2016-09-12,"
 
 
@@ -2882,7 +3017,7 @@ We ask that the government take these reservations into consideration, and we ec
 
 Following on from this, thcre is still a case for further reform in developing greater transparency and accountability processes between levy payers and RDCs, and there is a larger debate still to be had about the role of levy payers in voting on rates and setting research priorities. But we believe that is something we can continue to work on in the future. With regard to this bill, the Greens will support the legislation and we commend the bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1
+",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1,speech
 "Macdonald, Sen Ian",LP,2016-09-12,"
 
 
@@ -2926,7 +3061,7 @@ In coming to this bill, the minister did consult widely and, to a fairly high de
 
 This is an important bill. It has been a fair while in the making and I am pleased to see that it is here before the parliament at the moment. I suspect there are a few other things that need to be done and these were identified in that committee inquiry, but this is a very good start and I congratulate the minister for doing this and bringing this bill before the parliament. It will make things 'better'—a silly word—but it will make things better and more efficient for the industries that are able to access the innovations in this bill. Hopefully, that will lead to better research and development in our primary industries, our agricultural industries, which in turn will lead to better wealth for the farmers involved, and better export potential for those agricultural export products. All of that, of course, means a better Australia, a healthier and, hopefully, wealthier rural and regional Australia and continuing success for our agricultural industries. I support the bill and urge the Senate to do likewise.
 
-",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1
+",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1,speech
 "Leyonhjelm, Sen David",LDP,2016-09-12,"
 
 
@@ -2952,7 +3087,7 @@ I support the bill, although clearly it does not go far enough. It will not obli
 
 A database of levy payers is the first step in introducing accountability, and a semblance of democracy, to the levy system. I am quite sure most producers do not begrudge paying a levy if they see value in it. But they deserve to be asked. In fact, they deserve to be asked about how the money is spent, too, such as whether to fund marketing as well as R&D—but I do not expect to see that any time soon. As for giving levy payers a vote, in this age of the internet secure online polls can be undertaken at very low cost, and even a postal vote is not expensive. But to conduct a poll you obviously need a list of voters. It is time we gave primary producers some say over their hard-earned money. This bill is a step in the right direction.
 
-",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1
+",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1,speech
 "O'Sullivan, Sen Barry",Nats,2016-09-12,"
 
 
@@ -3008,7 +3143,7 @@ I think all the appropriate privacy considerations have been taken into account 
 
 So I think this is a positive bill. I am sure it is one that is going to be supported. I cannot see any reason why it will not be supported by everybody across the chamber. For my part, I commend the bill to the Senate. 
 
-",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1
+",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1,speech
 "Back, Sen Chris",LP,2016-09-12,"
 
 
@@ -3070,7 +3205,7 @@ Some days later, on the steps of Martin Place in Sydney, we had a group of peopl
 
 Senator Hinch stands condemned for his lack of knowledge and for the presentation of that information.
 
-",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1
+",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1,speech
 "Reynolds, Sen Linda",LP,2016-09-12,"
 
 
@@ -3153,7 +3288,7 @@ In conclusion, the bill will help allow levy payers to have more of a say in how
 
 I am also very happy to see that the bill is compatible with human rights. The measures proposed in the bill are consistent with the right to protection against arbitrary and unlawful interference with privacy, and I commend this bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1
+",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1,speech
 "Hume, Sen Jane",LP,2016-09-12,"
 
 
@@ -3218,7 +3353,7 @@ Extensive consultation on the agricultural levy system was undertaken by the Sen
 
 In conclusion, the passage of this bill is the first key step in allowing for the development of levy payer registers, making it possible for RDCs to identify and connect directly with those who fund their work. Through greater levy payer engagement with the R&D system, RDCs will be able to better align research investments to industry priorities, improving returns to primary producers and contributing to a more profitable, competitive and sustainable agricultural sector. We will now work with the RDCs and industry to make this happen. The government is committed to an Australian R&D system that remains transparent, consultative and delivers tangible benefits to Australia's agricultural industries in the future.
 
-",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1
+",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1,speech
 "Ruston, Sen Anne",LP,2016-09-12,"
 
 
@@ -3313,7 +3448,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1
+",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1,speech
 "O'Neill, Sen Deb (The ACTING DEPUTY PRESIDENT)",ALP,2016-09-12,"
 
 
@@ -3324,7 +3459,7 @@ The ACTING DEPUTY PRESIDENT
 Senator O'Neill
 ) (21:48):  As no amendments have been circulated, I shall call the minister to move the third reading unless any senator requires that the bill be considered in Committee of the Whole.
 
-",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1
+",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1,speech
 "Ruston, Sen Anne",LP,2016-09-12,"
 
 
@@ -3341,7 +3476,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1
+",Senate,<title>BILLS</title>,<title>Primary Industries Levies and Charges Collection Amendment Bill 2016</title>,BILLS,32,1,speech
 "Ruston, Sen Anne",LP,2016-09-12,"
 
 
@@ -3433,7 +3568,7 @@ Levy payer information will also be available to the Australian Bureau of Statis
 
 Question agreed to.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,32,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,32,2,speech
 "Reynolds, Sen Linda",LP,2016-09-12,"
 
 
@@ -3483,4 +3618,4 @@ In light of the above and Mr Shorten's statement that he knew nothing about any 
 
 In conclusion, the Audit Office did not find a shred of evidence that Parakeelia donated any profits from the sale of Feedback software to the Liberal Party. In fact, it was quite the opposite. The Audit Office actually found that the Liberal Party subsidised the provision of this database. The Labor Party in Western Australia now clearly have questions to answer on these matters.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Donations to Political Parties</title>,ADJOURNMENT,34,1
+",Senate,<title>ADJOURNMENT</title>,<title>Donations to Political Parties</title>,ADJOURNMENT,34,1,speech

@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2018-10-22,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER
  (10:01):  For the information of honourable members, I present the Presiding Officers' statement regarding the condition of Parliament House.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Parliament House</title>,STATEMENT BY THE SPEAKER,0,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Parliament House</title>,STATEMENT BY THE SPEAKER,0,1,speech
 "Wicks, Lucy, MP",LP,2018-10-22,"
 
 
@@ -14,7 +14,7 @@ The SPEAKER
 Mrs WICKS
  (Robertson) (10:01):  Today I present the 31st report of the Standing Committee on Petitions for the 45th Parliament.
 
-",HoR,<title>COMMITTEES</title>,<title>Petitions Committee</title>,COMMITTEES,1,1
+",HoR,<title>COMMITTEES</title>,<title>Petitions Committee</title>,COMMITTEES,1,1,speech
 "Wicks, Lucy, MP",LP,2018-10-22,"
 
 
@@ -22,7 +22,7 @@ Mrs WICKS
 Mrs WICKS
  (Robertson) (10:01):  Today I present the 31st report of the Standing Committee on Petitions for the 45th Parliament.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,1,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,1,2,speech
 "Wicks, Lucy, MP",LP,2018-10-22,"
 
 
@@ -30,7 +30,7 @@ Mrs WICKS
 Mrs WICKS
  (Robertson) (10:01):  I present the following 12 ministerial responses to petitions previously presented:
 
-",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,3,2
+",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,3,2,speech
 "Zimmerman, Trent, MP",LP,2018-10-22,"
 
 
@@ -131,7 +131,7 @@ As a nation, it is a test of our commitment to both those who are vulnerable and
 
 Our hope is that this report will provide additional impetus to ensuring that all of these goals are achieved.
 
-",HoR,<title>COMMITTEES</title>,"<title>Standing Committee on Health, Aged Care and Sport</title>",COMMITTEES,5,1
+",HoR,<title>COMMITTEES</title>,"<title>Standing Committee on Health, Aged Care and Sport</title>",COMMITTEES,5,1,speech
 "Georganas, Steve, MP",ALP,2018-10-22,"
 
 
@@ -158,7 +158,7 @@ I won't go over again the things the member for North Sydney has already said, b
 
 The SPEAKER:  The time allotted for statements on this report has expired. Does the member for North Sydney wish to move a motion in connection with the report to enable it to be debated on a later occasion?
 
-",HoR,<title>COMMITTEES</title>,"<title>Standing Committee on Health, Aged Care and Sport</title>",COMMITTEES,5,1
+",HoR,<title>COMMITTEES</title>,"<title>Standing Committee on Health, Aged Care and Sport</title>",COMMITTEES,5,1,speech
 "Zimmerman, Trent, MP",LP,2018-10-22,"
 
 
@@ -173,7 +173,7 @@ That the House take note of the report.
 
 The SPEAKER:  In accordance with standing order 39, the debate is adjourned and the resumption of the debate will be made an order for the debate for the next sitting. The member for North Sydney.
 
-",HoR,<title>COMMITTEES</title>,"<title>Standing Committee on Health, Aged Care and Sport</title>",COMMITTEES,5,1
+",HoR,<title>COMMITTEES</title>,"<title>Standing Committee on Health, Aged Care and Sport</title>",COMMITTEES,5,1,speech
 "Zimmerman, Trent, MP",LP,2018-10-22,"
 
 
@@ -187,7 +187,7 @@ That the order of the day be referred to the Federation Chamber for debate.
 
 Question agreed to. 
 
-",HoR,<title>COMMITTEES</title>,"<title>Standing Committee on Health, Aged Care and Sport</title>",COMMITTEES,5,1
+",HoR,<title>COMMITTEES</title>,"<title>Standing Committee on Health, Aged Care and Sport</title>",COMMITTEES,5,1,speech
 "Zimmerman, Trent, MP",LP,2018-10-22,"
 
 
@@ -288,7 +288,7 @@ As a nation, it is a test of our commitment to both those who are vulnerable and
 
 Our hope is that this report will provide additional impetus to ensuring that all of these goals are achieved.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,5,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,5,2,speech
 "Georganas, Steve, MP",ALP,2018-10-22,"
 
 
@@ -315,7 +315,7 @@ I won't go over again the things the member for North Sydney has already said, b
 
 The SPEAKER:  The time allotted for statements on this report has expired. Does the member for North Sydney wish to move a motion in connection with the report to enable it to be debated on a later occasion?
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,5,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,5,2,speech
 "Zimmerman, Trent, MP",LP,2018-10-22,"
 
 
@@ -330,7 +330,7 @@ That the House take note of the report.
 
 The SPEAKER:  In accordance with standing order 39, the debate is adjourned and the resumption of the debate will be made an order for the debate for the next sitting. The member for North Sydney.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,5,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,5,2,speech
 "McGowan, Cathy, MP",IND,2018-10-22,"
 
 
@@ -384,7 +384,7 @@ He went on to say, 'There is no doubt that Monash is one of Australia's greatest
 
 The SPEAKER:  Is the motion seconded?
 
-",HoR,<title>BILLS</title>,<title>Defence (Honour General Sir John Monash) Amendment Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Defence (Honour General Sir John Monash) Amendment Bill 2018</title>,BILLS,6,1,speech
 "Prentice, Jane, MP",LP,2018-10-22,"
 
 
@@ -411,7 +411,7 @@ With that said, I commend the motion to the House.
 
 The SPEAKER:  The question is that this bill be now read a second time. The time allotted for this debate has expired. The debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Defence (Honour General Sir John Monash) Amendment Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Defence (Honour General Sir John Monash) Amendment Bill 2018</title>,BILLS,6,1,speech
 "Morrison, Scott, MP",LP,2018-10-22,"
 
 
@@ -519,7 +519,7 @@ Mr Speaker, I present the formal apology to be tabled in this parliament today, 
 
 Honourable members:  Hear, hear!
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,7,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,7,1,speech
 "Shorten, Bill, MP",ALP,2018-10-22,"
 
 
@@ -613,7 +613,7 @@ The SPEAKER:  I thank the House.
 
 Debate adjourned.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,7,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,7,1,speech
 "Pyne, Christopher, MP",LP,2018-10-22,"
 
 
@@ -633,7 +633,7 @@ Question agreed to.
 Sitting suspended from 11:43 to 14:30
 
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,7,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,7,1,speech
 "Pyne, Christopher, MP",LP,2018-10-22,"
 
 
@@ -653,7 +653,7 @@ Question agreed to.
 Sitting suspended from 11:43 to 14:30
 
 
-",HoR,<title>MOTIONS</title>,<title>Reference to Federation Chamber</title>,MOTIONS,7,2
+",HoR,<title>MOTIONS</title>,<title>Reference to Federation Chamber</title>,MOTIONS,7,2,speech
 "Shorten, Bill, MP",ALP,2018-10-22,"
 
 
@@ -661,7 +661,7 @@ Sitting suspended from 11:43 to 14:30
 Mr SHORTEN
  (Maribyrnong—Leader of the Opposition) (14:30):  The Prime Minister and I, and indeed all the members of parliament, had the privilege of meeting survivors, victims and families in the Great Hall and down at Federation Mall. We got to hear some of their stories and see what this day and the national apology have meant to them. I said earlier this morning that this day belongs to these Australians. Some of them have fought for this moment for decades; others have not lived to see justice done. All their lives, people in authority have told them that their interests come second, that there are other more important things. Today they come first.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,STATEMENTS ON INDULGENCE,9,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,STATEMENTS ON INDULGENCE,9,1,speech
 "Smith, Tony, MP",LP,2018-10-22,"
 
 
@@ -678,7 +678,7 @@ These two poppy installations are a partnership with the organisation 5000 Poppi
 
 If I have further updates for members, I will of course do that between now and Remembrance Day.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Centenary of Armistice</title>,STATEMENT BY THE SPEAKER,11,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Centenary of Armistice</title>,STATEMENT BY THE SPEAKER,11,1,speech
 "Smith, Tony, MP",LP,2018-10-22,"
 
 
@@ -689,7 +689,7 @@ The SPEAKER
 
 That the time for the presentation of the report of the Joint Standing Committee on Foreign Affairs, Defence and Trade on its inquiry into PFAS contamination be extended to 3 December 2018.
 
-",HoR,<title>COMMITTEES</title>,"<title>Joint Standing Committee on Foreign Affairs, Defence and Trade</title>",COMMITTEES,13,1
+",HoR,<title>COMMITTEES</title>,"<title>Joint Standing Committee on Foreign Affairs, Defence and Trade</title>",COMMITTEES,13,1,speech
 "Smith, Tony, MP",LP,2018-10-22,"
 
 
@@ -700,7 +700,7 @@ The SPEAKER
 
 That the time for the presentation of the report of the Joint Standing Committee on Foreign Affairs, Defence and Trade on its inquiry into PFAS contamination be extended to 3 December 2018.
 
-",HoR,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,13,2
+",HoR,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,13,2,speech
 "Morton, Ben, MP",LP,2018-10-22,"
 
 
@@ -738,7 +738,7 @@ The committee has made other recommendations in relation to specific heritage as
 
 We thank the ACT government and the National Capital Authority, in particular, and we thank all of those who participated, particularly those residents of the Canberra area who participated, for their contributions. As chairman of this committee, I particularly thank Gai Brodtmann, the member for Canberra, for her participation as the deputy chair; the members of our committee, who have taken approach to this issue; and the very capable secretariat staff, who have worked very well in ensuring that we can all better understand what, at times, seem very complicated Commonwealth and parliamentary approvals processes for this project.
 
-",HoR,<title>COMMITTEES</title>,<title>Joint Standing Committee on National Capital and External Territories</title>,COMMITTEES,15,1
+",HoR,<title>COMMITTEES</title>,<title>Joint Standing Committee on National Capital and External Territories</title>,COMMITTEES,15,1,speech
 "Brodtmann, Gai, MP",ALP,2018-10-22,"
 
 
@@ -771,7 +771,7 @@ The committee developed six recommendations in the inquiry, and I just want to r
 
 There is a lot of good about this report and the fact that it aims to—and I hope it does not just aim to but does—provide clarity to the ACT government, to Commonwealth agencies who are involved in this, and to the parliament and the committee about the next steps for the proposed stage 2 of the light rail. I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Joint Standing Committee on National Capital and External Territories</title>,COMMITTEES,15,1
+",HoR,<title>COMMITTEES</title>,<title>Joint Standing Committee on National Capital and External Territories</title>,COMMITTEES,15,1,speech
 "Morton, Ben, MP",LP,2018-10-22,"
 
 
@@ -786,7 +786,7 @@ That the House take note of the report.
 
 The SPEAKER:  The debate is adjourned, and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Joint Standing Committee on National Capital and External Territories</title>,COMMITTEES,15,1
+",HoR,<title>COMMITTEES</title>,<title>Joint Standing Committee on National Capital and External Territories</title>,COMMITTEES,15,1,speech
 "Morton, Ben, MP",LP,2018-10-22,"
 
 
@@ -800,7 +800,7 @@ That the order of the day be referred to the Federation Chamber for debate.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Joint Standing Committee on National Capital and External Territories</title>,COMMITTEES,15,1
+",HoR,<title>COMMITTEES</title>,<title>Joint Standing Committee on National Capital and External Territories</title>,COMMITTEES,15,1,speech
 "Morton, Ben, MP",LP,2018-10-22,"
 
 
@@ -838,7 +838,7 @@ The committee has made other recommendations in relation to specific heritage as
 
 We thank the ACT government and the National Capital Authority, in particular, and we thank all of those who participated, particularly those residents of the Canberra area who participated, for their contributions. As chairman of this committee, I particularly thank Gai Brodtmann, the member for Canberra, for her participation as the deputy chair; the members of our committee, who have taken approach to this issue; and the very capable secretariat staff, who have worked very well in ensuring that we can all better understand what, at times, seem very complicated Commonwealth and parliamentary approvals processes for this project.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2,speech
 "Brodtmann, Gai, MP",ALP,2018-10-22,"
 
 
@@ -871,7 +871,7 @@ The committee developed six recommendations in the inquiry, and I just want to r
 
 There is a lot of good about this report and the fact that it aims to—and I hope it does not just aim to but does—provide clarity to the ACT government, to Commonwealth agencies who are involved in this, and to the parliament and the committee about the next steps for the proposed stage 2 of the light rail. I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2,speech
 "Morton, Ben, MP",LP,2018-10-22,"
 
 
@@ -886,7 +886,7 @@ That the House take note of the report.
 
 The SPEAKER:  The debate is adjourned, and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2,speech
 "Brodtmann, Gai, MP",ALP,2018-10-22,"
 
 
@@ -927,7 +927,7 @@ In the past four years, 84 people have been charged with terrorism related offen
 
 That's why Labor supports this bill. The security of our nation is at the forefront of everything we do here, and this bill will continue to lead us in the right direction to ensure a safe, secure and prosperous nation.
 
-",HoR,<title>BILLS</title>,<title>Defence Amendment (Call Out of the Australian Defence Force) Bill 2018</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Defence Amendment (Call Out of the Australian Defence Force) Bill 2018</title>,BILLS,16,1,speech
 "Snowdon, Warren, MP",ALP,2018-10-22,"
 
 
@@ -989,7 +989,7 @@ I don't intend to go through each of the four headings, but there will be an inc
 
 This is a very important piece of legislation for this country. It gives us a contemporary set of arrangements designed to meet contemporary circumstances—those of today and into the future—and I'm very pleased to be able to support the legislation.
 
-",HoR,<title>BILLS</title>,<title>Defence Amendment (Call Out of the Australian Defence Force) Bill 2018</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Defence Amendment (Call Out of the Australian Defence Force) Bill 2018</title>,BILLS,16,1,speech
 "O'Toole, Cathy, MP",ALP,2018-10-22,"
 
 
@@ -1030,7 +1030,7 @@ The bill also contains a number of provisions in support of those amendments out
 
 Defeating the scourge of terrorism demands our every effort, our total energy and our complete unity of purpose—unity in this parliament through continued thoughtful bipartisan cooperation; unity in the nation, working with the Muslim community to identify people at risk of radicalisation and prevent them from heading down a path of, sadly, no return; unity in the region, where we face the ongoing challenge of returning foreign fighters driven out of the Middle East by the efforts of Australian forces, among others; and unity with other free nations, standing against terrorism's assault on the rights of their citizens to live in peace and security. I am the member who represents the largest garrison city in this country. These changes are important to allow those serving men and women to do what they do best: serve and protect this great nation. I am very proud to support this bill.
 
-",HoR,<title>BILLS</title>,<title>Defence Amendment (Call Out of the Australian Defence Force) Bill 2018</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Defence Amendment (Call Out of the Australian Defence Force) Bill 2018</title>,BILLS,16,1,speech
 "Bandt, Adam, MP",AG,2018-10-22,"
 
 
@@ -1284,7 +1284,7 @@ I think people would want the standard to be even higher when it comes to callin
 
 The bill should not pass in its current form. The drafters should go back and pare it back to what they say is its intention. Let's deal with exceptional circumstances. Let's limit the ability to remove people's rights. If the government is serious that that's what it's all about, then they should have no objection to doing that. So, in its current form, this bill cannot be supported.
 
-",HoR,<title>BILLS</title>,<title>Defence Amendment (Call Out of the Australian Defence Force) Bill 2018</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Defence Amendment (Call Out of the Australian Defence Force) Bill 2018</title>,BILLS,16,1,speech
 "Danby, Michael, MP",ALP,2018-10-22,"
 
 
@@ -1328,7 +1328,7 @@ Mr Bandt:
 Mr DANBY:
   and their others are important. The safety of all Australians is important. While the member for Melbourne calls me a grub, I'm proud to stand up for the 95 per cent of Australians, in my seat and in all the rest of Australia, who think antiterrorist legislation, including this bill, is important.
 
-",HoR,<title>BILLS</title>,<title>Defence Amendment (Call Out of the Australian Defence Force) Bill 2018</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Defence Amendment (Call Out of the Australian Defence Force) Bill 2018</title>,BILLS,16,1,speech
 "Chester, Darren, MP",Nats,2018-10-22,"
 
 
@@ -1388,7 +1388,7 @@ Question agreed to, Mr Bandt and Mr Wilkie voting no.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Defence Amendment (Call Out of the Australian Defence Force) Bill 2018</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Defence Amendment (Call Out of the Australian Defence Force) Bill 2018</title>,BILLS,16,1,speech
 "Chester, Darren, MP",Nats,2018-10-22,"
 
 
@@ -1405,7 +1405,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Defence Amendment (Call Out of the Australian Defence Force) Bill 2018</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Defence Amendment (Call Out of the Australian Defence Force) Bill 2018</title>,BILLS,16,1,speech
 "Brodtmann, Gai, MP",ALP,2018-10-22,"
 
 
@@ -1446,7 +1446,7 @@ In the past four years, 84 people have been charged with terrorism related offen
 
 That's why Labor supports this bill. The security of our nation is at the forefront of everything we do here, and this bill will continue to lead us in the right direction to ensure a safe, secure and prosperous nation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "Snowdon, Warren, MP",ALP,2018-10-22,"
 
 
@@ -1508,7 +1508,7 @@ I don't intend to go through each of the four headings, but there will be an inc
 
 This is a very important piece of legislation for this country. It gives us a contemporary set of arrangements designed to meet contemporary circumstances—those of today and into the future—and I'm very pleased to be able to support the legislation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "O'Toole, Cathy, MP",ALP,2018-10-22,"
 
 
@@ -1549,7 +1549,7 @@ The bill also contains a number of provisions in support of those amendments out
 
 Defeating the scourge of terrorism demands our every effort, our total energy and our complete unity of purpose—unity in this parliament through continued thoughtful bipartisan cooperation; unity in the nation, working with the Muslim community to identify people at risk of radicalisation and prevent them from heading down a path of, sadly, no return; unity in the region, where we face the ongoing challenge of returning foreign fighters driven out of the Middle East by the efforts of Australian forces, among others; and unity with other free nations, standing against terrorism's assault on the rights of their citizens to live in peace and security. I am the member who represents the largest garrison city in this country. These changes are important to allow those serving men and women to do what they do best: serve and protect this great nation. I am very proud to support this bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "Bandt, Adam, MP",AG,2018-10-22,"
 
 
@@ -1803,7 +1803,7 @@ I think people would want the standard to be even higher when it comes to callin
 
 The bill should not pass in its current form. The drafters should go back and pare it back to what they say is its intention. Let's deal with exceptional circumstances. Let's limit the ability to remove people's rights. If the government is serious that that's what it's all about, then they should have no objection to doing that. So, in its current form, this bill cannot be supported.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "Danby, Michael, MP",ALP,2018-10-22,"
 
 
@@ -1847,7 +1847,7 @@ Mr Bandt:
 Mr DANBY:
   and their others are important. The safety of all Australians is important. While the member for Melbourne calls me a grub, I'm proud to stand up for the 95 per cent of Australians, in my seat and in all the rest of Australia, who think antiterrorist legislation, including this bill, is important.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "Chester, Darren, MP",Nats,2018-10-22,"
 
 
@@ -1907,7 +1907,7 @@ Question agreed to, Mr Bandt and Mr Wilkie voting no.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "Chester, Darren, MP",Nats,2018-10-22,"
 
 
@@ -1921,7 +1921,7 @@ That the House agrees with the resolution of the Senate, transmitted in message 
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Royal Commission into Institutional Responses to Child Sexual Abuse</title>,COMMITTEES,17,1
+",HoR,<title>COMMITTEES</title>,<title>Royal Commission into Institutional Responses to Child Sexual Abuse</title>,COMMITTEES,17,1,speech
 "Chester, Darren, MP",Nats,2018-10-22,"
 
 
@@ -1935,7 +1935,7 @@ That the House agrees with the resolution of the Senate, transmitted in message 
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,17,2
+",HoR,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,17,2,speech
 "Albanese, Anthony, MP",ALP,2018-10-22,"
 
 
@@ -1964,7 +1964,7 @@ The fact is, though, that under this government they want to see the blue highwa
 
 We are determined to work with industry, to work with unions, to work the community sector and to work with all those who use Australian shipping and to reach out across the chamber and work with those opposite as well in the national interest. But our national interest demands that we have an Australian shipping industry, and on this side of the House we will certainly fight for it. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Shipping Registration Amendment Bill 2018</title>,BILLS,18,1
+",HoR,<title>BILLS</title>,<title>Shipping Registration Amendment Bill 2018</title>,BILLS,18,1,speech
 "Stanley, Anne, MP",ALP,2018-10-22,"
 
 
@@ -2002,7 +2002,7 @@ The government were not satisfied with white-anting these reforms when they were
 
 We need to make sure that this doesn't happen. It is very important that Australian jobs stay here. Shipping is an incredibly important industry. Whilst my electorate of Werriwa may be landlocked, our industries depend on shipping to survive. For this reason, we support the reforms in the Shipping Registration Amendment Bill 2018, but we will be keeping an eye on the government's treatment of this critical industry.
 
-",HoR,<title>BILLS</title>,<title>Shipping Registration Amendment Bill 2018</title>,BILLS,18,1
+",HoR,<title>BILLS</title>,<title>Shipping Registration Amendment Bill 2018</title>,BILLS,18,1,speech
 "Keay, Justine, MP",ALP,2018-10-22,"
 
 
@@ -2148,7 +2148,7 @@ I can assure both Monica and Callum that Labor will continue to campaign for loc
 
 As I said at the beginning of my contribution, Labor will be supporting this bill. But the bottom line is that there is a very real difference between the two sides of politics when it comes to shipping. Labor strongly believes Australia needs a viable, competitive and growing domestic maritime industry. The coalition doesn't. 
 
-",HoR,<title>BILLS</title>,<title>Shipping Registration Amendment Bill 2018</title>,BILLS,18,1
+",HoR,<title>BILLS</title>,<title>Shipping Registration Amendment Bill 2018</title>,BILLS,18,1,speech
 "Jones, Stephen, MP",ALP,2018-10-22,"
 
 
@@ -2204,7 +2204,7 @@ The legislation and policy that have put ideology ahead of our national interest
 
 Globalisation has helped to fuel a race to the bottom, and we believe that we should not be in contention for this race. There are much better ways for us to compete than on the basis of offering shipping with the lowest rates of pay in the world. We should prevent the demise of our proud shipping industry, protect our fragile coastal environment and ensure our national security. I do support the bill before the House, but I also support calls from the industry that the government reintroduce the bills that they had to amend and remove the Labor reforms so we can get back on the path of ensuring that we secure the future of our proud maritime industry.
 
-",HoR,<title>BILLS</title>,<title>Shipping Registration Amendment Bill 2018</title>,BILLS,18,1
+",HoR,<title>BILLS</title>,<title>Shipping Registration Amendment Bill 2018</title>,BILLS,18,1,speech
 "Bandt, Adam, MP",AG,2018-10-22,"
 
 
@@ -2239,7 +2239,7 @@ One of the other reasons that we have to have a better discussion about how we r
 
 So, whilst this bill in and of itself isn't seeking to bring about great reform, it's notable that it's a missed opportunity and that it comes on the coat-tails of other efforts by the government to wind back support for a proper shipping industry in Australia. As mentioned, when this bill gets to the Senate, our transport spokesperson there will make it clear that the Greens stand for a proper shipping policy in this country to revitalise our shipping industry because that is good for people and that is good for the planet.
 
-",HoR,<title>BILLS</title>,<title>Shipping Registration Amendment Bill 2018</title>,BILLS,18,1
+",HoR,<title>BILLS</title>,<title>Shipping Registration Amendment Bill 2018</title>,BILLS,18,1,speech
 "Zappia, Tony, MP",ALP,2018-10-22,"
 
 
@@ -2317,7 +2317,7 @@ It would be akin to suddenly saying, 'We will wipe out the Australian trucking i
 
 We are clearly going down the wrong track, in terms of not only national security measures but also generating and building the economy of Australia. Shipping represents an opportunity to do that. This legislation, whilst it will be supported by our side of parliament, only makes a minor difference to the shipping regime in this country and does nothing to grow what could be a major economic asset for the future of this country.
 
-",HoR,<title>BILLS</title>,<title>Shipping Registration Amendment Bill 2018</title>,BILLS,18,1
+",HoR,<title>BILLS</title>,<title>Shipping Registration Amendment Bill 2018</title>,BILLS,18,1,speech
 "McCormack, Michael, MP",Nats,2018-10-22,"
 
 
@@ -2343,7 +2343,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Shipping Registration Amendment Bill 2018</title>,BILLS,18,1
+",HoR,<title>BILLS</title>,<title>Shipping Registration Amendment Bill 2018</title>,BILLS,18,1,speech
 "McCormack, Michael, MP",Nats,2018-10-22,"
 
 
@@ -2360,7 +2360,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Shipping Registration Amendment Bill 2018</title>,BILLS,18,1
+",HoR,<title>BILLS</title>,<title>Shipping Registration Amendment Bill 2018</title>,BILLS,18,1,speech
 "Albanese, Anthony, MP",ALP,2018-10-22,"
 
 
@@ -2389,7 +2389,7 @@ The fact is, though, that under this government they want to see the blue highwa
 
 We are determined to work with industry, to work with unions, to work the community sector and to work with all those who use Australian shipping and to reach out across the chamber and work with those opposite as well in the national interest. But our national interest demands that we have an Australian shipping industry, and on this side of the House we will certainly fight for it. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2,speech
 "Stanley, Anne, MP",ALP,2018-10-22,"
 
 
@@ -2427,7 +2427,7 @@ The government were not satisfied with white-anting these reforms when they were
 
 We need to make sure that this doesn't happen. It is very important that Australian jobs stay here. Shipping is an incredibly important industry. Whilst my electorate of Werriwa may be landlocked, our industries depend on shipping to survive. For this reason, we support the reforms in the Shipping Registration Amendment Bill 2018, but we will be keeping an eye on the government's treatment of this critical industry.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2,speech
 "Keay, Justine, MP",ALP,2018-10-22,"
 
 
@@ -2573,7 +2573,7 @@ I can assure both Monica and Callum that Labor will continue to campaign for loc
 
 As I said at the beginning of my contribution, Labor will be supporting this bill. But the bottom line is that there is a very real difference between the two sides of politics when it comes to shipping. Labor strongly believes Australia needs a viable, competitive and growing domestic maritime industry. The coalition doesn't. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2,speech
 "Jones, Stephen, MP",ALP,2018-10-22,"
 
 
@@ -2629,7 +2629,7 @@ The legislation and policy that have put ideology ahead of our national interest
 
 Globalisation has helped to fuel a race to the bottom, and we believe that we should not be in contention for this race. There are much better ways for us to compete than on the basis of offering shipping with the lowest rates of pay in the world. We should prevent the demise of our proud shipping industry, protect our fragile coastal environment and ensure our national security. I do support the bill before the House, but I also support calls from the industry that the government reintroduce the bills that they had to amend and remove the Labor reforms so we can get back on the path of ensuring that we secure the future of our proud maritime industry.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2,speech
 "Bandt, Adam, MP",AG,2018-10-22,"
 
 
@@ -2664,7 +2664,7 @@ One of the other reasons that we have to have a better discussion about how we r
 
 So, whilst this bill in and of itself isn't seeking to bring about great reform, it's notable that it's a missed opportunity and that it comes on the coat-tails of other efforts by the government to wind back support for a proper shipping industry in Australia. As mentioned, when this bill gets to the Senate, our transport spokesperson there will make it clear that the Greens stand for a proper shipping policy in this country to revitalise our shipping industry because that is good for people and that is good for the planet.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2,speech
 "Zappia, Tony, MP",ALP,2018-10-22,"
 
 
@@ -2742,7 +2742,7 @@ It would be akin to suddenly saying, 'We will wipe out the Australian trucking i
 
 We are clearly going down the wrong track, in terms of not only national security measures but also generating and building the economy of Australia. Shipping represents an opportunity to do that. This legislation, whilst it will be supported by our side of parliament, only makes a minor difference to the shipping regime in this country and does nothing to grow what could be a major economic asset for the future of this country.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2,speech
 "McCormack, Michael, MP",Nats,2018-10-22,"
 
 
@@ -2768,7 +2768,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2,speech
 "Wood, Jason, MP",LP,2018-10-22,"
 
 
@@ -2791,7 +2791,7 @@ It appears unlikely that telecommunication intercept acts could be used to inves
 
 This is a very important issue in my electorate of La Trobe and right around Australia. People hate seeing our native wildlife brutally killed, for fun or even because some believe they are a pest. We do need national laws. We need to have stronger laws, have a consistent approach and put our wildlife first. I think that's something Australians expect.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Crimes Against Wildlife</title>,ADJOURNMENT,19,1
+",HoR,<title>ADJOURNMENT</title>,<title>Crimes Against Wildlife</title>,ADJOURNMENT,19,1,speech
 "McGowan, Cathy, MP",IND,2018-10-22,"
 
 
@@ -2832,7 +2832,7 @@ When it was the Great War, Aboriginals were not remembered at Anzac Day ceremoni
 
 To all the students at St Bernard's, thank you for caring, thank you for writing to me and thank you most of all for acknowledging Aboriginal and Torres Strait Islanders. Colleagues, as we gather on the 11th of the 11th a hundred years later, let's remember the service of our Aboriginal and Torres Strait Islander soldiers. 
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Indigenous Soldiers</title>,STATEMENTS BY MEMBERS,20,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Indigenous Soldiers</title>,STATEMENTS BY MEMBERS,20,1,speech
 "Hill, Julian, MP",ALP,2018-10-22,"
 
 
@@ -2936,7 +2936,7 @@ The DEPUTY SPEAKER
 Ms Claydon
 ):  Is the motion seconded?
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Cambodia</title>,PRIVATE MEMBERS' BUSINESS,21,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Cambodia</title>,PRIVATE MEMBERS' BUSINESS,21,1,speech
 "Stanley, Anne, MP",ALP,2018-10-22,"
 
 
@@ -2965,7 +2965,7 @@ Unfortunately, this story isn't unique. Almost all of the Australian Cambodians 
 
 I'm deeply concerned to see voices being unfairly silenced and I share the concerns of my colleagues, particularly the member for Bruce, who have risen to speak to this motion. I especially note that this motion calls on the government to induce targeted sanctions and guarantee the rights of Australians of Cambodian heritage in this country. I draw the other points of the motion to the attention of the House and fully support their implementation now.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Cambodia</title>,PRIVATE MEMBERS' BUSINESS,21,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Cambodia</title>,PRIVATE MEMBERS' BUSINESS,21,1,speech
 "Hayes, Chris, MP",ALP,2018-10-22,"
 
 
@@ -2994,7 +2994,7 @@ Now, while it's pleasing that the Australian film director James Ricketson has b
 
 Peace and freedom are not prizes which, once gained, can never be lost. … Their foundations must be sunk deep into the bedrock of political stability, economic prosperity and above all else, the observance of human rights.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Cambodia</title>,PRIVATE MEMBERS' BUSINESS,21,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Cambodia</title>,PRIVATE MEMBERS' BUSINESS,21,1,speech
 "Chalmers, Jim, MP",ALP,2018-10-22,"
 
 
@@ -3020,7 +3020,7 @@ I do think it is a little bit disappointing that there is not a speaker from tha
 
 We call on the government to fully investigate the allegations of illicit activity, including money laundering. We urge the Cambodian government to allow free and open political debate without intimidation and threats of violence. And we call on the government to consider, in coordination with our other partners, additional measures to support democracy in Cambodia. We owe this to our Cambodian friends who have fled a repressive regime in their homeland. We reassure them that they have the right to protest peacefully here. We thank them for their tireless efforts to advance and support human rights and democracy in Cambodia, and we stand in solidarity with them.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Cambodia</title>,PRIVATE MEMBERS' BUSINESS,21,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Cambodia</title>,PRIVATE MEMBERS' BUSINESS,21,1,speech
 "Bowen, Chris, MP",ALP,2018-10-22,"
 
 
@@ -3040,7 +3040,7 @@ It's fair to say that the local Australian Cambodian community is extremely conc
 
 With opposition parties banned and soldiers at polling booths there is no way that the recent election could be called credible, and no credible organisation has signed off on the election's validity. It is the case that Cambodia is not currently a democracy, and that leads to quite extreme actions having to be contemplated. The motion moved by the member for Bruce goes through those. I know he hasn't done this lightly. There are a number of steps that Australia should consider. We don't call for changes to foreign aid lightly, nor do we say, for example, that the other activities that are contemplated by this motion should be considered lightly. But Australia should withdraw from the refugee resettlement deal. I think two refugees have been sent to Cambodia. Millions of dollars have been spent in Cambodia. It gives legitimacy to the Cambodian regime. It's not an appropriate arrangement, which was entered into by the now Prime Minister when he was the minister for immigration. Cambodia can and should have a democratic system.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Cambodia</title>,PRIVATE MEMBERS' BUSINESS,21,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Cambodia</title>,PRIVATE MEMBERS' BUSINESS,21,1,speech
 "O'Neil, Clare, MP",ALP,2018-10-22,"
 
 
@@ -3063,4 +3063,4 @@ For too long the leaders in Cambodia have been getting away with murder, literal
 
 Debate adjourned.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Cambodia</title>,PRIVATE MEMBERS' BUSINESS,21,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Cambodia</title>,PRIVATE MEMBERS' BUSINESS,21,1,speech

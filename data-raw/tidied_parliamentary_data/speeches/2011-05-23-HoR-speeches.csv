@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Murphy, John, MP",ALP,2011-05-23,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 Mr MURPHY:
   Ministerial responses to petitions previously presented to the House have been received as follows:
 
-",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,1,2
+",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,1,2,speech
 "Rishworth, Amanda, MP",ALP,2011-05-23,"
 
 
@@ -227,7 +227,7 @@ I would like to thank my committee colleagues, former members of the committee a
 I commend the report to the House.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Education and Employment Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Education and Employment Committee</title>,COMMITTEES,2,1,speech
 "Ramsey, Rowan, MP",LP,2011-05-23,"
 
 
@@ -268,7 +268,7 @@ That the House take note of the report.
 The SPEAKER:
   In accordance with standing order 39, the debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Education and Employment Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Education and Employment Committee</title>,COMMITTEES,2,1,speech
 "Rishworth, Amanda, MP",ALP,2011-05-23,"
 
 
@@ -282,7 +282,7 @@ That the order of the day be referred to the Main Committee for debate.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Education and Employment Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Education and Employment Committee</title>,COMMITTEES,2,1,speech
 "Rishworth, Amanda, MP",ALP,2011-05-23,"
 
 
@@ -314,7 +314,7 @@ The focus has been on employment but, as I mentioned, we are also having a focus
 
 I would like to take this opportunity to thank the secretariat, who have put together a very exciting program so far. We look forward to continuing this very important work and making some recommendations that will make a difference to the lives of people with a mental health issue who are trying to access employment and education.
 
-",HoR,<title>COMMITTEES</title>,<title>Education and Employment Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Education and Employment Committee</title>,COMMITTEES,2,1,speech
 "Ramsey, Rowan, MP",LP,2011-05-23,"
 
 
@@ -328,7 +328,7 @@ The fact that someone is sick and suffering from a mental illness does not neces
 
 I hope we are going to find a bit of that in our inquiry as we move around Australia. The chair was very keen that we should make an attempt to visit the electorates of all the members of the committee. Because we know our own patches and we know the contacts to make, this is a good way of getting a cross-section of Australia. As I just said when I was speaking on the previous correspondence from the committee, as the only member of the committee who represents rural and regional Australia I will be very pleased to have the committee in Whyalla in two weeks time, because, as difficult as dealing with mental health is anywhere, all these things become more difficult in the country, where you are further removed from the bulk of services. Whyalla is quite a substantial city of 22,000 or 23,000 people. I have towns whose populations are only two or three people. The concept of delivering mental health and care services into communities that small is quite foreign to much of Australia, but I believe it is my role to try to bring a bit of that to the committee. I look forward to the inquiry. (Time expired)
 
-",HoR,<title>COMMITTEES</title>,<title>Education and Employment Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Education and Employment Committee</title>,COMMITTEES,2,1,speech
 "Rishworth, Amanda, MP",ALP,2011-05-23,"
 
 
@@ -549,7 +549,7 @@ I would like to thank my committee colleagues, former members of the committee a
 I commend the report to the House.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,2,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,2,2,speech
 "Ramsey, Rowan, MP",LP,2011-05-23,"
 
 
@@ -590,7 +590,7 @@ That the House take note of the report.
 The SPEAKER:
   In accordance with standing order 39, the debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,2,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,2,2,speech
 "Livermore, Kirsten, MP",ALP,2011-05-23,"
 
 
@@ -613,7 +613,7 @@ The delegation met with representatives from Australian businesses with a presen
 
 The delegation was very warmly received, and the delegation members would like to thank the host nations for their friendly hospitality and their willingness to share their experiences with them. I commend the report to the House.
 
-",HoR,<title>DELEGATION REPORTS</title>,<title>Parliamentary Delegation to Bhutan And Mongolia</title>,DELEGATION REPORTS,3,1
+",HoR,<title>DELEGATION REPORTS</title>,<title>Parliamentary Delegation to Bhutan And Mongolia</title>,DELEGATION REPORTS,3,1,speech
 "Hunt, Greg, MP",LP,2011-05-23,"
 
 
@@ -645,7 +645,7 @@ I finally put in context the need for this bill. The Master Electricians Austral
 
 Both organisations, which warned of risks under the Home Insulation Program, which were ignored but were subsequently proven right, currently have extant warnings in relation to the repeated failures, which have now been imported into other government programs. The Home Insulation Program was also a tragic failure. It is time for accountability. This bill must be passed.
 
-",HoR,<title>BILLS</title>,<title>Home Insulation Program (Commission of Inquiry) Bill 2011</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Home Insulation Program (Commission of Inquiry) Bill 2011</title>,BILLS,4,1,speech
 "Owens, Julie, MP",ALP,2011-05-23,"
 
 
@@ -689,7 +689,7 @@ What I have described today clearly demonstrates that the government has been co
 
 So what would a new commission of inquiry achieve? The answer is simple: nothing. The reports undertaken so far have been thorough and comprehensive. A new inquiry would find nothing new and would be a complete waste of taxpayers' money. Importantly, it would distract the government from what it needs to do—that is, deal successfully with the closure of the program. This involves continuing to ensure the safety of households, pursuing those who committed fraud under the program and providing advice to the insulation industry. Just as it did six months ago, by trying to embed a sense of panic in the general public that the government was hiding the results of its safety inspections, the opposition is now trying to create a false impression that the government still has something to hide. Well, the Hawke review and the Auditor-General's report say otherwise. The actions of the opposition today are just the same as they were six months ago: irresponsible, vexatious and time consuming. I ask the House to totally reject this bill and see it for what it is: a cheap and baseless political stunt.
 
-",HoR,<title>BILLS</title>,<title>Home Insulation Program (Commission of Inquiry) Bill 2011</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Home Insulation Program (Commission of Inquiry) Bill 2011</title>,BILLS,4,1,speech
 "Laming, Andrew, MP",LP,2011-05-23,"
 
 
@@ -739,7 +739,7 @@ Ms AE Burke
 Mr LAMING:
   It was appalling to treat employees that way, having only a few years before blamed small business for doing the same thing. We expect better of a government. An inquiry is the right way to get to the bottom of it. This minister still skates along without having been brought to justice, and there are many elements of the way these warnings from ordinary Australians were ignored that need to be revealed.
 
-",HoR,<title>BILLS</title>,<title>Home Insulation Program (Commission of Inquiry) Bill 2011</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Home Insulation Program (Commission of Inquiry) Bill 2011</title>,BILLS,4,1,speech
 "Husic, Ed, MP",ALP,2011-05-23,"
 
 
@@ -790,7 +790,7 @@ So, while complex investigations into these matters are ongoing, before the inve
 
 The government provided a $56 million assistance package to the insulation industry once it decided not to continue with the program, and we remain committed to assisting the industry as much as we can. The government will continue to liaise with industry and state and territory governments over the next few months to determine other contributions that might be made to improve standards. The opposition, however, would have you believe that they have the insulation industry's interests at heart. Nothing could be further from the truth, for the opposition's policy is that the government inspect all 1.2 million homes that had insulation installed under the program. Through this position, the opposition is immediately bringing into question the credentials of hundreds of legitimate installers who did the right thing on the program. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Home Insulation Program (Commission of Inquiry) Bill 2011</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Home Insulation Program (Commission of Inquiry) Bill 2011</title>,BILLS,4,1,speech
 "Van Manen, Bert, MP",LP,2011-05-23,"
 
 
@@ -813,7 +813,7 @@ In my electorate of Forde, one of my constituents, a lady by the name of Jennife
 
 The government must come clean about the safety figures as well as what warnings and advice on the home insulation program were received by ministers from industry, Commonwealth agencies and state and territory agencies. It has been reported that in excess of 20 warnings were received by the government about the risks associated with the program. The government must also advise whether the program had adequate measures in place to ensure that appropriate compliance, safety and quality standards were met. It is only through a properly constituted commission of inquiry with broad terms of reference that these important questions can be answered. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Home Insulation Program (Commission of Inquiry) Bill 2011</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Home Insulation Program (Commission of Inquiry) Bill 2011</title>,BILLS,4,1,speech
 "Rishworth, Amanda, MP",ALP,2011-05-23,"
 
 
@@ -837,7 +837,7 @@ This bill represents yet another political stunt from the opposition. Rather tha
 
 The DEPUTY SPEAKER:  Order! The time allocated for this debate has expired. The debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Home Insulation Program (Commission of Inquiry) Bill 2011</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Home Insulation Program (Commission of Inquiry) Bill 2011</title>,BILLS,4,1,speech
 "Hunt, Greg, MP",LP,2011-05-23,"
 
 
@@ -869,7 +869,7 @@ I finally put in context the need for this bill. The Master Electricians Austral
 
 Both organisations, which warned of risks under the Home Insulation Program, which were ignored but were subsequently proven right, currently have extant warnings in relation to the repeated failures, which have now been imported into other government programs. The Home Insulation Program was also a tragic failure. It is time for accountability. This bill must be passed.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Owens, Julie, MP",ALP,2011-05-23,"
 
 
@@ -913,7 +913,7 @@ What I have described today clearly demonstrates that the government has been co
 
 So what would a new commission of inquiry achieve? The answer is simple: nothing. The reports undertaken so far have been thorough and comprehensive. A new inquiry would find nothing new and would be a complete waste of taxpayers' money. Importantly, it would distract the government from what it needs to do—that is, deal successfully with the closure of the program. This involves continuing to ensure the safety of households, pursuing those who committed fraud under the program and providing advice to the insulation industry. Just as it did six months ago, by trying to embed a sense of panic in the general public that the government was hiding the results of its safety inspections, the opposition is now trying to create a false impression that the government still has something to hide. Well, the Hawke review and the Auditor-General's report say otherwise. The actions of the opposition today are just the same as they were six months ago: irresponsible, vexatious and time consuming. I ask the House to totally reject this bill and see it for what it is: a cheap and baseless political stunt.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Laming, Andrew, MP",LP,2011-05-23,"
 
 
@@ -963,7 +963,7 @@ Ms AE Burke
 Mr LAMING:
   It was appalling to treat employees that way, having only a few years before blamed small business for doing the same thing. We expect better of a government. An inquiry is the right way to get to the bottom of it. This minister still skates along without having been brought to justice, and there are many elements of the way these warnings from ordinary Australians were ignored that need to be revealed.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Husic, Ed, MP",ALP,2011-05-23,"
 
 
@@ -1014,7 +1014,7 @@ So, while complex investigations into these matters are ongoing, before the inve
 
 The government provided a $56 million assistance package to the insulation industry once it decided not to continue with the program, and we remain committed to assisting the industry as much as we can. The government will continue to liaise with industry and state and territory governments over the next few months to determine other contributions that might be made to improve standards. The opposition, however, would have you believe that they have the insulation industry's interests at heart. Nothing could be further from the truth, for the opposition's policy is that the government inspect all 1.2 million homes that had insulation installed under the program. Through this position, the opposition is immediately bringing into question the credentials of hundreds of legitimate installers who did the right thing on the program. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Van Manen, Bert, MP",LP,2011-05-23,"
 
 
@@ -1037,7 +1037,7 @@ In my electorate of Forde, one of my constituents, a lady by the name of Jennife
 
 The government must come clean about the safety figures as well as what warnings and advice on the home insulation program were received by ministers from industry, Commonwealth agencies and state and territory agencies. It has been reported that in excess of 20 warnings were received by the government about the risks associated with the program. The government must also advise whether the program had adequate measures in place to ensure that appropriate compliance, safety and quality standards were met. It is only through a properly constituted commission of inquiry with broad terms of reference that these important questions can be answered. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Rishworth, Amanda, MP",ALP,2011-05-23,"
 
 
@@ -1061,7 +1061,7 @@ This bill represents yet another political stunt from the opposition. Rather tha
 
 The DEPUTY SPEAKER:  Order! The time allocated for this debate has expired. The debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Zappia, Tony, MP",ALP,2011-05-23,"
 
 
@@ -1099,7 +1099,7 @@ The need for adequate funding to support research and development was a recurren
 
 I take the opportunity to thank my colleagues on the committee and also the secretariat for the work that they undertook in order to assist the committee with its findings on this matter. As you would be aware, Madam Deputy Speaker Burke, as a member of that committee, there was a huge amount of work undertaken in order to try to bring this matter back to the House as quickly as possible. I thank all members who participated. I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,"<title>Climate Change, Environment and the Arts Committee</title>",COMMITTEES,7,1
+",HoR,<title>COMMITTEES</title>,"<title>Climate Change, Environment and the Arts Committee</title>",COMMITTEES,7,1,speech
 "Washer, Dr Mal, MP",LP,2011-05-23,"
 
 
@@ -1128,7 +1128,7 @@ The committee received a range of evidence about possible perverse outcomes. Env
 
 In conclusion, while recognising that the government is continuing to undertake consultation and refine operation of the scheme, the committee took the view that the principle of the bills should be supported. On behalf of the opposition members of the committee, we believe that key issues need to be resolved through the Senate process with appropriate amendments including but not limited to: permanence, additionality, protection of Western Australian sovereignty of land use, transparency of the regulations and protection of prime agricultural land. I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,"<title>Climate Change, Environment and the Arts Committee</title>",COMMITTEES,7,1
+",HoR,<title>COMMITTEES</title>,"<title>Climate Change, Environment and the Arts Committee</title>",COMMITTEES,7,1,speech
 "Zappia, Tony, MP",ALP,2011-05-23,"
 
 
@@ -1166,7 +1166,7 @@ The need for adequate funding to support research and development was a recurren
 
 I take the opportunity to thank my colleagues on the committee and also the secretariat for the work that they undertook in order to assist the committee with its findings on this matter. As you would be aware, Madam Deputy Speaker Burke, as a member of that committee, there was a huge amount of work undertaken in order to try to bring this matter back to the House as quickly as possible. I thank all members who participated. I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,7,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,7,2,speech
 "Washer, Dr Mal, MP",LP,2011-05-23,"
 
 
@@ -1195,7 +1195,7 @@ The committee received a range of evidence about possible perverse outcomes. Env
 
 In conclusion, while recognising that the government is continuing to undertake consultation and refine operation of the scheme, the committee took the view that the principle of the bills should be supported. On behalf of the opposition members of the committee, we believe that key issues need to be resolved through the Senate process with appropriate amendments including but not limited to: permanence, additionality, protection of Western Australian sovereignty of land use, transparency of the regulations and protection of prime agricultural land. I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,7,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,7,2,speech
 "Brodtmann, Gai, MP",ALP,2011-05-23,"
 
 
@@ -1260,7 +1260,7 @@ Ms BRODTMANN:
 
 This budget is a strong budget that delivers on key reforms to health and education and to the structure of the economy. Most importantly, it is a Labor budget that is good for Australia and good for Canberra. It is the right budget for its time and I commend it to the House.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,8,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,8,1,speech
 "Hockey, Joe, MP",LP,2011-05-23,"
 
 
@@ -1298,7 +1298,7 @@ This is a typical Labor budget that leaves everyday Australians behind. How? Bec
 
 My colleague, the shadow minister for finance and member for Goldstein, will have something to say about the sneaky way this government has put in an increase in the credit card limit of the Commonwealth to $200 billion. From our perspective, as I said at the National Press Club, this budget was a lost opportunity. This budget was the last chance to do something for everyday Australians and, typical of a Labor budget, they blew it.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,8,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,8,1,speech
 "Bandt, Adam, MP",AG,2011-05-23,"
 
 
@@ -1354,7 +1354,7 @@ This budget continues the 'quarry vision' of past governments; trapped in the he
 
 The mining boom offers enormous opportunities but they are not being taken. We can start to plan for a different direction and a different future. We can ensure our future economic prosperity beyond the mining boom. An innovative economy, prosperous and sustainable, with compassion and equality, is possible; we just need the political courage to get there.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,8,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,8,1,speech
 "Truss, Warren, MP",Nats,2011-05-23,"
 
 
@@ -1407,7 +1407,7 @@ And the budget continues to perpetrate Labor's flawed approach to the Murray-Dar
 
 Despite enjoying the most positive terms of trade in 140 years, Labor is taking us all towards a $107 billion debt. Every day, Labor will have to borrow $135 million and pay $18 million in interest just to pay its bills. This is not a budget that delivers for Australia; it is a budget of debt that lacks vision and will place a huge burden on future generations.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,8,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,8,1,speech
 "Melham, Daryl, MP",ALP,2011-05-23,"
 
 
@@ -1445,7 +1445,7 @@ In the three years that I was a representative, I did not miss a meeting. I had 
 
 This is the first time in 22 years that I have spoken against an effective Labor measure and I have done it as the parliament's representative, and due to the experience I have gained on behalf of the parliament, on the National Library of Australia Council. I believe there has to be another way of extracting those savings, whether they can be obtained from elsewhere in the particular portfolio or whether the government of the day can assist those institutions by quarantining certain aspects of their operations from the efficiency dividend. I think this is a matter that transcends party politics. I do not believe it is something that is being done deliberately, but this is one of those instances where, in my humble opinion, one size does not fit all. That is why, in my view, the operation of the efficiency dividend needs to be looked at in relation to these cultural institutions. There is much being done by all those cultural institutions in terms of the preservation and retaining of our history and our heritage. I know that the National Library is going through a digitisation program. It should not be in a situation where there is some evidence before the Senate estimates committee, which I do not want to fully go into—that was on Monday, 21 February 2011—where there were some details about the effect of the efficiency dividend. Those institutions should be handled in a sensitive way and given a level of flexibility and assistance from the government. You see, we can find money. I know the War Memorial engaged in a wonderful political campaign and got a lot more money than they expected but that is not the conduct the National Library, the Archives or the Museum should have to engage in to, in effect, protect their institutions. The War Memorial did all right. The government was never going to win that debate. I would urge my approach on the government and I know it would have the support of the other side. Senator Trood, who finishes up in June, has been an excellent representative on the council and we worked together without playing politics in this regard. I commend my comments to the government in relation to the efficiency dividend. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,8,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,8,1,speech
 "Robb, Andrew, MP",LP,2011-05-23,"
 
 
@@ -1525,7 +1525,7 @@ The DEPUTY SPEAKER
 Hon. Peter Slipper
 ):  Order! I regret that the standing orders require me—it being 1.45—to state that the debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour and the honourable member will have the opportunity of continuing for the balance of his time. The seconding of that amendment will be dealt with at that appropriate time.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,8,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,8,1,speech
 "Brodtmann, Gai, MP",ALP,2011-05-23,"
 
 
@@ -1590,7 +1590,7 @@ Ms BRODTMANN:
 
 This budget is a strong budget that delivers on key reforms to health and education and to the structure of the economy. Most importantly, it is a Labor budget that is good for Australia and good for Canberra. It is the right budget for its time and I commend it to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2,speech
 "Hockey, Joe, MP",LP,2011-05-23,"
 
 
@@ -1628,7 +1628,7 @@ This is a typical Labor budget that leaves everyday Australians behind. How? Bec
 
 My colleague, the shadow minister for finance and member for Goldstein, will have something to say about the sneaky way this government has put in an increase in the credit card limit of the Commonwealth to $200 billion. From our perspective, as I said at the National Press Club, this budget was a lost opportunity. This budget was the last chance to do something for everyday Australians and, typical of a Labor budget, they blew it.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2,speech
 "Bandt, Adam, MP",AG,2011-05-23,"
 
 
@@ -1684,7 +1684,7 @@ This budget continues the 'quarry vision' of past governments; trapped in the he
 
 The mining boom offers enormous opportunities but they are not being taken. We can start to plan for a different direction and a different future. We can ensure our future economic prosperity beyond the mining boom. An innovative economy, prosperous and sustainable, with compassion and equality, is possible; we just need the political courage to get there.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2,speech
 "Truss, Warren, MP",Nats,2011-05-23,"
 
 
@@ -1737,7 +1737,7 @@ And the budget continues to perpetrate Labor's flawed approach to the Murray-Dar
 
 Despite enjoying the most positive terms of trade in 140 years, Labor is taking us all towards a $107 billion debt. Every day, Labor will have to borrow $135 million and pay $18 million in interest just to pay its bills. This is not a budget that delivers for Australia; it is a budget of debt that lacks vision and will place a huge burden on future generations.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2,speech
 "Melham, Daryl, MP",ALP,2011-05-23,"
 
 
@@ -1775,7 +1775,7 @@ In the three years that I was a representative, I did not miss a meeting. I had 
 
 This is the first time in 22 years that I have spoken against an effective Labor measure and I have done it as the parliament's representative, and due to the experience I have gained on behalf of the parliament, on the National Library of Australia Council. I believe there has to be another way of extracting those savings, whether they can be obtained from elsewhere in the particular portfolio or whether the government of the day can assist those institutions by quarantining certain aspects of their operations from the efficiency dividend. I think this is a matter that transcends party politics. I do not believe it is something that is being done deliberately, but this is one of those instances where, in my humble opinion, one size does not fit all. That is why, in my view, the operation of the efficiency dividend needs to be looked at in relation to these cultural institutions. There is much being done by all those cultural institutions in terms of the preservation and retaining of our history and our heritage. I know that the National Library is going through a digitisation program. It should not be in a situation where there is some evidence before the Senate estimates committee, which I do not want to fully go into—that was on Monday, 21 February 2011—where there were some details about the effect of the efficiency dividend. Those institutions should be handled in a sensitive way and given a level of flexibility and assistance from the government. You see, we can find money. I know the War Memorial engaged in a wonderful political campaign and got a lot more money than they expected but that is not the conduct the National Library, the Archives or the Museum should have to engage in to, in effect, protect their institutions. The War Memorial did all right. The government was never going to win that debate. I would urge my approach on the government and I know it would have the support of the other side. Senator Trood, who finishes up in June, has been an excellent representative on the council and we worked together without playing politics in this regard. I commend my comments to the government in relation to the efficiency dividend. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2,speech
 "Robb, Andrew, MP",LP,2011-05-23,"
 
 
@@ -1855,7 +1855,7 @@ The DEPUTY SPEAKER
 Hon. Peter Slipper
 ):  Order! I regret that the standing orders require me—it being 1.45—to state that the debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour and the honourable member will have the opportunity of continuing for the balance of his time. The seconding of that amendment will be dealt with at that appropriate time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2,speech
 "Laming, Andrew, MP",LP,2011-05-23,"
 
 
@@ -1891,7 +1891,7 @@ through their helpline but turns away 16,000 women and children every year. That
 We had a national awareness program that fell away four years ago. This government should step up and do more but they have not. We know, regardless of socioeconomics, that domestic violence—as we have seen in newspaper headlines and through other media—results in some appalling stories. Together we can do more, but it does not start by finding efficiency savings through the 2011-12 budget.
 
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Domestic Violence</title>,STATEMENTS BY MEMBERS,9,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Domestic Violence</title>,STATEMENTS BY MEMBERS,9,1,speech
 "Gillard, Julia, MP",ALP,2011-05-23,"
 
 
@@ -1917,7 +1917,7 @@ These are fairly basic biographical details that give only an outline of the lon
 
 When he retired in 1989, Mr Hunt left an honourable record of service to his electorate, to this parliament and to our country. That service was rightly acknowledged with an award of an Officer of the Order of Australia in January 1990. Today we therefore express our gratitude for the life and work of Ralph Hunt. We mark his passing with respect and we offer the condolences of the House and the nation to his wife, Miriam, their three children and the other members of his family.
 
-",HoR,<title>CONDOLENCES</title>,<title>Hon. Ralph James Dunnet Hunt AO</title>,CONDOLENCES,10,1
+",HoR,<title>CONDOLENCES</title>,<title>Hon. Ralph James Dunnet Hunt AO</title>,CONDOLENCES,10,1,speech
 "Abbott, Tony, MP",LP,2011-05-23,"
 
 
@@ -1934,7 +1934,7 @@ As health minister, Ralph Hunt managed to reconcile universal access to affordab
 
 But Ralph Hunt's steadfastness was well illustrated by his response to the 'Joh for Canberra' push. He was actually directed by Sir Joh's backers to seize the National Party leadership from the then leader, Ian Sinclair, and then to keep that seat warm for the Queensland Premier. Ralph Hunt's response was that that would not save Australia from a bad government—showing a very sensible attitude. The important thing is always to do what is necessary to save Australia from a bad government. That is what Ralph Hunt did then and that is what others have tried to do subsequently. Ralph Hunt was widely regarded on both sides of this chamber as one of the gentlemen of the parliament. He was living proof that it was possible to be a `serious and competitive person in public life without sacrificing decency or humanity. His successor as member for Gwydir asked me to tell the parliament today that he found Ralph Hunt a thoughtful and considerate mentor, not only to him but to many of his contemporaries in the National Party. John Anderson recalls the standard advice that Ralph Hunt used to give young members of parliament or, indeed, young would-be members of parliament. He would say, 'Never forget that you will be hated by some who support you and liked by some who oppose you. ' John said that he liked to translate this somewhat Delphic advice as: if you try hard enough you can win over almost anyone—and that is probably not a bad motto for a fine and distinguished member of this House to be remembered by. On behalf of the federal parliamentary Liberal Party and the federal coalition, I pass on to Ralph Hunt's widow, Miriam, and children our condolences and our best wishes for the future in this sad and difficult time.
 
-",HoR,<title>CONDOLENCES</title>,<title>Hon. Ralph James Dunnet Hunt AO</title>,CONDOLENCES,10,1
+",HoR,<title>CONDOLENCES</title>,<title>Hon. Ralph James Dunnet Hunt AO</title>,CONDOLENCES,10,1,speech
 "Truss, Warren, MP",Nats,2011-05-23,"
 
 
@@ -1972,7 +1972,7 @@ Honourable members having stood in their places—
 
 Debate adjourned.
 
-",HoR,<title>CONDOLENCES</title>,<title>Hon. Ralph James Dunnet Hunt AO</title>,CONDOLENCES,10,1
+",HoR,<title>CONDOLENCES</title>,<title>Hon. Ralph James Dunnet Hunt AO</title>,CONDOLENCES,10,1,speech
 "Albanese, Anthony, MP",ALP,2011-05-23,"
 
 
@@ -1991,7 +1991,7 @@ s motion of condolence in connection with the death of the Hon. Ralph James Dunn
 
 Question agreed to.
 
-",HoR,<title>CONDOLENCES</title>,<title>Hon. Ralph James Dunnet Hunt AO</title>,CONDOLENCES,10,1
+",HoR,<title>CONDOLENCES</title>,<title>Hon. Ralph James Dunnet Hunt AO</title>,CONDOLENCES,10,1,speech
 "Albanese, Anthony, MP",ALP,2011-05-23,"
 
 
@@ -2010,7 +2010,135 @@ s motion of condolence in connection with the death of the Hon. Ralph James Dunn
 
 Question agreed to.
 
-",HoR,<title>CONDOLENCES</title>,<title>Reference to Main Committee</title>,CONDOLENCES,10,2
+",HoR,<title>CONDOLENCES</title>,<title>Reference to Main Committee</title>,CONDOLENCES,10,2,speech
+"Abbott, Tony, MP",LP,2011-05-23,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:15):  My question is to the Prime Minister. I refer her to death threats against guards at the Darwin and Inverbrackie detention centres, a homemade bomb found at the Villawood detention centre and a full-scale riot at the Christmas Island detention centre—which had to be retaken by force. Given that there are now three critical incidents a day in a system in crisis, will the government join the coalition in supporting a full inquiry by this parliament into this system in crisis?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,12,1,question
+"Abbott, Tony, MP",LP,2011-05-23,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:18):  Mr Speaker, I ask a supplementary question. Prime Minister, given your answer, will you mind confirming to the House that the total number of boat people in detention in November 2007 was just six? Would you also mind confirming to the House that the total number of boat people who have arrived in the first three months of this year is almost three times the total number that arrived in the last six years of the Howard government?
+
+
+
+
+Mr Albanese:
+  Mr Speaker, I rise on a point of order. The supplementary question must relate to the substance of the original question. That certainly does not, and it quite clearly was out of order.
+
+
+
+
+The SPEAKER:
+  Order! It is probably no more out of order than the original question and response. On that basis I will allow the supplementary, but I would remind members that there is far too much debate in both questions and answers—even though debate is allowed in answers.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,12,1,question
+"Gillard, Julia, MP",ALP,2011-05-23,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:16):  I thank the Leader of the Opposition for his question. What I would say to the Leader of the Opposition is that I am well aware that he and his spokesperson, the shadow minister, have been out playing politics on this. We all know, of course, that they are not interested in the policy, because, if they were interested in the policy, presumably they would be supporting an inquiry that looked at not only detention now but also detention under the Howard government and that looked at, for example, the breakout from Woomera. Do we remember that? Perhaps it could look at the incarceration of an Australian, Cornelia Rau. Do we remember that? Perhaps it could even traverse the children overboard affair and the deliberate misleading of the Australian people at an election.
+
+
+As the Leader of the Opposition well knows, the government has been very transparent about circumstances in detention centres. What I would say to the Leader of the Opposition is: before he throws around words, he ought to acknowledge, for example, that incidents are of course catalogued and they can range from something like a very simple health complaint by an asylum seeker through to something more serious.
+
+
+In relation to incidents in detention centres, the Minister for Immigration and Citizenship has ordered inquiries. They are publicly known, and the opposition has the opportunity in Senate estimates to ask any questions that it genuinely has on the policy. But what I would say to the Leader of the Opposition is that at some point he has to work out whether he is only interested in the politics of this or whether he is interested in the policy. If he is genuinely interested in the policy, he may want to let us know. But, as we know from characterisations by senior members of his own frontbench, policy is not his strong suit.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,12,1,answer
+"Gillard, Julia, MP",ALP,2011-05-23,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:20):  If the Leader of the Opposition is interested in fact then, yes, I can confirm that an Australian was incarcerated in a detention centre under the Howard government; yes, I can confirm that the then minister for immigration referred to a child as 'it' under the Howard government; yes, I can confirm that there was a mass breakout from Woomera under the Howard government; and, yes, I can confirm that this government has taken steps to address the difficulties we saw in detention under the Howard government—most particularly, difficulties relating to the treatment of women and children.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,12,1,answer
+"Morrison, Scott, MP",LP,2011-05-23,"
+
+
+
+Mr MORRISON
+ (Cook) (14:28):  My question is to the Prime Minister. I refer the Prime Minister to a statement in this House that it is completely untrue that Malaysia and not Australia would choose the 800 people Malaysia will take from Australia under her five-for-one people-swap deal. Can the Prime Minister confirm that Malaysia will not have any right of veto under her proposal?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,14,1,question
+"Gillard, Julia, MP",ALP,2011-05-23,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:28):  I say to the member who asked the question—a member who is known for playing politics in this area rather than anything associated with the policy, most graphically demonstrated when he played politics with the funerals of asylum seekers—that we are working with Malaysia on an innovative transfer agreement. As part of that transfer agreement, we would bring to Australia people who are genuine refugees, who are processed in Malaysia and who are already there now and are waiting a resettlement opportunity. The processes we would go through would be comparable to the processes we go through when we take other refugees in other parts of the world under the humanitarian—
+
+
+
+
+Mr Abbott:
+  I rise on a point of order on relevance. The Prime Minister was asked, 'Would Malaysia have any right of veto over the 800 going to that country?' She should answer yes or no to that question.
+
+
+
+
+The SPEAKER:
+  I will listen carefully to the Prime Minister's response. It would assist if those who are making the noise that prevents me from hearing her sat there in silence.
+
+
+
+
+Ms GILLARD:
+  My recollection is that the quote that the shadow minister is using is a statement that I made when I was asked about the selection of people under the humanitarian intake to come here, but I am happy to describe both parts of the arrangement. As I was saying before the Leader of the Opposition took his point of order, in terms of our increased humanitarian intake, the shadow minister would be aware that we take humanitarian intake from around the world. We have processes to do that. We are looking to increase our humanitarian intake. I know that there are some days when the opposition opposes that; there are some days when they are prepared, in pursuit of political deals, to offer to double the humanitarian quota, with the $3 billion cost that that would imply. That was the approach taken by the Leader of the Opposition in the lead-up to government being formed.
+
+
+On the issue of the asylum seekers to be returned, we are working with Malaysia on the transfer agreement. Its aim is to break the people-smugglers' business model. As I have said to his House before, I am not ruling in or ruling out arrangements in relation to that 800. But the message to people-smugglers is clear: if you risk coming here on a boat then the risk that you run is that will end up in Malaysia at the back of the queue. I say to the opposition that there does come a point at which their playing of politics with this is genuinely destructive to the national interest. They ought to contemplate what they are doing as they approach that point.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,14,1,answer
+"Fitzgibbon, Joel, MP",ALP,2011-05-23,"
+
+
+
+Mr FITZGIBBON
+ (Hunter—Chief Government Whip) (14:54):  My question is to the Prime Minister. Prime Minister, how have the government's changes to youth allowance increased the participation of rural and regional students in higher education, and how does the budget assist students in gaining the skills they need to prepare for work?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,16,1,question
+"Gillard, Julia, MP",ALP,2011-05-23,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:54):  I thank the member for Hunter, the Chief Government Whip, for his question. It is a great question which enables me to inform the House of some very good news. The budget, of course, was all about jobs and opportunities for Australians, because for people in this country having the benefit of work is a fundamental part of being sure that you can make a life for yourself and your family. To get that all-important job, then be able to get the next job and a better job requires that people have access to opportunity. Since the budget, we have been talking about the budget's measures to spread opportunity to people who have been locked outside the benefits and dignity of work; the budget's measures to spread opportunity through enabling Australians, young and old, to upgrade their skills through our $3 billion investment in skills.
+
+
+These policies build on reforms that this government has already delivered, most particularly reforms in education. Today I want to focus on the reforms in our university system—another way we are spreading opportunities to Australians. This morning I visited the University of Canberra, where I met a number of students who are benefiting from our youth allowance reforms. We have seen a 23 per cent growth in the number of undergraduate places since 2009.
+
+
+
+Mr McCormack interjecting—
+
+
+
+
+The SPEAKER:
+  The member for Riverina is warned.
+
+
+
+
+Ms GILLARD:
+  I would have thought that were something that every member of the parliament could celebrate: more students having an opportunity to get a place at a university. I would have thought that would receive shared congratulations. That means 23 per cent more people are having the benefit of that kind of opportunity.
+
+
+When we look at youth allowance, we see an extra 21,000 university students are now receiving youth allowance. In just 12 months, the number of dependant students from disadvantaged backgrounds receiving the maximum youth allowance student payment has increased by 108 per cent—it has more than doubled. The number of regional and rural students receiving student youth allowance has increased by 22 per cent. For those who genuinely care about the fortunes of rural and regional students, that is good news. In total, more than 107,000 young people have benefited because they are now receiving youth allowance the first time or because they are receiving more in their payment. More than 36,000 of these young people are from rural and regional areas. Once again, that is something I would have thought would be received as good news. There has been a 50 per cent increase in the number of regional and rural students receiving dependant youth allowance. In the past 12 months more than 240,000 university students have received start-up scholarships, with 55,000 of those students coming from rural and regional areas, and 36,000 students have received relocation assistance, which has of course gone to students from rural and regional areas too.
+
+
+For those who care about opportunity in our society, for those who care about turning around the trend under the Howard government of the participation rate of rural and regional kids in university going down, the good news is we have turned that trend around and participation is going back up. That is a great thing for rural and regional Australia. It is a great thing for those who celebrate a fair distribution of opportunity in our society.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,16,1,answer
 "Jenkins, Harry, MP",ALP,2011-05-23,"
 
 
@@ -2045,7 +2173,7 @@ The SPEAKER:
 
 Ordered that the reports be made parliamentary papers.
 
-",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,"<title>Reports Nos 40, 41 and 42</title>",AUDITOR-GENERAL'S REPORTS,18,1
+",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,"<title>Reports Nos 40, 41 and 42</title>",AUDITOR-GENERAL'S REPORTS,18,1,speech
 "Jenkins, Harry, MP",ALP,2011-05-23,"
 
 
@@ -2053,7 +2181,7 @@ Ordered that the reports be made parliamentary papers.
 The SPEAKER:
   I have received advice from the Chief Opposition Whip that he has nominated Ms Marino to be a member of the Selection Committee in place of himself.
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,20,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,20,1,speech
 "Albanese, Anthony, MP",ALP,2011-05-23,"
 
 
@@ -2082,7 +2210,7 @@ What we see now is that people are being replaced—indeed, we have the extraord
 
 The fact is that the opposition are at war with themselves, not just in terms of leadership but when it comes down to minor committees of the parliament, including this committee. I commend the motion to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,20,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,20,1,speech
 "Pyne, Christopher, MP",LP,2011-05-23,"
 
 
@@ -2093,7 +2221,7 @@ Mr PYNE
 
 I am embarrassed for the Leader of the House. I am sure he was not aware of that. I would ask him to return to the dispatch box and apologise for what was a very low act—done, I assume, in ignorance. I am sure that if he had known that was the case he would never have made such an absurd contribution, which is now in the record of Hansard and which I have now had the opportunity to clarify.
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,20,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,20,1,speech
 "Fitzgibbon, Joel, MP",ALP,2011-05-23,"
 
 
@@ -2113,7 +2241,7 @@ I assume that the Leader of the House is now going to have to rise on Wednesday 
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,20,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,20,1,speech
 "Jenkins, Harry, MP",ALP,2011-05-23,"
 
 
@@ -2121,7 +2249,7 @@ Question agreed to.
 The SPEAKER:
   I have received advice from the Chief Opposition Whip that he has nominated Ms Marino to be a member of the Selection Committee in place of himself.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,20,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,20,2,speech
 "Albanese, Anthony, MP",ALP,2011-05-23,"
 
 
@@ -2150,7 +2278,7 @@ What we see now is that people are being replaced—indeed, we have the extraord
 
 The fact is that the opposition are at war with themselves, not just in terms of leadership but when it comes down to minor committees of the parliament, including this committee. I commend the motion to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,20,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,20,2,speech
 "Pyne, Christopher, MP",LP,2011-05-23,"
 
 
@@ -2161,7 +2289,7 @@ Mr PYNE
 
 I am embarrassed for the Leader of the House. I am sure he was not aware of that. I would ask him to return to the dispatch box and apologise for what was a very low act—done, I assume, in ignorance. I am sure that if he had known that was the case he would never have made such an absurd contribution, which is now in the record of Hansard and which I have now had the opportunity to clarify.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,20,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,20,2,speech
 "Fitzgibbon, Joel, MP",ALP,2011-05-23,"
 
 
@@ -2181,7 +2309,7 @@ I assume that the Leader of the House is now going to have to rise on Wednesday 
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,20,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,20,2,speech
 "Robb, Andrew, MP",LP,2011-05-23,"
 
 
@@ -2217,7 +2345,7 @@ The DEPUTY SPEAKER:  Is the amendment seconded?
 Mr TONY SMITH:
   I second the amendment.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Leigh, Andrew, MP",ALP,2011-05-23,"
 
 
@@ -2267,7 +2395,7 @@ We are also helping small business through the immediate depreciation deduction,
 
 With taxes, we build society. Tax reform needs to be grounded in good, strong economics. It needs to reflect the values of Australian and we need to recognise when those values change. When values about environmental protection change, we need to reform fringe benefits systems that create perverse incentives to drive cars further. When norms about dependent spouses change, we need to reform old tax laws that are based on outdated 1930s notions. We need to keep on making these updates because we in the Labor Party recognise that economic reform is not something that we do once and then forget about. It is an ongoing process. It is important that we engage in that ongoing process and use opportunities like the Henry tax review, which has laid down many of the key principles important in devising the architecture of Australia's tax system. It is important that—as we in the government do in the case of climate change—we listen to the advice of economists and take into account that our tax system needs to be shaped by expert advice. Those in the opposition are sometimes too willing to go for the quick sound bite and too willing to ignore expert advice on climate change and tax reform. We in the Labor Party are committed to ongoing economic reform and to improving our tax system so that it is simpler, fairer and as efficient as possible.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Ley, Sussan, MP",LP,2011-05-23,"
 
 
@@ -2333,7 +2461,7 @@ I want to mention one more thing because it is critical to the electorate of Far
 
 As I have said many times, it is possible to get a balance between irrigated agriculture and the environment. It is not a zero-sum game; you do not need to have one or the other. It is time that the government listened to those rural communities and understood their perspective when they voice their real concerns about the effects of this plan on their future. I am delighted to have been a member of that committee. I know that we have done some good work. In travelling the country, we have heard the truth and it is important that we reflect that in this place when it comes to a final report. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Hayes, Chris, MP",ALP,2011-05-23,"
 
 
@@ -2380,7 +2508,7 @@ Another commitment I made was to bring greater awareness to the issue of domesti
 
 Lastly, when I was elected, I said I would give whatever support I possibly could to the police in my region, who do valuable work in protecting our community. I have had a long commitment to working with the police. In the main I have been their advocate on various issues in state and territory police jurisdictions as well as the Australian Federal Police. I try to give the police in my electorate all the assistance I can because they do a fantastic job, sometimes under very, very difficult circumstances. I acknowledge that the police are a particular class of person; it takes a very special person to put on a police uniform and go out there day after day and do what is necessary to look after the community. I know, Madam Deputy Speaker D'Ath, you know that because your husband, George, is a policeman in Queensland and does a sterling job up there. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Simpkins, Luke, MP",LP,2011-05-23,"
 
 
@@ -2436,7 +2564,7 @@ I said at the outset that the two major issues raised with me by my constituents
 
 On the carbon tax, not only is it a terrible lie that has been told to the Australian people for political expediency, but the suggestion that it will in some way be effective in reducing carbon dioxide in the atmosphere and thereby reduce global temperatures is an even bigger lie. These are two of the many issues on which the government, if it really believed in itself, would seek an election to demonstrate its mandate. The reality is that the only thing this government now believes in is the maintenance of power, and sadly that overrides all other considerations.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Husic, Ed, MP",ALP,2011-05-23,"
 
 
@@ -2495,7 +2623,7 @@ On investing in skills and nation building, the NBN is the largest nation-buildi
 
 This is possible because of the range of decisive measures taken by the government, investing in the nation while at the same time ensuring that we are pulling back. It is worth noting we are engaged in the fastest period of fiscal consolidation that has been seen in four decades. The government will not stand in the way of businesses trying to access money for the purpose of the investment that I reflected upon earlier. We will see that fiscal consolidation having great benefits for the economy. While we are pulling back the amount of money that we are drawing upon in the economy, we will also make sure that we are investing in the skills and infrastructure needs of the nation. I am delighted to support the way that the government has been able to achieve those objectives in the way that it has in this budget. This year's solid budget will deliver for Australian families and it will return us to surplus. We have committed to providing savings for the future. The budget will look after the most vulnerable and, most importantly, support families. I commend the budget to the House.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Katter, Bob, MP",AUS,2011-05-23,"
 
 
@@ -2542,7 +2670,7 @@ I have never been enamoured of balanced budgets. If you go out and spend money o
 
 I will conclude on the issue of interest rates. Australia has five per cent. The RBA sets our interest rates at five per cent. The last time I looked, in the European Union, the EU, it is one per cent, in America it is 0.1 per cent and in Japan it is 0.1 per cent. Why are we out of step with the rest of the world? It is costing us. It is driving our dollar through the roof and wrecking our export industries. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Perrett, Graham, MP",ALP,2011-05-23,"
 
 
@@ -2586,7 +2714,7 @@ I have learnt a lot about lifts since January this year, when the floods went th
 
 This budget before us is all about being a Labor budget and it confirms the fact that Labor has an economic vision. Despite the tough times, despite to the budget that have come with the cyclones in Queensland, the floods in Victoria, the floods in Queensland and other natural disasters. The Gillard-Swan budget is to be commended. I am sure when in time we look back we will see that it made a significant contribution to the future of Australia.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Baldwin, Bob, MP",LP,2011-05-23,"
 
 
@@ -2657,7 +2785,7 @@ The tourism industry is wearing the burden of Labor's debt and deficits without 
 
 The tourism industry deserves more than a throw-away line in the Treasurer's budget speech. The tourism industry deserves a government that will deliver real money and real action to support the industry, and the Gillard government stands condemned for failing to deliver it. What we see from this government is waste, mismanagement, recklessness and an abandonment of the industries that require the support of the Australian government. This government has failed the simple test of one that is there for the betterment of Australia.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Sidebottom, Sid, MP",ALP,2011-05-23,"
 
 
@@ -2759,7 +2887,7 @@ Having the national books in the black would be a big psychological plus in an e
 
 I think that, in a sense, is a fair assessment of this budget, warts and all. It offers fair savings and reasonable expenditure in areas of need, particularly trying to grow the economy, to grow jobs, to grow apprenticeships, to grow skills and training and, of course, to support education. I would also thank the government to this point for its selection of part of my region to receive extra assistance to support jobless families, young parents who are unemployed and the long-term unemployed. Unemployment is entrenched in some parts of my region and needs this extra support. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Wyatt, Ken, MP",LP,2011-05-23,"
 
 
@@ -2834,7 +2962,7 @@ Access to primary health care should be universal to all my constituents but, un
 
 The government measures for the seat of Hasluck do not fully address the extent of need that is required. I hope that in future years, as we approach future budgets, my advocacy and the arguments that I will put forward will become a focus of the work that I undertake in the fight to gain their share of the federal budget for the programs that are needed. It is important, as I said in my maiden speech, that ministers are there for all Australians, that in the allocation of resources for infrastructure programs and services all families in this country be considered equally in the context of need and also in the context of economic development and opportunities that in life need to be afforded to them by government.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Ripoll, Bernie, MP",ALP,2011-05-23,"
 
 
@@ -2875,7 +3003,7 @@ In digital assistance we are providing $31.8 million over three years to provide
 
 This has been a good budget. It is a tough budget, but it is a fair budget that gets the balance right and will get us back in the black.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Broadbent, Russell, MP",LP,2011-05-23,"
 
 
@@ -2925,7 +3053,7 @@ I have some dreams that I would like to happen. I would like future governments 
 
 We have great opportunities in this country to make a real difference not only nationally but to the world. We are good thinkers and we are good innovators. We can from this day forth take those opportunities and bring them to the attention of the world. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Danby, Michael, MP",ALP,2011-05-23,"
 
 
@@ -2978,7 +3106,7 @@ There are 120-plus missions of various countries here in Canberra. There are cou
 
 In contrast to the member for McMillan, I am very supportive of this budget and the Prime Minister. I think this budget's contribution to skills training and mental health, and the government's responsibility in bringing the budget back to surplus, are very good elements. But Australia must do more to ensure that as a big, confident and wealthy country we have proper representation overseas. We need to look very closely at where our foreign missions are based, and we need more of them.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Stone, Dr Sharman, MP",LP,2011-05-23,"
 
 
@@ -3034,7 +3162,7 @@ I could go on declaiming and despairing about the lack of research and developme
 
 This government does not seem to understand what needs to happen in this country. They do not care about future generations who will live beyond their own electorates. That is a shocking disgrace in a parliamentary democracy. I am afraid we might have two years before the next election. A lot of people in my electorate simply cannot wait that long.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Jones, Stephen, MP",ALP,2011-05-23,"
 
 
@@ -3081,7 +3209,7 @@ We are doing this all in the context of bringing the budget back into surplus by
 
 I would like to conclude on an issue that was raised by the member for Banks in his speech in this debate, where he talked about his support for the government doing everything it could to ensure that we were spending in the most effective and efficient way possible. He made a contribution to the debate about the efficiency dividend, which has been increased in this budget by 0.25 per cent to 1.5 per cent. This is an annual cut to the running costs of public sector agencies, or the majority of public sector agencies. I have in a former life been very critical of this as a blunt instrument. I stand shoulder to shoulder with every other member on this side of the House on the need for the government to find savings and efficiencies wherever possible. I believe that the public sector needs to ensure that it is able to perform its functions in the most efficient and effective way possible. But I maintain my belief that I think that the efficiency dividend is a very blunt instrument, and I would like to work with all members of this House and others to ensure that, in the years to come, it can be replaced by a much more sophisticated instrument that does not disadvantage the sorts of agencies that were alluded to by the member for Banks—the small cultural agencies and the small central agencies—and also those agencies that are providing welfare and other assistance to the most needy in society. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Gash, Joanna, MP",LP,2011-05-23,"
 
 
@@ -3140,7 +3268,7 @@ We did not elect Senator Bob Brown to run this country but that is what is happe
 
 The Prime Minister got elected on her promise that there would be no carbon tax. Now that she has broken that promise she has no mandate. Under the conventions of the Westminster system that binds all ministers of the crown—and if she had any sense of decency—she should go back to the people. If she refuses to do so then she is repudiating centuries of democratic principles to which Australians expect their government to subscribe to and honour.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Rowland, Michelle, MP",ALP,2011-05-23,"
 
 
@@ -3217,7 +3345,7 @@ The DEPUTY SPEAKER
 Ms K Livermore
 ):  Order! The debate is interrupted in accordance with standing order 34. The debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting. The member for Greenway will have leave to continue speaking when the debate is resumed.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 1) 2011-2012, Appropriation Bill (No. 2) 2011-2012, Appropriation (Parliamentary Departments) Bill (No. 1) 2011-2012</title>",BILLS,21,1,speech
 "Robb, Andrew, MP",LP,2011-05-23,"
 
 
@@ -3253,7 +3381,7 @@ The DEPUTY SPEAKER:  Is the amendment seconded?
 Mr TONY SMITH:
   I second the amendment.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Leigh, Andrew, MP",ALP,2011-05-23,"
 
 
@@ -3303,7 +3431,7 @@ We are also helping small business through the immediate depreciation deduction,
 
 With taxes, we build society. Tax reform needs to be grounded in good, strong economics. It needs to reflect the values of Australian and we need to recognise when those values change. When values about environmental protection change, we need to reform fringe benefits systems that create perverse incentives to drive cars further. When norms about dependent spouses change, we need to reform old tax laws that are based on outdated 1930s notions. We need to keep on making these updates because we in the Labor Party recognise that economic reform is not something that we do once and then forget about. It is an ongoing process. It is important that we engage in that ongoing process and use opportunities like the Henry tax review, which has laid down many of the key principles important in devising the architecture of Australia's tax system. It is important that—as we in the government do in the case of climate change—we listen to the advice of economists and take into account that our tax system needs to be shaped by expert advice. Those in the opposition are sometimes too willing to go for the quick sound bite and too willing to ignore expert advice on climate change and tax reform. We in the Labor Party are committed to ongoing economic reform and to improving our tax system so that it is simpler, fairer and as efficient as possible.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Ley, Sussan, MP",LP,2011-05-23,"
 
 
@@ -3369,7 +3497,7 @@ I want to mention one more thing because it is critical to the electorate of Far
 
 As I have said many times, it is possible to get a balance between irrigated agriculture and the environment. It is not a zero-sum game; you do not need to have one or the other. It is time that the government listened to those rural communities and understood their perspective when they voice their real concerns about the effects of this plan on their future. I am delighted to have been a member of that committee. I know that we have done some good work. In travelling the country, we have heard the truth and it is important that we reflect that in this place when it comes to a final report. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Hayes, Chris, MP",ALP,2011-05-23,"
 
 
@@ -3416,7 +3544,7 @@ Another commitment I made was to bring greater awareness to the issue of domesti
 
 Lastly, when I was elected, I said I would give whatever support I possibly could to the police in my region, who do valuable work in protecting our community. I have had a long commitment to working with the police. In the main I have been their advocate on various issues in state and territory police jurisdictions as well as the Australian Federal Police. I try to give the police in my electorate all the assistance I can because they do a fantastic job, sometimes under very, very difficult circumstances. I acknowledge that the police are a particular class of person; it takes a very special person to put on a police uniform and go out there day after day and do what is necessary to look after the community. I know, Madam Deputy Speaker D'Ath, you know that because your husband, George, is a policeman in Queensland and does a sterling job up there. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Simpkins, Luke, MP",LP,2011-05-23,"
 
 
@@ -3472,7 +3600,7 @@ I said at the outset that the two major issues raised with me by my constituents
 
 On the carbon tax, not only is it a terrible lie that has been told to the Australian people for political expediency, but the suggestion that it will in some way be effective in reducing carbon dioxide in the atmosphere and thereby reduce global temperatures is an even bigger lie. These are two of the many issues on which the government, if it really believed in itself, would seek an election to demonstrate its mandate. The reality is that the only thing this government now believes in is the maintenance of power, and sadly that overrides all other considerations.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Husic, Ed, MP",ALP,2011-05-23,"
 
 
@@ -3531,7 +3659,7 @@ On investing in skills and nation building, the NBN is the largest nation-buildi
 
 This is possible because of the range of decisive measures taken by the government, investing in the nation while at the same time ensuring that we are pulling back. It is worth noting we are engaged in the fastest period of fiscal consolidation that has been seen in four decades. The government will not stand in the way of businesses trying to access money for the purpose of the investment that I reflected upon earlier. We will see that fiscal consolidation having great benefits for the economy. While we are pulling back the amount of money that we are drawing upon in the economy, we will also make sure that we are investing in the skills and infrastructure needs of the nation. I am delighted to support the way that the government has been able to achieve those objectives in the way that it has in this budget. This year's solid budget will deliver for Australian families and it will return us to surplus. We have committed to providing savings for the future. The budget will look after the most vulnerable and, most importantly, support families. I commend the budget to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Katter, Bob, MP",AUS,2011-05-23,"
 
 
@@ -3578,7 +3706,7 @@ I have never been enamoured of balanced budgets. If you go out and spend money o
 
 I will conclude on the issue of interest rates. Australia has five per cent. The RBA sets our interest rates at five per cent. The last time I looked, in the European Union, the EU, it is one per cent, in America it is 0.1 per cent and in Japan it is 0.1 per cent. Why are we out of step with the rest of the world? It is costing us. It is driving our dollar through the roof and wrecking our export industries. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Perrett, Graham, MP",ALP,2011-05-23,"
 
 
@@ -3622,7 +3750,7 @@ I have learnt a lot about lifts since January this year, when the floods went th
 
 This budget before us is all about being a Labor budget and it confirms the fact that Labor has an economic vision. Despite the tough times, despite to the budget that have come with the cyclones in Queensland, the floods in Victoria, the floods in Queensland and other natural disasters. The Gillard-Swan budget is to be commended. I am sure when in time we look back we will see that it made a significant contribution to the future of Australia.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Baldwin, Bob, MP",LP,2011-05-23,"
 
 
@@ -3693,7 +3821,7 @@ The tourism industry is wearing the burden of Labor's debt and deficits without 
 
 The tourism industry deserves more than a throw-away line in the Treasurer's budget speech. The tourism industry deserves a government that will deliver real money and real action to support the industry, and the Gillard government stands condemned for failing to deliver it. What we see from this government is waste, mismanagement, recklessness and an abandonment of the industries that require the support of the Australian government. This government has failed the simple test of one that is there for the betterment of Australia.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Sidebottom, Sid, MP",ALP,2011-05-23,"
 
 
@@ -3795,7 +3923,7 @@ Having the national books in the black would be a big psychological plus in an e
 
 I think that, in a sense, is a fair assessment of this budget, warts and all. It offers fair savings and reasonable expenditure in areas of need, particularly trying to grow the economy, to grow jobs, to grow apprenticeships, to grow skills and training and, of course, to support education. I would also thank the government to this point for its selection of part of my region to receive extra assistance to support jobless families, young parents who are unemployed and the long-term unemployed. Unemployment is entrenched in some parts of my region and needs this extra support. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Wyatt, Ken, MP",LP,2011-05-23,"
 
 
@@ -3870,7 +3998,7 @@ Access to primary health care should be universal to all my constituents but, un
 
 The government measures for the seat of Hasluck do not fully address the extent of need that is required. I hope that in future years, as we approach future budgets, my advocacy and the arguments that I will put forward will become a focus of the work that I undertake in the fight to gain their share of the federal budget for the programs that are needed. It is important, as I said in my maiden speech, that ministers are there for all Australians, that in the allocation of resources for infrastructure programs and services all families in this country be considered equally in the context of need and also in the context of economic development and opportunities that in life need to be afforded to them by government.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Ripoll, Bernie, MP",ALP,2011-05-23,"
 
 
@@ -3911,7 +4039,7 @@ In digital assistance we are providing $31.8 million over three years to provide
 
 This has been a good budget. It is a tough budget, but it is a fair budget that gets the balance right and will get us back in the black.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Broadbent, Russell, MP",LP,2011-05-23,"
 
 
@@ -3961,7 +4089,7 @@ I have some dreams that I would like to happen. I would like future governments 
 
 We have great opportunities in this country to make a real difference not only nationally but to the world. We are good thinkers and we are good innovators. We can from this day forth take those opportunities and bring them to the attention of the world. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Danby, Michael, MP",ALP,2011-05-23,"
 
 
@@ -4014,7 +4142,7 @@ There are 120-plus missions of various countries here in Canberra. There are cou
 
 In contrast to the member for McMillan, I am very supportive of this budget and the Prime Minister. I think this budget's contribution to skills training and mental health, and the government's responsibility in bringing the budget back to surplus, are very good elements. But Australia must do more to ensure that as a big, confident and wealthy country we have proper representation overseas. We need to look very closely at where our foreign missions are based, and we need more of them.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Stone, Dr Sharman, MP",LP,2011-05-23,"
 
 
@@ -4070,7 +4198,7 @@ I could go on declaiming and despairing about the lack of research and developme
 
 This government does not seem to understand what needs to happen in this country. They do not care about future generations who will live beyond their own electorates. That is a shocking disgrace in a parliamentary democracy. I am afraid we might have two years before the next election. A lot of people in my electorate simply cannot wait that long.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Jones, Stephen, MP",ALP,2011-05-23,"
 
 
@@ -4117,7 +4245,7 @@ We are doing this all in the context of bringing the budget back into surplus by
 
 I would like to conclude on an issue that was raised by the member for Banks in his speech in this debate, where he talked about his support for the government doing everything it could to ensure that we were spending in the most effective and efficient way possible. He made a contribution to the debate about the efficiency dividend, which has been increased in this budget by 0.25 per cent to 1.5 per cent. This is an annual cut to the running costs of public sector agencies, or the majority of public sector agencies. I have in a former life been very critical of this as a blunt instrument. I stand shoulder to shoulder with every other member on this side of the House on the need for the government to find savings and efficiencies wherever possible. I believe that the public sector needs to ensure that it is able to perform its functions in the most efficient and effective way possible. But I maintain my belief that I think that the efficiency dividend is a very blunt instrument, and I would like to work with all members of this House and others to ensure that, in the years to come, it can be replaced by a much more sophisticated instrument that does not disadvantage the sorts of agencies that were alluded to by the member for Banks—the small cultural agencies and the small central agencies—and also those agencies that are providing welfare and other assistance to the most needy in society. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Gash, Joanna, MP",LP,2011-05-23,"
 
 
@@ -4176,7 +4304,7 @@ We did not elect Senator Bob Brown to run this country but that is what is happe
 
 The Prime Minister got elected on her promise that there would be no carbon tax. Now that she has broken that promise she has no mandate. Under the conventions of the Westminster system that binds all ministers of the crown—and if she had any sense of decency—she should go back to the people. If she refuses to do so then she is repudiating centuries of democratic principles to which Australians expect their government to subscribe to and honour.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Rowland, Michelle, MP",ALP,2011-05-23,"
 
 
@@ -4253,7 +4381,7 @@ The DEPUTY SPEAKER
 Ms K Livermore
 ):  Order! The debate is interrupted in accordance with standing order 34. The debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting. The member for Greenway will have leave to continue speaking when the debate is resumed.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Jones, Stephen, MP",ALP,2011-05-23,"
 
 
@@ -4312,7 +4440,7 @@ The DEPUTY SPEAKER
 Ms K Livermore
 ):  Is the motion seconded?
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Fiscal Strategy</title>,PRIVATE MEMBERS' BUSINESS,22,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Fiscal Strategy</title>,PRIVATE MEMBERS' BUSINESS,22,1,speech
 "Kelly, Craig, MP",LP,2011-05-23,"
 
 
@@ -4353,7 +4481,7 @@ Now let us have a look at how the Gillard government is managing inflation to wh
 
 Finally, this motion concludes with talking about the right course of action for Australia's long-term economic prosperity. It is now almost a year since the Prime Minister admitted, in a rare moment of honesty, that this Labor government had lost its way, but since then the Prime Minister has taken us further off course. Never, not even since the dying days of the Whitlam government and their dealings with Khemlani, has our nation's long-term economic prosperity been threatened by such irrational and incompetent economic policies. The only way to get our great nation back on track and on the right course and to secure our long-term economic prosperity is to change the government.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Fiscal Strategy</title>,PRIVATE MEMBERS' BUSINESS,22,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Fiscal Strategy</title>,PRIVATE MEMBERS' BUSINESS,22,1,speech
 "Husic, Ed, MP",ALP,2011-05-23,"
 
 
@@ -4409,7 +4537,7 @@ t arrived across the Tasman.
 
 In fact, John Key looked at a model to improve the New Zealand economy and he said, 'Our vision is to close the gap with Australia by 2025.' Tony Abbott is pointing to New Zealand as a model for getting us through the GFC when in actual fact— (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Fiscal Strategy</title>,PRIVATE MEMBERS' BUSINESS,22,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Fiscal Strategy</title>,PRIVATE MEMBERS' BUSINESS,22,1,speech
 "Fletcher, Paul, MP",LP,2011-05-23,"
 
 
@@ -4426,7 +4554,7 @@ We have a government here which has a track record of congratulating itself on e
 
 Debate adjourned.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Fiscal Strategy</title>,PRIVATE MEMBERS' BUSINESS,22,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Fiscal Strategy</title>,PRIVATE MEMBERS' BUSINESS,22,1,speech
 "Gambaro, Teresa, MP",LP,2011-05-23,"
 
 
@@ -4452,7 +4580,7 @@ We have been pursuing this particular issue at estimates over a period of time a
 
 This government not only has lost control of its borders but also has lost control of the care and welfare of our humanitarian program.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Refugees</title>,ADJOURNMENT,23,1
+",HoR,<title>ADJOURNMENT</title>,<title>Refugees</title>,ADJOURNMENT,23,1,speech
 "Vasta, Ross, MP",LP,2011-05-23,"
 
 
@@ -4469,7 +4597,7 @@ Earlier in July the Bulimba Creek Catchment Coordinating Committee also organise
 
 These initiatives are very much in line with one aspect of the coalition's direct action plan for the environment and climate change—the commitment to green corridors and urban forests and the planting of an additional 20 million trees by 2020. So often projects like these provide an opportunity for the community to come together and work towards a common goal and, in doing so, foster that sense of community spirit. In my experience, this is certainly the case with these two projects and I would like to commend the Carindale PCYC on their great work. (Time expired)
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Environmental Conservation</title>,CONSTITUENCY STATEMENTS,25,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Environmental Conservation</title>,CONSTITUENCY STATEMENTS,25,1,speech
 "Oakeshott, Robert, MP",Ind.,2011-05-23,"
 
 
@@ -4489,7 +4617,7 @@ Only last night I was watching Dateline covering an issue of the moment—Austra
 
 Likewise, an issue of the moment is the call for action on war crimes within Sri Lanka over the past decade. This is an uncomfortable issue for governments to deal with but one that is important, again, if we are pursuing higher ideals. In an ideal world, organisations like Amnesty International would be unnecessary. In practice, their work is critical to making sure governments of all persuasions in all countries work in the best interests of their communities rather than their own best interests and chase those higher ideals rather than the low ones. Happy birthday and thank you to Amnesty International. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>50th Anniversary of Amnesty International</title>,PRIVATE MEMBERS' BUSINESS,26,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>50th Anniversary of Amnesty International</title>,PRIVATE MEMBERS' BUSINESS,26,1,speech
 "Moylan, Judi, MP",LP,2011-05-23,"
 
 
@@ -4512,7 +4640,7 @@ Something effective has been done and today we are celebrating 50 years of that 
 
 Amnesty's 50th anniversary provides a splendid opportunity to recommit ourselves to act as Peter Benenson did when he read about the prison sentences imposed on Portuguese students all those years ago. The Amnesty symbol of a candle wrapped in barbed wire is inspired by the ancient Chinese proverb 'It is better to light a candle than to curse the darkness.' May we again dedicate ourselves, as the member for Lyne said, to greater humanity and greater kindness in the carrying out of our duties within this parliament.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>50th Anniversary of Amnesty International</title>,PRIVATE MEMBERS' BUSINESS,26,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>50th Anniversary of Amnesty International</title>,PRIVATE MEMBERS' BUSINESS,26,1,speech
 "Ferguson, Laurie, MP",ALP,2011-05-23,"
 
 
@@ -4529,7 +4657,7 @@ Most people would very much regret and repudiate those regimes—Sri Lanka is a 
 
 As a former member of the parliamentary group, I perhaps have regrets that in some fashion the degree of support for the external organisation has tended to deteriorate since I arrived here. I believe that too pronounced an emphasis on the asylum refugee issue unfortunately has tended to undermine the effectiveness of the organisation in a parliamentary sense. It is far easier to have a non-partisan, inclusive organisation when you are not getting into areas that cause differences within the membership. Certainly their work on that front is merited, but I think people's ability to work together across party lines has somewhat lessened over recent years. Amnesty, as indicated by the previous speaker, traces its genesis back to Portugal under the Salazar regime, the new order there. Allegedly it was created when some people were jailed for toasting liberty there. When I read the history of the organisation—there is some doubt about that history that Benenson gave—it certainly is a reminder of what happened through the Cold War. And it is still the case sometimes now. We see an example in East Timor, with the Islamic world supporting Indonesia throughout its occupation because it was an Islamic country. Back in that period, some people were inclined to forget what was happening in Portugal because it was seen as an ally of the United States. This is one of the strengths of Amnesty, its ability to avoid international divisions between various blocs and to come through saying that there are certain inalienable rights, that there are certain things we must stand for in regards to humanity. That is something which has allowed all of us, regardless of what we think on many other issues, to come together. I join with other speakers in recognising this 50th anniversary.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>50th Anniversary of Amnesty International</title>,PRIVATE MEMBERS' BUSINESS,26,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>50th Anniversary of Amnesty International</title>,PRIVATE MEMBERS' BUSINESS,26,1,speech
 "Ruddock, Philip, MP",LP,2011-05-23,"
 
 
@@ -4552,7 +4680,7 @@ The DEPUTY SPEAKER
 Hon. Peter Slipper
 ):  Order! The time allotted for this debate has expired. The debate is adjourned and the resumption of debate will be made an order of day for the next sitting.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>50th Anniversary of Amnesty International</title>,PRIVATE MEMBERS' BUSINESS,26,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>50th Anniversary of Amnesty International</title>,PRIVATE MEMBERS' BUSINESS,26,1,speech
 "Keenan, Michael, MP",LP,2011-05-23,"
 
 
@@ -4581,7 +4709,7 @@ These include deleting more than 40 subheadings due to the low volume of trade i
 
 The coalition supports the passage of this bill, which gives effect to the harmonised system changes while maintaining existing levels of tariff protection and margins of tariff preference. The coalition supports efforts at progressing international trade which we believe will deliver the greatest benefit to the global economy and to Australia. We therefore commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Customs Tariff Amendment (2012 Harmonized System Changes) Bill 2011</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Customs Tariff Amendment (2012 Harmonized System Changes) Bill 2011</title>,BILLS,27,1,speech
 "Ripoll, Bernie, MP",ALP,2011-05-23,"
 
 
@@ -4616,7 +4744,7 @@ Something not acknowledged enough in these debates is the way in which Australia
 
 The bill before us today is certainly well supported by everyone in this House. It is a bill for which the Hon. Brendan O'Connor, in his role as Minister for Home Affairs and responsible for a range of other portfolios, ought to be commended. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Customs Tariff Amendment (2012 Harmonized System Changes) Bill 2011</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Customs Tariff Amendment (2012 Harmonized System Changes) Bill 2011</title>,BILLS,27,1,speech
 "Kelly, Craig, MP",LP,2011-05-23,"
 
 
@@ -4663,7 +4791,7 @@ Other changes include new subheadings for specific chemicals controlled under th
 
 In conclusion, as Australia is a signatory to the harmonised system convention, we are obligated, along with all other signatories worldwide, to implement these changes to the harmonised codes from 1 January 2012. Hence the need for the bill, which has the full support of the coalition. 
 
-",HoR,<title>BILLS</title>,<title>Customs Tariff Amendment (2012 Harmonized System Changes) Bill 2011</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Customs Tariff Amendment (2012 Harmonized System Changes) Bill 2011</title>,BILLS,27,1,speech
 "Tehan, Dan, MP",LP,2011-05-23,"
 
 
@@ -4689,7 +4817,7 @@ The sad thing is that I do not think he knows what he is trying to achieve. As I
 
 We on this side support this bill. I just hope that we can see from our trade minister an application similar to the application that has gone into the tariff harmonisations.
 
-",HoR,<title>BILLS</title>,<title>Customs Tariff Amendment (2012 Harmonized System Changes) Bill 2011</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Customs Tariff Amendment (2012 Harmonized System Changes) Bill 2011</title>,BILLS,27,1,speech
 "Hall, Jill, MP",ALP,2011-05-23,"
 
 
@@ -4709,7 +4837,7 @@ The fourth review was completed in June 2010. Out of that review, some very prac
 
 Given the importance of this legislation and that some of the changes relate to ensuring the food security program of the Food and Agriculture Organisation of the United Nations, I can only say that I am extremely disappointed that those on the opposition side just want to play politics, to come here to talk about anything except this exceptionally important piece of legislation that ensures Australia's trading position. This bill will provide certainty for Australian importers and exporters and ensure that Australia classifies its goods and commodities in accordance with the harmonised system and in a manner that is consistent with major trading partners. I will conclude by assuring members of the opposition that the Minister for Trade is out there looking after Australia's trading interests and that is why he is attending the WTO meeting.
 
-",HoR,<title>BILLS</title>,<title>Customs Tariff Amendment (2012 Harmonized System Changes) Bill 2011</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Customs Tariff Amendment (2012 Harmonized System Changes) Bill 2011</title>,BILLS,27,1,speech
 "Hayes, Chris, MP",ALP,2011-05-23,"
 
 
@@ -4735,7 +4863,7 @@ Australia is a trading community and is often at the forefront of advocating the
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Customs Tariff Amendment (2012 Harmonized System Changes) Bill 2011</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Customs Tariff Amendment (2012 Harmonized System Changes) Bill 2011</title>,BILLS,27,1,speech
 "Keenan, Michael, MP",LP,2011-05-23,"
 
 
@@ -4764,7 +4892,7 @@ These include deleting more than 40 subheadings due to the low volume of trade i
 
 The coalition supports the passage of this bill, which gives effect to the harmonised system changes while maintaining existing levels of tariff protection and margins of tariff preference. The coalition supports efforts at progressing international trade which we believe will deliver the greatest benefit to the global economy and to Australia. We therefore commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
 "Ripoll, Bernie, MP",ALP,2011-05-23,"
 
 
@@ -4799,7 +4927,7 @@ Something not acknowledged enough in these debates is the way in which Australia
 
 The bill before us today is certainly well supported by everyone in this House. It is a bill for which the Hon. Brendan O'Connor, in his role as Minister for Home Affairs and responsible for a range of other portfolios, ought to be commended. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
 "Kelly, Craig, MP",LP,2011-05-23,"
 
 
@@ -4846,7 +4974,7 @@ Other changes include new subheadings for specific chemicals controlled under th
 
 In conclusion, as Australia is a signatory to the harmonised system convention, we are obligated, along with all other signatories worldwide, to implement these changes to the harmonised codes from 1 January 2012. Hence the need for the bill, which has the full support of the coalition. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
 "Tehan, Dan, MP",LP,2011-05-23,"
 
 
@@ -4872,7 +5000,7 @@ The sad thing is that I do not think he knows what he is trying to achieve. As I
 
 We on this side support this bill. I just hope that we can see from our trade minister an application similar to the application that has gone into the tariff harmonisations.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
 "Hall, Jill, MP",ALP,2011-05-23,"
 
 
@@ -4892,7 +5020,7 @@ The fourth review was completed in June 2010. Out of that review, some very prac
 
 Given the importance of this legislation and that some of the changes relate to ensuring the food security program of the Food and Agriculture Organisation of the United Nations, I can only say that I am extremely disappointed that those on the opposition side just want to play politics, to come here to talk about anything except this exceptionally important piece of legislation that ensures Australia's trading position. This bill will provide certainty for Australian importers and exporters and ensure that Australia classifies its goods and commodities in accordance with the harmonised system and in a manner that is consistent with major trading partners. I will conclude by assuring members of the opposition that the Minister for Trade is out there looking after Australia's trading interests and that is why he is attending the WTO meeting.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
 "Hayes, Chris, MP",ALP,2011-05-23,"
 
 
@@ -4918,7 +5046,7 @@ Australia is a trading community and is often at the forefront of advocating the
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
 "Andrews, Kevin, MP",LP,2011-05-23,"
 
 
@@ -4990,7 +5118,7 @@ It is appropriate that the Australian parliament recognises and celebrates the c
 
 The DEPUTY SPEAKER:  I thank the member for Menzies for his delivery during that slightly disrupted period.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Griffin Design for the National Capital</title>,PRIVATE MEMBERS' BUSINESS,28,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Griffin Design for the National Capital</title>,PRIVATE MEMBERS' BUSINESS,28,1,speech
 "Brodtmann, Gai, MP",ALP,2011-05-23,"
 
 
@@ -5019,7 +5147,7 @@ Australia of most democratic tendencies and bold radical government may well be 
 
 That is very much an ideal and vision to celebrate in 2013.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Griffin Design for the National Capital</title>,PRIVATE MEMBERS' BUSINESS,28,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Griffin Design for the National Capital</title>,PRIVATE MEMBERS' BUSINESS,28,1,speech
 "Simpkins, Luke, MP",LP,2011-05-23,"
 
 
@@ -5036,7 +5164,7 @@ It is true to say that there was friction between Griffin and the government aft
 
 Given the influence and the importance of the architectural competition and given the fact that we are now moving quickly towards the centenary of Canberra, it seems right and appropriate that as part of that celebration we properly reflect the contribution that Griffin made and the importance of that architectural competition. With the CAPITheticAL design competition that is being undertaken as part of the 100th birthday celebrations for Canberra, it does seem like an appropriate opportunity and location to make a contribution and to commemorate Griffin and the original competition. 
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Griffin Design for the National Capital</title>,PRIVATE MEMBERS' BUSINESS,28,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Griffin Design for the National Capital</title>,PRIVATE MEMBERS' BUSINESS,28,1,speech
 "Leigh, Andrew, MP",ALP,2011-05-23,"
 
 
@@ -5065,7 +5193,7 @@ The DEPUTY SPEAKER
 Ms S Bird
 ):  The time allotted for the debate has expired. The debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Griffin Design for the National Capital</title>,PRIVATE MEMBERS' BUSINESS,28,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Griffin Design for the National Capital</title>,PRIVATE MEMBERS' BUSINESS,28,1,speech
 "O'Dwyer, Kelly, MP",LP,2011-05-23,"
 
 
@@ -5115,4 +5243,38 @@ I think it is best to look at the research that has been undertaken to see what 
 
 It remains to be seen exactly how far this government will go with these changes. When the Greens take power in the Senate in the second half of this year we know that they would like to go a lot further. The Prime Minister should resist this call most vehemently, but if her track record is anything to go by we know she will not. (Time expired)
 
-",HoR,<title>GRIEVANCE DEBATE</title>,<title>Economy</title>,GRIEVANCE DEBATE,29,1
+",HoR,<title>GRIEVANCE DEBATE</title>,<title>Economy</title>,GRIEVANCE DEBATE,29,1,speech
+"Morrison, Scott, MP",LP,2011-05-23,"
+
+
+
+Mr Morrison
+  asked the Minister for Immigration and Citizenship, in writing, on 22 November 2010: 
+
+
+How many days above the Government's 90 day target have (a) Sri Lankan; and (b) Afghan asylum seekers been in detention as a consequence of the processing suspension announced on 9 April 2010 and what is the total sum of the additional costs incurred by the extended detention in parts (a) and (b).
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Asylum Seekers (Question No. 95)</title>,QUESTIONS IN WRITING,30,1,question
+"Bowen, Chris, MP",ALP,2011-05-23,"
+
+
+
+Mr Bowen:
+  The answer to the honourable member's question is as follows:
+
+
+While there are no statutory requirements to process asylum claims for irregular maritime arrivals within a prescribed timeframe, the 90 day statutory timeframe for assessment of onshore protection claims has been used as a standard operating guide for the Refugee Status Assessment (RSA) process. 
+
+
+The 90 day target is calculated from the time the Department receives a Refugee Status Assessment request.
+
+
+As at 23 November 2010, the average number of days Sri Lankan irregular maritime arrivals subject to the suspension were in detention was 188 days, 107 of which were taken up with RSA processing. This is 17 days above the 90 day processing target.
+
+
+As at 23 November 2010, the average number of days Afghan irregular maritime arrivals subject to the suspension were in detention was 177 days, 54 of which were taken up with RSA processing. This is within the 90 day processing target.
+
+
+The cost of detention is dependant on the specific circumstances of each detainee and as such the costs of the suspension cannot be adequately estimated.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Asylum Seekers (Question No. 95)</title>,QUESTIONS IN WRITING,30,1,answer

@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2014-09-22,"
 
 
@@ -9,7 +9,7 @@ The PRESIDENT
 
 I ask that senators be patient as new security procedures are implemented. Whilst every effort will be made to minimise disruption to senators and building occupants, these new measures are necessary to ensure safety to Parliament House and, in particular, the occupants.
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Parliament House: Security</title>,STATEMENT BY THE PRESIDENT,0,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Parliament House: Security</title>,STATEMENT BY THE PRESIDENT,0,1,speech
 "PRESIDENT, The",,2014-09-22,"
 
 
@@ -17,7 +17,7 @@ I ask that senators be patient as new security procedures are implemented. Whils
 The PRESIDENT
  (10:02):  Honourable senators, it is with deep regret that I inform you of the death earlier this month of Harry Evans, former Clerk of the Senate from 1988 until 2009. He was the longest-serving Clerk in the Senate's history. I call the Leader of the Government in the Senate, Senator Abetz.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Evans, Mr Harry</title>",CONDOLENCES,1,1
+",Senate,<title>CONDOLENCES</title>,"<title>Evans, Mr Harry</title>",CONDOLENCES,1,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -49,7 +49,7 @@ Clerk Evans was regarded as the doyen of the clerks not only in Australia and th
 
 Harry Evans loved the position of words. He loved the quiet and grandeur of the Australian bush. Above all he cherished the Australian Senate and loved his family. It is to them that we turn our minds today. Because of illness Harry was robbed of the long retirement that he had so richly earned. To his wife, Rhonda, their sons, Ben and Sam, and their daughter, Beth, we offer our sincerest condolences. We will never see the like of Harry Evans again, but this place is all the better for the monumental contribution he made to the parliament of Australia.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Evans, Mr Harry</title>",CONDOLENCES,1,1
+",Senate,<title>CONDOLENCES</title>,"<title>Evans, Mr Harry</title>",CONDOLENCES,1,1,speech
 "Wong, Sen Penny",ALP,2014-09-22,"
 
 
@@ -105,7 +105,7 @@ I count myself as extraordinarily privileged to have had the opportunity to know
 
 We mourn today and honour the passing of one of this country's greatest servants of democracy. Harry Evans exemplified the high standards and ideals of this Senate. We honour his service to this chamber and, through it, to the nation and the Australian people. We reiterate our sympathies to his family.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Evans, Mr Harry</title>",CONDOLENCES,1,1
+",Senate,<title>CONDOLENCES</title>,"<title>Evans, Mr Harry</title>",CONDOLENCES,1,1,speech
 "Milne, Sen Christine",AG,2014-09-22,"
 
 
@@ -143,7 +143,7 @@ That is why he advocated so strongly for the power of upper houses to actually s
 
 His lasting legacy, apart from the tremendous assistance he gave to every senator who served in this place while he was the Clerk, is, of course, his body of writing. I recommend that people read some of Harry Evans's papers. I will read the titles of some of them, to give you a sense of the breadth of his contribution: 'The government majority in the Senate: A nail in the coffin of responsible government?', 'Accountability and corporate governance in the new parliament', 'The Senate, accountability and government control', 'The Australian parliament: Time for reformation', 'The intertwined history of Canberra and the parliament', 'Constitutionalism, bicameralism and control of power', 'Elections: Constitutional complexities and consequences', 'Ethics and Public Service governance'—and on it goes. There is a great deal to be learned about the history of parliamentary democracy and its practice here in Australia from the academic writings of Harry Evans. I think his lasting advice to us all were the words he gave when he spoke of 'restraint of the executive by a stronger legislature'. That is his advice to all of us. In paying my respects to Harry and acknowledging his contribution to Australia because of his strengthening of the Senate and our democracy, I also convey our condolences to his wife, Rhonda, and to his children, Ben, Sam and Beth. 
 
-",Senate,<title>CONDOLENCES</title>,"<title>Evans, Mr Harry</title>",CONDOLENCES,1,1
+",Senate,<title>CONDOLENCES</title>,"<title>Evans, Mr Harry</title>",CONDOLENCES,1,1,speech
 "Scullion, Sen Nigel",CLP,2014-09-22,"
 
 
@@ -202,7 +202,7 @@ Knowledge has always been power, but the management of information has become th
 
 I came to this place at the same time as the Leader of the Opposition, in 2002. Almost immediately after taking my place in parliament, Harry brought to my attention that it was likely that I was in conflict with section 44 of the Constitution. He was more excited about this than I was, but I must acknowledge that his knowledge of the system assisted me in getting through three years of my term with that hanging over my head. There were a whole range of convolutions surrounding that issue and it was only Harry who was able to guide me through them. He also gave me some simple advice: 'In this place, Nigel, we are not sure what will happen. As long as you are open and frank with the Senate, it will treat you well.' I had three miserable years, but his advice, at the end of the day, was right on the money. I was certainly shocked to hear that Harry had passed away. It seems too soon for a man who had become an institution to leave us all behind. Vale, Harry Evans.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Evans, Mr Harry</title>",CONDOLENCES,1,1
+",Senate,<title>CONDOLENCES</title>,"<title>Evans, Mr Harry</title>",CONDOLENCES,1,1,speech
 "PRESIDENT, The",,2014-09-22,"
 
 
@@ -216,7 +216,7 @@ I also discovered that he was a shooter of some note. He used to like to shoot g
 
 Question agreed to, honourable senators standing in their places.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Evans, Mr Harry</title>",CONDOLENCES,1,1
+",Senate,<title>CONDOLENCES</title>,"<title>Evans, Mr Harry</title>",CONDOLENCES,1,1,speech
 "Collins, Sen Jacinta",ALP,2014-09-22,"
 
 
@@ -269,7 +269,7 @@ Under the previous Labor government, the water trigger amendment to the EPBC Act
 
 In conclusion, and to reiterate, Labor will be voting for the bill. What we have in front of us is a standard clean-up which is not worth getting particularly frustrated about but is also in no way worth the fanfare that was associated with the fizzer that was repeal day way back in the Autumn of this year.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Seselja, Sen Zed",LP,2014-09-22,"
 
 
@@ -364,7 +364,7 @@ In conclusion, I do commend this bill. It is, in the words of Jennifer Westacott
 
 There are many aspects to our deregulation agenda and this bill is a very important part of it—and we are going to build on this start. Twice a year we are going to dedicate days to repealing legislation that puts too much burden on our business sector. Surely that is something that those opposite should be applauding. Surely they should be hanging their heads in shame at the way they overregulated these very businesses—the way they put more and more burdens on these family businesses. They should be hanging their heads in shame. They should not just be supporting this piece of legislation; they should be supporting other aspects of our deregulation agenda—all of which are designed to give us a more prosperous economy, to give us a more prosperous society and to give individuals, families and businesses the ability to choose, without too much government interference, how they make a living. I commend this legislation to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Bilyk, Sen Catryna",ALP,2014-09-22,"
 
 
@@ -438,7 +438,7 @@ Senator Brandis says that people have the right to be bigots. I say people have 
 
 The government needs to start taking seriously the act of governing. It needs to treat this place and the Australian people with respect. It needs to actively work to improve the lives of Australians, rather than moving redundant commas and clauses to show off what a good job it is doing in removing red tape.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Canavan, Sen Matthew",Nats,2014-09-22,"
 
 
@@ -542,7 +542,7 @@ I also think that, going forward, with making these changes—and they are good 
 
 Ultimately, this is a very important change because, as other speakers have alluded to, we have had declining productivity performance over the past decade. And it has not just been declining here in Australia; it is also declining relative to other countries in the world. We must realise that while many of those reforms from previous decades like opening up the economy and like deregulating financial markets have reduced costs for our country and enabled us to be more competitive. The over-burdensome regulations in this country have been something we have not quite tackled as well. When you open up an economy to the rest of the world, like we have done in the last 20 or 30 years, the costs of those regulations become even more keenly felt because those businesses now are not just competing against someone down the road; they are competing with someone over the oceans. Those countries might not always have the same regulatory restrictions. We need to always keep in mind that we as a government do not make people's lives out there harder than they need to be and that we do not put unnecessary barriers in the way of people who want to make a buck and employ people.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Lines, Sen Susan",ALP,2014-09-22,"
 
 
@@ -610,7 +610,7 @@ One of the other points I heard this morning from a government senator was about
 
 Labor will obviously reform areas that need reforming, but we will not do it with fanfare and we will not do it to the detriment of other really important issues, such as the government's inability to talk about its budget.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Waters, Sen Larissa",AG,2014-09-22,"
 
 
@@ -711,7 +711,7 @@ As I said, unfortunately, it is not just the federal government with this progra
 
 Perhaps the most insulting recent change happened just a week or so ago. The Queensland government have now removed the ability of Queenslanders to object in the Land Court to large mines, except if you are a neighbour or a local council that has its infrastructure impacted. I am just incredulous. This is a silencing of the community at a rate we have not seen since the Joh days. The thought of putting folk like that in complete control of icons that are not just nationally environmentally significant but are globally environmentally significant would be laughable if it were not so serious. This is exactly why, when you have proposals such as today's to just quietly and sneakily repeal protection for groundwater in the Murray-Darling Basin, to not worry so much about ozone depleting substances, and to allow sea installations to be built without reference to environmental issues, you just have to hold the line and say, 'Enough is enough.' That is why in the committee stage we will be moving amendments to keep those three positive environmental protections on our law books and why we will continue to rail against the tendency towards a plutocracy that we see from this government in giving the big mining companies absolutely everything that they want. It seems that they are simply running the show. I just remind senators in this place that actually we are elected here to represent people; we are not elected here to just further the vested interests of big corporates, who are, with their activities, threatening the sustainability of our environment for future generations. Thank you.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Rhiannon, Sen Lee",AG,2014-09-22,"
 
 
@@ -755,7 +755,7 @@ Some of you may think, 'What's this got to do with the issue that we have raised
 
 Another aspect—and my colleague Senator Waters went through this—is that mining of many minerals is occurring now. I have mentioned copper; I have mentioned gold. There are others as well. But what is also in the pipeline—possibly in Queensland and possibly in New South Wales—is uranium mining. Again, we need to have these laws strengthened. The impact that any sort of mining can have on our groundwater, our surface water and the interaction between those water resources can be very serious. We need to weigh up, of mining, whether it should go ahead and under what conditions it should go ahead. But if this were repealed that would be weakening the minimal protection that our water resources have. So there is a very clear case why section 255AA of the Water Act needs to be retained.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -799,7 +799,7 @@ Question agreed to.
 
 Bill read a second time. 
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Waters, Sen Larissa",AG,2014-09-22,"
 
 
@@ -822,7 +822,7 @@ We have already discussed how originally we had sought in this place to strength
 
 It is clear that we need these environmental protections to remain on our law books. We do not oppose any other part of the bill but the amendments I have moved simply retain those three environmental protections in our laws. The minister claimed that the Water Act protections are redundant because they are duplicative of EPBC Act protections under the water trigger. I have articulated how they in fact cover different operations. Since we are in committee, can the minister articulate how it is the government can still contend that there is duplication when they are clearly covering different mining operations?
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -830,7 +830,7 @@ It is clear that we need these environmental protections to remain on our law bo
 Senator ABETZ
  (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (12:45):  As I understand the situation, the Water Act currently requires an independent study to be undertaken. Since 2008, there have been only three studies conducted and those three studies were projects that were also required to be assessed under the national environmental law the Environment Protection and Biodiversity Conservation act 1999. The introduction of the water trigger and establishment of the independent scientific committee on coal-seam gas has made that particular section of the Water Act redundant and the Water Act provisions provide no additional environmental protection. What they do provide yet again is that duplicative situation where there is no need for it. I simply confirm that the government is not about reducing standards; it is about removing a redundant regulation and cleaning up the statute books while protecting our environment. That is what our amendments seek to achieve that is why I commended the bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Waters, Sen Larissa",AG,2014-09-22,"
 
 
@@ -838,7 +838,7 @@ Senator ABETZ
 Senator WATERS
  (Queensland) (12:47):  The provisions are clearly not redundant when they capture gold mining, silver mining, lead mining and zinc mining in the Murray-Darling basement; whereas the water trigger you refer to only applies to large coalmines and coal-seam gas. Again I seek a coherent explanation of how there is any possible duplication when it is completely different mining that is being addressed by the Water Act as opposed to the water trigger? 
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -846,7 +846,7 @@ Senator WATERS
 Senator ABETZ
  (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (12:47):  My advice is that this removal will ensure that the standard to be applied will be the EPBC Act. At the moment we have two pieces of legislation covering the same situation, on my advice, and the EPBC Act regime seems somewhat more transparent than that under the Water Act. Since 2008, in the last six years or so, under the Water Act it has been used once every two years in circumstances where it also required an assessment under the EPBC Act. It is these things which cost developers to get mines ready for production, which makes exploration and the opening of mines in Australia regrettably more expensive without any genuine extra environmental protection. When the developers look around the world they do not only have to look at Australia; there are opportunities right around the world for these developments. If we impose extra green tape, extra burdens, which, when you step back and ask how this protects the environment and then find it does not really, in those circumstances we say let us get rid of one layer and have the consistency of the EPBC Act applying across the board. That is what we are recommending to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Waters, Sen Larissa",AG,2014-09-22,"
 
 
@@ -854,7 +854,7 @@ Senator ABETZ
 Senator WATERS
  (Queensland) (12:49):  To belabour the point, I am afraid the government is going to find it a little difficult to justify their positioning here when it is perfectly clear that we have only had the water trigger on the law books for about 18 months, yet these Water Act provisions have been used three times in the last six years. Clearly without them there would not have been those independent water studies. Yes, we now have the water trigger, but it only applies to large coal mines and coal-seam gas. Is the minister suggesting that the water trigger should be expanded so that it includes the mining activities that the Water Act section you are seeking to repeal currently covers? I would welcome that. Can the minister clarify: will you now expand the water trigger so that it can cover gold mining, silver mining, lead mining, zinc mining and any other subsidence mining currently protected under the Water Act and required to have had an independent study done into its ground water impacts?
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -862,7 +862,7 @@ Senator WATERS
 Senator ABETZ
  (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (12:51):  There is nothing further I would seek to add to the debate. The positions are clear. We understand where the Greens come from on these matters but I think the explanation I have given to the senator stands. I can understand the Greens, from their position, would not find any change acceptable to them. I accept that. That is the way they approach these matters but, with great respect, we believe there is the appropriate protection here in relation to the provisions of the EPBC Act which cover a multitude of possibilities and eventualities.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Waters, Sen Larissa",AG,2014-09-22,"
 
 
@@ -876,7 +876,7 @@ The rhetoric is just disintegrating before our very eyes. Not only with this pro
 
 Again, I find it very confusing that you are maintaining that there is some kind of duplication here when, clearly, it is different industries that are being covered and when your government is doing all it can to get rid of its responsibilities to protect water under federal laws. I seek a decent explanation as to how you can still contend that this is duplication.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Macdonald, Sen Ian",LP,2014-09-22,"
 
 
@@ -905,7 +905,7 @@ The Great Barrier Reef—the lagoon, not the reef—is a ship's transport and it
 
 I want to use those preliminary remarks to, again ask: is there anything these provisions could possibly do that the Environment Protection and Biodiversity Conservation Act would not be able to do under one of the various provisions of that very stringent and strong piece of environmental legislation introduced by a former Liberal government?
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -922,7 +922,7 @@ We said at the last election—and we went to the election on this—that we bel
 
 Are we passing to the state governments? Yes, we are; but what is our motivation in doing so? We want the Australian economy to grow at a greater rate than she is at the moment, at a rate that will ensure there will be genuine jobs growth. We want the economy to grow so that school leavers at the end of this year will be able to look forward to a future of gaining a job, becoming self-sufficient and self-reliant—that is our motivation—whilst ensuring that environmental standards are protected. 
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Cameron, Sen Doug",ALP,2014-09-22,"
 
 
@@ -939,7 +939,7 @@ Certainly Labor is of the view that that is a key issue that has to be addressed
 
 In terms of unnecessary duplication: where it is not an environmental problem, we support it. We certainly do not support handing environmental powers to the states, given the record of the states over a long period of time; and we certainly will not be working with the government to hand over taxpayers' money to big polluters for the privilege of polluting. Our position is clear on this. We will not be supporting these amendments for the reasons that Senator Collins has outlined and the reasons that I have just amplified.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Waters, Sen Larissa",AG,2014-09-22,"
 
 
@@ -947,7 +947,7 @@ In terms of unnecessary duplication: where it is not an environmental problem, w
 Senator WATERS
  (Queensland) (13:05):  I go back again to this contention that it is duplicative, that protection for water from coal and coal seam gas is somehow the same as protection for water from silver, gold, lead and zinc mining. I cannot understand why it is so difficult for you both to accept that these laws do different things. That is why we are proposing that you keep the Water Act section that protects groundwater in the Murray-Darling from lead, copper, zinc and gold mining. That is different to coal seam gas and coalmining. Please, can somebody articulate that you realise that those minerals and commodities are different and that you just seek to weaken protection for groundwater in the Murray-Darling Basin. At least then you would be being honest about what you are seeking to do here. 
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Rhiannon, Sen Lee",AG,2014-09-22,"
 
 
@@ -964,7 +964,7 @@ We are going backwards. Maybe Labor and the coalition have not been briefed prop
 
 Minister, if another large-scale copper mine in the Murray-Darling Basin system was proposed that would result in subsidence, what studies would be undertaken and what aspects of these changes would be significant for that development?
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Macdonald, Sen Ian",LP,2014-09-22,"
 
 
@@ -981,7 +981,7 @@ You have a process where you go through all of the state government approvals, w
 
 That is what this whole process wants to address, and that is what I am quite confident the EPBC Act will do in the hypothetical situations raised by the Greens political party in their questions to the minister. My question to the minister goes to whether the minister or his advisers have the sort of information that we need to explain to the Senate which provisions of the EPBC Act are relevant to the issue. From my memory, I am sure there are provisions in the act, and I hope the minister can refresh my memory on just what they are.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -989,7 +989,7 @@ That is what this whole process wants to address, and that is what I am quite co
 Senator ABETZ
  (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (13:15):  I can indicate to the Senate that, whilst subsidence mining operations may not be limited to CSG and large coalmining projects which are subject to the water trigger and advice by the independent expert scientific committee under the EPBC Act, mining interception activities in the Murray-Darling Basin must be specified in state water resource plans and accredited in accordance with the basin plan. Accredited water resource plans must set out a process for monitoring the impact of all listed interception activities and associated actions that will be taken in the event that monitoring shows any impacts that compromise environmental watering or an increase in the quantity of water being intercepted. So I think what we would find is that this is a matter for the state regulatory authorities to determine. That is, I dare say, part of our one-stop-shop approach in these matters.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Waters, Sen Larissa",AG,2014-09-22,"
 
 
@@ -1009,7 +1009,7 @@ We will see standards drop, particularly if you insist on ramming through this p
 
 Given the influence that Hansard records the Australian Minerals Council—as it then was back in 2008 when this Water Act provision of 255AA was first introduced—having, I ask whether the mining industry in any of its representative bodies or mining companies themselves have lobbied to have this section removed? What has been the pressure from the mining industry about section 255AA? Is this just your own idea or is the mining lobby driving this one as well?
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Macdonald, Sen Ian",LP,2014-09-22,"
 
 
@@ -1023,7 +1023,7 @@ I just want to thank the minister for his last answer. What Australia desperatel
 
 I thank Senator Abetz for his answer. I think that demonstrates exactly what this bill is all about: maintaining the protections but avoiding the costly job-culling duplication that you see so much. Thanks, Minister, for your answer. I am very satisfied now that the protections are still there but some of the regulation and duplication goes.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -1034,7 +1034,7 @@ Senator ABETZ
 
 Senator Waters then referred to internationally recognised watercourses. If they are internationally recognised, they would be under the World Heritage or Ramsar listed wetlands, and that of course would trigger the provisions of the EPBC Act. If we want to talk about 'internationally recognised', then of course they are covered by the EPBC Act. I reiterate that, under the Murray-Darling Basin Plan, there have to be plans submitted in relation to sustainable diversion limits, on water and of water. I am not sure with what greater moral authority Commonwealth bureaucrats might be clothed than state bureaucrats. I believe that both state and federal bureaucrats are honest, diligent and committed to doing their task in a professional manner. To try to suggest that just because a Commonwealth official might do something it will, by necessity, be of a higher standard than that of a state official—I am sorry, I do not agree with that view of the world.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Waters, Sen Larissa",AG,2014-09-22,"
 
 
@@ -1042,7 +1042,7 @@ Senator Waters then referred to internationally recognised watercourses. If they
 Senator WATERS
  (Queensland) (13:25):  I do not know if that can be construed as a response to my very clear question, so I will come back to that point. There were a number of assertions there that were inaccurate and misrepresented points that I had made. Senator Abetz seems to think that I think state and federal bureaucrats are somehow different in their competencies. I did not suggest that at all. The fact remains—and I cannot believe I have to explain to Senator Abetz—that legislation guides decision making and when legislative rules are different you get different decisions. That is the point about you saying that the federal standards do not need to be reflected in state laws—ergo they will not be complied with; ergo different decisions will be made. It is quite shocking that we are having this level of debate. I am really quite disheartened. I was already disheartened in this government, but I am truly shocked that Senator Abetz seems to be having difficulty with basic concepts, given the seniority of his role. I do not wish to descend into personal insults; I am simply flabbergasted. Be that as it may, could I please have an answer to the question about whether there were representations made at any stage since 2008, when this Water Act provision was inserted, by the mining industry, in any of its guises, to have it removed? That was my simple question. I am happy if the answer is no—then it was your own silly idea—but I would like to know whose idea it was.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -1050,7 +1050,7 @@ Senator WATERS
 Senator ABETZ
  (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (13:26):  I cannot answer that question. I do not know what representations have been made since the Water Act 2007 was introduced—that was seven years ago—who approached whom, what, when and how. I cannot answer that. What I can tell you is this: we as a government ensure that, irrespective of by whom we might have been lobbied, we take decisions in the national interest. That is what motivates us. Just because one, two, three or no individuals approached us to lobby us about a certain course of action, we will always be an open government, we will always listen to people who come before us and put proposals to us, and we will consider them and listen to them. We do not have closed minds, unlike some others in this place. But, having said that, at the end of the day we will make decisions based on the national interest, irrespective of by whom we might have been lobbied.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Waters, Sen Larissa",AG,2014-09-22,"
 
 
@@ -1071,7 +1071,7 @@ Senator Edwards
 
  
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "CHAIRMAN, The",,2014-09-22,"
 
 
@@ -1079,7 +1079,7 @@ Senator Edwards
 The CHAIRMAN
  (13:37):  The question now is that amendment (1), on sheet 7548, be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Ludlam, Sen Scott",AG,2014-09-22,"
 
 
@@ -1122,7 +1122,7 @@ The effect of the amendments are to remove the ACMA’s statutory duty to invest
 
 I am a bit gobsmacked, so I am hoping that Senator Abetz can confirm this is a drafting error—and that we will not need to call a vote because we will all be on the same side of the chamber—and that you do not allow a regulator to regulate on a day when it feels like it and you do not remove the obligation for a regulator to uphold complaints of broadcasting made by the public or other organisations on the basis of what it considers desirable. I might hold it there and we will work out what kind of debate we are about to have. Senator Abetz can clarify exactly what it is that the government is up to and whether this is a conspiracy or a stuff-up.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -1136,7 +1136,7 @@ Senator ABETZ
 
 This legislation was introduced into the House of Representatives four days short of six months. So it has been there for the public to see now for six months. We stand by the amendments that we are seeking and just remind everybody that the Commonwealth Ombudsman will still be able to review ACMA's administrative actions in performing its investigative functions.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Cameron, Sen Doug",ALP,2014-09-22,"
 
 
@@ -1144,7 +1144,7 @@ This legislation was introduced into the House of Representatives four days shor
 Senator CAMERON
  (New South Wales) (13:45):  Labor will be opposing these amendments. We supported this bill in the House of Representatives because we thought that there were no unforeseen circumstances that would prevail in the bill that were a problem. We have only just received these. Senator Ludlam, I accept the issues that you have raised are important in terms of your position, but we have only just received them, so we have not had a chance to have a really close look at it. But, given the position we have adopted in the House of Representatives, we will continue to oppose these amendments. We believe ACMA can do its job with the bill as it stands. Maybe, Senator Ludlam, in future, we can get discussions on these issues a bit earlier.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Xenophon, Sen Nick",Ind.,2014-09-22,"
 
 
@@ -1161,7 +1161,7 @@ My concern relates to the wording of the omnibus bill where it refers to 'desira
 
 I note that the Leader of the Government, Senator Abetz, made reference to the Ombudsman having a say or an oversight role in respect of this. I do not pretend to be a better administrative lawyer than Senator Abetz by any standard, but my understanding is that, when it comes to dealing with administrative law matters, the Ombudsman's role is constrained based on the legislative framework. So if you have a legislative framework where there are so much more discretion for ACMA, there is less of a role, less chance for the Ombudsman to intervene, because there is such a broad discretion. The Ombudsman is there if there has been clearly a failure of process under the existing legislative framework. So these are my very real concerns expressed in the context of online gambling complaints that I get from my South Australians constituents and from people in the rest of the country who are concerned about this issue.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -1172,7 +1172,7 @@ Senator ABETZ
 
 In relation to ACMA deciding that it is 'desirable to do so'—that phrase 'desirable to do so'—it would be expected that ACMA will continue to inform complainants about the result of an investigation as a matter of best practice. At the end of the day, yes, we do rely on the officials to act in a reasonable and appropriate manner, and they will be given that discretion as per the legislation.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Xenophon, Sen Nick",Ind.,2014-09-22,"
 
 
@@ -1183,7 +1183,7 @@ Senator XENOPHON
 
  
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -1191,7 +1191,7 @@ Senator XENOPHON
 Senator ABETZ
  (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (13:52):  There are two questions there. First of all, as a matter of law, I gave away the wig and gown many years ago and am no longer in the business of giving legal opinion, Senator Xenophon. However, in relation to whether the term 'desirable to do so' is used in other legislation: regrettably, I cannot assist you on that; I do not have any advice and I personally cannot think of an example. That does not mean that it does not exist, but I am unable to assist you.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Xenophon, Sen Nick",Ind.,2014-09-22,"
 
 
@@ -1208,7 +1208,7 @@ I will be seeking a division on this. I do not think we should be going down thi
 
 I do not have more time but I think there is an argument that this would make it more difficult, for complaints in respect of online gambling and other issues where ACMA has jurisdiction, for there to be action. The online casino operators of Gibraltar and the Bahamas or Costa Rica or wherever will be very happy with this amendment, because it will mean less chance of ACMA being involved to protect consumers from abuses.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Ludlam, Sen Scott",AG,2014-09-22,"
 
 
@@ -1216,7 +1216,7 @@ I do not have more time but I think there is an argument that this would make it
 Senator LUDLAM
  (Western Australia) (13:54):  While the minister is seeking advice, I would be very keen to know where in law the minister can point to any statute, anywhere at all, where the phrase 'desirable to do so' is defined, so that ACMA will know on what its various desires on any given day, about whether it exercises its powers or not, will be based. I think Senator Xenophon has pointed out quite correctly that it makes it impossible for decisions like this to be judicially reviewed if ACMA can just kick back and say, 'We decided it wasn't desirable, and that's that.' So if the minister can provide us with what ACMA will be using as its working definition of desirability, for whether or not to do its job, that would assist greatly.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -1224,7 +1224,7 @@ Senator LUDLAM
 Senator ABETZ
  (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (13:55):  I have since been advised that there are allegedly many examples of the phrase 'desirable to do so'. The Superannuation (Resolution of Complaints) Act 1993 slipped my mind when I was responding. I am advised that there are also quite a few other examples, so we are not into uncharted territory here. It is an established legal term that has been used and, as you might guess, Senator Xenophon, I did not practice in the area of administrative law.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Cameron, Sen Doug",ALP,2014-09-22,"
 
 
@@ -1232,7 +1232,7 @@ Senator ABETZ
 Senator CAMERON
  (New South Wales) (13:56):  Senator Abetz, if this is an established approach that has been taken in previous legislation, do you have any examples as to where the issues that Senator Xenophon is raising have been dealt with—not the specific issues but the principles that he has raised? Does it cause or has it caused any of the problems that Senator Xenophon has raised in any other pieces of legislation? Obviously, if what Senator Xenophon is saying is correct then there are issues that need to be resolved in relation to this. The other question would be: in terms of the Interactive Gambling Act 2001, would there be a need for separate amendments on that, Senator Abetz? Do you see this as falling within the same principles as Senator Xenophon is raising?
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -1240,7 +1240,7 @@ Senator CAMERON
 Senator ABETZ
  (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (13:57):  I have since been given a checklist showing that the term to which Senator Xenophon referred, 'desirable to do so', in fact appears in 20 pieces of federal legislation. It has been relatively commonly used, it would appear, for over two decades now. Does this provide a wide discretion to the officials? Yes it does. We accept that. We believe that, in all the circumstances, it is appropriate. But, of course, as with all government departments and agencies, it is expected that ACMA will inform the public and the broadcasting industry about its general approach to investigating complaints in its discretion, and that will be made known publicly.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Ludlam, Sen Scott",AG,2014-09-22,"
 
 
@@ -1248,7 +1248,7 @@ Senator ABETZ
 Senator LUDLAM
  (Western Australia) (13:58):  I recognise that we are probably about to go to question time, but maybe I will just put this question on notice for the minister and his officers to consider in the interim. You have put examples to us to show that this is a term of art that is been used in other acts. I ask whether, in any of the other examples the minister wants to name, that idea of desirability is actually determinative as to whether or not the regulator uses its powers—as to whether or not the regulator actually does its job—or whether it has been interpreted in more peripheral ways in other acts? I thank the minister for acknowledging that it does exist in other acts. I am not familiar with the one that he cited. But to me it seems wide open to allow a regulator, in any field at all, to decide whether to do its job not on the basis of, 'Ignore the frivolous and vexatious stuff,' but, 'Just if you happen to feel like it.' I would still be seeking any criteria that ACMA would be forced to use as a benchmark, which, again, would form part of any future judicial review of a particular decision that might be contestable. And I ask: would ACMA have an obligation to inform complainants that it chose not to investigate that particular complaint because it found it to be not desirable? So my question is: just what is that feedback process going to be either in terms of annual reporting to the parliament or reporting directly to the complainant?
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -1259,7 +1259,7 @@ Senator ABETZ
 
 Progress reported.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,3,1,speech
 "Collins, Sen Jacinta",ALP,2014-09-22,"
 
 
@@ -1312,7 +1312,7 @@ Under the previous Labor government, the water trigger amendment to the EPBC Act
 
 In conclusion, and to reiterate, Labor will be voting for the bill. What we have in front of us is a standard clean-up which is not worth getting particularly frustrated about but is also in no way worth the fanfare that was associated with the fizzer that was repeal day way back in the Autumn of this year.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Seselja, Sen Zed",LP,2014-09-22,"
 
 
@@ -1407,7 +1407,7 @@ In conclusion, I do commend this bill. It is, in the words of Jennifer Westacott
 
 There are many aspects to our deregulation agenda and this bill is a very important part of it—and we are going to build on this start. Twice a year we are going to dedicate days to repealing legislation that puts too much burden on our business sector. Surely that is something that those opposite should be applauding. Surely they should be hanging their heads in shame at the way they overregulated these very businesses—the way they put more and more burdens on these family businesses. They should be hanging their heads in shame. They should not just be supporting this piece of legislation; they should be supporting other aspects of our deregulation agenda—all of which are designed to give us a more prosperous economy, to give us a more prosperous society and to give individuals, families and businesses the ability to choose, without too much government interference, how they make a living. I commend this legislation to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Bilyk, Sen Catryna",ALP,2014-09-22,"
 
 
@@ -1481,7 +1481,7 @@ Senator Brandis says that people have the right to be bigots. I say people have 
 
 The government needs to start taking seriously the act of governing. It needs to treat this place and the Australian people with respect. It needs to actively work to improve the lives of Australians, rather than moving redundant commas and clauses to show off what a good job it is doing in removing red tape.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Canavan, Sen Matthew",Nats,2014-09-22,"
 
 
@@ -1585,7 +1585,7 @@ I also think that, going forward, with making these changes—and they are good 
 
 Ultimately, this is a very important change because, as other speakers have alluded to, we have had declining productivity performance over the past decade. And it has not just been declining here in Australia; it is also declining relative to other countries in the world. We must realise that while many of those reforms from previous decades like opening up the economy and like deregulating financial markets have reduced costs for our country and enabled us to be more competitive. The over-burdensome regulations in this country have been something we have not quite tackled as well. When you open up an economy to the rest of the world, like we have done in the last 20 or 30 years, the costs of those regulations become even more keenly felt because those businesses now are not just competing against someone down the road; they are competing with someone over the oceans. Those countries might not always have the same regulatory restrictions. We need to always keep in mind that we as a government do not make people's lives out there harder than they need to be and that we do not put unnecessary barriers in the way of people who want to make a buck and employ people.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Lines, Sen Susan",ALP,2014-09-22,"
 
 
@@ -1653,7 +1653,7 @@ One of the other points I heard this morning from a government senator was about
 
 Labor will obviously reform areas that need reforming, but we will not do it with fanfare and we will not do it to the detriment of other really important issues, such as the government's inability to talk about its budget.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Waters, Sen Larissa",AG,2014-09-22,"
 
 
@@ -1754,7 +1754,7 @@ As I said, unfortunately, it is not just the federal government with this progra
 
 Perhaps the most insulting recent change happened just a week or so ago. The Queensland government have now removed the ability of Queenslanders to object in the Land Court to large mines, except if you are a neighbour or a local council that has its infrastructure impacted. I am just incredulous. This is a silencing of the community at a rate we have not seen since the Joh days. The thought of putting folk like that in complete control of icons that are not just nationally environmentally significant but are globally environmentally significant would be laughable if it were not so serious. This is exactly why, when you have proposals such as today's to just quietly and sneakily repeal protection for groundwater in the Murray-Darling Basin, to not worry so much about ozone depleting substances, and to allow sea installations to be built without reference to environmental issues, you just have to hold the line and say, 'Enough is enough.' That is why in the committee stage we will be moving amendments to keep those three positive environmental protections on our law books and why we will continue to rail against the tendency towards a plutocracy that we see from this government in giving the big mining companies absolutely everything that they want. It seems that they are simply running the show. I just remind senators in this place that actually we are elected here to represent people; we are not elected here to just further the vested interests of big corporates, who are, with their activities, threatening the sustainability of our environment for future generations. Thank you.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Rhiannon, Sen Lee",AG,2014-09-22,"
 
 
@@ -1798,7 +1798,7 @@ Some of you may think, 'What's this got to do with the issue that we have raised
 
 Another aspect—and my colleague Senator Waters went through this—is that mining of many minerals is occurring now. I have mentioned copper; I have mentioned gold. There are others as well. But what is also in the pipeline—possibly in Queensland and possibly in New South Wales—is uranium mining. Again, we need to have these laws strengthened. The impact that any sort of mining can have on our groundwater, our surface water and the interaction between those water resources can be very serious. We need to weigh up, of mining, whether it should go ahead and under what conditions it should go ahead. But if this were repealed that would be weakening the minimal protection that our water resources have. So there is a very clear case why section 255AA of the Water Act needs to be retained.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -1842,7 +1842,179 @@ Question agreed to.
 
 Bill read a second time. 
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
+"Wong, Sen Penny",ALP,2014-09-22,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:01):  My question is to the Minister representing the Prime Minister, Senator Abetz. I refer to the Prime Minister's statement of 14 September 2014 announcing Australia's contribution to the international coalition against ISIL, in response to a formal request for assistance from the government of the United States. Can the minister advise the Senate when and in what form this request was received?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Wong, Sen Penny",ALP,2014-09-22,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:02):  Mr President, I ask a supplementary question. I thank the minister for taking that question on notice. I ask that he take the following question as well. Can the minister outline discussions with the new government of Iraq in relation to the international coalition and its mission, including the terms of any request for assistance?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Wong, Sen Penny",ALP,2014-09-22,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:03):  Mr President, I ask a further supplementary question. Can the minister update the Senate on the support the Australian government is seeking from the UN Security Council in relation to ISIL?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Abetz, Sen Eric",LP,2014-09-22,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:01):  I am unable, at this stage, to advise the honourable senator as to the form that the request was received, but I am more than happy to take the question on notice. Whilst I am on my feet, I thank the opposition for their bipartisan positioning in this matter. It is a matter of grave concern not only to Australians but to all the world, and the support of the opposition is appreciated.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Abetz, Sen Eric",LP,2014-09-22,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:02):  I can indicate that in a recent telephone conversation with the Prime Minister, Prime Minister al-Abadi indicated Iraq would welcome any Australian military contribution to international efforts to help eliminate ISIL. He also noted that the concerted international efforts to fight ISIL will contribute to the stability of Iraq, the region and the world.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Abetz, Sen Eric",LP,2014-09-22,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:03):  As I understand it, and in conferring with my colleague Senator Brandis, who represents the Minister for Foreign Affairs, that the Minister for Foreign Affairs, Ms Bishop, is at the UN Security Council as we speak and she is seeking to advocate in the cause that I trust all of us in this chamber would be agreed on—that is, that there be decisive international support in matters that are confronting the world in relation to ISIL.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Smith, Sen Dean",LP,2014-09-22,"
+
+
+
+Senator SMITH
+ (Western Australia) (14:04):  My question is to the Leader of the Government in the Senate, Senator Abetz. Can the minister outline to the Senate the terrorist threat ISIL poses both to the people of Iraq and to the entire international community, including Australia?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Smith, Sen Dean",LP,2014-09-22,"
+
+
+
+Senator SMITH
+ (Western Australia) (14:07):  Mr President, I ask a supplementary question. Can the minister update the Senate on the preparation and deployment of Australian Defence Force personnel to assist in international efforts to combat the terrorist threat of ISIL in Iraq?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Smith, Sen Dean",LP,2014-09-22,"
+
+
+
+Senator SMITH
+ (Western Australia) (14:08):  Mr President, I ask a supplementary question. Can the minister advise the Senate of the level of cooperation, both at home and internationally, that has been mobilised in the past few weeks with the common aim of standing up to this terrorist threat?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Abetz, Sen Eric",LP,2014-09-22,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:04):  Can I thank Senator Smith for that very important question on what is a genuine international threat and, as we have seen and witnessed in recent days, that has fundamental domestic relevance to Australia as well. ISIL is a terrorist organisation. Its ambitions know no borders and delight in publicising wanton and barbaric acts of violence, terror and execution. There are now 1.8 million internally displaced people within Iraq. The Australian government is appalled by what appear to be a third video of an ISIL beheading, this time of a British aid worker, and by the gruesome beheadings of two innocent US journalists, and numerous other atrocities in Iraq and Syria.
+
+
+The overwhelming majority of Australians and I am sure everyone in this chamber find the barbarism of ISIL absolutely and utterly abhorrent. The emergence of ISIL and its universal declaration of an Islamic caliphate has concerning ramifications for Australia and our region as well as the Middle East. The decision by Australia to join the international coalition of some 40 nations to prepare and deploy a military force to counter the ISIL threat was not one that was taken lightly or with haste. These are grave decisions for any government and for any opposition to support.
+
+
+It should be noted that our security experts have been concerned for the past 18 months about foreign fighters travelling to the region to further terrorist causes. Currently, we know there are at least 60 Australians fighting with ISIL and other terrorist groups, and another 100 or so supporting these extremists.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Abetz, Sen Eric",LP,2014-09-22,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:07):  On 14 September the Prime Minister announced that, following a specific request from the United States, Australia would supply 600 personnel, including RAAF aircraft and special forces, to support the coalition force against ISIL. I can inform the Senate that the main contingent of Royal Australian Air Force personnel and aircraft departed for the Middle East recently. The aircraft included FA-18 Super Hornets, a KC-30A Multi Role Tanker Transport and an E-7A Wedgetail airborne early warning and control aircraft. This is in addition to the RAAF C-130 Hercules and C-17A Globemaster already providing humanitarian and logistical support to Iraq. Two humanitarian airdrops were completed on 14 August and 31 August. Australia is deploying a Special Operations task force in a supporting role— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Abetz, Sen Eric",LP,2014-09-22,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:08):  I acknowledge the bipartisan support of the opposition. As the opposition leader has himself acknowledged, this is a matter above politics. Australia has prepared and deployed a military force and provided humanitarian assistance at the request of the United States and Iraqi governments. This is part of a broader partnership of more than 40 nations. In his key address to the United Nations last Friday, the US Secretary of State, John Kerry, thanked Australia for our commitment. He said:
+
+
+We are particularly appreciative of the extent of Australia's commitment from obviously so far away—it is very meaningful and important.
+
+
+Last Monday, an international conference on peace and security in Iraq was held in Paris, where around 30 nations, including a number of Middle Eastern nations, acknowledged ISIL as a threat not only to Iraq but also to the entire international community— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Cameron, Sen Doug",ALP,2014-09-22,"
+
+
+
+Senator CAMERON
+ (New South Wales) (14:09):  My question is to the Minister representing the Treasurer, Senator Cormann. I refer to the Treasurer's statement on 15 September 2014 that Defence will be asked to absorb 'a significant amount of costs associated with participation in the international coalition against ISIL.' Is the Treasurer correct, or will the government maintain the practice of supplementing the net additional cost of major overseas operations on a no win, no loss basis?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"Cameron, Sen Doug",ALP,2014-09-22,"
+
+
+
+Senator CAMERON
+ (New South Wales) (14:11):  Mr President, I ask a supplementary question. I refer to the Prime Minister's statement on 16 September 2014 that Australia's participation in the international coalition against ISIL will cost about a quarter of a billion dollars every six months. Can the minister confirm that a quarter of a billion dollars every six months is the current estimated financial cost of Australia's engagement?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"Cameron, Sen Doug",ALP,2014-09-22,"
+
+
+
+Senator CAMERON
+ (New South Wales) (14:12):  Mr President, I ask a further supplementary question. Given that you have indicated that there will be a report in the Mid-Year Economic and Fiscal Outlook, could you provide details of exactly what you will be reporting on? Could you indicate whether you do believe that it will be a significant amount in the region of a quarter of a billion dollars every six months?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"Cormann, Sen Mathias",LP,2014-09-22,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance) (14:10):  I thank Senator Cameron for that question. Firstly, Senator Cameron would be well aware that, under this government, Defence is actually now on a funding growth trajectory again, unlike under the previous government. So there is an expectation that Defence will be able to absorb costs related to this particular activity over the next few months. The truth is, as Senator Wong would well know, that there are regular updates when it comes to budget estimates. So we will be updating the impact on the budget forward estimates in the usual way in the Mid-Year Economic and Fiscal Outlook.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
+"Cormann, Sen Mathias",LP,2014-09-22,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance) (14:11):  No, I am not in a position to confirm that figure. What I am in a position to confirm is what I have just said in response to the primary question. That is that the government will provide updates on the fiscal impact of our engagement in the international action against ISIL in the usual way, in our usual regular budget updates—the next one of course being the Mid-Year Economic and Fiscal Outlook.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
+"Cormann, Sen Mathias",LP,2014-09-22,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance) (14:12):  That is not a very serious question. This is obviously an evolving situation. The government is involved in making serious decisions in the national interest. The government is dealing with these matters in the national interest in the exact same way as the previous government would have dealt with it. This is not, and should not be, a matter of partisan—
+
+
+
+
+Senator Cameron:
+  Mr President, I rise on a point of order going to relevance. It is entirely appropriate for the opposition to be asking about the cost of this engagement and it is entirely appropriate for us to be asking questions about public statements. I draw the minister's attention—
+
+
+
+The PRESIDENT:  That is not a point of order. 
+
+
+
+
+Senator CORMANN:
+  As I have indicated, the government is obviously involved right now in making decisions. It is ongoing—it is obviously an evolving situation and there are decisions being made. This government will provide updates, as appropriate, in the usual way. Of course we understand the need to be accountable and we will be.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
 "Dastyari, Sen Sam",ALP,2014-09-22,"
 
 
@@ -1868,7 +2040,7 @@ The response here is, frankly, not good enough. We know that the financial servi
 
 Last week, in The Sydney Morning Herald, the fantastic Adele Ferguson wrote that a report is coming down a week or so from now regarding the conflicted nature of advice that is being given in the insurance sector. What is the government's plan? What is its response? Get through our FoFA changes as soon as possible; ram the legislation through as quickly as possible. We were told in the committee that we could not wait another week, that it all had to be brought forward this week and that we have to table the report this afternoon. But there is no rush for this. There is no need to ram this legislation through. Let us see what ASIC has to say next week and what the FSI has to say. Let us find out what is happening in Westpac. Let us make sure we have got right to the bottom of what has happened in the Commonwealth Bank. Let us allow for a proper investigation into the role of ANZ, as far as their responsibilities for Timbercorp are concerned, and let us allow all these matters to be properly aired, debated and investigated. Then we can have a proper, frank and fearless debate about what legislation is needed. But simply enforcing the regulations that the minister has already got up through legislation, to get it off the agenda, is not good enough. It is rushed, it is ill-prepared and it involves a series of recommendations and amendments that will, frankly, not protect consumer protections. We can wait and we should wait.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Future of Financial Advice</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Future of Financial Advice</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Macdonald, Sen Ian",LP,2014-09-22,"
 
 
@@ -1891,7 +2063,7 @@ People perhaps do not quite understand how governments work. But can I say it is
 
 So, Senator Dastyari, were it not for the fact that our senior economic ministers are spending most of their time trying to sort out the mess that your government left them, they may well have been able to concentrate more on the issue which you raised. All of these issues involving money are matters which have been very well handled by Mr Hockey and Senator Cormann. They have been doing a wonderful job so far in fixing Labor's financial mess. I can assure Senator Dastyari and other senators in this chamber that you will get the same sort of competent, sensible, mature solution of the issues which seem to be worrying Senator Dastyari so much.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Future of Financial Advice</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Future of Financial Advice</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Gallacher, Sen Alex",ALP,2014-09-22,"
 
 
@@ -1911,7 +2083,7 @@ But the reality here is that there is $1.8 trillion in superannuation in Austral
 
 If you go to the recent Senate inquiry conducted by Senator Mark Bishop, you will find that there were no less than 61 recommendations that found that there was a need for an examination of the Commonwealth Bank in relation to the misconduct of its advisers and planners. You have a picture here of a person—a former Assistant Treasurer, a former director of the NAB, a person who is not here in the chamber today to defend himself—I hope he turns up tomorrow to do so—who was the architect of this legislation which is opening up the gates and which is not the right thing for superannuants or anyone seeking financial advise in Australia. 
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Future of Financial Advice</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Future of Financial Advice</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Bernardi, Sen Cory",LP,2014-09-22,"
 
 
@@ -1934,7 +2106,7 @@ There is a noble cause representing those who are voiceless or unrepresented: go
 
 When we say, 'Let's work out the best ideas,' and reach an agreement on a committee in this place, you expect the government of the day to listen to it. Unfortunately, the future of financial-advice reforms were overcooked by the former government. They overreached. They betrayed the trust of the parliament and the Australian people. Now we have to address that. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Future of Financial Advice</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Future of Financial Advice</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -1942,7 +2114,7 @@ When we say, 'Let's work out the best ideas,' and reach an agreement on a commit
 Senator ABETZ
  (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (15:31):  by leave—I would like to add some information to an answer I gave to a question from Senator Wong earlier in question time today. I can indicate that the government received a formal letter from the Obama administration on Saturday 13 September 2014.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,11,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Iraq and Syria</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,11,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -1953,7 +2125,7 @@ Senator ABETZ
 
 Leave granted.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,12,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,12,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -1964,7 +2136,7 @@ Senator ABETZ
 
 Question agreed to.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,12,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,12,1,speech
 "Abetz, Sen Eric",LP,2014-09-22,"
 
 
@@ -1993,7 +2165,7 @@ That applies to this place as well—namely, the parliament—and I want to brie
 
 The fact that 40 nations are joining to fight ISIL tells us something. They are joined in fighting a movement that justifies the beheadings, crucifixions, mass executions, ethnic cleansing, rapes and sexual slavery that have taken place in every town and city they have captured. To do such evil, and to revel in doing such evil, is simply unprecedented. This revolting barbarity has regrettably found support in our midst and as a result we need to respond. Time is limited; other senators reasonably wish to comment. I simply commend the statement to the Senate and to the Australian people.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,12,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,12,1,speech
 "Wong, Sen Penny",ALP,2014-09-22,"
 
 
@@ -2102,7 +2274,7 @@ Australia is doing the right thing by supporting the Iraqi government. But any l
 
 The ADF is playing an important role in this mission, which we anticipate will bring about a safer and more inclusive Iraq. ADF personnel should know that they are carrying out their mission with the gratitude and support of the Australian people.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,12,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,12,1,speech
 "Milne, Sen Christine",AG,2014-09-22,"
 
 
@@ -2152,7 +2324,7 @@ I was surprised to hear the Leader of the Opposition in the Senate, Senator Wong
 
 What we need to do is to recognise that Australia needs to have an independent foreign policy. We need to look at what is in our own best interests, we need to bring our community together at this time and we need to ask the serious questions, and not be silenced by a government and opposition that are choosing to take the same position and to deny the Australian people straight answers to what actually is the end objective of our involvement in a new war in Iraq.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,12,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,12,1,speech
 "Lambie, Sen Jacqui",PUP,2014-09-22,"
 
 
@@ -2212,7 +2384,7 @@ The DEPUTY PRESIDENT:  The question is that the motion moved by Senator Abetz be
 
 Question agreed to. 
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,12,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,12,1,speech
 "Bushby, Sen David",LP,2014-09-22,"
 
 
@@ -2226,7 +2398,7 @@ That the Joint Standing Committee on Foreign Affairs, Defence and Trade be autho
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,16,1
+",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,16,1,speech
 "Bushby, Sen David",LP,2014-09-22,"
 
 
@@ -2240,7 +2412,7 @@ That the Joint Standing Committee on Foreign Affairs, Defence and Trade be autho
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,16,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,16,2,speech
 "Hanson-Young, Sen Sarah",AG,2014-09-22,"
 
 
@@ -2269,7 +2441,7 @@ Question agreed to.
 
  
 
-",Senate,<title>MOTIONS</title>,"<title>Kehazaei, Mr Hamid</title>",MOTIONS,18,1
+",Senate,<title>MOTIONS</title>,"<title>Kehazaei, Mr Hamid</title>",MOTIONS,18,1,speech
 "Fifield, Sen Mitch",LP,2014-09-22,"
 
 
@@ -2287,7 +2459,7 @@ The DEPUTY PRESIDENT:  Leave is granted for one minute.
 Senator FIFIELD:
   I make a statement on behalf of Senator Cash. Hamid Kehazaei passed away on Friday, 5 September. An imam was present at the time of death, and the government of Iran has been informed. As stated by Minister Morrison, the Australian government extends our deepest sympathies to the man's family and friends. Mr Kehazaei was transferred to Australia from Port Moresby on 27 August following medical advice regarding his deteriorating health. I can advise that the chief medical officer of the Department of Immigration and Border Protection is conducting an in-depth clinical review of the background to the transferee's medical condition and care while at the Manus offshore processing centre. The department will consider what additional appropriate assistance it can reasonably provide to the family, should this be required. Criticisms regarding the circumstances of the death to date are not based on any primary knowledge of the event or circumstances, and such commentary is unhelpful.
 
-",Senate,<title>MOTIONS</title>,"<title>Kehazaei, Mr Hamid</title>",MOTIONS,18,1
+",Senate,<title>MOTIONS</title>,"<title>Kehazaei, Mr Hamid</title>",MOTIONS,18,1,speech
 "DEPUTY PRESIDENT, The",,2014-09-22,"
 
 
@@ -2314,7 +2486,7 @@ More than the number of senators required by the standing orders having risen in
 
 The DEPUTY PRESIDENT:  I understand that informal arrangements have been made to allocate specific times to each of the speakers in today’s debate. With the concurrence of the Senate, I shall ask the clerks to set the clock accordingly.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Climate Change</title>,MATTERS OF URGENCY,19,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Climate Change</title>,MATTERS OF URGENCY,19,1,speech
 "Milne, Sen Christine",AG,2014-09-22,"
 
 
@@ -2385,7 +2557,7 @@ Senator MILNE:
 
 Time and tide wait for no man, including our Prime Minister. Global warming is accelerating. It needs action. The government need to tell us what is going to be our emissions reduction target up to 2020 and then post 2020. The world is going to ask for that. The Australian community deserve to hear it first.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Climate Change</title>,MATTERS OF URGENCY,19,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Climate Change</title>,MATTERS OF URGENCY,19,1,speech
 "Birmingham, Sen Simon",LP,2014-09-22,"
 
 
@@ -2420,7 +2592,7 @@ It is absolutely the commitment of this government that, with other countries of
 
 Australia has been, and will continue to be, a good international citizen in this space. Where we make commitments, we will deliver on policies that see them through. When a commitment was made around Kyoto, notwithstanding debates about full ratification, successive governments ensured that those targets were met. The commitment made, the bipartisan commitment to the unconditional five per cent reduction by 2020, is one that has stood in a bipartisan manner. As far as I am aware, it is still a bipartisan commitment and it is one that we will ensure is delivered by 2020. As we enter into these discussions and seek to ensure there is that common playing field under which countries can make post-2020 commitments, you can have confidence that this government, when it makes a commitment in those fora, will stand by that commitment and will deliver the policies to ensure that we meet it in future as well. I look forward to hearing in the debate whether the Labor Party's targets have changed at all.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Climate Change</title>,MATTERS OF URGENCY,19,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Climate Change</title>,MATTERS OF URGENCY,19,1,speech
 "Cameron, Sen Doug",ALP,2014-09-22,"
 
 
@@ -2480,7 +2652,7 @@ I worked—and I am one of the few senators here who have actually worked as a b
 
 The International Energy Agency is saying we need to minimise carbon pollution where we are and we need to maximise renewables. That would be a culture shock for the Prime Minister who does not believe in global warming, who does not believe in the science, and who does not believe in anything other than lies and misrepresentation when it comes to this country. They are a bad government. They do not understand it and the Prime Minister should be there getting some education on this issue. (Time expired)
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Climate Change</title>,MATTERS OF URGENCY,19,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Climate Change</title>,MATTERS OF URGENCY,19,1,speech
 "Rice, Sen Janet",AG,2014-09-22,"
 
 
@@ -2542,7 +2714,7 @@ In my first speech I laid out six steps that we need to be taking if we want rea
 
 I am sure that people at the UN Climate Summit will be learning about the benefits a price on carbon will be having all around the world. Our price on carbon reduced our carbon emissions by two per cent in just a year. Australia used to be a global leader because of these sorts of measures. When I came into this Senate I was proud to be joining a party and a parliament that was going to be tackling climate change with strong action. We are no longer that parliament. We need to be there on the world stage, putting our case for urgent and serious action, and acting on climate change.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Climate Change</title>,MATTERS OF URGENCY,19,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Climate Change</title>,MATTERS OF URGENCY,19,1,speech
 "Ruston, Sen Anne",LP,2014-09-22,"
 
 
@@ -2568,7 +2740,7 @@ We heard through the debate on the carbon tax repeal legislation of companies th
 
 So what the coalition is seeking to do by the changes that we are making is to put in place something that will not just achieve the outcome but that will do so through measures that are not going to send our country broke.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Climate Change</title>,MATTERS OF URGENCY,19,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Climate Change</title>,MATTERS OF URGENCY,19,1,speech
 "Urquhart, Sen Anne",ALP,2014-09-22,"
 
 
@@ -2609,7 +2781,7 @@ The Abbott government's Direct Action Plan is a sham, and I would urge all in th
 
 A recent inquiry for the Senate Environment and Communications Committee failed to find one witness who supported Direct Action as a credible standalone solution to address climate change. Direct Action will hand out grants to big polluters but levy no fine on those who fail to reduce their emissions. Shockingly, Climate Institute modelling found that, if other countries followed the Abbott government's policy lead of Direct Action, the world would be on track for a catastrophic rise of up to 6.5 per cent by the end of the century. Tony Abbott, the Prime Minister, needs to recognise that the world is moving toward a low-carbon future, whether he likes it or not. He can either embrace this future and the opportunities it offers Australia, or he can continue to block action on climate change.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Climate Change</title>,MATTERS OF URGENCY,19,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Climate Change</title>,MATTERS OF URGENCY,19,1,speech
 "Macdonald, Sen Ian",LP,2014-09-22,"
 
 
@@ -2641,7 +2813,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Seselja
 ):  The question is that the motion moved by Senator Milne be agreed to.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Climate Change</title>,MATTERS OF URGENCY,19,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Climate Change</title>,MATTERS OF URGENCY,19,1,speech
 "Birmingham, Sen Simon",LP,2014-09-22,"
 
 
@@ -2650,7 +2822,7 @@ Senator Seselja
 Senator BIRMINGHAM
  (South Australia—Parliamentary Secretary to the Minister for the Environment) (17:18):  On behalf of the Treasurer, I table a ministerial statement on G20-OECD Tax and Transparency.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>G20-OECD Tax and Transparency</title>,MINISTERIAL STATEMENTS,20,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>G20-OECD Tax and Transparency</title>,MINISTERIAL STATEMENTS,20,1,speech
 "Siewert, Sen Rachel",AG,2014-09-22,"
 
 
@@ -2694,7 +2866,7 @@ We have not yet finished our journey on the recognition of Aboriginal and Torres
 
 Leave granted; debate adjourned.
 
-",Senate,<title>DOCUMENTS</title>,<title>Aboriginal and Torres Strait Islander Peoples Act of Recognition Review Panel</title>,DOCUMENTS,21,1
+",Senate,<title>DOCUMENTS</title>,<title>Aboriginal and Torres Strait Islander Peoples Act of Recognition Review Panel</title>,DOCUMENTS,21,1,speech
 "Seselja, Sen Zed (The ACTING DEPUTY PRESIDENT)",LP,2014-09-22,"
 
 
@@ -4285,7 +4457,7 @@ Employment portfolio. [Received 11 September 2014]
 
 Ordered that the committee reports be printed.
 
-",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,21,2
+",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,21,2,speech
 "Ronaldson, Sen Michael",LP,2014-09-22,"
 
 
@@ -4293,7 +4465,7 @@ Ordered that the committee reports be printed.
 Senator RONALDSON
  (Victoria—Minister for Veterans' Affairs, Minister Assisting the Prime Minister for the Centenary of ANZAC and Special Minister of State) (17:29):  I table addenda to explanatory memoranda relating to the Business Services Wage Assessment Tool Payment Scheme Bill 2014, and the Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014. These addenda respond to concerns raised by the Scrutiny of Bills Committee.
 
-",Senate,<title>BILLS</title>,"<title>Business Services Wage Assessment Tool Payment Scheme Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,22,1
+",Senate,<title>BILLS</title>,"<title>Business Services Wage Assessment Tool Payment Scheme Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,22,1,speech
 "Ronaldson, Sen Michael",LP,2014-09-22,"
 
 
@@ -4301,7 +4473,7 @@ Senator RONALDSON
 Senator RONALDSON
  (Victoria—Minister for Veterans' Affairs, Minister Assisting the Prime Minister for the Centenary of ANZAC and Special Minister of State) (17:29):  I table addenda to explanatory memoranda relating to the Business Services Wage Assessment Tool Payment Scheme Bill 2014, and the Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014. These addenda respond to concerns raised by the Scrutiny of Bills Committee.
 
-",Senate,<title>BILLS</title>,<title>Explanatory Memorandum</title>,BILLS,22,2
+",Senate,<title>BILLS</title>,<title>Explanatory Memorandum</title>,BILLS,22,2,speech
 "Ruston, Sen Anne",LP,2014-09-22,"
 
 
@@ -4309,7 +4481,7 @@ Senator RONALDSON
 Senator RUSTON
  (South Australia—Deputy Government Whip in the Senate) (17:30):  On behalf of the Chair of the Community Affairs Legislation Committee, Senator Seselja, I present additional information received by the committee on its inquiry into the Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014 and related bill.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs Legislation Committee</title>,COMMITTEES,23,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs Legislation Committee</title>,COMMITTEES,23,1,speech
 "Ruston, Sen Anne",LP,2014-09-22,"
 
 
@@ -4317,7 +4489,7 @@ Senator RUSTON
 Senator RUSTON
  (South Australia—Deputy Government Whip in the Senate) (17:30):  On behalf of the Chair of the Community Affairs Legislation Committee, Senator Seselja, I present additional information received by the committee on its inquiry into the Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014 and related bill.
 
-",Senate,<title>COMMITTEES</title>,<title>Additional Information</title>,COMMITTEES,23,2
+",Senate,<title>COMMITTEES</title>,<title>Additional Information</title>,COMMITTEES,23,2,speech
 "Ruston, Sen Anne",LP,2014-09-22,"
 
 
@@ -4328,7 +4500,7 @@ Senator RUSTON
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs Legislation Committee</title>,COMMITTEES,27,1
+",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs Legislation Committee</title>,COMMITTEES,27,1,speech
 "Ruston, Sen Anne",LP,2014-09-22,"
 
 
@@ -4339,7 +4511,7 @@ Senator RUSTON
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,27,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,27,2,speech
 "CHAIRMAN, The",,2014-09-22,"
 
 
@@ -4347,7 +4519,7 @@ Ordered that the report be printed.
 The CHAIRMAN
  (17:44):  The committee is considering Australian Greens amendments (1) to (4) that have been moved together by leave by Senator Ludlam but will be put separately. 
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1,speech
 "Waters, Sen Larissa",AG,2014-09-22,"
 
 
@@ -4359,7 +4531,7 @@ Senator WATERS
 
 The CHAIRMAN:  He moved them all. Two of the amendments are consequential to the other two, so we will deal with them as two separate groups. (Quorum formed) We are at the point where the question before the chair is that items 5 to 16 on schedule 2 stand as printed.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1,speech
 "Xenophon, Sen Nick",Ind.,2014-09-22,"
 
 
@@ -4415,7 +4587,7 @@ Question negatived.
 
 The CHAIRMAN:  Senator Xenophon, this would be a good time for you to move your amendment.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1,speech
 "Xenophon, Sen Nick",Ind.,2014-09-22,"
 
 
@@ -4438,7 +4610,7 @@ My concern relates to the Interactive Gambling Act that was introduced back in 2
 
 An effective enforcement regime relies on ACMA investigating and working in conjunction with the Federal Police. I know that from the constituents I have dealt with who have been deeply affected by this. If this Omnibus Repeal Day (Autumn 2014) Bill 2014 is passed without my amendments, it will send a green light to the shonks in Gibraltar and other parts of the world. It will tell them that they are less likely to be detected and less likely to be affected by a police investigation. This is because the key regulatory body, ACMA—that first port of call—will simply be less likely to be investigating such matters.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1,speech
 "Polley, Sen Helen",ALP,2014-09-22,"
 
 
@@ -4447,7 +4619,7 @@ An effective enforcement regime relies on ACMA investigating and working in conj
 Senator POLLEY
  (Tasmania) (17:53):  Labor will not be supporting these amendments. Whilst we acknowledge Senator Xenophon's concerns and long-held interest in this area, Labor does not believe that the effect of the provisions contained in this bill warrant the amendments that Senator Xenophon has proposed. As with the amendments from Senator Ludlam relating to the change from ACMA having a duty to investigate to it having a general discretion under the Broadcasting Services Act 1992, in order to allow for greater consideration Labor would have preferred to have received greater notice that these amendments would be moved. Labor supported this bill through the House on the basis that it makes minor amendments and repeals spent legislation. We have not identified any adverse consequences arising from the changes imposed by the bill. Labor opposed similar amendments from Senator Ludlam relating to the effect of the bill in altering ACMA's responsibility to investigate from a duty to a discretionary power. We oppose these amendments on a similar basis.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1,speech
 "Ronaldson, Sen Michael",LP,2014-09-22,"
 
 
@@ -4455,7 +4627,7 @@ Senator POLLEY
 Senator RONALDSON
  (Victoria—Minister for Veterans' Affairs, Minister Assisting the Prime Minister for the Centenary of ANZAC and Special Minister of State) (17:54):  The appropriate minister is otherwise detained, so he has asked me to have carriage of this briefly, Senator Xenophon. In relation to Senator Polley's comments, my understanding is that this bill went to a committee. So I think there has been plenty of notice about what the contents of the bill are. If I am wrong, then I am wrong. 
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1,speech
 "Polley, Sen Helen",ALP,2014-09-22,"
 
 
@@ -4463,7 +4635,7 @@ Senator RONALDSON
 Senator POLLEY
  (Tasmania) (17:55):  I am talking about the amendments.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1,speech
 "Ronaldson, Sen Michael",LP,2014-09-22,"
 
 
@@ -4477,7 +4649,7 @@ From these notes I have just had a quick look at, I do note that the decision no
 
 I am acutely aware of Senator Xenophon's longstanding interest in this area. But my very strong view and the government's very strong view is that the decision about whether there is merit in investigating these complaints should be made by ACMA. There are other means of appeal if people are aggrieved by ACMA's decision. But I think this will make for a more seamless approach by ACMA. Indeed, it will enable them to get on with the real issues and not deal with trivial matters, as they are required to under the legislation.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1,speech
 "Xenophon, Sen Nick",Ind.,2014-09-22,"
 
 
@@ -4488,7 +4660,7 @@ Senator XENOPHON
 
 The specific question I have for the minister is: does he concede that the ability for the Commonwealth Ombudsman to be involved in a review of a decision—or the circumstances in which that will occur—will, of necessity, be more limited than they are in the current legislation? In other words, there is less scope for the Ombudsman to be involved in matters of review because it is now much more difficult to get to that threshold at which the Ombudsman can be involved—by virtue of having a 'desirable to do so' test.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1,speech
 "Ronaldson, Sen Michael",LP,2014-09-22,"
 
 
@@ -4499,7 +4671,7 @@ Senator RONALDSON
 
 We are as anxious as you are, Senator Xenophon, to make sure that ACMA has the very best opportunity and the very best resources to investigate the shysters and those who are creating the misery and not to have a legislative requirement to investigate every single trivial complaint, which can only, as a matter of course, as I am sure you understand, impact on ACMA's ability to do the real work.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1,speech
 "Xenophon, Sen Nick",Ind.,2014-09-22,"
 
 
@@ -4507,7 +4679,7 @@ We are as anxious as you are, Senator Xenophon, to make sure that ACMA has the v
 Senator XENOPHON
  (South Australia) (18:01):  I do not quite follow what the minister said a moment ago. Is the minister saying that ACMA will now have more resources to deal with matters as a result of these amendments? It seems to me that these amendments effectively mean that ACMA, if it does not have the resources, can more easily say, 'We cannot investigate this matter because we don't have the resources and we don't have a statutory obligation to do so.' My specific question to the minister, which I ask respectfully again, is: does the minister concede that, in respect of these proposed changes to the legislation, the discretion for the Commonwealth Ombudsman to be involved under his or her statutory power is being circumscribed by virtue of these changes? In other words, the circumstances in which the Commonwealth Ombudsman can undertake an investigation within his jurisdiction is now being restricted to some degree as a result of these changes—yes or no?
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1,speech
 "Ronaldson, Sen Michael",LP,2014-09-22,"
 
 
@@ -4525,7 +4697,7 @@ Bill agreed to.
 
 Bill reported without amendments; report adopted.
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1,speech
 "Ronaldson, Sen Michael",LP,2014-09-22,"
 
 
@@ -4546,7 +4718,7 @@ Bill read a third time.
 
  
 
-",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Omnibus Repeal Day (Autumn 2014) Bill 2014</title>,BILLS,28,1,speech
 "CHAIRMAN, The",,2014-09-22,"
 
 
@@ -4554,7 +4726,7 @@ Bill read a third time.
 The CHAIRMAN
  (17:44):  The committee is considering Australian Greens amendments (1) to (4) that have been moved together by leave by Senator Ludlam but will be put separately. 
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2,speech
 "Waters, Sen Larissa",AG,2014-09-22,"
 
 
@@ -4566,7 +4738,7 @@ Senator WATERS
 
 The CHAIRMAN:  He moved them all. Two of the amendments are consequential to the other two, so we will deal with them as two separate groups. (Quorum formed) We are at the point where the question before the chair is that items 5 to 16 on schedule 2 stand as printed.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2,speech
 "Xenophon, Sen Nick",Ind.,2014-09-22,"
 
 
@@ -4622,7 +4794,7 @@ Question negatived.
 
 The CHAIRMAN:  Senator Xenophon, this would be a good time for you to move your amendment.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2,speech
 "Xenophon, Sen Nick",Ind.,2014-09-22,"
 
 
@@ -4645,7 +4817,7 @@ My concern relates to the Interactive Gambling Act that was introduced back in 2
 
 An effective enforcement regime relies on ACMA investigating and working in conjunction with the Federal Police. I know that from the constituents I have dealt with who have been deeply affected by this. If this Omnibus Repeal Day (Autumn 2014) Bill 2014 is passed without my amendments, it will send a green light to the shonks in Gibraltar and other parts of the world. It will tell them that they are less likely to be detected and less likely to be affected by a police investigation. This is because the key regulatory body, ACMA—that first port of call—will simply be less likely to be investigating such matters.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2,speech
 "Polley, Sen Helen",ALP,2014-09-22,"
 
 
@@ -4654,7 +4826,7 @@ An effective enforcement regime relies on ACMA investigating and working in conj
 Senator POLLEY
  (Tasmania) (17:53):  Labor will not be supporting these amendments. Whilst we acknowledge Senator Xenophon's concerns and long-held interest in this area, Labor does not believe that the effect of the provisions contained in this bill warrant the amendments that Senator Xenophon has proposed. As with the amendments from Senator Ludlam relating to the change from ACMA having a duty to investigate to it having a general discretion under the Broadcasting Services Act 1992, in order to allow for greater consideration Labor would have preferred to have received greater notice that these amendments would be moved. Labor supported this bill through the House on the basis that it makes minor amendments and repeals spent legislation. We have not identified any adverse consequences arising from the changes imposed by the bill. Labor opposed similar amendments from Senator Ludlam relating to the effect of the bill in altering ACMA's responsibility to investigate from a duty to a discretionary power. We oppose these amendments on a similar basis.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2,speech
 "Ronaldson, Sen Michael",LP,2014-09-22,"
 
 
@@ -4662,7 +4834,7 @@ Senator POLLEY
 Senator RONALDSON
  (Victoria—Minister for Veterans' Affairs, Minister Assisting the Prime Minister for the Centenary of ANZAC and Special Minister of State) (17:54):  The appropriate minister is otherwise detained, so he has asked me to have carriage of this briefly, Senator Xenophon. In relation to Senator Polley's comments, my understanding is that this bill went to a committee. So I think there has been plenty of notice about what the contents of the bill are. If I am wrong, then I am wrong. 
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2,speech
 "Polley, Sen Helen",ALP,2014-09-22,"
 
 
@@ -4670,7 +4842,7 @@ Senator RONALDSON
 Senator POLLEY
  (Tasmania) (17:55):  I am talking about the amendments.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2,speech
 "Ronaldson, Sen Michael",LP,2014-09-22,"
 
 
@@ -4684,7 +4856,7 @@ From these notes I have just had a quick look at, I do note that the decision no
 
 I am acutely aware of Senator Xenophon's longstanding interest in this area. But my very strong view and the government's very strong view is that the decision about whether there is merit in investigating these complaints should be made by ACMA. There are other means of appeal if people are aggrieved by ACMA's decision. But I think this will make for a more seamless approach by ACMA. Indeed, it will enable them to get on with the real issues and not deal with trivial matters, as they are required to under the legislation.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2,speech
 "Xenophon, Sen Nick",Ind.,2014-09-22,"
 
 
@@ -4695,7 +4867,7 @@ Senator XENOPHON
 
 The specific question I have for the minister is: does he concede that the ability for the Commonwealth Ombudsman to be involved in a review of a decision—or the circumstances in which that will occur—will, of necessity, be more limited than they are in the current legislation? In other words, there is less scope for the Ombudsman to be involved in matters of review because it is now much more difficult to get to that threshold at which the Ombudsman can be involved—by virtue of having a 'desirable to do so' test.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2,speech
 "Ronaldson, Sen Michael",LP,2014-09-22,"
 
 
@@ -4706,7 +4878,7 @@ Senator RONALDSON
 
 We are as anxious as you are, Senator Xenophon, to make sure that ACMA has the very best opportunity and the very best resources to investigate the shysters and those who are creating the misery and not to have a legislative requirement to investigate every single trivial complaint, which can only, as a matter of course, as I am sure you understand, impact on ACMA's ability to do the real work.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2,speech
 "Xenophon, Sen Nick",Ind.,2014-09-22,"
 
 
@@ -4714,7 +4886,7 @@ We are as anxious as you are, Senator Xenophon, to make sure that ACMA has the v
 Senator XENOPHON
  (South Australia) (18:01):  I do not quite follow what the minister said a moment ago. Is the minister saying that ACMA will now have more resources to deal with matters as a result of these amendments? It seems to me that these amendments effectively mean that ACMA, if it does not have the resources, can more easily say, 'We cannot investigate this matter because we don't have the resources and we don't have a statutory obligation to do so.' My specific question to the minister, which I ask respectfully again, is: does the minister concede that, in respect of these proposed changes to the legislation, the discretion for the Commonwealth Ombudsman to be involved under his or her statutory power is being circumscribed by virtue of these changes? In other words, the circumstances in which the Commonwealth Ombudsman can undertake an investigation within his jurisdiction is now being restricted to some degree as a result of these changes—yes or no?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2,speech
 "Ronaldson, Sen Michael",LP,2014-09-22,"
 
 
@@ -4732,7 +4904,7 @@ Bill agreed to.
 
 Bill reported without amendments; report adopted.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,28,2,speech
 "Edwards, Sen Sean",LP,2014-09-22,"
 
 
@@ -4776,4 +4948,4 @@ The Australian wine community is indeed a poorer one without Yvonne. While she w
 
 Shortly after joining Wine Australia, Yvonne was quoted as saying, 'Australia is where my heart is,' and as we honour her today and mourn her passing I know Yvonne is in the hearts of the Australian wine community, who she spent 25 years so passionately advocating for. Vale, Yvonne May. Australia will miss you.
 
-",Senate,<title>ADJOURNMENT</title>,"<title>Yvonne, Ms May</title>",ADJOURNMENT,29,1
+",Senate,<title>ADJOURNMENT</title>,"<title>Yvonne, Ms May</title>",ADJOURNMENT,29,1,speech

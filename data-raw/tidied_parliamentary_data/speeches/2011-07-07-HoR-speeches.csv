@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Jenkins, Harry, MP",ALP,2011-07-07,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER:
   I have received a message from the Senate informing the House that, in accordance with the Intelligence Services Act 2001, Senators Brandis and Johnston have been appointed members of the Parliamentary Joint Committee on Intelligence and Security.
 
-",HoR,<title>COMMITTEES</title>,<title>Intelligence and Security Committee</title>,COMMITTEES,0,1
+",HoR,<title>COMMITTEES</title>,<title>Intelligence and Security Committee</title>,COMMITTEES,0,1,speech
 "Jenkins, Harry, MP",ALP,2011-07-07,"
 
 
@@ -14,7 +14,7 @@ The SPEAKER:
 The SPEAKER:
   I have received a message from the Senate informing the House that, in accordance with the Intelligence Services Act 2001, Senators Brandis and Johnston have been appointed members of the Parliamentary Joint Committee on Intelligence and Security.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,0,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,0,2,speech
 "Smith, Stephen, MP",ALP,2011-07-07,"
 
 
@@ -227,7 +227,7 @@ That so much of the standing orders be suspended as would prevent the member for
 
 Question agreed to. 
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,1,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,1,1,speech
 "Robert, Stuart, MP",LP,2011-07-07,"
 
 
@@ -295,7 +295,7 @@ I reiterate to the minister that a political cap of 1,550 people should be able 
 
 As the 2nd Battalion takes over the Mentoring Task Force, and the bulk of the Special Operations Task Group is comprised of the 2nd Commando Regiment based on 4RAR, we now ostensibly have the old 2nd/4th Battalion back in operation again—this time in separate MTF and the SOTG forces. The coalition wishes them the very best. We will monitor their progress with great interest. We will support them to the hilt and we will continue to offer bipartisan support to the government to ensure our fighting men and women have everything they need to effect victory within Afghanistan.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,1,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Afghanistan</title>,MINISTERIAL STATEMENTS,1,1,speech
 "Smith, Stephen, MP",ALP,2011-07-07,"
 
 
@@ -312,7 +312,7 @@ Last month I received part 2 of the report. Part 2 deals with Navy administrativ
 
 I have just tabled a redacted version of part 2 of Mr Gyles's report. The redactions are made on legal advice to prevent the identification of individuals who may be subject to disciplinary procedures. I provided a copy of the full report in confidence to Senator Mark Bishop, the Chair of the Senate Foreign Affairs, Defence and Trade Legislation Committee; Senator Kroger, the Chair of the Senate Foreign Affairs, Defence and Trade References Committee; and Senator Johnston, the shadow minister for defence. This satisfies undertakings made to keep the Senate fully informed of these matters. The Chief of the Defence Force and the Chief of Navy have accepted the findings and recommendations and will take action on all of Mr Giles's recommendations contained in part 2 of his inquiry. This includes a properly framed apology to the three landed senior sailors from the Chief of Navy for the failure to accord them proper process and an offer to make a payment of monetary compensation for each of them. It also includes an apology to the authors of the 2009 inquiry from the Chief of the Defence Force and the Chief of Navy. Part 3 of Mr Giles's report will examine in more detail the conduct of administrative inquiries and wider considerations such as the interplay between enforcement of the Defence Force Discipline Act 1982, administrative decisions, redress of grievance and the role of equity and diversity policy. I thank the House.
 
-",HoR,<title>DOCUMENTS</title>,<title>HMAS Success</title>,DOCUMENTS,2,1
+",HoR,<title>DOCUMENTS</title>,<title>HMAS Success</title>,DOCUMENTS,2,1,speech
 "Smith, Stephen, MP",ALP,2011-07-07,"
 
 
@@ -329,7 +329,7 @@ Last month I received part 2 of the report. Part 2 deals with Navy administrativ
 
 I have just tabled a redacted version of part 2 of Mr Gyles's report. The redactions are made on legal advice to prevent the identification of individuals who may be subject to disciplinary procedures. I provided a copy of the full report in confidence to Senator Mark Bishop, the Chair of the Senate Foreign Affairs, Defence and Trade Legislation Committee; Senator Kroger, the Chair of the Senate Foreign Affairs, Defence and Trade References Committee; and Senator Johnston, the shadow minister for defence. This satisfies undertakings made to keep the Senate fully informed of these matters. The Chief of the Defence Force and the Chief of Navy have accepted the findings and recommendations and will take action on all of Mr Giles's recommendations contained in part 2 of his inquiry. This includes a properly framed apology to the three landed senior sailors from the Chief of Navy for the failure to accord them proper process and an offer to make a payment of monetary compensation for each of them. It also includes an apology to the authors of the 2009 inquiry from the Chief of the Defence Force and the Chief of Navy. Part 3 of Mr Giles's report will examine in more detail the conduct of administrative inquiries and wider considerations such as the interplay between enforcement of the Defence Force Discipline Act 1982, administrative decisions, redress of grievance and the role of equity and diversity policy. I thank the House.
 
-",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,2,2
+",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,2,2,speech
 "Smith, Stephen, MP",ALP,2011-07-07,"
 
 
@@ -343,7 +343,7 @@ Dr Gumley became the CEO of the Defence Materiel Organisation in 2004, and in 20
 
 Dr Gumley leaves the Defence Materiel Organisation, and the defence organisation itself, in a much stronger and better position than when he joined some 7½ years ago. The Minister for Defence Materiel and I thank him for his significant contribution, the government thanks him for his significant contribution and we wish him all the best for the future.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Gumley, Dr Stephen</title>",STATEMENTS ON INDULGENCE,3,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Gumley, Dr Stephen</title>",STATEMENTS ON INDULGENCE,3,1,speech
 "Robert, Stuart, MP",LP,2011-07-07,"
 
 
@@ -369,7 +369,7 @@ DMO has its challenges. We will continue to hold the minister accountable for th
 
 To Dr Gumley I offer my sincere thanks and the thanks of the coalition for his hard work and work well done.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Gumley, Dr Stephen</title>",STATEMENTS ON INDULGENCE,3,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Gumley, Dr Stephen</title>",STATEMENTS ON INDULGENCE,3,1,speech
 "Roxon, Nicola, MP",ALP,2011-07-07,"
 
 
@@ -512,7 +512,7 @@ I commend the bill to the House.
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Fairer Private Health Insurance Incentives Bill 2011</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Fairer Private Health Insurance Incentives Bill 2011</title>,BILLS,4,1,speech
 "Albanese, Anthony, MP",ALP,2011-07-07,"
 
 
@@ -541,7 +541,7 @@ the end of 2011.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Privileges and Members' Interests Committee</title>,COMMITTEES,9,1
+",HoR,<title>COMMITTEES</title>,<title>Privileges and Members' Interests Committee</title>,COMMITTEES,9,1,speech
 "Albanese, Anthony, MP",ALP,2011-07-07,"
 
 
@@ -570,7 +570,7 @@ the end of 2011.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,9,2
+",HoR,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,9,2,speech
 "Hayes, Chris, MP",ALP,2011-07-07,"
 
 
@@ -598,7 +598,7 @@ Question agreed to.
 
 
 
-",HoR,<title>COMMITTEES</title>,<title>Publications Committee</title>,COMMITTEES,11,1
+",HoR,<title>COMMITTEES</title>,<title>Publications Committee</title>,COMMITTEES,11,1,speech
 "Hayes, Chris, MP",ALP,2011-07-07,"
 
 
@@ -626,7 +626,7 @@ Question agreed to.
 
 
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,11,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,11,2,speech
 "Secker, Patrick, MP",LP,2011-07-07,"
 
 
@@ -646,7 +646,7 @@ Mr SECKER:
 
 Also of interest for members of the parliament who may be interested in taking part in a delegation or in reading this report, we visited the International Energy Agency, which was established in 1974, following the oil crisis of that year, and continues to do good work. We visited the French senate. It was very interesting to see how other parliaments work. We had a very interesting meeting with the Organisation for Economic and Development, otherwise known as the OECD, and another very interesting visit to the United Nations Educational, Scientific and Cultural Organisation, otherwise known as UNESCO. So there is a lot of material in this report that may be of interest to other members of parliament. I thank the House.
 
-",HoR,<title>DELEGATION REPORTS</title>,"<title>Australian Parliamentary Delegation to the 123rd Inter-Parliamentary Union Assembly, Geneva, Switzerland, and Meetings with International Organisations, Paris, France</title>",DELEGATION REPORTS,12,1
+",HoR,<title>DELEGATION REPORTS</title>,"<title>Australian Parliamentary Delegation to the 123rd Inter-Parliamentary Union Assembly, Geneva, Switzerland, and Meetings with International Organisations, Paris, France</title>",DELEGATION REPORTS,12,1,speech
 "Clare, Jason, MP",ALP,2011-07-07,"
 
 
@@ -660,7 +660,7 @@ That Mr Forrest be appointed a member of the Parliamentary Joint Committee on In
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Intelligence and Security Committee</title>,COMMITTEES,13,1
+",HoR,<title>COMMITTEES</title>,<title>Intelligence and Security Committee</title>,COMMITTEES,13,1,speech
 "Clare, Jason, MP",ALP,2011-07-07,"
 
 
@@ -674,7 +674,7 @@ That Mr Forrest be appointed a member of the Parliamentary Joint Committee on In
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,13,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,13,2,speech
 "O'Neill, Deb, MP",ALP,2011-07-07,"
 
 
@@ -721,7 +721,7 @@ I believe that this bill succeeds in advancing this great objective. In saying t
 
 The Gillard government is absolutely committed to getting a better deal for Australian families and small businesses in the banking system. I encourage all members of the House to support the passage of this bill and I commend it to the House.
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1,speech
 "Kelly, Craig, MP",LP,2011-07-07,"
 
 
@@ -834,7 +834,7 @@ There is no doubt that the bill presented by the member for Dunkley is far super
 
 I look forward to working with the coalition in the months and, hopefully, years ahead to bring in policies that deal with this underlying problem and give the Australian consumers the deal they deserve, which they are not currently getting.
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1,speech
 "Leigh, Andrew, MP",ALP,2011-07-07,"
 
 
@@ -905,7 +905,7 @@ This bill very much lies in a Labor economic reform tradition. It was Labor that
 
 While those opposite put in place command and control systems often likened by some to 'Moscow on the Molonglo', we on this side of the House are committed to using markets to find the cheapest and most efficient way of addressing dangerous climate change. While those opposite are running from serious economic reform they have even, in some cases, found themselves running from their very own reforms. So we saw the spectacle in the most recent settings of those opposite refusing to back a reform on fuel taxation first introduced in this place by then Treasurer Costello in 2003. Those opposite have walked so far away from reform that they are now walking away from Peter Costello's economic reforms. Meanwhile, we on this side are committed to long-term, fundamental economic reform across the macroeconomy, the microec­onomy in our education reforms and in competition policy, such as in this bill. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1,speech
 "Prentice, Jane, MP",LP,2011-07-07,"
 
 
@@ -967,7 +967,7 @@ This bill, however, is solely focused on the banking sector.
 
 The industry is highly critical of this bill. From the government's arrogance in the consultation process to its blind determination to dig its heels in and not make changes, this bill is simply not up to scratch. I implore the government to consult properly, consult with stakeholders and address the issues raised by the member for Dunkley in his amendment. This is legislation which will have a significant impact on consumers through producer regulation and it is vitally important that the government gets it right.
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1,speech
 "Bradbury, David, MP",ALP,2011-07-07,"
 
 
@@ -999,7 +999,7 @@ Original question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1,speech
 "Billson, Bruce, MP",LP,2011-07-07,"
 
 
@@ -1013,7 +1013,7 @@ Mr BILLSON
 
 Question negatived.
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1,speech
 "Bradbury, David, MP",ALP,2011-07-07,"
 
 
@@ -1213,7 +1213,7 @@ I take the opportunity to thank the member for Dunkley and the coalition for the
 
 I table supplementary explanatory memoranda.
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1,speech
 "Billson, Bruce, MP",LP,2011-07-07,"
 
 
@@ -1236,7 +1236,7 @@ They are all the provisions that we were arguing for. Above all, the ordinary-co
 
 With those remarks, I indicate that the coalition will be supporting these amend­ments. I again thank Mr Bradbury, the Treasurer's office and officials for their assistance in getting to this point.
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1,speech
 "Bandt, Adam, MP",AG,2011-07-07,"
 
 
@@ -1256,7 +1256,7 @@ We are pleased that the government has agreed to, proposed and reworked some of 
 
 Question agreed to.
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1,speech
 "Bandt, Adam, MP",AG,2011-07-07,"
 
 
@@ -1333,7 +1333,7 @@ The provisions of this bill are only one piece in the puzzle. The Greens have pr
 
 My amendment will ensure that the big four banks are not able to take down their competitors by swallowing them up. It will ensure that the ACCC will prevent mergers such as Westpac's takeover of St George in 2008 and the Commonwealth Bank's takeover of Bankwest, resulting in the Commonwealth Bank being clearly the dominant bank in Western Australia. This amendment will protect smaller players and regional banks from the historically predatory actions of the big four, and in doing so it will bring about a healthy change in the culture of Australia's finance sector—and it will result in positive changes for consumers. I encourage all members to join me in addressing the most serious problem in Australia's arguably most anticompetitive sector, and I commend this amendment to the House.
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1,speech
 "Bradbury, David, MP",ALP,2011-07-07,"
 
 
@@ -1350,7 +1350,7 @@ One aspect of the proposals within the amendment put forward by the member for M
 
 I will make a few further observations in relation to the way in which section 50 operates. I specifically draw the House's attention to a non-exhaustive list of items set out in section 50(3) of the Competition and Consumer Act. This sets out some of those matters to which regard should be had when a merger or acquisition is being considered in the context of the substantial lessening of competition test. Factors that need to be considered include the actual and potential level of import competition in the market, the height of barriers to entry to the market, the level of concentration in the market, the degree of countervailing power in the market, and it goes on. There are a range of factors that guide the deliberations of any court and indeed the regulator. We believe that they form part of an effective regime set out in the Competition and Consumer Act, and that is a regime we believe should be retained in its current form. So the government will be opposing this amend­ment.
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1,speech
 "Billson, Bruce, MP",LP,2011-07-07,"
 
 
@@ -1367,7 +1367,7 @@ Question negatived.
 
 Bill, as amended, agreed to.
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1,speech
 "Bradbury, David, MP",ALP,2011-07-07,"
 
 
@@ -1384,7 +1384,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,14,1,speech
 "O'Neill, Deb, MP",ALP,2011-07-07,"
 
 
@@ -1431,7 +1431,7 @@ I believe that this bill succeeds in advancing this great objective. In saying t
 
 The Gillard government is absolutely committed to getting a better deal for Australian families and small businesses in the banking system. I encourage all members of the House to support the passage of this bill and I commend it to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Kelly, Craig, MP",LP,2011-07-07,"
 
 
@@ -1544,7 +1544,7 @@ There is no doubt that the bill presented by the member for Dunkley is far super
 
 I look forward to working with the coalition in the months and, hopefully, years ahead to bring in policies that deal with this underlying problem and give the Australian consumers the deal they deserve, which they are not currently getting.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Leigh, Andrew, MP",ALP,2011-07-07,"
 
 
@@ -1615,7 +1615,7 @@ This bill very much lies in a Labor economic reform tradition. It was Labor that
 
 While those opposite put in place command and control systems often likened by some to 'Moscow on the Molonglo', we on this side of the House are committed to using markets to find the cheapest and most efficient way of addressing dangerous climate change. While those opposite are running from serious economic reform they have even, in some cases, found themselves running from their very own reforms. So we saw the spectacle in the most recent settings of those opposite refusing to back a reform on fuel taxation first introduced in this place by then Treasurer Costello in 2003. Those opposite have walked so far away from reform that they are now walking away from Peter Costello's economic reforms. Meanwhile, we on this side are committed to long-term, fundamental economic reform across the macroeconomy, the microec­onomy in our education reforms and in competition policy, such as in this bill. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Prentice, Jane, MP",LP,2011-07-07,"
 
 
@@ -1677,7 +1677,7 @@ This bill, however, is solely focused on the banking sector.
 
 The industry is highly critical of this bill. From the government's arrogance in the consultation process to its blind determination to dig its heels in and not make changes, this bill is simply not up to scratch. I implore the government to consult properly, consult with stakeholders and address the issues raised by the member for Dunkley in his amendment. This is legislation which will have a significant impact on consumers through producer regulation and it is vitally important that the government gets it right.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Bradbury, David, MP",ALP,2011-07-07,"
 
 
@@ -1709,7 +1709,7 @@ Original question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Morrison, Scott, MP",LP,2011-07-07,"
 
 
@@ -1723,7 +1723,113 @@ I particularly want to commend today my wife Jenny, who is in the gallery with u
 
 It is rare that we meet in this House in July so I doubt that in the future we will have the opportunity to have Abbey's birthday again in this place. It is a great thrill and a privilege to wish my dear, beautiful daughter Abbey a very happy birthday. We love you very, very much.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,"<title>Morrison, Abbey Rose</title>",STATEMENTS BY MEMBERS,15,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,"<title>Morrison, Abbey Rose</title>",STATEMENTS BY MEMBERS,15,1,speech
+"Abbott, Tony, MP",LP,2011-07-07,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:01):  My question is to the Prime Minister. Will the Prime Minister confirm that excluding petrol from her carbon tax will not lead to lower costs for households because abatement that would otherwise have come from the transport sector will have to occur elsewhere and at higher cost?
+
+
+
+
+Mr Albanese:
+  Did you write that, Prime Minister?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,17,1,question
+"Abbott, Tony, MP",LP,2011-07-07,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:06):  A supplementary question to the Prime Minister: I refer the Prime Minister to this Australian government transport fact sheet dated July 2008, which states:
+
+
+Excluding petrol would not lead to lower costs for households—to the contrary, any abatement that would otherwise have come from the transport sector will have to occur elsewhere and at higher cost.
+
+
+I ask: doesn't the Prime Minister's own fact sheet prove that, whatever the spin, Australians will pay more for everything under her carbon tax?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,17,1,question
+"Gillard, Julia, MP",ALP,2011-07-07,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:02):  I would say to the Leader of the House: there is no truth in the rumour I am writing the Leader of the Opposition's questions.
+
+
+To the Leader of the Opposition let me say this: I made a deliberate choice in designing the scheme that will be announced on Sunday. We are finalising the carbon pricing scheme and it will be announced on Sunday. In designing that scheme I took a deliberate decision that we would design it in a way which was true to our Labor values of assisting households who needed our assistance the most. That is why we are in a position to say that we will be working with Australian households and providing nine out of 10 households with tax cuts, with payment increases or a combination of both.
+
+
+I also believe it is appropriate not to have householder petrol covered in the scheme. As I have explained to this parliament during the course of this week, I understand what it is like for people to live in communities where, whilst we would wish public transport were better—and we will be working over time to make public transport better—the reality is that members of the community who need to get around really have no choice but to jump in their car. Of course, that is true across country Australia as well, in many of the electorates that Labor members represent as well as the electorates represented by the member for New England and the member for Lyne. So we made a determination that petrol should not be covered in the scheme. I think that is the right thing to do for Australian households.
+
+
+Yes, that is a design change from the Carbon Pollution Reduction Scheme, but I say to the Leader of the Opposition: pricing carbon in the way we are intending to price it is the most efficient, cost-effective way of cutting carbon pollution. So every choice we have made is about making the greatest change at the least cost.
+
+
+
+
+Mr Abbott:
+  Mr Speaker, a point of order on direct relevance: I asked the Prime Minister to confirm that excluding petrol would not actually lead to lower costs for households, and that is the question she should do her best to answer.
+
+
+
+
+The SPEAKER:
+  The Prime Minister—
+
+
+
+Mr Windsor interjecting—
+
+
+
+
+The SPEAKER:
+  Order! The member for New England should contain his enthusiasm, or whatever he is displaying. The Prime Minister is responding and she knows the obligations on her under the standing orders.
+
+
+
+
+Ms GILLARD:
+  I can confirm that petrol will not have a price impact from pricing carbon and consequently petrol will be cheaper than it would otherwise have been if we had put a direct carbon price on petrol. Australian households, despite the fear campaign from the Leader of the Opposition, will not see extra cents per litre when they go and buy petrol as a result of us pricing carbon, so it is good for Australian families and good for Australian households, and I am really quite surprised the Leader of the Opposition would be recommending anything else.
+
+
+As for costs of abatement throughout the scheme, economists tell us, and of course they are right, that pricing carbon gets you the lowest cost abatement, and that is what the government is determined to do. The Leader of the Opposition, in contrast, is wedded to his grossly inefficient and costly scheme which would give us far higher costs of abatement per tonne, putting an extra burden on Australian families. And we can put a dollar figure on that burden: it is $720 per year.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,17,1,answer
+"Gillard, Julia, MP",ALP,2011-07-07,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:07):   What I can confirm for the Leader of the Opposition is that the emissions trading scheme which he helped design when he was in the Howard cabinet had petrol in it. It is also true to say that the Carbon Pollution Reduction Scheme had petrol in it. We have made a different decision in the interests of Australian households to take petrol out and, of course, we will be working to support Australian households, with nine out of 10 households getting the benefits of tax cuts or payment increases. For the Leader of the Opposition, with his so-called professed concern about cost-of-living for Australian households, we stand by nine out of 10 households getting a tax cut or payment increases; the Leader of the Opposition stands for taking that money away, including money which would have been provided to the most at risk in our community. Older Australians with pension increases—
+
+
+
+
+Mr Pyne:
+  Mr  Speaker, on a point of order: I can understand why the Prime Minister does not want to answer this question but she certainly was not asked anything about the Leader of the Opposition. Clearly she has been caught out and she should simply sit down.
+
+
+
+Opposition members:  Clean bowled!
+
+
+
+
+The SPEAKER:
+  Order! There will be a few people clean bowled right out of the chamber—except for Western Australians! Again, the Manager of Opposition Business does not help himself by the amount of argument he has in his points of order. I remind the Prime Minister that she must contain her response in a directly relevant manner to the question. I am sure that she is aware of that. The Prime Minister has the call and she will be heard in silence. As we indicated yesterday, it helps if we hear the responses, to know whether they are within the standing orders. 
+
+
+
+
+Ms GILLARD:
+  I was asked about cost of living and the way in which carbon pricing works for Australian families. I am making the very simple point that the government are intending to provide nine out of 10 households with tax cuts or payment increases. They are the very tax cuts and payment increases that the Leader of the Opposition is determined to claw back from Australian families, from older Australians, from pensioners, from sick Australians on the disability support pension, and from the mums and dads who are supporting kids who need that money in their family payment. The Leader of the Opposition is determined to claw that back and then, having taking those dollars away, to put an additional burden on Australian families of $720 a year. The government have made a different choice: to price carbon in the most efficient way, to assist Australian families with tax cuts and payment increases as we do so and not to put a carbon price directly on petrol.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,17,1,answer
 "Abbott, Tony, MP",LP,2011-07-07,"
 
 
@@ -1836,7 +1942,7 @@ Mr ABBOTT:
 The SPEAKER:
   Is the motion seconded?
 
-",HoR,<title>MOTIONS</title>,<title>Gillard Government</title>,MOTIONS,18,1
+",HoR,<title>MOTIONS</title>,<title>Gillard Government</title>,MOTIONS,18,1,speech
 "Bishop, Julie, MP",LP,2011-07-07,"
 
 
@@ -1960,7 +2066,7 @@ Ms O'Dwyer:
 The SPEAKER:
   Order! The member for Higgins will resume her seat. If you want me to use the word 'disgust' I will use the word 'disgust' and I would have dealt with it if I knew who it was. I have already indicated to those who control behaviour that they should do so. The Prime Minister has the call.
 
-",HoR,<title>MOTIONS</title>,<title>Gillard Government</title>,MOTIONS,18,1
+",HoR,<title>MOTIONS</title>,<title>Gillard Government</title>,MOTIONS,18,1,speech
 "Gillard, Julia, MP",ALP,2011-07-07,"
 
 
@@ -2121,7 +2227,7 @@ Question negatived.
 Ms Gillard:
   Mr Speaker, I ask that further questions be placed on the Notice Paper.
 
-",HoR,<title>MOTIONS</title>,<title>Gillard Government</title>,MOTIONS,18,1
+",HoR,<title>MOTIONS</title>,<title>Gillard Government</title>,MOTIONS,18,1,speech
 "Abbott, Tony, MP",LP,2011-07-07,"
 
 
@@ -2234,7 +2340,7 @@ Mr ABBOTT:
 The SPEAKER:
   Is the motion seconded?
 
-",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,18,2
+",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,18,2,speech
 "Bishop, Julie, MP",LP,2011-07-07,"
 
 
@@ -2358,7 +2464,7 @@ Ms O'Dwyer:
 The SPEAKER:
   Order! The member for Higgins will resume her seat. If you want me to use the word 'disgust' I will use the word 'disgust' and I would have dealt with it if I knew who it was. I have already indicated to those who control behaviour that they should do so. The Prime Minister has the call.
 
-",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,18,2
+",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,18,2,speech
 "Gillard, Julia, MP",ALP,2011-07-07,"
 
 
@@ -2519,7 +2625,7 @@ Question negatived.
 Ms Gillard:
   Mr Speaker, I ask that further questions be placed on the Notice Paper.
 
-",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,18,2
+",HoR,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,18,2,speech
 "Jenkins, Harry, MP",ALP,2011-07-07,"
 
 
@@ -2608,7 +2714,7 @@ Fraud under the Home Insulation Program (Mr Fletcher)
 
 Centenary of the Royal Australian Navy (Mr Alexander).
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,20,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,20,1,speech
 "Jenkins, Harry, MP",ALP,2011-07-07,"
 
 
@@ -3321,7 +3427,7 @@ Report 11
 
    The government response was tabled on 24 March 2011.
 
-",HoR,<title>COMMITTEES</title>,<title>Government Response</title>,COMMITTEES,20,2
+",HoR,<title>COMMITTEES</title>,<title>Government Response</title>,COMMITTEES,20,2,speech
 "Jenkins, Harry, MP",ALP,2011-07-07,"
 
 
@@ -3341,7 +3447,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,23,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,23,1,speech
 "Hockey, Joe, MP",LP,2011-07-07,"
 
 
@@ -3476,7 +3582,7 @@ As the Leader of the Opposition pointed out, if this tax is meant to have any im
 
 Now the true agenda has been revealed. If the Prime Minister does not know what is happening in her government, if the Treasu­rer does not know what is happening in his government, if the member for New England or the member for Lyne do not know what is going on, it proves that what we have said is true—that the Greens are in power and the Greens are running the country. Sadly, that is a poor reflection on this mob.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,23,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,23,1,speech
 "Shorten, Bill, MP",ALP,2011-07-07,"
 
 
@@ -3696,7 +3802,7 @@ To return to where I started, if we are going to have a debate on confidence, le
 
 We are the party of hope. We accept that the future is happening. There is just one choice: do you let the future run over the top of you, or do you say that the future is not something to be frightened of, that we are a country and a nation capable enough to move and anticipate change? Those who would say to you, 'Stay as we are,' are dangerous because they have no capacity to anticipate and manage the future. It is happening, whether or not they like it. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,23,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,23,1,speech
 "Ciobo, Steven, MP",LP,2011-07-07,"
 
 
@@ -3759,7 +3865,7 @@ Less than 24 hours ago we saw the Treasurer of this country claim that, through 
 
 Although there might be a little bit of money splashing around, it has very little to do with the economic management of this government—rather, it is because of China. Although there might be a little bit of money splashing around in the Australian economy than there is elsewhere, there is no confid­ence in this government, no confidence in the policies of this government, no confid­ence in the direction of this Prime Minister and fundamentally no confidence in the Australian Labor Party to do anything to help lead this country into a better future. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,23,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,23,1,speech
 "Leigh, Andrew, MP",ALP,2011-07-07,"
 
 
@@ -3816,7 +3922,7 @@ That leaves me with a dilemma. This was written down by the Leader of the Opposi
 
 Frankly, the Leader of the Opposition is all scare and no facts in this debate. The carbon pricing scheme is the right scheme to deal with dangerous climate change. We will provide appropriate household assistance and Australia has a bright future ahead of us under a carbon pricing regime. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,23,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,23,1,speech
 "Hartsuyker, Luke, MP",Nats,2011-07-07,"
 
 
@@ -3884,7 +3990,7 @@ The DEPUTY SPEAKER
 Hon. Peter Slipper
 ):  Order! The discussion is now concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,23,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,23,1,speech
 "Parke, Melissa, MP",ALP,2011-07-07,"
 
 
@@ -3922,7 +4028,7 @@ The driving concept behind the NDIS as a model is to provide more resources for 
 
 It has to be acknowledged that no new national disability scheme is likely to dispense with all these problems to their full extent or in quick time because they are, in many respects, difficult and complicated. If we do not admit this, we may be setting unreasonable expectations, but that does not mean we cannot take on this challenge. We must take it on. I look forward to the Productivity Commission's report and its recommendations as the next step in this essential reform process.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Disability Services</title>,ADJOURNMENT,25,1
+",HoR,<title>ADJOURNMENT</title>,<title>Disability Services</title>,ADJOURNMENT,25,1,speech
 "Smith, Tony, MP",LP,2011-07-07,"
 
 
@@ -3933,7 +4039,7 @@ Mr TONY SMITH
 
 Recently, after years of appeals from New Zealand, the WTO deemed that this risk can be managed; but the protocols to manage this are, on any reading, completely flimsy and, in this regard, there has to be action. I support absolutely the introduction yesterday of the private member's bill by the shadow minister for agriculture and food security, the Hon. John Cobb. The Quarantine Legislation Amendment (Apples) Bill 2011, as it is called, would make a permit to import apples a disallowable instrument. This is absolutely critical to ensuring that we have the most stringent biosecurity standards possible. I strongly support the bill and I strongly support the statements from my colleagues, including the member for Wannon, on this very important issue. (Time expired)
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Casey Electorate: Apple Imports</title>,CONSTITUENCY STATEMENTS,27,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Casey Electorate: Apple Imports</title>,CONSTITUENCY STATEMENTS,27,1,speech
 "Crook, Tony, MP",NatsWA,2011-07-07,"
 
 
@@ -3947,7 +4053,7 @@ Sergeant Langley was born at Margaret River and raised in Katanning and Broomehi
 
 Sergeant Langley exemplified the Anzac spirit. He was a man of honour who served his nation well with distinction and courage. He will be greatly missed by his family, friends and colleagues, and he will be greatly missed by all of us here today. Sergeant Langley has the gratitude of this parliament and this nation.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1
+",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1,speech
 "McCormack, Michael, MP",Nats,2011-07-07,"
 
 
@@ -3967,7 +4073,7 @@ In this sad time, however, it is imperative that we not walk away from our missi
 
 Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1
+",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1,speech
 "Brodtmann, Gai, MP",ALP,2011-07-07,"
 
 
@@ -3999,7 +4105,7 @@ My trip to Afghanistan put into sharp focus the work that they do and the work t
 
 I conclude by, once again, offering my thanks and condolences to the families of those who have died and, most recently, to Sergeant Langley's family. They are perhaps feeble words, but I offer them on behalf of all the people of Canberra with all sincerity and gratitude.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1
+",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1,speech
 "Simpkins, Luke, MP",LP,2011-07-07,"
 
 
@@ -4058,7 +4164,7 @@ Our mission remains the opposing of terrorism, the opposing of extremists and th
 
 We must be prepared to do what has to be done, but it comes at a cost and it will always come at a cost. On this occasion, Sergeant Langley has given his life. I pay tribute to him. I offer my condolences to his family. We will never forget him. We will never forget his family. On behalf of all members here, I wish his family all the best for the future. We hope that they can move on with their lives as well as possible. On behalf of a grateful nation, and from my own perspective, I pay tribute to all that he has done for our great country and the terrible sacrifice that his family has accepted in our national interest.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1
+",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1,speech
 "Clare, Jason, MP",ALP,2011-07-07,"
 
 
@@ -4069,7 +4175,7 @@ Mr CLARE
 
 On Monday, another Special Forces soldier was also wounded. I take this opportunity to wish him a swift and strong recovery. He is one of 182 soldiers who have been wounded in Afghanistan since 2002. This is a long and difficult war. Much of its burden has been borne by the men of our Special Forces. It has also been borne by the families of the men and women we send overseas. They are as strong and brave as the men and women they love, and they often bear the heaviest burden—none more so than the family of Sergeant Todd Langley. We are forever in debt to him, as we are to the more than 100,000 Australians who have lost their lives serving this country over more than a century, all around the world. Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1
+",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1,speech
 "O'Dwyer, Kelly, MP",LP,2011-07-07,"
 
 
@@ -4077,7 +4183,7 @@ On Monday, another Special Forces soldier was also wounded. I take this opportun
 Ms O'DWYER
  (Higgins) (11:18):  I too rise to speak on this condolence motion, a very sad motion that recognises the sacrifice that has been made by Sergeant Todd Langley. Sergeant Todd Langley died in battle. He was serving with the 2nd Commando Regiment, a very special regiment that works on behalf of all Australians to keep us safe. He was a highly decorated soldier who was on his fifth tour of Afghanistan, which demonstrates a very significant commitment to our country. He also served us in East Timor on two tours. He joins a total of 28 men who have sacrificed their lives in Afghanistan. As a member of this parliament, I express our heartfelt appreciation and gratitude to him for the service he has given our country. I would also like to express our condolences and thanks to his family. As we have just heard from the minister, he was the father of four children, the husband of a wife and, as well, the son of two parents who cared very deeply for him. So we express our thoughts and prayers towards them for the sacrifice that they too have made. Lest we forget. Finally, while speaking here today I would like to recognise the work that is done by all of those men and women in our Australian defence forces who put their lives at risk every day for us. We thank them.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1
+",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1,speech
 "Fitzgibbon, Joel, MP",ALP,2011-07-07,"
 
 
@@ -4094,7 +4200,7 @@ He and his fellow members of the ADF are doing very important work in Afghanista
 
 Sergeant Langley was a volunteer. I am not sure that I knew him, but I do know that he would have been more than willing to deploy for that fifth time. I know that he would have been fully committed and would have absolutely believed in what he was doing and what we were seeking to achieve. I am also confident, without knowing his family, that he would have had their full support in his determination to continue to do what he was doing. That, of course, does not make it any easier for them. I am sure they are going through the most horrendous time, a period impossible for us to comprehend. Today, I hope we help in a small way by paying tribute to Sergeant Langley and what he did for his country over a long period of time, with two tours in East Timor in addition to his commitment to Afghanistan. Our thoughts are with his family, and we thank them again for the great sacrifice he made and for the great sacrifice they have made in allowing him to do what he felt he needed to do and what he wanted to do in Afghanistan for his country.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1
+",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1,speech
 "Kelly, Craig, MP",LP,2011-07-07,"
 
 
@@ -4111,7 +4217,7 @@ Sergeant Langley was someone who made a difference in life. Both the Minister fo
 
 Sergeant Langley was just 35. He was also a husband and a father to three school-age daughters and an infant son. These children can grow up with the knowledge that their father was a true-life hero; someone who served his nation and someone to whom this nation will always owe a debt of gratitude that we will never, ever be fully able to repay. In saying that, we in this parliament have an ongoing obligation to ensure that his family and his children grow up with all the benefits that our society can afford them. That is our obligation and the debt we owe. Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1
+",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1,speech
 "Perrett, Graham, MP",ALP,2011-07-07,"
 
 
@@ -4137,7 +4243,7 @@ Sadly, Sergeant Langley is Australia's 28th fatality in Afghanistan and the seve
 
 I know that these are mere words and they will not bring back a father or a husband. I especially acknowledge how tough it must be for Sergeant Langley's grieving daughters and son, and I hope that these words in the years to come will be some comfort. But they are mere words. For the 27 soldiers who have lost their lives before in Afghanistan, and even the 100,000 before Afghanistan, we know that they are mere words. I am reminded of that poem by Wilfred Owen—'Dulce et decorum est pro patria mori.' I know they are only words, but it is better to say something in these circumstances. So I hope that the Margaret River community, where Sergeant Langley came from, and his parents, Val and Neville, take some comfort from the fact that we acknowledge and are proud of the sacrifice that Sergeant Langley has made. I extend my deepest sympathy to the entire family of Sergeant Langley; all of his friends and comrades still in the military; and those that have recently left. I thank them all for the sacrifices that they have made to Australia's security. Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1
+",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1,speech
 "Frydenberg, Josh, MP",LP,2011-07-07,"
 
 
@@ -4154,7 +4260,7 @@ Sergeant Langley's family can rest assured that a grateful nation is also very p
 
 On this sad day I join with colleagues on both sides of the chamber to pay my respects to a brave and distinguished Australian, a brave and distinguished soldier, and to his family and to say we will always be there with you. Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1
+",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1,speech
 "Snowdon, Warren, MP",ALP,2011-07-07,"
 
 
@@ -4189,7 +4295,7 @@ I say to the Australian community that, whilst there may be some sceptics about 
 
 We can assure his family—and I know this view is shared across the parliament—that this outstanding soldier will be forever remembered. We remember him now, just as we remember all the men and women who have made the ultimate sacrifice on behalf of a very grateful nation. His family must know that we are extremely proud of his courage, his selflessness and his service. We know from his family that Todd epitomised the spirit of the Aussie digger: loyal, hard-working and well-respected. We need to know, and we need to make sure everyone else knows, that he will never be forgotten. Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1
+",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1,speech
 "Jones, Ewen, MP",LP,2011-07-07,"
 
 
@@ -4243,7 +4349,7 @@ That further proceedings be conducted in the House.
 
 Question agreed to.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1
+",HoR,<title>CONDOLENCES</title>,"<title>Langley, Sergeant Todd</title>",CONDOLENCES,28,1,speech
 "Billson, Bruce, MP",LP,2011-07-07,"
 
 
@@ -4357,7 +4463,7 @@ For those operating in a highly competitive marketplace it comes as little comfo
 
 The weight of market concentration is playing out in so many different areas of our economy and that is why we need to make sure that our competition framework, the tools within it and the way in which it is implemented are fit for purpose. That is not what this bill does. This bill is window-dressing. It is ornamental at best. It achieves no new outcomes for small business. It is a false and misleading for the government to claim so. There is a job that needs to be done. The coalition has said we are prepared to do that work. It is work that needs the government's resources. It also needs a clear mind about what a competitive marketplace and durable consumer benefits mean in Australia for the long run. That is the work that needs to be done because the law is far from perfect, as the government would try and tell people. Its own evidence is on bills being discussed in the House. I hope we get to have that more substantive discussion about what really is needed for the framework of competition and consumer protection in Australia because there is much work to be done here. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Legislation Amendment Bill 2011</title>,BILLS,29,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Legislation Amendment Bill 2011</title>,BILLS,29,1,speech
 "Brodtmann, Gai, MP",ALP,2011-07-07,"
 
 
@@ -4389,7 +4495,7 @@ It does not seem likely that the relativity implied by the term ‘substantial�
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Legislation Amendment Bill 2011</title>,BILLS,29,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Legislation Amendment Bill 2011</title>,BILLS,29,1,speech
 "Billson, Bruce, MP",LP,2011-07-07,"
 
 
@@ -4503,7 +4609,7 @@ For those operating in a highly competitive marketplace it comes as little comfo
 
 The weight of market concentration is playing out in so many different areas of our economy and that is why we need to make sure that our competition framework, the tools within it and the way in which it is implemented are fit for purpose. That is not what this bill does. This bill is window-dressing. It is ornamental at best. It achieves no new outcomes for small business. It is a false and misleading for the government to claim so. There is a job that needs to be done. The coalition has said we are prepared to do that work. It is work that needs the government's resources. It also needs a clear mind about what a competitive marketplace and durable consumer benefits mean in Australia for the long run. That is the work that needs to be done because the law is far from perfect, as the government would try and tell people. Its own evidence is on bills being discussed in the House. I hope we get to have that more substantive discussion about what really is needed for the framework of competition and consumer protection in Australia because there is much work to be done here. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,29,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,29,2,speech
 "Brodtmann, Gai, MP",ALP,2011-07-07,"
 
 
@@ -4535,7 +4641,7 @@ It does not seem likely that the relativity implied by the term ‘substantial�
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,29,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,29,2,speech
 "Wyatt, Ken, MP",LP,2011-07-07,"
 
 
@@ -4570,4 +4676,29 @@ Of the things we think, say or do
 
 What I enjoy about the Rotarians that I have met within my own state, within my electorate and across this nation is their preparedness to give of their time even when their time is challenged by the occupations in which they work and live on a daily basis. Their unfaltering commitment to improving communities and the nation and their international commitment to the eradication of polio are highly ethical thoughts and pathways of action that they undertake. What I always find interesting is that people who are busy always tend to find time to give to fellow human beings in a way that sometimes all of us should give. Passion for what you do and what you believe is the essence of group camaraderie, but it is important that you, as a collective group of professionals, believe that your personal value in serving others above self is in the way in which you build a community and a society that protect and look after their own and that nurture those who require support and intervention during their life. I commend to all of you the thought that Rotary is an organisation that is well worth being concerned with. (Time expired)
 
-",HoR,<title>ADJOURNMENT</title>,<title>Rotary International</title>,ADJOURNMENT,30,1
+",HoR,<title>ADJOURNMENT</title>,<title>Rotary International</title>,ADJOURNMENT,30,1,speech
+"Truss, Warren, MP",Nats,2011-07-07,"
+
+
+
+Mr Truss
+  asked the Minister for Infrastructure and Transport, in writing, on 31 May 2011:
+
+
+In respect of Budget Paper No. 2 2011- 12 (page 270) which states that $325.4 million of savings have been identified within the National Partnership Agreement on implementation of the Nation Building Program in Queensland, (a) what sum of savings has been identified for the: (i) Ipswich Motorway Upgrade—Dinmore to Goodna project, and (ii) Bruce Highway—Cooroy to Curra Section B project, (b) what factors led to the reduced funding requirement for each project, (c) can he indicate whether the Queensland Government concurred with the announcement in the Budget to reduce the funding for each project, (d) what is the total revised cost of each project, and (e) will these surplus funds now be allocated to the commencement of work on Section A of the Bruce Highway—Cooroy to Curra project; if not, why not.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Queensland: Roads (Question No. 405)</title>,QUESTIONS IN WRITING,31,1,question
+"Albanese, Anthony, MP",ALP,2011-07-07,"
+
+
+
+Mr Albanese:
+  The answer to the honourable member's question is as follows:
+
+
+In the 2010 Budget the Federal Labor Government introduced a system of milestone payments according to actual delivery and construction of projects. I am pleased to inform you that we are getting budget efficiencies by applying these measures. The Queensland Government concurred with the reallocation of cost savings that has been achieved through this measure, in order to reinstate five projects that had to be deferred on the Bruce Highway following last summer's flooding events. 
+
+
+The planning on the deferred projects in Queensland was never halted and we always said we would bring them back to the original schedule if possible. That is exactly what we have done.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Queensland: Roads (Question No. 405)</title>,QUESTIONS IN WRITING,31,1,answer

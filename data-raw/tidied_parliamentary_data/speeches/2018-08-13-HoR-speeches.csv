@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2018-08-13,"
 
 
@@ -9,7 +9,7 @@ The SPEAKER
 
 The second statement I have relates to the publication of the seventh edition of the House of Representatives Practice. I'd like to inform the House about this. The seventh edition of the flagship publication Practice has been published by the Department of the House of Representatives, and, as members know well, we rely heavily on it for authoritative advice to inform our roles as chairs and as members. The content of the House of Representatives Practice is particularly important, and, quite apart from its value every day as a reliable and practical resource for our thinking and decision-making in the chamber, it has an added value. Since the first edition in 1981 it has been documenting and putting into perspective the changing and sometimes turbulent times in the life of the House in an accurate and understated way. It provides a very significant foundation to our understanding of the House as an institution. This new edition brings us up to date, with additional precedents from the sixth edition in 2012, a new chapter on the Federation Chamber, an additional chapter on the work of the committees, and discussions on the roles of members, the House, the government and the opposition. All members will be invited to a formal launch of the new edition next week. I thank the Clerk and Peter Fowler in the Chamber Research Office particularly for their contributions to what is the House's most significant publication. I also thank the large number of other staff of the House who've had a significant input to the new edition. The Clerk has provided copies to the offices of all members. I have no doubt I'll soon see lots of post-it notes and annotations on members' new copies as it's invoked during question time, and I commend the seventh edition to all members.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,"<title>Parliament House, House of Representatives Practice (Seventh Edition)</title>",STATEMENT BY THE SPEAKER,0,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,"<title>Parliament House, House of Representatives Practice (Seventh Edition)</title>",STATEMENT BY THE SPEAKER,0,1,speech
 "Wicks, Lucy, MP",LP,2018-08-13,"
 
 
@@ -17,7 +17,7 @@ The second statement I have relates to the publication of the seventh edition of
 Mrs WICKS
  (Robertson) (10:03):  Today I present the 26th report of the Petitions Committee for the 45th Parliament.
 
-",HoR,<title>PETITIONS</title>,<title>Petitions Committee</title>,PETITIONS,1,1
+",HoR,<title>PETITIONS</title>,<title>Petitions Committee</title>,PETITIONS,1,1,speech
 "Wicks, Lucy, MP",LP,2018-08-13,"
 
 
@@ -25,7 +25,7 @@ Mrs WICKS
 Mrs WICKS
  (Robertson) (10:03):  Today I present the 26th report of the Petitions Committee for the 45th Parliament.
 
-",HoR,<title>PETITIONS</title>,<title>Report</title>,PETITIONS,1,2
+",HoR,<title>PETITIONS</title>,<title>Report</title>,PETITIONS,1,2,speech
 "Wicks, Lucy, MP",LP,2018-08-13,"
 
 
@@ -33,7 +33,7 @@ Mrs WICKS
 Mrs WICKS
  (Robertson) (10:04):  I present the following ministerial responses to 12 petitions previously received:
 
-",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,3,2
+",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,3,2,speech
 "Owens, Julie, MP",ALP,2018-08-13,"
 
 
@@ -65,7 +65,7 @@ It was also obvious that the cuts would impact on consumer spending. All those p
 
 All the promises about the positive benefits of cuts to penalty rates have not been forthcoming, but damage to the income of households has. We have families increasingly struggling to pay the bills and looking at subsequent penalty rate cuts over the next few years. It's bad policy from the government, and I support this amendment to wind it back.
 
-",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1,speech
 "Laundy, Craig, MP",LP,2018-08-13,"
 
 
@@ -100,7 +100,7 @@ It suited him then; it doesn't suit him now. Why? Because he's in a populist dri
 
 Michael is in year 10 in my electorate. You've got predominantly young schoolkids and university students in these major retail chains—multinational in some cases, but national in all cases—that are subject to enterprise bargaining agreements that have deductions that are well in excess of what we are talking about the Fair Work Commission making. It is hypocrisy writ large. Today is just the latest example of that. If the Leader of the Opposition tells you it's raining, I'd advise those in Australia to stick their head outside and have a look.
 
-",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1,speech
 "Perrett, Graham, MP",ALP,2018-08-13,"
 
 
@@ -129,7 +129,7 @@ Tragically, cutting the penalty rates of people who earn low wages is also hurti
 
 Penalty rates are not a luxury for the 13,000 workers in my electorate of Moreton. Penalty rates put food on their tables and petrol in their cars and give them a chance in life. The Labor Party will always stand up for such workers. The Labor Party will always do the right thing. The fact is that the opposition leader has always stood up for workers. Despite the comments being made by those opposite, the opposition leader has a long track record of actually working to support working-class and middle-class Australians—those who want to get ahead. Labor will always stand up for those workers, and I will fight for penalty rates as long as I am here. 
 
-",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1,speech
 "Wilson, Tim, MP",LP,2018-08-13,"
 
 
@@ -146,7 +146,7 @@ There are many examples. The union has a long history of selling out its members
 
 With this bill, the Leader of the Opposition is essentially asking the Fair Work Commission to act with the same inconsistency he has demonstrated day in, day out in his role as a leader of the union and also as the opposition leader sitting in this parliament. It might come as a surprise, but being opportunistic and untrustworthy are not character traits that should be emulated. Australians expect their leaders to act with integrity and, I might add, some consistency, which the opposition leader can claim no capacity to do. They also don't expect politicians to demoralise independent bodies like the Fair Work Commission purely for their political gain. The Fair Work Commission, as set up by Labor—let us remind ourselves of this—is required to ensure awards are fair and relevant, taking into account the impact on business employment costs and, of course, wanting to increase the number of jobs in the economy. That includes making evidence based adjustments to our award system that may involve corrections to take-home pay. You cannot expect the Fair Work Commission to perform its role if it loses the ability to deal with the different challenges affecting different workplace arrangements. There needs to be some flexibility to grow jobs for those people who are denied them. Both people and beliefs are disposable to the Leader of the Opposition and, as we've come to expect, if his lips are moving, you can't assume it's for anything other than self-opportunism.
 
-",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1,speech
 "Hart, Ross, MP",ALP,2018-08-13,"
 
 
@@ -175,7 +175,7 @@ We hear no more about the potential for increased employment in hospitality or r
 
 The spectre of rising inequality is something that should not be ignored by this government. Whilst the Treasurer insists that inequality is not a problem, economic commentators insist that increased inequality is again a restraint on this economy not just affecting those in insecure work and low-paid work but also limiting the opportunities of businesses to expand and the economy as a whole to grow in a more robust and sustainable manner. Only Labor has a plan to address the immediate concerns of workers that their wages will be cut.
 
-",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1,speech
 "Goodenough, Ian, MP",LP,2018-08-13,"
 
 
@@ -195,7 +195,7 @@ The independent Fair Work Commission has made a determination on penalty rates a
 
 In the current economic climate, margins can be less than 10 per cent and penalty rates can be the difference between returning a profit or making a loss. I would much rather see businesses in my electorate opening on Sundays and public holidays, employing people, rather than closing due to excessive costs. Why should small businesses be denied the same conditions as large businesses? The independence and consistency of the Fair Work Commission in making its determination on penalty rates should be respected, as it followed due process and is moderate in nature. It will set a bad precedent to arbitrarily interfere with determinations made by the Fair Work Commission, which are designed to boost the economy and create employment. Wages should be determined by productivity as opposed to the time of work. Inflationary pressures arise when wage growth is not matched by productivity gains. The modern workforce has a great degree of flexibility in choosing when to work. To match the contemporary consumer preferences— (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1,speech
 "Kearney, Ged, MP",ALP,2018-08-13,"
 
 
@@ -218,7 +218,7 @@ We respect the contribution of working people. In fact, we honour it. If you wor
 
 Workers in Australia need a pay rise. Everybody is arguing that, from the Reserve Bank of Australia right through to every economist that has written on this issue. Australians need a pay rise, a decent pay rise, but we have a weak and mean-minded, bank-loving, corporate-kowtowing Prime Minister who still wants to cut the lowest-paid people's pay packets. This is a disgrace.
 
-",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1,speech
 "Kelly, Craig, MP",LP,2018-08-13,"
 
 
@@ -244,7 +244,7 @@ I've heard a few other comments from other members. The member for Bass raised p
 
 Then we had the hypocrisy on the corporate rate of tax. We live in an internationally competitive environment. Our companies have to compete around the world for capital and for workers. We currently have a situation where the US have lowered their corporate rate of tax down to 21 per cent. We have France planning to lower their corporate rate of tax from 34 per cent to 25 per cent. We have the UK, 20 to 17 per cent—(Time expired)
 
-",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1,speech
 "Butler, Terri, MP",ALP,2018-08-13,"
 
 
@@ -261,7 +261,7 @@ This is an opposition private member's bill. It's a private member's bill to int
 
 It's pretty rare to see a commission make a decision to reduce the take-home pay of Australians. You will remember that under Work Choices, which of course the government would love to go back to, there was a minimum pay panel, and they increased the minimum wage every year except for 2009, I think. That was one of the years. Deputy Speaker, I'm sure you remember the controversy that surrounded the decision of that panel not to increase wages—which, for what it's worth, I thought was a pretty terrible decision, as we were just coming out of the global financial crisis. But to now be going a step further and have the commission reducing take-home pay—given the economic circumstances at the moment but also, of course, as a general proposition—should be, and is, even more controversial. That's why you're seeing no matter where you go—whether in the Longman by-election or the streets of my suburbs in the electorate of Griffith—you are seeing people raising concerns about the fact that this government is doing nothing to prevent cuts to penalty rates and that under this government's watch the commission has cut penalty rates. This government, by allowing that to stand, is effectively responsible for cutting penalty rates. It has the chance now to fix it, and it should. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1,speech
 "Leigh, Andrew, MP",ALP,2018-08-13,"
 
 
@@ -290,7 +290,7 @@ The DEPUTY SPEAKER
 Mr Rob Mitchell
 ):  The time allotted for this debate has expired. The debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,6,1,speech
 "Owens, Julie, MP",ALP,2018-08-13,"
 
 
@@ -322,7 +322,7 @@ It was also obvious that the cuts would impact on consumer spending. All those p
 
 All the promises about the positive benefits of cuts to penalty rates have not been forthcoming, but damage to the income of households has. We have families increasingly struggling to pay the bills and looking at subsequent penalty rate cuts over the next few years. It's bad policy from the government, and I support this amendment to wind it back.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Laundy, Craig, MP",LP,2018-08-13,"
 
 
@@ -357,7 +357,7 @@ It suited him then; it doesn't suit him now. Why? Because he's in a populist dri
 
 Michael is in year 10 in my electorate. You've got predominantly young schoolkids and university students in these major retail chains—multinational in some cases, but national in all cases—that are subject to enterprise bargaining agreements that have deductions that are well in excess of what we are talking about the Fair Work Commission making. It is hypocrisy writ large. Today is just the latest example of that. If the Leader of the Opposition tells you it's raining, I'd advise those in Australia to stick their head outside and have a look.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Perrett, Graham, MP",ALP,2018-08-13,"
 
 
@@ -386,7 +386,7 @@ Tragically, cutting the penalty rates of people who earn low wages is also hurti
 
 Penalty rates are not a luxury for the 13,000 workers in my electorate of Moreton. Penalty rates put food on their tables and petrol in their cars and give them a chance in life. The Labor Party will always stand up for such workers. The Labor Party will always do the right thing. The fact is that the opposition leader has always stood up for workers. Despite the comments being made by those opposite, the opposition leader has a long track record of actually working to support working-class and middle-class Australians—those who want to get ahead. Labor will always stand up for those workers, and I will fight for penalty rates as long as I am here. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Wilson, Tim, MP",LP,2018-08-13,"
 
 
@@ -403,7 +403,7 @@ There are many examples. The union has a long history of selling out its members
 
 With this bill, the Leader of the Opposition is essentially asking the Fair Work Commission to act with the same inconsistency he has demonstrated day in, day out in his role as a leader of the union and also as the opposition leader sitting in this parliament. It might come as a surprise, but being opportunistic and untrustworthy are not character traits that should be emulated. Australians expect their leaders to act with integrity and, I might add, some consistency, which the opposition leader can claim no capacity to do. They also don't expect politicians to demoralise independent bodies like the Fair Work Commission purely for their political gain. The Fair Work Commission, as set up by Labor—let us remind ourselves of this—is required to ensure awards are fair and relevant, taking into account the impact on business employment costs and, of course, wanting to increase the number of jobs in the economy. That includes making evidence based adjustments to our award system that may involve corrections to take-home pay. You cannot expect the Fair Work Commission to perform its role if it loses the ability to deal with the different challenges affecting different workplace arrangements. There needs to be some flexibility to grow jobs for those people who are denied them. Both people and beliefs are disposable to the Leader of the Opposition and, as we've come to expect, if his lips are moving, you can't assume it's for anything other than self-opportunism.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Hart, Ross, MP",ALP,2018-08-13,"
 
 
@@ -432,7 +432,7 @@ We hear no more about the potential for increased employment in hospitality or r
 
 The spectre of rising inequality is something that should not be ignored by this government. Whilst the Treasurer insists that inequality is not a problem, economic commentators insist that increased inequality is again a restraint on this economy not just affecting those in insecure work and low-paid work but also limiting the opportunities of businesses to expand and the economy as a whole to grow in a more robust and sustainable manner. Only Labor has a plan to address the immediate concerns of workers that their wages will be cut.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Goodenough, Ian, MP",LP,2018-08-13,"
 
 
@@ -452,7 +452,7 @@ The independent Fair Work Commission has made a determination on penalty rates a
 
 In the current economic climate, margins can be less than 10 per cent and penalty rates can be the difference between returning a profit or making a loss. I would much rather see businesses in my electorate opening on Sundays and public holidays, employing people, rather than closing due to excessive costs. Why should small businesses be denied the same conditions as large businesses? The independence and consistency of the Fair Work Commission in making its determination on penalty rates should be respected, as it followed due process and is moderate in nature. It will set a bad precedent to arbitrarily interfere with determinations made by the Fair Work Commission, which are designed to boost the economy and create employment. Wages should be determined by productivity as opposed to the time of work. Inflationary pressures arise when wage growth is not matched by productivity gains. The modern workforce has a great degree of flexibility in choosing when to work. To match the contemporary consumer preferences— (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Kearney, Ged, MP",ALP,2018-08-13,"
 
 
@@ -475,7 +475,7 @@ We respect the contribution of working people. In fact, we honour it. If you wor
 
 Workers in Australia need a pay rise. Everybody is arguing that, from the Reserve Bank of Australia right through to every economist that has written on this issue. Australians need a pay rise, a decent pay rise, but we have a weak and mean-minded, bank-loving, corporate-kowtowing Prime Minister who still wants to cut the lowest-paid people's pay packets. This is a disgrace.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Kelly, Craig, MP",LP,2018-08-13,"
 
 
@@ -501,7 +501,7 @@ I've heard a few other comments from other members. The member for Bass raised p
 
 Then we had the hypocrisy on the corporate rate of tax. We live in an internationally competitive environment. Our companies have to compete around the world for capital and for workers. We currently have a situation where the US have lowered their corporate rate of tax down to 21 per cent. We have France planning to lower their corporate rate of tax from 34 per cent to 25 per cent. We have the UK, 20 to 17 per cent—(Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Butler, Terri, MP",ALP,2018-08-13,"
 
 
@@ -518,7 +518,7 @@ This is an opposition private member's bill. It's a private member's bill to int
 
 It's pretty rare to see a commission make a decision to reduce the take-home pay of Australians. You will remember that under Work Choices, which of course the government would love to go back to, there was a minimum pay panel, and they increased the minimum wage every year except for 2009, I think. That was one of the years. Deputy Speaker, I'm sure you remember the controversy that surrounded the decision of that panel not to increase wages—which, for what it's worth, I thought was a pretty terrible decision, as we were just coming out of the global financial crisis. But to now be going a step further and have the commission reducing take-home pay—given the economic circumstances at the moment but also, of course, as a general proposition—should be, and is, even more controversial. That's why you're seeing no matter where you go—whether in the Longman by-election or the streets of my suburbs in the electorate of Griffith—you are seeing people raising concerns about the fact that this government is doing nothing to prevent cuts to penalty rates and that under this government's watch the commission has cut penalty rates. This government, by allowing that to stand, is effectively responsible for cutting penalty rates. It has the chance now to fix it, and it should. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Leigh, Andrew, MP",ALP,2018-08-13,"
 
 
@@ -547,7 +547,7 @@ The DEPUTY SPEAKER
 Mr Rob Mitchell
 ):  The time allotted for this debate has expired. The debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Vasta, Ross, MP",LP,2018-08-13,"
 
 
@@ -600,7 +600,7 @@ Mr Rob Mitchell
 Mr Falinski:
   I second the motion and reserve my right to speak.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1,speech
 "Leigh, Andrew, MP",ALP,2018-08-13,"
 
 
@@ -632,7 +632,7 @@ Under this government, we have just seen attack after attack on the charitable s
 
 We have in Australia many worthy volunteers. In my role as shadow minister for charities and not-for-profits, I've been holding forums across the country. We've held 14 such forums now, with more than 1,200 charities, speaking with them about ideas that other charities and not-for-profits can learn from in order to build community. Labor is keen to work with Justice Connect on their Fix Fundraising campaign and to work with states and territories to reduce the paperwork burden on charities by having the Australian Charities and Not-for-profits Commission serve as a one-stop shop, akin to an ASIC for charities. We want to work with the charitable sector, and we're keen to boost volunteering in Australia. According to the census, the volunteering rate's gone up a little, from 18 to 19 per cent from 2006 to 2016, but the General Social Survey tells us it's gone down from 34 to 31 per cent from 2006 to 2014. Either way, we're not seeing a massive upsurge in volunteering, which is what Labor would like to work on with a strong and constructive relationship with our charitable sector.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1,speech
 "Wallace, Andrew, MP",LP,2018-08-13,"
 
 
@@ -655,7 +655,7 @@ The government currently has three separate grants available to volunteers just 
 
 These grant rounds are only the latest manifestation of the exceptional commitment demonstrated time and again by this Turnbull government to supporting community groups in Fisher. In the past two years, we've provided around $750,000 in smaller grants to volunteer-led community organisations in Fisher. Some have been substantial, like the $231,000 for upgrades to the Palmwoods Memorial Hall, but the Turnbull government has also recognised that sometimes it is the small-scale grants that can be the helping hand volunteers need to make a difference to people's lives. On this side of the House, we walk the talk when it comes to volunteers. Volunteers are the backbone of our community, and this government will back them to the hilt.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1,speech
 "Perrett, Graham, MP",ALP,2018-08-13,"
 
 
@@ -678,7 +678,7 @@ This year, Lady Bernice Killen, on behalf of her late husband, presented the Sir
 
 Joan McGrath's commitment to social justice and building community is also reflected in her work with the local refugee community. Again through St Vincent de Paul, Joan participated in local settlement services to provide support, advocacy and information to some of our newest Australians, helping to make them contributing members of society. Other volunteers obviously are doing similar work, but I wanted to particularly call out Joan McGrath. These other volunteers who are making the south side stronger and safer include Lisa Briggs, from the Sherwood Australian Breastfeeding Association; Brian Tovey, from Oxley Neighbourhood Watch; Phyllis Stockwell, from the Bethesda Caring Centre; Bill Elliott, from Yeronga Men's Shed and Annerley-Stephens History Group; Naomi Frampton and Paul Hodges, from Annerley Community Bookshop; Ruby Luder, from Yeronga Dutton Park RSL; Julie Segal, from the Kurilpa Scouts; the Reverend Heather Griffin for her work promoting community harmony; Mary Jane Lepre, from St David's Neighbourhood Centre; Colleen Williamson, from Omega International foodbank; Craig Schooth, the vice-president of Runcorn State School P&C; Lyn Cassar, the president of Kuraby Special School P&C; Leonie Hoey, from Lloyd Rees Park; Robin Blackson, from the Yeronga Anglican Church op shop; Ron Goeldner, from Yeronga Districts Residents Association, St Sebastian's P&F, Hyde Road kindy, the RSL, the local NHW and many more—well done Ron—Denis Peel, from the Annerley Stephens History Group; Jacquie Rogerson, from the Sunnybank Scout Group; Paul Rogerson and Michelle Flooder, from Scouts; Thomas Yuen and Rex Low, from the Australian Cantonese Association; Michelle Gadke, Michelle Langley-Taylor and Raina Davies, from Belong; Maria Hong, from the Australian Cantonese Association; and Willy Frommolt, from St David's Neighbourhood Centre. I could go on. There are many others I could mention, from the tuckshops, P&Cs and sporting clubs, and they should all be commended.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1,speech
 "Banks, Julia, MP",LP,2018-08-13,"
 
 
@@ -704,7 +704,7 @@ Communities like Chisholm are strengthened and enriched by the many passionate t
 
 Volunteerism is in the DNA of all Australians and is well represented in the people of Chisholm, and I'm very proud to be their voice here in Canberra. I very much look forward to acknowledging a cross-section of individuals this Friday. I commend this motion to the House.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1,speech
 "Ryan, Joanne, MP",ALP,2018-08-13,"
 
 
@@ -727,7 +727,7 @@ Robert Bradley was another 2017 Lalor hero. He's a Wyndham honorary justice of t
 
 Some of these people are from sporting groups, as I've said. Nathan Jenner was a Lalor hero last year for his work with the Tenpin Bowling Association of Victoria. He's a local tenpin bowling coach and he works extremely hard with the junior bowlers to support their growth. He's always there to help. Another person that we've celebrated in previous years is a bloke named Wally. He runs Carpet Bowls for All Abilities. I've visited this recently on two occasions over the break. I have never had a wider smile on my face than I did when I shared some time with this group of people and with Wally and his wife, Dot, who ensure this group meets twice a week. When we say 'all abilities', we've got a group of people gathering there, some lonely—maybe they've just lost their partner in their later years—some with a brain injury, some who have special needs. To see 70 people roll up, get the carpet rolled out and get the teams going—that is building the fabric of our community. I'd encourage all locals to think about the people they know and get their nominations in and I'd also encourage them to look at the community grants that are open right now.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1,speech
 "Irons, Steve, MP",LP,2018-08-13,"
 
 
@@ -747,7 +747,7 @@ The hard work of our volunteers is fantastic. The impact of volunteering across 
 
 As I'm sure is the case for most members in this chamber, volunteers are the heart and soul of the community in my electorate of Swan. I thank them all for making our community a wonderful place. There are hundreds of volunteer organisations that reside in my electorate that provide services to help support and improve the lives of many. There are sporting organisations like the Victoria Park Raiders Junior Football Club, whose many members put in more than 20 hours a week to support the club and ensure the players can make the games. On Saturday I attended the Perth Football Club pre-game lunch. Another prime example was the presentation to Keith Collins at the Perth Football Club, who received a magnificent trophy for 30 years of unpaid and unsung work at the Perth Football Club. He was then asked to do the raffle draw, and his humility stood out. To Keith Collins and all the volunteers in the community of Swan and around Australia, I congratulate you and encourage you to keep doing the fabulous work that we all appreciate that you do.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1,speech
 "Byrne, Anthony, MP",ALP,2018-08-13,"
 
 
@@ -770,7 +770,7 @@ About the Cranbourne area, I would also like to highlight the volunteer work of 
 
 They are two very good people that help maintain essential services. I call them volunteers, the glue that helps bind our community together and keep our community together. They often do it in a very quintessentially Australian way: they are not looking for recognition. But I would like to recognise two groups of people in this place. I would like this House to note the service that they have given to their community.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1,speech
 "Alexander, John, MP",LP,2018-08-13,"
 
 
@@ -796,7 +796,7 @@ There are volunteers at all levels of our society making our community run smoot
 
 Congratulations to these groups and, indeed, to all the thousands of volunteers who help the people of Bennelong. Many of you are silent toilers working forever in the background and never seeing the congratulations and thanks you deserve, so I would like to say thank you on behalf of all of us. Thank you for your tireless efforts to make our community a better place and to ensure everybody has a fair go and that nobody gets left behind. Volunteers are the best part of our society and deserve the highest praise this House can offer.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1,speech
 "Owens, Julie, MP",ALP,2018-08-13,"
 
 
@@ -837,7 +837,7 @@ The DEPUTY SPEAKER
 Mr Goodenough
 ):  There being no further speakers, the debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Volunteering</title>,PRIVATE MEMBERS' BUSINESS,7,1,speech
 "Goodenough, Ian (The DEPUTY SPEAKER)",LP,2018-08-13,"
 
 
@@ -848,7 +848,7 @@ The DEPUTY SPEAKER
 Mr Goodenough
 ) (11:50):  The Speaker has received a message from the Senate informing the House that Senator David Smith has been appointed a member of the Joint Standing Committee on the National Capital and External Territories.
 
-",HoR,<title>COMMITTEES</title>,<title>National Capital and External Territories Committee</title>,COMMITTEES,9,1
+",HoR,<title>COMMITTEES</title>,<title>National Capital and External Territories Committee</title>,COMMITTEES,9,1,speech
 "Goodenough, Ian (The DEPUTY SPEAKER)",LP,2018-08-13,"
 
 
@@ -859,7 +859,7 @@ The DEPUTY SPEAKER
 Mr Goodenough
 ) (11:50):  The Speaker has received a message from the Senate informing the House that Senator David Smith has been appointed a member of the Joint Standing Committee on the National Capital and External Territories.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,9,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,9,2,speech
 "Leeser, Julian, MP",LP,2018-08-13,"
 
 
@@ -993,7 +993,7 @@ On behalf of the committee, we would like to acknowledge and thank members of th
 
 I commend the Interim report of the Joint Select Committee on Constitutional Recognition relating to Aboriginal and Torres Strait Islander Peoples to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Constitutional Recognition Relating to ATSIP</title>,COMMITTEES,11,1
+",HoR,<title>COMMITTEES</title>,<title>Constitutional Recognition Relating to ATSIP</title>,COMMITTEES,11,1,speech
 "Burney, Linda, MP",ALP,2018-08-13,"
 
 
@@ -1034,7 +1034,7 @@ In conclusion, Labor has always supported the Uluru Statement from the Heart and
 
 I finish by saying once again: it is up to this parliament to make those aspirations a reality. We cannot be a roadblock on this journey, because, if we are, it will not only affect First Nations people fundamentally, it will actually diminish us all as a nation.
 
-",HoR,<title>COMMITTEES</title>,<title>Constitutional Recognition Relating to ATSIP</title>,COMMITTEES,11,1
+",HoR,<title>COMMITTEES</title>,<title>Constitutional Recognition Relating to ATSIP</title>,COMMITTEES,11,1,speech
 "Entsch, Warren, MP",LP,2018-08-13,"
 
 
@@ -1054,7 +1054,7 @@ The DEPUTY SPEAKER
 Mr Goodenough
 ):  The debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Constitutional Recognition Relating to ATSIP</title>,COMMITTEES,11,1
+",HoR,<title>COMMITTEES</title>,<title>Constitutional Recognition Relating to ATSIP</title>,COMMITTEES,11,1,speech
 "Entsch, Warren, MP",LP,2018-08-13,"
 
 
@@ -1068,7 +1068,7 @@ That the order of the day be referred to the Federation Chamber for debate.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Constitutional Recognition Relating to ATSIP</title>,COMMITTEES,11,1
+",HoR,<title>COMMITTEES</title>,<title>Constitutional Recognition Relating to ATSIP</title>,COMMITTEES,11,1,speech
 "Leeser, Julian, MP",LP,2018-08-13,"
 
 
@@ -1202,7 +1202,7 @@ On behalf of the committee, we would like to acknowledge and thank members of th
 
 I commend the Interim report of the Joint Select Committee on Constitutional Recognition relating to Aboriginal and Torres Strait Islander Peoples to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,11,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,11,2,speech
 "Burney, Linda, MP",ALP,2018-08-13,"
 
 
@@ -1243,7 +1243,7 @@ In conclusion, Labor has always supported the Uluru Statement from the Heart and
 
 I finish by saying once again: it is up to this parliament to make those aspirations a reality. We cannot be a roadblock on this journey, because, if we are, it will not only affect First Nations people fundamentally, it will actually diminish us all as a nation.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,11,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,11,2,speech
 "Entsch, Warren, MP",LP,2018-08-13,"
 
 
@@ -1263,7 +1263,7 @@ The DEPUTY SPEAKER
 Mr Goodenough
 ):  The debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,11,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,11,2,speech
 "Mitchell, Brian, MP",ALP,2018-08-13,"
 
 
@@ -1310,7 +1310,7 @@ In order to access Hobart's airport, you must first navigate a dangerous and bus
 
 Far, far from my electorate is Sydney. Sydney airport is the world's 20th-busiest airport. In 2017 it saw 43.3 million passengers go through it—in one year. Just the year before, Sydney was the world's 23rd-busiest airport, so it's jumped three spaces globally in one year. That is a phenomenal increase. The growth is not incidental and it is demonstrative of Australia's increased visitor numbers, thanks to our country's global reputation as a tourist destination, with high domestic and overseas tourist numbers. While it is positive to see such growth, there are challenges, including environmental wear and tear and the fact that public infrastructure and transport systems struggle to cope with higher demands. It's little wonder that with that growth and, given the size of Sydney, we are now looking at a second Sydney airport. It makes sense, but so does the implementation of a range of new requirements for airport infrastructure, including better environmental assessments, better management and oversight processes and certainly better community consultation and community partnership. I know from speaking to my colleagues on this side of the House who represent some of the communities out in Western Sydney that they are very critical of the fact that their communities have been effectively sidelined with the planning for Badgerys Creek and the way it's essentially being imposed upon them. I'm not sure whether it will be a 24-hour flight plan, but there will certainly be very late flights and very early flights—things that residents in Sydney are not subjected to. So we support this, but we will be seeking amendments.
 
-",HoR,<title>BILLS</title>,<title>Airports Amendment Bill 2016</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Airports Amendment Bill 2016</title>,BILLS,12,1,speech
 "Thistlethwaite, Matt, MP",ALP,2018-08-13,"
 
 
@@ -1354,7 +1354,7 @@ We've seen a massive increase in the traffic from helicopters over Sydney airpor
 
 Our airports are pieces of critical national infrastructure. They deserve better. Our airports don't operate in isolation. They are part of our community. They can have significant impacts on people and places. That's why the development of our airports needs to be well planned and done in consultation with communities. That is the key: ensuring that there is consultation with communities. Labor supports investment in aviation infrastructure. As I said earlier, airports are economic powerhouses, but it needs to be done in consultation with communities. That's why we're proposing that the trigger for development plans be dropped from $35 million to $25 million and that this proposal to ensure that the time line can be reduced for consultation with communities be rejected. Consultation with communities is the key to ensuring that we have viable, workable airports that provide jobs for people and also important travel and tourism services.
 
-",HoR,<title>BILLS</title>,<title>Airports Amendment Bill 2016</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Airports Amendment Bill 2016</title>,BILLS,12,1,speech
 "Templeman, Susan, MP",ALP,2018-08-13,"
 
 
@@ -1401,7 +1401,7 @@ People also expect transparency around the jobs figures that are being touted. A
 
 Nothing in what I have learnt of this airport plan since it was first talked about, nothing I have seen in the data and nothing I have seen in researching projects around the world has given me very much peace of mind. Nothing I've seen or been told changes my view that there are profound negative impacts from the flight paths across the Blue Mountains and the Hawkesbury. As a community, I believe, we will have to fight hard to protect the peace and silence that we have until now been able to take for granted as something that we have when we choose to live in a World Heritage area. But you can't only stand here and fight for the things you know you are going to win, so I'm here to fight for what I believe is right for the community that I'm privileged to represent. The community is concerned not just for itself but also to ensure that future generations have the same privilege of being able to live and play peacefully in the Blue Mountains and the Hawkesbury.
 
-",HoR,<title>BILLS</title>,<title>Airports Amendment Bill 2016</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Airports Amendment Bill 2016</title>,BILLS,12,1,speech
 "Zappia, Tony, MP",ALP,2018-08-13,"
 
 
@@ -1451,7 +1451,7 @@ I understand its purpose. In the past my understanding was that any developments
 
 I will listen with interest to the debate in respect of the amendments. I believe that the amendments proposed to be moved by the member for Grayndler are very sensible, as other members on this side of the House have made clear, and I once again endorse the comments made by the member for Grayndler when on behalf of the opposition he responded to this legislation.
 
-",HoR,<title>BILLS</title>,<title>Airports Amendment Bill 2016</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Airports Amendment Bill 2016</title>,BILLS,12,1,speech
 "McCormack, Michael, MP",Nats,2018-08-13,"
 
 
@@ -1471,7 +1471,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Airports Amendment Bill 2016</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Airports Amendment Bill 2016</title>,BILLS,12,1,speech
 "Albanese, Anthony, MP",ALP,2018-08-13,"
 
 
@@ -1543,7 +1543,7 @@ Question agreed to.
 
 Bill, as amended, agreed to.
 
-",HoR,<title>BILLS</title>,<title>Airports Amendment Bill 2016</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Airports Amendment Bill 2016</title>,BILLS,12,1,speech
 "McCormack, Michael, MP",Nats,2018-08-13,"
 
 
@@ -1560,7 +1560,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Airports Amendment Bill 2016</title>,BILLS,12,1
+",HoR,<title>BILLS</title>,<title>Airports Amendment Bill 2016</title>,BILLS,12,1,speech
 "Mitchell, Brian, MP",ALP,2018-08-13,"
 
 
@@ -1607,7 +1607,7 @@ In order to access Hobart's airport, you must first navigate a dangerous and bus
 
 Far, far from my electorate is Sydney. Sydney airport is the world's 20th-busiest airport. In 2017 it saw 43.3 million passengers go through it—in one year. Just the year before, Sydney was the world's 23rd-busiest airport, so it's jumped three spaces globally in one year. That is a phenomenal increase. The growth is not incidental and it is demonstrative of Australia's increased visitor numbers, thanks to our country's global reputation as a tourist destination, with high domestic and overseas tourist numbers. While it is positive to see such growth, there are challenges, including environmental wear and tear and the fact that public infrastructure and transport systems struggle to cope with higher demands. It's little wonder that with that growth and, given the size of Sydney, we are now looking at a second Sydney airport. It makes sense, but so does the implementation of a range of new requirements for airport infrastructure, including better environmental assessments, better management and oversight processes and certainly better community consultation and community partnership. I know from speaking to my colleagues on this side of the House who represent some of the communities out in Western Sydney that they are very critical of the fact that their communities have been effectively sidelined with the planning for Badgerys Creek and the way it's essentially being imposed upon them. I'm not sure whether it will be a 24-hour flight plan, but there will certainly be very late flights and very early flights—things that residents in Sydney are not subjected to. So we support this, but we will be seeking amendments.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2,speech
 "Thistlethwaite, Matt, MP",ALP,2018-08-13,"
 
 
@@ -1651,7 +1651,7 @@ We've seen a massive increase in the traffic from helicopters over Sydney airpor
 
 Our airports are pieces of critical national infrastructure. They deserve better. Our airports don't operate in isolation. They are part of our community. They can have significant impacts on people and places. That's why the development of our airports needs to be well planned and done in consultation with communities. That is the key: ensuring that there is consultation with communities. Labor supports investment in aviation infrastructure. As I said earlier, airports are economic powerhouses, but it needs to be done in consultation with communities. That's why we're proposing that the trigger for development plans be dropped from $35 million to $25 million and that this proposal to ensure that the time line can be reduced for consultation with communities be rejected. Consultation with communities is the key to ensuring that we have viable, workable airports that provide jobs for people and also important travel and tourism services.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2,speech
 "Templeman, Susan, MP",ALP,2018-08-13,"
 
 
@@ -1698,7 +1698,7 @@ People also expect transparency around the jobs figures that are being touted. A
 
 Nothing in what I have learnt of this airport plan since it was first talked about, nothing I have seen in the data and nothing I have seen in researching projects around the world has given me very much peace of mind. Nothing I've seen or been told changes my view that there are profound negative impacts from the flight paths across the Blue Mountains and the Hawkesbury. As a community, I believe, we will have to fight hard to protect the peace and silence that we have until now been able to take for granted as something that we have when we choose to live in a World Heritage area. But you can't only stand here and fight for the things you know you are going to win, so I'm here to fight for what I believe is right for the community that I'm privileged to represent. The community is concerned not just for itself but also to ensure that future generations have the same privilege of being able to live and play peacefully in the Blue Mountains and the Hawkesbury.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2,speech
 "Zappia, Tony, MP",ALP,2018-08-13,"
 
 
@@ -1748,7 +1748,7 @@ I understand its purpose. In the past my understanding was that any developments
 
 I will listen with interest to the debate in respect of the amendments. I believe that the amendments proposed to be moved by the member for Grayndler are very sensible, as other members on this side of the House have made clear, and I once again endorse the comments made by the member for Grayndler when on behalf of the opposition he responded to this legislation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2,speech
 "McCormack, Michael, MP",Nats,2018-08-13,"
 
 
@@ -1768,7 +1768,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,12,2,speech
 "Dick, Milton, MP",ALP,2018-08-13,"
 
 
@@ -1830,7 +1830,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  The debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour, when the member for Oxley will have the right to continue speaking.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,14,1,speech
 "Dick, Milton, MP",ALP,2018-08-13,"
 
 
@@ -1892,7 +1892,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  The debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour, when the member for Oxley will have the right to continue speaking.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Dreyfus, Mark, MP",ALP,2018-08-13,"
 
 
@@ -1906,7 +1906,7 @@ It was very moving to see the recognition of the 341 Australian soldiers of Jewi
 
 I would particularly like to recognise Ms Yael Cass, President of the ACT Jewish Community; Dr Merrilyn Sernack, honorary secretary; Dr David Rosalky, honorary treasurer; and the many others involved for their hard work in making this memorial a reality. It's a tribute to these hundreds of great Jewish Australians for the sacrifice they made. We will remember them.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Australian Jewish War Memorial</title>,STATEMENTS BY MEMBERS,15,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Australian Jewish War Memorial</title>,STATEMENTS BY MEMBERS,15,1,speech
 "Turnbull, Malcolm, MP",LP,2018-08-13,"
 
 
@@ -1932,7 +1932,7 @@ The Regional Investment Corporation, established on 1 July, has $2 billion avail
 
 I would like finally to commend everyone who has rallied behind our farmers and the communities who support them. I want to thank families, businesses and charities but also the kids. Young Maisie in Western Australia gave two years of her pocket money to help the farmers. There is young Jack at St John the Baptist Catholic Primary School in Freshwater, whose Fiver for a Farmer campaign has raised 10 times what he'd hoped for. When nature throws its worst at us, it brings out the best in Australians. To our farmers, who grow the food we eat and the fibre we wear, we thank you for your tenacity and courage. Now, in these hard, dry times, more than ever, we have your back.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Drought</title>,MINISTERIAL STATEMENTS,17,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Drought</title>,MINISTERIAL STATEMENTS,17,1,speech
 "Shorten, Bill, MP",ALP,2018-08-13,"
 
 
@@ -1952,7 +1952,45 @@ The government has recently reached $700 million in penalties from the Commonwea
 
 Barcaldine of course is where the Labor Party was born. But when I was there I also spoke with plenty of lifelong National Party people about what this parliament can do. At times like this, political identity is so far down the list that it doesn't matter. There are not LNP Australians going through the drought or Labor Australians going through the drought; there are just Australians. I think I speak for all members in this place when I say to farmers in dire need: you are our fellow Australians, and we are on your side.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Drought</title>,MINISTERIAL STATEMENTS,17,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Drought</title>,MINISTERIAL STATEMENTS,17,1,speech
+"Shorten, Bill, MP",ALP,2018-08-13,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:16):  Before I start, can I just say that it's marvellous to have these four MPs back in parliament.
+
+
+My question is to the Prime Minister. The government said that the by-elections would be a referendum on his corporate tax cuts. Will the Prime Minister now admit that Australian voters right around this country rejected his $80 billion handout to big business, including $17 billion for the big banks? Or does the Prime Minister think that the voters in Perth and Braddon and Fremantle and Longman just got it wrong?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,18,1,question
+"Turnbull, Malcolm, MP",LP,2018-08-13,"
+
+
+
+Mr TURNBULL
+ (Wentworth—Prime Minister) (14:16):  I thank the honourable member for his question. We well remember the honourable member standing here some years ago saying that lower company tax will result in more productivity, more investment, more jobs and higher wages. We remember that; the microphone was on when he said that. We all know that normally he doesn't say what he's thinking when he's on mic. We saw him on his outback tour and he said, 'I'm on mic; I can't say what I'm thinking.' The reality is that Australians never know what the Leader of the Opposition is thinking, because he says one thing to one group and another to another group. What was he saying to the $11,000-a-head fundraiser sponsored by Macquarie Bank and Genworth? I wonder what he was saying there. Do you think he was saying that company taxes should be higher? I'm sure he was trying to weasel his way around there, trying to tap back to an earlier position.
+
+
+You won't get any consistency from the Leader of the Opposition. All we know is that time and time again he tells people what they want to hear. He has no consistency, and that is why he cannot be trusted. He's failed to give Australians straight answers on tax. He's failed, just as he failed to protect his members in the Australian Workers Union. He goes around and talks about penalty rates—a very important part of our industrial system, determined by the independent umpire, whose rulings he always said he would support. But then, of course, when he was the leader of the AWU, one group of low-paid workers after another were abandoned by the Leader of the Opposition. He failed them, as he fails Australians. When he's on mic he doesn't say what he's thinking, so he's assured us, and when he's off mic he's no more reliable than when he's on.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,18,1,answer
+"Bandt, Adam, MP",AG,2018-08-13,"
+
+
+
+Mr BANDT
+ (Melbourne) (14:31):  My question is to the Minister for the Environment and Energy. My question is about the modelling underpinning the final proposed design of the National Energy Guarantee. In response to requests for the full modelling behind the claims about $550-a-year drops in energy prices, all that was released was a single Excel spreadsheet file. Minister, will you today release the full modelling underpinning the final detailed design of the National Energy Guarantee before the coalition party room considers it tomorrow, or does the government have no modelling beyond a single Excel spreadsheet?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE,20,1,question
+"Frydenberg, Josh, MP",LP,2018-08-13,"
+
+
+
+Mr FRYDENBERG
+ (Kooyong—Minister for the Environment and Energy) (14:32):  I appreciate the Greens' interest in our party room, because they are the party of the carbon tax. They are the party, in partnership with the Labor Party, which saw electricity prices increase each and every year when they were in office. Prices doubled. The member for Melbourne should know better. The modelling that was undertaken by ACIL Allen was for the Energy Security Board, and their detailed report very clearly made public the technology costs, fuel costs, capital costs, exchange rate, inflation rate—all the inputs which went into establishing that, together with the National Energy Guarantee, Australian households will be $550 a year better off, which will see the wholesale price of power come down by about 20 per cent. That is significant. That means hundreds of thousands of dollars to be saved by hospitals and supermarkets, and millions of dollars to be saved by chemical and paper manufacturers—blue-collar workers that the Greens don't even pretend to represent, because the Greens are all about ideology. The coalition, when it comes to energy policy, is focusing on engineering and economics. The reality is that we have listened to the independent experts, that this policy has been backed by business, industry and consumer groups, and that this policy, together with existing policies, will reduce power prices by $550 a year.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE,20,1,answer
 "Smith, Tony, MP",LP,2018-08-13,"
 
 
@@ -1960,7 +1998,7 @@ Barcaldine of course is where the Labor Party was born. But when I was there I a
 The SPEAKER
  (15:20):  I present the Speaker's response to the recommendations of the report of the Standing Committee on Petitions entitled Making voices heard: inquiry into the e-petitioning system of the House of Representatives Petitions Committee.
 
-",HoR,<title>COMMITTEES</title>,<title>Petitions Committee</title>,COMMITTEES,22,1
+",HoR,<title>COMMITTEES</title>,<title>Petitions Committee</title>,COMMITTEES,22,1,speech
 "Smith, Tony, MP",LP,2018-08-13,"
 
 
@@ -1968,7 +2006,7 @@ The SPEAKER
 The SPEAKER
  (15:20):  I present the Speaker's response to the recommendations of the report of the Standing Committee on Petitions entitled Making voices heard: inquiry into the e-petitioning system of the House of Representatives Petitions Committee.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2,speech
 "Smith, Tony, MP",LP,2018-08-13,"
 
 
@@ -1979,7 +2017,7 @@ The SPEAKER
 
 Document made a parliamentary paper in accordance with the resolution agreed to on 28 March 2018.
 
-",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 1 of 2018-19</title>,AUDITOR-GENERAL'S REPORTS,23,1
+",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 1 of 2018-19</title>,AUDITOR-GENERAL'S REPORTS,23,1,speech
 "Smith, Tony, MP",LP,2018-08-13,"
 
 
@@ -1987,7 +2025,7 @@ Document made a parliamentary paper in accordance with the resolution agreed to 
 The SPEAKER
  (15:20):  I present the report on the Commonwealth Ombudsman's activities under section 65(6) of the Building and Construction Industry (Improving Productivity) Act 2016 for the period 1 July to 30 September 2017.
 
-",HoR,<title>DOCUMENTS</title>,<title>Commonwealth Ombudsman</title>,DOCUMENTS,24,1
+",HoR,<title>DOCUMENTS</title>,<title>Commonwealth Ombudsman</title>,DOCUMENTS,24,1,speech
 "Smith, Tony, MP",LP,2018-08-13,"
 
 
@@ -1995,7 +2033,7 @@ The SPEAKER
 The SPEAKER
  (15:20):  I present the report on the Commonwealth Ombudsman's activities under section 65(6) of the Building and Construction Industry (Improving Productivity) Act 2016 for the period 1 July to 30 September 2017.
 
-",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,24,2
+",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,24,2,speech
 "Irons, Steve, MP",LP,2018-08-13,"
 
 
@@ -2057,7 +2095,7 @@ ASIC has also continued to raise concerns about audit quality in its audit inspe
 
 The committee therefore recommends that the government review the adequacy of current arrangements for auditor disciplinary functions.
 
-",HoR,<title>COMMITTEES</title>,<title>Corporations and Financial Services Committee</title>,COMMITTEES,27,1
+",HoR,<title>COMMITTEES</title>,<title>Corporations and Financial Services Committee</title>,COMMITTEES,27,1,speech
 "Irons, Steve, MP",LP,2018-08-13,"
 
 
@@ -2119,7 +2157,7 @@ ASIC has also continued to raise concerns about audit quality in its audit inspe
 
 The committee therefore recommends that the government review the adequacy of current arrangements for auditor disciplinary functions.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,27,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,27,2,speech
 "Dick, Milton, MP",ALP,2018-08-13,"
 
 
@@ -2269,7 +2307,7 @@ In our view, they will not only fail to achieve the Bill's stated aim of assisti
 
 To the government sitting in the chamber today, I urge them to reconsider their ill-fated stance taken on this important issue and the harm that it will inflict on vulnerable Australians, families and communities. We know that there is not a single piece of evidence that suggests this policy will do anything but cause harm. I'm proud to say that Labor and myself will not be supporting this bill.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1,speech
 "Morton, Ben, MP",LP,2018-08-13,"
 
 
@@ -2322,7 +2360,7 @@ The community, in my view, is very supportive of these measures. Millions of Aus
 
 I'll always look for the best ways to support people on welfare, particularly where welfare dependency exists alongside the harm of drug and alcohol abuse. This drug-testing trial delivered by this legislation is about helping people get the treatment for their drug issues, to get them off welfare and into a job. It's about making a better life for them and their families, and this parliament should support this trial.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1,speech
 "Chalmers, Jim, MP",ALP,2018-08-13,"
 
 
@@ -2432,7 +2470,7 @@ Finally, the government is unable to tell the Australian people how much these t
 
 For all those reasons, Labor opposes this bill and the drug testing that it seeks to implement. We have listened to the experts, we have consulted with the communities and we genuinely care about helping people who need help. We don't want to see more of the punishing of those people, more of the demeaning and demonising of them that we've seen from those opposite. We're up for a genuine discussion about how we help people battling addiction, how we help ensure they receive the treatment they need and how we stop kicking people in the guts when they're down, which is at the core of what the government is proposing in this legislation which should not be supported.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1,speech
 "Hastie, Andrew, MP",LP,2018-08-13,"
 
 
@@ -2479,7 +2517,7 @@ For Mandurah, the drug-testing trial is part of a multipronged approach to local
 
 Finally, let's remember that this program is a trial. The government is trying something new in a further attempt to help some of the most vulnerable people in our society. Shouldn't we just give it a go? The drug-testing trial is a sensible, practical and popular policy. The people of Mandurah support the plan and want this parliament to pass it as soon as possible. Labor will have to answer to the Mandurah community if they continue to block the peoples' will.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1,speech
 "Bandt, Adam, MP",AG,2018-08-13,"
 
 
@@ -2526,7 +2564,7 @@ Just like the previous time that the government tried to get this through and go
 
 I hope that when it comes back to the Senate it gets rejected soundly again, because this is a bad idea that will hurt people. I hope beyond hope that someone I know and care about is never in the situation where, because of this government, they can't deal with the demons that they're facing and, in fact, this government turns around and makes their problem worse. I ask everyone to think if it were your own son or daughter, who was facing these issues, would you really want them to be forced to live with no money at all just because the government wanted to make a political point?
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1,speech
 "Falinski, Jason, MP",LP,2018-08-13,"
 
 
@@ -2586,7 +2624,7 @@ To further support those who are struggling with drug and alcohol addiction, the
 
 Illicit drug and alcohol abuse is a problem which affects many Australians across all different socioeconomic backgrounds, but it is most prevalent among the unemployed. These trials and the measures in this bill will save lives by getting people out of their addiction and back to work. Drug dealers will no longer be subsidised with taxpayers' money, and people who truly need treatment will get it. No-one—I repeat, no-one—whether they test positive or negative, will have their payments reduced at any time. This bill is a magnificent initiative of a government that cares about people, that wants to help people stop harming themselves and give them the skills to help them live their lives to the full. We're not passing a value judgement on those Australians who are out of work and struggling with drug abuse. We are simply ensuring that such detrimental activities are discouraged and that the Australian taxpayer no longer carries the burden of financing them. I support the trials, and I would support them being held in my own electorate of Mackellar. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1,speech
 "Freelander, Mike, MP",ALP,2018-08-13,"
 
 
@@ -2645,7 +2683,7 @@ What is remarkable is that the government senators could somehow have managed to
 
 Not only would a full rollout of this scheme be prohibitively expensive; there just aren't enough qualified people to administer the test or provide the necessary treatment services for anything more than a trial. At the start I mentioned five principles that you don't expect a government in a free society to do. A government must not be arbitrary, wilful, cruel or petty, and it should rarely sanction government action that interferes with the physical and bodily integrity of the individual, yet this is exactly what this government is proposing. It is shameful, as are some of the other measures this government is proposing for our most disadvantaged citizens. I really feel government members should rethink this bill, rethink what they're doing and, for once, listen to the experts and the science.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1,speech
 "Van Manen, Bert, MP",LP,2018-08-13,"
 
 
@@ -2686,7 +2724,7 @@ I believe this plan will ensure that our welfare recipients' payments will help 
 
 This bill, the Social Services Legislation Amendment (Drug Testing Trial) Bill 2018, has the potential to provide an opportunity for some to live a much brighter future than they would have if they remained stuck in that mire of drug dependency and welfare. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1,speech
 "McBride, Emma, MP",ALP,2018-08-13,"
 
 
@@ -2742,7 +2780,7 @@ International experience shows when you push people to the brink, like removing 
 
 In conclusion, this bill is risky. As I mentioned at the outset, I've worked with people living with drug dependency and addiction for 20 years before entering this House. From my second year as a pharmacy student, I worked with people on the Opioid Treatment Program in community pharmacies. In the last 10 years before I came into this House, I worked as a mental health specialist pharmacist and also was a clinical support to an OTP clinic and an inpatient rehabilitation service. As I said at the outset, addiction and dependency are health issues. Dependency doesn't discriminate between those who are working and those who are looking for work. This government's attempt to link drug use or drug misuse with unemployment is wrong and it is harmful. I oppose this bill.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1,speech
 "Ramsey, Rowan, MP",LP,2018-08-13,"
 
 
@@ -2786,7 +2824,7 @@ It is time to stop wringing our hands and say, 'We're going to do something; we'
 
 According to Newspoll 73 per cent of voters back the trial. Why? The voters see the damage on a daily basis. They are the parents of children in trouble. People know what's going on in our communities. I get told constantly—as just about every member of this House does, I bet—about the ravages of drugs in their community, and to do something about it. Well, this is a chance to do something about it. It's a chance to give it a red-hot go, a chance to try to get people to take control of their lives and to give them the tools to do so. But we can't do that if we refuse to engage with them. If we're just waiting for them all to step forward and have the moment of realisation that they're no longer in control of their life, then we're going to lose a lot of them along the way. This is the early identification program. This is the thing that can change your life. If you've been unemployed for five, six or seven years and you've got a drug habit, there's a fair chance it'll be for the rest of your life. We need to get in earlier than that and make a difference earlier. So, I implore those on the other side to think about what it is they are trying to oppose here and come on board and give this trial a fair dinkum go.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1,speech
 "Burney, Linda, MP",ALP,2018-08-13,"
 
 
@@ -2875,7 +2913,7 @@ It is just unbelievable to me that this government would not listen to the exper
 
 I want to understand how the government has thrown together unemployment, people needing to rely on welfare assistance and drug addiction. There is no connection. We know that drug addiction affects all demographics, we know that drug addiction does not discriminate, and we certainly understand that drug addiction is a healthcare issue. It will not be fixed up by further penalising people who are relying on Newstart and other payments. It is a ludicrous proposition that the government has put in front of itself. Time will show that this trial is a waste of taxpayers' money and that the money spent on this trial, if it ever gets up, would have been better spent on services that support people with addiction and that look at as a healthcare issue and not as something which can be controlled through people's access to Centrelink payments. 
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1,speech
 "Laming, Andrew, MP",LP,2018-08-13,"
 
 
@@ -2928,7 +2966,7 @@ I will finish where I started. This is a party of hope and belief. What you've h
 
 We have an incredibly hard battle here. If there's one thought that I leave this chamber with, it is that we need to try everything. What you have is a Labor Party desperate to stop us trying everything in our power to take an ice addict and try and break that cycle. They will present, as the member for Oxley did, a young woman, tragically, raped at an early age, who says, 'I live for ice and nothing will ever stop me taking it.' That's the hardest of the hard. I'm not saying it's going to fix every case. We're talking about those right down at the margins, intermittent recreational users, who last year used that excuse nearly 2½ thousand times to not show up for work, but they still got paid with taxpayers' money. For those on the margins that are just opting in and out, using ice as a convenient excuse not to work—we know there are around 85,000 persistent evaders and many of them use drugs and alcohol as an excuse—your time is up. The holiday is over. We will, through a series of reforms, eventually prevent you leading that life. Maybe not you—maybe under that roof you've never understood the importance of holding down a job and supporting a family. But all of us will realise that one day, and we don't want to see children damaged while we wait those years for people to come off addiction.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1,speech
 "O'Toole, Cathy, MP",ALP,2018-08-13,"
 
 
@@ -2972,7 +3010,7 @@ When you are sick, you should always have access to health care. Where you live 
 
 To all of those people that the Turnbull government is neglecting I say: you need to know that you matter to the Labor Party and that you matter to me personally. I will fight every minute of every day in this place for you. I will continue to fight against the Turnbull government's savage cuts. I will continue to fight for real action to help people overcome their drug misuse challenges, not rubbish bills like this one. I will continue to fight against the Turnbull government's top hats approach, and I will take up the fight for hard hats. I will continue to fight for jobs in Townsville. I will continue to fight for a fair go for our veterans and ex-service personnel and their families. I will continue to fight for aged care, child care and Medicare, because Labor does care. Labor is the only party that gives people something to aspire to, and that is the opportunity to create a better life for themselves and their children. This bill certainly does not do that. Punishing the most vulnerable at the most difficult time in their life is anything but a solution to get people moving on with their lives.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1,speech
 "Sharkie, Rebekha, MP",CA,2018-08-13,"
 
 
@@ -2995,7 +3033,7 @@ I'd like to raise a serious but often missed point in relation to drug addiction
 
 If we have millions to spare on this random drug testing—and we still don't know how much it is—then more money should be put into addiction services. Let me be clear: Centre Alliance believes that people who are on jobseeker payments should not be allowed to sit and do nothing. This is why we supported an amended welfare reform bill. Centre Alliance believes that jobseekers should be either actively engaged in jobseeking or actively engaged in becoming job-ready, and that would mean addressing their addictions. In the case of a person with a drug addiction, this means engaging in drug rehabilitation, getting counselling and in some cases going into a rehab bed. We believed it was right and we believed it was responsible. However, what we have before us today is really poor policy formation. There is no clarity of cost or of expected outcomes, and we have already changed the legislation to deal with people with addiction. Let's face it: if the US have abandoned their drug testing, we need to learn from them. Why would we go down the same path? The US has far more populist politics than we do. Surely we can learn from them. I believe this is a crude attempt to demonise people receiving Centrelink payments. We do have long-term unemployed in Australia, but for the most part they are older Australians completing job application after job application. We also know that there is a one-to-16 ratio of jobs to jobseekers. That is what we should be addressing. In conclusion, the drug-testing trial bill is but a populist piece of legislation. I call upon the parliament to once again oppose this flawed piece of legislation. We cannot afford to waste more taxpayer money on this.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1,speech
 "Hill, Julian, MP",ALP,2018-08-13,"
 
 
@@ -3072,7 +3110,7 @@ Mr HILL:
 The member for Bruce then left the chamber.
 
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1,speech
 "Coulton, Mark, MP",Nats,2018-08-13,"
 
 
@@ -3115,7 +3153,7 @@ Finally, in reviewing the bill the Parliamentary Joint Committee on Human Rights
 
 The SPEAKER:  The question is that this bill be now read a second time.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1,speech
 "Coulton, Mark, MP",Nats,2018-08-13,"
 
 
@@ -3132,7 +3170,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Drug Testing Trial) Bill 2018</title>,BILLS,28,1,speech
 "Dick, Milton, MP",ALP,2018-08-13,"
 
 
@@ -3282,7 +3320,7 @@ In our view, they will not only fail to achieve the Bill's stated aim of assisti
 
 To the government sitting in the chamber today, I urge them to reconsider their ill-fated stance taken on this important issue and the harm that it will inflict on vulnerable Australians, families and communities. We know that there is not a single piece of evidence that suggests this policy will do anything but cause harm. I'm proud to say that Labor and myself will not be supporting this bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Morton, Ben, MP",LP,2018-08-13,"
 
 
@@ -3335,7 +3373,7 @@ The community, in my view, is very supportive of these measures. Millions of Aus
 
 I'll always look for the best ways to support people on welfare, particularly where welfare dependency exists alongside the harm of drug and alcohol abuse. This drug-testing trial delivered by this legislation is about helping people get the treatment for their drug issues, to get them off welfare and into a job. It's about making a better life for them and their families, and this parliament should support this trial.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Chalmers, Jim, MP",ALP,2018-08-13,"
 
 
@@ -3445,7 +3483,7 @@ Finally, the government is unable to tell the Australian people how much these t
 
 For all those reasons, Labor opposes this bill and the drug testing that it seeks to implement. We have listened to the experts, we have consulted with the communities and we genuinely care about helping people who need help. We don't want to see more of the punishing of those people, more of the demeaning and demonising of them that we've seen from those opposite. We're up for a genuine discussion about how we help people battling addiction, how we help ensure they receive the treatment they need and how we stop kicking people in the guts when they're down, which is at the core of what the government is proposing in this legislation which should not be supported.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Hastie, Andrew, MP",LP,2018-08-13,"
 
 
@@ -3492,7 +3530,7 @@ For Mandurah, the drug-testing trial is part of a multipronged approach to local
 
 Finally, let's remember that this program is a trial. The government is trying something new in a further attempt to help some of the most vulnerable people in our society. Shouldn't we just give it a go? The drug-testing trial is a sensible, practical and popular policy. The people of Mandurah support the plan and want this parliament to pass it as soon as possible. Labor will have to answer to the Mandurah community if they continue to block the peoples' will.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Bandt, Adam, MP",AG,2018-08-13,"
 
 
@@ -3539,7 +3577,7 @@ Just like the previous time that the government tried to get this through and go
 
 I hope that when it comes back to the Senate it gets rejected soundly again, because this is a bad idea that will hurt people. I hope beyond hope that someone I know and care about is never in the situation where, because of this government, they can't deal with the demons that they're facing and, in fact, this government turns around and makes their problem worse. I ask everyone to think if it were your own son or daughter, who was facing these issues, would you really want them to be forced to live with no money at all just because the government wanted to make a political point?
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Falinski, Jason, MP",LP,2018-08-13,"
 
 
@@ -3599,7 +3637,7 @@ To further support those who are struggling with drug and alcohol addiction, the
 
 Illicit drug and alcohol abuse is a problem which affects many Australians across all different socioeconomic backgrounds, but it is most prevalent among the unemployed. These trials and the measures in this bill will save lives by getting people out of their addiction and back to work. Drug dealers will no longer be subsidised with taxpayers' money, and people who truly need treatment will get it. No-one—I repeat, no-one—whether they test positive or negative, will have their payments reduced at any time. This bill is a magnificent initiative of a government that cares about people, that wants to help people stop harming themselves and give them the skills to help them live their lives to the full. We're not passing a value judgement on those Australians who are out of work and struggling with drug abuse. We are simply ensuring that such detrimental activities are discouraged and that the Australian taxpayer no longer carries the burden of financing them. I support the trials, and I would support them being held in my own electorate of Mackellar. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Freelander, Mike, MP",ALP,2018-08-13,"
 
 
@@ -3658,7 +3696,7 @@ What is remarkable is that the government senators could somehow have managed to
 
 Not only would a full rollout of this scheme be prohibitively expensive; there just aren't enough qualified people to administer the test or provide the necessary treatment services for anything more than a trial. At the start I mentioned five principles that you don't expect a government in a free society to do. A government must not be arbitrary, wilful, cruel or petty, and it should rarely sanction government action that interferes with the physical and bodily integrity of the individual, yet this is exactly what this government is proposing. It is shameful, as are some of the other measures this government is proposing for our most disadvantaged citizens. I really feel government members should rethink this bill, rethink what they're doing and, for once, listen to the experts and the science.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Van Manen, Bert, MP",LP,2018-08-13,"
 
 
@@ -3699,7 +3737,7 @@ I believe this plan will ensure that our welfare recipients' payments will help 
 
 This bill, the Social Services Legislation Amendment (Drug Testing Trial) Bill 2018, has the potential to provide an opportunity for some to live a much brighter future than they would have if they remained stuck in that mire of drug dependency and welfare. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "McBride, Emma, MP",ALP,2018-08-13,"
 
 
@@ -3755,7 +3793,7 @@ International experience shows when you push people to the brink, like removing 
 
 In conclusion, this bill is risky. As I mentioned at the outset, I've worked with people living with drug dependency and addiction for 20 years before entering this House. From my second year as a pharmacy student, I worked with people on the Opioid Treatment Program in community pharmacies. In the last 10 years before I came into this House, I worked as a mental health specialist pharmacist and also was a clinical support to an OTP clinic and an inpatient rehabilitation service. As I said at the outset, addiction and dependency are health issues. Dependency doesn't discriminate between those who are working and those who are looking for work. This government's attempt to link drug use or drug misuse with unemployment is wrong and it is harmful. I oppose this bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Ramsey, Rowan, MP",LP,2018-08-13,"
 
 
@@ -3799,7 +3837,7 @@ It is time to stop wringing our hands and say, 'We're going to do something; we'
 
 According to Newspoll 73 per cent of voters back the trial. Why? The voters see the damage on a daily basis. They are the parents of children in trouble. People know what's going on in our communities. I get told constantly—as just about every member of this House does, I bet—about the ravages of drugs in their community, and to do something about it. Well, this is a chance to do something about it. It's a chance to give it a red-hot go, a chance to try to get people to take control of their lives and to give them the tools to do so. But we can't do that if we refuse to engage with them. If we're just waiting for them all to step forward and have the moment of realisation that they're no longer in control of their life, then we're going to lose a lot of them along the way. This is the early identification program. This is the thing that can change your life. If you've been unemployed for five, six or seven years and you've got a drug habit, there's a fair chance it'll be for the rest of your life. We need to get in earlier than that and make a difference earlier. So, I implore those on the other side to think about what it is they are trying to oppose here and come on board and give this trial a fair dinkum go.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Burney, Linda, MP",ALP,2018-08-13,"
 
 
@@ -3888,7 +3926,7 @@ It is just unbelievable to me that this government would not listen to the exper
 
 I want to understand how the government has thrown together unemployment, people needing to rely on welfare assistance and drug addiction. There is no connection. We know that drug addiction affects all demographics, we know that drug addiction does not discriminate, and we certainly understand that drug addiction is a healthcare issue. It will not be fixed up by further penalising people who are relying on Newstart and other payments. It is a ludicrous proposition that the government has put in front of itself. Time will show that this trial is a waste of taxpayers' money and that the money spent on this trial, if it ever gets up, would have been better spent on services that support people with addiction and that look at as a healthcare issue and not as something which can be controlled through people's access to Centrelink payments. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Laming, Andrew, MP",LP,2018-08-13,"
 
 
@@ -3941,7 +3979,7 @@ I will finish where I started. This is a party of hope and belief. What you've h
 
 We have an incredibly hard battle here. If there's one thought that I leave this chamber with, it is that we need to try everything. What you have is a Labor Party desperate to stop us trying everything in our power to take an ice addict and try and break that cycle. They will present, as the member for Oxley did, a young woman, tragically, raped at an early age, who says, 'I live for ice and nothing will ever stop me taking it.' That's the hardest of the hard. I'm not saying it's going to fix every case. We're talking about those right down at the margins, intermittent recreational users, who last year used that excuse nearly 2½ thousand times to not show up for work, but they still got paid with taxpayers' money. For those on the margins that are just opting in and out, using ice as a convenient excuse not to work—we know there are around 85,000 persistent evaders and many of them use drugs and alcohol as an excuse—your time is up. The holiday is over. We will, through a series of reforms, eventually prevent you leading that life. Maybe not you—maybe under that roof you've never understood the importance of holding down a job and supporting a family. But all of us will realise that one day, and we don't want to see children damaged while we wait those years for people to come off addiction.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "O'Toole, Cathy, MP",ALP,2018-08-13,"
 
 
@@ -3985,7 +4023,7 @@ When you are sick, you should always have access to health care. Where you live 
 
 To all of those people that the Turnbull government is neglecting I say: you need to know that you matter to the Labor Party and that you matter to me personally. I will fight every minute of every day in this place for you. I will continue to fight against the Turnbull government's savage cuts. I will continue to fight for real action to help people overcome their drug misuse challenges, not rubbish bills like this one. I will continue to fight against the Turnbull government's top hats approach, and I will take up the fight for hard hats. I will continue to fight for jobs in Townsville. I will continue to fight for a fair go for our veterans and ex-service personnel and their families. I will continue to fight for aged care, child care and Medicare, because Labor does care. Labor is the only party that gives people something to aspire to, and that is the opportunity to create a better life for themselves and their children. This bill certainly does not do that. Punishing the most vulnerable at the most difficult time in their life is anything but a solution to get people moving on with their lives.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Sharkie, Rebekha, MP",CA,2018-08-13,"
 
 
@@ -4008,7 +4046,7 @@ I'd like to raise a serious but often missed point in relation to drug addiction
 
 If we have millions to spare on this random drug testing—and we still don't know how much it is—then more money should be put into addiction services. Let me be clear: Centre Alliance believes that people who are on jobseeker payments should not be allowed to sit and do nothing. This is why we supported an amended welfare reform bill. Centre Alliance believes that jobseekers should be either actively engaged in jobseeking or actively engaged in becoming job-ready, and that would mean addressing their addictions. In the case of a person with a drug addiction, this means engaging in drug rehabilitation, getting counselling and in some cases going into a rehab bed. We believed it was right and we believed it was responsible. However, what we have before us today is really poor policy formation. There is no clarity of cost or of expected outcomes, and we have already changed the legislation to deal with people with addiction. Let's face it: if the US have abandoned their drug testing, we need to learn from them. Why would we go down the same path? The US has far more populist politics than we do. Surely we can learn from them. I believe this is a crude attempt to demonise people receiving Centrelink payments. We do have long-term unemployed in Australia, but for the most part they are older Australians completing job application after job application. We also know that there is a one-to-16 ratio of jobs to jobseekers. That is what we should be addressing. In conclusion, the drug-testing trial bill is but a populist piece of legislation. I call upon the parliament to once again oppose this flawed piece of legislation. We cannot afford to waste more taxpayer money on this.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Hill, Julian, MP",ALP,2018-08-13,"
 
 
@@ -4085,7 +4123,7 @@ Mr HILL:
 The member for Bruce then left the chamber.
 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Coulton, Mark, MP",Nats,2018-08-13,"
 
 
@@ -4128,7 +4166,7 @@ Finally, in reviewing the bill the Parliamentary Joint Committee on Human Rights
 
 The SPEAKER:  The question is that this bill be now read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Keay, Justine, MP",ALP,2018-08-13,"
 
 
@@ -4157,7 +4195,7 @@ The people of Braddon sent this Liberal government a very clear message: dump yo
 
 This campaign, where everything was thrown at me and Labor, was a tough one. While I and my electorate judged my Liberal opponent on his record, found in black and white, the negative and defamatory attacks on me by my opponent and the dirty political tactics faced by an Independent candidate were not what the people of Braddon accepted. These dirty, negative tactics backfired. This style of politics cannot continue, in the interests of our voters and in the interests of attracting outstanding candidates. After going through this campaign, I now feel I can do just about anything. I am a better person and a better parliamentarian. I am truly honoured and privileged to represent the people of Braddon. I will fight for them every single day, as long as they will have me. 
 
-",HoR,<title>ADJOURNMENT</title>,<title>Braddon By-Election</title>,ADJOURNMENT,29,1
+",HoR,<title>ADJOURNMENT</title>,<title>Braddon By-Election</title>,ADJOURNMENT,29,1,speech
 "Gosling, Luke, MP",ALP,2018-08-13,"
 
 
@@ -4183,7 +4221,7 @@ The DEPUTY SPEAKER
 Mr Buchholz
 ):  I thank the member for Solomon. Can I offer my respective apologies for delaying the chamber. Please accept my apologies.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Australian American Leadership Dialogue, Solomon Electorate</title>",CONSTITUENCY STATEMENTS,31,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Australian American Leadership Dialogue, Solomon Electorate</title>",CONSTITUENCY STATEMENTS,31,1,speech
 "Hill, Julian, MP",ALP,2018-08-13,"
 
 
@@ -4316,7 +4354,7 @@ The DEPUTY SPEAKER:  Do you reserve your right to speak?
 Dr Freelander:
   Yes.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,32,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,32,1,speech
 "Ramsey, Rowan, MP",LP,2018-08-13,"
 
 
@@ -4343,7 +4381,7 @@ We can mention the Australian Domestic Gas Security Mechanism and the fact that 
 
 This is taking into consideration the facts and leaving the politics at the door. They are the facts of the situation. Tight gas will cost $7 or $8. You're not going to run it down cheaper than that. People will not drill for it. And they certainly will not drill in those areas of Australia where they are banned from drilling and banned from fracking. We are allowing political loonies to deny the science. I get told on many occasions to listen to the science, but the same people who tell me to listen to the science on one subject do not want to listen to the science on another subject—in this particular case, the science on the fracking of gas. The science is sound. The technique is sound. It's used all over the world. It's been used in the Cooper Basin, in my state, for 40 years. We should get on with the job.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,32,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,32,1,speech
 "Zappia, Tony, MP",ALP,2018-08-13,"
 
 
@@ -4387,7 +4425,7 @@ The DEPUTY SPEAKER
 Mr Buchholz
 ):  Before I give the call to the member for Hughes, may I remind those in the opposition that you were heard in silence. You suggested, Member for Bruce, that you may want to leave the chamber early. If you interject, I'm happy to oblige.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,32,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,32,1,speech
 "Kelly, Craig, MP",LP,2018-08-13,"
 
 
@@ -4413,7 +4451,7 @@ We also heard nonsense comments during this debate, about how the more intermitt
 
 I am sure that all members have had contact from constituents complaining about electricity prices. I hope those from the Labor Party put their ideological biases aside, forget about green virtue signalling and trying to capture the green vote, and get on board with the coalition policy to get electricity prices down. The only way we can get electricity prices down is to get new base-load generation underway. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,32,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,32,1,speech
 "Keogh, Matt, MP",ALP,2018-08-13,"
 
 
@@ -4433,7 +4471,7 @@ The price reduction and export restrictions that Australian manufacturers are cr
 
 This government must act decisively now and find a solution to this gas crisis which is threatening countless jobs across the nation. Labor recognise the need for action with strong and effective policies to address the affordability and supply of gas to Australian businesses and households. It is why we are committed to a gas national interest reserve policy for the expansion of Australia's gas export industry. It is why we need a government that will pull the trigger on maintaining sustainable domestic gas supplies at a sustainable price. Australian gas users should have the first call on affordable gas before it is shipped offshore. We need a gas market that operates fairly and transparently in the national interest, where our gas industry retains incentives for new investments that benefit the national interest. Only under a Shorten Labor government will an affordable gas policy be secured to support Australian families with cost-of-living pressures and support Australian manufacturing jobs.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,32,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,32,1,speech
 "Wilson, Tim, MP",LP,2018-08-13,"
 
 
@@ -4465,7 +4503,7 @@ The DEPUTY SPEAKER
 Ms Bird
 ):  There being no further speakers, the debate is adjourned. The resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,32,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,32,1,speech
 "McGowan, Cathy, MP",IND,2018-08-13,"
 
 
@@ -4483,7 +4521,7 @@ Today I welcome to the parliament Anne Bowler, the president of the National Ass
 
 It's not good enough to leave rural and regional families under the assumption that one size fits all. I call on the government to report to parliament on the impact of the changes to funding of mobile childcare services in rural and remote Australia, and demonstrate to us that they are not really disadvantaged. (Time expired)
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Child Care</title>,STATEMENTS BY MEMBERS,33,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Child Care</title>,STATEMENTS BY MEMBERS,33,1,speech
 "Khalil, Peter, MP",ALP,2018-08-13,"
 
 
@@ -4518,7 +4556,7 @@ At the last election, Labor also set out a very comprehensive plan to protect an
 
 Labor wants to end the cruelty. Labor wants to ensure our sheep farmers are sustainably profitable. Labor wants to create more jobs here in Australia, and we want to make sure there is animal welfare.
 
-",HoR,<title>BILLS</title>,<title>Live Sheep Long Haul Export Prohibition Bill 2018</title>,BILLS,34,1
+",HoR,<title>BILLS</title>,<title>Live Sheep Long Haul Export Prohibition Bill 2018</title>,BILLS,34,1,speech
 "Broad, Andrew, MP",Nats,2018-08-13,"
 
 
@@ -4611,7 +4649,7 @@ Mr BROAD:
 
 This is the point I'm making: if we want to have a government that's going to stand by the Australian agricultural industry, people have to vote for us. We can remember 1974 and the 40,000 cattle getting shot, paid for by Whitlam. In 1992, under Keating, sheep were shot everywhere. In 2012, under Julia Gillard, there was the ban on cattle. Every time Labor is in power, we see lack of markets, we see sheep getting destroyed and we see cattle getting destroyed. It's the same old Labor: they want to shut it down, they want to ban it and they want to tax it.
 
-",HoR,<title>BILLS</title>,<title>Live Sheep Long Haul Export Prohibition Bill 2018</title>,BILLS,34,1
+",HoR,<title>BILLS</title>,<title>Live Sheep Long Haul Export Prohibition Bill 2018</title>,BILLS,34,1,speech
 "Mitchell, Brian, MP",ALP,2018-08-13,"
 
 
@@ -4667,7 +4705,7 @@ The DEPUTY SPEAKER
 Mr Howarth
 ):  The time allotted for this debate has expired. The debate is interrupted and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Live Sheep Long Haul Export Prohibition Bill 2018</title>,BILLS,34,1
+",HoR,<title>BILLS</title>,<title>Live Sheep Long Haul Export Prohibition Bill 2018</title>,BILLS,34,1,speech
 "Khalil, Peter, MP",ALP,2018-08-13,"
 
 
@@ -4702,7 +4740,7 @@ At the last election, Labor also set out a very comprehensive plan to protect an
 
 Labor wants to end the cruelty. Labor wants to ensure our sheep farmers are sustainably profitable. Labor wants to create more jobs here in Australia, and we want to make sure there is animal welfare.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2,speech
 "Broad, Andrew, MP",Nats,2018-08-13,"
 
 
@@ -4795,7 +4833,7 @@ Mr BROAD:
 
 This is the point I'm making: if we want to have a government that's going to stand by the Australian agricultural industry, people have to vote for us. We can remember 1974 and the 40,000 cattle getting shot, paid for by Whitlam. In 1992, under Keating, sheep were shot everywhere. In 2012, under Julia Gillard, there was the ban on cattle. Every time Labor is in power, we see lack of markets, we see sheep getting destroyed and we see cattle getting destroyed. It's the same old Labor: they want to shut it down, they want to ban it and they want to tax it.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2,speech
 "Mitchell, Brian, MP",ALP,2018-08-13,"
 
 
@@ -4851,7 +4889,7 @@ The DEPUTY SPEAKER
 Mr Howarth
 ):  The time allotted for this debate has expired. The debate is interrupted and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2,speech
 "Marino, Nola, MP",LP,2018-08-13,"
 
 
@@ -4907,7 +4945,7 @@ Mr Howarth
 Mr Drum:
   I second the motion and reserve my right to speak.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1,speech
 "Husic, Ed, MP",ALP,2018-08-13,"
 
 
@@ -4927,7 +4965,7 @@ The third thing that you don't hear those opposite talk about is the failings of
 
 If you look at the figures and stats about performance—this is even in the government's papers that have been put out recently as part of the employment services review—about how long mature-age workers are staying outside of work, it's not good at all. Two-thirds of the jobactive case load are long-term unemployed. Half of that case load have been on it for two years. The average length of time the hardest cases spend on jobactive is five years. Research suggests that those people make up the bulk of the long-term unemployed. This is a huge number of people. There is no suggestion, evidence, proof or inkling that the government is going to fix these programs. Instead, all it does is announce new job programs, one after the other, without actually fixing the ones that are supposed to be getting people into work. Again I make the point that, as much as they want to crow about the number of jobs created, the bigger focus in this country is to reduce the number of long-term unemployed, to get that figure of 700,000 unemployed down, to make sure that people are adequately trained for the skills shortages that we know exist and are holding people back, and, instead of the spin, to get the substance required to get people into work.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1,speech
 "Drum, Damian, MP",Nats,2018-08-13,"
 
 
@@ -4960,7 +4998,7 @@ There are fruit packers who have plans on the table to invest in cutting-edge te
 
 The Liberal-National government's economic plan is working. Not one policy from the Labor Party will lead to more jobs; not one policy will to lead to less taxation for our people. I support the motion.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1,speech
 "Perrett, Graham, MP",ALP,2018-08-13,"
 
 
@@ -4983,7 +5021,7 @@ Labor has already announced a range of policies that will support workers and wi
 
 Recently, we announced that we will crack down on dodgy labour-hire companies that rip off and exploit workers. Tackling unfair labour hire is part of our 'same job, same pay' policy. A Shorten Labor government will protect workers and ensure they get a fair deal by tackling unfair labour hire, cracking down on dodgy labour-hire companies that rip off and exploit workers. Labor will legislate to ensure that workers employed through a labour-hire company receive the same pay and conditions as people employed directly, who might actually be working directly alongside them at the worksite. Labor's policy is based on a simple principle: if you are doing the same job, you should get the same pay. At the moment, there are too many workers in Australia subject to unfair labour-hire practices, often treated like second-class citizens with lower wages, worse conditions and no job security. For some workers, labour hire and casual work is a pathway into a permanent job, but for too many workers it has become a way of life. For these workers it's tough to pay the rent and the bills, let alone make longer-term decisions like taking out a car loan or buying their own home. That is not good. We need to look after workers. That's why Labor will act to restore fairness to the labour-hire industry and to protect workers.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1,speech
 "O'Brien, Ted, MP",LP,2018-08-13,"
 
 
@@ -5000,7 +5038,7 @@ Just last week, the respected Melbourne Institute, in their annual HILDA survey�
 
 There is perhaps no better example of the coalition's strong economic management in action than the recent tax cuts for individuals and for the small and medium businesses of our economy. Commencing last month, this government delivered tax relief for over 10 million low- and middle-income earners. This is just step 1 in a three-step plan that also addresses bracket creep and delivers simpler, flatter income tax, to encourage the aspirations of hardworking Australians, enabling people not just to keep their jobs but to get better jobs and to get ahead. At the same time, there are now around 940,000 small to medium sized businesses, employing close to five million Australians, that enjoy a lower tax rate of 27½ per cent. These are tangible benefits, because they deliver jobs. The coalition delivers jobs, while Labor is just tax, tax, tax, tax, tax. That is the only plan the Labor Party has—over $200 billion in taxes. Their personal income tax plan would make it nearly $300 billion.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1,speech
 "Vamvakinou, Maria, MP",ALP,2018-08-13,"
 
 
@@ -5026,7 +5064,7 @@ While we are talking about the multiple problems of high local unemployment in m
 
 This government and, indeed, this motion laud the assertion that one million jobs have been created since they took office in 2013. Yet these jobs don't seem to be finding their way to my electorate, these jobs don't seem to be making their way to the job network providers who are supposed to be looking for work for the unemployed in the federal seat of Calwell and these jobs are certainly not making their way to my constituents.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1,speech
 "Pasin, Tony, MP",LP,2018-08-13,"
 
 
@@ -5049,7 +5087,7 @@ I can talk about the abattoir sector. Those opposite would know that an abattoir
 
 What I say is that we have met our target. We set ourselves the Herculean target of a million jobs. We achieved that target and the trajectory is accelerating, which is always good news, but there is more to do. We acknowledge that there is more to do, because we won't be satisfied until we've got as close to the natural rate of unemployment in this country as we practically can. I ask those opposite, who'd rather spend their time bemoaning the achievement, to work with us, to see if we can go even deeper into this long list of unemployed Australians.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1,speech
 "Thistlethwaite, Matt, MP",ALP,2018-08-13,"
 
 
@@ -5072,7 +5110,7 @@ This motion doesn't once mention the real incomes of Australian workers. It does
 
 They spruik these corporate tax cuts. The evidence from the United States, where these corporate tax cuts have gone through, is that workers got not one dime of the benefits of those corporate tax cuts. They all went into profits and the pockets of shareholders and executives in America. American workers did not receive a cent. At the same time, the budget deficit in the United States has blown out. It is forecast to blow out to over a trillion dollars, or five per cent of GDP. We don't want to go down that track here in Australia. If this government were interested and in touch, they'd be talking about the interests of Australian workers and families.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1,speech
 "Howarth, Luke, MP",LP,2018-08-13,"
 
 
@@ -5104,4 +5142,1641 @@ The DEPUTY SPEAKER
 Mr Gee
 ):  There being no further speakers, the debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Employment</title>,PRIVATE MEMBERS' BUSINESS,35,1,speech
+"Zappia, Tony, MP",ALP,2018-08-13,"
+
+
+
+Mr Zappia
+  asked the Minister for Citizenship and Multicultural Affairs, in writing, on 05 December 2017:
+
+
+(1) How many overseas (a) doctors, and (b) nurses, were granted a work visa in 2016-17.
+
+
+(2) How many overseas doctors granted a work visa in 2016-17 left Australia before their visa had expired
+
+
+(3) How many overseas doctors granted a temporary work visa since 1 January 2013 have been granted permanent residency.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Medicine (Question No. 864)</title>,QUESTIONS IN WRITING,36,1,question
+"Tudge, Alan, MP",LP,2018-08-13,"
+
+
+
+Mr Tudge:
+  The answer to the honourable member's question is:
+
+
+Definitions:
+
+
+For the purpose of this answer, doctors have been defined as any occupation in ANZSCO code '253 Medical Practitioners'. According to the Australian Bureau of Statistics (ABS) this group is defined as;
+
+
+MEDICAL PRACTITIONERS diagnose physical and mental illnesses, disorders and injuries, provide medical care to patients, and prescribe and perform medical and surgical treatments to promote and restore good health
+
+
+For the purpose of this answer, nurses have been defined as any occupation in ANZSCO code '254 Midwifery and Nursing Professionals' or '4114 Enrolled and Mothercraft Nurses'. According to the ABS these groups are defined as;
+
+
+MIDWIFERY AND NURSING PROFESSIONALS provide care to mothers and their babies, the elderly, and physically and mentally ill patients in hospitals, nursing homes, medical centres and the community; provide clinical education to midwives and nurses; conduct research into clinical nursing practice; and manage health service units and sub-units
+
+
+ENROLLED AND MOTHERCRAFT NURSES provide nursing care to patients in hospitals, aged care and other health care facilities and in the community, and assist parents in providing care to newborn infants under the supervision of a Registered Nurse or Midwife
+
+
+(1) (a) Skilled work primary visas granted in 2016-17 by select nominated occupations (doctors):
+
+
+
+
+
+
+ANZSCO Nominated Occupation
+
+
+
+
+
+
+Temporary
+
+
+
+
+
+
+Permanent
+
+
+
+
+
+
+
+253111 General Practitioner
+
+
+
+
+1,138
+
+
+
+
+480
+
+
+
+
+
+
+253112 Resident Medical Officer
+
+
+
+
+1,222
+
+
+
+
+26
+
+
+
+
+
+
+253211 Anaesthetist
+
+
+
+
+14
+
+
+
+
+29
+
+
+
+
+
+
+253311 Specialist Physician (General Medicine)
+
+
+
+
+13
+
+
+
+
+12
+
+
+
+
+
+
+253312 Cardiologist
+
+
+
+
+<5
+
+
+
+
+6
+
+
+
+
+
+
+253313 Clinical Haematologist
+
+
+
+
+0
+
+
+
+
+<5
+
+
+
+
+
+
+253314 Medical Oncologist
+
+
+
+
+<5
+
+
+
+
+0
+
+
+
+
+
+
+253315 Endocrinologist
+
+
+
+
+0
+
+
+
+
+<5
+
+
+
+
+
+
+253316 Gastroenterologist
+
+
+
+
+<5
+
+
+
+
+3
+
+
+
+
+
+
+253317 Intensive Care Specialist
+
+
+
+
+<5
+
+
+
+
+6
+
+
+
+
+
+
+253318 Neurologist
+
+
+
+
+<5
+
+
+
+
+<5
+
+
+
+
+
+
+253321 Paediatrician
+
+
+
+
+9
+
+
+
+
+11
+
+
+
+
+
+
+253322 Renal Medicine Specialist
+
+
+
+
+<5
+
+
+
+
+<5
+
+
+
+
+
+
+253323 Rheumatologist
+
+
+
+
+<5
+
+
+
+
+0
+
+
+
+
+
+
+253399 Specialist Physicians nec
+
+
+
+
+8
+
+
+
+
+5
+
+
+
+
+
+
+253411 Psychiatrist
+
+
+
+
+28
+
+
+
+
+41
+
+
+
+
+
+
+253511 Surgeon (General)
+
+
+
+
+<5
+
+
+
+
+9
+
+
+
+
+
+
+253512 Cardiothoracic Surgeon
+
+
+
+
+<5
+
+
+
+
+<5
+
+
+
+
+
+
+253513 Neurosurgeon
+
+
+
+
+<5
+
+
+
+
+0
+
+
+
+
+
+
+253514 Orthopaedic Surgeon
+
+
+
+
+9
+
+
+
+
+5
+
+
+
+
+
+
+253515 Otorhinolaryngologist
+
+
+
+
+5
+
+
+
+
+<5
+
+
+
+
+
+
+253516 Paediatric Surgeon
+
+
+
+
+0
+
+
+
+
+<5
+
+
+
+
+
+
+253517 Plastic and Reconstructive Surgeon
+
+
+
+
+<5
+
+
+
+
+<5
+
+
+
+
+
+
+253518 Urologist
+
+
+
+
+<5
+
+
+
+
+0
+
+
+
+
+
+
+253521 Vascular Surgeon
+
+
+
+
+<5
+
+
+
+
+<5
+
+
+
+
+
+
+253911 Dermatologist
+
+
+
+
+<5
+
+
+
+
+<5
+
+
+
+
+
+
+253912 Emergency Medicine Specialist
+
+
+
+
+18
+
+
+
+
+18
+
+
+
+
+
+
+253913 Obstetrician and Gynaecologist
+
+
+
+
+18
+
+
+
+
+11
+
+
+
+
+
+
+253914 Ophthalmologist
+
+
+
+
+5
+
+
+
+
+7
+
+
+
+
+
+
+253915 Pathologist
+
+
+
+
+<5
+
+
+
+
+6
+
+
+
+
+
+
+253917 Diagnostic and Interventional Radiologist
+
+
+
+
+27
+
+
+
+
+18
+
+
+
+
+
+
+253918 Radiation Oncologist
+
+
+
+
+5
+
+
+
+
+<5
+
+
+
+
+
+
+253999 Medical Practitioners nec
+
+
+
+
+174
+
+
+
+
+531
+
+
+
+
+
+
+Total
+
+
+
+
+2,732
+
+
+
+
+1,243
+
+
+
+
+
+
+
+
+
+
+(1) (b) Skilled work primary visas granted in 2016-17 by select nominated occupations (nurses):
+
+
+
+
+
+
+ANZSCO Nominated Occupation
+
+
+
+
+
+
+Temporary
+
+
+
+
+
+
+Permanent
+
+
+
+
+
+
+
+254111 Midwife
+
+
+
+
+37
+
+
+
+
+65
+
+
+
+
+
+
+254211 Nurse Educator
+
+
+
+
+<5
+
+
+
+
+<5
+
+
+
+
+
+
+254212 Nurse Researcher
+
+
+
+
+<5
+
+
+
+
+0
+
+
+
+
+
+
+254311 Nurse Manager
+
+
+
+
+14
+
+
+
+
+8
+
+
+
+
+
+
+254411 Nurse Practitioner
+
+
+
+
+5
+
+
+
+
+7
+
+
+
+
+
+
+254412 Registered Nurse (Aged Care)
+
+
+
+
+265
+
+
+
+
+267
+
+
+
+
+
+
+254413 Registered Nurse (Child and Family Health)
+
+
+
+
+7
+
+
+
+
+19
+
+
+
+
+
+
+254414 Registered Nurse (Community Health)
+
+
+
+
+6
+
+
+
+
+15
+
+
+
+
+
+
+254415 Registered Nurse (Critical Care and Emergency)
+
+
+
+
+117
+
+
+
+
+306
+
+
+
+
+
+
+254416 Registered Nurse (Developmental Disability)
+
+
+
+
+0
+
+
+
+
+<5
+
+
+
+
+
+
+254417 Registered Nurse (Disability and Rehabilitation)
+
+
+
+
+9
+
+
+
+
+23
+
+
+
+
+
+
+254418 Registered Nurse (Medical)
+
+
+
+
+196
+
+
+
+
+277
+
+
+
+
+
+
+254421 Registered Nurse (Medical Practice)
+
+
+
+
+45
+
+
+
+
+41
+
+
+
+
+
+
+254422 Registered Nurse (Mental Health)
+
+
+
+
+81
+
+
+
+
+114
+
+
+
+
+
+
+254423 Registered Nurse (Perioperative)
+
+
+
+
+96
+
+
+
+
+136
+
+
+
+
+
+
+254424 Registered Nurse (Surgical)
+
+
+
+
+111
+
+
+
+
+139
+
+
+
+
+
+
+254425 Registered Nurse (Paediatrics)
+
+
+
+
+27
+
+
+
+
+64
+
+
+
+
+
+
+254499 Registered Nurses nec
+
+
+
+
+109
+
+
+
+
+1986
+
+
+
+
+
+
+411411 Enrolled Nurse
+
+
+
+
+24
+
+
+
+
+151
+
+
+
+
+
+
+411412 Mothercraft Nurse
+
+
+
+
+0
+
+
+
+
+<5
+
+
+
+
+
+
+Total
+
+
+
+
+1,153
+
+
+
+
+3,628
+
+
+
+
+
+
+
+
+
+
+(2) Subclass 457 primary visas granted in 2016-17 where the visa holder departed Australia before the visa expired by select nominated occupations (doctors):
+
+
+
+
+
+
+ANZSCO Nominated Occupation
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+253111 General Practitioner
+
+
+
+
+81
+
+
+
+
+
+
+253112 Resident Medical Officer
+
+
+
+
+124
+
+
+
+
+
+
+253411 Psychiatrist
+
+
+
+
+<5
+
+
+
+
+
+
+253513 Neurosurgeon
+
+
+
+
+<5
+
+
+
+
+
+
+253514 Orthopaedic Surgeon
+
+
+
+
+<5
+
+
+
+
+
+
+253521 Vascular Surgeon
+
+
+
+
+<5
+
+
+
+
+
+
+253912 Emergency Medicine Specialist
+
+
+
+
+<5
+
+
+
+
+
+
+253913 Obstetrician and Gynaecologist
+
+
+
+
+<5
+
+
+
+
+
+
+253917 Diagnostic and Interventional Radiologist
+
+
+
+
+<5
+
+
+
+
+
+
+253918 Radiation Oncologist
+
+
+
+
+<5
+
+
+
+
+
+
+253999 Medical Practitioners nec
+
+
+
+
+8
+
+
+
+
+
+
+Total
+
+
+
+
+225
+
+
+
+
+
+
+
+
+
+(3) Number of persons obtained permanent residence or Australian Citizenship1 at 31 December 2017 where the person was granted a subclass 457 primary visa between 1 January 2013 and 30 June 2017 by select nominated occupations (doctors):
+
+
+
+
+
+
+ANZSCO Nominated Occupation
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+253111 General Practitioner
+
+
+
+
+1,871
+
+
+
+
+
+
+253112 Resident Medical Officer
+
+
+
+
+1,575
+
+
+
+
+
+
+253211 Anaesthetist
+
+
+
+
+21
+
+
+
+
+
+
+253311 Specialist Physician (General Medicine)
+
+
+
+
+16
+
+
+
+
+
+
+253312 Cardiologist
+
+
+
+
+6
+
+
+
+
+
+
+253313 Clinical Haematologist
+
+
+
+
+<5
+
+
+
+
+
+
+253314 Medical Oncologist
+
+
+
+
+<5
+
+
+
+
+
+
+253315 Endocrinologist
+
+
+
+
+<5
+
+
+
+
+
+
+253316 Gastroenterologist
+
+
+
+
+<5
+
+
+
+
+
+
+253317 Intensive Care Specialist
+
+
+
+
+5
+
+
+
+
+
+
+253318 Neurologist
+
+
+
+
+<5
+
+
+
+
+
+
+253321 Paediatrician
+
+
+
+
+12
+
+
+
+
+
+
+253322 Renal Medicine Specialist
+
+
+
+
+<5
+
+
+
+
+
+
+253399 Specialist Physicians nec
+
+
+
+
+14
+
+
+
+
+
+
+253411 Psychiatrist
+
+
+
+
+70
+
+
+
+
+
+
+253511 Surgeon (General)
+
+
+
+
+13
+
+
+
+
+
+
+253512 Cardiothoracic Surgeon
+
+
+
+
+<5
+
+
+
+
+
+
+253513 Neurosurgeon
+
+
+
+
+<5
+
+
+
+
+
+
+253514 Orthopaedic Surgeon
+
+
+
+
+<5
+
+
+
+
+
+
+253515 Otorhinolaryngologist
+
+
+
+
+<5
+
+
+
+
+
+
+253516 Paediatric Surgeon
+
+
+
+
+<5
+
+
+
+
+
+
+253517 Plastic and Reconstructive Surgeon
+
+
+
+
+<5
+
+
+
+
+
+
+253518 Urologist
+
+
+
+
+<5
+
+
+
+
+
+
+253521 Vascular Surgeon
+
+
+
+
+<5
+
+
+
+
+
+
+253911 Dermatologist
+
+
+
+
+5
+
+
+
+
+
+
+253912 Emergency Medicine Specialist
+
+
+
+
+22
+
+
+
+
+
+
+253913 Obstetrician and Gynaecologist
+
+
+
+
+24
+
+
+
+
+
+
+253914 Ophthalmologist
+
+
+
+
+10
+
+
+
+
+
+
+253915 Pathologist
+
+
+
+
+5
+
+
+
+
+
+
+253917 Diagnostic and Interventional Radiologist
+
+
+
+
+28
+
+
+
+
+
+
+253918 Radiation Oncologist
+
+
+
+
+<5
+
+
+
+
+
+
+253999 Medical Practitioners nec
+
+
+
+
+287
+
+
+
+
+
+
+Total
+
+
+
+
+4,011
+
+
+
+
+
+
+
+
+
+1 Persons obtaining Australian Citizenship have been included in the data as in order to obtain citizenship, permanent residency must also have been obtained.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Medicine (Question No. 864)</title>,QUESTIONS IN WRITING,36,1,answer

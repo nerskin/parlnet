@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2018-05-10,"
 
 
@@ -9,7 +9,7 @@ The SPEAKER
 
 Report made a parliamentary paper in accordance with standing order 39(e).
 
-",HoR,<title>COMMITTEES</title>,<title>Appropriations and Administration Committee</title>,COMMITTEES,0,1
+",HoR,<title>COMMITTEES</title>,<title>Appropriations and Administration Committee</title>,COMMITTEES,0,1,speech
 "Smith, Tony, MP",LP,2018-05-10,"
 
 
@@ -20,7 +20,7 @@ The SPEAKER
 
 Report made a parliamentary paper in accordance with standing order 39(e).
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,0,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,0,2,speech
 "Tehan, Dan, MP",LP,2018-05-10,"
 
 
@@ -295,7 +295,7 @@ As a nation, we owe the survivors who fought so hard and so long for truth to pa
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>National Redress Scheme for Institutional Child Sexual Abuse Bill 2018</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>National Redress Scheme for Institutional Child Sexual Abuse Bill 2018</title>,BILLS,2,1,speech
 "Coleman, David, MP",LP,2018-05-10,"
 
 
@@ -318,7 +318,7 @@ I commend the motion to the House.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,3,1
+",HoR,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,3,1,speech
 "Coleman, David, MP",LP,2018-05-10,"
 
 
@@ -341,7 +341,7 @@ I commend the motion to the House.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,3,2
+",HoR,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,3,2,speech
 "Hastie, Andrew, MP",LP,2018-05-10,"
 
 
@@ -436,7 +436,7 @@ Given the impending sunset date of 7 September 2018, the committee has made the 
 
 I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Intelligence and Security Committee</title>,COMMITTEES,6,1
+",HoR,<title>COMMITTEES</title>,<title>Intelligence and Security Committee</title>,COMMITTEES,6,1,speech
 "Hastie, Andrew, MP",LP,2018-05-10,"
 
 
@@ -531,7 +531,7 @@ Given the impending sunset date of 7 September 2018, the committee has made the 
 
 I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Brodtmann, Gai, MP",ALP,2018-05-10,"
 
 
@@ -587,7 +587,7 @@ With the improved governance arrangements, we will see an improvement in terms o
 
 Finally, I thank the NCA for the work it's done in the diplomatic enclave with 'use it or lose it'. It's been terrific work in terms of getting movement and development in the diplomatic enclave here.
 
-",HoR,<title>BILLS</title>,<title>Australian Capital Territory (Planning and Land Management) Amendment Bill 2017</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Australian Capital Territory (Planning and Land Management) Amendment Bill 2017</title>,BILLS,7,1,speech
 "O'Dwyer, Kelly, MP",LP,2018-05-10,"
 
 
@@ -601,7 +601,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Australian Capital Territory (Planning and Land Management) Amendment Bill 2017</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Australian Capital Territory (Planning and Land Management) Amendment Bill 2017</title>,BILLS,7,1,speech
 "O'Dwyer, Kelly, MP",LP,2018-05-10,"
 
 
@@ -618,7 +618,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Australian Capital Territory (Planning and Land Management) Amendment Bill 2017</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Australian Capital Territory (Planning and Land Management) Amendment Bill 2017</title>,BILLS,7,1,speech
 "Brodtmann, Gai, MP",ALP,2018-05-10,"
 
 
@@ -674,7 +674,7 @@ With the improved governance arrangements, we will see an improvement in terms o
 
 Finally, I thank the NCA for the work it's done in the diplomatic enclave with 'use it or lose it'. It's been terrific work in terms of getting movement and development in the diplomatic enclave here.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "O'Dwyer, Kelly, MP",LP,2018-05-10,"
 
 
@@ -688,7 +688,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Claydon, Sharon (The DEPUTY SPEAKER)",ALP,2018-05-10,"
 
 
@@ -699,7 +699,7 @@ The DEPUTY SPEAKER
 Ms Claydon
 ) (13:28):  The Speaker has received advice from the Chief Government Whip nominating a member to be a member of the Standing Committee on Communications and the Arts.
 
-",HoR,<title>COMMITTEES</title>,<title>Communications and the Arts Committee</title>,COMMITTEES,8,1
+",HoR,<title>COMMITTEES</title>,<title>Communications and the Arts Committee</title>,COMMITTEES,8,1,speech
 "Fletcher, Paul, MP",LP,2018-05-10,"
 
 
@@ -713,7 +713,7 @@ That Ms Flint be appointed a member of the Standing Committee on Communications 
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Communications and the Arts Committee</title>,COMMITTEES,8,1
+",HoR,<title>COMMITTEES</title>,<title>Communications and the Arts Committee</title>,COMMITTEES,8,1,speech
 "Claydon, Sharon (The DEPUTY SPEAKER)",ALP,2018-05-10,"
 
 
@@ -724,7 +724,7 @@ The DEPUTY SPEAKER
 Ms Claydon
 ) (13:29):  The debate is now interrupted in accordance with standing order 43.
 
-",HoR,<title>COMMITTEES</title>,<title>Communications and the Arts Committee</title>,COMMITTEES,8,1
+",HoR,<title>COMMITTEES</title>,<title>Communications and the Arts Committee</title>,COMMITTEES,8,1,speech
 "Claydon, Sharon (The DEPUTY SPEAKER)",ALP,2018-05-10,"
 
 
@@ -735,7 +735,7 @@ The DEPUTY SPEAKER
 Ms Claydon
 ) (13:28):  The Speaker has received advice from the Chief Government Whip nominating a member to be a member of the Standing Committee on Communications and the Arts.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,8,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,8,2,speech
 "Fletcher, Paul, MP",LP,2018-05-10,"
 
 
@@ -749,7 +749,7 @@ That Ms Flint be appointed a member of the Standing Committee on Communications 
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,8,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,8,2,speech
 "Claydon, Sharon (The DEPUTY SPEAKER)",ALP,2018-05-10,"
 
 
@@ -760,7 +760,7 @@ The DEPUTY SPEAKER
 Ms Claydon
 ) (13:29):  The debate is now interrupted in accordance with standing order 43.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,8,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,8,2,speech
 "Watts, Tim, MP",ALP,2018-05-10,"
 
 
@@ -777,7 +777,7 @@ It then offers 10 sensible principles for maintaining Australia's immigration pr
 
 Congratulations to the Migration Council, the ACTU, United Voice, the Australian Industry Group, ACOSS, the Federation of Ethnic Communities Councils of Australia and the Settlement Council of Australia. Well done on taking a stand. This compact is even more important in light of media reports today that Senator Hanson is demanding cuts to our immigration program in exchange for her support for the Turnbull government's budget. It is important that mainstream Australia unites to reject the extremists that seek to attack the foundation of Australian identity and seek to use immigration to divide us. (Time expired)
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>National Compact on Permanent Migration</title>,STATEMENTS BY MEMBERS,9,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>National Compact on Permanent Migration</title>,STATEMENTS BY MEMBERS,9,1,speech
 "Smith, Tony, MP",LP,2018-05-10,"
 
 
@@ -785,7 +785,7 @@ Congratulations to the Migration Council, the ACTU, United Voice, the Australian
 The SPEAKER
  (14:00):  I inform the House that today I have received letters from Justine Terri Keay, resigning her seat as the member for the electoral division of Braddon; Joshua Hamilton Wilson, resigning his seat for the electoral division of Fremantle; Susan Lamb, resigning her seat for the electoral division of Longman; and Timothy Jerome Hammond, resigning his seat as the member for the electoral division of Perth. Consideration is being given to possible dates for the by-elections, and I'll begin consulting with party leaders in the normal way. I will inform the House in due course of the dates which I have fixed for the by-elections.
 
-",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,"<title>Member for Braddon, Member for Fremantle, Member for Longman, Member for Perth</title>",PARLIAMENTARY REPRESENTATION,10,1
+",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,"<title>Member for Braddon, Member for Fremantle, Member for Longman, Member for Perth</title>",PARLIAMENTARY REPRESENTATION,10,1,speech
 "Smith, Tony, MP",LP,2018-05-10,"
 
 
@@ -793,7 +793,106 @@ The SPEAKER
 The SPEAKER
  (14:00):  I inform the House that today I have received letters from Justine Terri Keay, resigning her seat as the member for the electoral division of Braddon; Joshua Hamilton Wilson, resigning his seat for the electoral division of Fremantle; Susan Lamb, resigning her seat for the electoral division of Longman; and Timothy Jerome Hammond, resigning his seat as the member for the electoral division of Perth. Consideration is being given to possible dates for the by-elections, and I'll begin consulting with party leaders in the normal way. I will inform the House in due course of the dates which I have fixed for the by-elections.
 
-",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Resignation</title>,PARLIAMENTARY REPRESENTATION,10,2
+",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Resignation</title>,PARLIAMENTARY REPRESENTATION,10,2,speech
+"Shorten, Bill, MP",ALP,2018-05-10,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:01):  My question is to the Prime Minister. Yesterday the Prime Minister, his Treasurer and his Minister for Finance failed eight times to tell the Australian people the total cost of corporate tax cuts over 10 years from 1 July this year, both legislated and proposed to be legislated by this government. Given that the Prime Minister has now had 24 hours to confirm the facts, I repeat: what is the total cost of corporate tax cuts over 10 years from 1 July 2018, both legislated and proposed to be legislated?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Turnbull, Malcolm, MP",LP,2018-05-10,"
+
+
+
+Mr TURNBULL
+ (Wentworth—Prime Minister) (14:02):  I thank the honourable member for his question. This is the deliverer of rolled-gold guarantees. He is a guaranteed deliverer of Olympic proportions. He gave a rolled-gold guarantee that all of his members, including the ones that have just resigned, were eligible to sit in the House. And he did so after the High Court had made it abundantly clear last year that they were not eligible. Oh, yes, he did. He kept on saying they were fine—and of course he was backed up by that booming advocate, the member for Isaacs—a reminder of the late Neville Wran when he said, 'Anyone can go to jail if they get the right lawyer.'
+
+
+
+The SPEAKER:  The Manager of Opposition Business on a point of order. 
+
+
+
+
+Mr Burke:
+  Mr Speaker, on direct relevance: the question was very specific. If the Prime Minister wants to talk about what the High Court will so hold, he can do so in answer to a Dixer.
+
+
+
+The SPEAKER:  Just before I call the Prime Minister, members on both sides: that is a reasonable point of order. I allowed the Prime Minister some latitude and I was sure he was going to come straight to the substance of the question. The Prime Minister has the call.
+
+
+
+
+Mr TURNBULL:
+  Mr Speaker, you're absolutely right: I'm coming straight to the substance of the question, and the substance of the question is tax. The substance of the question is the $200 billion—more than $200 billion—of tax the Leader of the Opposition is proposing to impose on the Australian economy. 
+
+
+The reality is, when it comes to company tax, the Leader of the Opposition himself stood right here, during the Labor government, and said reducing company tax increases investment, improves productivity, increases employment and results in better wages. He said all of that, and he said it again and again and again. And you know what? He was right. The reality is, however, that you cannot trust the Leader of the Opposition, whether he's giving a rolled-gold guarantee or just a sort of a silver-plated guarantee. None of his undertakings can be trusted, whether they are to the workers at Cleanevent, to Kevin Rudd or Julia Gillard.
+
+
+
+The SPEAKER:  The Manager of Opposition Business on a point of order? 
+
+
+
+Honourable members interjecting—
+
+
+
+The SPEAKER:  Members will cease interjecting. I want to hear from—
+
+
+
+Mr Wallace interjecting—
+
+
+
+The SPEAKER:  The member for Fisher is warned. The Manager of Opposition Business on a point of order.
+
+
+
+
+Mr Burke:
+  Mr Speaker, you gave an earlier ruling, and the Prime Minister is now defying that ruling.
+
+
+
+The SPEAKER:  I say to the Manager of Opposition Business that I'll be the judge of whether anyone is defying the ruling.
+
+
+
+Mr Pyne interjecting—
+
+
+
+The SPEAKER:  I don't need the Leader of the House—
+
+
+
+Mr Pyne interjecting—
+
+
+
+The SPEAKER:  His interjections are regular, but they're not persuasive! The Prime Minister is speaking about company tax or corporate tax, and he's comparing and contrasting. And if I feel at any point that the Prime Minister—or any other minister, for that matter—is ignoring my rulings I'm more than capable of taking action. The Prime Minister knows that the question was about company tax. He's been talking about company tax, and comparing and contrasting, and I'm listening very closely to his answer.
+
+
+
+
+Mr TURNBULL:
+  Thank you, Mr Speaker. As we've said before, the medium-term cost of the unlegislated component of the Enterprise Tax Plan, which is currently before the Senate, is $35.6 billion over the period from 2016-17 to 2027-28. If the Leader of the Opposition wants to do some figuring and analysis of what it would cost the Australian economy to repeal the tax relief already granted to small and medium businesses—family-owned businesses—he can do that himself. He's got to front up and tell Australian businesses and their employees the price they would pay in lost investment and lost jobs from a Shorten government.
+
+
+
+Ms Plibersek interjecting—
+
+
+
+The SPEAKER:  The Deputy Leader of the Opposition is warned.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
 "Turnbull, Malcolm, MP",LP,2018-05-10,"
 
 
@@ -810,7 +909,7 @@ The battles of Fire Support Bases Coral and Balmoral are not widely known in Aus
 
 On Sunday there will be a memorial service at the Vietnam Forces National Memorial to honour the veterans of the battles of Fire Support Bases Coral and Balmoral. At that service I know that all will remember that the best way to honour the veterans, whether of the Vietnam War or of a century ago in the trenches of Flanders—the best way to honour those men and women who fought, served and died—is to support the service men and women, the veterans and their families of today.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Battle of Coral/Balmoral: 50th Anniversary</title>,STATEMENTS ON INDULGENCE,13,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Battle of Coral/Balmoral: 50th Anniversary</title>,STATEMENTS ON INDULGENCE,13,1,speech
 "Shorten, Bill, MP",ALP,2018-05-10,"
 
 
@@ -828,7 +927,7 @@ These words of a serviceman are inscribed on the Vietnam memorial, not very far 
 
 The SPEAKER:  I thank both the Prime Minister and the Leader of the Opposition.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Battle of Coral/Balmoral: 50th Anniversary</title>,STATEMENTS ON INDULGENCE,13,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Battle of Coral/Balmoral: 50th Anniversary</title>,STATEMENTS ON INDULGENCE,13,1,speech
 "Smith, Tony, MP",LP,2018-05-10,"
 
 
@@ -839,7 +938,7 @@ The SPEAKER
 
 I have just one other matter. This is some experience that I've had over the last few budget speeches. Both the Clerk and I sometimes get notes or queries right near the end of the speech where the time on the clock has expired. I want to address this in advance for members. Standing order 1 provides that there is no time limit at all for the Treasurer's speech or the Leader of the Opposition's speech. In fact, they are the only speeches where there is no time limit. The clock is there merely for guidance for each of the speakers. I just want to point that out in the nicest possible way, because in the last few years I've had a few queries and I wouldn't want to point it out on budget night or during the Leader of the Opposition's speech. I thank the House.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Budget</title>,STATEMENT BY THE SPEAKER,14,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Budget</title>,STATEMENT BY THE SPEAKER,14,1,speech
 "Smith, Tony, MP",LP,2018-05-10,"
 
 
@@ -859,7 +958,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Plibersek, Tanya, MP",ALP,2018-05-10,"
 
 
@@ -897,7 +996,7 @@ We are prepared to invest in productivity-enhancing infrastructure around the co
 
 Instead of investing in TAFE, in apprentices, in traineeships and in training the next generation of young Australians and retraining Australians in the workforce today for the jobs of tomorrow, in this budget the government have locked in their previous cuts and they have added to them—a further $270 million cut. It tells you all you need to know about the priorities of those opposite that they can find $80 billion to give to big business—overseas shareholders—but they can't find the money to properly fund TAFE and trainees and apprentices. It tells you all you need to know about those opposite that they can find $17 billion to give to the big banks but they can't find the money to properly fund education and training for young Australians. I am proud to stand up in front of the roomfuls of people I meet when I'm out in our electorates—and in your electorates too, I'll tell you what—and tell them that we will invest in TAFE, in public TAFE, in training and in apprentices, because we know that Australia's economic security depends on it.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Andrews, Karen, MP",LP,2018-05-10,"
 
 
@@ -923,7 +1022,7 @@ Some states have been less interested in talking about how to address skills nee
 
 In the minute that I have left to speak on this particular MPI today, I must say that it's very interesting that Labor has actually put up vocational education as an MPI, because since the last election this is the first time we have spoken about vocational education. However, at every opportunity I get I certainly speak about vocational education, so I have had the opportunity during MPIs to talk about VET. As a government, we have already done a range of things to address the problems we inherited from the Labor government. Getting rid of VET FEE-HELP is so important for the future of vocational education, and particularly for the reputation of the sector. We fixed that with VET student loans. We have introduced strategies to deal with the status of vocational education because we know we've got a lot of work to do to make sure vocational education takes its place as an opportunity for our young people to get the jobs that they need. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Husic, Ed, MP",ALP,2018-05-10,"
 
 
@@ -958,7 +1057,7 @@ There are jobs programs that are supposed to prepare young people for work. Ther
 
 Then you look at what's happening in terms of the future of work itself: 3.5 million jobs in Australia will be affected by technological change. In a workforce of 12 million, that's big. We get nothing out of those opposite in terms of preparing people for what's going to happen. TAFE has a huge role, particularly in the middle of people's careers, in getting them new skills and preparing them for new jobs. This is why I say that what is happening on skills under those opposite is intergenerationally reprehensible. They are selling out young people and their futures, all for the sake of handing over an $80 billion corporate tax cut. It is a disgrace. 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Pitt, Keith, MP",Nats,2018-05-10,"
 
 
@@ -993,7 +1092,7 @@ These are just some of the programs that we've introduced under the government t
 
 The coalition government does have a positive plan to raise the profile and the status of vocational education and training. Whilst I've earned a living with my hands and I've earned a living with my mind, not everyone needs to go to university. Not everyone needs a university education. There are very highly paid, well-paid, well-developed jobs with trades across the country, but, to get those positions, we need our youth to have an opportunity. This government is providing those opportunities—300,000 of them. I'm looking forward to seeing them being engaged, being employed in business, completing their apprenticeships and getting into the workforce and not only delivering for themselves and their families but also building our economy, paying their taxes as good citizens and being part of a great Australia in the future.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Chesters, Lisa, MP",ALP,2018-05-10,"
 
 
@@ -1016,7 +1115,7 @@ It's really concerning that the government doesn't understand that connection. I
 
 I've lost count of the number of employers in regional Australia that I've met who are struggling to find fitters and turners, who are struggling to find people with the traditional trades, whether they be mechanics or people involved in any form of automation or in our building trades. We are struggling as a country. This funding that the government has cut would have gone some way to bridging the gap. It wasn't the only thing, but it was helping. It says a lot about a government when they cut TAFE funding and say loudly and clearly to the rest of the economy, 'That's okay, just keep bringing in temporary skilled workers.' They have no commitment to giving young people a go. They've got no commitment to ensuring that our TAFEs stand up as the trusted, publicly funded way of delivering vocational education in this country. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "O'Brien, Ted, MP",LP,2018-05-10,"
 
 
@@ -1036,7 +1135,7 @@ Let's talk about VET FEE-HELP. That has already been covered a lot in this House
 
 In response, are we fixing this? Yes, we are. We are fixing this now with positive action, by promoting trades. We are fixing this now with a $1.5 billion investment, as we saw in the budget. We are fixing this now with 300,000 new apprentices over the forward estimates. That's a government that cares. That's a government taking action.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Bird, Sharon, MP",ALP,2018-05-10,"
 
 
@@ -1062,7 +1161,7 @@ Let's not forget, either, the growth areas of the future—childcare; disability
 
 Give me a debate in this place any time. The Deputy Leader of the Opposition has put this up, 100 per cent backed by the Leader of the Opposition, because they get TAFE and they get apprentices. And we are going to get acting on it.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Flint, Nicolle, MP",LP,2018-05-10,"
 
 
@@ -1088,7 +1187,7 @@ We have axed Labor's failed VET FEE-HELP scheme, and we've replaced it with VET 
 
 I really hope, and I will be doing my very best to make sure, that those opposite never get back into office, because when they were in office they absolutely destroyed vocational education and training. In their last year in office, from June 2012 to 2013, when the Leader of the Opposition was employment minister, apprentice numbers collapsed by 110,000, or 22 per cent. This was the largest single annual decline on record. That is a disgrace. They gave us the VET FEE-HELP scheme that saw a lot of rorting and dodgy operators and damaged the sector. I'm delighted to speak on this, as to why the coalition government is doing such a great job in this area.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Perrett, Graham, MP",ALP,2018-05-10,"
 
 
@@ -1108,7 +1207,7 @@ As the member for Cunningham touched on, the other big cut and the other great n
 
 Labor, obviously, would be a much more practical and visionary government under Prime Minister Shorten. I will tell you what we would be doing. We would be doing things like guaranteeing that at least two out of every three Commonwealth dollars goes to TAFE, because we know that TAFE in the bush and in the city is the backbone of training. We know that TAFE will do the right thing. We'll provide 10,000 pre-apprenticeship programs for young people who want to learn a trade and provide 20,000 adult apprentice programs for older workers who need to retrain. We will invest $100 million in modernising TAFE facilities around the country because, sadly, some of them that were built in the seventies—and some that were even built in the late sixties—are starting to look a little bit old and tired. More importantly, we will ensure that one in every 10 jobs on Commonwealth priority projects are filled by Australian apprentices and Australian trainees. We will make sure that the job needs of the future are being invested in by the Commonwealth government. We know that TAFE has the track record. It's not going to jump in like the spivs did under the watch of those opposite. We know that as they enter their fifth year of government they need to step up on investing in TAFE.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Evans, Trevor, MP",LP,2018-05-10,"
 
 
@@ -1140,7 +1239,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  The time for the discussion is concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Vocational Education and Training</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Thistlethwaite, Matt, MP",ALP,2018-05-10,"
 
 
@@ -1247,7 +1346,7 @@ Labor notes that the main observation following consultation with key stakeholde
 
 In conclusion, once again, Labor support the tax integrity measures in this bill, but we are somewhat sceptical about and somewhat dismayed by this government's light-handed approach when it comes to tackling tax avoidance in Australia. This particular coalition government has been very sloppy in its approach to key stakeholders on important tax matters—namely, those that go to the notions of transparency and accountability by corporations when it comes to taxation, how much they're paying and where they're paying it. Labor have laid out a clear plan of improved measures that would bring greater transparency and accountability to this industry. We commend that approach to the government and we hope that it sincerely looks at adopting some of those amendments.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Tax Integrity and Other Measures) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Tax Integrity and Other Measures) Bill 2018</title>,BILLS,17,1,speech
 "Falinski, Jason, MP",LP,2018-05-10,"
 
 
@@ -1312,7 +1411,7 @@ Previous reparation payments made under the former Defence Abuse Response Taskfo
 
 Tax systems at their best should be broad, even and fair to everyone. They should encourage entrepreneurship and allow it to be rewarding. They should recognise the great risk that people undertake, and with that great risk should come equivalent rewards. This bill does that, so I commend the bill to this House.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Tax Integrity and Other Measures) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Tax Integrity and Other Measures) Bill 2018</title>,BILLS,17,1,speech
 "Keogh, Matt, MP",ALP,2018-05-10,"
 
 
@@ -1371,7 +1470,7 @@ Whilst overall we support this legislation and the intent of the legislation, as
 
 It's a bit like their half-baked approach of looking at the financial sector and the big banks in this country. On one hand, they say, 'We're going to give you a big tax cut.' On the other hand, they say to the public—kicking and screaming, I might point out—'We'll hold a royal commission.' Then they look at some of the things that come out of that royal commission and say: 'Look at that bad behaviour! We'll throw the book at them. We'll make sure they get tough penalties. We'll make sure any criminal behaviour gets investigated and looked into.' Then, lo and behold, they hand down a budget, and when we go through the detail to see what's happening with ASIC, $20 million or $30 million is disappearing from ASIC, the agency that would be investigating and enforcing against the banks and our financial sector. Nearly $2 million was ripped out of the Commonwealth Director of Public Prosecutions, the agency that would be prosecuting them. What we see is a continuation of the protection rackets for the big banks and the financial sector in Australia. Here it is again. It's almost a protection racket. The government will say, 'We are fixing up multinational taxation,' but at the end of the day it's all smoke and mirrors.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Tax Integrity and Other Measures) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Tax Integrity and Other Measures) Bill 2018</title>,BILLS,17,1,speech
 "Husic, Ed, MP",ALP,2018-05-10,"
 
 
@@ -1412,7 +1511,7 @@ The bigger story in all this is that we've been debating this since May 2013. We
 
 It's just the same as the concerns we have with what's contained within schedule 3 of this legislation. Based on what we're hearing out of the fin-tech sector and what stakeholders are raising with us, you still haven't cleared it up. If the Treasurer's too busy, he has an assistant minister. Assign him to make sure this happens. He has enough space to be able to make this happen. I'm sure he wants to cut his teeth on this legislation—he'll do the summing-up in a few minutes time. So why don't they take the steps, task up the proper people, make this happen, get the legislation through and prove that they are more than words, that they are action, as opposed to what we're seeing right now?
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Tax Integrity and Other Measures) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Tax Integrity and Other Measures) Bill 2018</title>,BILLS,17,1,speech
 "Sukkar, Michael, MP",LP,2018-05-10,"
 
 
@@ -1447,7 +1546,7 @@ Original question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Tax Integrity and Other Measures) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Tax Integrity and Other Measures) Bill 2018</title>,BILLS,17,1,speech
 "Sukkar, Michael, MP",LP,2018-05-10,"
 
 
@@ -1464,7 +1563,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Tax Integrity and Other Measures) Bill 2018</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Tax Integrity and Other Measures) Bill 2018</title>,BILLS,17,1,speech
 "Thistlethwaite, Matt, MP",ALP,2018-05-10,"
 
 
@@ -1571,7 +1670,7 @@ Labor notes that the main observation following consultation with key stakeholde
 
 In conclusion, once again, Labor support the tax integrity measures in this bill, but we are somewhat sceptical about and somewhat dismayed by this government's light-handed approach when it comes to tackling tax avoidance in Australia. This particular coalition government has been very sloppy in its approach to key stakeholders on important tax matters—namely, those that go to the notions of transparency and accountability by corporations when it comes to taxation, how much they're paying and where they're paying it. Labor have laid out a clear plan of improved measures that would bring greater transparency and accountability to this industry. We commend that approach to the government and we hope that it sincerely looks at adopting some of those amendments.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Falinski, Jason, MP",LP,2018-05-10,"
 
 
@@ -1636,7 +1735,7 @@ Previous reparation payments made under the former Defence Abuse Response Taskfo
 
 Tax systems at their best should be broad, even and fair to everyone. They should encourage entrepreneurship and allow it to be rewarding. They should recognise the great risk that people undertake, and with that great risk should come equivalent rewards. This bill does that, so I commend the bill to this House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Keogh, Matt, MP",ALP,2018-05-10,"
 
 
@@ -1695,7 +1794,7 @@ Whilst overall we support this legislation and the intent of the legislation, as
 
 It's a bit like their half-baked approach of looking at the financial sector and the big banks in this country. On one hand, they say, 'We're going to give you a big tax cut.' On the other hand, they say to the public—kicking and screaming, I might point out—'We'll hold a royal commission.' Then they look at some of the things that come out of that royal commission and say: 'Look at that bad behaviour! We'll throw the book at them. We'll make sure they get tough penalties. We'll make sure any criminal behaviour gets investigated and looked into.' Then, lo and behold, they hand down a budget, and when we go through the detail to see what's happening with ASIC, $20 million or $30 million is disappearing from ASIC, the agency that would be investigating and enforcing against the banks and our financial sector. Nearly $2 million was ripped out of the Commonwealth Director of Public Prosecutions, the agency that would be prosecuting them. What we see is a continuation of the protection rackets for the big banks and the financial sector in Australia. Here it is again. It's almost a protection racket. The government will say, 'We are fixing up multinational taxation,' but at the end of the day it's all smoke and mirrors.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Husic, Ed, MP",ALP,2018-05-10,"
 
 
@@ -1736,7 +1835,7 @@ The bigger story in all this is that we've been debating this since May 2013. We
 
 It's just the same as the concerns we have with what's contained within schedule 3 of this legislation. Based on what we're hearing out of the fin-tech sector and what stakeholders are raising with us, you still haven't cleared it up. If the Treasurer's too busy, he has an assistant minister. Assign him to make sure this happens. He has enough space to be able to make this happen. I'm sure he wants to cut his teeth on this legislation—he'll do the summing-up in a few minutes time. So why don't they take the steps, task up the proper people, make this happen, get the legislation through and prove that they are more than words, that they are action, as opposed to what we're seeing right now?
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Sukkar, Michael, MP",LP,2018-05-10,"
 
 
@@ -1771,7 +1870,7 @@ Original question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Shorten, Bill, MP",ALP,2018-05-10,"
 
 
@@ -1877,7 +1976,7 @@ Mr
 Georganas
 ) took the chair at 10:00.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,19,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2018-2019</title>,BILLS,19,1,speech
 "Shorten, Bill, MP",ALP,2018-05-10,"
 
 
@@ -1983,7 +2082,7 @@ Mr
 Georganas
 ) took the chair at 10:00.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Templeman, Susan, MP",ALP,2018-05-10,"
 
 
@@ -2000,7 +2099,7 @@ Long day care centres tell me the loss of subsidy is already leading to parents 
 
 Child care is not simply, as this government believes, about babysitting so that parents can work. Everything we know about child development tells us the early education we do with children under the age of five, before they go to school, is vital; it's an investment in their future education and prospects. If children miss out on a preschool education because of this package, that is a fail for our newest generation and a fail for this government.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Child Care</title>,CONSTITUENCY STATEMENTS,20,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Child Care</title>,CONSTITUENCY STATEMENTS,20,1,speech
 "Dick, Milton, MP",ALP,2018-05-10,"
 
 
@@ -2026,7 +2125,7 @@ I'm pleased that this is substantially a consensus report. In speaking today I a
 
 I acknowledge the hard work of the chair, Senator Reynolds, and, in particular, the deputy chair, the member for Scullin, along with Senator Brown and Senator Ketter, who have all made important contributions. The report now lays the foundation for further debate and consideration of this important topic. As I mentioned, my Labor colleagues and I stand ready to work with all parties to advance this matter, and I look forward to more constructive work yet to come between the parties.
 
-",HoR,<title>COMMITTEES</title>,<title>Joint Standing Committee on Electoral Matters</title>,COMMITTEES,22,1
+",HoR,<title>COMMITTEES</title>,<title>Joint Standing Committee on Electoral Matters</title>,COMMITTEES,22,1,speech
 "Dick, Milton, MP",ALP,2018-05-10,"
 
 
@@ -2052,7 +2151,7 @@ I'm pleased that this is substantially a consensus report. In speaking today I a
 
 I acknowledge the hard work of the chair, Senator Reynolds, and, in particular, the deputy chair, the member for Scullin, along with Senator Brown and Senator Ketter, who have all made important contributions. The report now lays the foundation for further debate and consideration of this important topic. As I mentioned, my Labor colleagues and I stand ready to work with all parties to advance this matter, and I look forward to more constructive work yet to come between the parties.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2,speech
 "Gosling, Luke, MP",ALP,2018-05-10,"
 
 
@@ -2069,4 +2168,159 @@ I do note the government's efforts in combating family violence, and I will supp
 
 Labor is also committed to reforming the Family Law Act 1975 to prevent victims of domestic violence being cross-examined in court by their abusers. The fact that in 2018 a perpetrator of domestic violence can subject their victim to hostile questioning in a courtroom is a disgrace. Labor has committed to providing $88 million over two years for a new safe housing fund to increase transitional housing options for vulnerable people escaping domestic and family violence. We must all stand up against domestic and family violence. It's an issue that affects us all.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Domestic and Family Violence</title>,ADJOURNMENT,23,1
+",HoR,<title>ADJOURNMENT</title>,<title>Domestic and Family Violence</title>,ADJOURNMENT,23,1,speech
+"Sharkie, Rebekha, MP",CA,2018-05-10,"
+
+
+
+Ms Sharkie
+  asked the Minister for Health, in writing, on 26 March 2018:
+
+
+(1) In respect of the Australian Research Alliance for Children and Youth (ARACY) Report Card 2018: The Wellbeing of Young Australians, will he (a) explain why the proportion of children aged 2 who are fully immunised fell from 92.7 per cent in 2008 to 90.5 per cent in 2017, and (b) advise what steps the Government is taking to reverse this trend. (2) Will he (a) explain why, according to ARACY, the percentage of Australians aged 18 to 24 suffering from high or very high psychological distress rose from 11.8 per cent in 2011 to 15.4 per cent in 2014-15, and (b) advise what steps the Government is taking to reverse this trend.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,"<title>Immunisation, (Question No.948)</title>",QUESTIONS IN WRITING,24,1,question
+"Hunt, Greg, MP",LP,2018-05-10,"
+
+
+
+Mr Hunt:
+  The answer to the honourable member's question is as follows:
+
+
+(1) (a) and (b)
+
+
+Immunisation rates for Australians at 5 years of age are amongst the highest in the world with 94 per cent of all five year old children and 96.2 per cent of Aboriginal and Torres Strait Islander children fully immunised. 
+
+
+The recent addition of vaccines to the National Immunisation Program Schedule and changes made to the definition of 'fully immunised' have resulted in a decrease in reported coverage rates for two year olds: 
+
+
+in response to increasing rates of whooping cough amongst young children, the Australian Government introduced an additional dose of whooping cough vaccine for all children aged 18 months in March 2016; and
+
+
+based on the advice of experts, Australia brought forward the second dose of measles, mumps and rubella to 18 months (down from 4 years) in 2013.
+
+
+To make sure we have accurate statistics, children must have both of these vaccines to be counted as 'fully immunised' at two years of age.
+
+
+In other words, adding new vaccines onto the National Immunisation Program schedule has resulted in a decrease in coverage rates for two year olds, as children who would have previously been considered fully immunised at that age must now receive the additional vaccinations to be recorded as fully immunised.
+
+
+This situation resolves over time as the changes become embedded and children receive all the vaccines at the relevant vaccination schedule point.
+
+
+High coverage rates at 12 months of age (currently 94 per cent) and five years of age highlight that while the changes to calculating 'fully immunised' at 2 years of age have impacted immunisation coverage rates, overall, parents are committed to immunisation and the service delivery system is working well.
+
+
+The Government is a strong supporter of immunisation and has committed around $460 million in 2017-18 for vaccines and activities to support immunisation uptake.
+
+
+The Government is taking action to reach national immunisation coverage rates of 95 per cent including:
+
+
+a three year, $5.5 million immunisation education campaign called 'Get the Facts' to provide evidence-based information about immunisation to expectant parents and those with children aged five years and under;
+
+
+the 'No Jab, No Pay' policy which ensures that children fully meet immunisation requirements before families can access certain government-funded family payments;
+
+
+working with states and territories to implement a nationally consistent 'No Jab, No Play' policy, so that only those children meeting immunisation requirements are able to attend child care and pre-school services; and
+
+
+performance-based funding agreements with States and Territories linked to achieving 95 per cent immunisation rates for children five years of age, including targeted at-risk groups.
+
+
+(2) (a) There are a number of reasons why the percentage of Australians aged 18 to 24 suffering from high or very high psychological distress could have risen from 2011 to 2014-15. Heightened awareness of mental health and reduced stigma may have contributed to this rise and young people may also be more concerned about personal issues such as coping with stress and body image, which also have links to mental health.
+
+
+(2) (b) To reverse this trend, the Government continues to invest in initiatives and programs that support the mental health of young people.
+
+
+Headspace network
+
+
+The Government funds Primary Health Networks (PHNs) to commission the headspace network, which aims to improve access for young people aged 12 to 25 years who have, or who are at risk of, mental illness. The headspace program provides holistic care for young people in four key areas — mental health, physical health, substance use and vocational support. 
+
+
+Under the Strengthening Mental Health Care in Australia measure, the Government has committed to establishing an additional ten new headspace services, which will bring the overall total to 110 by 2019.
+
+
+Early Psychosis Youth Services
+
+
+The Early Psychosis Youth Services (EPYS) program is implemented through the existing headspace network in six sites across Australia – Western Sydney, South East Queensland, North Perth, South East Melbourne, the Northern Territory and South Australia.
+
+
+The EPYS program provides integrated early intervention treatment and intensive support to young people aged 12 to 25 years who are at ultra-high risk of, or are experiencing, a first episode psychosis. It is based on the Early Psychosis Prevention and Intervention model, a specialist early intervention in psychosis model, developed by Orygen, The National Centre of Excellence in Youth Mental Health.
+
+
+The National Centre of Excellence in Youth Mental Health
+
+
+Orygen has been funded since 2014 to operate the National Centre of Excellence in Youth Mental Health (the Centre) to provide national leadership for youth mental health.
+
+
+The Centre provides advice to Government on improving services to young Australians affected by mental health issues and facilitates the translation and dissemination of research into evidence-based practice and policy. It aims to enhance innovation, workforce development and to investigate the outcomes of enhanced mental health services. 
+
+
+National Support for Child and Youth Mental Health
+
+
+In response to the National Mental Health Commission's Review of Mental Health Programs and Services, the Government is working across portfolios to join up child and youth mental health programs to improve mental health outcomes for children and young people, commencing with the early years and going through to adolescence. From August 2018, beyondblue will deliver a single integrated end to end school based mental health program which will support promotion and prevention activity and help to build resilience skills within children and young people.
+
+
+Launched in November 2017, the National Workforce Centre for Child Mental Health is assisting clinical and nonclinical professionals and services who work with children, to identify, support and refer children at risk and to promote resilience building. This initiative particularly supports providers working with children who would benefit from early intervention, including those who have experienced trauma, and will support professionals in working with parents and families of these children.
+
+
+Mental health digital services
+
+
+A range of telephone and digital services can be accessed for free or at very low cost by young people. In addition to the headspace network, eheadspace delivers the headspace model of services through free, confidential and anonymous telephone and web-based support services to young people aged 12 to 25 years with, or at risk of developing, mild to moderate mental illness.
+
+
+KidsHelpline provides counselling and information for young people across a wide range of issues, including mental health, alcohol and other drug issues, abuse, bullying or violence, eating disorders and a range of associated problems such as relationship difficulties, loneliness and homelessness. ReachOut Australia provides online mental health support, tools and information for young people, parents and schools across a range of issues including bullying, depression, exam stress and substance abuse. These services can be accessed via the Government's recently launched Head to Health website, which aims to help people more easily access information, advice and digital mental health treatment options, and non-digital options if considered more appropriate to need.
+
+
+Better Access to Psychiatrists, Psychologists and General Practitioners through the Medicare Benefits Schedule initiative
+
+
+Under the Better Access to Psychiatrists, Psychologists and General Practitioners through the Medicare Benefits Schedule(Better Access) initiative, Medicare rebates are available for up to 10 individual and 10 group allied mental health services per calendar year for patients of any age with an assessed mental health disorder who are referred:
+
+
+by a paediatrician;
+
+
+by a GP managing the patient under a GP Mental Health Treatment Plan;
+
+
+under a referred psychiatrist assessment and management plan; or
+
+
+by a psychiatrist.
+
+
+The Better Access initiative was introduced to address low treatment rates for common mental disorders such as depression and anxiety, particularly presentations of mild to moderate severity, where short-term evidence-based interventions are most likely to be useful. From 1 November 2017, up to seven of the 10 Better Access mental health consultations can be provided through online channels if one of the first four sessions is delivered through a face-to-face consultation.
+
+
+Other supports commissioned by Primary Health Networks
+
+
+PHNs deliver mental health and suicide prevention services for people of all ages in underserviced and hard to reach groups. Details on specific mental health services commissioned by PHNs for young people in their regions are available on individual PHN websites.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+",HoR,<title>QUESTIONS IN WRITING</title>,"<title>Immunisation, (Question No.948)</title>",QUESTIONS IN WRITING,24,1,answer

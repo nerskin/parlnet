@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2017-09-07,"
 
 
@@ -9,7 +9,7 @@ The SPEAKER
 
 Report made a parliamentary paper in accordance with standing order 39(e).
 
-",HoR,<title>COMMITTEES</title>,<title>Appropriations and Administration Committee</title>,COMMITTEES,0,1
+",HoR,<title>COMMITTEES</title>,<title>Appropriations and Administration Committee</title>,COMMITTEES,0,1,speech
 "Smith, Tony, MP",LP,2017-09-07,"
 
 
@@ -20,7 +20,7 @@ The SPEAKER
 
 Report made a parliamentary paper in accordance with standing order 39(e).
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,0,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,0,2,speech
 "Morrison, Scott, MP",LP,2017-09-07,"
 
 
@@ -196,7 +196,7 @@ Full details of all the measures I have outlined are contained in the explanator
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (2017 Measures No. 5) Bill 2017</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (2017 Measures No. 5) Bill 2017</title>,BILLS,2,1,speech
 "Hammond, Tim, MP",ALP,2017-09-07,"
 
 
@@ -267,7 +267,7 @@ Let's look at the availability of treatment. The dissenting report from the Sena
 
 Even if all of that—the issue about the numbers, the issue about the evidence and the issue about lack of available treatment—weren't sufficient to persuade those to strike down this bill, let's go back to that fundamental grab bag of desperation from the conservatives: law and order. Let's have a look at it to see whether there is any reasonable prospect that implementing this program will have an effect on law and order. Well, again, if the rubber hits the road in relation to this hopeless program, it will exacerbate crime issues. It has been made very, very clear that the likely prospect of the other social impacts in relation to the implementation of this program is that it will simply worsen the broader drug problem and increase crime. On any analysis and at every level, this program is invasive, it's unnecessary, it's entirely wrongheaded and it is nothing more than a smokescreen to cover up what is a hopelessly incompetent government.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1,speech
 "Chesters, Lisa, MP",ALP,2017-09-07,"
 
 
@@ -311,7 +311,7 @@ These comments go on and on about this government's treatment of people who are 
 
 The Work for the Dole program which the government champions is confusing. I met with one young man who has worked previously at Centrelink. He has 10 years work experience. He's university educated. It is just that the government has sacked a whole bunch of people from the Bendigo ATO office and the Centrelink office, so he is struggling to find work in his field. He's been forced to participate in the Work for the Dole program. He has basically exhausted all of his options with the three providers in our area, because he challenged the programs that they were sending him on. Somebody with a career in administration with social support has been sent out to work on heavy machinery. How does that work? Where is the safety involved in that? This government's Work for the Dole program, PaTH program and employment programs for people looking for work are a joke. They are not suitable and they are not practical. This bill that the government have put forward is just another attempt to demonise good Australians looking for work. This bill that they've put forward creates harsh, draconian measures that seek to save their own political skin and not help people into meaningful work.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1,speech
 "Hill, Julian, MP",ALP,2017-09-07,"
 
 
@@ -405,7 +405,7 @@ The changes to the liquid assets test currently before the parliament—proposed
 
 I've said enough and I think you get my sense of frustration with many measures in this bill. The government could choose to strike out the ridiculous bits—the bits that are there just to bait us to oppose it or as some sort of sop to the right wing of your party—but we'll see. Some bits of the bill, of course, are worth supporting, but I think we've heard enough on those in other speeches.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1,speech
 "Chalmers, Jim, MP",ALP,2017-09-07,"
 
 
@@ -476,7 +476,7 @@ Those opposite haven't heard the end of this. We will oppose this policy proposa
 
 We are always up for a genuine conversation, a genuine discussion, about how to help people who are battling addiction receive the treatment they need. But we will never, ever be in the cart when it comes to kicking people in the guts when they're down and out. They need us to be in this place standing up for them, speaking up for them and devising policies that actually have some prospect of working for people who find themselves in a situation where they are addicted to drugs. It is not the role of the federal government to make these lives worse; it is the role of the federal government to do what we can to make these lives better. I'm proud of how we work together in my community to address our challenges. I'm disappointed to see this legislation brought before us when it will jeopardise all of those efforts, when it will damage the community, when it will be counterproductive and when it will fail anyway.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1,speech
 "Ramsey, Rowan, MP",LP,2017-09-07,"
 
 
@@ -511,7 +511,7 @@ It's important to remember that this is a trial. I said to the people of Ceduna:
 
 In 2015-16 there were 4,325 occasions when people did not meet some form of their obligation because of drugs and alcohol. That's a lot. Certainly a lot of people could still meet their commitments under the influence of drugs and alcohol, so these are very concerning figures. The member for Bruce made a very heartfelt and personal contribution. I thank him for that. It's not easy to expose your past in this place and talk about people close to you. He didn't want to go into detail, and I certainly don't blame him for that, but it was a heartfelt contribution, and I thank him for that. One of the points he made in it stuck with me. He said, 'It doesn't help to make drug use a criminal offence.' Do we extrapolate from that that the member for Bruce actually thinks we should decriminalise drug use around Australia? There might have been a time, when I was a very young man sitting around a table with my mates, having a glass of red, when that might have sounded like a good idea, but I tell you what: once you've had children and had a look at the bigger world, it doesn't seem like a good idea. It seems like a very, very bad idea. Anyone who would entertain that kind of proposal I will oppose vigorously. The damage that is being done in our community at the moment by drug use is absolutely huge. As I said, it will be intergenerational and it will haunt Australia and, in fact, most of the Western world and beyond. It will haunt us for generations. We need to try everything. We need to try out every tool we've got in our toolbox to have a go at this. This is one tool that's on offer, and I for one am very strongly in favour of backing it. 
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1,speech
 "Perrett, Graham, MP",ALP,2017-09-07,"
 
 
@@ -594,7 +594,7 @@ The Human Rights Committee—a committee that doesn't have a Labor majority—ha
 
 I say again the commitment of the Labor Party. We enthusiastically support the amendments moved by the member for Jagajaga. The other parts of this legislation, we do not support.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1,speech
 "Brodtmann, Gai, MP",ALP,2017-09-07,"
 
 
@@ -671,7 +671,7 @@ I have had two men aged over 55 working in my office as volunteers. They had los
 
 I join with members of my party, the Labor Party, who have spoken against the unfair measures in this bill. It's been a common theme over the last four years that, in the absence of adequate support being provided by the government, Labor has been the only voice for vulnerable Australians, the only voice protecting vulnerable Australians. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1,speech
 "Thistlethwaite, Matt, MP",ALP,2017-09-07,"
 
 
@@ -721,7 +721,7 @@ That's the view of Dr Alex Wodak, an expert who's spent his life working in this
 
 So, all in all, I and my Labor colleagues are opposed to this reform and to the other elements of this bill that go against that notion of a fair go in Australia and of helping the most vulnerable get back on their feet so they can enjoy a decent life and participate in our society. I urge others to vote down this legislation.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1,speech
 "Elliot, Justine, MP",ALP,2017-09-07,"
 
 
@@ -864,7 +864,7 @@ There are many other elements of this bill that are equally harsh. We look to th
 
 As I've said, we oppose many of those elements and we on this side will continue to fight for those people in our community who need our assistance most—the people who are going to be most impacted by this government's cuts. We'll fight the harsh measurements that the government continues to pursue. I, and the people in regional areas too, will always stand up and fight the National Party who, time and time again, walk away from people in country Australia—walk away from people in the regions—by continuing to come into this House and vote for harsh measures, whether it's cuts to education, health, pensions or family payments. Here they are now, attacking the most vulnerable, disadvantaged and marginalised, and people in rural and regional Australia will remember what the National Party have done to them.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1,speech
 "McBride, Emma, MP",ALP,2017-09-07,"
 
 
@@ -959,7 +959,7 @@ These measures are cruel, as are measures in other schedules. The abolition of t
 
 To sum up, there are measures in this bill that Labor could potentially support if they were separated from other measures; however, there are several measures that Labor will not support and that I cannot support as a pharmacist, as a mental health worker and as a local MP. We are open to working with the government on these complex social problems if they are committed to genuine attempts to help people burdened by addiction, but we will not support blatant attacks on the most vulnerable in our community with no basis of evidence.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1,speech
 "Bandt, Adam, MP",AG,2017-09-07,"
 
 
@@ -1006,7 +1006,7 @@ I will come back to what I said at the start. We have an unemployment and undere
 
 We could have the courage, as the government and as the parliament, to say, 'We've got to act in the public interest. There's a looming crisis here, and it's our job to make sure that, in the 21st century, no-one is left behind.' And that means lifting the level of welfare so that people aren't below the poverty line and making sure that there are decent, meaningful jobs. That's the Greens' proposal—to actually offer people a bit of choice, a bit of hope and a bit of meaning in their lives and to say, 'If you fall on hard times, the government is there to help you get back on your feet. And if you or your son or daughter find yourself in trouble with drugs, we will help you get the treatment that you need.' But, instead, this government only knows one thing—and that's the big stick. When, as I said, the crime figures go up, blame Malcolm Turnbull, blame the minister, because they are pushing people towards crime.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1,speech
 "Giles, Andrew, MP",ALP,2017-09-07,"
 
 
@@ -1056,7 +1056,7 @@ Here we have a proposal, absent community consultation, absent support in affect
 
 Another observation I would make very briefly is to have regard to the experience elsewhere, which has been a complete disaster. The detection rate in New Zealand, I note, was lower than that of the general population estimated to be using illicit drugs. It was a total waste of money there and it will be a total waste of money here. I oppose this proposal and the many other objectionable elements in this cruel, heartless and purposeless bill.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1,speech
 "Georganas, Steve, MP",ALP,2017-09-07,"
 
 
@@ -1130,7 +1130,7 @@ I stand with those constituents. All of us on this side stand with those constit
 
 What we need to be doing is looking at ways to ensure that we create jobs. Have a look at the number of unemployed in this country and then go to the statistics that show how many job advertisements there are, whether they be on SEEK.com or in the local papers. It does not fit. The equation doesn't equal—you just can't get a solution out of it. If you want to really combat this area, if you really want to do something about unemployment, instead of attacking those most vulnerable people who have ended up on the dole queue, why don't you look at doing something decent? Create jobs, ensure that our education system is up to scratch so people can get the education that's required to get jobs and bring those numbers down. That's the way to do it. That's the way a true government would do it.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1,speech
 "Sharkie, Rebekha, MP",NXT,2017-09-07,"
 
 
@@ -1187,7 +1187,7 @@ One of the most concerning findings raised during the Senate inquiry process was
 Debate interrupted. 
 
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,4,1,speech
 "Hammond, Tim, MP",ALP,2017-09-07,"
 
 
@@ -1258,7 +1258,7 @@ Let's look at the availability of treatment. The dissenting report from the Sena
 
 Even if all of that—the issue about the numbers, the issue about the evidence and the issue about lack of available treatment—weren't sufficient to persuade those to strike down this bill, let's go back to that fundamental grab bag of desperation from the conservatives: law and order. Let's have a look at it to see whether there is any reasonable prospect that implementing this program will have an effect on law and order. Well, again, if the rubber hits the road in relation to this hopeless program, it will exacerbate crime issues. It has been made very, very clear that the likely prospect of the other social impacts in relation to the implementation of this program is that it will simply worsen the broader drug problem and increase crime. On any analysis and at every level, this program is invasive, it's unnecessary, it's entirely wrongheaded and it is nothing more than a smokescreen to cover up what is a hopelessly incompetent government.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Chesters, Lisa, MP",ALP,2017-09-07,"
 
 
@@ -1302,7 +1302,7 @@ These comments go on and on about this government's treatment of people who are 
 
 The Work for the Dole program which the government champions is confusing. I met with one young man who has worked previously at Centrelink. He has 10 years work experience. He's university educated. It is just that the government has sacked a whole bunch of people from the Bendigo ATO office and the Centrelink office, so he is struggling to find work in his field. He's been forced to participate in the Work for the Dole program. He has basically exhausted all of his options with the three providers in our area, because he challenged the programs that they were sending him on. Somebody with a career in administration with social support has been sent out to work on heavy machinery. How does that work? Where is the safety involved in that? This government's Work for the Dole program, PaTH program and employment programs for people looking for work are a joke. They are not suitable and they are not practical. This bill that the government have put forward is just another attempt to demonise good Australians looking for work. This bill that they've put forward creates harsh, draconian measures that seek to save their own political skin and not help people into meaningful work.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Hill, Julian, MP",ALP,2017-09-07,"
 
 
@@ -1396,7 +1396,7 @@ The changes to the liquid assets test currently before the parliament—proposed
 
 I've said enough and I think you get my sense of frustration with many measures in this bill. The government could choose to strike out the ridiculous bits—the bits that are there just to bait us to oppose it or as some sort of sop to the right wing of your party—but we'll see. Some bits of the bill, of course, are worth supporting, but I think we've heard enough on those in other speeches.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Chalmers, Jim, MP",ALP,2017-09-07,"
 
 
@@ -1467,7 +1467,7 @@ Those opposite haven't heard the end of this. We will oppose this policy proposa
 
 We are always up for a genuine conversation, a genuine discussion, about how to help people who are battling addiction receive the treatment they need. But we will never, ever be in the cart when it comes to kicking people in the guts when they're down and out. They need us to be in this place standing up for them, speaking up for them and devising policies that actually have some prospect of working for people who find themselves in a situation where they are addicted to drugs. It is not the role of the federal government to make these lives worse; it is the role of the federal government to do what we can to make these lives better. I'm proud of how we work together in my community to address our challenges. I'm disappointed to see this legislation brought before us when it will jeopardise all of those efforts, when it will damage the community, when it will be counterproductive and when it will fail anyway.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Ramsey, Rowan, MP",LP,2017-09-07,"
 
 
@@ -1502,7 +1502,7 @@ It's important to remember that this is a trial. I said to the people of Ceduna:
 
 In 2015-16 there were 4,325 occasions when people did not meet some form of their obligation because of drugs and alcohol. That's a lot. Certainly a lot of people could still meet their commitments under the influence of drugs and alcohol, so these are very concerning figures. The member for Bruce made a very heartfelt and personal contribution. I thank him for that. It's not easy to expose your past in this place and talk about people close to you. He didn't want to go into detail, and I certainly don't blame him for that, but it was a heartfelt contribution, and I thank him for that. One of the points he made in it stuck with me. He said, 'It doesn't help to make drug use a criminal offence.' Do we extrapolate from that that the member for Bruce actually thinks we should decriminalise drug use around Australia? There might have been a time, when I was a very young man sitting around a table with my mates, having a glass of red, when that might have sounded like a good idea, but I tell you what: once you've had children and had a look at the bigger world, it doesn't seem like a good idea. It seems like a very, very bad idea. Anyone who would entertain that kind of proposal I will oppose vigorously. The damage that is being done in our community at the moment by drug use is absolutely huge. As I said, it will be intergenerational and it will haunt Australia and, in fact, most of the Western world and beyond. It will haunt us for generations. We need to try everything. We need to try out every tool we've got in our toolbox to have a go at this. This is one tool that's on offer, and I for one am very strongly in favour of backing it. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Perrett, Graham, MP",ALP,2017-09-07,"
 
 
@@ -1585,7 +1585,7 @@ The Human Rights Committee—a committee that doesn't have a Labor majority—ha
 
 I say again the commitment of the Labor Party. We enthusiastically support the amendments moved by the member for Jagajaga. The other parts of this legislation, we do not support.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Brodtmann, Gai, MP",ALP,2017-09-07,"
 
 
@@ -1662,7 +1662,7 @@ I have had two men aged over 55 working in my office as volunteers. They had los
 
 I join with members of my party, the Labor Party, who have spoken against the unfair measures in this bill. It's been a common theme over the last four years that, in the absence of adequate support being provided by the government, Labor has been the only voice for vulnerable Australians, the only voice protecting vulnerable Australians. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Thistlethwaite, Matt, MP",ALP,2017-09-07,"
 
 
@@ -1712,7 +1712,7 @@ That's the view of Dr Alex Wodak, an expert who's spent his life working in this
 
 So, all in all, I and my Labor colleagues are opposed to this reform and to the other elements of this bill that go against that notion of a fair go in Australia and of helping the most vulnerable get back on their feet so they can enjoy a decent life and participate in our society. I urge others to vote down this legislation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Elliot, Justine, MP",ALP,2017-09-07,"
 
 
@@ -1855,7 +1855,7 @@ There are many other elements of this bill that are equally harsh. We look to th
 
 As I've said, we oppose many of those elements and we on this side will continue to fight for those people in our community who need our assistance most—the people who are going to be most impacted by this government's cuts. We'll fight the harsh measurements that the government continues to pursue. I, and the people in regional areas too, will always stand up and fight the National Party who, time and time again, walk away from people in country Australia—walk away from people in the regions—by continuing to come into this House and vote for harsh measures, whether it's cuts to education, health, pensions or family payments. Here they are now, attacking the most vulnerable, disadvantaged and marginalised, and people in rural and regional Australia will remember what the National Party have done to them.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "McBride, Emma, MP",ALP,2017-09-07,"
 
 
@@ -1950,7 +1950,7 @@ These measures are cruel, as are measures in other schedules. The abolition of t
 
 To sum up, there are measures in this bill that Labor could potentially support if they were separated from other measures; however, there are several measures that Labor will not support and that I cannot support as a pharmacist, as a mental health worker and as a local MP. We are open to working with the government on these complex social problems if they are committed to genuine attempts to help people burdened by addiction, but we will not support blatant attacks on the most vulnerable in our community with no basis of evidence.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Bandt, Adam, MP",AG,2017-09-07,"
 
 
@@ -1997,7 +1997,7 @@ I will come back to what I said at the start. We have an unemployment and undere
 
 We could have the courage, as the government and as the parliament, to say, 'We've got to act in the public interest. There's a looming crisis here, and it's our job to make sure that, in the 21st century, no-one is left behind.' And that means lifting the level of welfare so that people aren't below the poverty line and making sure that there are decent, meaningful jobs. That's the Greens' proposal—to actually offer people a bit of choice, a bit of hope and a bit of meaning in their lives and to say, 'If you fall on hard times, the government is there to help you get back on your feet. And if you or your son or daughter find yourself in trouble with drugs, we will help you get the treatment that you need.' But, instead, this government only knows one thing—and that's the big stick. When, as I said, the crime figures go up, blame Malcolm Turnbull, blame the minister, because they are pushing people towards crime.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Giles, Andrew, MP",ALP,2017-09-07,"
 
 
@@ -2047,7 +2047,7 @@ Here we have a proposal, absent community consultation, absent support in affect
 
 Another observation I would make very briefly is to have regard to the experience elsewhere, which has been a complete disaster. The detection rate in New Zealand, I note, was lower than that of the general population estimated to be using illicit drugs. It was a total waste of money there and it will be a total waste of money here. I oppose this proposal and the many other objectionable elements in this cruel, heartless and purposeless bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Georganas, Steve, MP",ALP,2017-09-07,"
 
 
@@ -2121,7 +2121,7 @@ I stand with those constituents. All of us on this side stand with those constit
 
 What we need to be doing is looking at ways to ensure that we create jobs. Have a look at the number of unemployed in this country and then go to the statistics that show how many job advertisements there are, whether they be on SEEK.com or in the local papers. It does not fit. The equation doesn't equal—you just can't get a solution out of it. If you want to really combat this area, if you really want to do something about unemployment, instead of attacking those most vulnerable people who have ended up on the dole queue, why don't you look at doing something decent? Create jobs, ensure that our education system is up to scratch so people can get the education that's required to get jobs and bring those numbers down. That's the way to do it. That's the way a true government would do it.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Sharkie, Rebekha, MP",NXT,2017-09-07,"
 
 
@@ -2178,7 +2178,7 @@ One of the most concerning findings raised during the Senate inquiry process was
 Debate interrupted. 
 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Mitchell, Brian, MP",ALP,2017-09-07,"
 
 
@@ -2192,7 +2192,132 @@ Educators of our young children earn as little as $21 an hour and the Big Steps 
 
 I commend the work of the United Voice union. (Time expired)
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Workplace Relations</title>,STATEMENTS BY MEMBERS,5,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Workplace Relations</title>,STATEMENTS BY MEMBERS,5,1,speech
+"Shorten, Bill, MP",ALP,2017-09-07,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:01):  My question is to the Prime Minister. Both sides of parliament support gas export controls. Despite the Deputy Prime Minister, as minister for resources, having the power to—
+
+
+
+Government members interjecting—
+
+
+
+The SPEAKER:  The Leader of the Opposition will resume his seat. Members on my right! The member for Goldstein! Members will cease interjecting.
+
+
+
+Mr Dutton interjecting—
+
+
+
+Mr Hunt interjecting—
+
+
+
+The SPEAKER:  The Minister for Immigration and Border Protection! The Minister for Health is warned. The Leader of the Opposition will begin his question again.
+
+
+
+
+Mr SHORTEN:
+  Thanks, Mr Speaker. My question is still to the Prime Minister. Both sides of parliament support gas export controls, but, despite the Deputy Prime Minister, as minister for resources, having the power to do so, the government has refused to make the necessary ministerial determination. Is the government refusing to act because of the serious legal risk that the Deputy Prime Minister's ministerial actions might be challenged in the courts? Why are doubts about his deputy standing in the way of lower power prices for all Australians?
+
+
+
+Opposition members interjecting—
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Deputy Prime Minister</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Turnbull, Malcolm, MP",LP,2017-09-07,"
+
+
+
+Mr TURNBULL
+ (Wentworth—Prime Minister) (14:02):  There are cheers from the opposition benches, cheering on the member for Port Adelaide's confession. I think it's very important to encourage people to fess up. He confessed. Normally confession is a private sacrament.
+
+
+
+Ms Butler interjecting—
+
+
+
+The SPEAKER:  The member for Griffith is warned.
+
+
+
+
+Mr TURNBULL:
+  But on this occasion the honourable member did the right thing, and he owned up.
+
+
+
+Ms Butler interjecting—
+
+
+
+The SPEAKER:  The member for Griffith has been warned.
+
+
+
+
+Mr TURNBULL:
+  Mr Speaker, really! This wins the prize for gall from the Leader of the Opposition. This is the man who was a minister in a government that was warned that allowing unrestricted exports from the east coast would result—they were warned more than four years ago. They were warned, and they took no notice. This opposition, in government, failed the Australian people. What they did was let the Australian people down, and then the member for Port Adelaide did not tell the truth about it. I'm afraid he didn't. He was asked by Barrie Cassidy back in April whether he got plenty of advice back when they were in government, in 2012, that the surge in exports would lead to these problems, and what the member—
+
+
+
+Honourable members interjecting—
+
+
+
+
+Mr Burke:
+  Mr Speaker, I raise a point of order on direct relevance. The question asks why the Deputy Prime Minister has not used a power that's available to him.
+
+
+
+The SPEAKER:  The Manager of Opposition Business will resume his seat. I will address his point of order in a second, but he has given me the opportunity to warn members about the obvious level of noise in the chamber. I'm not going to keep repeating myself. I will simply eject members. The level of noise is far too high. The member for Griffith has already been warned. Those who have been regularly warned should be on stand-by to leave the chamber if they are going to disrupt it.
+
+
+On the point of order: the Manager of Opposition Business is right that that was an aspect of the question, but the preamble related to energy policy. I refer him to my earlier rulings. The Prime Minister is in order.
+
+
+
+
+Mr TURNBULL:
+  Thanks, Mr Speaker. I can only say to the Manager of Opposition Business, who is chairman of the opposition tactics committee, that the time to save the Leader of the Opposition from that catastrophic question was before he put it into the pack. It's too late now. Getting back to the confession from the member for Port Adelaide—
+
+
+
+Mr Dreyfus interjecting—
+
+
+
+The SPEAKER:  The member for Isaacs is warned. 
+
+
+
+
+Mr TURNBULL:
+  He said, 'We didn't get any advice.' But, of course, they did: from AEMO and from the energy white paper. Then, of course, he finally fessed up under interrogation from David Speers.
+
+
+
+Ms Plibersek interjecting—
+
+
+
+The SPEAKER:  The member for Sydney is warned. 
+
+
+
+
+Mr TURNBULL:
+  This is what we've done. We've foreshadowed the controls that we are going to put on gas exports, and we have seen wholesale prices already decline. Short-term prices, on average, across the country were $8.61 a gigajoule in July, compared to just under $12 a year ago. Prices have fallen in all east coast markets. Honourable members will have seen additional gas is coming onto the market. Our policy is working. When all of the material is together, the minister will make the appropriate declaration—fully informed when he does.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Deputy Prime Minister</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
 "Burke, Tony, MP",ALP,2017-09-07,"
 
 
@@ -2236,7 +2361,7 @@ The House:
 
 Was there ever an occasion where the Prime Minister said—
 
-",HoR,<title>MOTIONS</title>,<title>Deputy Prime Minister</title>,MOTIONS,7,1
+",HoR,<title>MOTIONS</title>,<title>Deputy Prime Minister</title>,MOTIONS,7,1,speech
 "Pyne, Christopher, MP",LP,2017-09-07,"
 
 
@@ -2255,7 +2380,7 @@ The SPEAKER:  The question is that the member be no longer heard.
 
 The SPEAKER:  The question is that the motion moved by the Manager of Opposition Business be agreed to. Is the motion seconded?
 
-",HoR,<title>MOTIONS</title>,<title>Deputy Prime Minister</title>,MOTIONS,7,1
+",HoR,<title>MOTIONS</title>,<title>Deputy Prime Minister</title>,MOTIONS,7,1,speech
 "Fitzgibbon, Joel, MP",ALP,2017-09-07,"
 
 
@@ -2263,7 +2388,7 @@ The SPEAKER:  The question is that the motion moved by the Manager of Opposition
 Mr FITZGIBBON
  (Hunter) (14:57):  I second the motion. Today, the Prime Minister expressed no confidence—
 
-",HoR,<title>MOTIONS</title>,<title>Deputy Prime Minister</title>,MOTIONS,7,1
+",HoR,<title>MOTIONS</title>,<title>Deputy Prime Minister</title>,MOTIONS,7,1,speech
 "Pyne, Christopher, MP",LP,2017-09-07,"
 
 
@@ -2278,7 +2403,32 @@ That the member be no longer heard.
 
 The SPEAKER:  The question is that the motion moved by the Manager of Opposition Business be agreed to. 
 
-",HoR,<title>MOTIONS</title>,<title>Deputy Prime Minister</title>,MOTIONS,7,1
+",HoR,<title>MOTIONS</title>,<title>Deputy Prime Minister</title>,MOTIONS,7,1,speech
+"Flint, Nicolle, MP",LP,2017-09-07,"
+
+
+
+Ms FLINT
+ (Boothby) (15:07):  My question is to the Minister for Defence Industry, representing the Minister for Employment. I refer the minister to reports this week that trade unions now hold over $1 billion of assets despite falling union membership. How has this increase in funding resulted in improved services to members of these registered organisations?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Trade Unions</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Pyne, Christopher, MP",LP,2017-09-07,"
+
+
+
+Mr PYNE
+ (Sturt—Leader of the House and Minister for Defence Industry) (15:08):  I thank the member for Boothby for her question. Once again Simon Benson at The Australian newspaper has written a story today about the practice of some unions to negotiate terms in enterprise agreements that identify a compulsory income protection, redundancy, training or similar fund that then pays kickbacks to the union. This is how unions have managed to grow substantially in terms of their assets over the years despite their membership dwindling. Members will know that their membership has now fallen to 10 per cent in the private sector, yet their funds keep increasing.
+
+
+One example of this type of arrangement is a deal between the AWU Victoria and income protection fund RUS Holdings. Evidence to the Royal Commission into Trade Union Governance and Corruption shows that significant payments from various companies to the Victorian branch of the AWU between 2003 and 2007 went ahead. The Leader of the Opposition ran the union at this time. He was Victorian secretary until August 2006 and national secretary until November 2007. There were 20 separate payments resulting in $566,000 paid by IUS Holdings to the AWU Victorian branch in that period, and yet there is absolutely no evidence whatsoever of what those payments were for, and they were not disclosed to the workers.
+
+
+Coincidentally, over the same period that this $566,000, in 20 secret payments, was being paid, AWU Victoria signed 28 enterprise agreements that insisted that IUS Holdings be the income protection insurance provider for those workers paid by the businesses into the IUS Holdings fund. So, in return for those kickbacks that the union was paid while the Leader of the Opposition was the secretary, it was insisted that IUS be the income protection provider in 28 enterprise agreements—a very clear case of a conflict of interest and a very clear case of corrupting benefits payments being made to AWU Victoria during that period by IUS Holdings. 
+
+
+The Leader of the Opposition has never explained what these payments are for. He really needs to take the opportunity to do so. He needs to explain the purpose of the payments and to what purpose the payments were put within the union.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Trade Unions</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
 "Smith, Tony, MP",LP,2017-09-07,"
 
 
@@ -2297,7 +2447,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Butler, Mark, MP",ALP,2017-09-07,"
 
 
@@ -2335,7 +2485,7 @@ The transition in the electricity sector is inevitable, but there are two pathwa
 
 The Labor Party will continue to be honest with the Australian people and with regional communities that this transition is inevitable, that it can be managed in a way that is either positive for Australia or it can be resisted. You can pull the cardigans over your heads and pretend that there's another path, but the only alternative path is the path of unreliability, of blackouts in coming summers and of continuing skyrocketing power prices. If that is the path that this minister and this Prime Minister continue to choose, because they don't have the courage to have logical, rational explanations in their coalition party room, I tell you what: the Australian people will hold them to account.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Frydenberg, Josh, MP",LP,2017-09-07,"
 
 
@@ -2397,7 +2547,7 @@ In Queensland, we saw a state Labor government under Premier Palaszczuk, with it
 
 Under Prime Minister Turnbull, we have taken drastic action, which includes abolishing the limited merits review process, which, if the Labor Party had done it, would have saved consumers $6½ billion. Now the member for Port Adelaide, who said, 'Thank goodness the coalition is now abolishing the limited merits review,' is delaying the passage of that legislation in the Senate by referring it to committee so that his mates in the union movement can have their say. Well, if he were so concerned about driving power prices down, he would pass that legislation in the Senate. What did the Labor Party do during their six years in office to get a better deal from the retailers for consumers? What did they do to get plain-English contracts? What did they do to get the discounts offered in dollar terms, not in percentages? What did they do to get people who are on standing offers to be offered something that was a better deal? What did they do to get the retailers to notify consumers when they came off a market offer onto a more standing offer? The Labor Party did nothing: nothing on networks, nothing on retailers, nothing on gas and nothing on coal—only higher renewable energy targets, higher emissions reduction targets and higher electricity prices. The Labor Party's condemned by their own actions and their own record. The electricity prices on their watch went up more than 100 per cent. Only the coalition will drive down energy prices and create a more stable energy system.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Fitzgibbon, Joel, MP",ALP,2017-09-07,"
 
 
@@ -2427,7 +2577,7 @@ The minister at the table need not lecture me about workers in the Hunter Valley
 
 There is an opportunity for the Hunter region to remain the powerhouse of New South Wales, a title it has enjoyed for decades. The members representing the region have been saying for many years that our coal-fired power generators are coming to the end of their commercial life. In the case of Liddell, as we know, this will be within five years. We've been saying that we have an opportunity to transition to a new energy economy. How? Gas is obvious. We have the land around the existing power stations. The transmission lines are there. We have the skilled workforce that can easily transition into the gas sector. Beyond gas, we have already established significant solar networks. Wind energy offers enormous opportunities in the Hunter. We have geothermal opportunities. We have the CSIRO in Newcastle, another great Labor initiative. But, for four years now, we've not been making that transition. We can't get investors interested, because they don't know what the rules are—and they don't know what the rules are, because of this mob opposite. No-one would be happier than me if Liddell could be extended, but this minister has no plan to do so.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Flint, Nicolle, MP",LP,2017-09-07,"
 
 
@@ -2450,7 +2600,7 @@ But what really concerns me is not just the unreliability and the trauma that pe
 
 I want to finish by thanking the Minister for the Environment and Energy for visiting my electorate of Boothby last week during our two weeks at home in our electorates. We met with a range of businesses, and the impact of these prices is quite terrifying. I'm very concerned. We heard concerns that jobs are at risk because of these failed Labor government policies. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Conroy, Pat, MP",ALP,2017-09-07,"
 
 
@@ -2488,7 +2638,7 @@ The great tragedy of this is that the workers and communities in my area suffer 
 
 I will not be lectured to about supporting coal workers from this government. I will not be lectured to by them. My neighbours are coalminers. My mates at footy games are coalminers. The blow-ins on the other side have never met a coalminer. They don't care about solving this crisis. They just care about getting through the next week in this place. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "O'Brien, Ted, MP",LP,2017-09-07,"
 
 
@@ -2545,7 +2695,7 @@ Honourable members interjecting—
 Mr TED O'BRIEN:
   'It was four years ago, so let's forget about it,' they say. They are full of excuses. They gave us the pink batts and they gave us the carbon tax. The member for Hunter today wanted to recreate it, but instead of calling it the carbon tax it was—what did he call it?—the carbon architecture, and he blamed the coalition. The abolition of the so-called carbon architecture has apparently driven up power prices. They are completely deluded. In the face of such cuckoo Labor governments, all I can say is: thank God we have at the federal level a coalition government in control, because if we didn't they would bring back the carbon tax. They would make sure they only looked at renewables. They've made it very clear they want to close all the coal-fired power stations—typical Labor. Thank God we have the coalition in government.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Champion, Nick, MP",ALP,2017-09-07,"
 
 
@@ -2562,7 +2712,7 @@ The member for Port Adelaide has offered, I think, very graciously, some measure
 
 Guess what? You guys got into government in 2013, so it's your responsibility to do something about it. What did you do? You sat on your hands. You've sat on your hands for four years. And now suddenly the Prime Minister wakes up one morning, gets out of bed and says, 'There's a crisis; I'm acting.' What does that acting involve? It involves bringing in the energy companies. Rather than treat them in a respectful fashion, he brings them in for this pantomime. He invites the cameras in and wags his fingers at these CEOs. You wonder why we've got a crisis when the participants are treated in that way and when the best thing that comes out of it is a letter to consumers. I mean, give me a break! And you're going to come in here and brag about that, and go out to your electorates and brag about that—a letter to consumers. 'Oh, aren't we tough!' No-one's going to believe it. They know you're divided. They know you can't provide certainty. They know you're not looking to the future. They know that you're selling snake oil. Every time you go around the place saying you're going to keep these ageing coal-fired power stations open longer than their natural life, people don't believe you. You can keep barking up this avenue and you can keep running crazily towards an ever-receding goal line, or you can actually plan for the future or you can embrace bipartisanship. Or you can embrace the report that you ordered—the Finkel report. Why don't you do that? Why don't you, just for once, engage in rational policymaking in this area rather than running silly scare campaigns?
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Hogan, Kevin, MP",Nats,2017-09-07,"
 
 
@@ -2582,7 +2732,7 @@ So, as a country, we have to be very careful and very considered about this. Thi
 
 So we as a government are committed. As I said, we will be meeting our renewable energy targets that we've set by 2020. We will be meeting our global emissions targets that we set back in Kyoto in 2005 as well. While we're meeting those targets, we're not beating our chests and running around all the inner city leftie forums saying we're going to a renewable energy target of 40 or 50 per cent by 2030. That may happen if there are changes in technology. If there are technological advances in battery storage, that may happen before 2030, but right now that technology is not there. To be planning and doing that without that technology, without being able to guarantee that supply, is very dangerous. Again I reiterate that South Australia have proved that. Until the technology to go to that space is there, it's foolhardy. We can go there when the technology's there to make sure that renewable is a reliable source of power. Thank you.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Swanson, Meryl, MP",ALP,2017-09-07,"
 
 
@@ -2612,7 +2762,7 @@ Honourable members interjecting—
 Ms SWANSON:
   No, hang on a minute! Globally, they're up 45 per cent. Jobs in renewables are up 45 per cent across the globe, and yet we have lost one-third. It's a shameful indictment and indicator of the road that you have led us down. Meanwhile, our power prices go up and people are lashing out. Let me tell you: they will sharpen their pencils at the ballot box next time. So gird your loins, boys, because you're on the way down!
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Falinski, Jason, MP",LP,2017-09-07,"
 
 
@@ -2667,7 +2817,7 @@ The DEPUTY SPEAKER
 Mr Coulton
 ):  The time for the discussion is concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Andrews, Kevin, MP",LP,2017-09-07,"
 
 
@@ -2708,7 +2858,7 @@ A further example of terminology being altered, thereby increasing confusion in 
 
 The committee has made five recommendations reflecting the matters which I have mentioned in these brief remarks. The committee withholds further, detailed recommendations in relation to planning until the results of the pathways review are available. I thank the secretariat and all those who have participated in our inquiry to date for their contributions.
 
-",HoR,<title>COMMITTEES</title>,<title>National Disability Insurance Scheme</title>,COMMITTEES,12,1
+",HoR,<title>COMMITTEES</title>,<title>National Disability Insurance Scheme</title>,COMMITTEES,12,1,speech
 "Macklin, Jenny, MP",ALP,2017-09-07,"
 
 
@@ -2716,7 +2866,7 @@ The committee has made five recommendations reflecting the matters which I have 
 Ms MACKLIN
  (Jagajaga) (16:29):  by leave—I want to endorse the remarks of the member for Menzies. I thank him for chairing the NDIS committee and I thank him and other members for the work they have done. I want to add one point. Listening to the people who campaigned so strongly for the National Disability Insurance Scheme now expressing their concerns in the way that the member for Menzies outlined is actually heartbreaking, particularly for people with disability. We should never, ever forget that the driving mission of the NDIS is to improve the lives of people with disability. The task for all of us is to make sure that that driving mission is achieved. I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>National Disability Insurance Scheme</title>,COMMITTEES,12,1
+",HoR,<title>COMMITTEES</title>,<title>National Disability Insurance Scheme</title>,COMMITTEES,12,1,speech
 "Andrews, Kevin, MP",LP,2017-09-07,"
 
 
@@ -2757,7 +2907,7 @@ A further example of terminology being altered, thereby increasing confusion in 
 
 The committee has made five recommendations reflecting the matters which I have mentioned in these brief remarks. The committee withholds further, detailed recommendations in relation to planning until the results of the pathways review are available. I thank the secretariat and all those who have participated in our inquiry to date for their contributions.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,12,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,12,2,speech
 "Macklin, Jenny, MP",ALP,2017-09-07,"
 
 
@@ -2765,7 +2915,7 @@ The committee has made five recommendations reflecting the matters which I have 
 Ms MACKLIN
  (Jagajaga) (16:29):  by leave—I want to endorse the remarks of the member for Menzies. I thank him for chairing the NDIS committee and I thank him and other members for the work they have done. I want to add one point. Listening to the people who campaigned so strongly for the National Disability Insurance Scheme now expressing their concerns in the way that the member for Menzies outlined is actually heartbreaking, particularly for people with disability. We should never, ever forget that the driving mission of the NDIS is to improve the lives of people with disability. The task for all of us is to make sure that that driving mission is achieved. I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,12,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,12,2,speech
 "King, Madeleine, MP",ALP,2017-09-07,"
 
 
@@ -2788,7 +2938,7 @@ Personally, Jamie and I have received an enormous amount of encouragement and su
 
 Gary, Deb and their sons could reasonably have expected to enjoy many more happy years together, following a busy political life that has kept them separated so often but, sadly, that is not to be. Deb is battling cancer. It is now certain that for Deb Walsh there are fewer days ahead than behind. These days are inevitably tinged with sadness, but Deb faces these days with a determination to make the most of her days with family and friends, soaking up the love they can provide. She's an inspiring woman, a strong woman and an amazing woman that has cared for so many of us. She always welcomed Gary's staff, made us feel at home in their home and made us feel part of their wonderful family. We stand here today with Deb Walsh and Gary Gray. My colleagues the member for Perth, the member for Burt, all of us on the Labor side and, I'm sure, all of us in this House, stand with Deb Walsh and Gary Gray. Our thoughts and prayers are with you, Deb, and with your family. Gary is an old grump, that much is true, but we love him almost as much as we love you, and we will watch out for him always. Thank you, Deb.
 
-",HoR,<title>ADJOURNMENT</title>,"<title>Walsh, Ms Deborah</title>",ADJOURNMENT,13,1
+",HoR,<title>ADJOURNMENT</title>,"<title>Walsh, Ms Deborah</title>",ADJOURNMENT,13,1,speech
 "Leigh, Andrew, MP",ALP,2017-09-07,"
 
 
@@ -2805,7 +2955,7 @@ Yet we have, in the Turnbull government, attempts to water down the ability of c
 
 It must be possible for Australian charities not just to help individuals but also to help create better policies. When we have our charities engaged in the public policy process, we end up with better policies. They're at the coalface. They're seeing the work that needs to be done to build a stronger community, a more just community and a more environmentally sustainable community. Yet the Turnbull government wants to shut our charities out of the advocacy space, to prevent them from having a voice in building a better Australia and to prevent their research activities. Labor will stand shoulder to shoulder with charities—as we have done in fighting for keeping the Australian Charities and Not-for-profits Commission—on this vital issue of advocacy.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Charitable Organisations</title>,CONSTITUENCY STATEMENTS,14,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Charitable Organisations</title>,CONSTITUENCY STATEMENTS,14,1,speech
 "Hart, Ross, MP",ALP,2017-09-07,"
 
 
@@ -2852,7 +3002,7 @@ Recommendations 1 and 2 within the report relate to the significant findings mad
 
 In summary, this committee plays a very important public role in ensuring that the Australian parliament and the general Australian public receive positive assurance with respect to the performance and expenditure of public moneys by Commonwealth entities. The committee was very concerned to note that the intention of transparency with respect to the reporting of financial remuneration of senior executives had been subverted. The committee was concerned that in its dealings with the Department of Finance there was a sense that this would not be the subject of formal compliance; it would not be the subject of reporting in annual reports. The committee has expressed its strongest views, in strongest terms, that this should be a formal requirement, not something that is optional. Every Australian, and indeed every member of this parliament, has the right to see in a transparent and open manner the reporting of executive remuneration.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,15,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,15,1,speech
 "McVeigh, John, MP",LP,2017-09-07,"
 
 
@@ -2878,7 +3028,7 @@ The committee further recommended that Finance develop benchmarks to enable enti
 
 As I said earlier, the Attorney-General's financial statement audits play a critical role in ensuring accountability to the parliament and to the Australian public for the expenditure of public funds. In conclusion, as a proud member of the Joint Committee of Public Accounts and Audit in this parliament, I, together with my colleagues, commend the Auditor-General and his office for their work each year in auditing the consolidated financial statements and Commonwealth entity financial statements.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,15,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,15,1,speech
 "Hill, Julian, MP",ALP,2017-09-07,"
 
 
@@ -2952,7 +3102,7 @@ The DEPUTY SPEAKER
 Mr S Georganas
 ):  The debate is now adjourned and the resumption of the debate will be made an order for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,15,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,15,1,speech
 "Hart, Ross, MP",ALP,2017-09-07,"
 
 
@@ -2999,7 +3149,7 @@ Recommendations 1 and 2 within the report relate to the significant findings mad
 
 In summary, this committee plays a very important public role in ensuring that the Australian parliament and the general Australian public receive positive assurance with respect to the performance and expenditure of public moneys by Commonwealth entities. The committee was very concerned to note that the intention of transparency with respect to the reporting of financial remuneration of senior executives had been subverted. The committee was concerned that in its dealings with the Department of Finance there was a sense that this would not be the subject of formal compliance; it would not be the subject of reporting in annual reports. The committee has expressed its strongest views, in strongest terms, that this should be a formal requirement, not something that is optional. Every Australian, and indeed every member of this parliament, has the right to see in a transparent and open manner the reporting of executive remuneration.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2,speech
 "McVeigh, John, MP",LP,2017-09-07,"
 
 
@@ -3025,7 +3175,7 @@ The committee further recommended that Finance develop benchmarks to enable enti
 
 As I said earlier, the Attorney-General's financial statement audits play a critical role in ensuring accountability to the parliament and to the Australian public for the expenditure of public funds. In conclusion, as a proud member of the Joint Committee of Public Accounts and Audit in this parliament, I, together with my colleagues, commend the Auditor-General and his office for their work each year in auditing the consolidated financial statements and Commonwealth entity financial statements.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2,speech
 "Hill, Julian, MP",ALP,2017-09-07,"
 
 
@@ -3099,7 +3249,7 @@ The DEPUTY SPEAKER
 Mr S Georganas
 ):  The debate is now adjourned and the resumption of the debate will be made an order for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2,speech
 "Mitchell, Brian, MP",ALP,2017-09-07,"
 
 
@@ -3228,4 +3378,74 @@ Mr BRIAN MITCHELL:
 
 Julie is an expert in this area. This is her work. She knows all about processes and what should happen, and she says she's never seen a process that is worse. These are words that the government should take heed of. They should stop blaming people like her for the problems that they themselves have created.
 
-",HoR,<title>ADJOURNMENT</title>,<title>National Broadband Network</title>,ADJOURNMENT,16,1
+",HoR,<title>ADJOURNMENT</title>,<title>National Broadband Network</title>,ADJOURNMENT,16,1,speech
+"Zappia, Tony, MP",ALP,2017-09-07,"
+
+
+
+Mr Zappia
+  asked the Minister for Health, in writing, on 25 May 2017:
+
+
+What proportion of the $75.6 billion in health funding in 2017-18 is expected to be spent in regional, rural and remote Australia?
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Health Funding (Question No. 736)</title>,QUESTIONS IN WRITING,17,1,question
+"Hunt, Greg, MP",LP,2017-09-07,"
+
+
+
+Mr Hunt:
+ The answer to the honourable member's question is as follows:
+
+
+In 2017-18, $64.8 billion1 has been allocated to the Department of Health for administered resourcing. The proportion of funding delivered per remoteness area is not reported for all programs, but an estimate that is proportionate with the population2 would account for 
+
+
+$21.4 billion being directed into regional, rural and remote Australia. 
+
+
+It is not possible to accurately report the rural proportion of many programs. However, location-based reporting is provided against some health programs including:
+
+
+The Medical Benefits Schedule – of a projected total of $22.9 billion3 in 2017-18 around $6.4 billion will support rural, regional locations.
+
+
+The Pharmaceutical Benefits Schedule – of the 2017-18 projected expenditure of $10.9 billion, around $3.6 billion will be spent in rural, regional and remote locations.
+
+
+In addition, some health programs are unique for regional, and/or rural, and/or remote Australia. In 2017-18, around $1 billion will be specifically targeted to these areas.
+
+
+Furthermore, a number of national programs have an additional rural loading component, to provide eligibility for higher payments. These include:
+
+
+Practice Nurse Incentive Program
+
+
+Specialist Training Program
+
+
+Home Medicines Review Program
+
+
+Primary Health Network Program
+
+
+Practice Incentives Program 
+
+
+Multi-Purpose Services Program
+
+
+Medicare Bulk Billing Incentives
+
+
+1 Portfolio Budget Statements 2017-18 Health Portfolio, p25
+
+
+2 Australian Bureau of Statistics, Regional Population Growth Australia 2015-16 at http://www.abs.gov.au/ausstats/abs@.nsf/mf/3218.0
+
+
+3 Portfolio Budget Statements 2017-18 Health Portfolio, p24
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Health Funding (Question No. 736)</title>,QUESTIONS IN WRITING,17,1,answer

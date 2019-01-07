@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2018-11-15,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (09:31):  I remind senators that the question may be put on any proposal at the request of any senator. There being none, we will move on.
 
-",Senate,<title>COMMITTEES</title>,"<title>Legal and Constitutional Affairs References Committee, Public Accounts and Audit Committee</title>",COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,"<title>Legal and Constitutional Affairs References Committee, Public Accounts and Audit Committee</title>",COMMITTEES,1,1,speech
 "PRESIDENT, The",,2018-11-15,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (09:31):  I remind senators that the question may be put on any proposal at the request of any senator. There being none, we will move on.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "CHAIR, The",,2018-11-15,"
 
 
@@ -22,7 +22,7 @@ The PRESIDENT
 The CHAIR
  (09:31):  The committee is considering the My Health Records Amendment (Strengthening Privacy) Bill 2018, as amended. The question is that Australian Greens amendments (1) and (2) on sheet 8565 be agreed to. 
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Di Natale, Sen Richard",AG,2018-11-15,"
 
 
@@ -33,7 +33,7 @@ Senator DI NATALE
 
 Leave granted.
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Polley, Sen Helen",ALP,2018-11-15,"
 
 
@@ -44,7 +44,7 @@ Senator POLLEY
 
 Today we have seen alarming new reports that a range of health providers will be able to access Australians' most sensitive health information on My Health Record. This could include whether Australians are impotent or have a sexually transmitted disease or an alcohol or drug issue. Labor has been calling for a Privacy Commissioner review of the default access settings for weeks, but the government has stubbornly refused to act, just as they stubbornly refused to act on the opt-out period until yesterday. Now that the government has backflipped on the opt-out period, they should backflip on these concerns and order an urgent Privacy Commissioner review.
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Steele-John, Sen Jordon",AG,2018-11-15,"
 
 
@@ -62,7 +62,7 @@ The CHAIR:  The question is that the amendment as amended by Senator Di Natale, 
 
 Question agreed to.
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Scullion, Sen Nigel",CLP,2018-11-15,"
 
 
@@ -70,7 +70,7 @@ Question agreed to.
 Senator SCULLION
  (Northern Territory—Minister for Indigenous Affairs and Leader of The Nationals in the Senate) (09:36):  I table a supplementary explanatory memorandum relating to the government amendments to be moved in this bill.
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Polley, Sen Helen",ALP,2018-11-15,"
 
 
@@ -81,7 +81,7 @@ Senator POLLEY
 
 Can I clarify with the government that those amendments that you put with the memorandum of understanding relate to those six government amendments?
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Scullion, Sen Nigel",CLP,2018-11-15,"
 
 
@@ -109,7 +109,7 @@ The CHAIR:  No, I believe, Minister, what you're seeking to do is move amendment
 Senator SCULLION:
   Certainly. I've actually been seeking the sheet number.
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Griff, Sen Stirling",CA,2018-11-15,"
 
 
@@ -129,7 +129,7 @@ Senator GRIFF
 
 (4) Schedule 1, item 16, page 8 (line 32) to page 9 (line 3), omit all the words from and including ""sufficient certainty"" to the end of subsection 70(3A), substitute ""sufficient certainty to initiate consideration of the matter or concerns"".
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Polley, Sen Helen",ALP,2018-11-15,"
 
 
@@ -144,7 +144,7 @@ The CHAIR:  The question is that the amendments, as moved by Senator Griff, on s
 
 Question negatived.
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Scullion, Sen Nigel",CLP,2018-11-15,"
 
 
@@ -1972,7 +1972,7 @@ Note: The text of the Covenant is set out in Australian Treaty Series 1980 No. 2
 
       (iii) the Commonwealth or an authority of the Commonwealth.
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Polley, Sen Helen",ALP,2018-11-15,"
 
 
@@ -2053,7 +2053,7 @@ Definitions
 
 The CHAIR:  Senator Bernardi, would you like to put your question now?
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Bernardi, Sen Cory",AC,2018-11-15,"
 
 
@@ -2071,7 +2071,7 @@ The CHAIR:  Are these the ones on sheet EH276?
 Senator BERNARDI:
   That's the point: I don't know, because I don't have it in front of me. I'm interested in asking the minister, who has moved some amendments, for a brief explanation of what the amendments actually do. Then I will ask the same question of Senator Polley—what her amendments actually do to the government's amendments. This is in the interest of clarification, because I don't have the complete information in front of me.
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Scullion, Sen Nigel",CLP,2018-11-15,"
 
 
@@ -2100,7 +2100,7 @@ Finally, the government remains committed to the My Health Record system being g
 
 I thank all senators who have made a significant contribution through the Senate inquiry and through this process. I commend the amendments to the house.
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Bernardi, Sen Cory",AC,2018-11-15,"
 
 
@@ -2108,7 +2108,7 @@ I thank all senators who have made a significant contribution through the Senate
 Senator BERNARDI
  (South Australia) (09:53):  I understand Senator Polley has some amendments, and I would be interested in a brief explanation of how they alter this. Minister, if I could have your attention for a second, could the government indicate whether they are generally supportive of Senator Polley's amendments to your amendments? That would be of assistance too.
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Scullion, Sen Nigel",CLP,2018-11-15,"
 
 
@@ -2116,7 +2116,7 @@ Senator BERNARDI
 Senator SCULLION
  (Northern Territory—Minister for Indigenous Affairs and Leader of The Nationals in the Senate) (09:53):  Without verballing Senator Polley, my understanding is that we're agreeing to a minor wording amendment. We think it improves our amendment. I think we're about to move to that amendment now. But the amendment in substance is just a stronger wording of the same amendment.
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Polley, Sen Helen",ALP,2018-11-15,"
 
 
@@ -2124,7 +2124,7 @@ Senator SCULLION
 Senator POLLEY
  (Tasmania) (09:53):  To assist Senator Bernardi: from the outset this government has bungled the process. The amendments that have just been moved by the government were in fact ones that we have been pushing hard on. But, even though they have attempted to pick up our concerns, as usual they have continued to bungle the process. The government's proposed restrictions only apply to national system employers, a definition that excludes state public sectors and local governments. Despite the government saying that they would ban employees from requesting or requiring My Health information, these amendments don't actually do that. That's why we have moved in our amendments a further amendment to strengthen the concerns that we have and why I moved that we take sheet 8574, circulated in my name. We do appreciate the fact that the government has finally got on board in supporting our amendments and proposing the ones that they did and that, at the end of the day, they've followed the lead of Labor on this very important initiative.
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Scullion, Sen Nigel",CLP,2018-11-15,"
 
 
@@ -2154,7 +2154,7 @@ Bill, as amended, agreed to.
 
 Bill reported with amendments; report adopted.
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "Scullion, Sen Nigel",CLP,2018-11-15,"
 
 
@@ -2171,7 +2171,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>My Health Records Amendment (Strengthening Privacy) Bill 2018</title>,BILLS,2,1,speech
 "CHAIR, The",,2018-11-15,"
 
 
@@ -2179,7 +2179,7 @@ Bill read a third time.
 The CHAIR
  (09:31):  The committee is considering the My Health Records Amendment (Strengthening Privacy) Bill 2018, as amended. The question is that Australian Greens amendments (1) and (2) on sheet 8565 be agreed to. 
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Di Natale, Sen Richard",AG,2018-11-15,"
 
 
@@ -2190,7 +2190,7 @@ Senator DI NATALE
 
 Leave granted.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Polley, Sen Helen",ALP,2018-11-15,"
 
 
@@ -2201,7 +2201,7 @@ Senator POLLEY
 
 Today we have seen alarming new reports that a range of health providers will be able to access Australians' most sensitive health information on My Health Record. This could include whether Australians are impotent or have a sexually transmitted disease or an alcohol or drug issue. Labor has been calling for a Privacy Commissioner review of the default access settings for weeks, but the government has stubbornly refused to act, just as they stubbornly refused to act on the opt-out period until yesterday. Now that the government has backflipped on the opt-out period, they should backflip on these concerns and order an urgent Privacy Commissioner review.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Steele-John, Sen Jordon",AG,2018-11-15,"
 
 
@@ -2219,7 +2219,7 @@ The CHAIR:  The question is that the amendment as amended by Senator Di Natale, 
 
 Question agreed to.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Scullion, Sen Nigel",CLP,2018-11-15,"
 
 
@@ -2227,7 +2227,7 @@ Question agreed to.
 Senator SCULLION
  (Northern Territory—Minister for Indigenous Affairs and Leader of The Nationals in the Senate) (09:36):  I table a supplementary explanatory memorandum relating to the government amendments to be moved in this bill.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Polley, Sen Helen",ALP,2018-11-15,"
 
 
@@ -2238,7 +2238,7 @@ Senator POLLEY
 
 Can I clarify with the government that those amendments that you put with the memorandum of understanding relate to those six government amendments?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Scullion, Sen Nigel",CLP,2018-11-15,"
 
 
@@ -2266,7 +2266,7 @@ The CHAIR:  No, I believe, Minister, what you're seeking to do is move amendment
 Senator SCULLION:
   Certainly. I've actually been seeking the sheet number.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Griff, Sen Stirling",CA,2018-11-15,"
 
 
@@ -2286,7 +2286,7 @@ Senator GRIFF
 
 (4) Schedule 1, item 16, page 8 (line 32) to page 9 (line 3), omit all the words from and including ""sufficient certainty"" to the end of subsection 70(3A), substitute ""sufficient certainty to initiate consideration of the matter or concerns"".
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Polley, Sen Helen",ALP,2018-11-15,"
 
 
@@ -2301,7 +2301,7 @@ The CHAIR:  The question is that the amendments, as moved by Senator Griff, on s
 
 Question negatived.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Scullion, Sen Nigel",CLP,2018-11-15,"
 
 
@@ -4129,7 +4129,7 @@ Note: The text of the Covenant is set out in Australian Treaty Series 1980 No. 2
 
       (iii) the Commonwealth or an authority of the Commonwealth.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Polley, Sen Helen",ALP,2018-11-15,"
 
 
@@ -4210,7 +4210,7 @@ Definitions
 
 The CHAIR:  Senator Bernardi, would you like to put your question now?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Bernardi, Sen Cory",AC,2018-11-15,"
 
 
@@ -4228,7 +4228,7 @@ The CHAIR:  Are these the ones on sheet EH276?
 Senator BERNARDI:
   That's the point: I don't know, because I don't have it in front of me. I'm interested in asking the minister, who has moved some amendments, for a brief explanation of what the amendments actually do. Then I will ask the same question of Senator Polley—what her amendments actually do to the government's amendments. This is in the interest of clarification, because I don't have the complete information in front of me.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Scullion, Sen Nigel",CLP,2018-11-15,"
 
 
@@ -4257,7 +4257,7 @@ Finally, the government remains committed to the My Health Record system being g
 
 I thank all senators who have made a significant contribution through the Senate inquiry and through this process. I commend the amendments to the house.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Bernardi, Sen Cory",AC,2018-11-15,"
 
 
@@ -4265,7 +4265,7 @@ I thank all senators who have made a significant contribution through the Senate
 Senator BERNARDI
  (South Australia) (09:53):  I understand Senator Polley has some amendments, and I would be interested in a brief explanation of how they alter this. Minister, if I could have your attention for a second, could the government indicate whether they are generally supportive of Senator Polley's amendments to your amendments? That would be of assistance too.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Scullion, Sen Nigel",CLP,2018-11-15,"
 
 
@@ -4273,7 +4273,7 @@ Senator BERNARDI
 Senator SCULLION
  (Northern Territory—Minister for Indigenous Affairs and Leader of The Nationals in the Senate) (09:53):  Without verballing Senator Polley, my understanding is that we're agreeing to a minor wording amendment. We think it improves our amendment. I think we're about to move to that amendment now. But the amendment in substance is just a stronger wording of the same amendment.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Polley, Sen Helen",ALP,2018-11-15,"
 
 
@@ -4281,7 +4281,7 @@ Senator SCULLION
 Senator POLLEY
  (Tasmania) (09:53):  To assist Senator Bernardi: from the outset this government has bungled the process. The amendments that have just been moved by the government were in fact ones that we have been pushing hard on. But, even though they have attempted to pick up our concerns, as usual they have continued to bungle the process. The government's proposed restrictions only apply to national system employers, a definition that excludes state public sectors and local governments. Despite the government saying that they would ban employees from requesting or requiring My Health information, these amendments don't actually do that. That's why we have moved in our amendments a further amendment to strengthen the concerns that we have and why I moved that we take sheet 8574, circulated in my name. We do appreciate the fact that the government has finally got on board in supporting our amendments and proposing the ones that they did and that, at the end of the day, they've followed the lead of Labor on this very important initiative.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Scullion, Sen Nigel",CLP,2018-11-15,"
 
 
@@ -4311,7 +4311,7 @@ Bill, as amended, agreed to.
 
 Bill reported with amendments; report adopted.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Bushby, Sen David",LP,2018-11-15,"
 
 
@@ -4550,7 +4550,7 @@ That the report be adopted.
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,5,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,5,1,speech
 "Bushby, Sen David",LP,2018-11-15,"
 
 
@@ -4789,7 +4789,7 @@ That the report be adopted.
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,5,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,5,2,speech
 "PRESIDENT, The",,2018-11-15,"
 
 
@@ -4797,7 +4797,7 @@ Question agreed to.
 The PRESIDENT
  (11:48):  I remind senators that the question may be put on any proposal at the request of any senator. There being none, we will move on.
 
-",Senate,<title>COMMITTEES</title>,<title>Economics Legislation Committee</title>,COMMITTEES,8,1
+",Senate,<title>COMMITTEES</title>,<title>Economics Legislation Committee</title>,COMMITTEES,8,1,speech
 "PRESIDENT, The",,2018-11-15,"
 
 
@@ -4805,7 +4805,7 @@ The PRESIDENT
 The PRESIDENT
  (11:48):  I remind senators that the question may be put on any proposal at the request of any senator. There being none, we will move on.
 
-",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,8,2
+",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,8,2,speech
 "Faruqi, Sen Mehreen",AG,2018-11-15,"
 
 
@@ -4835,7 +4835,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment (Ensuring Research Independence) Bill 2018</title>,BILLS,11,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment (Ensuring Research Independence) Bill 2018</title>,BILLS,11,1,speech
 "Faruqi, Sen Mehreen",AG,2018-11-15,"
 
 
@@ -4936,7 +4936,7 @@ I commend the Bill to the Senate.
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment (Ensuring Research Independence) Bill 2018</title>,BILLS,11,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment (Ensuring Research Independence) Bill 2018</title>,BILLS,11,1,speech
 "Faruqi, Sen Mehreen",AG,2018-11-15,"
 
 
@@ -4966,7 +4966,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,11,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,11,2,speech
 "PRESIDENT, The",,2018-11-15,"
 
 
@@ -4974,7 +4974,7 @@ Bill read a first time.
 The PRESIDENT
  (12:43):  Pursuant to request, I will now go to Senator Anning for matter No. 1205.
 
-",Senate,<title>MOTIONS</title>,<title>Abortion</title>,MOTIONS,12,1
+",Senate,<title>MOTIONS</title>,<title>Abortion</title>,MOTIONS,12,1,speech
 "Anning, Sen Fraser",KAP,2018-11-15,"
 
 
@@ -5044,7 +5044,7 @@ Senator Whish-Wilson:
 
 The PRESIDENT:  I would do it with whoever is in the chair at the time.
 
-",Senate,<title>MOTIONS</title>,<title>Abortion</title>,MOTIONS,12,1
+",Senate,<title>MOTIONS</title>,<title>Abortion</title>,MOTIONS,12,1,speech
 "McAllister, Sen Jenny",ALP,2018-11-15,"
 
 
@@ -5052,7 +5052,7 @@ The PRESIDENT:  I would do it with whoever is in the chair at the time.
 Senator McALLISTER
  (New South Wales—Deputy Opposition Whip in the Senate) (12:45):  The Aviation Transport Security Amendment Bill 2018 responds to expert advice that concluded that when it comes to small airports, the level of red tape involved in the transport security process is excessive when weighed against the security threats they face. Accordingly, the legislation proposes the creation of a model TSP for small industry participants. The model TSP would ensure operators were aware of their responsibilities under the Aviation Transport Security Act 2004. It would allow operators of airports that are assessed as low risk to focus on implementing and maintaining the robust security measures in their plan rather than focus on red tape and reports for the Commonwealth. This is an approach that reflects informed risk management. It has broad support across the aviation sector and has been positively examined by a Senate committee. The opposition will support this bill.
 
-",Senate,<title>BILLS</title>,<title>Aviation Transport Security Amendment Bill 2018</title>,BILLS,13,1
+",Senate,<title>BILLS</title>,<title>Aviation Transport Security Amendment Bill 2018</title>,BILLS,13,1,speech
 "Seselja, Sen Zed",LP,2018-11-15,"
 
 
@@ -5066,7 +5066,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Aviation Transport Security Amendment Bill 2018</title>,BILLS,13,1
+",Senate,<title>BILLS</title>,<title>Aviation Transport Security Amendment Bill 2018</title>,BILLS,13,1,speech
 "Seselja, Sen Zed",LP,2018-11-15,"
 
 
@@ -5083,7 +5083,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Aviation Transport Security Amendment Bill 2018</title>,BILLS,13,1
+",Senate,<title>BILLS</title>,<title>Aviation Transport Security Amendment Bill 2018</title>,BILLS,13,1,speech
 "McAllister, Sen Jenny",ALP,2018-11-15,"
 
 
@@ -5091,7 +5091,7 @@ Bill read a third time.
 Senator McALLISTER
  (New South Wales—Deputy Opposition Whip in the Senate) (12:45):  The Aviation Transport Security Amendment Bill 2018 responds to expert advice that concluded that when it comes to small airports, the level of red tape involved in the transport security process is excessive when weighed against the security threats they face. Accordingly, the legislation proposes the creation of a model TSP for small industry participants. The model TSP would ensure operators were aware of their responsibilities under the Aviation Transport Security Act 2004. It would allow operators of airports that are assessed as low risk to focus on implementing and maintaining the robust security measures in their plan rather than focus on red tape and reports for the Commonwealth. This is an approach that reflects informed risk management. It has broad support across the aviation sector and has been positively examined by a Senate committee. The opposition will support this bill.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Seselja, Sen Zed",LP,2018-11-15,"
 
 
@@ -5105,7 +5105,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "McAllister, Sen Jenny",ALP,2018-11-15,"
 
 
@@ -5125,7 +5125,7 @@ The bills also amend the excise acts to establish a framework to make excise dut
 
 While we support the bill, it would be remiss of me not to note how a desperate government has thrown fiscal responsibility out the window, and at best now relies on accounting tricks to deliver its projected surplus. The sneakiest thing of all in the most recent budget is taxing tobacco 12 weeks earlier upon entry into Australia rather than, at present, when it leaves the warehouse. That will boost tax receipts once and once only in 2019-20 by $3.27 billion. As many commentators note, the Prime Minister, the former Treasurer who delivered this budget, is a former advertising executive and, like many advertisements, the projected budget surplus relied on a gimmick. Without that timing trick, the return to surplus would be pushed back a year to 2020-21. Nonetheless, I reiterate that Labor will support these bills.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Black Economy Taskforce Measures No. 2) Bill 2018, Excise Tariff Amendment (Collecting Tobacco Duties at Manufacture) Bill 2018</title>",BILLS,14,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Black Economy Taskforce Measures No. 2) Bill 2018, Excise Tariff Amendment (Collecting Tobacco Duties at Manufacture) Bill 2018</title>",BILLS,14,1,speech
 "Seselja, Sen Zed",LP,2018-11-15,"
 
 
@@ -5139,7 +5139,7 @@ Question agreed to.
 
 Bills read a second time.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Black Economy Taskforce Measures No. 2) Bill 2018, Excise Tariff Amendment (Collecting Tobacco Duties at Manufacture) Bill 2018</title>",BILLS,14,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Black Economy Taskforce Measures No. 2) Bill 2018, Excise Tariff Amendment (Collecting Tobacco Duties at Manufacture) Bill 2018</title>",BILLS,14,1,speech
 "Sterle, Sen Glenn (The ACTING DEPUTY PRESIDENT)",ALP,2018-11-15,"
 
 
@@ -5150,7 +5150,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Sterle
 ) (12:55):  As no amendments to the bill have been circulated, I shall call the minister to move the third reading unless any senator requires that the bill be considered in Committee of the Whole.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Black Economy Taskforce Measures No. 2) Bill 2018, Excise Tariff Amendment (Collecting Tobacco Duties at Manufacture) Bill 2018</title>",BILLS,14,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Black Economy Taskforce Measures No. 2) Bill 2018, Excise Tariff Amendment (Collecting Tobacco Duties at Manufacture) Bill 2018</title>",BILLS,14,1,speech
 "Seselja, Sen Zed",LP,2018-11-15,"
 
 
@@ -5167,7 +5167,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Black Economy Taskforce Measures No. 2) Bill 2018, Excise Tariff Amendment (Collecting Tobacco Duties at Manufacture) Bill 2018</title>",BILLS,14,1
+",Senate,<title>BILLS</title>,"<title>Treasury Laws Amendment (Black Economy Taskforce Measures No. 2) Bill 2018, Excise Tariff Amendment (Collecting Tobacco Duties at Manufacture) Bill 2018</title>",BILLS,14,1,speech
 "McAllister, Sen Jenny",ALP,2018-11-15,"
 
 
@@ -5187,7 +5187,7 @@ The bills also amend the excise acts to establish a framework to make excise dut
 
 While we support the bill, it would be remiss of me not to note how a desperate government has thrown fiscal responsibility out the window, and at best now relies on accounting tricks to deliver its projected surplus. The sneakiest thing of all in the most recent budget is taxing tobacco 12 weeks earlier upon entry into Australia rather than, at present, when it leaves the warehouse. That will boost tax receipts once and once only in 2019-20 by $3.27 billion. As many commentators note, the Prime Minister, the former Treasurer who delivered this budget, is a former advertising executive and, like many advertisements, the projected budget surplus relied on a gimmick. Without that timing trick, the return to surplus would be pushed back a year to 2020-21. Nonetheless, I reiterate that Labor will support these bills.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Seselja, Sen Zed",LP,2018-11-15,"
 
 
@@ -5201,7 +5201,84 @@ Question agreed to.
 
 Bills read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
+"Wong, Sen Penny",ALP,2018-11-15,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:02):  My question is to the minister representing the Prime Minister, Senator Cormann. In an article in this morning's media entitled 'PM flags embassy retreat' it is revealed that Minister Ciobo told the Indonesian Minister of Trade, Mr Lukita, that the chances of Australia moving its embassy in Israel were, 'Less than five per cent'. Is Minister Ciobo correct? Why did Mr Morrison think it was worth putting his domestic political interests before the national interest for a decision with a less than one in 20 chance?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Embassy: Israel</title>,QUESTIONS WITHOUT NOTICE,16,1,question
+"Wong, Sen Penny",ALP,2018-11-15,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:04):  When pressed about whether a decision would be made in relation to the location of Australia's embassy in Israel before Christmas, Mr Morrison, reluctantly, said, 'Look, that's our intention.' Given that the Indonesian government is clear that the decision is the cause of delay in signing the free trade agreement, why is the Prime Minister delaying his decision to back down at the cost of Australian exporters, businesses and consumers?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Embassy: Israel</title>,QUESTIONS WITHOUT NOTICE,16,1,question
+"Wong, Sen Penny",ALP,2018-11-15,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:05):  In this morning's The Daily Telegraph, it was revealed that Mr Morrison:
+
+
+… acknowledges his decision … was an error of judgement, made in desperation to hold onto predecessor Malcolm Turnbull's seat, Wentworth.
+
+
+Isn't it clear Mr Morrison's judgement cannot be trusted, and what is the cost of his poor judgement to Australian exporters, businesses and consumers?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Embassy: Israel</title>,QUESTIONS WITHOUT NOTICE,16,1,question
+"Cormann, Sen Mathias",LP,2018-11-15,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance and the Public Service, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:02):  In relation to the last part of the question, the Prime Minister did not do that. In relation to the other parts of the question: as I've said to Senator Wong and to the Senate more broadly before, 'Don't always believe everything you read in the newspaper.'
+
+
+I can also confirm that no such suggestions have been made by the Prime Minister, or the Minister for Trade, Tourism and Investment or the Minister for Foreign Affairs in any engagements with Indonesia on these matters. We don't comment on—
+
+
+
+
+Senator Wong:
+  What about Mr Ciobo?
+
+
+
+
+Senator CORMANN:
+  I haven't even finished my answer! I haven't even finished my sentence! My advice is that no such suggestion has been made by Minister Ciobo either. I'm not in the habit of responding to unsourced allegations in the media. The government's position on looking into the merits of moving the embassy to West Jerusalem are clear and, the process has been set out by the Prime Minister very clearly as well. Australia will not conflate two very important but separate issues. We will make judgements in our national interest on the issue in relation to the embassy's potential move to West Jerusalem in the proper way and we will make relevant announcements at the right time.
+
+
+
+The PRESIDENT:  Senator Wong, a supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Embassy: Israel</title>,QUESTIONS WITHOUT NOTICE,16,1,answer
+"Cormann, Sen Mathias",LP,2018-11-15,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance and the Public Service, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:04):  Firstly, I reject the premise of the question. We have an internal government process underway, which will take its course over the coming weeks and be completed by Christmas. It will take full account of our record of support for a two-state solution and the conditions required for progress. It will include external consultation and will report to the National Security Committee of cabinet and the cabinet following normal cabinet processes. In due course, when relevant decisions have been made, relevant announcements will be made about the decision that we have made.
+
+
+
+The PRESIDENT:  Senator Wong, a final supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Embassy: Israel</title>,QUESTIONS WITHOUT NOTICE,16,1,answer
+"Cormann, Sen Mathias",LP,2018-11-15,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance and the Public Service, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:05):  Firstly, I reject the premise of the question. There has been no such comment from the Prime Minister. When it comes to providing better access to markets around the world for Australian exporting businesses, there has been no better government than the Liberal-National government. What did Labor do over six years in government? What happened to the free trade agreement with China? Nothing. What happened to all these other free trade agreements? We have concluded a free trade agreement with China. We have concluded free trade agreements with Japan and with South Korea, and of course we've also successfully concluded the Trans-Pacific Partnership agreement with the remaining 11 countries that were keen to continue. We know that, if we had listened to the Leader of the Opposition, supposedly the alternative Prime Minister of Australia, we would have put our arms up in the air and walked away from it. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Embassy: Israel</title>,QUESTIONS WITHOUT NOTICE,16,1,answer
 "McKenzie, Sen Bridget",Nats,2018-11-15,"
 
 
@@ -5209,7 +5286,7 @@ Bills read a second time.
 Senator McKENZIE
  (Victoria—Deputy Leader of The Nationals and Minister for Regional Services, Sport, Local Government and Decentralisation) (15:04):  I took a question on notice on behalf of the Deputy Prime Minister earlier in the week, and I just want to advise the Senate that, in response to that, he is pleased to see the funding announcement for Foodbank by the Prime Minister. Recognising the important role it plays in regional communities, particularly those affected by drought, the Liberal-National government has increased its funding for food relief, and it looks forward to working closely with Foodbank, SecondBite and OzHarvest to maximise the benefits our vital food relief services provide to vulnerable and homeless Australians.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Foodbank</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,17,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Foodbank</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,17,1,speech
 "McCarthy, Sen Malarndirri",ALP,2018-11-15,"
 
 
@@ -5217,7 +5294,7 @@ Senator McKENZIE
 Senator McCARTHY
  (Northern Territory) (15:05):  Under the order of the Senate agreed to on 13 November 2018, I seek an explanation from the Minister for Indigenous Affairs, Senator Scullion, concerning the failure to respond in full to the order for the production of documents relating to the Indigenous Advancement Strategy.
 
-",Senate,<title>DOCUMENTS</title>,<title>Northern Territory: Grants</title>,DOCUMENTS,18,1
+",Senate,<title>DOCUMENTS</title>,<title>Northern Territory: Grants</title>,DOCUMENTS,18,1,speech
 "Scullion, Sen Nigel",CLP,2018-11-15,"
 
 
@@ -5225,7 +5302,7 @@ Senator McCARTHY
 Senator SCULLION
  (Northern Territory—Minister for Indigenous Affairs and Leader of The Nationals in the Senate) (15:05):  Those documents have, in fact, been provided to the Senate. I'll just check. My understanding is that's the case. Just give me a moment and I'll check.
 
-",Senate,<title>DOCUMENTS</title>,<title>Northern Territory: Grants</title>,DOCUMENTS,18,1
+",Senate,<title>DOCUMENTS</title>,<title>Northern Territory: Grants</title>,DOCUMENTS,18,1,speech
 "McCarthy, Sen Malarndirri",ALP,2018-11-15,"
 
 
@@ -5263,7 +5340,7 @@ The minister said that he granted $1.4 million to a non-Indigenous company, Nort
 
 I will continue to ask why the minister did not follow this process. I will certainly continue to seek information and ask questions about the process that the Minister for Indigenous Affairs and the coalition government have followed with the allocation of IAS grants, and I will continue to ask the minister why grants from the Indigenous Advancement Strategy are provided to non-Indigenous companies that are run by his political mates.
 
-",Senate,<title>DOCUMENTS</title>,<title>Northern Territory: Grants</title>,DOCUMENTS,18,1
+",Senate,<title>DOCUMENTS</title>,<title>Northern Territory: Grants</title>,DOCUMENTS,18,1,speech
 "Scullion, Sen Nigel",CLP,2018-11-15,"
 
 
@@ -5332,7 +5409,7 @@ Senator SCULLION:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Northern Territory: Grants</title>,DOCUMENTS,18,1
+",Senate,<title>DOCUMENTS</title>,<title>Northern Territory: Grants</title>,DOCUMENTS,18,1,speech
 "McCarthy, Sen Malarndirri",ALP,2018-11-15,"
 
 
@@ -5340,7 +5417,7 @@ Question agreed to.
 Senator McCARTHY
  (Northern Territory) (15:05):  Under the order of the Senate agreed to on 13 November 2018, I seek an explanation from the Minister for Indigenous Affairs, Senator Scullion, concerning the failure to respond in full to the order for the production of documents relating to the Indigenous Advancement Strategy.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2,speech
 "Scullion, Sen Nigel",CLP,2018-11-15,"
 
 
@@ -5348,7 +5425,7 @@ Senator McCARTHY
 Senator SCULLION
  (Northern Territory—Minister for Indigenous Affairs and Leader of The Nationals in the Senate) (15:05):  Those documents have, in fact, been provided to the Senate. I'll just check. My understanding is that's the case. Just give me a moment and I'll check.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2,speech
 "McCarthy, Sen Malarndirri",ALP,2018-11-15,"
 
 
@@ -5386,7 +5463,7 @@ The minister said that he granted $1.4 million to a non-Indigenous company, Nort
 
 I will continue to ask why the minister did not follow this process. I will certainly continue to seek information and ask questions about the process that the Minister for Indigenous Affairs and the coalition government have followed with the allocation of IAS grants, and I will continue to ask the minister why grants from the Indigenous Advancement Strategy are provided to non-Indigenous companies that are run by his political mates.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2,speech
 "Scullion, Sen Nigel",CLP,2018-11-15,"
 
 
@@ -5455,7 +5532,7 @@ Senator SCULLION:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2,speech
 "Polley, Sen Helen",ALP,2018-11-15,"
 
 
@@ -5484,7 +5561,7 @@ When the minister today, in his response, tried to suggest it was their idea to 
 
 What they want us to do is trust them. Well, the next data is due to be rolled out in the next few weeks, and I warned those opposite yesterday: don't release this new data on Christmas Eve, because you can't hide. They might try to run, but they can't hide from the fact that the waitlist will have blown out by, I would suggest, in excess of another 10,000 to 15,000 older Australians. It was a disgrace and dishonest for the Prime Minister to promise older Australians—when he knifed Malcolm Turnbull—that he would make older Australians a priority. He hasn't. If he calls allowing this wait list to blow out without taking any recourse at all a priority, he is a failure and he should stand condemned.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1,speech
 "Abetz, Sen Eric",LP,2018-11-15,"
 
 
@@ -5588,7 +5665,7 @@ If the Australian Labor Party were genuinely concerned about older Australians, 
 
 Let's be very clear: when it comes to the actual issue that Senator Polley sought to address, the government has a plan. We are caring for more and more Australians and we will continue to do so on the back of sound economic management. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1,speech
 "Watt, Sen Murray",ALP,2018-11-15,"
 
 
@@ -5618,7 +5695,7 @@ Of course that's not the only foreign policy faux pas that we've seen from minis
 
 So, whether it be Minister Price wandering around restaurants in Canberra offending Pacific leaders or whether it be the Prime Minister running around with his baseball cap on offending Indonesian leaders, it seems that this government just doesn't care about how Australia is regarded by our neighbours in the Asia-Pacific, which is a very short-sighted approach and one that shows that this government has lost any sense of where it wants to take the country. This latest outburst from Senator Fierravanti-Wells about the L-plate environment minister is just the latest incident of division and dysfunction that we've seen from this government. They have completely lost control. Everyone in Canberra is talking about what a boring week this has been because the government has no agenda that it wants to put forward. All the government have time for is to fight with each other and throw insults at each other in the newspapers. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1,speech
 "Brockman, Sen Slade",LP,2018-11-15,"
 
 
@@ -5683,7 +5760,7 @@ We are signing free trade agreements. Again, those opposite are walking away fro
 
 Today we had an extraordinary attack on the Home Support Program. Labor didn't even have a list when they were in power. They criticised this government for actually finding out the scope of the issue that needs to be addressed. That is the great evil—when they were last in power, only a few short years ago, no such list existed. Again, our government is getting on with the job. The Morrison government committed $1.6 billion for extra home care packages, a rollout of 14,000 additional high-level packages, growing overall home care packages from 87,000 to 151,000 over the next four years. In so many ways this government is getting on with the job of delivering for Australians, unlike those opposite, who just want to play political games.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1,speech
 "Keneally, Sen Kristina",ALP,2018-11-15,"
 
 
@@ -5712,7 +5789,7 @@ I'm going to end on this point: all of this chaos and division is hurting real p
 
 Question agreed to. 
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,19,1,speech
 "Williams, Sen John",Nats,2018-11-15,"
 
 
@@ -5720,7 +5797,7 @@ Question agreed to.
 Senator WILLIAMS
  (New South Wales—Nationals Whip in the Senate) (15:53):  On behalf of the Chair of the Community Affairs Legislation Committee, Senator Gichuhi, I present additional information received by the committee on its inquiry into the provision of the Aged Care Quality and Safety Commission Bill 2018 and the related bill.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs Legislation Committee</title>,COMMITTEES,20,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs Legislation Committee</title>,COMMITTEES,20,1,speech
 "Williams, Sen John",Nats,2018-11-15,"
 
 
@@ -5728,7 +5805,7 @@ Senator WILLIAMS
 Senator WILLIAMS
  (New South Wales—Nationals Whip in the Senate) (15:53):  On behalf of the Chair of the Community Affairs Legislation Committee, Senator Gichuhi, I present additional information received by the committee on its inquiry into the provision of the Aged Care Quality and Safety Commission Bill 2018 and the related bill.
 
-",Senate,<title>COMMITTEES</title>,<title>Additional Information</title>,COMMITTEES,20,2
+",Senate,<title>COMMITTEES</title>,<title>Additional Information</title>,COMMITTEES,20,2,speech
 "McKenzie, Sen Bridget",Nats,2018-11-15,"
 
 
@@ -5736,7 +5813,7 @@ Senator WILLIAMS
 Senator McKENZIE
  (Victoria—Deputy Leader of The Nationals and Minister for Regional Services, Sport, Local Government and Decentralisation) (16:18):  I table a letter in relation to an order of the Senate of 13 November 2018.
 
-",Senate,<title>DOCUMENTS</title>,<title>Australian Research Council</title>,DOCUMENTS,21,1
+",Senate,<title>DOCUMENTS</title>,<title>Australian Research Council</title>,DOCUMENTS,21,1,speech
 "Carr, Sen Kim",ALP,2018-11-15,"
 
 
@@ -5774,7 +5851,7 @@ What we've got now is a renewal of the culture wars against the university syste
 
 This is a government that seems to have stopped listening, dominated by a party that stopped listening about 10 years ago. They continue to repeat the mistakes that we saw in the Howard government, and in their last, desperate throes— (Time expired)
 
-",Senate,<title>DOCUMENTS</title>,<title>Australian Research Council</title>,DOCUMENTS,21,1
+",Senate,<title>DOCUMENTS</title>,<title>Australian Research Council</title>,DOCUMENTS,21,1,speech
 "McKenzie, Sen Bridget",Nats,2018-11-15,"
 
 
@@ -5782,7 +5859,7 @@ This is a government that seems to have stopped listening, dominated by a party 
 Senator McKENZIE
  (Victoria—Deputy Leader of The Nationals and Minister for Regional Services, Sport, Local Government and Decentralisation) (16:18):  I table a letter in relation to an order of the Senate of 13 November 2018.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,21,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,21,2,speech
 "Carr, Sen Kim",ALP,2018-11-15,"
 
 
@@ -5820,7 +5897,7 @@ What we've got now is a renewal of the culture wars against the university syste
 
 This is a government that seems to have stopped listening, dominated by a party that stopped listening about 10 years ago. They continue to repeat the mistakes that we saw in the Howard government, and in their last, desperate throes— (Time expired)
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,21,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,21,2,speech
 "McKenzie, Sen Bridget",Nats,2018-11-15,"
 
 
@@ -5918,7 +5995,7 @@ Minister for Finance and the Public Service
 
 15 November 2018
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,"<title>Prime Minister, Indigenous Housing</title>",QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,22,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,"<title>Prime Minister, Indigenous Housing</title>",QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,22,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -5948,7 +6025,7 @@ Before I close, I also thank in particular Daniel Clode, senior adviser in my of
 
 The PRESIDENT:  The question is that the second reading amendment moved by Senator Farrell on sheet 8576 be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Waters, Sen Larissa",AG,2018-11-15,"
 
 
@@ -5978,7 +6055,7 @@ Leave out all words after ""that"", insert:
 
 The PRESIDENT:  The question is that Senator Waters' motion be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Farrell, Sen Don",ALP,2018-11-15,"
 
 
@@ -5986,7 +6063,7 @@ The PRESIDENT:  The question is that Senator Waters' motion be agreed to.
 Senator FARRELL
  (South Australia—Deputy Leader of the Opposition in the Senate) (16:50):  I wish to advise the committee—and for the benefit of the Clerks I advise—that, as flagged in my earlier contribution, the opposition will not be proceeding with amendments on sheet 8554 and 8407.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -10030,7 +10107,7 @@ The government has listened to JSCEM concerns about particular scenarios where a
 
 In relation to some of the other amendments, I have moved government amendments which delete clauses from the bill to streamline obligations and reduce the regulatory burden. The government has already publicly explained in considerable detail where it is making changes to simplify the bill and this information has been released publicly through the website of the Joint Standing Committee on Electoral Matters. I commend the government's amendments to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Farrell, Sen Don",ALP,2018-11-15,"
 
 
@@ -10074,7 +10151,7 @@ Senator Brockman
 
 Question agreed to.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Waters, Sen Larissa",AG,2018-11-15,"
 
 
@@ -10091,7 +10168,7 @@ Amendment (3), item 1E, at the end of subsection 4AA(5), add:
 
 As I outlined earlier, whilst we acknowledge that this bill has been softened considerably in its impact on the not-for-profit and charitable sector, we are still concerned about the sheer weight of regulation that has now been placed, disproportionately, on that sector by this bill and by five years of attacks by this government on that sector. This amendment seeks to put beyond doubt that any activities conducted by the not-for-profit and charitable sector in furtherance of their charitable purposes are not then required to comply with this new barrage of regulations. So this is an amendment that seeks to ensure that charities are able to continue their legitimate activities in a way that isn't being muzzled by this government, which can't take criticism.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -10114,7 +10191,7 @@ I would make the general point, which I have made on the public record on many o
 
 We have considered the views, assessment and recommendations of the Joint Standing Committee on Electoral Matters, and we believe that we have ended up with an appropriate balance. Of course, issue advocacy is important and will not be affected through this bill, but, where there is significant expenditure to a relevant level on political campaigns, of course the same or similar transparency, disclosure and reporting requirements should apply and the same ban on foreign political donations should apply.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Farrell, Sen Don",ALP,2018-11-15,"
 
 
@@ -10125,7 +10202,7 @@ Senator FARRELL
 
 Labor has always opposed seeking blanket exemptions in the Commonwealth Electoral Act, and the reason is clear: blanket exemptions, regardless of their intent, create loopholes in our law. Any organisation seeking to deliberately influence an election, insofar as it is still captured by the narrow definition negotiated by Labor, should comply with those transparency measures outlined in the revised bill and the ban on using foreign money. We cannot support an exemption where those seeking to deliberately influence an election can hide behind an unintentional loophole of charitable purpose. That is not good government, not good policy and not good for our charities.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Hanson, Sen Pauline",PHON,2018-11-15,"
 
 
@@ -10133,7 +10210,7 @@ Labor has always opposed seeking blanket exemptions in the Commonwealth Electora
 Senator HANSON
  (Queensland) (17:03):  Minister, I would like to ask a question. You referred to foreign political donations. What evidence do you have of this?
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -10153,7 +10230,7 @@ Senator Farrell:
 Senator CORMANN:
   You're not allowed to run for president, that's right. That counts the two of us out, Senator Farrell. But Australia is one of the few Western democracies in which foreign donors can still influence domestic elections. Senator Hanson would remember that the government announced some time ago now, I think this time last year, a package of reforms, of which this is a component, to protect Australia from undue foreign interference in our internal democratic processes. 
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Hanson, Sen Pauline",PHON,2018-11-15,"
 
 
@@ -10161,7 +10238,7 @@ Senator CORMANN:
 Senator HANSON
  (Queensland) (17:05):  Minister, if you are going to protect the electoral process and our democracy in Australia from foreign investment in or donations to political parties, how can you assure that, if you have a foreign company, that foreign company will not divest their moneys through their Australian subsidiary companies here? 
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -10169,7 +10246,7 @@ Senator HANSON
 Senator CORMANN
  (Western Australia—Minister for Finance and the Public Service, Vice-President of the Executive Council and Leader of the Government in the Senate) (17:05):  The government, based on advice not just from our own officials but also from the Joint Standing Committee on Electoral Matters, has made the ban on foreign political donations as effective as possible considering the constraints that we face under our Constitution. Under our Constitution we are not able to ban donations from Australian residents or from Australian companies, so this ban on foreign political donations has been structured to be as effective as possible, as mindful of the limitations in terms of our authority to legislate to that effect under our Constitution.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Hanson, Sen Pauline",PHON,2018-11-15,"
 
 
@@ -10177,7 +10254,7 @@ Senator CORMANN
 Senator HANSON
  (Queensland) (17:06):  Minister, under the Electoral Act you would be changing the electoral funding so it is actually going to be on receipts—is that correct? So $10,000 if you receive four per cent of the vote, and you will automatically receive $10,000 if your electoral funding is more than that? In that case, for anything over $10,000, is it that all candidates, all political parties, must submit their receipts to the Electoral Commission for electoral funding? 
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -10185,7 +10262,7 @@ Senator HANSON
 Senator CORMANN
  (Western Australia—Minister for Finance and the Public Service, Vice-President of the Executive Council and Leader of the Government in the Senate) (17:07):  I thank Senator Hanson for that question. Public funding entitlements have not changed under this bill. Public funding will continue to be payable in relation to candidates that receive at least four per cent of formal first preference votes and will be calculated in the same way. What has changed is the process. To assist less well financed candidates and to minimise red tape, the first $10,000 of funding will continue to be paid automatically shortly after polling day. A claim setting out electoral expenditure will need to be submitted for more than the first $10,000 to be paid. The amount of public election funding paid will be capped at the amount of electoral expenditure specified in the claim. Claimants must keep records of claimed electoral expenditure for five years after polling day. Records are likely to be receipts and invoices in most instances. In examining claims, the Australian Electoral Commission will be checking that claimed electoral expenditure is accurate and unique. In other words, no double-dipping by claiming the same expense in different claims, for example for different states, or claiming fictional expenditure. Like the way the tax office checks for fraud in claimed tax credits, the Australian Electoral Commission will have flexibility in determining what they need to do to conduct this check at any particular time. This flexibility allows them to minimise red tape. For example, if the Australian Electoral Commission determines there is a high risk that claims will be inaccurate, they might require that all receipts are submitted with the claim. Or they might decide to randomly select claims for audit and ask to see selected claimants' receipts. If they determine there is a low risk of fraudulent claims at a particular time or for a particular type of claimant, they might not ask to see proof of electoral expenditure at all. As the Senate is well aware, the Australian Electoral Commission of course is an independent statutory organisation which acts in an entirely non-partisan fashion. 
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Hanson, Sen Pauline",PHON,2018-11-15,"
 
 
@@ -10199,7 +10276,7 @@ Senator HANSON
 
 There is no specification in this as to what the limit or the cost of the gift is. It's just reference to 'a gift'. What is the gift—in relation to what cost?
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -10233,7 +10310,7 @@ The TEMPORARY CHAIR:  Because some of the items are opposed, the question now is
 
 Question negatived.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -10241,7 +10318,7 @@ Question negatived.
 Senator CORMANN
  (Western Australia—Minister for Finance and the Public Service, Vice-President of the Executive Council and Leader of the Government in the Senate) (17:12):  In relation to Senator Hanson's question, section 302CA applies to all gifts, irrespective of value.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Waters, Sen Larissa",AG,2018-11-15,"
 
 
@@ -10397,7 +10474,7 @@ Senator WATERS:
 
 Amendment (4) goes to the fact that, at the moment, membership fees aren't considered donations and moneys provided to political parties to attend fundraising events are also not considered donations. There is so much dark money flowing around, going into the coffers of the larger political parties, that is not properly accounted for and that is not able to be scrutinised by the public. This amendment, amendment (4), would say that those contributions are to be considered a donation and therefore should be subject to the other rules that donations are subject to; namely, the disclosure threshold—and, if our amendment is successful—a cap on the amount. I moved those four amendments, as listed earlier.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -10420,7 +10497,7 @@ In relation to the disclosure threshold, this amendment would reduce the disclos
 
 The fourth amendment, redefining gifts, is in our assessment lacking in logic. The amendment would treat the cost of food at a fundraising event as if it were a gift. By contrast, the government's amendments, which are supported by the Joint Standing Committee on Electoral Matters, have greater logic, because it is only the profit component of an event price that should be treated as a gift.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Farrell, Sen Don",ALP,2018-11-15,"
 
 
@@ -10431,7 +10508,7 @@ Senator FARRELL
 
 The substantive issue here is a foreign donations ban. Labor has sought to ensure that third parties and charities are protected from the government's overreach without creating further issues within the Commonwealth Electoral Act. Labor believes the issues surrounding disclosure require further consideration and consultation with those third parties that we have worked so hard to protect. Labor, as a party of government and as a party who wants the system to work, is committed to addressing these matters constructively and will always do so.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Hanson, Sen Pauline",PHON,2018-11-15,"
 
 
@@ -10439,7 +10516,7 @@ The substantive issue here is a foreign donations ban. Labor has sought to ensur
 Senator HANSON
  (Queensland) (17:24):  Senator Farrell made a comment then about stopping moneys flowing into political parties from foreign donations. Could I have clarification of what evidence he has of that—what political parties and who received the foreign donations?
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Farrell, Sen Don",ALP,2018-11-15,"
 
 
@@ -10489,7 +10566,7 @@ Senator FARRELL:
 
 Just so I'm not seen to be partisan, the reality is that the Labor Party has also been receiving donations from these foreign groups, and we will lose those funds from these foreign groups. But I have to point out that our leader six months ago took the very principled stand of saying, 'We will stop accepting those foreign donations.' So, yes, we have in the past, as a political organisation, accepted foreign donations. It has been legal, up until this legislation, for Australian political parties to do that. Bill Shorten took the principled stand that we would no longer receive or accept political donations. You might recall that, in my initial speech on this matter, I called on the government to take that same principled stand today when this legislation passes and not to wait until it passes the lower house.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -10503,7 +10580,7 @@ Let me give a more coherent answer to the question that Senator Hanson has asked
 
 Media reports increasingly document foreign attempts to influence elections around the world, which is a disturbing development. As I've indicated, Australia is one of the very few Western democracies in which foreign political donations are not as yet prohibited. It is good electoral reform housekeeping for us to catch up with what is already the prevailing law in most other Western democracies. Nobody can actually tell you with precision what has happened in the past, but, given international developments, given what's clearly been a matter of public debate in Australia for some time and given the views and the recommendations of the Joint Standing Committee on Electoral Matters on what should happen here, this is the best way forward. I hasten to add that it was, of course, the Liberal-National government that put forward this legislation. We put forward this legislation a year ago. It would have been great if we could have passed it more quickly, but we did think it was important to get this right in time for the next election, which is why we engaged in good faith with all relevant stakeholders and the opposition. I was somewhat saddened to see that that level of constructive bipartisanship disappeared for a moment.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Hanson, Sen Pauline",PHON,2018-11-15,"
 
 
@@ -10511,7 +10588,7 @@ Media reports increasingly document foreign attempts to influence elections arou
 Senator HANSON
  (Queensland) (17:30):  I commend the government, the opposition and Labor on their stance against foreign donations; the principal parties now won't take these because of the influence it may have over their political decisions in this place. So I ask this question: what is the difference between receiving foreign donations and receiving donations from organisations, corporations or developers—for instance, in the tobacco industry, as the Greens have said? Will these organisations not have influence over government policy?
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -10519,7 +10596,7 @@ Senator HANSON
 Senator CORMANN
  (Western Australia—Minister for Finance and the Public Service, Vice-President of the Executive Council and Leader of the Government in the Senate) (17:31):  I did actually address this earlier. Under the Australian Constitution, Australians—including Australian businesses, Australian organisations and Australian residents—are entitled to participate in our democracy. There's nothing wrong with Australians seeking to influence each other in terms of how they ultimately vote. The ultimate decision is a decision for individual voters who vote in secrecy. That is, of course, the way the process works. What we are very deliberately seeking here is to prevent attempts of foreign interference in our domestic democratic process. In particular, through the ban on foreign political donations, we are seeking to prevent and prohibit influence by foreign donors on our Australian democratic process. In terms of attempting to do what Senator Hanson appears to be suggesting we should consider, which is similar to what the Greens appear to have been suggesting, the best available advice we have is that that would not be constitutionally sustainable.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Hanson, Sen Pauline",PHON,2018-11-15,"
 
 
@@ -10527,7 +10604,7 @@ Senator CORMANN
 Senator HANSON
  (Queensland) (17:33):  Minister, you referred to the Constitution. I have it in my hand now. Can you refer me to the section you are talking about in relation to their right under the Constitution?
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -10535,7 +10612,7 @@ Senator HANSON
 Senator CORMANN
  (Western Australia—Minister for Finance and the Public Service, Vice-President of the Executive Council and Leader of the Government in the Senate) (17:33):  I'll refer you to successive decisions of the High Court that have defined the implied freedom of political expression in our Australian democracy for some time. The Constitution, yes, is made up of the document that Senator Hanson has in her hot little hands, but it also, of course, needs to be considered in the context of decisions made by the High Court interpreting our Constitution over a long period of time. There is a consensus view that it would not be possible to prohibit participation, and, in fact, there have been previous cases in relation to relevant legislation where that has been made very clear. The best available advice that we have is that it would not be constitutionally sustainable to completely prohibit any Australian company or Australian citizen from participating in the Australian democratic process, including by making political donations.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Farrell, Sen Don",ALP,2018-11-15,"
 
 
@@ -10555,7 +10632,7 @@ Senator Dean Smith
 
 Question negatived.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Waters, Sen Larissa",AG,2018-11-15,"
 
 
@@ -10642,7 +10719,7 @@ I want to hearken back to the fact that we've had some by-elections recently. By
 
 So that's why this amendment would give the public the right to know who's paying these folk who are making decisions on behalf of their donors to promote the donors' vested interests and putting the community a distant last. These amendments would give the community a right to know so that, when people cast their vote, they are doing so in full knowledge of the priorities of the people that they might consider voting or not voting for.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -10650,7 +10727,7 @@ So that's why this amendment would give the public the right to know who's payin
 Senator CORMANN
  (Western Australia—Minister for Finance and the Public Service, Vice-President of the Executive Council and Leader of the Government in the Senate) (17:37):  The government will not be supporting this amendment, nor will we support the other amendment that relates to this particular proposition. It's quite strange, in our view, that the Greens propose that the onus of making real-time disclosure should only be on the donor and not on the political parties that benefit and can most efficiently undertake reporting. This amendment is also contrary to a fundamental principle in the bill in that it would create inconsistency between the transparency of donations to parties and that of donations to political campaigners. I leave it to observers and analysts to speculate as to why that would be. The government's view is that organisations which spend over half a million dollars a year on federal election expenditure, including GetUp!, which indeed spent $10 million in the lead-up to the last federal election—let me say that again: $10 million—should be treated on the same basis as political parties and other relevant actors, and the Greens have not made out a convincing case for why such organisations should get special treatment.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Farrell, Sen Don",ALP,2018-11-15,"
 
 
@@ -10658,7 +10735,7 @@ Senator CORMANN
 Senator FARRELL
  (South Australia—Deputy Leader of the Opposition in the Senate) (17:38):  The opposition also will not be supporting this amendment. Labor has a clear policy in support of real-time disclosure. We believe that donations over $1,000 should be disclosed and disclosed quickly. Labor has a strong record on transparency in politics, and we approach every issue on the facts before us. As I've stated before, including to members of the crossbench in our discussions on this legislation, real-time disclosure at a federal level requires a significant consultation with the AEC and consideration by those parties who will need to ensure their own compliance. We are committed to achieving this policy, and we will do so with the appropriate consideration should we form government. It's vital that we always approach such issues not just with our values and beliefs but also with the practical view of actually getting it done.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Hanson, Sen Pauline",PHON,2018-11-15,"
 
 
@@ -10666,7 +10743,7 @@ Senator FARRELL
 Senator HANSON
  (Queensland) (17:39):  The minister made reference to GetUp! and the $500,000. What is the government's response to the donations that are made by the unions, which are tax exempt—the millions of dollars that they give to the Labor Party and to other political parties? Is the amount of money they give to the political parties reined in? They are tax exempt—they don't pay any taxes in this country. How do they sit under this legislation?
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -10686,7 +10763,7 @@ The TEMPORARY CHAIR
 Senator Dean Smith
 ):  The question is that Greens amendment (9) on sheet 8546 revised, moved by Senator Waters, be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Waters, Sen Larissa",AG,2018-11-15,"
 
 
@@ -10800,7 +10877,7 @@ The higher of the following:
 
 I will outline for the chamber the effect of these amendments. We have already seen how enormous the influence of big corporates is over this chamber, and the public are absolutely sick of the vested interests of donors getting put ahead of the interests of the community. This amendment would seek to ban donations from eight of the most influential and self-interested industries that so far have had a stranglehold over this parliament. This amendment would completely ban donations from the property development industry, mining, tobacco, alcohol, gambling, the big banks, defence and big pharma. The Australian people have the right to expect that decisions are made in their interests and not in the interests of those big corporations. There have previously been some comments about the questionable constitutionality of these amendments. I would simply direct anyone interested in that to the McCloy case. We are perfectly able to have those restrictions; it is simply a question of whether or not the big parties want their money to dry up. I am not expecting support for this amendment, because we know that both of the big parties have taken $100 million in donations from the big corporates in the last six years, but we live in hope.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -10820,7 +10897,7 @@ A level of internal logic and consistency is also lacking. For example, under th
 
 The more fundamental point is that, under our Constitution, under our principles, under the constitutional principle of implied political freedom of communication, the best advice that we have is that this would not be constitutionally sustainable. In any event, we have great confidence that the Australian people voting at elections are very capable of making judgements on what they think is right and wrong.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Hanson, Sen Pauline",PHON,2018-11-15,"
 
 
@@ -10853,7 +10930,7 @@ Senator HANSON:
 
 The CHAIR:  The question is that amendments (5) and (6) on sheet 8546, by leave moved together by Senator Waters, be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Waters, Sen Larissa",AG,2018-11-15,"
 
 
@@ -10948,7 +11025,7 @@ The higher of the following:
 [donations to political entities]
 
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -10962,7 +11039,7 @@ Even if this amendment were to apply in the context of the government's bill, it
 
 This amendment also lets political campaigners off the hook. Again, I'm not quite sure why the Greens political party takes the view that political campaigners spending substantial amounts of money on political campaigns in the lead-up to elections, seeking to influence election outcomes, should not be subject to the same disclosure, transparency and reporting requirements and the same ban on foreign political donations as other political actors, including political parties. The government's view is that they should apply on the same basis or a similar basis to all those actors.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Waters, Sen Larissa",AG,2018-11-15,"
 
 
@@ -10974,7 +11051,7 @@ Senator WATERS
 
 The CHAIR:  The question is that amendment (7) on sheet 8546, as moved by Senator Waters, be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -11265,7 +11342,7 @@ Bill, as amended, agreed to.
 
 Bill reported with amendments; report adopted.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "PRESIDENT, The",,2018-11-15,"
 
 
@@ -11279,7 +11356,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,23,1,speech
 "Cormann, Sen Mathias",LP,2018-11-15,"
 
 
@@ -11309,7 +11386,7 @@ Before I close, I also thank in particular Daniel Clode, senior adviser in my of
 
 The PRESIDENT:  The question is that the second reading amendment moved by Senator Farrell on sheet 8576 be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Waters, Sen Larissa",AG,2018-11-15,"
 
 
@@ -11339,7 +11416,7 @@ Leave out all words after ""that"", insert:
 
 The PRESIDENT:  The question is that Senator Waters' motion be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Singh, Sen Lisa",ALP,2018-11-15,"
 
 
@@ -11365,4 +11442,4 @@ But Khashoggi's murder has brought human rights back to the forefront of interna
 
 Australia and the international community must be unequivocal that such brazen acts, indeed any derogation of human rights, will never, ever be tolerated.
 
-",Senate,<title>ADJOURNMENT</title>,"<title>Khashoggi, Mr Jamal</title>",ADJOURNMENT,27,1
+",Senate,<title>ADJOURNMENT</title>,"<title>Khashoggi, Mr Jamal</title>",ADJOURNMENT,27,1,speech

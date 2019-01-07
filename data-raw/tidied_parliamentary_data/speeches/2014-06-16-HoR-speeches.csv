@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Jensen, Dennis, MP",LP,2014-06-16,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 Dr JENSEN
  (Tangney) (10:01):  Ministerial responses to petitions previously presented to the House have been received as follows:
 
-",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,0,2
+",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,0,2,speech
 "O'Dwyer, Kelly, MP",LP,2014-06-16,"
 
 
@@ -47,7 +47,7 @@ Demand for new housing appears to have remained strong, including First Home Own
 
 Finally, on behalf of the committee, I would like to thank the Governor of the Reserve Bank, Mr Glenn Stevens, and other representatives of the RBA for appearing before the committee on 7 March 2014. I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,2,1,speech
 "Husic, Ed, MP",ALP,2014-06-16,"
 
 
@@ -89,7 +89,7 @@ The question, according to Governor Stevens, is how quickly they can get on top 
 
 The SPEAKER:  The time allotted for statements on this report has expired. Does the honourable member for Higgins wish to move a motion to enable it to be debated at a later date?
 
-",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,2,1,speech
 "O'Dwyer, Kelly, MP",LP,2014-06-16,"
 
 
@@ -104,7 +104,7 @@ That the House take note of the report.
 
 The SPEAKER:  In accordance with standing order 39 the debate is adjourned. The resumption of the debate will be made an order of the day for the next sitting. Does the honourable member for Higgins wish to move a motion for the matter to be referred to the Federation Chamber?
 
-",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,2,1,speech
 "O'Dwyer, Kelly, MP",LP,2014-06-16,"
 
 
@@ -118,7 +118,7 @@ That the order of the day be referred to the Federation Chamber for debate.
 
 Question agreed to. 
 
-",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,2,1,speech
 "O'Dwyer, Kelly, MP",LP,2014-06-16,"
 
 
@@ -159,7 +159,7 @@ Demand for new housing appears to have remained strong, including First Home Own
 
 Finally, on behalf of the committee, I would like to thank the Governor of the Reserve Bank, Mr Glenn Stevens, and other representatives of the RBA for appearing before the committee on 7 March 2014. I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,2,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,2,2,speech
 "Husic, Ed, MP",ALP,2014-06-16,"
 
 
@@ -201,7 +201,7 @@ The question, according to Governor Stevens, is how quickly they can get on top 
 
 The SPEAKER:  The time allotted for statements on this report has expired. Does the honourable member for Higgins wish to move a motion to enable it to be debated at a later date?
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,2,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,2,2,speech
 "O'Dwyer, Kelly, MP",LP,2014-06-16,"
 
 
@@ -216,7 +216,7 @@ That the House take note of the report.
 
 The SPEAKER:  In accordance with standing order 39 the debate is adjourned. The resumption of the debate will be made an order of the day for the next sitting. Does the honourable member for Higgins wish to move a motion for the matter to be referred to the Federation Chamber?
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,2,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,2,2,speech
 "Leigh, Andrew, MP",ALP,2014-06-16,"
 
 
@@ -308,7 +308,7 @@ Ms Brodtmann:
 
 The SPEAKER:  I call the honourable member for Wannon.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Australian Charities and Not-for-profits Commission</title>,PRIVATE MEMBERS' BUSINESS,3,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Australian Charities and Not-for-profits Commission</title>,PRIVATE MEMBERS' BUSINESS,3,1,speech
 "Tehan, Dan, MP",LP,2014-06-16,"
 
 
@@ -341,7 +341,7 @@ Mr Ewen Jones interjecting—
 Mr TEHAN:
   As a my good friend the member for Herbert just said, give them the whip, give them the jockey's helmet, let them ride their horse and let them go in the direction they want to go. We understand that these sectors in Australia are mature, are adult, and do not need someone else whipping them and telling them what they should do and where they should go. We understand that this sector in particular, which does so much good for our society, should be in control of its own destination. 
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Australian Charities and Not-for-profits Commission</title>,PRIVATE MEMBERS' BUSINESS,3,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Australian Charities and Not-for-profits Commission</title>,PRIVATE MEMBERS' BUSINESS,3,1,speech
 "Ferguson, Laurie, MP",ALP,2014-06-16,"
 
 
@@ -366,7 +366,7 @@ Mr Winneke noted that in some cases they were getting up to 40 per cent of earni
 
 We have seen significant support for this organisation. People who are supposedly regulated too much, people who are affected by this onerous red tape, are saying that they actually want this organisation to operate. We have seen two entities already—South Australia and the ACT—abolish their state alternatives to oversight this field because there is confidence in the recently established federal ACNC. It has been, as I said, at a very early stage able to give confidence to the sector. People do want to have confidence, because there are problems. I noticed as recently as 15 March this year the Australian Vaccination-skeptics Network, as covered by The Sydney Morning Herald— (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Australian Charities and Not-for-profits Commission</title>,PRIVATE MEMBERS' BUSINESS,3,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Australian Charities and Not-for-profits Commission</title>,PRIVATE MEMBERS' BUSINESS,3,1,speech
 "Jones, Ewen, MP",LP,2014-06-16,"
 
 
@@ -398,7 +398,7 @@ Mr EWEN JONES:
 
 You find that the people who are up against this are the people who are getting paid to help them comply. The people who want the ACNC and more red tape in this field are the people who are being paid or whose job description is to help people work out how this form complies, where this form goes, how to do it properly and all that sort of stuff. This is what we have to stop. What we have to do is make sure the money that these people raise gets to the customer, to the person on the ground. Filling out red tape is taking another person away from what they want to do, be it the P&F at your school, Queensland Youth Services, an aged-care facility or anywhere. If your audit process is good enough for the state government, it should be good enough for us. We can just push it through and make it easier for people to provide services on the street. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Australian Charities and Not-for-profits Commission</title>,PRIVATE MEMBERS' BUSINESS,3,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Australian Charities and Not-for-profits Commission</title>,PRIVATE MEMBERS' BUSINESS,3,1,speech
 "Claydon, Sharon, MP",ALP,2014-06-16,"
 
 
@@ -427,7 +427,7 @@ Another important role the commission plays is to help reduce and eliminate scam
 
 Finally, this government is hiding behind an illusion of consultation in order to ram home an ideological agenda. The vital work of the ACNC must be maintained, for the benefits of charities, not-for-profits and the many, many communities they serve. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Australian Charities and Not-for-profits Commission</title>,PRIVATE MEMBERS' BUSINESS,3,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Australian Charities and Not-for-profits Commission</title>,PRIVATE MEMBERS' BUSINESS,3,1,speech
 "Hawke, Alex, MP",LP,2014-06-16,"
 
 
@@ -493,7 +493,7 @@ Mr HAWKE:
 
 Debate adjourned.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Australian Charities and Not-for-profits Commission</title>,PRIVATE MEMBERS' BUSINESS,3,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Australian Charities and Not-for-profits Commission</title>,PRIVATE MEMBERS' BUSINESS,3,1,speech
 "Southcott, Dr Andrew, MP",LP,2014-06-16,"
 
 
@@ -501,7 +501,7 @@ Debate adjourned.
 Dr SOUTHCOTT
  (Boothby) (12:01):  by leave—on behalf of the Joint Standing Committee of Public Accounts and Audit, I wish to make a statement on the appointment of the Independent Auditor of the Australian National Audit Office. The Joint Standing Committee of Public Accounts and Audit is required under the Public Accounts and Audit Committee Act 1951 to endorse the proposed appointment of any person to the office of Independent Auditor before that appointment can be recommended to the Governor-General. The committee is also obliged to report its decision to parliament. The Independent Auditor is a person appointed from the private sector on a part-time basis to serve as an external auditor to the Audit Office. I take this opportunity to advise the House that on 29 May the committee unanimously approved the appointment of Mr Peter van Dongen, the current national assurance managing partner at PricewaterhouseCoopers.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,4,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,4,1,speech
 "Southcott, Dr Andrew, MP",LP,2014-06-16,"
 
 
@@ -606,7 +606,7 @@ That the House take note of the report.
 
 The DEPUTY SPEAKER:  In accordance with standing order 39, the debate is adjourned. The resumption of the debate will be made an order of the day for a later hour this day.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,4,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,4,1,speech
 "Southcott, Dr Andrew, MP",LP,2014-06-16,"
 
 
@@ -620,7 +620,7 @@ That the order of the day be referred to the Federation Chamber for debate.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,4,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,4,1,speech
 "Southcott, Dr Andrew, MP",LP,2014-06-16,"
 
 
@@ -628,7 +628,7 @@ Question agreed to.
 Dr SOUTHCOTT
  (Boothby) (12:01):  by leave—on behalf of the Joint Standing Committee of Public Accounts and Audit, I wish to make a statement on the appointment of the Independent Auditor of the Australian National Audit Office. The Joint Standing Committee of Public Accounts and Audit is required under the Public Accounts and Audit Committee Act 1951 to endorse the proposed appointment of any person to the office of Independent Auditor before that appointment can be recommended to the Governor-General. The committee is also obliged to report its decision to parliament. The Independent Auditor is a person appointed from the private sector on a part-time basis to serve as an external auditor to the Audit Office. I take this opportunity to advise the House that on 29 May the committee unanimously approved the appointment of Mr Peter van Dongen, the current national assurance managing partner at PricewaterhouseCoopers.
 
-",HoR,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,4,2
+",HoR,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,4,2,speech
 "Butler, Mark, MP",ALP,2014-06-16,"
 
 
@@ -747,7 +747,7 @@ In relation to the Great Barrier Reef, this is a very serious matter. I think we
 
 and should be postponed to allow further consideration. This is a draft report and the committee may well take a view that is different from that. But what is concerning is that I have not heard a jot about this from the environment minister. I have not heard a single response from the government about the interaction between this parliamentary debate and what is happening at an international level at the UNESCO meeting, particularly in light of the very clear recommendation from the World Heritage Committee. For all the reasons I have outlined, the opposition will not be supporting this legislation.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,5,1,speech
 "Goodenough, Ian, MP",LP,2014-06-16,"
 
 
@@ -800,7 +800,7 @@ The issue of affordability of land for housing and commercial purposes is very t
 
 In summary, this bill is designed to replace the current two-tiered system of duplication of federal and state approvals processes, which currently adds multiple layers of bureaucracy, creating uncertainty and delay. It seeks to amend the EPBC Act to allow states and territories to be accredited for approvals decisions, where states and territories can demonstrate that they will maintain the high environmental standards required by the EPBC Act. In effect, it creates a one-stop shop for environmental approvals, which in turn promotes productivity, competitiveness and economic development. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,5,1,speech
 "Bandt, Adam, MP",AG,2014-06-16,"
 
 
@@ -835,7 +835,7 @@ These accredited processes can be enshrined in policy or in guidelines, rather t
 
 We will not be supporting this bill. I am pleased it is going to be defeated, at least in this Senate, and I hope it will be defeated in the next Senate.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,5,1,speech
 "Hawke, Alex, MP",LP,2014-06-16,"
 
 
@@ -870,7 +870,7 @@ The member for Melbourne also expressed his concerns about the water trigger, sa
 
 It is important to note that this bill provides significant protection with its assessment and accreditation processes and the important referral to the independent scientific panel so the latest science and the independent advice about coal seam gas and the water science that is available will be available for decision makers. You cannot do better than that. As the member for Melbourne regularly implores us, we should listen to the science. This bill will make the necessary amendments to ensure that these bilateral agreements can be delivered between the states and the Commonwealth, and I strongly recommend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,5,1,speech
 "Butler, Terri, MP",ALP,2014-06-16,"
 
 
@@ -964,7 +964,7 @@ The DEPUTY SPEAKER
 Mr Vasta
 ):  Order! The debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,5,1,speech
 "Butler, Mark, MP",ALP,2014-06-16,"
 
 
@@ -1083,7 +1083,7 @@ In relation to the Great Barrier Reef, this is a very serious matter. I think we
 
 and should be postponed to allow further consideration. This is a draft report and the committee may well take a view that is different from that. But what is concerning is that I have not heard a jot about this from the environment minister. I have not heard a single response from the government about the interaction between this parliamentary debate and what is happening at an international level at the UNESCO meeting, particularly in light of the very clear recommendation from the World Heritage Committee. For all the reasons I have outlined, the opposition will not be supporting this legislation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Goodenough, Ian, MP",LP,2014-06-16,"
 
 
@@ -1136,7 +1136,7 @@ The issue of affordability of land for housing and commercial purposes is very t
 
 In summary, this bill is designed to replace the current two-tiered system of duplication of federal and state approvals processes, which currently adds multiple layers of bureaucracy, creating uncertainty and delay. It seeks to amend the EPBC Act to allow states and territories to be accredited for approvals decisions, where states and territories can demonstrate that they will maintain the high environmental standards required by the EPBC Act. In effect, it creates a one-stop shop for environmental approvals, which in turn promotes productivity, competitiveness and economic development. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Bandt, Adam, MP",AG,2014-06-16,"
 
 
@@ -1171,7 +1171,7 @@ These accredited processes can be enshrined in policy or in guidelines, rather t
 
 We will not be supporting this bill. I am pleased it is going to be defeated, at least in this Senate, and I hope it will be defeated in the next Senate.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Hawke, Alex, MP",LP,2014-06-16,"
 
 
@@ -1206,7 +1206,7 @@ The member for Melbourne also expressed his concerns about the water trigger, sa
 
 It is important to note that this bill provides significant protection with its assessment and accreditation processes and the important referral to the independent scientific panel so the latest science and the independent advice about coal seam gas and the water science that is available will be available for decision makers. You cannot do better than that. As the member for Melbourne regularly implores us, we should listen to the science. This bill will make the necessary amendments to ensure that these bilateral agreements can be delivered between the states and the Commonwealth, and I strongly recommend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Butler, Terri, MP",ALP,2014-06-16,"
 
 
@@ -1300,7 +1300,7 @@ The DEPUTY SPEAKER
 Mr Vasta
 ):  Order! The debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Watts, Tim, MP",ALP,2014-06-16,"
 
 
@@ -1326,7 +1326,7 @@ When you actually look at where the Treasurer's $6,000 in welfare goes, the larg
 
 The facts just do not support this government's fairness fantasy. Contrary to the Treasurer's insulting 'leaner' rhetoric, the Melbourne institute research shows that welfare dependency has decreased over the last 12 years. The number of households primarily dependent on welfare payments has decreased by almost 30 per cent since 2001. No matter how the Abbott government try to sell it, the Australian people just are not buying their budget of broken promises. They did not vote for it and they do not want it.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Budget</title>,STATEMENTS BY MEMBERS,6,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Budget</title>,STATEMENTS BY MEMBERS,6,1,speech
 "Abbott, Tony, MP",LP,2014-06-16,"
 
 
@@ -1340,7 +1340,7 @@ Sir Jack was always willing to have a go and was named Australian of the Year in
 
 He was a champion driver, an engineer and, more recently, a champion for macular degeneration awareness. To his wife, Margaret, and to his sons the government extends its deepest sympathies.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Brabham, Sir Jack, AO, OBE</title>",CONDOLENCES,7,1
+",HoR,<title>CONDOLENCES</title>,"<title>Brabham, Sir Jack, AO, OBE</title>",CONDOLENCES,7,1,speech
 "Shorten, Bill, MP",ALP,2014-06-16,"
 
 
@@ -1368,7 +1368,73 @@ Honourable members having stood in their places—
 
 The SPEAKER:  I thank the House.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Brabham, Sir Jack, AO, OBE</title>",CONDOLENCES,7,1
+",HoR,<title>CONDOLENCES</title>,"<title>Brabham, Sir Jack, AO, OBE</title>",CONDOLENCES,7,1,speech
+"Shorten, Bill, MP",ALP,2014-06-16,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:03):  My question is to the Prime Minister. In light of the Prime Minister's recent visit to the United States and his comments about Iraq, can the Prime Minister provide an update to the House about the situation in Iraq?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Abbott, Tony, MP",LP,2014-06-16,"
+
+
+
+Mr ABBOTT
+ (Warringah—Prime Minister) (14:04):  I do thank the Leader of the Opposition for his question. There is a serious and deteriorating situation in Iraq. A radical Islamist group—a group so extreme that it is a splinter group from al-Qaeda—originating in Syria, has now made major advances across wide swathes of Iraq.
+
+
+This is a very concerning development. It seems that this group has proceeded through Iraq with maximum violence and terror to the civilian population and has behaved with extraordinary brutality towards surrendering Iraqi soldiers and policemen. There are reports that the Iraqi security forces have rallied somewhat, but at the moment those reports are sketchy.
+
+
+This is a very, very concerning situation. As things stand, it is a humanitarian disaster for the people of those sections of Iraq which have now fallen under the control of this group. Should the control of this group be consolidated we are faced with the situation of a terrorist state—a terrorist state with considerable sway over parts of a quite sophisticated country. It is not only a humanitarian disaster for the people of those sections of Iraq but also a security disaster for the Middle East and for the wider world.
+
+
+As you would expect, there was discussion between myself, and members of my party, and senior figures in the United States. It is, as you would expect, the sort of thing that is natural between two very, very close allies. The United States is weighing its options. It is considering the situation, and consultations between Australia and the United States will continue. This is a serious situation. No-one should underestimate the difficulty that this development poses to the people of Iraq, to the people of the Middle East and ultimately to the people of the whole world.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Iraq</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
+"Hall, Jill, MP",ALP,2014-06-16,"
+
+
+
+Ms HALL
+ (Shortland—Opposition Whip) (14:36):  My question is to the Prime Minister. Can the Prime Minister explain why he and the Treasurer believe it is fair to axe the seniors supplement and rip more than $800 from the pockets of around 300,000 Australian seniors whilst at the same time giving $50,000 to wealthy Australians to have a baby?
+
+
+
+Honourable members interjecting—
+
+
+
+The SPEAKER:  There is too much noise on my right as well. The opposition has asked its question: I expect silence for the answer.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Pensions and Benefits</title>,QUESTIONS WITHOUT NOTICE,10,1,question
+"Abbott, Tony, MP",LP,2014-06-16,"
+
+
+
+Mr ABBOTT
+ (Warringah—Prime Minister) (14:37):  I can only assume that should the current opposition ever come back into government that they would change the public service rules to prevent public servants from being paid at their wage when they take paid parental leave.
+
+
+The only conclusion we can draw from the repeated attacks by the opposition on the government's policy to ensure that the rest of the population get the same benefits that public servants get is that they want to take these benefits away from public servants. That is the only conclusion that can be drawn.
+
+
+This government's position is absolutely crystal clear: if it is right for public servants to go on paid parental leave at their wage, it is right for the workers of Australia to go on paid parental leave at their wage. And as for pensioners: if the member were fair dinkum about looking after pensioners she would vote to abolish the carbon tax. That is what she would do! If members opposite were fair dinkum about helping the families, the pensioners and the households of Australia they would do what they said they would do before the election and terminate the carbon tax.
+
+
+Of course, they love the carbon tax. They love the fact that the households of Australia are $550 a year worse off as a result of their carbon tax. This government will save the people of Australia from this carbon tax and deliver $550 a year that the people of Australia absolutely deserve.
+
+
+
+Opposition members interjecting—
+
+
+
+The SPEAKER:  We will have silence on my left, including the member for Wakefield!
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Pensions and Benefits</title>,QUESTIONS WITHOUT NOTICE,10,1,answer
 "Bishop, Bronwyn, MP",LP,2014-06-16,"
 
 
@@ -1379,7 +1445,7 @@ The SPEAKER
 
 Ordered that the reports be made parliamentary papers. 
 
-",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Reports Nos 37 to 40 of 2013-14</title>,AUDITOR-GENERAL'S REPORTS,11,1
+",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Reports Nos 37 to 40 of 2013-14</title>,AUDITOR-GENERAL'S REPORTS,11,1,speech
 "Bishop, Bronwyn, MP",LP,2014-06-16,"
 
 
@@ -1405,7 +1471,7 @@ That this Parliament acknowledges the opportunity to further lower the cost of l
 
 Further, that the Speaker, on behalf of the Legislative Assembly, relay this request to both houses of the Commonwealth Parliament.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,"<title>Resolution of the Legislative Assembly of Queensland, Cost of Living</title>",STATEMENT BY THE SPEAKER,12,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,"<title>Resolution of the Legislative Assembly of Queensland, Cost of Living</title>",STATEMENT BY THE SPEAKER,12,1,speech
 "Butler, Terri, MP",ALP,2014-06-16,"
 
 
@@ -1491,7 +1557,7 @@ As I have said, the Newman government has made a point of saying that the touris
 
 The state environment minister has said that the concerns about dredging and dumping are really coming from green groups, but that is obviously not the case, given that UNESCO itself has in its draft decision specifically raised the concern about dredging and dumping. It is crystal clear that the last thing this parliament should be doing is facilitating the delegation of power to state governments.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1,speech
 "Christensen, George, MP",Nats,2014-06-16,"
 
 
@@ -1523,7 +1589,7 @@ At the same time, it is going out there now—and I see the shadow environment m
 
 If this system had been in place I am sure that right now we would not be dealing with court cases against the major job-creating project at Abbot Point that so many people in my community desperately want to see go ahead. The little town of Bowen is on its knees. It is nearly dead. There are so many businesses that have had to shut down. People have gone out the back door and are shifting, because there is no movement in the economy. They are all waiting for this Abbot Point expansion to go ahead. If this system had been in place a number of years ago, we would not be talking about it in court, the jobs would be created, the jobs would be there, that town would be pumping again and the economy would be restored. Abbot Point would be going ahead with all of the environmental safeguards in place, because it would have been through an assessment process that had looked at both the state guidelines and the federal guidelines and made sure that the project complied with both of them. That is what we are talking about. It is not something radical. It is not something that is going to harm the environment. It is something that is simply going to get rid of the useless green-tape and time-consuming approach that we currently have with environmental assessment in Australia. I would say to the opposition: listen to the Productivity Commission. You asked them for an answer. They gave you one. Support this bill.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1,speech
 "Elliot, Justine, MP",ALP,2014-06-16,"
 
 
@@ -1594,7 +1660,7 @@ I believe the federal government ultimately has a responsibility to protect Aust
 
 It is for these reasons that I do not support this bill. I think the consequences could be dire. People in my electorate have certainly raised with me the fact that they do not want this to happen. They do not want those powers delegated, particularly to our state governments, but also to our councils. I think it is wrong that this government has taken this plan of action. I think it will be devastating for our environment, and the repercussions will be very widespread.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1,speech
 "Coulton, Mark, MP",Nats,2014-06-16,"
 
 
@@ -1629,7 +1695,7 @@ Under this legislation there will be greater transparency about decisions being 
 
 I have said many times that further environmental legislation that interferes with agricultural practices is not in the best interests of the farmers in my region. And I will close on that point. There is information going around regional Australia at the moment that is designed to misinform and scare farmers with regard to their relationship with extractive industrie. It is important to note that, thanks to this legislation and the work of my colleagues in New South Wales, we now have strong environmental legislation that protects our environment. But the only result that the groups that are driving this will be happy with will be the complete removal of extractive industries. And you have to remember: in New South Wales, if you go back to the Hansard in New South Wales and look at speeches made by the Greens back in the late 1990s and early 2000s, it was the Greens who were advocating for coal seam gas industries as a clean alternative to coal. And Bob Carr complied, with the help of Bob Devis, to make those changes. That is history. We now have to deal with the situation that Labor has placed us in, and this legislation will strengthen our environmental oversights but also reduce the strangling green tape that many people in Australia deal with on a daily basis.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1,speech
 "Zappia, Tony, MP",ALP,2014-06-16,"
 
 
@@ -1682,7 +1748,7 @@ I will close on this note: the environment, and the biodiversity within it, sust
 
 The EPBC Act is the instrument by which the federal government exercises its environmental responsibilities. The EPBC Act is the Australian government's principal piece of environmental legislation. It is designed to protect the national environmental assets of this country. To delegate powers from within that act, when it was specifically designed to put those powers into the hands of the federal government, is irresponsible indeed. 
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1,speech
 "Varvaris, Nickolas, MP",LP,2014-06-16,"
 
 
@@ -1735,7 +1801,7 @@ The coalition has taken an important major step in reform through the reduction 
 
 The Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill will deliver better standards, faster processes and streamlined regulation, which are all part of the coalition's commitment to a wider environmental regulatory reform policy agenda and our key audit of existing environmental regulation.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1,speech
 "Claydon, Sharon, MP",ALP,2014-06-16,"
 
 
@@ -1779,7 +1845,7 @@ Labor opposes this bill because we believe the national government is responsibl
 
 The Abbott government has no interest in protecting Australia's environment for the future. We have seen this through the Prime Minister claiming, 'We have quite enough national parks' in relation to the Tasmanian forests and, when elected, one of the first things this government did was approve dredging in the Great Barrier Reef, a decision that I note is currently subject to much discussion at the UNESCO World Heritage committee that is meeting as we speak in Doha. I note that that committee took particular note of the decision about dredging in the Great Barrier Reef, suggesting that it was certainly very premature and should have waited for the outcomes and findings of their investigations. Since coming to government the Prime Minister and the Minister for Environment have made bad decision upon bad decision about our environment, but this is the furthest they have gone in terms of putting our environment at risk of irreparable damage by leaving decisions of national environmental significance to the state premiers.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1,speech
 "Wyatt, Ken, MP",LP,2014-06-16,"
 
 
@@ -1826,7 +1892,7 @@ I am proud to support this bill and look forward to working with the Minister fo
 
 I would also say that there are another set of eyes that need to be focused on the environment, those of all of us in this chamber. We have a role as members of our electorates in representing constituents to ensure that we also are advocates within that process to protect those environmental areas that are important to the people who live within our electorates, who live within the state or, more importantly, who live within this nation. The environment is something that, once lost, cannot be regained in its pristine form, and certainly there is an impact when man does not follow a process that considers the interrelationship between development and that of the environment.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1,speech
 "Perrett, Graham, MP",ALP,2014-06-16,"
 
 
@@ -1906,7 +1972,7 @@ Mr PERRETT:
 
 The reality is the environmental protection legislation before the chamber does not protect the environment. It undermines the very piece of legislation that John Howard and other environment ministers were proud of. I can speak with some authority about what goes on in Queensland, and the reality is we do not have a state that is effective when it comes to policing its own environmental laws. It has no chance of making the right decision when it is bound to the profits from royalties from the mining industry.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1,speech
 "Marino, Nola, MP",LP,2014-06-16,"
 
 
@@ -1947,7 +2013,7 @@ However, the experts on the western ringtail possum and Carnaby's black cockatoo
 
 As I said, this is certainly a step in the right direction for harmonisation to reduce the levels of complexity, the cost, the frustration and the lack of certainty that exists across the country. 
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1,speech
 "Jones, Ewen, MP",LP,2014-06-16,"
 
 
@@ -1964,7 +2030,7 @@ These guys were held up by the federal end of the legislation for over 12 years,
 
 We have cause for concern when we do not have the right people in the right jobs. A uranium mine is being discussed around Townsville. We have to make sure that it is still going to be looked at and that it is going to be taken very seriously. It still has to pass federal legislation; it is just that it is a one-stop shop. That is what members opposite seem not to understand. I was holding the fort, so I thank the House.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1,speech
 "Snowdon, Warren, MP",ALP,2014-06-16,"
 
 
@@ -2002,7 +2068,7 @@ We in this place have a right to be concerned. If the current government wants t
 
 A number of people have been arguing that the Northern Territory government should have a dam on the Daly River. We know that when the Northern Territory Chief Minister was asked about such a dam, he did not have a response which was anywhere near appropriate. We need to understand that if we are to look after, in this case, the fragile environments of Northern Australia, we need to be very careful about the responsibilities we give to state and territory governments to act on our behalf. The current Northern Territory government and previous CLP governments have shown that they have acted irresponsibly—not in the best interests of the environment but in their own political interests; and not in the best interests of either the Northern Territory community and its people or the Australian nation. So I question very seriously the proposals that are now before us in this bill—particularly that element that, ostensibly, allows the Northern Territory minister to take political considerations into account in any decisions which are made.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1,speech
 "Parke, Melissa, MP",ALP,2014-06-16,"
 
 
@@ -2040,7 +2106,7 @@ On that point, I want to recognise the enormous community engagement in the Plac
 
 The national government rightly has a specific role in assessing development proposals whose potential impacts include matters of national importance or relate to conservation outcomes that are guaranteed by international agreements. The national government is rightly placed to determine proposals which, in many cases, involve clear conflicts of interest for the states and territories, whose revenue is dependent on development royalties. The provision of consistent, high-level and high-standard environmental protection and biodiversity conservation is the responsibility of the Australian federal government, and the proposed slashing of the protections that have served such a valuable purpose is irresponsible and will likely have consequences that we, our children and their children may well seriously regret.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1,speech
 "Thomson, Kelvin, MP",ALP,2014-06-16,"
 
 
@@ -2117,7 +2183,7 @@ Big business has never been so directly influential with government, and senses 
 
 I urge the House to reject this legislation.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1,speech
 "Hall, Jill, MP",ALP,2014-06-16,"
 
 
@@ -2185,7 +2251,7 @@ Going back to the Great Barrier Reef, increased attention is needed to complete 
 
 This government and this Minister for the Environment will go down in history as environmental vandals. They are abrogating any responsibility they have to preserve threatened species and they are abrogating any responsibilities that they have to our environment. They stand condemned and future generations of Australians will judge them accordingly.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1,speech
 "Giles, Andrew, MP",ALP,2014-06-16,"
 
 
@@ -2310,7 +2376,7 @@ I agree with the Australian Network of Environmental Defenders Offices that a re
 
 Going back to the challenge that we should be facing, our environmental management challenge of the 21st century: streamlining can and should be a part of this where we are certain we have the balance right between removing barriers to economic growth and protecting our natural environment. I emphasise the words 'where we are certain', because all too often there will not be a second chance to get things right. Now is the time to carefully consider the evidence, not to reflexively lower environmental standards and roll back protections.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1,speech
 "Hunt, Greg, MP",LP,2014-06-16,"
 
 
@@ -2363,7 +2429,7 @@ Mr Broadbent
 
 Debate adjourned. 
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Bilateral Agreement Implementation) Bill 2014</title>,BILLS,14,1,speech
 "Hartsuyker, Luke, MP",Nats,2014-06-16,"
 
 
@@ -2398,7 +2464,7 @@ Mr Broadbent
 
 Question agreed to. 
 
-",HoR,<title>BILLS</title>,<title>Consideration of Senate Message</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Consideration of Senate Message</title>,BILLS,14,2,speech
 "Morrison, Scott, MP",LP,2014-06-16,"
 
 
@@ -2412,7 +2478,7 @@ I just wanted to say that when things of this nature happen it is obviously a fr
 
 These matters will go through the courts as they will in a free country. But I just want to tell every one of those men and women who serve in our Border Protection Command, whether that is at sea or in other places, that they have the respect of the government and, I am quite sure, the respect of the opposition as well. This event occurred under the time of the previous government. I know that the then ministers—I have no doubt—would join me in supporting the good work of our people in the Australian Customs and Border Protection Service and the Australian Navy who form part of Border Protection Command.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Asylum Seekers</title>,MINISTERIAL STATEMENTS,15,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Asylum Seekers</title>,MINISTERIAL STATEMENTS,15,1,speech
 "Morrison, Scott, MP",LP,2014-06-16,"
 
 
@@ -2446,7 +2512,7 @@ Question agreed to, Ms McGowan, Mr Bandt and Mr Wilkie voting no.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Migration Legislation Amendment Bill (No. 1) 2014</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Migration Legislation Amendment Bill (No. 1) 2014</title>,BILLS,16,1,speech
 "Morrison, Scott, MP",LP,2014-06-16,"
 
 
@@ -2463,7 +2529,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Migration Legislation Amendment Bill (No. 1) 2014</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Migration Legislation Amendment Bill (No. 1) 2014</title>,BILLS,16,1,speech
 "Morrison, Scott, MP",LP,2014-06-16,"
 
 
@@ -2497,7 +2563,7 @@ Question agreed to, Ms McGowan, Mr Bandt and Mr Wilkie voting no.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "Giles, Andrew, MP",ALP,2014-06-16,"
 
 
@@ -2541,7 +2607,7 @@ The coalition has perversely made the case that government matters by demanding 
 
 For young people who find themselves locked out of opportunities to build a good life by the coalition's cuts, the impact on their self-respect and dignity is an individual tragedy. But for government and those who believe there is a role for hope in politics and public life it is a calamity and a ticking time bomb that undermines the faith in democracy which we rely on. The Treasurer claims that equality does not matter and that the role of government is to bring people to the 'starting line', but this budget prevents people from even being in the running.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Budget</title>,ADJOURNMENT,17,1
+",HoR,<title>ADJOURNMENT</title>,<title>Budget</title>,ADJOURNMENT,17,1,speech
 "Conroy, Pat, MP",ALP,2014-06-16,"
 
 
@@ -2597,7 +2663,7 @@ These residents are right to expect decent television reception. Television prov
 
 I call on the minister to assist me in finding an adequate solution to this reception issue and restore the quality of television reception that residents of the Morisset peninsula enjoyed before the analog signal was switched off last year. I ask the minister to direct the Australian Communications and Media Authority to investigate the matter fully and make recommendations to remedy the situation. I congratulate everyone who signed the petition, in particular Mr Kirk, who was the principal petitioner. I note that the minister has worked closely with my colleague in the Hunter, the member for Paterson, on similar reception issues and I hope his enthusiasm to fix the problem in Morisset will be equally forthcoming.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Petition: Telecommunications</title>,CONSTITUENCY STATEMENTS,19,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Petition: Telecommunications</title>,CONSTITUENCY STATEMENTS,19,1,speech
 "Collins, Julie, MP",ALP,2014-06-16,"
 
 
@@ -2672,7 +2738,7 @@ The DEPUTY SPEAKER:  Is there a seconder for the motion?
 Ms Hall:
   I second the motion.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Budget</title>,PRIVATE MEMBERS' BUSINESS,20,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Budget</title>,PRIVATE MEMBERS' BUSINESS,20,1,speech
 "Sudmalis, Ann, MP",LP,2014-06-16,"
 
 
@@ -2698,7 +2764,7 @@ This motion before the House talks about the government's budget priorities. I c
 
 Those on the other side indicate cuts to education—but if there is a net increase each year, that is not a cut. With an extra 80,000 places at university, that is not a cut. With a chance to study for an associate diploma or diploma—not just a degree—that is enhancing our tertiary opportunities for regional students, not cutting them. Labor does not get it. Our youths, our regional people, do not want their grandchildren to be burdened with debt. This budget provides a vision for a debt-free future. I have yet to hear a whisper of a plan from those on the other side.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Budget</title>,PRIVATE MEMBERS' BUSINESS,20,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Budget</title>,PRIVATE MEMBERS' BUSINESS,20,1,speech
 "Jones, Stephen, MP",ALP,2014-06-16,"
 
 
@@ -2738,7 +2804,7 @@ We know that the cuts to hospital funds are going to have a devastating impact o
 
 If the Nationals are going to stand up for regional Australia, they could start by speaking out on the devastating impact that the GP tax, the hospital cuts, the TAFE cuts and the cuts to local governments—the myriad devastating cuts—are going to have on people in regional Australia. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Budget</title>,PRIVATE MEMBERS' BUSINESS,20,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Budget</title>,PRIVATE MEMBERS' BUSINESS,20,1,speech
 "Pasin, Tony, MP",LP,2014-06-16,"
 
 
@@ -2785,7 +2851,7 @@ Mr PASIN:
 
 The reality is that we were forced to make these tough but fair calls because the Labor Party forced us to do it. Imagine if we had not wasted money on pink batts and overpriced school halls. We could have actually delivered the kind of infrastructure regional Australia needs to deliver its product to the market. In this Asian century it will be agriculture and regional Australia that drive us out of it. Quite thankfully, I am glad that it will not be the Labor Party leading this country over the next three years.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Budget</title>,PRIVATE MEMBERS' BUSINESS,20,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Budget</title>,PRIVATE MEMBERS' BUSINESS,20,1,speech
 "Chesters, Lisa, MP",ALP,2014-06-16,"
 
 
@@ -2815,7 +2881,7 @@ Federal government should do its bit to support regional councils and they have 
 
 Fuel excise: nobody on the other side has even touched the fuel excise issue. Forty cents in every litre is to go to the government. If only 40 per cent in every litre in Bendigo went into Bendigo roads, maybe then we would not be so upset about the fuel excise increasing. They say that this is important because this is what is needed to fix our roads, but if only every cent went into regional roads. Where are the Nats when it comes to regional Australia? Where is the impact statement? Why did they tear it up and why are they hiding it? Why are they so afraid to tell regional Australia how bad this budget is for regional Victoria? (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Budget</title>,PRIVATE MEMBERS' BUSINESS,20,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Budget</title>,PRIVATE MEMBERS' BUSINESS,20,1,speech
 "Christensen, George, MP",Nats,2014-06-16,"
 
 
@@ -2838,7 +2904,7 @@ But if we want to talk about what the government is doing for regional Australia
 
 Debate adjourned. 
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Budget</title>,PRIVATE MEMBERS' BUSINESS,20,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Budget</title>,PRIVATE MEMBERS' BUSINESS,20,1,speech
 "Simpkins, Luke, MP",LP,2014-06-16,"
 
 
@@ -2909,7 +2975,7 @@ I know that the EU is providing coordinated assistance through the EU Civil Prot
 
 To conclude, I express my condolences to the families and friends of those who have suffered greatly in these floods. I also express my gratitude for the great efforts of the diasporas in Australia and the ongoing support of the Australian government. Just to conclude, I have had the good fortune to have visited Serbia twice, in 1985 and also last year. Also, I visited Sarajevo, the capital of Bosnia, last year. These countries have suffered greatly through the wars that have afflicted them in recent decades. It is such a tragedy to see the heartache that the natural disaster, on this occasion, revisited on those countries. It is good that they are well supported by their diasporas in Australia. I congratulate them on those efforts.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Floods in Bosnia-Herzegovina, Serbia and Croatia</title>",PRIVATE MEMBERS' BUSINESS,21,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Floods in Bosnia-Herzegovina, Serbia and Croatia</title>",PRIVATE MEMBERS' BUSINESS,21,1,speech
 "Hayes, Chris, MP",ALP,2014-06-16,"
 
 
@@ -2935,7 +3001,7 @@ While individuals and communities across Australia and around the world have com
 
 Australia has had its fair share of natural disasters. We know how difficult it is to deal with natural disasters—both during them and in the aftermath. Australia is a wealthy country and, more importantly, we are a nation with considerable experience in disaster relief efforts, as well as engineering flood mitigation measures to protect affected communities. We should not be turning our backs on these countries affected by an unprecedented natural disaster. We are a wealthy country. We are a country that cares and we should always remember the roles that Serbians, Bosnians and the Croatians have played in contributing to the modern face of Australia. 
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Floods in Bosnia-Herzegovina, Serbia and Croatia</title>",PRIVATE MEMBERS' BUSINESS,21,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Floods in Bosnia-Herzegovina, Serbia and Croatia</title>",PRIVATE MEMBERS' BUSINESS,21,1,speech
 "Nikolic, Andrew, MP",LP,2014-06-16,"
 
 
@@ -2964,7 +3030,7 @@ Australia continues to monitor the situation closely through our partners, inclu
 
 Let me conclude with a message for those in flood affected areas. U Srbiji I regionu Balkana, su od poplava stradali ljudi isti kao svi mi. Izgubili su u katastrofalnim poplavama sve sto su generacijama stvarali. Tim ljudima je potrebna nasa pomoc. Ja iskreno verujem u humanost i solidarnost. Zemlja u kojoj sam roden—neophodna je nasa pomoc.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Floods in Bosnia-Herzegovina, Serbia and Croatia</title>",PRIVATE MEMBERS' BUSINESS,21,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Floods in Bosnia-Herzegovina, Serbia and Croatia</title>",PRIVATE MEMBERS' BUSINESS,21,1,speech
 "Byrne, Anthony, MP",ALP,2014-06-16,"
 
 
@@ -2993,7 +3059,7 @@ I would like to welcome the international attention, but obviously we need to ke
 
 Debate adjourned.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Floods in Bosnia-Herzegovina, Serbia and Croatia</title>",PRIVATE MEMBERS' BUSINESS,21,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Floods in Bosnia-Herzegovina, Serbia and Croatia</title>",PRIVATE MEMBERS' BUSINESS,21,1,speech
 "Griggs, Natasha, MP",CLP,2014-06-16,"
 
 
@@ -3004,7 +3070,7 @@ Mrs GRIGGS
 
 The budget also honours my election commitments, including $300,000 for CCTV cameras, $1.5 million for the Jingili BMX track, nearly $100,000 for Warren Park, and more money for other community projects. That is on top of $40 million for the Palmerston hospital. All up there is $110 million for the Palmerston hospital. The federal Labor government made lots of promises around the Palmerston hospital, but they never actually handed over any money. When Labor was in government, it spent money like it was going out of fashion. The truth is that the budget is in a mess and it needs to be fixed. Interest payments of a billion dollars a month is proof of that. (Time expired)
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Budget</title>,STATEMENTS BY MEMBERS,22,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Budget</title>,STATEMENTS BY MEMBERS,22,1,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -3030,7 +3096,7 @@ Because the government is committed to ensuring that those opportunities extend 
 
 In this budget we also announced two new arts funding initiatives. Importantly, these measures have also had a positive impact on the budget bottom line. The key measures that we are doing to contribute to budget stability are the amalgamation of key Commonwealth merits review tribunals. This will make it easier to navigate the merits review system by providing an accessible one-stop shop for external merits review. I am happy to go into that at a later stage.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Butler, Terri, MP",ALP,2014-06-16,"
 
 
@@ -3068,7 +3134,7 @@ Are you aware, Minister, of the comment from the community legal centres' nation
 
 Is the minister aware that an independent economic cost-benefit analysis of community legal centres published by the NACLC found that, on average, community legal centres have a cost-benefit ratio of one to 18—that is, for every dollar spent by government on funding CLCs, these services return a benefit to society that is 18 times the cost. To express it in dollar terms, the $47 million spent on the CLC program nationally in 2010 would yield around $846 million in benefit to Australia. Why would the government cut services which provide such benefits to this country? Thank you.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -3082,7 +3148,7 @@ Can I say in the first instance that we are very committed to making sure that v
 
 I appreciate that there were a whole series of very detailed questions in the five minutes that the member for Griffith used. I will endeavour to get her the most sensible responses to some of those questions, if she could just accept my response in general terms for what we are doing in the future, pending the review that the Productivity Commission is undertaking.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "O'Dwyer, Kelly, MP",LP,2014-06-16,"
 
 
@@ -3096,7 +3162,7 @@ I hate to say it, but even in a great country like Australia there are people wh
 
 The question I have for the minister is: obviously, students have the right to feel safe at school. Parents want to know that when they send their students to school that they are going to be safe, and teachers need to be safe in their workplace. Can the minister explain what the Australian government is doing to secure the safety of students at schools like King David—for example, I know that we made a commitment to the Secure Schools Program—the reasons behind that commitment and how that commitment has in fact extended beyond the previous commitment that we provided as a coalition government when we first got elected in 1996?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -3119,7 +3185,7 @@ I am about to write to state and territory education ministers and the Independe
 
 Because the member for Higgins was kind enough to ask that question, I will note that the King David School has already been a successful recipient of funding in previous rounds—almost $1 million under three grants went to the King David School—and I appreciate the contribution that that school does make to her electorate. I look forward to working with Jewish schools but also with other independent schools in being able to announce the successful recipients of the funding program in the 2014-15 financial year.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Byrne, Anthony, MP",ALP,2014-06-16,"
 
 
@@ -3127,7 +3193,7 @@ Because the member for Higgins was kind enough to ask that question, I will note
 Mr BYRNE
  (Holt) (17:05):  As far as details go, from the minister representing the Attorney-General's speech, first off I would like to ask him a question that relates to the Attorney-General's portfolio. I was chair of a committee that brought down a finding with respect to data retention. It was a component of the national security legislation. It was a reform that was countenanced in three tranches. We tabled this report in the last sitting week of the 43rd Parliament. I am led to understand that the Attorney-General's Department is looking at the various tranches of legislation as we speak. So my question is to the minister representing the Attorney-General. Could he please tell me whether or not they are going to introduce any legislation pertaining to data retention in the life of this parliament?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -3138,7 +3204,7 @@ Mr KEENAN
 
 It is very important that we have a regime in Australia which complements our national security and also helps our criminal justice agencies to do their job. I appreciate that, in the environment in which we live at the moment, there is a lot of myth and concern about this idea that somehow the state might be snooping on people. Everything we do in the law and order area and in the national security area when it comes to data retention and communications is to make the Australian people safer, and that is the absolute and primary objective that we will have in responding to his committee's recommendations. We need to look at these things sensibly. What we are doing is important for community safety. I will not pre-empt that response to the committee, and I am not actually privy to that response in totality yet, but we do take the committee's recommendations seriously and we do take the safety of the Australian people seriously.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Pasin, Tony, MP",LP,2014-06-16,"
 
 
@@ -3149,7 +3215,7 @@ Mr PASIN
 
 I will give some further detail. The Eden Valley fire ignited just after midday on Friday, 17 January. It burnt through almost 25,000 hectares and was not declared as contained until Monday, 20 January, much to the relief of those on the front line and the personnel involved in managing the incident in the fire-affected communities. Just after 5.30 on 17 January, a lightning strike ignited a fire within the Ngarkat Conservation Park, burning some 90,000 hectares. A fire also ignited near Rockleigh, on the Murraylands, just after 3 pm on 14 January. This is the third time communities in the area have been threatened by fire within 12 months. More than 80 CFS firefighters responded. Just after 6 pm, on 14 January, fires ignited in the Margaret Dowling camp site, at Billiat, Katarapko and Kringin, with additional lightning following in the next few days, sparking the Calperum fire, exposing the community of Cooltong to significant danger. My question to the minister is this: given, Minister, what you have just heard about how my local community was so seriously affected by bushfires between December last year and January this year, what budget measures will help us better prepare our communities for bushfire events in the future?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -3169,7 +3235,7 @@ These are just two of the many investments we are making to better prepare the n
 
 I thank the member for Barker for this question. The way the Commonwealth government responds to natural disaster is very important. It costs the Australian taxpayer hundreds of millions, if not billions, of dollars, depending on how bad any particular disaster season is. This Productivity Commission inquiry is very timely. We will take the recommendations, which I expect to receive by the end of the year, very seriously, and we will look to implement them to make sure the enormous investment the Australian taxpayer is making in making sure Australian communities respond to natural disaster is spent in the most effective possible way. We will take the recommendations that the Productivity Commission makes very seriously and respond appropriately as a government.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Dreyfus, Mark, MP",ALP,2014-06-16,"
 
 
@@ -3202,7 +3268,7 @@ What we are seeing from this government is a gutting of the provisions of the Ra
 
 I have a couple of questions for the Minister for Justice: when is the government going to make public the 5,700 submissions that it has received, and when is the government going to announce what it is going to do, which should be to drop its proposal on the Racial Discrimination Act?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -3261,7 +3327,7 @@ Mrs Andrews
 Mr KEENAN:
   At the moment, as the shadow minister would be aware, there has been a very considerable process of public consultation. We have received an enormous amount of submissions. The Attorney-General is currently working through those submissions and will be making some announcements about that in due course. We take the submissions that we have received very seriously—obviously we are interested in the views of the Australian community. I appreciate that the debate around this has been passionate, and there is no problem with people having a bit of passion when it comes to what are very serious issues. We will be methodically and sensibly working through the submissions that we have received, and the Attorney-General will obviously be making some announcements in due course about that.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Van Manen, Bert, MP",LP,2014-06-16,"
 
 
@@ -3272,7 +3338,7 @@ Mr VAN MANEN
 
 My question to the minister is: what decisions were made in the budget that have allowed the funding of this program through different uses of the proceeds of crime and how does this differ from decisions made by the previous Labor government?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -3292,7 +3358,7 @@ How fortuitous, the member for Swan and the member for Lindsay are also getting 
 
 I thank the member for Forde for that question. I appreciate his ongoing interest in community safety within his electorate.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Feeney, David, MP",ALP,2014-06-16,"
 
 
@@ -3324,7 +3390,7 @@ Mr KEENAN:
 Mr FEENEY:
   Mercifully, Hansard records your fine sentiments, Minister, and mercifully Hansard can shine a light on your hypocrisy. Having wandered your way through those time-wasting dorothy dixers, tell us about the selection process and tell us about how you selected those organisations before October 2013. Tell us how it is you assured that the government process would remain politically neutral?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -3406,7 +3472,7 @@ Mr Feeney:
 
 The DEPUTY SPEAKER:  The member for Batman will resume his seat! I call the member for Swan.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Irons, Steve, MP",LP,2014-06-16,"
 
 
@@ -3453,7 +3519,7 @@ As you previously mentioned, you came to my electorate recently, about 2½ weeks
 
 Based on that information, can you explain the difference between the former government's National Crime Prevention Fund and the coalition government's Safer Streets Program? Also, is it incorrect for Labor members to be saying that funding has been cut in crime prevention?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -3473,7 +3539,7 @@ Finance Portfolio
 
 Proposed expenditure $649,800,000
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Leigh, Andrew, MP",ALP,2014-06-16,"
 
 
@@ -3487,7 +3553,7 @@ If I go back to the PEFO—as we know, the PEFO is where the officials tell the 
 
 Third, can the parliamentary secretary confirm that the government's own budget documents, page 7 of the budget overview, confirm that funding to schools and hospitals will be $80 billion less than under previous arrangements? Parliamentary Secretary, is this not an $80 billion cut? Fourth, can the parliamentary secretary confirm to the House that this government's $80 billion cuts to hospitals and schools have led to a $16 billion cut to hospitals and schools in Queensland? If not, is the parliamentary secretary saying that the Queensland budget papers are misleading?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "McCormack, Michael, MP",Nats,2014-06-16,"
 
 
@@ -3507,7 +3573,7 @@ In the digital age, information technology plays a pivotal central role in how a
 
 We inherited a mess, and the shadow minister asks about health and education spending going forward. We are certainly committed to the four years of the forward estimates and we are going to actually increase what Labor would have done for both health and education in those very important portfolio areas. We did not commit to anything further beyond that. Labor made promises they knew they would never have to keep. They made those promises for the out years, years five and six, knowing full well that we had a debt and deficit crisis. They knew full well that they would not have to deliver on those promises. They made agreements in the education sphere without Western Australia, Queensland and the Northern Territory coming on board. We are a Commonwealth government; we make decisions based on good national priorities. When you do not have all states and territories signed up to a Commonwealth deal it just does not make sense.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "O'Dwyer, Kelly, MP",LP,2014-06-16,"
 
 
@@ -3524,7 +3590,7 @@ We saw under the Howard government multifactor productivity on average increase 
 
 Could the minister enlighten the House on the investments that we are going to be making in infrastructure as a result of the fact that we have made these appropriations measures? I am particularly interested in my home state of Victoria. I know that we have made a broader announcement of more than $50 billion of investment over a seven-year period, but, in Victoria, I understand that we are going to make investments of around $7.6 billion, $3 billion of which is going into the East West Link, which will have a huge impact on productivity in my home state of Victoria. I would like the minister, if he might, to also talk about the asset recycling program, which will be able leverage up the investment that we are making with the state governments so that we can ensure that we can be on a path to prosperity and growth in our country, rather than a path of ruin and debt.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "McCormack, Michael, MP",Nats,2014-06-16,"
 
 
@@ -3547,7 +3613,7 @@ As the member for Higgins pointed out, the trouble is that Labor spent way beyon
 
 The Minister for Immigration and Border Protection is getting on with the job of stopping the boats, which is also going to help pay down our debt, because we are not spending the amount of money on detention centres—nine of which we have closed—in processing people who arrive unauthorised on our shores. We fixed up depleted Reserve Bank reserves, another problem of Labor's. There are 96 non-enacted tax measures—more hidden costs left by Labor.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Leigh, Andrew, MP",ALP,2014-06-16,"
 
 
@@ -3573,7 +3639,7 @@ Thirdly, can the parliamentary secretary advise the House of how many public-off
 
 Fourthly, can the parliamentary secretary advise the House the amount of savings obtained through ceasing the Albury-Wodonga Development Corporation and winding up the Australian River Co. Limited? Given the proximity of this to the member's electorate, I hope he might turn his mind to answering these four very specific questions.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Buchholz, Scott, MP",LP,2014-06-16,"
 
 
@@ -3609,7 +3675,7 @@ An honourable member interjecting—
 Mr BUCHHOLZ:
   I have 21 seconds left. Everyone has to do their little bit of heavy lifting. Can the minister explain to the House how as parliamentarians—senators and members in this place—we will play our role in doing the heavy lifting? What impact do gold pass benefits for members and senators have, if the minister could explain?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "McCormack, Michael, MP",Nats,2014-06-16,"
 
 
@@ -3638,7 +3704,7 @@ The member for Fraser talked about the Albury-Wodonga Corporation. That came in 
 
 But we are not just about building up Albury-Wodonga. We are about building up regional cities, towns and villages right throughout Australia. That is why the member for Mayo in conjunction with the Deputy Prime Minister are getting out there with an infrastructure fund looking at roads, primarily, but also inland rail and a whole host of other measures which are going to make regional Australia strong again. Regional Australia was ignored under six years of Labor, but we are getting on with the job of doing the sorts of things that are going to boost productivity in those areas which grow the food and the fibre for Australians. 
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Leigh, Andrew, MP",ALP,2014-06-16,"
 
 
@@ -3664,7 +3730,7 @@ Fourth, can the parliamentary secretary advise the House of the proportion of de
 
 Fifth, can the parliamentary secretary advise the House whether the Department of Finance is undertaking a spill and fill of all positions where staff could potentially be deemed as excess similar to what is being undertaken in the Department of Communications?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Coulton, Mark, MP",Nats,2014-06-16,"
 
 
@@ -3672,7 +3738,7 @@ Fifth, can the parliamentary secretary advise the House whether the Department o
 Mr COULTON
  (Parkes—The Nationals Chief Whip) (18:17):  I would like to ask the parliamentary secretary a question: Australian taxpayers want to see their hard earned tax dollars used for public good. What is the government doing to promote a more efficient and dynamic public sector?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "McCormack, Michael, MP",Nats,2014-06-16,"
 
 
@@ -3701,7 +3767,7 @@ I need to answer the shadow minister's questions and, time permitting, I certain
 
 We have had to do some things that have not been widely accepted throughout the nation. One of them was a co-payment of $7 to visit your GP. I know the shadow minister was in favour of that, because—speaking of writing publications—he authored a publication which actually endorsed that view.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Leigh, Andrew, MP",ALP,2014-06-16,"
 
 
@@ -3727,7 +3793,7 @@ Third, can the parliamentary secretary confirm that projects to be funded out of
 
 Fourth, can the parliamentary secretary advise the House whether the government is actively considering privatisations of the following entities: Snowy Hydro Ltd, the Australian Submarine Corp., Australia Post, Moorebank Intermodal Company Ltd, COMCAR and the Australian Rail Track Corporation Ltd? The potential privatisations of these entities are of great concern to Australians, who are entitled to know whether they are under active consideration by the government.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Buchholz, Scott, MP",LP,2014-06-16,"
 
 
@@ -3744,7 +3810,7 @@ We gave a commitment to the nation that we would fix the budget. Part of tonight
 
 Most importantly, we said we would stop the boats, that we would address our border security. There are some enormous savings measures in this budget. This needs to be addressed. Scotty Morrison, the Minister for Immigration and Border Protection, has done an outstanding job. There are some fiscal benefits that will flow through with reference to the Australian Customs and Border Protection Service. There are some provisions that will come to light for the Australian Commission for Law Enforcement Integrity. Could the parliamentary secretary who is responsible enlighten us how those measures are helping the coalition provide a better future for the nation?
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "McCormack, Michael, MP",Nats,2014-06-16,"
 
 
@@ -3767,7 +3833,7 @@ The establishment of the Medical Research Future Fund will be subject to the pas
 
 The Medical Research Future Fund is the biggest international future fund of its type, and I know that this needs bipartisan support, because Labor members know of the benefit of valuable medical research. I know the health minister and certainly the Assistant Minister for Health, Senator Fiona Nash, are behind this project because it will provide valuable research into many illnesses. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Leigh, Andrew, MP",ALP,2014-06-16,"
 
 
@@ -3799,7 +3865,7 @@ Dr LEIGH:
 
 The income tax levy is just one example of that. Nearly half the revenue in the first year will be lost to a fringe benefits tax loophole. I ask the parliamentary secretary whether the government agrees with recent reports that around half the revenue from the income tax levy will be lost as high-income earners shift income into fringe benefits in order to avoid this tax.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Buchholz, Scott, MP",LP,2014-06-16,"
 
 
@@ -3813,7 +3879,7 @@ I also take the opportunity to acknowledge and thank the minister for the return
 
 In addition to that, could you touch on something in the public arena around the Lodge refurbishment. This is in Budget Paper No. 2, also on page 233. There is additional funding going to that. I acknowledge the humbleness of our Prime Minister and the dwellings that he takes up at the moment. It shows the character of the man and shows that what he advocates from a fiscal perspective he actually practices. I am sure he would be complimented by those opposite as well.
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "McCormack, Michael, MP",Nats,2014-06-16,"
 
 
@@ -3859,7 +3925,7 @@ Proposed expenditure agreed to.
 
 Debate adjourned. 
 
-",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Appropriation Bill (No. 1) 2014-2015</title>,BILLS,23,1,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -3885,7 +3951,7 @@ Because the government is committed to ensuring that those opportunities extend 
 
 In this budget we also announced two new arts funding initiatives. Importantly, these measures have also had a positive impact on the budget bottom line. The key measures that we are doing to contribute to budget stability are the amalgamation of key Commonwealth merits review tribunals. This will make it easier to navigate the merits review system by providing an accessible one-stop shop for external merits review. I am happy to go into that at a later stage.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Butler, Terri, MP",ALP,2014-06-16,"
 
 
@@ -3923,7 +3989,7 @@ Are you aware, Minister, of the comment from the community legal centres' nation
 
 Is the minister aware that an independent economic cost-benefit analysis of community legal centres published by the NACLC found that, on average, community legal centres have a cost-benefit ratio of one to 18—that is, for every dollar spent by government on funding CLCs, these services return a benefit to society that is 18 times the cost. To express it in dollar terms, the $47 million spent on the CLC program nationally in 2010 would yield around $846 million in benefit to Australia. Why would the government cut services which provide such benefits to this country? Thank you.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -3937,7 +4003,7 @@ Can I say in the first instance that we are very committed to making sure that v
 
 I appreciate that there were a whole series of very detailed questions in the five minutes that the member for Griffith used. I will endeavour to get her the most sensible responses to some of those questions, if she could just accept my response in general terms for what we are doing in the future, pending the review that the Productivity Commission is undertaking.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "O'Dwyer, Kelly, MP",LP,2014-06-16,"
 
 
@@ -3951,7 +4017,7 @@ I hate to say it, but even in a great country like Australia there are people wh
 
 The question I have for the minister is: obviously, students have the right to feel safe at school. Parents want to know that when they send their students to school that they are going to be safe, and teachers need to be safe in their workplace. Can the minister explain what the Australian government is doing to secure the safety of students at schools like King David—for example, I know that we made a commitment to the Secure Schools Program—the reasons behind that commitment and how that commitment has in fact extended beyond the previous commitment that we provided as a coalition government when we first got elected in 1996?
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -3974,7 +4040,7 @@ I am about to write to state and territory education ministers and the Independe
 
 Because the member for Higgins was kind enough to ask that question, I will note that the King David School has already been a successful recipient of funding in previous rounds—almost $1 million under three grants went to the King David School—and I appreciate the contribution that that school does make to her electorate. I look forward to working with Jewish schools but also with other independent schools in being able to announce the successful recipients of the funding program in the 2014-15 financial year.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Byrne, Anthony, MP",ALP,2014-06-16,"
 
 
@@ -3982,7 +4048,7 @@ Because the member for Higgins was kind enough to ask that question, I will note
 Mr BYRNE
  (Holt) (17:05):  As far as details go, from the minister representing the Attorney-General's speech, first off I would like to ask him a question that relates to the Attorney-General's portfolio. I was chair of a committee that brought down a finding with respect to data retention. It was a component of the national security legislation. It was a reform that was countenanced in three tranches. We tabled this report in the last sitting week of the 43rd Parliament. I am led to understand that the Attorney-General's Department is looking at the various tranches of legislation as we speak. So my question is to the minister representing the Attorney-General. Could he please tell me whether or not they are going to introduce any legislation pertaining to data retention in the life of this parliament?
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -3993,7 +4059,7 @@ Mr KEENAN
 
 It is very important that we have a regime in Australia which complements our national security and also helps our criminal justice agencies to do their job. I appreciate that, in the environment in which we live at the moment, there is a lot of myth and concern about this idea that somehow the state might be snooping on people. Everything we do in the law and order area and in the national security area when it comes to data retention and communications is to make the Australian people safer, and that is the absolute and primary objective that we will have in responding to his committee's recommendations. We need to look at these things sensibly. What we are doing is important for community safety. I will not pre-empt that response to the committee, and I am not actually privy to that response in totality yet, but we do take the committee's recommendations seriously and we do take the safety of the Australian people seriously.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Pasin, Tony, MP",LP,2014-06-16,"
 
 
@@ -4004,7 +4070,7 @@ Mr PASIN
 
 I will give some further detail. The Eden Valley fire ignited just after midday on Friday, 17 January. It burnt through almost 25,000 hectares and was not declared as contained until Monday, 20 January, much to the relief of those on the front line and the personnel involved in managing the incident in the fire-affected communities. Just after 5.30 on 17 January, a lightning strike ignited a fire within the Ngarkat Conservation Park, burning some 90,000 hectares. A fire also ignited near Rockleigh, on the Murraylands, just after 3 pm on 14 January. This is the third time communities in the area have been threatened by fire within 12 months. More than 80 CFS firefighters responded. Just after 6 pm, on 14 January, fires ignited in the Margaret Dowling camp site, at Billiat, Katarapko and Kringin, with additional lightning following in the next few days, sparking the Calperum fire, exposing the community of Cooltong to significant danger. My question to the minister is this: given, Minister, what you have just heard about how my local community was so seriously affected by bushfires between December last year and January this year, what budget measures will help us better prepare our communities for bushfire events in the future?
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -4024,7 +4090,7 @@ These are just two of the many investments we are making to better prepare the n
 
 I thank the member for Barker for this question. The way the Commonwealth government responds to natural disaster is very important. It costs the Australian taxpayer hundreds of millions, if not billions, of dollars, depending on how bad any particular disaster season is. This Productivity Commission inquiry is very timely. We will take the recommendations, which I expect to receive by the end of the year, very seriously, and we will look to implement them to make sure the enormous investment the Australian taxpayer is making in making sure Australian communities respond to natural disaster is spent in the most effective possible way. We will take the recommendations that the Productivity Commission makes very seriously and respond appropriately as a government.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Dreyfus, Mark, MP",ALP,2014-06-16,"
 
 
@@ -4057,7 +4123,7 @@ What we are seeing from this government is a gutting of the provisions of the Ra
 
 I have a couple of questions for the Minister for Justice: when is the government going to make public the 5,700 submissions that it has received, and when is the government going to announce what it is going to do, which should be to drop its proposal on the Racial Discrimination Act?
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -4116,7 +4182,7 @@ Mrs Andrews
 Mr KEENAN:
   At the moment, as the shadow minister would be aware, there has been a very considerable process of public consultation. We have received an enormous amount of submissions. The Attorney-General is currently working through those submissions and will be making some announcements about that in due course. We take the submissions that we have received very seriously—obviously we are interested in the views of the Australian community. I appreciate that the debate around this has been passionate, and there is no problem with people having a bit of passion when it comes to what are very serious issues. We will be methodically and sensibly working through the submissions that we have received, and the Attorney-General will obviously be making some announcements in due course about that.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Van Manen, Bert, MP",LP,2014-06-16,"
 
 
@@ -4127,7 +4193,7 @@ Mr VAN MANEN
 
 My question to the minister is: what decisions were made in the budget that have allowed the funding of this program through different uses of the proceeds of crime and how does this differ from decisions made by the previous Labor government?
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -4147,7 +4213,7 @@ How fortuitous, the member for Swan and the member for Lindsay are also getting 
 
 I thank the member for Forde for that question. I appreciate his ongoing interest in community safety within his electorate.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Feeney, David, MP",ALP,2014-06-16,"
 
 
@@ -4179,7 +4245,7 @@ Mr KEENAN:
 Mr FEENEY:
   Mercifully, Hansard records your fine sentiments, Minister, and mercifully Hansard can shine a light on your hypocrisy. Having wandered your way through those time-wasting dorothy dixers, tell us about the selection process and tell us about how you selected those organisations before October 2013. Tell us how it is you assured that the government process would remain politically neutral?
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -4261,7 +4327,7 @@ Mr Feeney:
 
 The DEPUTY SPEAKER:  The member for Batman will resume his seat! I call the member for Swan.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Irons, Steve, MP",LP,2014-06-16,"
 
 
@@ -4308,7 +4374,7 @@ As you previously mentioned, you came to my electorate recently, about 2½ weeks
 
 Based on that information, can you explain the difference between the former government's National Crime Prevention Fund and the coalition government's Safer Streets Program? Also, is it incorrect for Labor members to be saying that funding has been cut in crime prevention?
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Keenan, Michael, MP",LP,2014-06-16,"
 
 
@@ -4328,7 +4394,7 @@ Finance Portfolio
 
 Proposed expenditure $649,800,000
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Leigh, Andrew, MP",ALP,2014-06-16,"
 
 
@@ -4342,7 +4408,7 @@ If I go back to the PEFO—as we know, the PEFO is where the officials tell the 
 
 Third, can the parliamentary secretary confirm that the government's own budget documents, page 7 of the budget overview, confirm that funding to schools and hospitals will be $80 billion less than under previous arrangements? Parliamentary Secretary, is this not an $80 billion cut? Fourth, can the parliamentary secretary confirm to the House that this government's $80 billion cuts to hospitals and schools have led to a $16 billion cut to hospitals and schools in Queensland? If not, is the parliamentary secretary saying that the Queensland budget papers are misleading?
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "McCormack, Michael, MP",Nats,2014-06-16,"
 
 
@@ -4362,7 +4428,7 @@ In the digital age, information technology plays a pivotal central role in how a
 
 We inherited a mess, and the shadow minister asks about health and education spending going forward. We are certainly committed to the four years of the forward estimates and we are going to actually increase what Labor would have done for both health and education in those very important portfolio areas. We did not commit to anything further beyond that. Labor made promises they knew they would never have to keep. They made those promises for the out years, years five and six, knowing full well that we had a debt and deficit crisis. They knew full well that they would not have to deliver on those promises. They made agreements in the education sphere without Western Australia, Queensland and the Northern Territory coming on board. We are a Commonwealth government; we make decisions based on good national priorities. When you do not have all states and territories signed up to a Commonwealth deal it just does not make sense.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "O'Dwyer, Kelly, MP",LP,2014-06-16,"
 
 
@@ -4379,7 +4445,7 @@ We saw under the Howard government multifactor productivity on average increase 
 
 Could the minister enlighten the House on the investments that we are going to be making in infrastructure as a result of the fact that we have made these appropriations measures? I am particularly interested in my home state of Victoria. I know that we have made a broader announcement of more than $50 billion of investment over a seven-year period, but, in Victoria, I understand that we are going to make investments of around $7.6 billion, $3 billion of which is going into the East West Link, which will have a huge impact on productivity in my home state of Victoria. I would like the minister, if he might, to also talk about the asset recycling program, which will be able leverage up the investment that we are making with the state governments so that we can ensure that we can be on a path to prosperity and growth in our country, rather than a path of ruin and debt.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "McCormack, Michael, MP",Nats,2014-06-16,"
 
 
@@ -4402,7 +4468,7 @@ As the member for Higgins pointed out, the trouble is that Labor spent way beyon
 
 The Minister for Immigration and Border Protection is getting on with the job of stopping the boats, which is also going to help pay down our debt, because we are not spending the amount of money on detention centres—nine of which we have closed—in processing people who arrive unauthorised on our shores. We fixed up depleted Reserve Bank reserves, another problem of Labor's. There are 96 non-enacted tax measures—more hidden costs left by Labor.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Leigh, Andrew, MP",ALP,2014-06-16,"
 
 
@@ -4428,7 +4494,7 @@ Thirdly, can the parliamentary secretary advise the House of how many public-off
 
 Fourthly, can the parliamentary secretary advise the House the amount of savings obtained through ceasing the Albury-Wodonga Development Corporation and winding up the Australian River Co. Limited? Given the proximity of this to the member's electorate, I hope he might turn his mind to answering these four very specific questions.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Buchholz, Scott, MP",LP,2014-06-16,"
 
 
@@ -4464,7 +4530,7 @@ An honourable member interjecting—
 Mr BUCHHOLZ:
   I have 21 seconds left. Everyone has to do their little bit of heavy lifting. Can the minister explain to the House how as parliamentarians—senators and members in this place—we will play our role in doing the heavy lifting? What impact do gold pass benefits for members and senators have, if the minister could explain?
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "McCormack, Michael, MP",Nats,2014-06-16,"
 
 
@@ -4493,7 +4559,7 @@ The member for Fraser talked about the Albury-Wodonga Corporation. That came in 
 
 But we are not just about building up Albury-Wodonga. We are about building up regional cities, towns and villages right throughout Australia. That is why the member for Mayo in conjunction with the Deputy Prime Minister are getting out there with an infrastructure fund looking at roads, primarily, but also inland rail and a whole host of other measures which are going to make regional Australia strong again. Regional Australia was ignored under six years of Labor, but we are getting on with the job of doing the sorts of things that are going to boost productivity in those areas which grow the food and the fibre for Australians. 
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Leigh, Andrew, MP",ALP,2014-06-16,"
 
 
@@ -4519,7 +4585,7 @@ Fourth, can the parliamentary secretary advise the House of the proportion of de
 
 Fifth, can the parliamentary secretary advise the House whether the Department of Finance is undertaking a spill and fill of all positions where staff could potentially be deemed as excess similar to what is being undertaken in the Department of Communications?
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Coulton, Mark, MP",Nats,2014-06-16,"
 
 
@@ -4527,7 +4593,7 @@ Fifth, can the parliamentary secretary advise the House whether the Department o
 Mr COULTON
  (Parkes—The Nationals Chief Whip) (18:17):  I would like to ask the parliamentary secretary a question: Australian taxpayers want to see their hard earned tax dollars used for public good. What is the government doing to promote a more efficient and dynamic public sector?
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "McCormack, Michael, MP",Nats,2014-06-16,"
 
 
@@ -4556,7 +4622,7 @@ I need to answer the shadow minister's questions and, time permitting, I certain
 
 We have had to do some things that have not been widely accepted throughout the nation. One of them was a co-payment of $7 to visit your GP. I know the shadow minister was in favour of that, because—speaking of writing publications—he authored a publication which actually endorsed that view.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Leigh, Andrew, MP",ALP,2014-06-16,"
 
 
@@ -4582,7 +4648,7 @@ Third, can the parliamentary secretary confirm that projects to be funded out of
 
 Fourth, can the parliamentary secretary advise the House whether the government is actively considering privatisations of the following entities: Snowy Hydro Ltd, the Australian Submarine Corp., Australia Post, Moorebank Intermodal Company Ltd, COMCAR and the Australian Rail Track Corporation Ltd? The potential privatisations of these entities are of great concern to Australians, who are entitled to know whether they are under active consideration by the government.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Buchholz, Scott, MP",LP,2014-06-16,"
 
 
@@ -4599,7 +4665,7 @@ We gave a commitment to the nation that we would fix the budget. Part of tonight
 
 Most importantly, we said we would stop the boats, that we would address our border security. There are some enormous savings measures in this budget. This needs to be addressed. Scotty Morrison, the Minister for Immigration and Border Protection, has done an outstanding job. There are some fiscal benefits that will flow through with reference to the Australian Customs and Border Protection Service. There are some provisions that will come to light for the Australian Commission for Law Enforcement Integrity. Could the parliamentary secretary who is responsible enlighten us how those measures are helping the coalition provide a better future for the nation?
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "McCormack, Michael, MP",Nats,2014-06-16,"
 
 
@@ -4622,7 +4688,7 @@ The establishment of the Medical Research Future Fund will be subject to the pas
 
 The Medical Research Future Fund is the biggest international future fund of its type, and I know that this needs bipartisan support, because Labor members know of the benefit of valuable medical research. I know the health minister and certainly the Assistant Minister for Health, Senator Fiona Nash, are behind this project because it will provide valuable research into many illnesses. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Leigh, Andrew, MP",ALP,2014-06-16,"
 
 
@@ -4654,7 +4720,7 @@ Dr LEIGH:
 
 The income tax levy is just one example of that. Nearly half the revenue in the first year will be lost to a fringe benefits tax loophole. I ask the parliamentary secretary whether the government agrees with recent reports that around half the revenue from the income tax levy will be lost as high-income earners shift income into fringe benefits in order to avoid this tax.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Buchholz, Scott, MP",LP,2014-06-16,"
 
 
@@ -4668,7 +4734,7 @@ I also take the opportunity to acknowledge and thank the minister for the return
 
 In addition to that, could you touch on something in the public arena around the Lodge refurbishment. This is in Budget Paper No. 2, also on page 233. There is additional funding going to that. I acknowledge the humbleness of our Prime Minister and the dwellings that he takes up at the moment. It shows the character of the man and shows that what he advocates from a fiscal perspective he actually practices. I am sure he would be complimented by those opposite as well.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "McCormack, Michael, MP",Nats,2014-06-16,"
 
 
@@ -4714,7 +4780,7 @@ Proposed expenditure agreed to.
 
 Debate adjourned. 
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,23,2,speech
 "Brodtmann, Gai, MP",ALP,2014-06-16,"
 
 
@@ -4764,7 +4830,7 @@ I thank the Defence Materiel Organisation and the ANAO for their involvement in 
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,25,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,25,1,speech
 "Brodtmann, Gai, MP",ALP,2014-06-16,"
 
 
@@ -4814,7 +4880,7 @@ I thank the Defence Materiel Organisation and the ANAO for their involvement in 
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,25,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,25,2,speech
 "Leigh, Andrew, MP",ALP,2014-06-16,"
 
 
@@ -4875,7 +4941,7 @@ Australia's biggest challenges are around innovation, around increasing literacy
 
 They have taken away from the most vulnerable to give to the most affluent. As independent NATSEM research has shown, having taken one-tenth of their income away from the poorest single parents to give to the most affluent Australians, those opposite have the gall to call it class warfare when low-income Australians complain. They do not think it is class warfare when they take money out of the pockets of the poorest single parents in order to give $50,000 to millionaires for a parental leave scheme. They do not think it is class warfare when they cut the pension in order to raise the non-concessional superannuation cap from $150,000 to $180,000. No—they only think it is class warfare when the most vulnerable Australians object to having money taken out of their pockets after a generation of rising inequality. (Time expired)
 
-",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,27,1
+",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,27,1,speech
 "Kelly, Craig, MP",LP,2014-06-16,"
 
 
@@ -4923,7 +4989,7 @@ Just imagine if future governments had to find another $30 billion on top of the
 
 Debate adjourned. 
 
-",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,27,1
+",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,27,1,speech
 "Leigh, Andrew, MP",ALP,2014-06-16,"
 
 
@@ -4984,7 +5050,7 @@ Australia's biggest challenges are around innovation, around increasing literacy
 
 They have taken away from the most vulnerable to give to the most affluent. As independent NATSEM research has shown, having taken one-tenth of their income away from the poorest single parents to give to the most affluent Australians, those opposite have the gall to call it class warfare when low-income Australians complain. They do not think it is class warfare when they take money out of the pockets of the poorest single parents in order to give $50,000 to millionaires for a parental leave scheme. They do not think it is class warfare when they cut the pension in order to raise the non-concessional superannuation cap from $150,000 to $180,000. No—they only think it is class warfare when the most vulnerable Australians object to having money taken out of their pockets after a generation of rising inequality. (Time expired)
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,27,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,27,2,speech
 "Kelly, Craig, MP",LP,2014-06-16,"
 
 
@@ -5032,7 +5098,7 @@ Just imagine if future governments had to find another $30 billion on top of the
 
 Debate adjourned. 
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,27,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,27,2,speech
 "King, Catherine, MP",ALP,2014-06-16,"
 
 
@@ -5115,4 +5181,44 @@ What does a $7 tax mean for patients and families? It means that, for a parent w
 
 In the concluding minutes I have allotted to me, I also want to briefly talk about the government's record in relation to prevention. Millions of dollars have been taken out of—just terminated—the National Partnership Agreement on Preventive Health. We have seen the abolition of the Preventative Health Agency. We have seen $3 million taken out of the National Tobacco Campaign. We have seen members flirting in the media about the repeal of plain-packaging legislation. This government has absolutely abandoned prevention. We have slashing of primary care, slashing of public hospitals and ending of commitment to prevention. Where is this government's health policy? It does not have one. (Time expired)
 
-",HoR,<title>GRIEVANCE DEBATE</title>,<title>Health Funding</title>,GRIEVANCE DEBATE,28,1
+",HoR,<title>GRIEVANCE DEBATE</title>,<title>Health Funding</title>,GRIEVANCE DEBATE,28,1,speech
+"MacTiernan, Alannah, MP",ALP,2014-06-16,"
+
+
+
+Ms MacTiernan
+  asked the Minister for Infrastructure and Regional Development, in writing, on 24 February 2014:
+
+
+(1) Can he confirm that the Pilbara Integrated Power Solution was submitted by the Western Australian Government in 2008 to Infrastructure Australia for consideration; if so, was this submission subsequently withdrawn by the Western Australian Government; if so, on what date was it withdrawn. 
+
+
+(2) Can he confirm that an application in respect of the same project was lodged by a private sector entity; if so, (a) what action was taken, and (b) what assessment was made, by Infrastructure Australia. 
+
+
+(3) Can Infrastructure Australia release all documents related to its actions and assessment taken in respect of the Pilbara Integrated Power Solution project. 
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Pilbara Region (Question No. 60)</title>,QUESTIONS IN WRITING,29,1,question
+"Truss, Warren, MP",Nats,2014-06-16,"
+
+
+
+Mr Truss:
+  The answer to the honourable member's question is as follows:
+
+
+(1) The Western Australian government has not submitted the Pilbara Integrated Power Solution project to Infrastructure Australia for assessment against the infrastructure priority list.  However, the project was included in an audit document submitted by the Western Australian Government in mid-2008.
+
+
+(2) Worley Parsons submitted the Pilbara Integrated Power Solution project to Infrastructure Australia in October 2008. 
+
+
+(3) Infrastructure Australia assessment documents in relation to the Worley Parsons submission can be found at:
+
+
+http://www.infrastructureaustralia.gov.au/publications/files/A_Report_to_the_Council_of_Australian_Governments.pdf (see 2008-09 interim infrastructure priority list at pages 68-71).
+
+
+http://www.infrastructureaustralia.gov.au/publications/files/National_Infrastructure_Priorities.pdf (see 2008-09 final infrastructure priority list at pages 10-11).
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Pilbara Region (Question No. 60)</title>,QUESTIONS IN WRITING,29,1,answer

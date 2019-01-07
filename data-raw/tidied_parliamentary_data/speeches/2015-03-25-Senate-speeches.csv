@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2015-03-25,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (09:31):  Does any senator wish to put the question on any of those motions? There being none, I will proceed.
 
-",Senate,<title>COMMITTEES</title>,"<title>Abbott Government's Budget Cuts Committee, Health Committee</title>",COMMITTEES,0,1
+",Senate,<title>COMMITTEES</title>,"<title>Abbott Government's Budget Cuts Committee, Health Committee</title>",COMMITTEES,0,1,speech
 "PRESIDENT, The",,2015-03-25,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (09:31):  Does any senator wish to put the question on any of those motions? There being none, I will proceed.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,0,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,0,2,speech
 "PRESIDENT, The",,2015-03-25,"
 
 
@@ -22,7 +22,7 @@ The PRESIDENT
 The PRESIDENT
  (09:31):  I inform the Senate that I have received a letter from Senator Lundy—which people would not be surprised about after her speech last night—resigning her place as a senator for the Australian Capital Territory. Pursuant to section 44 of the Commonwealth Electoral Act 1918, I have notified the ACT Chief Minister of the vacancy in the representation of that territory caused by the resignation. I table the letter and a copy of my letter to the ACT Chief Minister.
 
-",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Australian Capital Territory</title>,PARLIAMENTARY REPRESENTATION,1,1
+",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Australian Capital Territory</title>,PARLIAMENTARY REPRESENTATION,1,1,speech
 "Hanson-Young, Sen Sarah",AG,2015-03-25,"
 
 
@@ -44,7 +44,7 @@ Senator HANSON-YOUNG:
 
 The CHAIRMAN:  Opposition amendments, yes—if we are following the running sheet.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1,speech
 "Carr, Sen Kim",ALP,2015-03-25,"
 
 
@@ -68,7 +68,7 @@ The changes proposed in schedule 2 of the current bill are contrary to the compl
 
 The CHAIRMAN:  Just for the information of the chamber, we probably jumped a little bit ahead, but we will come back to the previous amendments. Just so everyone is aware, we are not in the order of the running sheet at the moment. Senator Carr has requested that the question be put in respect of schedule 2—that is, opposition amendment (5) on sheet 7578—and that is presently the question before the chair.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1,speech
 "Cash, Sen Michaelia",LP,2015-03-25,"
 
 
@@ -76,7 +76,7 @@ The CHAIRMAN:  Just for the information of the chamber, we probably jumped a lit
 Senator CASH
  (Western Australia—Assistant Minister for Immigration and Border Protection and Minister Assisting the Prime Minister for Women) (09:36):  I would like to thank the opposition for their constructive approach in relation to the negotiations for this piece of legislation. In terms of this particular amendment, for the record of the Hansard, the government believes that the changes it has proposed to complementary protection provisions in the Migration Act through this bill are fair, measured and appropriate, and I refer back to my summing-up speech, in which I outlined the reasons why we have taken this position. The government maintains that schedule 2 is an important part of this piece of legislation. However, the government has noted the voting intention of the majority of senators in the chamber and will not be calling for a division on the opposition amendment.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1,speech
 "Hanson-Young, Sen Sarah",AG,2015-03-25,"
 
 
@@ -112,7 +112,7 @@ Question negatived.
 
 The CHAIRMAN:  Senator Carr, given that this is a related matter, maybe you could move amendment (1) on sheet 7578 now. It is on the same matter.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1,speech
 "Carr, Sen Kim",ALP,2015-03-25,"
 
 
@@ -156,7 +156,7 @@ Senator Kim Carr:
 
 The CHAIRMAN:  And the opposition have indicated, for the chamber's information, that they will not be proceeding with amendment (4) on sheet 7578. On that page of the running sheet, what is left is amendment (5) of the Australian Greens.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1,speech
 "Hanson-Young, Sen Sarah",AG,2015-03-25,"
 
 
@@ -179,7 +179,7 @@ We need to ensure that, if new information becomes available and was not include
 
 That is why I propose Australian Greens amendment (5): because we need to make sure we are not unduly dismissing somebody's legitimate claim because we are not recognising the realities that people face fleeing persecution and then the hardships that they have had to endure while they have been here in Australia effectively on a freeze in terms of their assessment, which has forced new, subsequent information to now have a very direct impact on their ability to be safe or, indeed, to be put in further danger if they are sent home.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1,speech
 "Cash, Sen Michaelia",LP,2015-03-25,"
 
 
@@ -187,7 +187,7 @@ That is why I propose Australian Greens amendment (5): because we need to make s
 Senator CASH
  (Western Australia—Assistant Minister for Immigration and Border Protection and Minister Assisting the Prime Minister for Women) (09:44):  The government will not be supporting the Greens amendment. The amendment opposes and seeks to remove the requirement under proposed section 423A that a tribunal is to draw an inference unfavourable to the credibility of a claim or evidence unless the applicant has a reasonable explanation for not providing it before the primary decision. Together with proposed section 5AAA, the intent of proposed section 423A is to encourage the comprehensive and timely presentation of all claims and evidence in support of a protection visa application and to discourage the late presentation of claims or evidence unless the applicant has a reasonable explanation for doing so. When considering what is a reasonable explanation, tribunal members will take into account factors such as the applicant being a minor, a sufferer of torture or trauma, or a person with a mental or physical impairment. The provision is intended to facilitate a tribunal member in dealing with an application for a protection visa where new claims and evidence have been raised simply to prolong an applicant's stay in Australia rather than due to a genuine need for protection. The tribunal has procedural fairness requirements which require it to give the applicant an opportunity to explain late or new claims in evidence. I again confirm, for the benefit of the chamber, that the government has tabled additional information in the addendum to the explanatory memorandum which explains the existing requirements.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1,speech
 "Hanson-Young, Sen Sarah",AG,2015-03-25,"
 
 
@@ -199,7 +199,7 @@ Senator HANSON-YOUNG
 
 The CHAIRMAN:  The question is that item 14 of schedule 1 stand as printed.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1,speech
 "CHAIRMAN, The",,2015-03-25,"
 
 
@@ -207,7 +207,7 @@ The CHAIRMAN:  The question is that item 14 of schedule 1 stand as printed.
 The CHAIRMAN
  (09:53):  Senator Hanson-Young, your amendment (7) would have been consequential on that amendment being successful, so I take it you will not proceed with amendment (7).
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1,speech
 "Hanson-Young, Sen Sarah",AG,2015-03-25,"
 
 
@@ -312,7 +312,7 @@ Part 2—Application
 
    The amendments made by this Schedule apply in relation to an application to the Migration Review Tribunal or the Refugee Review Tribunal for review of a decision if the application is made on or after the commencement of this Schedule.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1,speech
 "Cash, Sen Michaelia",LP,2015-03-25,"
 
 
@@ -329,7 +329,7 @@ In relation to schedule 3, making the amendments apply to new arrivals means tha
 
 In relation to schedule 4, the tribunal efficiency measures, the purpose of making the amendments apply to existing applications before the tribunal is to maximise the number of applications affected by these changes, which provide increased efficiency and consistency of decision making.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1,speech
 "Hanson-Young, Sen Sarah",AG,2015-03-25,"
 
 
@@ -341,7 +341,7 @@ Senator HANSON-YOUNG
 
 The CHAIRMAN:  The question is that the amendments moved by Senator Hanson-Young be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1,speech
 "Cash, Sen Michaelia",LP,2015-03-25,"
 
 
@@ -435,7 +435,7 @@ Senator Kim Carr:
 
 The CHAIRMAN:  Thank you. I think the remaining amendments are government amendments (1) and (2) on sheet EE113.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1,speech
 "Cash, Sen Michaelia",LP,2015-03-25,"
 
 
@@ -595,7 +595,7 @@ Bill, as amended, agreed to.
 
 Bill reported with amendments; report adopted.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1,speech
 "Cash, Sen Michaelia",LP,2015-03-25,"
 
 
@@ -610,7 +610,7 @@ That this bill be now read a third time.
 
 The DEPUTY PRESIDENT:  The question is that the bill be now read a third time.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Protection and Other Measures) Bill 2014</title>,BILLS,2,1,speech
 "Hanson-Young, Sen Sarah",AG,2015-03-25,"
 
 
@@ -632,7 +632,7 @@ Senator HANSON-YOUNG:
 
 The CHAIRMAN:  Opposition amendments, yes—if we are following the running sheet.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Carr, Sen Kim",ALP,2015-03-25,"
 
 
@@ -656,7 +656,7 @@ The changes proposed in schedule 2 of the current bill are contrary to the compl
 
 The CHAIRMAN:  Just for the information of the chamber, we probably jumped a little bit ahead, but we will come back to the previous amendments. Just so everyone is aware, we are not in the order of the running sheet at the moment. Senator Carr has requested that the question be put in respect of schedule 2—that is, opposition amendment (5) on sheet 7578—and that is presently the question before the chair.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Cash, Sen Michaelia",LP,2015-03-25,"
 
 
@@ -664,7 +664,7 @@ The CHAIRMAN:  Just for the information of the chamber, we probably jumped a lit
 Senator CASH
  (Western Australia—Assistant Minister for Immigration and Border Protection and Minister Assisting the Prime Minister for Women) (09:36):  I would like to thank the opposition for their constructive approach in relation to the negotiations for this piece of legislation. In terms of this particular amendment, for the record of the Hansard, the government believes that the changes it has proposed to complementary protection provisions in the Migration Act through this bill are fair, measured and appropriate, and I refer back to my summing-up speech, in which I outlined the reasons why we have taken this position. The government maintains that schedule 2 is an important part of this piece of legislation. However, the government has noted the voting intention of the majority of senators in the chamber and will not be calling for a division on the opposition amendment.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Hanson-Young, Sen Sarah",AG,2015-03-25,"
 
 
@@ -700,7 +700,7 @@ Question negatived.
 
 The CHAIRMAN:  Senator Carr, given that this is a related matter, maybe you could move amendment (1) on sheet 7578 now. It is on the same matter.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Carr, Sen Kim",ALP,2015-03-25,"
 
 
@@ -744,7 +744,7 @@ Senator Kim Carr:
 
 The CHAIRMAN:  And the opposition have indicated, for the chamber's information, that they will not be proceeding with amendment (4) on sheet 7578. On that page of the running sheet, what is left is amendment (5) of the Australian Greens.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Hanson-Young, Sen Sarah",AG,2015-03-25,"
 
 
@@ -767,7 +767,7 @@ We need to ensure that, if new information becomes available and was not include
 
 That is why I propose Australian Greens amendment (5): because we need to make sure we are not unduly dismissing somebody's legitimate claim because we are not recognising the realities that people face fleeing persecution and then the hardships that they have had to endure while they have been here in Australia effectively on a freeze in terms of their assessment, which has forced new, subsequent information to now have a very direct impact on their ability to be safe or, indeed, to be put in further danger if they are sent home.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Cash, Sen Michaelia",LP,2015-03-25,"
 
 
@@ -775,7 +775,7 @@ That is why I propose Australian Greens amendment (5): because we need to make s
 Senator CASH
  (Western Australia—Assistant Minister for Immigration and Border Protection and Minister Assisting the Prime Minister for Women) (09:44):  The government will not be supporting the Greens amendment. The amendment opposes and seeks to remove the requirement under proposed section 423A that a tribunal is to draw an inference unfavourable to the credibility of a claim or evidence unless the applicant has a reasonable explanation for not providing it before the primary decision. Together with proposed section 5AAA, the intent of proposed section 423A is to encourage the comprehensive and timely presentation of all claims and evidence in support of a protection visa application and to discourage the late presentation of claims or evidence unless the applicant has a reasonable explanation for doing so. When considering what is a reasonable explanation, tribunal members will take into account factors such as the applicant being a minor, a sufferer of torture or trauma, or a person with a mental or physical impairment. The provision is intended to facilitate a tribunal member in dealing with an application for a protection visa where new claims and evidence have been raised simply to prolong an applicant's stay in Australia rather than due to a genuine need for protection. The tribunal has procedural fairness requirements which require it to give the applicant an opportunity to explain late or new claims in evidence. I again confirm, for the benefit of the chamber, that the government has tabled additional information in the addendum to the explanatory memorandum which explains the existing requirements.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Hanson-Young, Sen Sarah",AG,2015-03-25,"
 
 
@@ -787,7 +787,7 @@ Senator HANSON-YOUNG
 
 The CHAIRMAN:  The question is that item 14 of schedule 1 stand as printed.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "CHAIRMAN, The",,2015-03-25,"
 
 
@@ -795,7 +795,7 @@ The CHAIRMAN:  The question is that item 14 of schedule 1 stand as printed.
 The CHAIRMAN
  (09:53):  Senator Hanson-Young, your amendment (7) would have been consequential on that amendment being successful, so I take it you will not proceed with amendment (7).
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Hanson-Young, Sen Sarah",AG,2015-03-25,"
 
 
@@ -900,7 +900,7 @@ Part 2—Application
 
    The amendments made by this Schedule apply in relation to an application to the Migration Review Tribunal or the Refugee Review Tribunal for review of a decision if the application is made on or after the commencement of this Schedule.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Cash, Sen Michaelia",LP,2015-03-25,"
 
 
@@ -917,7 +917,7 @@ In relation to schedule 3, making the amendments apply to new arrivals means tha
 
 In relation to schedule 4, the tribunal efficiency measures, the purpose of making the amendments apply to existing applications before the tribunal is to maximise the number of applications affected by these changes, which provide increased efficiency and consistency of decision making.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Hanson-Young, Sen Sarah",AG,2015-03-25,"
 
 
@@ -929,7 +929,7 @@ Senator HANSON-YOUNG
 
 The CHAIRMAN:  The question is that the amendments moved by Senator Hanson-Young be agreed to.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Cash, Sen Michaelia",LP,2015-03-25,"
 
 
@@ -1023,7 +1023,7 @@ Senator Kim Carr:
 
 The CHAIRMAN:  Thank you. I think the remaining amendments are government amendments (1) and (2) on sheet EE113.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Cash, Sen Michaelia",LP,2015-03-25,"
 
 
@@ -1183,7 +1183,7 @@ Bill, as amended, agreed to.
 
 Bill reported with amendments; report adopted.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Williams, Sen John",Nats,2015-03-25,"
 
 
@@ -1269,7 +1269,212 @@ My namesake in state parliament, John Williams, lost his seat due to a redistrib
 
 To my good friend Jenny Gardner MLC: all the best to you, Jenny, after many years of good service. (Time expired)
 
-",Senate,<title>STATEMENTS BY SENATORS</title>,<title>New South Wales State Election</title>,STATEMENTS BY SENATORS,3,1
+",Senate,<title>STATEMENTS BY SENATORS</title>,<title>New South Wales State Election</title>,STATEMENTS BY SENATORS,3,1,speech
+"Conroy, Sen Stephen",ALP,2015-03-25,"
+
+
+
+Senator CONROY
+ (Victoria—Deputy Leader of the Opposition in the Senate) (14:00):  My question is to the Minister representing the Prime Minister, Senator Abetz. Will the government provide bipartisan support for Australia's Future Submarine project, our largest ever Defence procurement project, and promise to build, maintain and sustain our new submarine fleet in Australia, or is the government still set on delivering the Prime Minister's captain's pick to have our submarines built in Japan?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Conroy, Sen Stephen",ALP,2015-03-25,"
+
+
+
+Senator CONROY
+ (Victoria—Deputy Leader of the Opposition in the Senate) (14:03):  Mr President, I ask a supplementary question. Will the government provide bipartisan support for a proper competitive tender process with a funded definition study to ensure that Australia secures a future submarine fleet that meets Australia's Defence requirements at the most competitive price for taxpayers, or is the government still committed to your sham evaluation process designed only to deliver the Prime Minister's captain's pick, which your entire National Security Committee ticked off? (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Conroy, Sen Stephen",ALP,2015-03-25,"
+
+
+
+Senator CONROY
+ (Victoria—Deputy Leader of the Opposition in the Senate) (14:05):  Mr President, I ask a further supplementary question. Will the government provide bipartisan support for Sweden to join Japan, Germany and France in the procurement process so that the most capable submarine designers are all competing for the work, or is the government still committed to excluding this experienced builder so that the Prime Minister can deliver his captain's pick to Japan? It is your government that promised to build 12 submarines in Adelaide before the last election. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Abetz, Sen Eric",LP,2015-03-25,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:00):  I was surprised to learn today of the announcement by the Leader of the Opposition and the shadow Defence spokesman in relation to Labor's plan, during which time I noted that the Leader of the Opposition boldly claimed that no-one was calling for an open tender in relation to this particular project, despite—
+
+
+
+
+Senator Conroy:
+  That was me.
+
+
+
+
+Senator ABETZ:
+  Exactly. No-one was, despite the fact—and he has now just admitted it—that the shadow minister himself had called for an open tender not once, not twice but three times. So the Labor Party comes to this having done nothing on the submarine program for six years whilst in office. They now want a process which would take another five years before we come to a landing in relation to this issue.
+
+
+
+The PRESIDENT:  Pause the clock.
+
+
+
+
+Senator Moore:
+  Mr President, I raise a point of order on direct relevance to the question that was asked, which was about a statement of government support for Australia's Future Submarine project, particularly building, maintaining and sustaining. It is a point of order on direct relevance to the question asked.
+
+
+
+The PRESIDENT:  Thank you, Senator Moore. The minister has barely gone through half his answer.
+
+
+
+
+Senator ABETZ:
+  What I had just done was contextualise the situation, bringing us up to date with where we are now. The government's position is very clear: the safety and security of our citizens has to be the No. 1 priority. So the government is determined to get the best submarine capability available and the best value for money for taxpayers through a competitive evaluation process. We are not going to prejudge what that is, and what the Labor Party is saying is: 'We don't care what the Defence capacity is. We don't care what the cost is.'
+
+
+
+The PRESIDENT:  Pause the clock. Senator Moore, do you have a point of order?
+
+
+
+
+Senator Conroy:
+  That was your policy.
+
+
+
+The PRESIDENT:  Senator Conroy, you have your colleague on her feet.
+
+
+
+
+Senator Moore:
+  Mr President, I again rise on a point of order on direct relevance to the question that was asked. It was about bipartisan support to build, maintain and sustain submarines in Australia.
+
+
+
+The PRESIDENT:  I think the minister was answering it by way of saying that the government will not commit. But the minister has 15 seconds left to answer the question.
+
+
+
+
+Senator ABETZ:
+  The simple fact is, no matter what, there will be more submarines, and that means more jobs for South Australia under whatever methodology the government adopts for the acquisition of our submarine fleet. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Abetz, Sen Eric",LP,2015-03-25,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:04):  Just as the shadow minister just then went way over time with his question, so Labor went way over time in putting pencil to paper. It took them six years of not even getting pencil to paper for the submarine program. Let that not be forgotten. Now the shadow minister has the audacity to come into this place and say, 'Please join us in a bipartisan manner,' when for six years you had misled the Australian people about where you had got to with the submarine program.
+
+
+
+
+Senator Conroy:
+  You said you would build 12 in Adelaide.
+
+
+
+The PRESIDENT:  Order on my left.
+
+
+
+
+Senator ABETZ:
+  Absolutely nowhere did they get with their submarine program in six years, despite media release after media release. Now they say, 'Trust us and join us in a bipartisan approach.' Your actions speak louder than your words—or should I say your inactions speak a lot louder than your words. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Abetz, Sen Eric",LP,2015-03-25,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:06):  Once again, Senator Conroy is overtime, exactly like Labor did with the submarine program. They have no understanding of time limits and the need to get this project underway as soon as possible. We have already indicated our attitude in relation to Sweden, and it really does seem interesting, does it not, that any mention of Japan is met with howls of derision. Yet they seem to champion the cause of Sweden. One wonders why they have this approach of 'Japan bad; Sweden good.' I wonder what might motivate that sort of attitude. It does not reflect well on the Australian Labor Party. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Sinodinos, Sen Arthur",LP,2015-03-25,"
+
+
+
+Senator SINODINOS
+ (New South Wales) (14:07):  My question is to the diligent Assistant Minister for Immigration and Border Protection, Senator Cash, in her capacity representing the Minister for Infrastructure and Regional Development. Will the minister inform the Senate of how the coalition government is delivering on its promise to build the infrastructure of the 21st century?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Infrastructure</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Sinodinos, Sen Arthur",LP,2015-03-25,"
+
+
+
+Senator SINODINOS
+ (New South Wales) (14:10):  Mr President, I ask a supplementary question. Will the minister update the Senate on the action the government is taking to improve infrastructure in my home state of New South Wales, and outline how this will create jobs in that great state?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Infrastructure</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Sinodinos, Sen Arthur",LP,2015-03-25,"
+
+
+
+Senator SINODINOS
+ (New South Wales) (14:11):  Mr President, I ask a further supplementary question. Will the minister update the Senate on how projects like WestConnex will improve travel times and create jobs in Western Sydney?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Infrastructure</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Cash, Sen Michaelia",LP,2015-03-25,"
+
+
+
+Senator CASH
+ (Western Australia—Assistant Minister for Immigration and Border Protection and Minister Assisting the Prime Minister for Women) (14:07):  I thank Senator Sinodinos for his question. This government promised the Australian people that if we were elected to govern we would deliver to them the infrastructure of the 21st century, and that is exactly what we are doing. This government has made a historic investment into infrastructure of $50 billion through to 2019-20. I remind senators that our investment into infrastructure is $16.4 billion more than what those opposite promised. That is right: $16.4 billion more than what those opposite promised. Under this government, 84 projects are currently under construction right across Australia, with another 88 projects in detailed planning stages, with construction expected to commence in the near future.
+
+
+In terms of major works, they include the Pacific Highway, in New South Wales, for which 60 per cent, or 397 kilometres, of the final highway length has already been duplicated, with a further 123 kilometres under construction. A total of 2,137 construction workers were on-site across the Pacific Highway at the end of last year.
+
+
+
+Then, of course, under this government there is the Western Sydney Infrastructure Plan, where work is already underway on stage 1 of the $509 million Bringelly Road upgrade, which will support the new Western Sydney Airport at Badgerys Creek. But we do not stop there. In Queensland construction is underway on seven major projects. In Tasmania, construction has commenced on seven safety work projects along the Midland Highway. In my home state of Western Australia, construction on the first stage of works along the North West Coastal Highway commenced in January 2015. We said we would deliver on infrastructure and that is exactly what this government is doing. (Time expired)
+
+
+
+Honourable senators interjecting—
+
+
+
+The PRESIDENT:  Order on my left.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Infrastructure</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Cash, Sen Michaelia",LP,2015-03-25,"
+
+
+
+Senator CASH
+ (Western Australia—Assistant Minister for Immigration and Border Protection and Minister Assisting the Prime Minister for Women) (14:10):  As Senator Sinodinos knows, investing in infrastructure is critical for the people of Sydney and the surrounding areas, as well as those living in the regional areas of New South Wales. Our decision to work with Premier Mike Baird, Deputy Premier Troy Grant and the rest of the New South Wales coalition government to invest in infrastructure is ensuring that the people of New South Wales have a strong and prosperous economy. Their economy has been boosted and productivity has increased, and we have created thousands of jobs for people on the ground.
+
+
+
+
+Senator Cameron:
+  Tell that to the workers at GM.
+
+
+
+The PRESIDENT:  Senator Cameron.
+
+
+
+
+Senator CASH:
+  In terms of our $50 billion historic investment into infrastructure, we have invested $14.9 billion into projects into New South Wales. We have included $3.6 billion for the Western Sydney Infrastructure Plan, $405 million for NorthConnex, and $5.64 billion to complete the duplication of the Pacific Highway. This is a government that is committed to the people of New South Wales. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Infrastructure</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Cash, Sen Michaelia",LP,2015-03-25,"
+
+
+
+Senator CASH
+ (Western Australia—Assistant Minister for Immigration and Border Protection and Minister Assisting the Prime Minister for Women) (14:11):  Projects like WestConnex that are fully supported by a coalition government will remove up to 52 sets of traffic lights, cut travel time between Parramatta and Sydney Airport by 40 minutes, remove 3,000 trucks away from Parramatta Road and halve the commute time between the inner-west and the city for those travelling by bus. This is a significant reform for the people of New South Wales. It is a significant investment in infrastructure and it is delivering real outcomes for the local people of New South Wales. The WestConnex project provides 33 kilometres of continuous traffic-light-free motorway to link the west and south-west of Sydney with the city, the airport and the port. The project will create at least 10,000 jobs in Sydney. This government knows that investment in infrastructure is good for the state economy and it is good for the people of New South Wales.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Infrastructure</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
 "Siewert, Sen Rachel",AG,2015-03-25,"
 
 
@@ -1277,7 +1482,7 @@ To my good friend Jenny Gardner MLC: all the best to you, Jenny, after many year
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (15:02):  Pursuant to standing order 74(5) on questions on notice, I seek an explanation from the Assistant Minister for Social Security, Senator Fifield, as to why question on notice 1487 asking for a copy of the report of the review of the East Kimberley Youth Services Network has not been answered.
 
-",Senate,<title>ANSWERS TO QUESTIONS ON  NOTICE</title>,<title>Question No. 1487</title>,ANSWERS TO QUESTIONS ON  NOTICE,7,1
+",Senate,<title>ANSWERS TO QUESTIONS ON  NOTICE</title>,<title>Question No. 1487</title>,ANSWERS TO QUESTIONS ON  NOTICE,7,1,speech
 "Fifield, Sen Mitch",LP,2015-03-25,"
 
 
@@ -1285,7 +1490,7 @@ Senator SIEWERT
 Senator FIFIELD
  (Victoria—Manager of Government Business in the Senate and Assistant Minister for Social Services) (15:02):  I think these sort of matters on questions on notice are usually given to the representing minister of whom an explanation will be sought. I am not sure whether that occurred but, given there are obviously many hundreds of questions which are placed on notice, I am not in a position at this point in time to give an explanation. But I will certainly take that on notice and do so.
 
-",Senate,<title>ANSWERS TO QUESTIONS ON  NOTICE</title>,<title>Question No. 1487</title>,ANSWERS TO QUESTIONS ON  NOTICE,7,1
+",Senate,<title>ANSWERS TO QUESTIONS ON  NOTICE</title>,<title>Question No. 1487</title>,ANSWERS TO QUESTIONS ON  NOTICE,7,1,speech
 "Siewert, Sen Rachel",AG,2015-03-25,"
 
 
@@ -1323,7 +1528,7 @@ One of the workers describes being in Halls Creek in February 2010 along with th
 
 We believe it is really important that this report be made available, and that is why I have had people contacting me to ask for this review to be made available. I am renewing this call for it to be made available because of the current debate that is going on. These continue to be five burning issues for the families living in these communities and for other communities. To date, this report has not been released to the public, and people are asking for it to be released so that we can learn what happened in this particular project. You will understand from the goals and the way I have just described it that it is a rather unique project that I hope has a lot of learnings for the community. That is why I asked the minister for an explanation, and I would like to move that that report be made available publicly by the end of March.
 
-",Senate,<title>ANSWERS TO QUESTIONS ON  NOTICE</title>,<title>Question No. 1487</title>,ANSWERS TO QUESTIONS ON  NOTICE,7,1
+",Senate,<title>ANSWERS TO QUESTIONS ON  NOTICE</title>,<title>Question No. 1487</title>,ANSWERS TO QUESTIONS ON  NOTICE,7,1,speech
 "Fifield, Sen Mitch",LP,2015-03-25,"
 
 
@@ -1334,7 +1539,7 @@ Senator FIFIELD
 
 Question agreed to.
 
-",Senate,<title>ANSWERS TO QUESTIONS ON  NOTICE</title>,<title>Question No. 1487</title>,ANSWERS TO QUESTIONS ON  NOTICE,7,1
+",Senate,<title>ANSWERS TO QUESTIONS ON  NOTICE</title>,<title>Question No. 1487</title>,ANSWERS TO QUESTIONS ON  NOTICE,7,1,speech
 "Cash, Sen Michaelia",LP,2015-03-25,"
 
 
@@ -1342,7 +1547,7 @@ Question agreed to.
 Senator CASH
  (Western Australia—Assistant Minister for Immigration and Border Protection and Minister Assisting the Prime Minister for Women) (15:10):  I table a response to an order for the production of documents agreed to by the Senate on Wednesday, 18 March 2015 relating to the WestConnex road project in New South Wales.
 
-",Senate,<title>DOCUMENTS</title>,<title>WestConnex</title>,DOCUMENTS,8,1
+",Senate,<title>DOCUMENTS</title>,<title>WestConnex</title>,DOCUMENTS,8,1,speech
 "Cash, Sen Michaelia",LP,2015-03-25,"
 
 
@@ -1350,7 +1555,7 @@ Senator CASH
 Senator CASH
  (Western Australia—Assistant Minister for Immigration and Border Protection and Minister Assisting the Prime Minister for Women) (15:10):  I table a response to an order for the production of documents agreed to by the Senate on Wednesday, 18 March 2015 relating to the WestConnex road project in New South Wales.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,8,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,8,2,speech
 "Conroy, Sen Stephen",ALP,2015-03-25,"
 
 
@@ -1376,7 +1581,7 @@ We are not the only political party offering such a deal. The conservative Briti
 
 This is the test for new today: in your five-minute contribution, Senator Edwards, will you make a commitment that the next generation of submarines is built, maintained and sustained in Australia? All you are being asked to do today is to be bipartisan. Build them, maintain them and sustained them here in Australia or are you going to cave-in to the captain's pick again— (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Edwards, Sen Sean",LP,2015-03-25,"
 
 
@@ -1454,7 +1659,7 @@ Senator Conroy:
 Senator EDWARDS:
   I wish I had another five minutes. For almost 80 Defence acquisitions completed by Labor after July 2007, nearly 70 per cent were single-sourced procurements. So much for Labor's commitment to open tenders. If you were actually committed— (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Gallacher, Sen Alex",ALP,2015-03-25,"
 
 
@@ -1480,7 +1685,7 @@ We know from the by-election results of Davenport and Fisher that people are pre
 
 We know that the member for Hindmarsh is, at every opportunity, trying to defend himself in that electorate, which is a very marginal electorate. We know that Andrew Southcott is increasingly concerned and has fronted up behind any opportunity to get some profile in this argument. But unless they actually agree to what has been put to them today, they are going to pay extreme electoral pain. People in South Australia want it built. They want the promise honoured. The Labor Party has stepped up in a bipartisan way today as we always have with this project. There has always been bipartisan support. The Australian National Audit Office actually says that there is bipartisan support for this naval shipbuilding capability. And it must continue in South Australia. We will take this issue on for as long as it needs to be to win it. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "McGrath, Sen James",LP,2015-03-25,"
 
 
@@ -1503,7 +1708,7 @@ In terms of the acquisition strategy for future submarines we want to provide a 
 
 As part of this evaluation process Defence will seek proposals from potential partners for pre-concept designs, options for designs built overseas or in Australia and/or a hybrid approach, and costs and schedules for each option. The future submarines program will involve an investment of around $50 billion over its full life, and it is very important that we deliver value for money for Australian taxpayers. That is what this government is going to do, rather than spitting out press releases for dirty, grubby politics, which is what Labor are currently doing.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "McEwen, Sen Anne",ALP,2015-03-25,"
 
 
@@ -1575,7 +1780,7 @@ As a passionate South Australian, and a great fan of the Australian Submarine Co
 
 Question agreed to. 
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Milne, Sen Christine",AG,2015-03-25,"
 
 
@@ -1622,7 +1827,7 @@ If we are serious about dealing with extremism and terrorism, we must not isolat
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Australian Centre for Social Cohesion Bill 2015</title>,BILLS,15,1
+",Senate,<title>BILLS</title>,<title>Australian Centre for Social Cohesion Bill 2015</title>,BILLS,15,1,speech
 "Milne, Sen Christine",AG,2015-03-25,"
 
 
@@ -1669,7 +1874,7 @@ If we are serious about dealing with extremism and terrorism, we must not isolat
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2,speech
 "Ruston, Sen Anne",LP,2015-03-25,"
 
 
@@ -1713,7 +1918,7 @@ That the following matters be referred to the Rural and Regional Affairs and Tra
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport References Committee</title>,COMMITTEES,16,1
+",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport References Committee</title>,COMMITTEES,16,1,speech
 "Ruston, Sen Anne",LP,2015-03-25,"
 
 
@@ -1757,7 +1962,7 @@ That the following matters be referred to the Rural and Regional Affairs and Tra
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,16,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,16,2,speech
 "Abetz, Sen Eric",LP,2015-03-25,"
 
 
@@ -1787,7 +1992,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,17,1,speech
 "Abetz, Sen Eric",LP,2015-03-25,"
 
 
@@ -1870,7 +2075,7 @@ The Government is committed to re-establishing the ABCC and returning the rule o
 
 Ordered that further consideration of the second reading of this bill be adjourned to the first sitting day of the next period of sittings, in accordance with standing order 111.
 
-",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,17,1,speech
 "Abetz, Sen Eric",LP,2015-03-25,"
 
 
@@ -1900,7 +2105,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,17,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,17,2,speech
 "Rhiannon, Sen Lee",AG,2015-03-25,"
 
 
@@ -1952,7 +2157,7 @@ A division having been called and the bells being rung
 —
 
 
-",Senate,<title>MOTIONS</title>,<title>Liverpool Plains</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>Liverpool Plains</title>,MOTIONS,19,1,speech
 "Moore, Sen Claire",ALP,2015-03-25,"
 
 
@@ -1964,7 +2169,7 @@ Senator MOORE
 
 The PRESIDENT:  Do I then gather there is no need for a division? Is that the case? We can terminate a division. Will we stop the bells or will we go ahead? We will let the division stand, and I will put the motion once the doors have been locked. Lock the doors. I understand that there may be no need for this division. Senator Siewert, did you wish to have the question put again and decided on the voices?
 
-",Senate,<title>MOTIONS</title>,<title>Liverpool Plains</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>Liverpool Plains</title>,MOTIONS,19,1,speech
 "Siewert, Sen Rachel",AG,2015-03-25,"
 
 
@@ -1979,7 +2184,7 @@ The PRESIDENT:  I think my call reflected the will of the chamber, but I think s
 
 Question agreed to. 
 
-",Senate,<title>MOTIONS</title>,<title>Liverpool Plains</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>Liverpool Plains</title>,MOTIONS,19,1,speech
 "Williams, Sen John",Nats,2015-03-25,"
 
 
@@ -2000,7 +2205,7 @@ Senator WILLIAMS:
 
 The government has requested that the committee respond directly to questions raised by the community but it will not tell the independent committee how to do its job, as the Greens have suggested in this motion. To do so would taint the work of the independent committee. The government is carefully considering the impacts of proposed projects in the Liverpool Plains area and it will assess these impacts consistent with Australia's stringent environmental laws.
 
-",Senate,<title>MOTIONS</title>,<title>Liverpool Plains</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>Liverpool Plains</title>,MOTIONS,19,1,speech
 "Ludlam, Sen Scott",AG,2015-03-25,"
 
 
@@ -2020,7 +2225,7 @@ After paragraph (d), insert:
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>National Broadband Network Committee</title>,COMMITTEES,20,1
+",Senate,<title>COMMITTEES</title>,<title>National Broadband Network Committee</title>,COMMITTEES,20,1,speech
 "Ludlam, Sen Scott",AG,2015-03-25,"
 
 
@@ -2040,7 +2245,7 @@ After paragraph (d), insert:
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,20,2
+",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,20,2,speech
 "Fifield, Sen Mitch",LP,2015-03-25,"
 
 
@@ -2090,7 +2295,7 @@ Senator FIFIELD:
 
 I do not think that it is reasonable on this occasion for those opposite to deny leave to move this motion, but that is why I am in this position of seeking to move a motion to suspend standing orders so that I can move the motion which is on the Notice Paper. 
 
-",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1
+",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1,speech
 "Moore, Sen Claire",ALP,2015-03-25,"
 
 
@@ -2116,7 +2321,7 @@ In the discussion that we had with the government earlier this week, there was n
 
 We would save a lot of time if we could have these discussions as we did earlier this week. That does not mean that there will be absolute agreement; that does not always happen in negotiations. The way that the Manager of Government Business in the Senate has put it today, if we do not agree, we will be punished by not being part of the discussion. That was how I heard Senator Fifield put forward his position that, because there was a certain lack of accommodation or cooperation in the meetings earlier this week, they had to exclude the Labor Party from further decisions about what would happen in future hours motions. We think it is important— (Time expired)
 
-",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1
+",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1,speech
 "Siewert, Sen Rachel",AG,2015-03-25,"
 
 
@@ -2143,7 +2348,7 @@ An honourable senator interjecting—
 Senator SIEWERT:
   Yes, we met with the government as part of the leaders and whips process. We indicated our position there. As Senator Moore just articulated, the government said they wanted to sit on Monday. Of course, we would expect that to be a normal Monday. There was no further communication beyond that until we saw the motion, which shows quite clearly that they just want to use the time to ram through these additional bills, without proper consideration of what the Senate does. The Senate has other important work to do. The government seeks through this motion to not allow the Senate to carry out its functions. We do not support the government's coming in here and making us deal with their agenda without full transparency and the ability for us to prosecute the other things that need to be dealt with in this chamber. It is unreasonable for the government to try to not allow us to have full consideration of, for example, take note of petitions and of the clerks documents and transact the normal business of this place. It should be treated as a normal Monday if we are required to sit. The government has had ample time through the extended hours we have already sat this week. 
 
-",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1
+",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1,speech
 "Bushby, Sen David",LP,2015-03-25,"
 
 
@@ -2163,7 +2368,7 @@ The idea of sitting on Monday was a proposal put forward by one of the crossbenc
 
 The end result is that the Senate should be entitled to make a decision on that motion. Formality should not be denied. There are 76 people who make up this place and those 76 people should be entitled to make a decision on this motion. It is up to them whether they actually accept or reject it, but denying formality on the motion is not the appropriate way to deal with this. Doing that would deny the Senate the opportunity to make a decision that it should be entitled to make, not to mention the fact that it also denies the opportunity for the opposition to move the amendment that it has circulated and clearly intends to move. It is a nonsensical thing to deny formality on a motion about which you have circulated notice of your intention to amend. On that basis, I believe that we should suspend standing orders to allow this motion to be voted on.
 
-",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1
+",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1,speech
 "Wong, Sen Penny",ALP,2015-03-25,"
 
 
@@ -2184,7 +2389,7 @@ We indicated that the opposition was prepared to give up the MPI on both Tuesday
 
 I repeat: we are prepared to facilitate debate on the metadata bill, which is why we are prepared to give up time. We are prepared to sit on the Monday before budget week—not something that those opposite ever gave us in government. But we are prepared to do it. We just want a sitting day with seven hours of government business. And instead, the tactical decision by the geniuses on the other side is that they now want a debate and a suspension of standing orders, instead of taking what was a very reasonable offer—a very reasonable offer—from the opposition about additional sitting time on the Monday of the budget week. So I say to the crossbenchers: I would encourage you to consider supporting the opposition on this. We will be moving an amendment to ensure a full sitting day. (Time expired)
 
-",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1
+",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1,speech
 "Abetz, Sen Eric",LP,2015-03-25,"
 
 
@@ -2244,7 +2449,7 @@ Senator ABETZ:
 
 The PRESIDENT:  The question is that the motion to suspend standing orders moved by the Manager of Government Business in the Senate be agreed to.
 
-",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1
+",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1,speech
 "Fifield, Sen Mitch",LP,2015-03-25,"
 
 
@@ -2259,7 +2464,7 @@ That government business notice of motion No. 5 may be moved immediately and det
 
 The PRESIDENT:  The question is that the motion moved by Senator Fifield be agreed to.
 
-",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1
+",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1,speech
 "Fifield, Sen Mitch",LP,2015-03-25,"
 
 
@@ -2300,7 +2505,7 @@ That the Senate meet on Monday, 11 May 2015, and that:
 
 (d) the question for the adjournment of the Senate shall not be proposed until a motion for the adjournment is moved by a minister.
 
-",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1
+",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1,speech
 "Xenophon, Sen Nick",Ind.,2015-03-25,"
 
 
@@ -2317,7 +2522,7 @@ Omit paragraph (b)(ii), substitute:
 
 (iv) subsequently, government business only; 
 
-",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1
+",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1,speech
 "Moore, Sen Claire",ALP,2015-03-25,"
 
 
@@ -2399,7 +2604,7 @@ The PRESIDENT:  Senator Macdonald, I am prepared, under standing order 203, to n
 Senator MOORE:
   Whilst we appreciate the efforts of Senator Xenophon, it is really important for the people on the crossbench to understand that this is not a frivolous process we are following. It is an important point of principle; it is also a matter of integrity of communication and of having a full understanding of what is going on. We acknowledge the amendment, but we will not be supporting it.
 
-",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1
+",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1,speech
 "Abetz, Sen Eric",LP,2015-03-25,"
 
 
@@ -2436,7 +2641,7 @@ The PRESIDENT:  Correct.
 Senator ABETZ:
   I do not think Labor are wanting to vote against that.
 
-",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1
+",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1,speech
 "Wong, Sen Penny",ALP,2015-03-25,"
 
 
@@ -2472,7 +2677,7 @@ Senator WONG:
 
 The PRESIDENT:  The question is that the amendment moved by Senator Xenophon to Senator Fifield's motion be agreed to.
 
-",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1
+",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1,speech
 "Moore, Sen Claire",ALP,2015-03-25,"
 
 
@@ -2568,7 +2773,7 @@ The PRESIDENT:  The question is that the amendment moved by Senator Moore to Sen
 
 The PRESIDENT:  The question now is that the substantive motion, as amended by Senator Xenophon's motion, be agreed to.
 
-",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1
+",Senate,<title>BUSINESS</title>,<title>Suspension of Standing Orders</title>,BUSINESS,21,1,speech
 "Fifield, Sen Mitch",LP,2015-03-25,"
 
 
@@ -2636,7 +2841,7 @@ That—
 
 Question agreed to.
 
-",Senate,<title>BUSINESS</title>,<title>Days and Hours of Meeting</title>,BUSINESS,21,2
+",Senate,<title>BUSINESS</title>,<title>Days and Hours of Meeting</title>,BUSINESS,21,2,speech
 "Bushby, Sen David",LP,2015-03-25,"
 
 
@@ -2656,7 +2861,7 @@ That the Senate notes:
 
 (c) the importance of the current marketing arrangements within the industry that have contributed to the stable and equitable status of this industry for over 100 years.
 
-",Senate,<title>MOTIONS</title>,<title>Sugar Industry</title>,MOTIONS,22,1
+",Senate,<title>MOTIONS</title>,<title>Sugar Industry</title>,MOTIONS,22,1,speech
 "Moore, Sen Claire",ALP,2015-03-25,"
 
 
@@ -2674,7 +2879,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator MOORE:
   At present the Rural and Regional Affairs and Transport References Committee is undertaking an inquiry into the current and future arrangements for the marketing of Australian sugar. The reporting date is 30 April 2015, and Labor believe that the committee process should be completed before we support statements about the current marketing arrangements. Therefore, Labor will not be supporting Senator O'Sullivan's motion at this time.
 
-",Senate,<title>MOTIONS</title>,<title>Sugar Industry</title>,MOTIONS,22,1
+",Senate,<title>MOTIONS</title>,<title>Sugar Industry</title>,MOTIONS,22,1,speech
 "Siewert, Sen Rachel",AG,2015-03-25,"
 
 
@@ -2696,7 +2901,7 @@ Senator SIEWERT:
 
 The PRESIDENT:  The question is that the motion moved by Senator Bushby at the request of Senator O'Sullivan be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Sugar Industry</title>,MOTIONS,22,1
+",Senate,<title>MOTIONS</title>,<title>Sugar Industry</title>,MOTIONS,22,1,speech
 "O'Sullivan, Sen Barry",Nats,2015-03-25,"
 
 
@@ -2711,7 +2916,7 @@ Leave granted.
 
 The PRESIDENT:  The motion is withdrawn.
 
-",Senate,<title>MOTIONS</title>,<title>Sugar Industry</title>,MOTIONS,22,1
+",Senate,<title>MOTIONS</title>,<title>Sugar Industry</title>,MOTIONS,22,1,speech
 "PRESIDENT, The",,2015-03-25,"
 
 
@@ -2738,7 +2943,7 @@ More than the number of senators required by the standing orders having risen in
 
 The PRESIDENT:  I understand that informal arrangements have been made to allocate specific times to each of the speakers in today's debate. With the concurrence of the Senate, I shall ask the clerks to set the clock accordingly.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1,speech
 "O'Neill, Sen Deb",ALP,2015-03-25,"
 
 
@@ -2764,7 +2969,7 @@ We are deeply concerned by the ongoing commitment of this coalition government t
 
 In terms of health, what we have seen with this disastrous set of policies that changed from May to December. again in January and again in March is the shameful way in which this Liberal-National coalition government is determined to hurt Medicare and everyone that it protects this country. They will cut it to the bone. While they might be making noises that they have pulled their GP tax—and some may be fooled—let's be clear that the minister confirmed that this government is absolutely committed to putting a price signal on Medicare. This is what they said: 'It is definitely good policy to put the right price and value signals in health to make sure that people value the service they get from doctors.' Well, they cannot value the service they get from doctors if they cannot get to the doctor—and that is what this lot have got cooked up in the next budget. We will be watching closely to defend health and education at every turn.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1,speech
 "Nash, Sen Fiona",Nats,2015-03-25,"
 
 
@@ -2800,7 +3005,7 @@ We just see this continual harping by the opposition, saying that the government
 
 What we are going to do is manage this nation's economy responsibly and sensibly. We are not going to engage in the sort of economic irresponsibility we saw from the previous Labor government, which left us with, as I said earlier, a trajectory to debt of $667 billion. We are taking the responsibility to fix the mess that Labor left us, and we will do that. It is not only for now but for our children and our grandchildren that we need to fix that mess. Labor might think it is absolutely fine to hand out $900 cheques to people all over the globe, as it turned out. I even knew of somebody that gave a call from a pub in London saying, 'Thanks very much to Kevin Rudd for the $900 cheque.' This coalition government is going to make the responsible and sensible decisions we need to fix the mess that the previous Labor government left us. The Australian people elected us to do it, and that is what we are going to do. We are going to make sure that we do that so that we get the best outcomes and a sustainable future for people living right across this country, not only in rural and regional areas but in cities and from side to side of this nation. We are going to fix the economic mess.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1,speech
 "Wright, Sen Penny",AG,2015-03-25,"
 
 
@@ -2823,7 +3028,7 @@ Sucking billions out of our school funding system and our education system now w
 
 These parents are not only worried about getting their children through the school year. They are also worried, of course, about what comes next. They know that without support to stay in schools their children may never gain the skills they need to join the workforce. I can only imagine what struggle these families will face when the Abbott government's further cuts will come into effect. What a huge waste of potential with so many children achieving below their best. The Abbott government must rule out further cuts to education.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1,speech
 "Dastyari, Sen Sam",ALP,2015-03-25,"
 
 
@@ -2933,7 +3138,7 @@ I am very conscious of the time and there is much more I would have liked to hav
 
 In conclusion, I thank the good senator from the ACT for hearing me in silence!
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1,speech
 "Seselja, Sen Zed",LP,2015-03-25,"
 
 
@@ -3030,7 +3235,7 @@ Total Commonwealth funding to all schools across Australia will increase by $4 b
 
 This MPI is scaremongering. It is wrong. The facts are that we are increasing health and education funding, even if we inherited Labor's— (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1,speech
 "Lambie, Sen Jacqui",Ind.,2015-03-25,"
 
 
@@ -3078,7 +3283,7 @@ In this debate, the Liberals have also failed to answer two of my important ques
 
 In closing, I note that federal funding for the Mersey hospital still has not been guaranteed or settled on—like much other Indigenous health funding around Australia. I raised this issue with the new health minister Sussan Ley, and I appreciate the time she gave me and her consideration. I would ask that this funding be guaranteed and delivered as soon as possible.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1,speech
 "Cameron, Sen Doug",ALP,2015-03-25,"
 
 
@@ -3116,7 +3321,7 @@ The people who vote for the National Party drive more and use more petrol. They 
 
 He started saying, 'We can't afford these cuts.' Since then, there has not been another word. The Liberal coalition team have kicked in. They are trying to cover up the real effects of this budget. This budget is bad for New South Wales. It is bad for education. It is bad for health and it is bad for the economy. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1,speech
 "McKenzie, Sen Bridget",Nats,2015-03-25,"
 
 
@@ -3157,7 +3362,7 @@ That was as a result of the $107 million cut to Victorian hospitals thanks to th
 
 What we are interested in, in this government, is securing the future for our nation—a future where young people can get a job; where Indigenous Australians are included not only in our Constitution but in our social and economic fabric in a very real way; where we have an education system that is accessible, equitable and excellent; and where there is a healthcare system that retains our world-class status. These are exactly the types of things that this side of the parliament is interested in securing for the future of our nation and our citizenry. We are passionate about that. That is exactly why we got into politics: to ensure that we can have those things and that our nation is set up for the 21st century. We have to pay for it. We have to ensure that we are responsible in government. It is exactly what we are hoping to deliver. We are looking forward to our next budget to ensure that we continue it.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1,speech
 "Lazarus, Sen Glenn",Ind.,2015-03-25,"
 
 
@@ -3177,7 +3382,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Smith
 ):  The time for the discussion has expired. 
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Health and Education</title>,MATTERS OF PUBLIC IMPORTANCE,23,1,speech
 "Polley, Sen Helen",ALP,2015-03-25,"
 
 
@@ -3305,7 +3510,7 @@ I commend the committee's report, Work of the committee in 2014, and the committ
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Scrutiny of Bills Committee</title>,COMMITTEES,25,1
+",Senate,<title>COMMITTEES</title>,<title>Scrutiny of Bills Committee</title>,COMMITTEES,25,1,speech
 "Polley, Sen Helen",ALP,2015-03-25,"
 
 
@@ -3433,7 +3638,7 @@ I commend the committee's report, Work of the committee in 2014, and the committ
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,25,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,25,2,speech
 "Fawcett, Sen David",LP,2015-03-25,"
 
 
@@ -3444,7 +3649,7 @@ Senator FAWCETT
 
 Ordered that the report be printed. 
 
-",Senate,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Amendment (A Stronger Land Account) Bill 2014</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Aboriginal and Torres Strait Islander Amendment (A Stronger Land Account) Bill 2014</title>,BILLS,26,1,speech
 "Fawcett, Sen David",LP,2015-03-25,"
 
 
@@ -3455,7 +3660,7 @@ Senator FAWCETT
 
 Ordered that the report be printed. 
 
-",Senate,<title>BILLS</title>,<title>Report of Legislation Committee</title>,BILLS,26,2
+",Senate,<title>BILLS</title>,<title>Report of Legislation Committee</title>,BILLS,26,2,speech
 "Smith, Sen Dean (The ACTING DEPUTY PRESIDENT)",LP,2015-03-25,"
 
 
@@ -3466,7 +3671,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Smith
 ) (18:55):  The President has received letters from senators seeking variations to the membership of committees.
 
-",Senate,<title>COMMITTEES</title>,"<title>Wind Turbines Committee, Abbott Government's Budget Cuts Committee</title>",COMMITTEES,27,1
+",Senate,<title>COMMITTEES</title>,"<title>Wind Turbines Committee, Abbott Government's Budget Cuts Committee</title>",COMMITTEES,27,1,speech
 "Nash, Sen Fiona",Nats,2015-03-25,"
 
 
@@ -3480,7 +3685,7 @@ That Senator Xenophon be appointed a participating member of the Select Committe
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,"<title>Wind Turbines Committee, Abbott Government's Budget Cuts Committee</title>",COMMITTEES,27,1
+",Senate,<title>COMMITTEES</title>,"<title>Wind Turbines Committee, Abbott Government's Budget Cuts Committee</title>",COMMITTEES,27,1,speech
 "Smith, Sen Dean (The ACTING DEPUTY PRESIDENT)",LP,2015-03-25,"
 
 
@@ -3491,7 +3696,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Smith
 ) (18:55):  The President has received letters from senators seeking variations to the membership of committees.
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,27,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,27,2,speech
 "Nash, Sen Fiona",Nats,2015-03-25,"
 
 
@@ -3505,7 +3710,7 @@ That Senator Xenophon be appointed a participating member of the Select Committe
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,27,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,27,2,speech
 "Nash, Sen Fiona",Nats,2015-03-25,"
 
 
@@ -3522,7 +3727,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Public Governance and Resources Legislation Amendment Bill (No. 1) 2015</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Public Governance and Resources Legislation Amendment Bill (No. 1) 2015</title>,BILLS,28,1,speech
 "Nash, Sen Fiona",Nats,2015-03-25,"
 
 
@@ -3608,7 +3813,7 @@ I commend the Bill.
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Public Governance and Resources Legislation Amendment Bill (No. 1) 2015</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Public Governance and Resources Legislation Amendment Bill (No. 1) 2015</title>,BILLS,28,1,speech
 "Nash, Sen Fiona",Nats,2015-03-25,"
 
 
@@ -3625,7 +3830,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,28,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,28,2,speech
 "Smith, Sen Dean",LP,2015-03-25,"
 
 
@@ -3666,4 +3871,4 @@ Following the withdrawal of funding by Labor in 2013, native title representativ
 
 The state of Western Australia has indicated that it now wishes for native title claimants to engage directly with respondents. As a result of this, pastoralists will require further support from their representative bodies. Without continued funding support, pastoralists and their representative organisations will be unable to continue in their role as coordinating the pastoral response to native title claims. Ultimately this will disadvantage both pastoralists and native title claimants, not to mention the native title process, which is at its most effective when conducted in a non-adversarial manner. Resolving this issue in a manner satisfactory to all parties will be challenging but is not impossible given the genuine goodwill that I believe exists across all sides of the native title process. As a senator for Western Australia I look forward to playing my part in working with colleagues to secure funding for group representation after 1 January 2016 so that our native title framework operates in a manner that is fair and provides certainty to all parties.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Native Title</title>,ADJOURNMENT,29,1
+",Senate,<title>ADJOURNMENT</title>,<title>Native Title</title>,ADJOURNMENT,29,1,speech

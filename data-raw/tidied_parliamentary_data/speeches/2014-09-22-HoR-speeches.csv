@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Bishop, Bronwyn, MP",LP,2014-09-22,"
 
 
@@ -9,7 +9,7 @@ The SPEAKER
 
 I would ask that members be patient as the new security procedures are implemented and, whilst every effort will be made to minimise disruption to members, these new measures are necessary to ensure safety to Parliament House and its occupants.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Parliament House: Security</title>,STATEMENT BY THE SPEAKER,0,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Parliament House: Security</title>,STATEMENT BY THE SPEAKER,0,1,speech
 "Elliot, Justine, MP",ALP,2014-09-22,"
 
 
@@ -17,7 +17,7 @@ I would ask that members be patient as the new security procedures are implement
 Mrs ELLIOT
  (Richmond) (10:03):  Ministerial responses to petitions previously presented to the House have been received as follows:
 
-",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,1,2
+",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,1,2,speech
 "Tehan, Dan, MP",LP,2014-09-22,"
 
 
@@ -67,7 +67,7 @@ The committee fully supports the relisting on the basis that the group continues
 
 Could I take this opportunity to thank all members of the committee for their participation in these two inquiries. I would also like to place on the record the support of the committee secretariat in helping to put these reports together. I commend the reports to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Intelligence and Security Committee</title>,COMMITTEES,3,1
+",HoR,<title>COMMITTEES</title>,<title>Intelligence and Security Committee</title>,COMMITTEES,3,1,speech
 "Byrne, Anthony, MP",ALP,2014-09-22,"
 
 
@@ -90,7 +90,7 @@ There was a very thorough process that we undertook in listing or relisting thes
 
 I would like to put on the record on behalf of the committee our thanks to both the security services and the intelligence services for the work they do. The Parliamentary Joint Committee on Intelligence and Security occupies a very unique space in parliamentary and public life. It is subjected to comprehensive and classified briefings about intelligence agencies. From time to time that does go into operational activity. I can say with some measure of confidence, on behalf of the committee, that the work of the intelligence and security agencies, particularly in addressing the terrorist threat, is strong. The public should be reassured about the work that it is doing to deal with the current threat that it is dealing with. There has been a lot of community concern about what is transpiring in our community as a consequence of the raid. If there is one message I could put to the Australia people, they should be reassured in the quality and the value of our security agencies. They thwarted a terrorist attack on our soil, and I have full confidence in them continuing to do so in the future.
 
-",HoR,<title>COMMITTEES</title>,<title>Intelligence and Security Committee</title>,COMMITTEES,3,1
+",HoR,<title>COMMITTEES</title>,<title>Intelligence and Security Committee</title>,COMMITTEES,3,1,speech
 "Tehan, Dan, MP",LP,2014-09-22,"
 
 
@@ -140,7 +140,7 @@ The committee fully supports the relisting on the basis that the group continues
 
 Could I take this opportunity to thank all members of the committee for their participation in these two inquiries. I would also like to place on the record the support of the committee secretariat in helping to put these reports together. I commend the reports to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,3,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,3,2,speech
 "Byrne, Anthony, MP",ALP,2014-09-22,"
 
 
@@ -163,7 +163,7 @@ There was a very thorough process that we undertook in listing or relisting thes
 
 I would like to put on the record on behalf of the committee our thanks to both the security services and the intelligence services for the work they do. The Parliamentary Joint Committee on Intelligence and Security occupies a very unique space in parliamentary and public life. It is subjected to comprehensive and classified briefings about intelligence agencies. From time to time that does go into operational activity. I can say with some measure of confidence, on behalf of the committee, that the work of the intelligence and security agencies, particularly in addressing the terrorist threat, is strong. The public should be reassured about the work that it is doing to deal with the current threat that it is dealing with. There has been a lot of community concern about what is transpiring in our community as a consequence of the raid. If there is one message I could put to the Australia people, they should be reassured in the quality and the value of our security agencies. They thwarted a terrorist attack on our soil, and I have full confidence in them continuing to do so in the future.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,3,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,3,2,speech
 "Rishworth, Amanda, MP",ALP,2014-09-22,"
 
 
@@ -238,7 +238,7 @@ Mr Vasta
 Ms Owens:
   I second the motion and reserve my right to speak.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1,speech
 "Williams, Matt, MP",LP,2014-09-22,"
 
 
@@ -267,7 +267,7 @@ It is not only we who are talking about these reforms. The peak body of the univ
 
 Funding for higher education is actually going up—something that the members opposite will not acknowledge. We are providing direct financial support, uncapped, for students. Also, we have a package for low-socioeconomic status students which will give them new Commonwealth scholarships, an innovative program. So there is record investment in education, new initiatives supporting students in training and necessary higher education reforms backed by the universities themselves.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1,speech
 "Husic, Ed, MP",ALP,2014-09-22,"
 
 
@@ -290,7 +290,7 @@ What I found particularly galling was that, the very day after the opposition le
 
 That is my issue. This government has no concept of the impact of its decisions. It cuts school funding, makes it harder for our young to go to university, and has slashed programs like Youth Connections. And the impact of these cuts and the human stories is out of sight and out of mind for a ministry that is Eastern Sydney centric, with the exception of Senator Payne—Senator Payne is the only Western Sydney minister. And guess what? She is the Minister for Human Services, who oversights Centrelink—the same government body that will shortly be holding back Newstart payments to the young people who find it harder to get work because programs like Youth Connections get cut. That tells you everything you need to know about this government: if it is out of sight it is out of mind. They do not care for the young people of Western Sydney and the problems they have, because none of their ministers have to walk around the communities that are affected by their decisions, unless of course it is the Prime Minister and his parliamentary secretaries all out there for a cheap photo.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1,speech
 "Hutchinson, Eric, MP",LP,2014-09-22,"
 
 
@@ -313,7 +313,7 @@ The things that we are doing as a government include the trade support loans tha
 
 As a former speaker mentioned, in relation to the higher education reforms, it is about 80,000 more young Australians from low SES backgrounds having an opportunity to go on to higher education, having an opportunity to do sub-bachelor and bachelor and diploma courses at university. That is truly a reform.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1,speech
 "Giles, Andrew, MP",ALP,2014-09-22,"
 
 
@@ -342,7 +342,7 @@ I note that two weeks ago, in what can only be seen as an admission that the gov
 
 With youth unemployment today at more than double the average unemployment rate, Australia needs a plan for job creation which must involve preventing youth unemployment and supporting at-risk young people. Of course, there is no plan at all in terms of jobs from members opposite. I say this to members opposite—the members in our present government: reducing unemployment should not be seen as budget savings. It should not be seen as a burden. It is an investment in our young people. It is an investment in our capacity and our collective wellbeing. I see the parliamentary secretary at the table sigh. I think it is symptomatic of this government's failure to engage with the real concerns of vulnerable young people in electorates like mine. Unfortunately, it is the case that we have a government that is not concerned about youth unemployment or about the future of this country. All the rhetoric about intergenerational inequality is empty. It is just a mask for ideologically-driven austerity, for a small, narrow view of the state and our collective capacity. I am pleased to join the member for Kingston and Labor members in calling on this government to immediately reverse its decision to no longer fund these programs beyond this calendar year.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1,speech
 "Prentice, Jane, MP",LP,2014-09-22,"
 
 
@@ -365,7 +365,7 @@ Up until now, apprenticeship centres have not been able to go out and place peop
 
 It is clear that only the coalition has a cross-industry, national approach to reducing youth unemployment, to securing Australia's global competitiveness and to helping create a strong economy.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1,speech
 "Hayes, Chris, MP",ALP,2014-09-22,"
 
 
@@ -385,7 +385,7 @@ The two main functions of South West Connect are Partnership Brokers and Youth C
 
 Another project I would like to talk a little bit about is the alternative education model partnership. Again, it is facilitated through Job Services Australia and through various providers and local community organisations to help young people engage throughout their secondary education and basically help kids stay at school. These things are changing lives. They do not warrant a $2 million slash and burn by this government if this government is to be serious about youth unemployment.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1,speech
 "Laundy, Craig, MP",LP,2014-09-22,"
 
 
@@ -405,7 +405,7 @@ This government recognises the importance of young people's access to employment
 
 For those who are unable to find work, the new work for the dole arrangements will help young job seekers as they transition because it will improve their chances. Most importantly, all of these programs are budgeted for, so those who stand to benefit from them can plan their futures. This government will not leave young Australians guessing about the support they receive from the Commonwealth government—unlike the last government.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1,speech
 "Owens, Julie, MP",ALP,2014-09-22,"
 
 
@@ -419,7 +419,7 @@ It is sensible for governments to involve themselves in finding ways for these y
 
 We have heard some extraordinary statements from government members. The member for Lyons said it was the Labor Party that brought down the 2014-15 budget. We are not taking credit for that dud; we are not taking credit for the 2014-15 budget. There is no doubt that what was in the 2014-15 budget was a product of the government—it was the government's budget, not the opposition's budget, and it did not include funding to continue the partnership which had been in place up until the end of 2014. I have no doubt the next speaker will try to make the same point, so I will make this clear. Partnership agreements between state and federal governments are negotiated for a number of years and then towards the end of those partnership agreements they are renegotiated. During the renegotiation phase, because you do not really want to play your hand and you do not want to go out there and say what the figures are, the figures do not have their own budget line for the period beyond the agreement. This is for obvious reasons—it is very similar to a commercial arrangement; you would not suddenly stick 'this is what we are offering you' up in front. You just do not do that. You hold those figures back. There are things, by the way, that are not in the government's budget. Paid parental leave, for example, does not have its own line in the budget but no-one is suggesting that the government has not included it in the budget. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1,speech
 "Laming, Andrew, MP",LP,2014-09-22,"
 
 
@@ -451,7 +451,7 @@ The DEPUTY SPEAKER
 Mr Vasta
 ):  The time allotted for this debate has expired. The debate is adjourned and the resumption of the debate will be made an order of the day for a later hour this day. 
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,4,1,speech
 "Mitchell, Rob (The DEPUTY SPEAKER)",ALP,2014-09-22,"
 
 
@@ -588,7 +588,7 @@ The Senate requests the concurrence of the House in this resolution.
 
 Ordered that the resolution be made an order of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Australia Fund Establishment Committee</title>,COMMITTEES,6,1
+",HoR,<title>COMMITTEES</title>,<title>Australia Fund Establishment Committee</title>,COMMITTEES,6,1,speech
 "Mitchell, Rob (The DEPUTY SPEAKER)",ALP,2014-09-22,"
 
 
@@ -725,7 +725,7 @@ The Senate requests the concurrence of the House in this resolution.
 
 Ordered that the resolution be made an order of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,6,2
+",HoR,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,6,2,speech
 "Tehan, Dan, MP",LP,2014-09-22,"
 
 
@@ -809,7 +809,7 @@ Importantly, the Inspector-General has told the committee she has the authority 
 
 I wish to thank members of the committee for their constructive and cooperative approach to the inquiry. I am pleased that we were able to reach bipartisan agreement on the issues of contention, and I trust that the committee's report will assist the parliament in its further debate on the bill. On behalf of the committee I sincerely thank those organisations and individuals who made written submissions and appeared at hearings. I particularly thank the Attorney-General's Department and ASIO for their high level of engagement during the inquiry. I would also like to take the opportunity to place on the record my own and the committee's best wishes to Mr David Irvine in his retirement. He has done an outstanding job as Director-General. I would also like to place on record my thanks to the committee secretariat for their help during the reporting of this record. I commend the report to the House.
 
-",HoR,<title>BILLS</title>,<title>National Security Legislation Amendment Bill (No. 1) 2014</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>National Security Legislation Amendment Bill (No. 1) 2014</title>,BILLS,7,1,speech
 "Tehan, Dan, MP",LP,2014-09-22,"
 
 
@@ -893,7 +893,7 @@ Importantly, the Inspector-General has told the committee she has the authority 
 
 I wish to thank members of the committee for their constructive and cooperative approach to the inquiry. I am pleased that we were able to reach bipartisan agreement on the issues of contention, and I trust that the committee's report will assist the parliament in its further debate on the bill. On behalf of the committee I sincerely thank those organisations and individuals who made written submissions and appeared at hearings. I particularly thank the Attorney-General's Department and ASIO for their high level of engagement during the inquiry. I would also like to take the opportunity to place on the record my own and the committee's best wishes to Mr David Irvine in his retirement. He has done an outstanding job as Director-General. I would also like to place on record my thanks to the committee secretariat for their help during the reporting of this record. I commend the report to the House.
 
-",HoR,<title>BILLS</title>,<title>Report from Committee</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Report from Committee</title>,BILLS,7,2,speech
 "Parke, Melissa, MP",ALP,2014-09-22,"
 
 
@@ -922,7 +922,7 @@ Giving special consideration and exemptions for one country is a slippery slope 
 
 The vast majority of the Australian community want to see animal welfare regulations made stronger and applied rigorously and consistently.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Live Animal Exports</title>,STATEMENTS BY MEMBERS,8,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Live Animal Exports</title>,STATEMENTS BY MEMBERS,8,1,speech
 "Abbott, Tony, MP",LP,2014-09-22,"
 
 
@@ -990,7 +990,7 @@ If, in the weeks and months ahead, Australians come to appreciate and savour our
 
 It may be too much to expect that everyone everywhere might finally accept that every single human being has the same inherent rights and dignities. It may be too much to expect that everyone everywhere might finally subscribe to the principle—treat others as you would have them treat you. But it is not too much, surely, to expect that our world might finally and fully grasp that it is never right to kill people because they have a different view of God. Killing in the name of God is never right. Mistreating others in the name of God is never right. And if the all but universal revulsion towards the ISIL horror has this result, good might finally emerge despite the pointless death and dislocation that confronts us now.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,9,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,9,1,speech
 "Pyne, Christopher, MP",LP,2014-09-22,"
 
 
@@ -1004,7 +1004,7 @@ That so much of the standing and sessional orders be suspended as would prevent 
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,9,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,9,1,speech
 "Shorten, Bill, MP",ALP,2014-09-22,"
 
 
@@ -1051,7 +1051,7 @@ All Australians were shocked by the events of last week; shocked by the closenes
 
 Australians will not be intimidated by the threat of terrorism. We will be true to ourselves. Australians never give in to fear; we will not start now. We do not back down to threats. Whenever we are challenged, we prevail. Our values of peace, tolerance and love will overcome hatred. They always have; they always will.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,9,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,9,1,speech
 "Pyne, Christopher, MP",LP,2014-09-22,"
 
 
@@ -1065,7 +1065,7 @@ That further statements by indulgence in relation to the Prime Minister’s stat
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,9,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>National Security</title>,MINISTERIAL STATEMENTS,9,1,speech
 "Pyne, Christopher, MP",LP,2014-09-22,"
 
 
@@ -1079,7 +1079,184 @@ That further statements by indulgence in relation to the Prime Minister’s stat
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Reference to Federation Chamber</title>,MINISTERIAL STATEMENTS,9,2
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Reference to Federation Chamber</title>,MINISTERIAL STATEMENTS,9,2,speech
+"Shorten, Bill, MP",ALP,2014-09-22,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:30):  My question is to the Prime Minister. Yesterday the Minister for Social Services initially signalled in the Sunday Telegraph that the government was planning to defer its harsh cuts to pensions, for now. Since then, the Treasurer has denied these initial claims. So, Prime Minister, who is telling the truth?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Abbott, Tony, MP",LP,2014-09-22,"
+
+
+
+Mr ABBOTT
+ (Warringah—Prime Minister) (14:31):  The government stands by the proposals that were included in the recent budget, and those proposals will certainly ensure that pensions continue to go up twice a year every year. They will go up every March; they will go up every September. The rate of increase might be a little different from 2017 onwards, but what these changes do will mean that our social services system is sustainable into the long-term, and that is a very, very important national goal. Our country could not go on as it was, living way beyond its means. We cannot go on as we still are, borrowing $1 billion a month every single month to pay the interest on the former government's debt and deficit and to sustain spending programs which this country simply could not and cannot afford. 
+
+
+So we stand by our budget, but nevertheless we do accept that some of the budget measures do need to be negotiated through the Senate—
+
+
+
+Ms Macklin interjecting— 
+
+
+
+
+Mr ABBOTT:
+  and we will do so in a constructive, a courteous and a collegial way.
+
+
+
+The SPEAKER:  The member for Jagajaga will desist.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
+"Tehan, Dan, MP",LP,2014-09-22,"
+
+
+
+Mr TEHAN
+ (Wannon) (14:55): My question is to the Minister for Education. Will the minister outline to the House how the government is working with Indigenous communities to improve literacy outcomes. How was this approach informed by his visit to East Arnhem Land last week? 
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Indigenous Education</title>,QUESTIONS WITHOUT NOTICE,13,1,question
+"Pyne, Christopher, MP",LP,2014-09-22,"
+
+
+
+Mr PYNE
+ (Sturt—Leader of the House and Minister for Education) (14:55):  I thank the member for Wannon for his serious question about Indigenous disadvantage in education and how we are trying to address it. I am very pleased that I had the opportunity last week to visit the communities of East Arnhem Land, with the Prime Minister, other cabinet ministers and ministers. We went to the communities of Gunyangara, Nhulunbuy and the Yirrkala. In fact, these are not the first Indigenous communities that I have visited, because the first committee I ever sat on in this place in 1993 was the Indigenous affairs committee. I spent much time in Indigenous communities. With the former minister for health, Tony Abbott, I went to the APY Lands on many occasions to see what benefits we could bring to that community. If the opposition took Indigenous affairs seriously rather than seeing it as a tokenistic, ideological playground, they would actually recognise that some of the policies we are trying introduce—
+
+
+
+Opposition members interjecting—
+
+
+
+
+Mr PYNE:
+  Well, stop interjecting when I am answering a serious question about Indigenous disadvantage. You just can't help yourselves. My trip to East Arnhem Land reinforced my view that the government has got it right in putting student outcomes first, before ideology. We announced on 1 July this year $22 million more to expand Direct Instruction and Explicit Instruction across remote communities in Australia. Building on the excellent work that Cape York Partnership has done on Cape York in communities like Coen, Hope Vale and Aurukun, we want the good work that Noel Pearson and his people at Cape York Partnership have achieved there spread across more remote communities, particularly Indigenous communities. That $22 million will lead to more phonics based instruction in remote communities. 
+
+
+Soon, hopefully, 40 schools will be announced across Australia as the beneficiaries, beginning next year, of extra Direct Instruction and Explicit Instruction. Just to give the House some examples of the benefits: at the Aurukun campus, the proportion of year 3 students achieving at or above national minimum standards rose from 27 per cent in 2012 to 66 per cent in 2013. At the Hope Vale campus, the proportion of year 3 students achieving at or above the national minimum standard rose from 29 per cent in 2012 to 54 per cent in 2013. Some of Australia's most disadvantaged communities are using Explicit Instruction too. The member for Leichhardt's electorate in Bamaga, the Northern Peninsula Area State College and the Goondi State School at Innisfail East State School are all using Explicit Instruction. Those students are now in the top half of the nation's NAPLAN results. So we are getting good outcomes for students by using practical measures to do so. I am very pleased to see our good work in practice being expanded across remote Australia. 
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Indigenous Education</title>,QUESTIONS WITHOUT NOTICE,13,1,answer
+"Neumann, Shayne, MP",ALP,2014-09-22,"
+
+
+
+Mr NEUMANN
+ (Blair) (14:59): My question is to the Prime Minister. Prime Minister, I refer to the Children and Family Centre in Fitzroy Crossing—one of 38 centres across Australia that faces closure because of the Prime Minister's cuts to Indigenous services. Aboriginal leader June Oscar says that the Fitzroy community faces a crisis because of the centre's potential closure, stating: '… it impacts on our kids, the retention of staff jobs and service delivery'. Prime Minister, why should the Fitzroy community suffer because of your broken promises?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,15,1,question
+"Abbott, Tony, MP",LP,2014-09-22,"
+
+
+
+Mr ABBOTT
+ (Warringah—Prime Minister) (14:59):  I defy members opposite to justify this charge of broken promises.
+
+
+
+Opposition members interjecting—
+
+
+
+The SPEAKER:  There will be silence on my left.
+
+
+
+
+Mr ABBOTT:
+  Overall funding for Indigenous programs goes up. Overall funding for social services, for schools, for hospitals and for everything continues to increase—
+
+
+
+The SPEAKER:  The member for Jagajaga on a point of order.
+
+
+
+
+Ms Macklin:
+  I seek leave to table a page 185 that shows—
+
+
+
+The SPEAKER:  The member will resume her seat.
+
+
+
+Ms Macklin interjecting—
+
+
+
+The SPEAKER:  The member for Jagajaga is warned. You know perfectly well that is not a point of order.
+
+
+
+Ms Macklin interjecting—
+
+
+
+The SPEAKER:  The member for Jagajaga will leave the chamber under standing order 94(a).
+
+
+
+
+The member for Jagajaga then left the chamber.
+
+
+
+
+The SPEAKER:  The member for Grayndler on a point of order.
+
+
+
+
+Mr Albanese:
+  The member for Jagajaga sought leave to table a document, entirely within the provision of standing orders, in response to a request from the Prime Minister.
+
+
+
+
+The SPEAKER:  The member will resume his seat. The member for Jagajaga was asked to leave, because when she was asked to resume her seat she did not do so. The Prime Minister has the call.
+
+
+
+
+Mr ABBOTT:
+  We are continuing to fund all of the major programs.
+
+
+
+Opposition members interjecting—
+
+
+
+The SPEAKER:  The member for Parramatta will desist and so will the members for Lalor and Adelaide.
+
+
+
+
+Mr ABBOTT:
+  We are determined to ensure that we get the best possible value for our spending, and we are determined to ensure that our spending is sustainable over the long term. The problem with members opposite is that they are not interested in efficiency. They are only interested in spending. They are not interested in results. They are only interested, it seems, in bureaucracy. They are much better at building bureaucracy than they are at getting results on the ground. Our determination is to get results on the ground, and if that means re-casting programs and if it means over time directing funding—
+
+
+
+Opposition members interjecting—
+
+
+
+The SPEAKER:  The member for Moreton is warned—
+
+
+
+
+Mr ABBOTT:
+  from services that are less effective towards services that are more effective, so be it.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,15,1,answer
 "Bishop, Bronwyn, MP",LP,2014-09-22,"
 
 
@@ -1090,7 +1267,7 @@ The SPEAKER
 
 Ordered that the report be made a parliamentary paper.
 
-",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 1 of 2014-15</title>,AUDITOR-GENERAL'S REPORTS,16,1
+",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 1 of 2014-15</title>,AUDITOR-GENERAL'S REPORTS,16,1,speech
 "Bishop, Bronwyn, MP",LP,2014-09-22,"
 
 
@@ -1098,7 +1275,7 @@ Ordered that the report be made a parliamentary paper.
 The SPEAKER
  (15:13):  I have received advice from the Chief Government Whip that he has nominated Mrs Prentice to be a member of the Joint Standing Committee on Foreign Affairs, Defence and Trade in place of Mr Simpkins.
 
-",HoR,<title>COMMITTEES</title>,"<title>Joint Standing Committee on Foreign Affairs, Defence and Trade</title>",COMMITTEES,18,1
+",HoR,<title>COMMITTEES</title>,"<title>Joint Standing Committee on Foreign Affairs, Defence and Trade</title>",COMMITTEES,18,1,speech
 "Pyne, Christopher, MP",LP,2014-09-22,"
 
 
@@ -1112,7 +1289,7 @@ That Mr Simpkins be discharged from the Joint Standing Committee on Foreign Affa
 
 Question agreed to. 
 
-",HoR,<title>COMMITTEES</title>,"<title>Joint Standing Committee on Foreign Affairs, Defence and Trade</title>",COMMITTEES,18,1
+",HoR,<title>COMMITTEES</title>,"<title>Joint Standing Committee on Foreign Affairs, Defence and Trade</title>",COMMITTEES,18,1,speech
 "Bishop, Bronwyn, MP",LP,2014-09-22,"
 
 
@@ -1120,7 +1297,7 @@ Question agreed to.
 The SPEAKER
  (15:13):  I have received advice from the Chief Government Whip that he has nominated Mrs Prentice to be a member of the Joint Standing Committee on Foreign Affairs, Defence and Trade in place of Mr Simpkins.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,18,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,18,2,speech
 "Pyne, Christopher, MP",LP,2014-09-22,"
 
 
@@ -1134,7 +1311,7 @@ That Mr Simpkins be discharged from the Joint Standing Committee on Foreign Affa
 
 Question agreed to. 
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,18,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,18,2,speech
 "Whiteley, Brett, MP",LP,2014-09-22,"
 
 
@@ -1160,7 +1337,7 @@ The government has clearly been delivering on its commitment to improve adoption
 
 The Abbott government is clearly committed to adoption reform to enable more Australians who wish to adopt a child from overseas to achieve this wonderful outcome. Bringing together a child in need of a home, particularly a special needs child, as children of intercountry adoption so frequently are, with those who wish to offer a safe and loving family is something that should be managed as sensitively and with as little unnecessary red tape as possible. Potential adopting parents are required to go through an extremely complex and robust vetting process—and rightly so—but should not have to deal with any more red tape than is absolutely necessary. I strongly support this bill and commend it to the House.
 
-",HoR,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,20,1,speech
 "Ramsey, Rowan, MP",LP,2014-09-22,"
 
 
@@ -1216,7 +1393,7 @@ I know the world is not a perfect place and there will always be those who take 
 
 This bill will allow the granting of citizenship as soon as adoption is verified, enabling the newly adopted children to travel with their parents on an Australian passport. It will not suddenly make overseas adoption easy—and I hope there is more we can do in that space—but it is a significant step in the right direction. I hope we can do more in this area and complete the lives of Tanya and her husband and many others like them around Australia and really improve the opportunities of the children that they might adopt.
 
-",HoR,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,20,1,speech
 "Gambaro, Teresa, MP",LP,2014-09-22,"
 
 
@@ -1287,7 +1464,7 @@ The key feature of the bill is an amendment to subdivision AA of division 2 of p
 
 The government is realistic: this bill is not a magic bullet to solve all of the problems associated with intercountry adoption that have existed for decades, but it is an important and substantial step forward, and the bill gives hope to families. It gives hope to children without parents, where no hope previously existed. It is through actions such as these that we show our humanity—where we can demonstrate that we are not prepared to accept the status quo that presently values bureaucracy and red tape over the welfare of children. Never can such a situation be acceptable. We as a parliament must reject it. As I said earlier, there has never been a more important time for legislation of this kind to be put before the House—so that we as a nation can demonstrate to those who inflict hatred and fear upon the world that Australia offers hope and love to those who deserve a better life. There can be no more deserving recipients than children with no parents. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,20,1,speech
 "Alexander, John, MP",LP,2014-09-22,"
 
 
@@ -1349,7 +1526,7 @@ Our Prime Minister and this government have seized the initiative and have taken
 
 It behoves us to live up to our values and standards of charity and common humanity and to remain mindful that, in improving the adoption process for prospective parents, the paramount consideration for the government is the best interests of the child. There have been bipartisan efforts on the part of this House to reform. May that bipartisanship continue, and may this bill, as presented by the Prime Minister, be accepted by this parliament. I echo the words of the Prime Minister: the effort we are making in this important area will result in more children who need families and more families who want nothing more than to provide a loving and stable home being brought together. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,20,1,speech
 "Morrison, Scott, MP",LP,2014-09-22,"
 
 
@@ -1378,7 +1555,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,20,1,speech
 "Morrison, Scott, MP",LP,2014-09-22,"
 
 
@@ -1395,7 +1572,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,20,1,speech
 "Whiteley, Brett, MP",LP,2014-09-22,"
 
 
@@ -1421,7 +1598,7 @@ The government has clearly been delivering on its commitment to improve adoption
 
 The Abbott government is clearly committed to adoption reform to enable more Australians who wish to adopt a child from overseas to achieve this wonderful outcome. Bringing together a child in need of a home, particularly a special needs child, as children of intercountry adoption so frequently are, with those who wish to offer a safe and loving family is something that should be managed as sensitively and with as little unnecessary red tape as possible. Potential adopting parents are required to go through an extremely complex and robust vetting process—and rightly so—but should not have to deal with any more red tape than is absolutely necessary. I strongly support this bill and commend it to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Ramsey, Rowan, MP",LP,2014-09-22,"
 
 
@@ -1477,7 +1654,7 @@ I know the world is not a perfect place and there will always be those who take 
 
 This bill will allow the granting of citizenship as soon as adoption is verified, enabling the newly adopted children to travel with their parents on an Australian passport. It will not suddenly make overseas adoption easy—and I hope there is more we can do in that space—but it is a significant step in the right direction. I hope we can do more in this area and complete the lives of Tanya and her husband and many others like them around Australia and really improve the opportunities of the children that they might adopt.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Gambaro, Teresa, MP",LP,2014-09-22,"
 
 
@@ -1548,7 +1725,7 @@ The key feature of the bill is an amendment to subdivision AA of division 2 of p
 
 The government is realistic: this bill is not a magic bullet to solve all of the problems associated with intercountry adoption that have existed for decades, but it is an important and substantial step forward, and the bill gives hope to families. It gives hope to children without parents, where no hope previously existed. It is through actions such as these that we show our humanity—where we can demonstrate that we are not prepared to accept the status quo that presently values bureaucracy and red tape over the welfare of children. Never can such a situation be acceptable. We as a parliament must reject it. As I said earlier, there has never been a more important time for legislation of this kind to be put before the House—so that we as a nation can demonstrate to those who inflict hatred and fear upon the world that Australia offers hope and love to those who deserve a better life. There can be no more deserving recipients than children with no parents. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Alexander, John, MP",LP,2014-09-22,"
 
 
@@ -1610,7 +1787,7 @@ Our Prime Minister and this government have seized the initiative and have taken
 
 It behoves us to live up to our values and standards of charity and common humanity and to remain mindful that, in improving the adoption process for prospective parents, the paramount consideration for the government is the best interests of the child. There have been bipartisan efforts on the part of this House to reform. May that bipartisanship continue, and may this bill, as presented by the Prime Minister, be accepted by this parliament. I echo the words of the Prime Minister: the effort we are making in this important area will result in more children who need families and more families who want nothing more than to provide a loving and stable home being brought together. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Morrison, Scott, MP",LP,2014-09-22,"
 
 
@@ -1639,7 +1816,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Conroy, Pat, MP",ALP,2014-09-22,"
 
 
@@ -1659,7 +1836,7 @@ As the federal member representing Western Lake Macquarie and Western Newcastle,
 
 I call on the New South Wales government to make a strong commitment to the Glendale interchange, and deliver further funding to complete stage one, at the very least, with the proceeds from the sale of our port. Madam Speaker, I would submit that a commitment to the Glendale transport interchange is a commitment to our region, and should be the litmus test for any candidates and any political parties in the upcoming state election.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Charlton Electorate: Glendale Interchange</title>,ADJOURNMENT,21,1
+",HoR,<title>ADJOURNMENT</title>,<title>Charlton Electorate: Glendale Interchange</title>,ADJOURNMENT,21,1,speech
 "Hall, Jill, MP",ALP,2014-09-22,"
 
 
@@ -1667,7 +1844,42 @@ I call on the New South Wales government to make a strong commitment to the Glen
 Ms HALL
  (Shortland—Opposition Whip) (10:35):  On indulgence—I would like to congratulate the government on extending the role of and improving this chamber. I have spent a lot of time in the Federation Chamber during my time in parliament, and I know that it is a very important part of the way this parliament works. I think that raising and elevating its importance by making it very visible will only help debate within this parliament and will help improve the general knowledge of the parliament for people in the community. So I congratulate you, Mr Deputy Speaker Scott, and the government.
 
-",HoR,<title>STATEMENTS</title>,<title>Federation Chamber: 20th Anniversary</title>,STATEMENTS,23,1
+",HoR,<title>STATEMENTS</title>,<title>Federation Chamber: 20th Anniversary</title>,STATEMENTS,23,1,speech
+"Scott, Bruce, MP",Nats,2014-09-22,"
+
+
+
+The DEPUTY SPEAKER 
+
+(
+Hon. BC Scott
+) (10:30):  Before I invite honourable members to make constituency statements, I wish to make a statement to record the fact that this year we celebrate the 20th anniversary of the operation of this chamber. The occasion is being acknowledged with some physical enhancements to the Federation Chamber, commencing with the new screens which have been installed on the side walls, adjacent to the television lights. These screens display the current item of business and the question before the chair. The trial arrangement which was in place prior to this meeting was met with general approval from members, so this more formal installation of screens has now taken place.
+
+
+I foreshadow that members will notice in the coming weeks further enhancements to the Federation Chamber to improve the facility and the authority of the Federation Chamber. Further enhancements will include improved signage at the chamber entrance, a central table in front of the Deputy Speaker's chair to accommodate chamber documents, new lecterns, a new coat of arms, some artwork and a redesigned front desk for the Deputy Speaker and the clerks, in addition to some general maintenance.
+
+
+In marking this important milestone, I will make a few points in relation to the 20 years of operation of this Federation Chamber, which was renamed in 2012 from the original Main Committee. I would like to note that it was Madam Speaker Bishop's suggestion way back—I think 10 years ago—that the name could change from the Main Committee to the Federation Chamber. That has now been achieved.
+
+
+It was at 10 am on Wednesday, 8 June 1994 that the then Deputy Speaker, Harry Jenkins, the former member for Scullin, took the chair for the inaugural meeting of the second debating chamber of the House of Representatives, then called the Main Committee. Following from the 1993 report of the House Standing Committee on Procedure About time: bills, questions and working hours, this second debating chamber was established so that the House could deal more effectively with the high legislative workload without sacrificing opportunity for members to speak to bills and without increasing the number of sitting days or hours. The Federation Chamber has achieved that objective and more.
+
+
+The Federation Chamber began, and remains, a body that is subordinate to the House. Its business is referred by the House, effectively, and its decisions are reported to and confirmed by the House. Cooperation has been the foundation of its success, especially noting the need for unanimity on decisions made in the Federation Chamber.
+
+
+In its inaugural year, the Main Committee began with a modest workload, meeting for some 61 hours. Over the following years, the meeting hours grew, reaching a peak of some 377 hours in 2011. This total reflects the level of work for the House during the period of minority government, which brought about a surge in opportunities for private members to speak and propose debate on subjects of their own choosing in addition to debating time for scrutinising government bills.
+
+
+For many years the Federation Chamber has been the venue where committee reports have been debated and significant motions that began their life in the House have been considered further. It has been a significant factor in the House's ability to respond in a timely manner in dealing with the myriad changing issues that affect parliaments in these times.
+
+
+The Federation Chamber has enabled the House to undertake experiments in terms of procedure and equipment, with permanent changes occurring only after innovations have been tried and tested. From today, as members might have noticed, screens now have been placed in the chamber itself following on the success of the trial arrangements in the Federation Chamber. I believe this process of innovation, review and incremental change has been integral to the success of the Federation Chamber in its own right as well as its value to the House.
+
+
+In noting the success, I acknowledge the contribution of my predecessors, including the current member for Chisholm, and I thank members of the Speaker's panel who preside here as Deputy Speaker, the whips and all members of staff for their support in the successful operation of the Federation Chamber. I look forward to its continuing success.
+
+",HoR,<title>STATEMENTS</title>,<title>Federation Chamber: 20th Anniversary</title>,STATEMENTS,23,1,question
 "Elliot, Justine, MP",ALP,2014-09-22,"
 
 
@@ -1693,7 +1905,7 @@ At this stage, the terms of the contract that the government is proposing to ent
 
 This decision by the Abbott government is yet another attack on the good staff of the Department of Human Services. These actions, along with their constant threat to cut penalty rates as well, are another cruel act by a very cruel government. We see their attacks on workers when it comes to penalty rates, and now we see these threats in terms of outsourcing these very important roles. There are many people in my electorate who are very concerned and many at the Centrelink call centre who are very worried about the future of their jobs.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Richmond Electorate: Employment</title>,CONSTITUENCY STATEMENTS,24,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Richmond Electorate: Employment</title>,CONSTITUENCY STATEMENTS,24,1,speech
 "Claydon, Sharon, MP",ALP,2014-09-22,"
 
 
@@ -1812,7 +2024,7 @@ Mr Ewen Jones
 Ms Hall:
   I second the motion and reserve my right to speak.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Development Assistance</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Development Assistance</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Kelly, Craig, MP",LP,2014-09-22,"
 
 
@@ -1860,7 +2072,7 @@ Ms Hall:
 Mr CRAIG KELLY:
   What a sad, sad response. The adoption of free markets and the encouragement of entrepreneurial activity: that is what lifts people out of poverty, not handouts. You combine free market principles, encouragement and reward for entrepreneurial activities and an abundant supply of low-cost electricity. That is what lifts people out of poverty. That is what our history shows and that is what we should be encouraging more and more of to make sure that we actually lift those people out of poverty. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Development Assistance</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Development Assistance</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Hall, Jill, MP",ALP,2014-09-22,"
 
 
@@ -1883,7 +2095,7 @@ Oxfam called on the G20 ministers to rein in multinational tax cuts. The world's
 
 I have to finish by saying this government's contribution to multinational tax evasion has been to open loopholes. We closed them; this government is opening them. It stands condemned for that. We want to see poverty eliminated worldwide.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Development Assistance</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Development Assistance</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Prentice, Jane, MP",LP,2014-09-22,"
 
 
@@ -1909,7 +2121,7 @@ Significant improvements in facilities' healthcare delivery have occurred in the
 
 I would also like to point out that, while those opposite like to stand and complain that Australia is not spending enough on aid, we are now achieving greater aid results for every dollar spent under the coalition's paradigm than under Labor's reckless money-throwing approach. Even Bob Carr acknowledged that a nation cannot have an unsustainable aid budget. The member for Sydney committed Labor to spend an extra $16 billion on the aid program yet has not revealed where this additional $16 billion will come from. Labor even raided $30 million from the emergency fund for its blow-out on border protection costs. Yes, Labor was its own third largest recipient of foreign aid budget. Fortunately, the coalition has now restored this money. This shows how careless and irresponsible Labor is with Australia's foreign aid. Only the coalition can be trusted to deliver foreign aid responsibly and in a way that will see the best outcomes for each dollar spent.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Development Assistance</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Development Assistance</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Ferguson, Laurie, MP",ALP,2014-09-22,"
 
 
@@ -1956,7 +2168,7 @@ We now have a situation where there is talk of long overdue of international— 
 
 Debate adjourned.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Development Assistance</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Development Assistance</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Ruddock, Philip, MP",LP,2014-09-22,"
 
 
@@ -1979,7 +2191,7 @@ In the end, the response will be a matter for government. Nobody knows where an 
 
 The issues raised in the terms of reference are challenging, and I am sure there will be a wide range of submissions put. I would like to take this opportunity to reiterate that we cannot predetermine the outcome of an inquiry of any committee, but the government will await the recommendations of the report and will obviously give proper consideration to the matters that the committee raises.
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Joint Committee on the Australia Fund Bill 2014</title>,BILLS,26,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Joint Committee on the Australia Fund Bill 2014</title>,BILLS,26,1,speech
 "Zappia, Tony, MP",ALP,2014-09-22,"
 
 
@@ -2005,7 +2217,7 @@ There are mechanisms available and already in place if the government wants to s
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Joint Committee on the Australia Fund Bill 2014</title>,BILLS,26,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Joint Committee on the Australia Fund Bill 2014</title>,BILLS,26,1,speech
 "Ruddock, Philip, MP",LP,2014-09-22,"
 
 
@@ -2028,7 +2240,7 @@ In the end, the response will be a matter for government. Nobody knows where an 
 
 The issues raised in the terms of reference are challenging, and I am sure there will be a wide range of submissions put. I would like to take this opportunity to reiterate that we cannot predetermine the outcome of an inquiry of any committee, but the government will await the recommendations of the report and will obviously give proper consideration to the matters that the committee raises.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2,speech
 "Zappia, Tony, MP",ALP,2014-09-22,"
 
 
@@ -2054,7 +2266,7 @@ There are mechanisms available and already in place if the government wants to s
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2,speech
 "Ferguson, Laurie, MP",ALP,2014-09-22,"
 
 
@@ -2136,7 +2348,7 @@ The DEPUTY SPEAKER
 Mr Randall
 ):  Is the motion seconded?
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Greste, Mr Peter</title>",PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Greste, Mr Peter</title>",PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Prentice, Jane, MP",LP,2014-09-22,"
 
 
@@ -2171,7 +2383,7 @@ With the ongoing appeal process, I think I can speak for all Australians when I 
 
 Journalism is an honourable profession. We rely on the integrity of journalists as a primary source of our information—information upon which we base judgements and decisions. We rely on the courage of journalists who report from troubled places, who place their lives at risk to report the facts. Peter Greste is a journalist of integrity, a journalist of courage. He is a constant reminder of the importance of freedom of speech, particularly in the Middle East. I am honoured to stand today beside my colleagues from all sides of politics to demonstrate our united and unwavering support for Peter and his colleagues. I look forward to the day when we can welcome Peter Greste to this place and thank him for his courage and integrity. I commend the motion to the House.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Greste, Mr Peter</title>",PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Greste, Mr Peter</title>",PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Chalmers, Jim, MP",ALP,2014-09-22,"
 
 
@@ -2194,7 +2406,7 @@ In many countries, freelance journalists and foreign correspondents risk their l
 
 The Labor Party believes fundamentally in the freedom of journalists to be able to do their work, as does, I think, every member in this place—and I commend the member for Ryan for her remarks a moment ago. We will continue to stand beside Peter and his family, and all the journalists who risk their lives in the course of their important work. They should never be imprisoned or harmed for doing their job and for reporting the news. That is why this is an important motion moved by the member for Werriwa, and that is why I am proud to support it.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Greste, Mr Peter</title>",PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Greste, Mr Peter</title>",PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Coulton, Mark, MP",Nats,2014-09-22,"
 
 
@@ -2220,7 +2432,7 @@ The Australian government has, at every opportunity, expressed concern about the
 
 Inherent to any good democracy is a free press. These sentiments have been echoed by leaders around the world including US Secretary of State John Kerry and United Kingdom Prime Minister David Cameron, as well as representatives of the highest level from New Zealand, Canada, Germany and the Netherlands. United Nations Secretary-General Ban Ki-moon also issued a statement about their deep concern at the court decision of 24 June. In the statement, Secretary-General Ban described the trial as having proceedings that clearly appear not to meet the basic fair trial standards. It is clear that the Egyptian authorities are completely aware that the Australian government is seeking Mr Greste's release in order for him to return to his family as quickly as possible. We support an expeditious appeal process and we will continue to work with Mr Greste and his family throughout this process. I acknowledge the great courage that Peter Greste has shown through this horrendous ordeal and my sincere hope is that he returns to Australia sooner rather than later. 
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Greste, Mr Peter</title>",PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Greste, Mr Peter</title>",PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Albanese, Anthony, MP",ALP,2014-09-22,"
 
 
@@ -2249,7 +2461,7 @@ This is not a trial for these defendants alone—this is a trial of all journali
 
 Our entire parliament stands, as well as with Peter Greste, with the Greste family, who have shown such courage. On behalf of the opposition, we give every support to the government in its endeavours to ensure Peter Greste's early release.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Greste, Mr Peter</title>",PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Greste, Mr Peter</title>",PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Henderson, Sarah, MP",LP,2014-09-22,"
 
 
@@ -2281,7 +2493,7 @@ We must now wait for the appeal to come before the court. We—of course, all pa
 
 Debate adjourned.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Greste, Mr Peter</title>",PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Greste, Mr Peter</title>",PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Rishworth, Amanda, MP",ALP,2014-09-22,"
 
 
@@ -2313,7 +2525,7 @@ It is time for Tony Abbott to start admitting he got it wrong. It is time for th
 
 This bill will tie the Commonwealth funding for schools in every state and territory to the very basic principle that there are no more state education budget cuts. This bill is an important part of Labor's plan that the states and territories have signed up to, but we need a Commonwealth government that will hold them to account and ensure that together we are working to lift the education standards of our country. So I call on the government to support this important bill before the House today, and I hope that they will reconsider decent school funding. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Australian Education Amendment (School Funding Guarantee) Bill 2014</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Australian Education Amendment (School Funding Guarantee) Bill 2014</title>,BILLS,28,1,speech
 "Prentice, Jane, MP",LP,2014-09-22,"
 
 
@@ -2342,7 +2554,7 @@ Just to recap, we have a coalition government that is actually increasing fundin
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Australian Education Amendment (School Funding Guarantee) Bill 2014</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Australian Education Amendment (School Funding Guarantee) Bill 2014</title>,BILLS,28,1,speech
 "Rishworth, Amanda, MP",ALP,2014-09-22,"
 
 
@@ -2374,7 +2586,7 @@ It is time for Tony Abbott to start admitting he got it wrong. It is time for th
 
 This bill will tie the Commonwealth funding for schools in every state and territory to the very basic principle that there are no more state education budget cuts. This bill is an important part of Labor's plan that the states and territories have signed up to, but we need a Commonwealth government that will hold them to account and ensure that together we are working to lift the education standards of our country. So I call on the government to support this important bill before the House today, and I hope that they will reconsider decent school funding. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Prentice, Jane, MP",LP,2014-09-22,"
 
 
@@ -2403,7 +2615,7 @@ Just to recap, we have a coalition government that is actually increasing fundin
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Hall, Jill, MP",ALP,2014-09-22,"
 
 
@@ -2421,7 +2633,7 @@ Youth Connections on the Central Coast works with organising work placements and
 
 On apprenticeships, this government has attacked apprenticeships. One of the areas where we have been working hard on locally has been attracting students at the local high schools to undertake school-based apprenticeship training. It has been very successful and, once again, Youth Connections has been really active in that space. This government uses rhetoric and puts in place harsh programs that are going to make it hard for young people when they leave school to actually achieve that goal of a job—even to undertake the training, when they will have no financial support whilst they are doing it. The organisations that have been funded to provide them with the support and training that they need can no longer function because they have been defunded. This leaves young people in a situation where they are devoid of hope and of opportunities, and at the same time those organisations I have talked about are no longer in a space where they can operate and give the training they would like to—the partnership brokerage. Even books like the job guide the department produced which provided information on jobs and training will no longer be funded by this government after next year. In every area resources are being taken away, and at the same time there is this enormous demand being placed on young people to find jobs. They have to do that without resources. They have to do it without support, and the organisations have been defunded. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,29,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,29,1,speech
 "Taylor, Angus, MP",LP,2014-09-22,"
 
 
@@ -2509,7 +2721,7 @@ Sitting suspended from 13
 00
 
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,29,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,"<title>Education, Training and Employment Programs</title>",PRIVATE MEMBERS' BUSINESS,29,1,speech
 "Watts, Tim, MP",ALP,2014-09-22,"
 
 
@@ -2520,7 +2732,7 @@ Mr WATTS
 
 The crowd of 23,816 was an attendance record at the VFL Grand Final at Etihad and the biggest VFL crowd in over 30 years. I congratulate the president of the Footscray Bulldogs, Peter Gordon, and the CEO, Simon Garlick, for their vision in fielding a stand-alone VFL side, and particularly for bringing footy back to Whitten Oval. I had the pleasure of giving my daughter her first taste of suburban footy at Whitten Oval at the derby with Williamstown Seagulls earlier this year, and I keenly anticipate making it a family tradition in the future.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Footscray Bulldogs</title>,STATEMENTS BY MEMBERS,30,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Footscray Bulldogs</title>,STATEMENTS BY MEMBERS,30,1,speech
 "Hunt, Greg, MP",LP,2014-09-22,"
 
 
@@ -2555,7 +2767,7 @@ But no mistake: there is nowhere to run and nowhere to hide. Everybody has tried
 
 We have a duty to Australians to ensure that the security threats we have seen of recent days are addressed at source. We have a duty to the world to ensure that a movement that could cause immense damage is stopped. But we have a duty to the Christians, the Yazidis and the Sunni and Shiah of northern Iraq to take steps to protect them. (Time expired)
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Iraq and Syria</title>,MINISTERIAL STATEMENTS,31,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Iraq and Syria</title>,MINISTERIAL STATEMENTS,31,1,speech
 "Coleman, David, MP",LP,2014-09-22,"
 
 
@@ -2566,7 +2778,7 @@ Mr COLEMAN
 
 But we know that words on their own are not enough. We need to act to tackle this appalling terrorist army. We have done so. By providing humanitarian assistance to the Yazidi people during the siege of Mount Sinjar, we helped to save the lives of many people. Of course, the situation for the Yazidi people remains extremely difficult. But we know that the delivery of humanitarian supplies and air strikes by the United States allowed people to survive who would otherwise certainly have perished. We should be proud of that. As we move into a new phase in the conflict with ISIL, it is entirely right that Australia plays its part. It is not a Western coalition fighting ISIL; it is a coalition against evil. To not act would see ISIL expand its territory further, get access to more weapons—and potentially more sophisticated weapons—and give it a greater base from which to plan attacks around the world. No modern terrorist group has ever created such a record of destruction in such a short period of time. The speed of the advance of ISIL demonstrates that it will take substantial international commitment to stop it. We must be a part of that commitment. The tiny group of Australians who support ISIL are of course not reflective of any part of our society. We all want to see the killing stop. The actions that the government is taking will mean that Australia plays its part in stopping the rise of this appalling group.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Iraq and Syria</title>,MINISTERIAL STATEMENTS,31,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Iraq and Syria</title>,MINISTERIAL STATEMENTS,31,1,speech
 "Randall, Don, MP",LP,2014-09-22,"
 
 
@@ -2607,7 +2819,7 @@ So we are beholden, as a responsible nation in this world, to see that movements
 
 The Australian troops that will be going over there are brave men and women that are going to make a difference. We should make a difference to people who want to live in freedom and who want to live without persecution, and we need to help show them a better way. So, obviously, I support the Prime Minister's statement.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Iraq and Syria</title>,MINISTERIAL STATEMENTS,31,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Iraq and Syria</title>,MINISTERIAL STATEMENTS,31,1,speech
 "O'Dwyer, Kelly, MP",LP,2014-09-22,"
 
 
@@ -2654,7 +2866,7 @@ What does Mr Badar hope to achieve by promoting disaffection in Muslim Australia
 
 The Prime Minister in his statements and actions has outlined a responsible path, one that unites us as a nation and one that safeguards our citizens. I commend the Prime Minister's statement to the House. Our freedoms are precious. We should do all that we can to defend them.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Iraq and Syria</title>,MINISTERIAL STATEMENTS,31,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Iraq and Syria</title>,MINISTERIAL STATEMENTS,31,1,speech
 "Griggs, Natasha, MP",CLP,2014-09-22,"
 
 
@@ -2698,7 +2910,18 @@ While it is extremely sad that Australia is again taking up a defensive position
 
 I am sure I speak for all those Australians who served in the Middle East on that occasion in saying that the path to unity can again be rebuilt. Only a unified position will put an end to what is going on in the Middle East, and I commend the steps taken by the Prime Minister and by Foreign Minister Julie Bishop in playing a lead role on the world stage in combating this evil.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Iraq and Syria</title>,MINISTERIAL STATEMENTS,31,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Iraq and Syria</title>,MINISTERIAL STATEMENTS,31,1,speech
+"Andrews, Karen, MP",LP,2014-09-22,"
+
+
+
+The DEPUTY SPEAKER 
+
+(
+Mrs Andrews
+) (16:46):  Are there any statements?
+
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Iraq and Syria</title>,MINISTERIAL STATEMENTS,31,1,question
 "Jones, Stephen, MP",ALP,2014-09-22,"
 
 
@@ -2736,7 +2959,7 @@ The third point is this: the protection of the rights of the minority against th
 
 I argue that a further protection should be the protection of individuals of a particular race, whether they are a majority or a minority, against discrimination. It is no answer to this to say that those protections should be maintained by the popular vote and through the democratic process of representative government. It is why a true liberal and a true conservative should be attracted to the notion that the right of an individual should not be determined by their race, no matter whether that individual is a part of an overwhelming majority or a tiny minority. Some may argue, and they have, that this right is already protected by federal laws—and this is true—but the fact is that the federal law does not constrain the federal parliament, as this change would contemplate. I argue simply this: those who argue that the federal parliament should be able to discriminate against people on the basis of race have an onus upon them to explain why that should be so.
 
-",HoR,<title>COMMITTEES</title>,<title>Constitutional Recognition of ATSIP</title>,COMMITTEES,33,1
+",HoR,<title>COMMITTEES</title>,<title>Constitutional Recognition of ATSIP</title>,COMMITTEES,33,1,speech
 "Claydon, Sharon, MP",ALP,2014-09-22,"
 
 
@@ -2783,7 +3006,7 @@ Opportunities to change the constitution come rarely. Labor believes the sooner 
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,<title>Constitutional Recognition of ATSIP</title>,COMMITTEES,33,1
+",HoR,<title>COMMITTEES</title>,<title>Constitutional Recognition of ATSIP</title>,COMMITTEES,33,1,speech
 "Jones, Stephen, MP",ALP,2014-09-22,"
 
 
@@ -2821,7 +3044,7 @@ The third point is this: the protection of the rights of the minority against th
 
 I argue that a further protection should be the protection of individuals of a particular race, whether they are a majority or a minority, against discrimination. It is no answer to this to say that those protections should be maintained by the popular vote and through the democratic process of representative government. It is why a true liberal and a true conservative should be attracted to the notion that the right of an individual should not be determined by their race, no matter whether that individual is a part of an overwhelming majority or a tiny minority. Some may argue, and they have, that this right is already protected by federal laws—and this is true—but the fact is that the federal law does not constrain the federal parliament, as this change would contemplate. I argue simply this: those who argue that the federal parliament should be able to discriminate against people on the basis of race have an onus upon them to explain why that should be so.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,33,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,33,2,speech
 "Claydon, Sharon, MP",ALP,2014-09-22,"
 
 
@@ -2868,7 +3091,7 @@ Opportunities to change the constitution come rarely. Labor believes the sooner 
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,33,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,33,2,speech
 "Matheson, Russell, MP",LP,2014-09-22,"
 
 
@@ -2921,4 +3144,27 @@ The New South Wales organisation currently provides support for more than 1,300 
 
 In the lead-up to National Police Remembrance Day, my heart goes out to the families of all police officers who have been killed in the line of duty. I offer them my heartfelt condolences. I am sure that they share with me the hope that one day society will understand and respect the great undertaking that is required to serve as a police officer. Until then, I am sure the brave men and women of Australia's police forces will continue to protect their communities despite the dangers they face and the harsh reality that some may not return home to their families. I believe it is important that we in this House continue to express our gratitude and reaffirm our support for the nation's 56,000 police officers whose dedication and commitment ensure continuous peace and safety across our communities.
 
-",HoR,<title>GRIEVANCE DEBATE</title>,<title>National Police Remembrance Day</title>,GRIEVANCE DEBATE,34,1
+",HoR,<title>GRIEVANCE DEBATE</title>,<title>National Police Remembrance Day</title>,GRIEVANCE DEBATE,34,1,speech
+"Danby, Michael, MP",ALP,2014-09-22,"
+
+
+
+Mr Danby
+  asked the Prime Minister, in writing, on 13 May 2014:
+
+
+On (a) how many occasions, and (b) what date(s), has the Minister met with Australian Water Holdings Pty Ltd chief executive Mr Nick Di Girolamo, and can the Minister provide the nature of each meeting.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Prime Minister (Question No. 137)</title>,QUESTIONS IN WRITING,35,1,question
+"Abbott, Tony, MP",LP,2014-09-22,"
+
+
+
+Mr Abbott
+
+:  The answer to the honourable member's question is as follows:
+
+
+Nil meetings.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Prime Minister (Question No. 137)</title>,QUESTIONS IN WRITING,35,1,question

@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2015-02-09,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (10:01):  I remind senators that the question may be put on any proposal at the request of any senator.
 
-",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee, Rural and Regional Affairs and Transport Legislation Committee</title>",COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee, Rural and Regional Affairs and Transport Legislation Committee</title>",COMMITTEES,1,1,speech
 "PRESIDENT, The",,2015-02-09,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (10:01):  I remind senators that the question may be put on any proposal at the request of any senator.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "PRESIDENT, The",,2015-02-09,"
 
 
@@ -22,7 +22,7 @@ The PRESIDENT
 The PRESIDENT
  (10:02):  I inform the Senate that I have received a letter from Senator Faulkner, resigning his place as a senator for the state of New South Wales. Pursuant to the provisions of section 21 of the Constitution, I have notified the Governor of New South Wales of the vacancy in the representation of that state caused by the resignation. I table the letter and a copy of my letter to the Governor of New South Wales.
 
-",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>New South Wales</title>,PARLIAMENTARY REPRESENTATION,2,1
+",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>New South Wales</title>,PARLIAMENTARY REPRESENTATION,2,1,speech
 "Siewert, Sen Rachel",AG,2015-02-09,"
 
 
@@ -155,7 +155,7 @@ I know from the work that I have done with forgotten Australians, former child m
 
 As I said, I deeply understand people's heartfelt desire to look after children who they think they can help by bringing from overseas. I am not saying for one minute that these processes are always flawed, but we know from the evidence that many have poor outcomes. We know the lifelong impact on so-called relinquishing parents or biological parents. Some people call them birth parents. We must guarantee that the adoption is not unethical, that every move has been made to ensure that there are other supports or other potential avenues to support that child in their culture and in their country of origin. We cannot speed it up at the cost of the child, of the parents and of the adoptive parents. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,3,1,speech
 "Macdonald, Sen Ian",LP,2015-02-09,"
 
 
@@ -202,7 +202,7 @@ During the inquiry, the committee also noted advice from the relevant department
 
 The Legal and Constitutional Affairs Legislation Committee strongly endorses the passage of the bill through the parliament. I thank all those who gave evidence to the committee during its deliberations. I thank the deputy chair, Senator Collins, and other members of the committee for their attention to the evidence and the material given to the committee in researching and considering this bill. The bill is a reform and I urge the Senate to do as the Senate committee did—that is, agree with the adoption of this bill.
 
-",Senate,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,3,1,speech
 "Cash, Sen Michaelia",LP,2015-02-09,"
 
 
@@ -297,7 +297,7 @@ Original question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,3,1,speech
 "Sterle, Sen Glenn (The ACTING DEPUTY PRESIDENT)",ALP,2015-02-09,"
 
 
@@ -308,7 +308,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Sterle
 ) (10:47):  As no amendments to the bill have been circulated, I shall call the minister to move the third reading unless any senator requires that the bill be considered in Committee of the Whole.
 
-",Senate,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,3,1,speech
 "Nash, Sen Fiona",Nats,2015-02-09,"
 
 
@@ -325,7 +325,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Australian Citizenship Amendment (Intercountry Adoption) Bill 2014</title>,BILLS,3,1,speech
 "Siewert, Sen Rachel",AG,2015-02-09,"
 
 
@@ -458,7 +458,7 @@ I know from the work that I have done with forgotten Australians, former child m
 
 As I said, I deeply understand people's heartfelt desire to look after children who they think they can help by bringing from overseas. I am not saying for one minute that these processes are always flawed, but we know from the evidence that many have poor outcomes. We know the lifelong impact on so-called relinquishing parents or biological parents. Some people call them birth parents. We must guarantee that the adoption is not unethical, that every move has been made to ensure that there are other supports or other potential avenues to support that child in their culture and in their country of origin. We cannot speed it up at the cost of the child, of the parents and of the adoptive parents. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Macdonald, Sen Ian",LP,2015-02-09,"
 
 
@@ -505,7 +505,7 @@ During the inquiry, the committee also noted advice from the relevant department
 
 The Legal and Constitutional Affairs Legislation Committee strongly endorses the passage of the bill through the parliament. I thank all those who gave evidence to the committee during its deliberations. I thank the deputy chair, Senator Collins, and other members of the committee for their attention to the evidence and the material given to the committee in researching and considering this bill. The bill is a reform and I urge the Senate to do as the Senate committee did—that is, agree with the adoption of this bill.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Cash, Sen Michaelia",LP,2015-02-09,"
 
 
@@ -600,7 +600,7 @@ Original question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Collins, Sen Jacinta",ALP,2015-02-09,"
 
 
@@ -632,7 +632,7 @@ Chris Hayes, the member for Fowler, who has contributed greatly to this bill thr
 
 I couldn't agree more. Labor has supported and will continue to support the laws which take the incentive out of organised crime. Thus, Labor will be supporting this legislation, as it basically mirrors the legislation we introduced in 2012. Before I complete my contribution, I want to compliment our federal, state and territory police forces around the country. They all work in a very difficult space and do a very good job in protecting us.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,5,1,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -676,7 +676,7 @@ The government's recent announcement of $11 million of extra funding for litigat
 
 For these reasons, the Australian Greens recommend that items (3) and (24) of the bill be removed. This will preserve the existing judicial discretion about accessing restrained funds for legal costs and protect Australia's legal resources such as in the legal assistance sector without impacting on legitimate aims of Australia's proceeds-of-crime regime. It will mean that it is judges and courts that are best positioned to understand the risk of someone not being able to adequately represent and defend themselves in the face of these sorts of proceedings that make that call. The Australian Greens will be seeking to amend the bill in line with these recommendations in the committee stage.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,5,1,speech
 "Macdonald, Sen Ian",LP,2015-02-09,"
 
 
@@ -726,7 +726,7 @@ In a lot of these issues, whilst they are matters for parliament to determine, c
 
 I will not delay the Senate further. Suffice to say, for the reasons contained in the Senate committee's report and those enunciated by Senator Collins as well, I support the bill and oppose the amendments proposed by the Greens.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,5,1,speech
 "Bilyk, Sen Catryna",ALP,2015-02-09,"
 
 
@@ -779,7 +779,7 @@ Minister Keenan, in opposition, made remarks about Labor not embracing the recom
 
 We support this bill. I am pleased that the government have finally come to the fore in supporting this bill that was begun when we were in government. I commend the bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,5,1,speech
 "Leyonhjelm, Sen David",LDP,2015-02-09,"
 
 
@@ -820,7 +820,7 @@ Indeed, when the New South Wales equivalent of the law before us today was litig
 
 The bill represents a gross expansion of police power, and, as I have often noticed, a policeman never seems to see a power he does not like. It allows the government to steal our money, overturns the presumption of innocence, reverses the onus of proof and prevents the courts from protecting our rights. It ought to be condemned and not passed.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,5,1,speech
 "Ronaldson, Sen Michael",LP,2015-02-09,"
 
 
@@ -867,7 +867,7 @@ Bill read a second time.
 
 Ordered that consideration of this bill in Committee of the Whole be made an order of the day for a later hour.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,5,1,speech
 "Collins, Sen Jacinta",ALP,2015-02-09,"
 
 
@@ -899,7 +899,7 @@ Chris Hayes, the member for Fowler, who has contributed greatly to this bill thr
 
 I couldn't agree more. Labor has supported and will continue to support the laws which take the incentive out of organised crime. Thus, Labor will be supporting this legislation, as it basically mirrors the legislation we introduced in 2012. Before I complete my contribution, I want to compliment our federal, state and territory police forces around the country. They all work in a very difficult space and do a very good job in protecting us.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -943,7 +943,7 @@ The government's recent announcement of $11 million of extra funding for litigat
 
 For these reasons, the Australian Greens recommend that items (3) and (24) of the bill be removed. This will preserve the existing judicial discretion about accessing restrained funds for legal costs and protect Australia's legal resources such as in the legal assistance sector without impacting on legitimate aims of Australia's proceeds-of-crime regime. It will mean that it is judges and courts that are best positioned to understand the risk of someone not being able to adequately represent and defend themselves in the face of these sorts of proceedings that make that call. The Australian Greens will be seeking to amend the bill in line with these recommendations in the committee stage.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Macdonald, Sen Ian",LP,2015-02-09,"
 
 
@@ -993,7 +993,7 @@ In a lot of these issues, whilst they are matters for parliament to determine, c
 
 I will not delay the Senate further. Suffice to say, for the reasons contained in the Senate committee's report and those enunciated by Senator Collins as well, I support the bill and oppose the amendments proposed by the Greens.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Bilyk, Sen Catryna",ALP,2015-02-09,"
 
 
@@ -1046,7 +1046,7 @@ Minister Keenan, in opposition, made remarks about Labor not embracing the recom
 
 We support this bill. I am pleased that the government have finally come to the fore in supporting this bill that was begun when we were in government. I commend the bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Leyonhjelm, Sen David",LDP,2015-02-09,"
 
 
@@ -1087,7 +1087,7 @@ Indeed, when the New South Wales equivalent of the law before us today was litig
 
 The bill represents a gross expansion of police power, and, as I have often noticed, a policeman never seems to see a power he does not like. It allows the government to steal our money, overturns the presumption of innocence, reverses the onus of proof and prevents the courts from protecting our rights. It ought to be condemned and not passed.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Ronaldson, Sen Michael",LP,2015-02-09,"
 
 
@@ -1134,7 +1134,7 @@ Bill read a second time.
 
 Ordered that consideration of this bill in Committee of the Whole be made an order of the day for a later hour.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Abetz, Sen Eric",LP,2015-02-09,"
 
 
@@ -1157,7 +1157,7 @@ I congratulate the Dawson family on their exceptionally selfless action in the d
 
 15 December 2014 was a day that turned into one that changed the lives of many, and today the Senate reflects on them and honours the memory of the two innocent lives taken at Martin Place and those lives that will continue to bear the scars. But we have no doubt that the Australian spirit of tolerance, civil society and democracy will prevail, because it must. I thank the Senate.
 
-",Senate,<title>STATEMENTS</title>,<title>Sydney: Martin Place Siege</title>,STATEMENTS,6,1
+",Senate,<title>STATEMENTS</title>,<title>Sydney: Martin Place Siege</title>,STATEMENTS,6,1,speech
 "Wong, Sen Penny",ALP,2015-02-09,"
 
 
@@ -1186,7 +1186,7 @@ With such a terrible event, it is important that we never lose sight of who we a
 
 We can never respond to irrationalism with irrationalism, and we can never fight intolerance with intolerance. The siege at Martin Place was an assault on Australian values, but those values have held strong in the aftermath of the siege. The values that Tori Johnson and Katrina Dawson embodied as individuals, the values that led so many to express their sympathy by laying flowers at Martin Place, and the values that led so many to offer, 'I'll ride with you'—these are the values that continue to bind us together as an Australian community.
 
-",Senate,<title>STATEMENTS</title>,<title>Sydney: Martin Place Siege</title>,STATEMENTS,6,1
+",Senate,<title>STATEMENTS</title>,<title>Sydney: Martin Place Siege</title>,STATEMENTS,6,1,speech
 "Milne, Sen Christine",AG,2015-02-09,"
 
 
@@ -1206,7 +1206,7 @@ I was in Peru in South America when news of how the siege rolled out and then th
 
 Katrina Dawson and Tori Johnson were 38 years old and 34 years old respectively. They will not be forgotten by their families or their community, and I, too, join with everyone supporting the Katrina Dawson Foundation. How wonderful that this foundation will stand to raise money for women's educational opportunities. I wish everyone involved in trying to come to terms with the aftermath our support, love and encouragement.
 
-",Senate,<title>STATEMENTS</title>,<title>Sydney: Martin Place Siege</title>,STATEMENTS,6,1
+",Senate,<title>STATEMENTS</title>,<title>Sydney: Martin Place Siege</title>,STATEMENTS,6,1,speech
 "Nash, Sen Fiona",Nats,2015-02-09,"
 
 
@@ -1220,7 +1220,7 @@ The overwhelming support and compassion that was shown by the whole nation was i
 
 Australia is a peaceful country; a country so very shocked at the events of that day. We are united in our sorrow that such a tragic event could have taken place and are united in our support for the families of Tori Johnson and Katrina Dawson and all of the survivors. On behalf of the Nationals I express our deepest sympathies.
 
-",Senate,<title>STATEMENTS</title>,<title>Sydney: Martin Place Siege</title>,STATEMENTS,6,1
+",Senate,<title>STATEMENTS</title>,<title>Sydney: Martin Place Siege</title>,STATEMENTS,6,1,speech
 "Xenophon, Sen Nick",Ind.,2015-02-09,"
 
 
@@ -1243,7 +1243,7 @@ Waleed Aly concluded:
 
 But there's another history to be written here.  One that is very much in control.  It's a history written not just in the statements of leaders, but in the minutiae of our everyday interactions.  It's the history we glimpsed as the siege unfolded when a single, humble Australian decided to declare #illridewithyou in solidarity with Muslims too scared to ride public transport.  It's a history that commenced with the interfaith vigil held at the Lakemba and Auburn mosques.  And it's a history to be determined by what we decide this tragedy symbolises: the sordid ideology of a man who deserves to be forgotten or the greatest virtues of those of us left behind.
 
-",Senate,<title>STATEMENTS</title>,<title>Sydney: Martin Place Siege</title>,STATEMENTS,6,1
+",Senate,<title>STATEMENTS</title>,<title>Sydney: Martin Place Siege</title>,STATEMENTS,6,1,speech
 "Leyonhjelm, Sen David",LDP,2015-02-09,"
 
 
@@ -1267,7 +1267,7 @@ I believe Australians agree that a battered wife dealing with a murderous ex-hus
 
 The PRESIDENT:  I thank the Senate party leaders and senators for their contributions to this statement. It is very well that the Senate does this and recognises the same as the House of Representatives did earlier today.
 
-",Senate,<title>STATEMENTS</title>,<title>Sydney: Martin Place Siege</title>,STATEMENTS,6,1
+",Senate,<title>STATEMENTS</title>,<title>Sydney: Martin Place Siege</title>,STATEMENTS,6,1,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1278,7 +1278,7 @@ Senator WRIGHT
 
 The issue at the nub of the government's defence of these far-reaching amendments is clear from the statement that was made by the minister earlier today. He said to the effect that this legislation is designed to turn the tables on criminals to force them to prove that their wealth has been lawfully acquired. Therein lies the assumption. The assumption is that these proceedings will only ever be brought against criminals who have unlawfully acquired wealth and it is therefore in everyone's interest for the government to be able to bring that proceeding. The difficulty starts when you actually allow yourself to consider the possibility that governments do not always get these matters right, that the person against whom the proceedings are being brought may not be a criminal and that, in fact, the wealth was legitimately acquired. And then you can see the justification for potentially allowing the person to use their assets—which, in the case I am posing, have been lawfully acquired—to defend themselves from this government action. Minister, what is the evidence—there is no evidence in the explanatory memorandum—that the existence of this judicial discretion has been misused or has jeopardised the outcome of unexplained wealth proceedings in the past?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Cormann, Sen Mathias",LP,2015-02-09,"
 
 
@@ -1286,7 +1286,7 @@ The issue at the nub of the government's defence of these far-reaching amendment
 Senator CORMANN
  (Western Australia—Minister for Finance) (12:08):  The government does not support this amendment. The Parliamentary Joint Committee on Law Enforcement has recommended that the unexplained wealth laws be changed to prevent people from using restrained property to meet their legal expenses. That is recommendation 10. The Parliamentary Joint Committee on Law Enforcement considered submissions from a range of community, law enforcement and other government bodies in making this recommendation. Unexplained wealth proceedings are the only type of proceeds of crime proceedings in which people are allowed to use restrained assets in this way. The Proceeds of Crime Act generally prohibits restrained assets being used in this way to prevent the practice of dissipating wealth on legal expenses to frustrate potential proceeds of crime orders. To ensure that people are not deprived of legal representation, the Proceeds of Crime Act provides a scheme to reimburse legal aid commissions for costs incurred in representing people who are subject to a restraining order. Under the bill, people who are subject to unexplained wealth proceedings may seek legal representation through legal aid if their unrestrained assets are not sufficient to meet legal costs to ensure that they are appropriately represented and are not disadvantaged. People are still able to use any of their unrestrained assets to pay for legal counsel of their choosing. Courts also have a wide discretion to refuse or revoke orders such as where it is in the interest of justice to do so.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1294,7 +1294,7 @@ Senator CORMANN
 Senator WRIGHT
  (South Australia) (12:10):  I am glad that the minister has referred to the legal aid implications of this—and I will come back to those questions. But that did not actually answer the question I had, which is: what evidence is there that the existence of the judicial discretion, which is what we are discussing here, has actually caused a jeopardisation of the outcome of unexplained wealth proceedings in the past? What I would like to do is be really clear and ask the government to get their story straight on the rationale behind this particular aspect of the legislation. We are told that one of the bases of unexplained wealth legislation is to take the profit gain out of organised crime. And certainly the Greens are supportive of the view that that is an effective thing to be doing. I was involved in the Parliamentary Joint Committee on Law Enforcement when it was first considering the first manifestation of this legislation—or the issue anyway—and one of the issues was that it is indeed quite effective to have criminals who have been used to having a lot of money to flash around, to drive flash cars and so on, to have that money not available to them. So I understand that rationale. But then we have the argument that we cannot allow judicial discretion in some cases to allow persons who are subject to these proceedings to use their restrained assets to get legal defence because they may dissipate the assets, which then would not be available to the government. But in that case, if the story is that it is in fact about separating criminals from their money, why is it such a problem if they are effectively removed from the benefit of the assets because they have had to use them on legal defence proceedings? Is that the issue, or is it in fact that the government is concerned that, if the money is being used on legal defence, it will not be available as revenue for the government? I am not clear on that. It is one or the other. But you cannot argue that the use of restrained assets for legal defence proceedings does not remove the money availability from the persons who are allegedly the criminals. In the end, if that is where the money is gone, they are not going to have that money available to live the high life, which is what we are wanting to prevent.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Cormann, Sen Mathias",LP,2015-02-09,"
 
 
@@ -1302,7 +1302,7 @@ Senator WRIGHT
 Senator CORMANN
  (Western Australia—Minister for Finance) (12:12):  The ability of a person to dispose of restrained property to meet their legal costs weakens the effectiveness of the unexplained wealth provisions by allowing the wealth suspected to have been unlawfully acquired to be used to contest proceedings. This may lead to fewer assets being available for confiscation if an unexplained wealth order is successful, and is likely to cause more protracted litigation. This amendment—the government's amendment, not the Greens amendment—will harmonise provisions relating to the payment of legal expenses for unexplained wealth cases with those for other proceedings under the Proceeds of Crime Act.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1310,7 +1310,7 @@ Senator CORMANN
 Senator WRIGHT
  (South Australia) (12:13):  As I said, it would be interesting to have the story straight then. The issue is really to make sure that those restrained assets are available as revenue for the government so they are not dissipated? Is that the case, or is it to actually prevent criminals from benefiting from their restrained assets to have at their disposal and to be able to use to live the high life? I am not clear on what the rationale for the legislation is.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Xenophon, Sen Nick",Ind.,2015-02-09,"
 
 
@@ -1327,7 +1327,7 @@ In other words, does the legislation in its current form carry with it enough sc
 
 I do have some other questions, but perhaps I will now put those to the minister. Given that the Attorney has just entered the chamber, perhaps I could repeat them for his benefit. I can indicate my broad support for this legislation; this is the way to tackle organised crime. My questions are—and if some of these have to be taken on notice, to an extent, I would accept that, as long as I have an undertaking to get those details: through our current legislative regime, how much unexplained wealth has been seized over the past few years? What does the government say this legislation will do in terms of an increased seizure of assets in respect of that? Given this approach, which, in broad principle, I am very supportive of in this bill, has the government anticipated that organised criminal groups and individuals will find ways to get around this by perhaps siphoning money to associates so it is harder to trace? Will there be enough resources to anticipate these new changes by which criminal gangs will try to get ahead? I have some other questions, but I thought I would put those to the minister.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Collins, Sen Jacinta",ALP,2015-02-09,"
 
 
@@ -1344,7 +1344,7 @@ When the proceeds of crime legislation was brought in in 1987 there was an abili
 
 The opposition supports the objectives of the Proceeds of Crime Act and accepts the advice of the Australian Federal Police. We therefore support preventing defendants from accessing restrained assets for expenditure on legal costs. This principle should be reflected in other unexplained wealth legislation as it is in the Proceeds of Crime Act. It is not necessary to revisit the importance of this uniformity. Therefore, the opposition will not be supporting the Greens amendments.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Brandis, Sen George",LP,2015-02-09,"
 
 
@@ -1355,7 +1355,7 @@ Senator BRANDIS
 
 Secondly, Senator, you asked whether the government has given any consideration to whether or not organised criminal gangs or organised criminal syndicates will seek to, as it were, siphon or launder assets through associated entities. Of course, the government has considered that. That is always an issue in legislation of this kind and the legislation does, as I understand it, contain associated entity provisions and the capacity to trace through associated entities, trusts, third-party structures so that the purpose of the legislation cannot be thwarted by channelling or funnelling money through devices of that character.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Xenophon, Sen Nick",Ind.,2015-02-09,"
 
 
@@ -1372,7 +1372,7 @@ My state colleague, the Hon. John Darley was supportive of that. It has since la
 
 I simply say this to the Attorney to flag the issue, because I think this will be revisited. Firstly, will the Attorney on notice indicate whether any consideration has been given to the South Australian government's approach, since lapsed, of a broader application of the seizure of assets—in other words, the 'all bets are off' approach, which some would say is draconian and others would say would act as a real deterrent. Also, most importantly for me, whether any of the assets seized are being hypothecated to an extent for drug rehabilitation. I have to say to the Attorney, through you, Chair, that I have heard heartbreaking stories from people who have contacted me: those who have a serious substance abuse problem and who cannot get assistance; families with a son who has a raging heroin addiction; and others who have been gripped by crystal methamphetamine addiction, which has just ripped those families apart. There appears to be a lack of appropriate facilities, rehabilitation services and support for them. If we can seize more assets from the organised criminal syndicates that profit from this, the question I respectfully pose to the government, simply to flag it, is: why not use some of those funds to improve rehabilitation services in this country?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Brandis, Sen George",LP,2015-02-09,"
 
 
@@ -1386,7 +1386,7 @@ As I pointed out in answer to your previous question, the legislation as current
 
 In relation to whether or not monies or assets seized under this legislation could be diverted to drug rehabilitation or drug prevention programs, the answer to your question is that, although the proceeds collected or recovered under the act are hypothecated to a proceeds of crime account, the proceeds of crime account is to be spent on crime prevention purposes. As you would be aware, most drug diversion strategies are health matters and not criminal matters. They are programs conducted through the Department of Health, so ordinarily one would not expect so. But that is not to say that there might not be some drug diversion strategies that bear a sufficiently close connection to criminal law enforcement that they might be considered as eligible programs for outlays from the proceeds of crime account. That is something that would have to be assessed on a case by case basis.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1400,7 +1400,7 @@ The Greens amendment is about allowing a court to determine in some circumstance
 
 It is clear, Attorney, that the amendments that the Greens amendments are designed to oppose are amendments that remove any possibility at all in any circumstances that a person could be found to have a legitimate reason to use their restrained assets to defend themselves in court. They are removing that judicial discretion so that there is never a circumstance in which a court can say, 'Weighing everything up, we think it is reasonable to allow this person to use their restrained assets.' What you said in response to the questions from Senator Xenophon is that there have been no assets seized under the current legislation. I am interested to know whether, drawing this back to the Greens amendments, that is because of the exercise of judicial discretion that the government is seeking to remove. Or are there other reasons that the legislation has not been effectively used whereby assets have been restrained?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Brandis, Sen George",LP,2015-02-09,"
 
 
@@ -1408,7 +1408,7 @@ It is clear, Attorney, that the amendments that the Greens amendments are design
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (12:30):  Senator Wright, you correctly point out that there is a difference between proceeds of crime legislation and unexplained wealth legislation in the sense that we know that the assets that are the subject of proceeds of crime legislation are, as it were, the ill-gotten gains of the person whose assets are being seized. In relation to unexplained wealth legislation, there is not a direct relationship established between the assets and the crime. But the difference is not as great as you may think, Senator Wright, because the whole point of unexplained wealth legislation is that, where the statutory tests are satisfied, the unexplained wealth, because it is unexplained in circumstances sufficient to generate a reasonable belief that it was derived from illicit or illegal activity, is treated inferentially as if it were the proceeds of crime or ill-gotten wealth. So it does require an inference to be drawn. But the unexplained wealth is treated as if it were the proceeds of wrongdoing, and therefore the rationale for why the proceeds of crime should not be available for legal defence is the same as the rationale for unexplained wealth if one admits the inference.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1416,7 +1416,7 @@ Senator BRANDIS
 Senator WRIGHT
  (South Australia) (12:32):  I would like to follow up on that, Attorney-General. Thank you for that. I guess what I am saying essentially then is that the inference drawn from unexplained wealth, because it is not explained, is that it is illegitimately acquired. The problem that I see is that by removing any possibility that a person may be able to use the assets that they have to defend themselves you are nobbling their ability to explain the wealth. You are saying that it is unexplained wealth, and it is going to remain unexplained wealth if a person does not have the ability to use their available means in a court of law to explain from where the wealth has been derived. That is the central concern that the Australian Greens have. What we are saying is not that there should always be a capacity to use restrained assets but that we should allow the possibility for a judicial officer who is apprised of all the evidence and information to make a call as to when it may be appropriate.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Leyonhjelm, Sen David",LDP,2015-02-09,"
 
 
@@ -1424,7 +1424,7 @@ Senator WRIGHT
 Senator LEYONHJELM
  (New South Wales) (12:33):  I have a question for the Attorney-General. It is along the same lines as Senator Wright's question. I would like the Attorney-General to explain this to me so that I understand it. Is there a history of judges exercising their discretion in cases where the criteria for restraining assets have been met and yet the court has decided not to restrain those assets? If there is not a history of that, why is the independence of the judiciary being impeded in this bill?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Brandis, Sen George",LP,2015-02-09,"
 
 
@@ -1435,7 +1435,7 @@ Senator BRANDIS
 
 But as to your first question as to whether there is a history, I am not in a position to inform you whether courts dealing with other legislation have exercised a discretion in one way or another. Every case depends on its own particular facts. But I would counsel against drawing inferences from the fact that certain courts may have resolved certain cases in a certain way if there is a particular, established or uniform judicial attitude to the question.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1461,7 +1461,7 @@ As cases can run for many years, significant sums of money can be spent along th
 
 Therefore, reimbursement to legal aid commissions will be down the track significantly, in an environment we would all acknowledge is extremely pressing for the legal assistance sector. My question is this: what would be the effect on legal aid funding? Has there been any modelling by the government as to what that effect would be and its consequent effect of less money being available for other very pressing matters?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Brandis, Sen George",LP,2015-02-09,"
 
 
@@ -1472,7 +1472,7 @@ Senator BRANDIS
 
 When you suggest that these cases may go for years, certainly there will be some of the most serious character that may go for a considerable period of time. That would be very much an exceptional case. The best way for me to answer your question is to tell you that the manner in which legal aid is distributed and the priorities of this. You and I have debated this issue in different contexts in many fora over the years; you know my view that legal aid ought to be prioritised so that it goes to the neediest cases. There is not enough money in the system, unfortunately, because the needs and demands on legal aid and for legal aid assistance will always outstrip the amount of money that is available for prioritisation and the award of legal aid, in particular instances, is a matter for the state and territory legal aid commissions.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1483,7 +1483,7 @@ Senator WRIGHT
 
 In asking you to respond to that question, I would also say that the suggestion that some of these matters will be lengthy and that there will be a long lag time and potentially a cost-flow issue, if you like, for legal aid commissions to be able to recover any costs that they can recover comes from the submission from Victoria Legal Aid. Indeed, the government has recently announced $11 million of extra funding for litigation specialists tasked with conducting confiscation proceedings such as these and for forensic accountants, which indicates the complexity of these sorts of cases and how it is not hard to imagine that someone defending themselves to explain where their wealth came from may indeed need significant resources devoted to them from the legal assistance sector to be able to have recourse to that kind of forensic accounting and legal expertise as well. These are going to be expensive cases and it will be legal aid commissions that are required to fund them, because they are a priority matter for the Commonwealth under the partnership agreement. What are going to be the implications for those needier people that you would suggest should be prioritised?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Brandis, Sen George",LP,2015-02-09,"
 
 
@@ -1491,7 +1491,7 @@ In asking you to respond to that question, I would also say that the suggestion 
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (12:43):  I think you make a good point. As you know, the partnership agreement is currently the subject of renegotiation. That is happening as we speak for the national partnership agreement. The point you make will be considered and is being considered in the course of the negotiation.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1499,7 +1499,7 @@ Senator BRANDIS
 Senator WRIGHT
  (South Australia) (12:44):  I am also interested in further implications for the legal assistance sector, again, by removing any possibility that a court could assess that it is appropriate in some cases to allow a person's own restrained assets to be used to defend them in a court under our rule of law. The Victoria Legal Aid submission indicates that directing persons exposed to unexplained wealth proceedings into the taxpayer funded legal aid scheme would certainly expose legal aid commissions to greater administrative burden as they take up more of a role in claims and cost management of these matters. That is because they are potentially protracted and complex proceedings. These would also be for a class of client who Victoria Legal Aid would not typically consider to be a priority client. Again I ask: has the government considered the implications of this and has there been any modelling as to what the likely effect of removing any judicial discretion in this way will have?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Brandis, Sen George",LP,2015-02-09,"
 
 
@@ -1507,7 +1507,7 @@ Senator WRIGHT
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (12:45):  I am told there has not been modelling done.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Leyonhjelm, Sen David",LDP,2015-02-09,"
 
 
@@ -1515,7 +1515,7 @@ Senator BRANDIS
 Senator LEYONHJELM
  (New South Wales) (12:45):  Can I ask the Attorney-General: does he think it is relevant to just outcomes in these cases when unexplained wealth issues are brought before a court and necessarily the defendant is subject to representation by legal aid lawyers? Legal aid lawyers, as I pointed out in my speech in the second reading debate, are typically criminal lawyers or family lawyers and would work on $150 an hour, whereas the expertise required in legal representation for these sorts of cases is more complex. Commercial lawyers would be demanding far more than that and would often not accept the legal aid cases in any event. Does that have implications for just outcomes?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Brandis, Sen George",LP,2015-02-09,"
 
 
@@ -1523,7 +1523,7 @@ Senator LEYONHJELM
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (12:46):  I think you take a rather pessimistic and, if I may say so, ungenerous view of the professional skill of a lot of the people who work in the legal aid system. We all know that almost all legal aid cases are either family law matters or criminal law matters—those are the two priority jurisdictions—but those criminal lawyers who represent clients in the legal aid system are by no means to be dismissed as being, as it were, the least good lawyers. I can tell you from my own experience of the profession, although I was not a criminal law practitioner, that there are many, many very fine lawyers who work in the legal aid system who could earn a lot more if they worked at the private bar or for one of the big law firms but choose not to do that for the kinds of social justice reasons that you and Senator Wright have in your different ways been adverting to. So I do not think you should be so rude, really, Senator Leyonhjelm, as to dismiss legal aid lawyers as second-rate lawyers, because they are not. It follows from that that one of the competencies of good criminal lawyers is a capacity to deal with commercial crime. Criminal lawyers are not merely people who deal with cases in which the physical dimensions of crime are the most important probative or evidentiary issues, like, for example, murders. It is also within the competencies of good criminal lawyers to deal with the commercial dimensions of criminal conduct, including tracing money through various accounts, trusts and other structures that may be artificially created to launder or conceal its movement. So the competency that you say that criminal lawyers working in the legal aid system lack is not a competency which is entirely missing from that system; it is a competency of an element of criminal practice.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1542,7 +1542,7 @@ Senator WRIGHT
 
 The TEMPORARY CHAIRMAN:  The question is that schedule 1 item 3 and item 24 stand as printed.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Brandis, Sen George",LP,2015-02-09,"
 
 
@@ -1560,7 +1560,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014</title>,BILLS,7,1,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1571,7 +1571,7 @@ Senator WRIGHT
 
 The issue at the nub of the government's defence of these far-reaching amendments is clear from the statement that was made by the minister earlier today. He said to the effect that this legislation is designed to turn the tables on criminals to force them to prove that their wealth has been lawfully acquired. Therein lies the assumption. The assumption is that these proceedings will only ever be brought against criminals who have unlawfully acquired wealth and it is therefore in everyone's interest for the government to be able to bring that proceeding. The difficulty starts when you actually allow yourself to consider the possibility that governments do not always get these matters right, that the person against whom the proceedings are being brought may not be a criminal and that, in fact, the wealth was legitimately acquired. And then you can see the justification for potentially allowing the person to use their assets—which, in the case I am posing, have been lawfully acquired—to defend themselves from this government action. Minister, what is the evidence—there is no evidence in the explanatory memorandum—that the existence of this judicial discretion has been misused or has jeopardised the outcome of unexplained wealth proceedings in the past?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Cormann, Sen Mathias",LP,2015-02-09,"
 
 
@@ -1579,7 +1579,7 @@ The issue at the nub of the government's defence of these far-reaching amendment
 Senator CORMANN
  (Western Australia—Minister for Finance) (12:08):  The government does not support this amendment. The Parliamentary Joint Committee on Law Enforcement has recommended that the unexplained wealth laws be changed to prevent people from using restrained property to meet their legal expenses. That is recommendation 10. The Parliamentary Joint Committee on Law Enforcement considered submissions from a range of community, law enforcement and other government bodies in making this recommendation. Unexplained wealth proceedings are the only type of proceeds of crime proceedings in which people are allowed to use restrained assets in this way. The Proceeds of Crime Act generally prohibits restrained assets being used in this way to prevent the practice of dissipating wealth on legal expenses to frustrate potential proceeds of crime orders. To ensure that people are not deprived of legal representation, the Proceeds of Crime Act provides a scheme to reimburse legal aid commissions for costs incurred in representing people who are subject to a restraining order. Under the bill, people who are subject to unexplained wealth proceedings may seek legal representation through legal aid if their unrestrained assets are not sufficient to meet legal costs to ensure that they are appropriately represented and are not disadvantaged. People are still able to use any of their unrestrained assets to pay for legal counsel of their choosing. Courts also have a wide discretion to refuse or revoke orders such as where it is in the interest of justice to do so.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1587,7 +1587,7 @@ Senator CORMANN
 Senator WRIGHT
  (South Australia) (12:10):  I am glad that the minister has referred to the legal aid implications of this—and I will come back to those questions. But that did not actually answer the question I had, which is: what evidence is there that the existence of the judicial discretion, which is what we are discussing here, has actually caused a jeopardisation of the outcome of unexplained wealth proceedings in the past? What I would like to do is be really clear and ask the government to get their story straight on the rationale behind this particular aspect of the legislation. We are told that one of the bases of unexplained wealth legislation is to take the profit gain out of organised crime. And certainly the Greens are supportive of the view that that is an effective thing to be doing. I was involved in the Parliamentary Joint Committee on Law Enforcement when it was first considering the first manifestation of this legislation—or the issue anyway—and one of the issues was that it is indeed quite effective to have criminals who have been used to having a lot of money to flash around, to drive flash cars and so on, to have that money not available to them. So I understand that rationale. But then we have the argument that we cannot allow judicial discretion in some cases to allow persons who are subject to these proceedings to use their restrained assets to get legal defence because they may dissipate the assets, which then would not be available to the government. But in that case, if the story is that it is in fact about separating criminals from their money, why is it such a problem if they are effectively removed from the benefit of the assets because they have had to use them on legal defence proceedings? Is that the issue, or is it in fact that the government is concerned that, if the money is being used on legal defence, it will not be available as revenue for the government? I am not clear on that. It is one or the other. But you cannot argue that the use of restrained assets for legal defence proceedings does not remove the money availability from the persons who are allegedly the criminals. In the end, if that is where the money is gone, they are not going to have that money available to live the high life, which is what we are wanting to prevent.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Cormann, Sen Mathias",LP,2015-02-09,"
 
 
@@ -1595,7 +1595,7 @@ Senator WRIGHT
 Senator CORMANN
  (Western Australia—Minister for Finance) (12:12):  The ability of a person to dispose of restrained property to meet their legal costs weakens the effectiveness of the unexplained wealth provisions by allowing the wealth suspected to have been unlawfully acquired to be used to contest proceedings. This may lead to fewer assets being available for confiscation if an unexplained wealth order is successful, and is likely to cause more protracted litigation. This amendment—the government's amendment, not the Greens amendment—will harmonise provisions relating to the payment of legal expenses for unexplained wealth cases with those for other proceedings under the Proceeds of Crime Act.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1603,7 +1603,7 @@ Senator CORMANN
 Senator WRIGHT
  (South Australia) (12:13):  As I said, it would be interesting to have the story straight then. The issue is really to make sure that those restrained assets are available as revenue for the government so they are not dissipated? Is that the case, or is it to actually prevent criminals from benefiting from their restrained assets to have at their disposal and to be able to use to live the high life? I am not clear on what the rationale for the legislation is.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Xenophon, Sen Nick",Ind.,2015-02-09,"
 
 
@@ -1620,7 +1620,7 @@ In other words, does the legislation in its current form carry with it enough sc
 
 I do have some other questions, but perhaps I will now put those to the minister. Given that the Attorney has just entered the chamber, perhaps I could repeat them for his benefit. I can indicate my broad support for this legislation; this is the way to tackle organised crime. My questions are—and if some of these have to be taken on notice, to an extent, I would accept that, as long as I have an undertaking to get those details: through our current legislative regime, how much unexplained wealth has been seized over the past few years? What does the government say this legislation will do in terms of an increased seizure of assets in respect of that? Given this approach, which, in broad principle, I am very supportive of in this bill, has the government anticipated that organised criminal groups and individuals will find ways to get around this by perhaps siphoning money to associates so it is harder to trace? Will there be enough resources to anticipate these new changes by which criminal gangs will try to get ahead? I have some other questions, but I thought I would put those to the minister.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Collins, Sen Jacinta",ALP,2015-02-09,"
 
 
@@ -1637,7 +1637,7 @@ When the proceeds of crime legislation was brought in in 1987 there was an abili
 
 The opposition supports the objectives of the Proceeds of Crime Act and accepts the advice of the Australian Federal Police. We therefore support preventing defendants from accessing restrained assets for expenditure on legal costs. This principle should be reflected in other unexplained wealth legislation as it is in the Proceeds of Crime Act. It is not necessary to revisit the importance of this uniformity. Therefore, the opposition will not be supporting the Greens amendments.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Brandis, Sen George",LP,2015-02-09,"
 
 
@@ -1648,7 +1648,7 @@ Senator BRANDIS
 
 Secondly, Senator, you asked whether the government has given any consideration to whether or not organised criminal gangs or organised criminal syndicates will seek to, as it were, siphon or launder assets through associated entities. Of course, the government has considered that. That is always an issue in legislation of this kind and the legislation does, as I understand it, contain associated entity provisions and the capacity to trace through associated entities, trusts, third-party structures so that the purpose of the legislation cannot be thwarted by channelling or funnelling money through devices of that character.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Xenophon, Sen Nick",Ind.,2015-02-09,"
 
 
@@ -1665,7 +1665,7 @@ My state colleague, the Hon. John Darley was supportive of that. It has since la
 
 I simply say this to the Attorney to flag the issue, because I think this will be revisited. Firstly, will the Attorney on notice indicate whether any consideration has been given to the South Australian government's approach, since lapsed, of a broader application of the seizure of assets—in other words, the 'all bets are off' approach, which some would say is draconian and others would say would act as a real deterrent. Also, most importantly for me, whether any of the assets seized are being hypothecated to an extent for drug rehabilitation. I have to say to the Attorney, through you, Chair, that I have heard heartbreaking stories from people who have contacted me: those who have a serious substance abuse problem and who cannot get assistance; families with a son who has a raging heroin addiction; and others who have been gripped by crystal methamphetamine addiction, which has just ripped those families apart. There appears to be a lack of appropriate facilities, rehabilitation services and support for them. If we can seize more assets from the organised criminal syndicates that profit from this, the question I respectfully pose to the government, simply to flag it, is: why not use some of those funds to improve rehabilitation services in this country?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Brandis, Sen George",LP,2015-02-09,"
 
 
@@ -1679,7 +1679,7 @@ As I pointed out in answer to your previous question, the legislation as current
 
 In relation to whether or not monies or assets seized under this legislation could be diverted to drug rehabilitation or drug prevention programs, the answer to your question is that, although the proceeds collected or recovered under the act are hypothecated to a proceeds of crime account, the proceeds of crime account is to be spent on crime prevention purposes. As you would be aware, most drug diversion strategies are health matters and not criminal matters. They are programs conducted through the Department of Health, so ordinarily one would not expect so. But that is not to say that there might not be some drug diversion strategies that bear a sufficiently close connection to criminal law enforcement that they might be considered as eligible programs for outlays from the proceeds of crime account. That is something that would have to be assessed on a case by case basis.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1693,7 +1693,7 @@ The Greens amendment is about allowing a court to determine in some circumstance
 
 It is clear, Attorney, that the amendments that the Greens amendments are designed to oppose are amendments that remove any possibility at all in any circumstances that a person could be found to have a legitimate reason to use their restrained assets to defend themselves in court. They are removing that judicial discretion so that there is never a circumstance in which a court can say, 'Weighing everything up, we think it is reasonable to allow this person to use their restrained assets.' What you said in response to the questions from Senator Xenophon is that there have been no assets seized under the current legislation. I am interested to know whether, drawing this back to the Greens amendments, that is because of the exercise of judicial discretion that the government is seeking to remove. Or are there other reasons that the legislation has not been effectively used whereby assets have been restrained?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Brandis, Sen George",LP,2015-02-09,"
 
 
@@ -1701,7 +1701,7 @@ It is clear, Attorney, that the amendments that the Greens amendments are design
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (12:30):  Senator Wright, you correctly point out that there is a difference between proceeds of crime legislation and unexplained wealth legislation in the sense that we know that the assets that are the subject of proceeds of crime legislation are, as it were, the ill-gotten gains of the person whose assets are being seized. In relation to unexplained wealth legislation, there is not a direct relationship established between the assets and the crime. But the difference is not as great as you may think, Senator Wright, because the whole point of unexplained wealth legislation is that, where the statutory tests are satisfied, the unexplained wealth, because it is unexplained in circumstances sufficient to generate a reasonable belief that it was derived from illicit or illegal activity, is treated inferentially as if it were the proceeds of crime or ill-gotten wealth. So it does require an inference to be drawn. But the unexplained wealth is treated as if it were the proceeds of wrongdoing, and therefore the rationale for why the proceeds of crime should not be available for legal defence is the same as the rationale for unexplained wealth if one admits the inference.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1709,7 +1709,7 @@ Senator BRANDIS
 Senator WRIGHT
  (South Australia) (12:32):  I would like to follow up on that, Attorney-General. Thank you for that. I guess what I am saying essentially then is that the inference drawn from unexplained wealth, because it is not explained, is that it is illegitimately acquired. The problem that I see is that by removing any possibility that a person may be able to use the assets that they have to defend themselves you are nobbling their ability to explain the wealth. You are saying that it is unexplained wealth, and it is going to remain unexplained wealth if a person does not have the ability to use their available means in a court of law to explain from where the wealth has been derived. That is the central concern that the Australian Greens have. What we are saying is not that there should always be a capacity to use restrained assets but that we should allow the possibility for a judicial officer who is apprised of all the evidence and information to make a call as to when it may be appropriate.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Leyonhjelm, Sen David",LDP,2015-02-09,"
 
 
@@ -1717,7 +1717,7 @@ Senator WRIGHT
 Senator LEYONHJELM
  (New South Wales) (12:33):  I have a question for the Attorney-General. It is along the same lines as Senator Wright's question. I would like the Attorney-General to explain this to me so that I understand it. Is there a history of judges exercising their discretion in cases where the criteria for restraining assets have been met and yet the court has decided not to restrain those assets? If there is not a history of that, why is the independence of the judiciary being impeded in this bill?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Brandis, Sen George",LP,2015-02-09,"
 
 
@@ -1728,7 +1728,7 @@ Senator BRANDIS
 
 But as to your first question as to whether there is a history, I am not in a position to inform you whether courts dealing with other legislation have exercised a discretion in one way or another. Every case depends on its own particular facts. But I would counsel against drawing inferences from the fact that certain courts may have resolved certain cases in a certain way if there is a particular, established or uniform judicial attitude to the question.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1754,7 +1754,7 @@ As cases can run for many years, significant sums of money can be spent along th
 
 Therefore, reimbursement to legal aid commissions will be down the track significantly, in an environment we would all acknowledge is extremely pressing for the legal assistance sector. My question is this: what would be the effect on legal aid funding? Has there been any modelling by the government as to what that effect would be and its consequent effect of less money being available for other very pressing matters?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Brandis, Sen George",LP,2015-02-09,"
 
 
@@ -1765,7 +1765,7 @@ Senator BRANDIS
 
 When you suggest that these cases may go for years, certainly there will be some of the most serious character that may go for a considerable period of time. That would be very much an exceptional case. The best way for me to answer your question is to tell you that the manner in which legal aid is distributed and the priorities of this. You and I have debated this issue in different contexts in many fora over the years; you know my view that legal aid ought to be prioritised so that it goes to the neediest cases. There is not enough money in the system, unfortunately, because the needs and demands on legal aid and for legal aid assistance will always outstrip the amount of money that is available for prioritisation and the award of legal aid, in particular instances, is a matter for the state and territory legal aid commissions.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1776,7 +1776,7 @@ Senator WRIGHT
 
 In asking you to respond to that question, I would also say that the suggestion that some of these matters will be lengthy and that there will be a long lag time and potentially a cost-flow issue, if you like, for legal aid commissions to be able to recover any costs that they can recover comes from the submission from Victoria Legal Aid. Indeed, the government has recently announced $11 million of extra funding for litigation specialists tasked with conducting confiscation proceedings such as these and for forensic accountants, which indicates the complexity of these sorts of cases and how it is not hard to imagine that someone defending themselves to explain where their wealth came from may indeed need significant resources devoted to them from the legal assistance sector to be able to have recourse to that kind of forensic accounting and legal expertise as well. These are going to be expensive cases and it will be legal aid commissions that are required to fund them, because they are a priority matter for the Commonwealth under the partnership agreement. What are going to be the implications for those needier people that you would suggest should be prioritised?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Brandis, Sen George",LP,2015-02-09,"
 
 
@@ -1784,7 +1784,7 @@ In asking you to respond to that question, I would also say that the suggestion 
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (12:43):  I think you make a good point. As you know, the partnership agreement is currently the subject of renegotiation. That is happening as we speak for the national partnership agreement. The point you make will be considered and is being considered in the course of the negotiation.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1792,7 +1792,7 @@ Senator BRANDIS
 Senator WRIGHT
  (South Australia) (12:44):  I am also interested in further implications for the legal assistance sector, again, by removing any possibility that a court could assess that it is appropriate in some cases to allow a person's own restrained assets to be used to defend them in a court under our rule of law. The Victoria Legal Aid submission indicates that directing persons exposed to unexplained wealth proceedings into the taxpayer funded legal aid scheme would certainly expose legal aid commissions to greater administrative burden as they take up more of a role in claims and cost management of these matters. That is because they are potentially protracted and complex proceedings. These would also be for a class of client who Victoria Legal Aid would not typically consider to be a priority client. Again I ask: has the government considered the implications of this and has there been any modelling as to what the likely effect of removing any judicial discretion in this way will have?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Brandis, Sen George",LP,2015-02-09,"
 
 
@@ -1800,7 +1800,7 @@ Senator WRIGHT
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (12:45):  I am told there has not been modelling done.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Leyonhjelm, Sen David",LDP,2015-02-09,"
 
 
@@ -1808,7 +1808,7 @@ Senator BRANDIS
 Senator LEYONHJELM
  (New South Wales) (12:45):  Can I ask the Attorney-General: does he think it is relevant to just outcomes in these cases when unexplained wealth issues are brought before a court and necessarily the defendant is subject to representation by legal aid lawyers? Legal aid lawyers, as I pointed out in my speech in the second reading debate, are typically criminal lawyers or family lawyers and would work on $150 an hour, whereas the expertise required in legal representation for these sorts of cases is more complex. Commercial lawyers would be demanding far more than that and would often not accept the legal aid cases in any event. Does that have implications for just outcomes?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Brandis, Sen George",LP,2015-02-09,"
 
 
@@ -1816,7 +1816,7 @@ Senator LEYONHJELM
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (12:46):  I think you take a rather pessimistic and, if I may say so, ungenerous view of the professional skill of a lot of the people who work in the legal aid system. We all know that almost all legal aid cases are either family law matters or criminal law matters—those are the two priority jurisdictions—but those criminal lawyers who represent clients in the legal aid system are by no means to be dismissed as being, as it were, the least good lawyers. I can tell you from my own experience of the profession, although I was not a criminal law practitioner, that there are many, many very fine lawyers who work in the legal aid system who could earn a lot more if they worked at the private bar or for one of the big law firms but choose not to do that for the kinds of social justice reasons that you and Senator Wright have in your different ways been adverting to. So I do not think you should be so rude, really, Senator Leyonhjelm, as to dismiss legal aid lawyers as second-rate lawyers, because they are not. It follows from that that one of the competencies of good criminal lawyers is a capacity to deal with commercial crime. Criminal lawyers are not merely people who deal with cases in which the physical dimensions of crime are the most important probative or evidentiary issues, like, for example, murders. It is also within the competencies of good criminal lawyers to deal with the commercial dimensions of criminal conduct, including tracing money through various accounts, trusts and other structures that may be artificially created to launder or conceal its movement. So the competency that you say that criminal lawyers working in the legal aid system lack is not a competency which is entirely missing from that system; it is a competency of an element of criminal practice.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
 "Wright, Sen Penny",AG,2015-02-09,"
 
 
@@ -1835,7 +1835,84 @@ Senator WRIGHT
 
 The TEMPORARY CHAIRMAN:  The question is that schedule 1 item 3 and item 24 stand as printed.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,7,2,speech
+"Wong, Sen Penny",ALP,2015-02-09,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:00):  My question is to the Minister representing the Prime Minister, Senator Abetz. Can the minister confirm today 39 Liberal senators and MPs, some 40 per cent of the party room and the overwhelming majority of the backbench, voted to remove the Prime Minister? Why should the Australian people have confidence in the Prime Minister when his colleagues clearly do not?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Liberal Party Leadership</title>,QUESTIONS WITHOUT NOTICE,10,1,question
+"Wong, Sen Penny",ALP,2015-02-09,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:03):  Mr President, I ask a supplementary question. Can the Minister representing the Prime Minister confirm that the Prime Minister bound his entire executive and his whips for this morning's vote, meaning that the overwhelming majority of Liberal backbenchers who actually had a free vote voted in favour of no confidence in the Prime Minister?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Liberal Party Leadership</title>,QUESTIONS WITHOUT NOTICE,10,1,question
+"Wong, Sen Penny",ALP,2015-02-09,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:05):  Mr President, I ask a further supplementary question. I refer to the Leader of the Government in the Senate's assertion that those on the other side trust each other. Can he advise whether or not the Prime Minister trusts Mr Turnbull? Can he advise whether the Prime Minister endorses Senator Bernardi's call for Mr Turnbull to resign from cabinet and go to the backbench?
+
+
+
+Honourable senators interjecting—
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Liberal Party Leadership</title>,QUESTIONS WITHOUT NOTICE,10,1,question
+"Abetz, Sen Eric",LP,2015-02-09,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:01):  One thing that the Prime Minister of Australia knows is that he enjoys the support of his Leader of the Government in the Senate, something that a former Labor Prime Minister was not able to enjoy from Senator Wong. Let's just understand that. You ought to look behind you, Senator Wong, and see all the smiling faces. I will also say that, when Mr Shorten sought the leadership of the Australian Labor Party, the vote was 55 to 31. Why is it that 31 members of the ALP caucus were of the view that Mr Shorten was not a fit and proper person to lead the Australian Labor Party in the parliament? We could ask that question.
+
+
+The reality is that the Liberal Party today had a ballot in relation to the leadership. Sixty-one to 39 was the result of the ballot. Everybody knows that that was a result. That is a very firm endorsement of the Prime Minister, whilst also—and I say this especially to the Australian people—those 39 votes were a wake-up call for the government to ensure that it brings the Australian people with it on the very difficult task that faces it.
+
+
+
+The difficult task that faces us is not served by the Australian Labor Party playing politics as they do. We are dedicated to the service of the nation, making the tough decisions for the future—such as getting rid of the carbon tax, getting rid of the mining tax, protecting our borders and getting free trade agreements. These were all things that we were told we could not do, yet we achieved them within the first part of this term of government. I look forward to serving the Australian people. (Time expired)
+
+
+
+Honourable senators interjecting—
+
+
+
+The PRESIDENT:  Order! I know this is the first day back for 2015, but senators on both sides need to be a little more quiet. Senators on my left, your leader is waiting for the call. Order on my left!
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Liberal Party Leadership</title>,QUESTIONS WITHOUT NOTICE,10,1,answer
+"Abetz, Sen Eric",LP,2015-02-09,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:04):  As everybody in the Liberal Party and also in the National Party party rooms know, secret ballots are conducted. There is no show and tell with factional warlords dictating how people vote. That is the big difference between the Australian Labor Party representatives in this place and those of us who have the honour of representing the coalition parties in this place. It is a secret ballot in our party room. That is the way it remains and should remain, unlike the sort of behaviour that operates within the Australian Labor Party where there has to be show and tell. Do you know why that is? It is because they cannot trust each other. Well, we do trust each other with a secret ballot because we are dedicated, unlike all those ex trade union officials opposite— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Liberal Party Leadership</title>,QUESTIONS WITHOUT NOTICE,10,1,answer
+"Abetz, Sen Eric",LP,2015-02-09,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:06):  After all the shouting and interjections, I have forgotten what the second question was. But the answer to the first question is yes.
+
+
+
+The PRESIDENT:  Minister, have you completed your answer?
+
+
+
+
+Senator Abetz:
+  I have.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Liberal Party Leadership</title>,QUESTIONS WITHOUT NOTICE,10,1,answer
 "Wong, Sen Penny",ALP,2015-02-09,"
 
 
@@ -1873,7 +1950,7 @@ Senator O'Neill:
 Senator WONG:
   It is utterly shameful. The reality is that, when it comes to Future Submarines, this Prime Minister did not care about South Australian jobs, and did not care about Australian jobs, until his own job was on the line. What he did was send smoke signals out to a member of his backbench, who then stood up in front of the cameras at Adelaide Airport last night telling everybody that he had had a win—only to be told the next day by various ministers, in their public statements, that nothing had changed. Well, someone is telling lies, someone is telling porkies. Either the Prime Minister did tell Senator Edwards that there would be an open, competitive tender and is now backtracking on it—hoping that no-one will notice the weasel words when he talks about evaluation processes, as opposed to a competitive tender process—or Senator Edwards was lying when he stood up in front of the voters of South Australia last night and said, 'I've had a win.' Someone is telling lies. Senator Edwards should come into this chamber and tell South Australians precisely what was committed by the nation's Prime Minister in relation to the Future Submarines project. He should do that, and the Prime Minister should declare what his position is. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1,speech
 "Back, Sen Chris",LP,2015-02-09,"
 
 
@@ -1890,7 +1967,7 @@ We have had questions asked today by Senator Moore. All this went to was the fac
 
 I would now like to address the issue raised now by Senator Wong with regard to submarines and the program for the replacement. What a lamentable situation it is for the senior South Australian senator in this place—a senior minister when Labor was in government and now the Leader of the Opposition in the Senate—to raise her nose above the spectre of the failure of the last government when it came to submarines for this nation and indeed for South Australia. Absolutely nothing was left for the incoming government in terms of a program to replace the submarine fleet. When the Labor Party was in government we heard nothing from Senator Wong, Senator Farrell or anyone else about what the future might hold. And we now have this sanctimonious bleating from Senator Wong and others. What the Prime Minister has said—echoed by the Minister for Finance—is that, in the interests of the Australian community, we will have a competitive process to determine who will build the future submarines of this country. We would not be in this position if Labor, in government, had acted. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1,speech
 "O'Neill, Sen Deb",ALP,2015-02-09,"
 
 
@@ -1944,7 +2021,7 @@ Senator Conroy:
 Senator O'NEILL:
   How could good government begin today? Was this the day that he foreshadowed and heralded to himself as the day that he would begin good government? It is more than 520 days since the Prime Minister took the leadership of this country—520 days of what I would say is clearly bad government. I absolutely agree with Senator Conroy there. If you are going to start good government today, that is all we can assume has been the case. That is why the fortunes of this Liberal Party-Nationals coalition are at such a low point: they lied to the Australian people to get into government. They came through and revealed their colours in all their darkness, despair and misery in the budget, and Australians are awake to you. They are on to you, and it only a short time before the Prime Minister loses his position. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1,speech
 "Seselja, Sen Zed",LP,2015-02-09,"
 
 
@@ -2010,7 +2087,7 @@ Opposition senators interjecting—
 Senator SESELJA:
   I hear the interjections about Tasmania. The free trade agreements will be wonderful for Tasmania. Tasmania has suffered under the weight of a Labor-Greens government in Canberra and a Labor-Greens government in Tasmania. We have Will Hodgman and his team turning things around; we have things like a free trade agreement and getting rid of the carbon tax, which will also help turns things around, not just in Tasmania but also around the country; we are building roads of the 21st century and have hundreds of millions of dollars in environmental approvals, which, again, is all about growing jobs for the future and growing our economy. So whilst there is much more that can be done and we can do things better, they are significant achievements that should not be forgotten. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1,speech
 "Brown, Sen Carol",ALP,2015-02-09,"
 
 
@@ -2114,7 +2191,7 @@ We have heard over the last few days some of the comments that the backbench hav
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1,speech
 "PRESIDENT, The",,2015-02-09,"
 
 
@@ -2122,7 +2199,7 @@ Question agreed to.
 The PRESIDENT
  (15:36):  It is with deep regret that I inform the Senate of the death, on 7 January 2015, of the Hon. Keppel Earl Enderby QC, a former minister and member of the House of Representatives for the divisions of Canberra and the Australian Capital Territory from 1970 until 1975. I call the Leader of the Government in the Senate, Senator Abetz.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Enderby, Hon. Keppel Earl, QC</title>",CONDOLENCES,12,1
+",Senate,<title>CONDOLENCES</title>,"<title>Enderby, Hon. Keppel Earl, QC</title>",CONDOLENCES,12,1,speech
 "Abetz, Sen Eric",LP,2015-02-09,"
 
 
@@ -2151,7 +2228,7 @@ In 1975, when Lionel Murphy was appointed to the High Court, Mr Enderby became A
 
 Kep Enderby had a good-natured and engaging personality and generally avoided the rancour of political debate, preferring the barrister's approach of reasoned argument. To his wife, Dot, and his two children—his son, Keir, and daughter, Jo—I offer deepest sympathies on behalf of the government, and I also extend those to his grandchildren and great-grandchildren. I express the deepest sympathy at the passing of Kip Enderby after a full and productive life in the service of Australia; I also thank the extended family for lending him to the nation throughout his distinguished career.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Enderby, Hon. Keppel Earl, QC</title>",CONDOLENCES,12,1
+",Senate,<title>CONDOLENCES</title>,"<title>Enderby, Hon. Keppel Earl, QC</title>",CONDOLENCES,12,1,speech
 "Wong, Sen Penny",ALP,2015-02-09,"
 
 
@@ -2186,7 +2263,7 @@ In 1982 he was appointed as a Justice of the New South Wales Supreme Court, a po
 
 People who knew him have described him as a whirlwind of ideas. One of his successors representing the people of Canberra, Mr Leigh, said recently that he was someone who never fluctuated in his principles, who held fast to his views as a social democrat. I extend our deepest sympathies to his family members in their loss.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Enderby, Hon. Keppel Earl, QC</title>",CONDOLENCES,12,1
+",Senate,<title>CONDOLENCES</title>,"<title>Enderby, Hon. Keppel Earl, QC</title>",CONDOLENCES,12,1,speech
 "Nash, Sen Fiona",Nats,2015-02-09,"
 
 
@@ -2215,7 +2292,7 @@ Interestingly, what also made the news back then was Mr Enderby's call for Austr
 
 Question agreed to, honourable senators standing in their places.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Enderby, Hon. Keppel Earl, QC</title>",CONDOLENCES,12,1
+",Senate,<title>CONDOLENCES</title>,"<title>Enderby, Hon. Keppel Earl, QC</title>",CONDOLENCES,12,1,speech
 "DEPUTY PRESIDENT, The",,2015-02-09,"
 
 
@@ -2223,7 +2300,7 @@ Question agreed to, honourable senators standing in their places.
 The DEPUTY PRESIDENT
  (16:35):  I remind senators that the question may be put on any proposal at the request of any senator. There being none, we will move on.
 
-",Senate,<title>COMMITTEES</title>,"<title>Community Affairs References Committee, Legal and Constitutional Affairs Legislation Committee</title>",COMMITTEES,15,1
+",Senate,<title>COMMITTEES</title>,"<title>Community Affairs References Committee, Legal and Constitutional Affairs Legislation Committee</title>",COMMITTEES,15,1,speech
 "DEPUTY PRESIDENT, The",,2015-02-09,"
 
 
@@ -2231,7 +2308,7 @@ The DEPUTY PRESIDENT
 The DEPUTY PRESIDENT
  (16:35):  I remind senators that the question may be put on any proposal at the request of any senator. There being none, we will move on.
 
-",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,15,2
+",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,15,2,speech
 "Di Natale, Sen Richard",AG,2015-02-09,"
 
 
@@ -2263,7 +2340,7 @@ The details of Australia's bid to host the 2022 FIFA World Cup, and in particula
 
 Question negatived. 
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,17,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,17,1,speech
 "Di Natale, Sen Richard",AG,2015-02-09,"
 
 
@@ -2295,7 +2372,7 @@ The details of Australia's bid to host the 2022 FIFA World Cup, and in particula
 
 Question negatived. 
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,17,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,17,2,speech
 "O'Sullivan, Sen Barry",Nats,2015-02-09,"
 
 
@@ -2309,7 +2386,7 @@ That the Senate acknowledges and encourages the efforts of Indigenous groups acr
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Indigenous Employment</title>,MOTIONS,18,1
+",Senate,<title>MOTIONS</title>,<title>Indigenous Employment</title>,MOTIONS,18,1,speech
 "McLucas, Sen Jan",ALP,2015-02-09,"
 
 
@@ -2356,7 +2433,7 @@ That—
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Mental Health</title>,DOCUMENTS,19,1
+",Senate,<title>DOCUMENTS</title>,<title>Mental Health</title>,DOCUMENTS,19,1,speech
 "McLucas, Sen Jan",ALP,2015-02-09,"
 
 
@@ -2403,7 +2480,7 @@ That—
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,19,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,19,2,speech
 "Bushby, Sen David",LP,2015-02-09,"
 
 
@@ -2425,7 +2502,7 @@ Senator Moore:
 
 The DEPUTY PRESIDENT:  There is an objection.
 
-",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,20,1
+",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,20,1,speech
 "Siewert, Sen Rachel",AG,2015-02-09,"
 
 
@@ -2463,7 +2540,7 @@ Senator SIEWERT:
 
 Leave granted.
 
-",Senate,<title>BILLS</title>,<title>Australian Centre for Social Cohesion Bill 2015</title>,BILLS,21,1
+",Senate,<title>BILLS</title>,<title>Australian Centre for Social Cohesion Bill 2015</title>,BILLS,21,1,speech
 "Siewert, Sen Rachel",AG,2015-02-09,"
 
 
@@ -2531,7 +2608,7 @@ Senator SIEWERT:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Australian Centre for Social Cohesion Bill 2015</title>,BILLS,21,1
+",Senate,<title>BILLS</title>,<title>Australian Centre for Social Cohesion Bill 2015</title>,BILLS,21,1,speech
 "Siewert, Sen Rachel",AG,2015-02-09,"
 
 
@@ -2569,7 +2646,7 @@ Senator SIEWERT:
 
 Leave granted.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,21,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,21,2,speech
 "Urquhart, Sen Anne",ALP,2015-02-09,"
 
 
@@ -2601,7 +2678,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Defence Procurement</title>,MOTIONS,22,1
+",Senate,<title>MOTIONS</title>,<title>Defence Procurement</title>,MOTIONS,22,1,speech
 "Siewert, Sen Rachel",AG,2015-02-09,"
 
 
@@ -2630,7 +2707,7 @@ Question negatived.
 
  
 
-",Senate,<title>DOCUMENTS</title>,<title>Trans-Pacific Partnership Agreement</title>,DOCUMENTS,23,1
+",Senate,<title>DOCUMENTS</title>,<title>Trans-Pacific Partnership Agreement</title>,DOCUMENTS,23,1,speech
 "Siewert, Sen Rachel",AG,2015-02-09,"
 
 
@@ -2659,7 +2736,7 @@ Question negatived.
 
  
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,23,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,23,2,speech
 "DEPUTY PRESIDENT, The",,2015-02-09,"
 
 
@@ -2686,7 +2763,7 @@ More than the number of senators required by the standing orders having risen in
 
 The DEPUTY PRESIDENT:  I understand that informal arrangements have been made to allocate specific times to each of the speakers in today's debate. With the concurrence of the Senate, I shall ask the clerks to set the clock accordingly.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,24,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,24,1,speech
 "Cameron, Sen Doug",ALP,2015-02-09,"
 
 
@@ -2712,7 +2789,7 @@ Under this budget, 1.2 million families will be $3,000 a year worse off. Those o
 
 I have said it before in here: we know that the Liberals hate the Nationals, we know that the Nationals hate the Liberals and we know that the Liberals hate each other. It has all been played out before us over the last few weeks. We have a Prime Minister who is not up to the game. We have a Prime Minister who is hopeless. We have a frontbench who are economically irresponsible. We have a frontbench who just do not know what it is to have fairness and equity. I could not believe it when Senator Cormann said that no-one in the coalition had raised the issue of unfairness in the budget—no-one! Everybody knows that this is the most unfair budget that has ever been delivered in this parliament. The big end of town and the high-income earners get off almost scot free, and yet, if you are a family battling away on an income of $65,000, 6½ grand is what it is going to cost you. It is not fairness when you take away support for health, when you take away support for education, when you take away welfare support, and when you take away from the weakest and poorest in this country. That is the reason that this government is on the nose. That is the reason this is a chaotic, dysfunctional government. The policies are rotten to the core.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,24,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,24,1,speech
 "Bernardi, Sen Cory",LP,2015-02-09,"
 
 
@@ -2795,7 +2872,7 @@ Those opposite make fun of the level of Australia's debt, saying, 'It doesn't co
 
 This is about responsibility. It is about being responsible to the Australian people. It is not about self-interest, it is not about making it hard for people who are finding it difficult; it is about getting the balance right. That is what we are trying to do as a government. I am making my modest contribution to it by saying where I think they go wrong, and I tell them when I think they have gone right. It is about time you did too.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,24,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,24,1,speech
 "Lambie, Sen Jacqui",Ind.,2015-02-09,"
 
 
@@ -2854,7 +2931,7 @@ Department of Defence figures indicate that nearly 800 Tasmanians are employed: 
 
 It is now time for action. The PM has a perfect opportunity to step up to the plate. He can do that with the flick of a pen today. The men and women in the ADF put their lives on the line for us every day. I want to see some action out of this PM, and this is the first action I want to see. I want the PM to replace the money that he has stolen from them—and I want it done today! (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,24,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,24,1,speech
 "Bilyk, Sen Catryna",ALP,2015-02-09,"
 
 
@@ -2886,7 +2963,7 @@ Senior Australians are concerned about a cut to pensions despite the government'
 
 Australians hate the attacks on the ABC and the SBS. Those TV stations show how diverse we are, how clever we are, how hardworking we are as a nation. But no, 'There will be no cuts to the ABC.' Well, bless my cotton socks, there have been. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,24,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,24,1,speech
 "Back, Sen Chris",LP,2015-02-09,"
 
 
@@ -2981,7 +3058,7 @@ The United States of America, which, because it found cheap energy through shale
 
 We have phenomenal opportunities in this country. We must not as a Senate, as a country and as an economy be held back by an irresponsible opposition, which itself caused the economic malaise and demise. I finish with the words of Senator Fifield, 'You must have economic policy aligned to social policy if you wish to succeed.'
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,24,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,24,1,speech
 "Lines, Sen Susan",ALP,2015-02-09,"
 
 
@@ -3007,7 +3084,7 @@ Are the Prime Minister and his team listening? Of course they are not, because t
 
 The chaos, the division, the dysfunction and the mistrust will continue, because that genie is out of the bottle, and once the genie is out of the bottle it cannot be put back. Those low polls and the backflips and broken promises of the Abbott government will continue, and they will continue to live in their parallel universe trying to pretend that everything is somehow fine in the country, when all of us know better, until the next election. A change in government is what this country needs, and it needs it sooner rather than later.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,24,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,24,1,speech
 "Seselja, Sen Zed",LP,2015-02-09,"
 
 
@@ -3154,7 +3231,7 @@ Let's be clear: all governments face their challenges. You can react to it in th
 
 The DEPUTY PRESIDENT:  Order! Time for this discussion has now expired.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,24,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,24,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3162,7 +3239,7 @@ The DEPUTY PRESIDENT:  Order! Time for this discussion has now expired.
 Senator COLBECK
  (Tasmania—Parliamentary Secretary to the Minister for Agriculture) (17:49):  On behalf of the Minister for Education, Mr Pyne, I table a ministerial statement on our achievements in schools and cross-border education.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Education</title>,MINISTERIAL STATEMENTS,27,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Education</title>,MINISTERIAL STATEMENTS,27,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3170,7 +3247,7 @@ Senator COLBECK
 Senator COLBECK
  (Tasmania—Parliamentary Secretary to the Minister for Agriculture) (17:50):  I table a correction to the explanatory memorandum relating to the Defence Legislation Amendment (Military Justice Enhancements—Inspector-General ADF) Bill 2014.
 
-",Senate,<title>BILLS</title>,<title>Defence Legislation Amendment (Military Justice Enhancements—Inspector-General ADF) Bill 2014</title>,BILLS,28,1
+",Senate,<title>BILLS</title>,<title>Defence Legislation Amendment (Military Justice Enhancements—Inspector-General ADF) Bill 2014</title>,BILLS,28,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3178,7 +3255,7 @@ Senator COLBECK
 Senator COLBECK
  (Tasmania—Parliamentary Secretary to the Minister for Agriculture) (17:50):  I table a correction to the explanatory memorandum relating to the Defence Legislation Amendment (Military Justice Enhancements—Inspector-General ADF) Bill 2014.
 
-",Senate,<title>BILLS</title>,<title>Explanatory Memorandum</title>,BILLS,28,2
+",Senate,<title>BILLS</title>,<title>Explanatory Memorandum</title>,BILLS,28,2,speech
 "Ruston, Sen Anne",LP,2015-02-09,"
 
 
@@ -3189,7 +3266,7 @@ Senator RUSTON
 
 Order that the reports be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Environment and Communications Legislation Committee</title>,COMMITTEES,29,1
+",Senate,<title>COMMITTEES</title>,<title>Environment and Communications Legislation Committee</title>,COMMITTEES,29,1,speech
 "Ruston, Sen Anne",LP,2015-02-09,"
 
 
@@ -3200,7 +3277,7 @@ Senator RUSTON
 
 Order that the reports be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,29,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,29,2,speech
 "Seselja, Sen Zed",LP,2015-02-09,"
 
 
@@ -3235,7 +3312,7 @@ The International Transfer of Prisoners Act 1997, which governs the Internationa
 
 In conclusion, the Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014 is an important update to our nation's criminal law so that it remains in step with the key issues of the day. We all know that the consequences of this kind of criminal activity are all too real. We know them well. We see, tragically, that gun-related violence and drug-related deaths are an all too common feature in our community. The Australian government believes very strongly in ensuring that we have the appropriate laws to deal with these issues and also in ensuring that we have the appropriate balance of people's civil liberties. I believe that this bill strikes that balance and I commend it to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3258,7 +3335,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "McLucas, Sen Jan",ALP,2015-02-09,"
 
 
@@ -3275,7 +3352,7 @@ Senator McLUCAS
 
 We oppose mandatory minimum sentences for the reasons that Senator Collins outlined during the second reading debate.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3286,7 +3363,7 @@ Senator COLBECK
 
 Mandatory minimum penalties send a very strong message on the seriousness of gun related crime and violence and certainly act as a deterrent for criminals. The government believes that mandatory minimum sentences are a stronger deterrent than increased maximum penalties. There are protections in place to ensure that mandatory minimums do not cause unjust results. Mandatory minimum sentences will not apply to children, and there is no minimum non-parole period. The offences preserve a level of judicial discretion to allow courts to take into account mitigating factors when setting the period offenders spend in custody. The government amended the explanatory memorandum in response to the Senate Legal and Constitutional Affairs Committee's report to make clear that mandatory minimum sentence is not intended as a guide to the non-parole period, which in some cases may result in significant differences between the head sentence and the non-parole period.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Di Natale, Sen Richard",AG,2015-02-09,"
 
 
@@ -3294,7 +3371,7 @@ Mandatory minimum penalties send a very strong message on the seriousness of gun
 Senator DI NATALE
  (Victoria) (18:03):  I would like to put on record that the Greens will be supporting this amendment. For the reasons already described, we do not support the imposition of mandatory minimum sentences of five years imprisonment for illegal firearms trafficking. We think that the appropriate sentence is that left to the discretion of the judge. I would like also to ask the minister representing the Attorney-General a question around the definition of 'psychoactive substance'. What test will be applied for a substance to be officially determined as a psychoactive substance?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3302,7 +3379,7 @@ Senator DI NATALE
 Senator COLBECK
  (Tasmania—Parliamentary Secretary to the Minister for Agriculture) (18:04):  The bill builds on Customs officers' existing powers to stop and seize suspicious goods by allowing officers to seize new psychoactive substances. The bill does not use a broad definition of psychoactive effects to capture these substances but includes 12 broad categories of exemptions. The only substances caught by this offence are those that are going to be used or supplied as alternatives to illicit drugs. It is true that offenders will not be required to know with absolute certainty that a substance has a psychoactive effect. They will only need to reasonably suspect that the goods contain a new psychoactive substance. The goods will only be released if the importer shows that they have a legitimate use or are not psychoactive. This approach is the best way of staying ahead of an ever-changing drug market. The bill will clarify that new psychoactive substances are illegal and potentially very dangerous. It will give Customs officers appropriate powers to stop these substances at the border and will allow the government time to develop and implement more-specific controls. The government believes these changes are critical to protect public safety.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Di Natale, Sen Richard",AG,2015-02-09,"
 
 
@@ -3327,7 +3404,7 @@ The CHAIRMAN:  Thank you. In that case, I will put the question that:
 
 Item 14 and section 361.5 in item 18 of schedule 2 stand as printed.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "CHAIRMAN, The",,2015-02-09,"
 
 
@@ -3335,7 +3412,7 @@ Item 14 and section 361.5 in item 18 of schedule 2 stand as printed.
 The CHAIRMAN
  (18:14):  Minister, there is a question before you. Do you need it to be asked again?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3356,7 +3433,7 @@ Senator COLBECK:
 
 I know you are looking for something definitive, Senator DiNatale, but the government has taken an approach—as I have indicated to you now on a couple of occasions—that it is about being able to stay ahead of a rapidly changing market. Governments are often criticised for not being able to keep up with changes in the way that the community works, and in this circumstance we have made the deliberate attempt to put in place a provision that allows us to stay ahead of an ever-changing drug market. We understand the damage that that can cause in the broader community. We are looking at the opportunity to develop and implement more specific controls, but we are in a situation where we need to act on this as quickly as possible.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Di Natale, Sen Richard",AG,2015-02-09,"
 
 
@@ -3364,7 +3441,7 @@ I know you are looking for something definitive, Senator DiNatale, but the gover
 Senator DI NATALE
  (Victoria) (18:17):  Perhaps it might be instructive to use a couple of scenarios. Under this legislation, why wouldn't a substance like a herbal tea that contains caffeine but is not currently registered for use in Australia—such as some of the caffeinated beverages that are used by particular cultural groups—be captured under this bill? We know that caffeine has psychoactive properties; it can produce anxiety and tremor and so on. Why is it that a substance like that is not captured under this bill? It seems to me that it would be.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3372,7 +3449,7 @@ Senator DI NATALE
 Senator COLBECK
  (Tasmania—Parliamentary Secretary to the Minister for Agriculture) (18:18):  Senator, that is clearly not the target of this piece of legislation. I did say to you before: substances without a listed legitimate use are the most likely to be imported as alternatives to illicit drugs, and so that is clearly the target of the legislation—substances without a listed legitimate use that are likely to be imported for use as alternatives to illicit drugs.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Di Natale, Sen Richard",AG,2015-02-09,"
 
 
@@ -3380,7 +3457,7 @@ Senator COLBECK
 Senator DI NATALE
  (Victoria) (18:18):  Thank you. I understand that it is not the target. The question is, will it be captured by this definition? And what is it that means that, under this definition, it will not be included? What is it that separates this from other substances that may be captured by the bill as it now stands?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3388,7 +3465,7 @@ Senator DI NATALE
 Senator COLBECK
  (Tasmania—Parliamentary Secretary to the Minister for Agriculture) (18:19):  Senator, that particular example is captured by the food exemption.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Di Natale, Sen Richard",AG,2015-02-09,"
 
 
@@ -3396,7 +3473,7 @@ Senator COLBECK
 Senator DI NATALE
  (Victoria) (18:19):  There are some beverages that are ingested that are not listed as foods. In fact, we had a presentation to the inquiry into this legislation which highlighted a specific example of a Uruguayan beverage; we have also had examples listed that include particular therapeutics used in some alternative or complementary medicines: they do in those instances have psychoactive properties. Why is it that they will not be captured under this legislation?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3404,7 +3481,7 @@ Senator DI NATALE
 Senator COLBECK
  (Tasmania—Parliamentary Secretary to the Minister for Agriculture) (18:19):  My advice is that the ban will not affect the importation of these goods. Customs and AFP officers will continue to have their current practice of stopping these goods for further investigation if they suspect that they may contain illicit drugs. These goods may be required to comply with other regulations; for example, those regarding quarantine and biosecurity. So it is a matter of giving the flexibility to our law enforcement agencies to make those assessments. I think I said to you earlier: it is about giving officers the flexibility to stay ahead of changes, and to make those assessments. It does not necessarily mean, as I understand this, that they will be captured but that they may be captured.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Di Natale, Sen Richard",AG,2015-02-09,"
 
 
@@ -3415,7 +3492,7 @@ Senator DI NATALE
 
 I understand that it is not the intention of the bill. I understand that they are not being targeted. I understand all of that. But for the purposes of this bill, they satisfy the definition of 'psychoactive effect', they satisfy the definition of 'consume', and they are not listed with this substances that are exempt. Why won't they be captured?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3423,7 +3500,7 @@ I understand that it is not the intention of the bill. I understand that they ar
 Senator COLBECK
  (Tasmania—Parliamentary Secretary to the Minister for Agriculture) (18:22):  I go back to one of the points that I made to you earlier: substances without a listed legitimate use are those that are the most likely to be imported for use as alternatives to illicit drugs. So what we are looking at is substances that are the most likely to be used as alternatives to illicit drugs. The ban will not apply, as I have said to you before, to any substance with a legitimate use. So some of those that are already being brought into the country, which have a recognised legitimate use, fall into that category under the exemptions.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Di Natale, Sen Richard",AG,2015-02-09,"
 
 
@@ -3431,7 +3508,7 @@ Senator COLBECK
 Senator DI NATALE
  (Victoria) (18:23):  I feel we are in a bit of a circular argument here, but I have already indicated to you a number of examples where a particular substance with an active ingredient produces a psychoactive effect—it may be used for a therapeutic purpose; it may be that somebody who is anxious is prescribed a particular medication from an alternative health practitioner—and that substance is not listed under the exemptions. It is currently being imported, it is being prescribed by an alternative health practitioner and it produces a psychoactive effect. It may be to reduce someone's anxiety; it may be to assist somebody with sleep—some of the reasons that illicit drugs are used. Why is it that that drug—which is going to be used for those indications, which will produce a psychoactive effect and which is not currently listed along with the exemptions in the bill—will not be captured under this definition? I still have not had a satisfactory explanation.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3439,7 +3516,7 @@ Senator DI NATALE
 Senator COLBECK
  (Tasmania—Parliamentary Secretary to the Minister for Agriculture) (18:24):  Firstly, if a substance is presented as having a therapeutic use, it will be exempt. I think I have mentioned that to you before. If substances are captured, it will be open to the importer to establish that they have a legitimate use. So I go back to the point that I made at the outset: we are taking this approach deliberately to stay ahead of an ever-changing market. You can attempt to prescribe as much as you like—as occurs in some other places—but you will never capture everything; I do not think it is possible. I know that you are looking for a very specific definition. The government has taken a deliberate decision to have a broad definition. I think that you are also right that we could go around this for a considerable period of time if that is what you want to do. You are looking for something specific; the government has taken a deliberate decision to have something that is not so specific but is broad. The reason that we have done that is to stay ahead of an ever-changing drug market, and it is a deliberate strategy of the government.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Di Natale, Sen Richard",AG,2015-02-09,"
 
 
@@ -3447,7 +3524,7 @@ Senator COLBECK
 Senator DI NATALE
  (Victoria) (18:26):  I just ask you to perhaps reflect on the answer that you have just given. The claim that if a substance has a therapeutic use it will be exempt is patently false. Many of these social tonics are marketed as having therapeutic uses—to help control anxiety, help with sleep or help relax. As a former physician, we prescribed medications for those indications; we prescribed drugs that had psychoactive properties to control those particular conditions. It cannot be that if a drug is simply promoted as having a therapeutic use it will be exempt, because it makes the legislation meaningless. I ask you to reflect on the answer that you have given and see if you can provide me with a satisfactory explanation.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3455,7 +3532,7 @@ Senator DI NATALE
 Senator COLBECK
  (Tasmania—Parliamentary Secretary to the Minister for Agriculture) (18:27):  That was the advice that was given to me, and I go back to a point that I made to you earlier. The ban will clearly not apply to any substances with a legitimate use that are imported in accordance with the relevant regulatory scheme. Perhaps that is a clarification on the last point that I made, but that is a point that I did make to you earlier in the debate. The ban will not apply to any substances with a legitimate use that are imported in accordance with the relevant regulatory scheme.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Di Natale, Sen Richard",AG,2015-02-09,"
 
 
@@ -3463,7 +3540,7 @@ Senator COLBECK
 Senator DI NATALE
  (Victoria) (18:27):  What you are suggesting there is that if a substance has a therapeutic indication, a therapeutic use, and is not registered with a particular scheme—as many currently imported substances are not—then it will be captured. That is what I am trying to get at. You cannot argue on one hand that any drug with a therapeutic indication will be exempt and then on the other hand argue that it needs to be registered under a particular framework like the TGA and so on. There are many, many substances that are imported and are used for therapeutic purposes that are not registered and are not listed in the list of exemptions, so they will be captured—they must be. What you are suggesting to me is that they are not the target. It does not matter whether they are the target or not. They satisfy the definition under the law, and, therefore, you are not providing any assurance that these substances will not be restricted.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3471,7 +3548,7 @@ Senator DI NATALE
 Senator COLBECK
  (Tasmania—Parliamentary Secretary to the Minister for Agriculture) (18:28):  You are selectively quoting me. I repeat a point that I made in conjunction with the answer to the last question: if some of these substances are captured it will be open to the importer to establish that they have legitimate uses. If a product makes a therapeutic claim, it would have to be imported under the relevant import scheme for therapeutic products. It would, therefore, be exempt from the scheme.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Di Natale, Sen Richard",AG,2015-02-09,"
 
 
@@ -3509,7 +3586,7 @@ Sitting suspended from
 19:30
 
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3517,7 +3594,7 @@ Sitting suspended from
 Senator COLBECK
  (Tasmania—Parliamentary Secretary to the Minister for Agriculture) (19:30):  I had a question to answer from Senator Di Natale in relation to an importer making a claim that a product would have an effect or a use. I have to say I am a bit surprised, Senator, that you would actually make that statement. An importer would have to establish that the substance is for a legitimate use, not just make the claim. In respect of the effect, it would also have to establish that the substance would have that effect. Even in our food laws, to make a claim about a therapeutic effect, you have to actually establish that; you cannot just put it on the label. Also under our food laws, it is not legal to mislead. I am surprised that you would make that statement. An importer would have to establish that a substance is for legitimate use and would have to establish the effect. I think that clarifies the point. Therefore, as I have stated previously, it is dealt with under the legislation.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Di Natale, Sen Richard",AG,2015-02-09,"
 
 
@@ -3525,7 +3602,7 @@ Senator COLBECK
 Senator DI NATALE
  (Victoria) (19:31):  Yes, that is true if the substance is going to be imported under the Therapeutic Goods Administration or under FSANZ regulations. That is absolutely true. But there are other substances that are imported that are not covered by those regulatory frameworks. I have got a list of substances, if you would like me to go through them with you. There are a number of them. They were brought to our attention through the course of the inquiry. There is, for example, the extract of an Amazonian plant, Guayusa. The leaves of this plant contain caffeine. It has a range of polyphenol antioxidants in it. There are claims that it is healthier than other caffeinated alternatives. It has been used traditionally for thousands of years in Ecuador. That specific extract would be captured by this definition. It is not listed under the TGA or FSANZ and therefore it does not have to demonstrate that it has a therapeutic effect. It does not have to substantiate the claim because it is not imported under either of those regulatory frameworks. So why is it that that substance would not satisfy the definition of a psychoactive substance, given that it does contain caffeine and other substances? Why is it that it is not captured?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3533,7 +3610,7 @@ Senator DI NATALE
 Senator COLBECK
  (Tasmania—Parliamentary Secretary to the Minister for Agriculture) (19:33):  We are not saying it will not; we are saying it may, and it would be open to the importer to establish that they have a legitimate use.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Di Natale, Sen Richard",AG,2015-02-09,"
 
 
@@ -3541,7 +3618,7 @@ Senator COLBECK
 Senator DI NATALE
  (Victoria) (19:33):  Isn't it a problem that, if a substance that is not the intention of this act is captured, the onus is on the importer to establish that it does not have a psychoactive effect? The question I return to is a question I asked just before the dinner break, which is: how does the importer establish that a substance does not have a psychoactive effect? What is the test to establish that claim?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3564,7 +3641,7 @@ Senator Di Natale:
 Senator COLBECK:
   well, that is the implication that comes to me from your question—and it is captured, and I have said that it may be, then it is open to the importer to demonstrate, to establish, that it is there for a legitimate use. It goes back to a strategy which I said is deliberate, and I will keep repeating the strategy. It is deliberately a broad definition and it is designed so that the government can stay ahead of a rapidly changing drug market. It is a deliberate strategy.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Di Natale, Sen Richard",AG,2015-02-09,"
 
 
@@ -3572,7 +3649,7 @@ Senator COLBECK:
 Senator DI NATALE
  (Victoria) (19:36):  I am yet to get an answer on how they establish that it is not used for that intended purpose and it does not have a psychoactive effect. We are talking about a product—in this case one that contains caffeine, which we know has a psychoactive effect—that is imported by particular outlets, that is used as an alternative to other caffeinated beverages and that satisfies the definition under the legislation of being a psychoactive substance. You said that it may be caught; it sounds as if it is not a particularly effective piece of legislation if substances like this 'may be caught'. You have also said that the onus is on the importer. What I am asking is: how does the importer satisfy the authorities that this is not a substance that is being imported with a view to mimicking the effect of other psychoactive substances? How does that occur? What is the test that is applied?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3623,7 +3700,7 @@ Senator Di Natale:
 Senator COLBECK:
   Well, Senator, that is up to you.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Di Natale, Sen Richard",AG,2015-02-09,"
 
 
@@ -3631,7 +3708,7 @@ Senator COLBECK:
 Senator DI NATALE
  (Victoria) (19:39):  You have said in your answer, Minister, the conditions for which a substance may be restricted, and you have also said that the onus will be on the importer. What you have not demonstrated, and what I need an answer to, is: how does an importer demonstrate to the authorities that this is not a psychoactive substance that should be captured by this definition? For example, I am company X; I import product Y into the market. The authorities say to me, 'We suspect that this may be a substance that has psychoactive properties. We are going to restrict the importation of your product.' How do I satisfy the authorities that this substance does not have psychoactive properties that are intended to be captured by this bill? How do I, as the importer, satisfy to the authorities that my substance should not be captured by this piece of legislation?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3639,7 +3716,7 @@ Senator DI NATALE
 Senator COLBECK
  (Tasmania—Parliamentary Secretary to the Minister for Agriculture) (19:40):  You would provide evidence that demonstrates what you are claiming.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Di Natale, Sen Richard",AG,2015-02-09,"
 
 
@@ -3654,7 +3731,7 @@ Bill, as amended, agreed to.
 
 Bill reported with amendments; report adopted.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3671,7 +3748,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014</title>,BILLS,30,1,speech
 "Seselja, Sen Zed",LP,2015-02-09,"
 
 
@@ -3706,7 +3783,7 @@ The International Transfer of Prisoners Act 1997, which governs the Internationa
 
 In conclusion, the Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014 is an important update to our nation's criminal law so that it remains in step with the key issues of the day. We all know that the consequences of this kind of criminal activity are all too real. We know them well. We see, tragically, that gun-related violence and drug-related deaths are an all too common feature in our community. The Australian government believes very strongly in ensuring that we have the appropriate laws to deal with these issues and also in ensuring that we have the appropriate balance of people's civil liberties. I believe that this bill strikes that balance and I commend it to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,30,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,30,2,speech
 "Colbeck, Sen Richard",LP,2015-02-09,"
 
 
@@ -3729,7 +3806,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,30,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,30,2,speech
 "Canavan, Sen Matthew",Nats,2015-02-09,"
 
 
@@ -3761,4 +3838,4 @@ The area where I live, the Fitzroy Basin, is the largest catchment on the easter
 
 We also need those stronger laws for small businesses and farmers to make sure they have the confidence that they can make a return, because no-one is going to invest in farming in this nation unless they can make a buck doing it. That is why we put our sole focus on making sure we get farmers' profitability up before we start talking about their productivity. In my view, there has been far too much concentration in agricultural policy in this country on just making farmers do better and run faster without being able to make more money. There is no point in investing in ways to become more productive unless you can make more money from it. That is why our focus has been on getting prices up and costs down for farmers, boosting their profits so that we can have a stronger agricultural sector in this country—an agricultural sector that has a positive outlook—and it can provide more jobs, employment and investment for communities in regional Australia.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Agriculture</title>,ADJOURNMENT,31,1
+",Senate,<title>ADJOURNMENT</title>,<title>Agriculture</title>,ADJOURNMENT,31,1,speech

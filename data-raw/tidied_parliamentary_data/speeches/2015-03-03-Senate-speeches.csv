@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Milne, Sen Christine",AG,2015-03-03,"
 
 
@@ -42,7 +42,7 @@ We have already had the military out there saying that the situation we are in r
 
 This is a bad call, and the parliament should decide. This should not be up to a Prime Minister. The community out there honestly thinks that the parliament sends Australian troops. We do not. The Prime Minister makes the call, the captain's call. It is ill-considered; it has not been explained. It is wrong. (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Deployment of Australian Troops</title>,MOTIONS,0,1
+",Senate,<title>MOTIONS</title>,<title>Deployment of Australian Troops</title>,MOTIONS,0,1,speech
 "Fifield, Sen Mitch",LP,2015-03-03,"
 
 
@@ -62,7 +62,7 @@ We follow the Westminster conventions in this place. As I said, it is something 
 
 So it is for those reasons that the government denied leave for the Australian Greens to move their substantive motion and it is also for those reasons that the government will not be supporting the motion to suspend standing orders. We do not think the case has been made and we do not support the concept that parliamentary approval is or should be required. These are matters, appropriately, for the elected government of the day.
 
-",Senate,<title>MOTIONS</title>,<title>Deployment of Australian Troops</title>,MOTIONS,0,1
+",Senate,<title>MOTIONS</title>,<title>Deployment of Australian Troops</title>,MOTIONS,0,1,speech
 "Conroy, Sen Stephen",ALP,2015-03-03,"
 
 
@@ -82,7 +82,7 @@ As Labor has said before, the role of parliament is to debate issues of concern,
 
 Just last week the defence minister provided an update on operations in Iraq, Afghanistan and the Middle East. That is appropriate and it ensures an important level of transparency to any ADF deployment. Regular statements to parliament by the government is something that Labor initiated and it is something that this government is continuing As I have said, it is appropriate for the parliament to debate government decisions that involve the deployment of ADF personnel, but that should be done in a considered way. We do not believe that this is a considered way and we do not support this suspension motion.
 
-",Senate,<title>MOTIONS</title>,<title>Deployment of Australian Troops</title>,MOTIONS,0,1
+",Senate,<title>MOTIONS</title>,<title>Deployment of Australian Troops</title>,MOTIONS,0,1,speech
 "Ludlam, Sen Scott",AG,2015-03-03,"
 
 
@@ -111,7 +111,7 @@ Senator Fifield:
 Senator LUDLAM:
   I will tell you what is offensive, Senator Fifield, and that is simply being told that we have to trust this Prime Minister on the most significant decision that a nation can make, against the backdrop of a series of disastrous captain's calls. It is about time we grew up and submitted these discussions, debate and, ultimately, decisions to those elected MPs who would then need to live with the decisions that they make.
 
-",Senate,<title>MOTIONS</title>,<title>Deployment of Australian Troops</title>,MOTIONS,0,1
+",Senate,<title>MOTIONS</title>,<title>Deployment of Australian Troops</title>,MOTIONS,0,1,speech
 "Xenophon, Sen Nick",Ind.,2015-03-03,"
 
 
@@ -128,7 +128,7 @@ I put it unambiguously that Islamic State—ISIS or Daesh, as they are also call
 
 Finally, I want to make this absolutely clear: I wish our troops well. I am sure they have done us proud and will continue to do us proud. The issue here is having parliamentary scrutiny of the most grave decision any government can make, which is to send our trips to war.
 
-",Senate,<title>MOTIONS</title>,<title>Deployment of Australian Troops</title>,MOTIONS,0,1
+",Senate,<title>MOTIONS</title>,<title>Deployment of Australian Troops</title>,MOTIONS,0,1,speech
 "Fawcett, Sen David",LP,2015-03-03,"
 
 
@@ -148,7 +148,7 @@ That is part of a plan, normally part of a coalition, and to then seek to extrac
 
 I looked with some horror at the media questioning of the government before we deployed some ADF and other assets to support the recovery of Australians who were killed in the incident over Ukraine. The persistent and detailed questioning from media around exactly who was being deployed, where they were being deployed and what they were being deployed for was actually putting Australians in that place at risk. If you extrapolate what happened in that small example to a broader example of a deployment of a force, it is not appropriate, it is not safe and it is not the precedent in this country which has served us well over many years for this parliament to usurp the ability of the cabinet to make that decision that, where it is in Australia's best interest, our Defence Force should be deployed.
 
-",Senate,<title>MOTIONS</title>,<title>Deployment of Australian Troops</title>,MOTIONS,0,1
+",Senate,<title>MOTIONS</title>,<title>Deployment of Australian Troops</title>,MOTIONS,0,1,speech
 "Lambie, Sen Jacqui",Ind.,2015-03-03,"
 
 
@@ -202,7 +202,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Williams
 ):  The time for the debate has now expired. The question is the motion to suspend standing orders moved by Senator Milne be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Deployment of Australian Troops</title>,MOTIONS,0,1
+",Senate,<title>MOTIONS</title>,<title>Deployment of Australian Troops</title>,MOTIONS,0,1,speech
 "Williams, Sen John (The TEMPORARY CHAIRMAN)",Nats,2015-03-03,"
 
 
@@ -213,7 +213,7 @@ The TEMPORARY CHAIRMAN
 Senator Williams
 ) (13:10):  Is it the wish of the committee that the bill be taken as a whole? There being no objection, it is so ordered. The question is that the bill stand as printed.
 
-",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1,speech
 "Xenophon, Sen Nick",Ind.,2015-03-03,"
 
 
@@ -273,7 +273,7 @@ After paragraph
 
 I spoke largely to this during my second reading contribution. Essentially, these amendments would require local content in South Australia, because South Australia was never included in the context of broadcasting legislation to have local content and local news bulletins in particular. The legislation did not include Western Australia or the Northern Territory because of a number of regional factors. South Australia lost regional television services in the south-east of South Australia and in the Riverland, but I am completely open as to whether there ought to be additional safeguards in Western Australia. There is quite a different media market there in terms of the size of that state and the population distribution. But this is basically saying that if regional communities had local television content—I know the importance of local coverage in New South Wales, Victoria, Queensland and Tasmania—they are all covered by the broadcasting act, but South Australia has been omitted. This is about rectifying that. I have had discussions, as recently as yesterday, with Harold Mitchell from Free TV to express my concerns about the need for commercial broadcasters to provide local coverage. I have had discussions with Bruce Gordon, the owner of WIN Television, about this issue as well. Losing their local content has been a real body blow for the communities in the south-east of South Australia, in Mount Gambier and surrounding communities, in the Riverland, Renmark, Loxton, Berri, Barmera and other surrounding communities. Losing their half hour news service has been a real body blow to that community infrastructure and that dissemination of information. This is what these amendments seek to deal with, that is why I am here and that is why I am moving them.
 
-",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1,speech
 "Macdonald, Sen Ian",LP,2015-03-03,"
 
 
@@ -287,7 +287,7 @@ So really my question to the mover is: why should this be regulated? Why wouldn'
 
 I do remember that, when the issue arose in Queensland some years ago and there was an attempt made to regulate or legislate to provide for these services, the broadcasting outlets involved indicated that none of their listeners particularly wanted to do this and therefore they were not interested in doing it. But more importantly—they were commercial radio stations—none of the advertisers were interested, because it became a turn-off for the local area. I am curious, having only just come into this debate, about Senator Xenophon's reasons for raising this. I would be very interested to hear them. I am sure he has thought about these things, so I will listen intently to the answers he gives.
 
-",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1,speech
 "Xenophon, Sen Nick",Ind.,2015-03-03,"
 
 
@@ -304,7 +304,7 @@ The issue of what consumers want is this. Advertisers are concerned about how ma
 
 What I was trying to do through these amendments was to remedy what I saw as an anomaly under section 43A of the act: that other states were included, but South Australia, Western Australia and the Northern Territory missed out—although there are regional differences between WA and the Northern Territory. That is the basis of the amendments: that there is a case of, if not market failure, market distortion by not including South Australia in 43A, the amendment that gave protection to local coverage. Senator Macdonald, it is always a pleasure to get a question from you. I hope I have answered it in part at least.
 
-",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1,speech
 "Macdonald, Sen Ian",LP,2015-03-03,"
 
 
@@ -452,7 +452,7 @@ Senator IAN MACDONALD:
 
 But I am drawing the likeness to Senator Xenophon's attention. In Townsville, Cairns, Mackay and Rockhampton, which I am familiar with—and, I am sure, in many other parts of regional Australia—you do not need to regulate for this. If there are regulations—I am not sure that there are, but if there are—they are certainly not needed in those places, because again I repeat that the Channel Seven and Channel Nine affiliates, WIN and Prime or Channel Seven, actually compete for the local news, because it is good for viewer participation. Viewers do watch the local news. That attracts advertisers, and that, of course, attracts the businesses that run these organisations. I repeat that I am not familiar with the Mount Gambier area, but if there were a demand in the Mount Gambier area then one would think that the first people to know about that would be WIN Television, and the second lot of people to know about it would be the advertisers. If the viewer demand is not there then one would wonder why the federal parliament should be regulating to provide a service that clearly nobody wants.
 
-",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1,speech
 "Xenophon, Sen Nick",Ind.,2015-03-03,"
 
 
@@ -466,7 +466,7 @@ One of the issues has been that this is a case where the market has been modifie
 
 The other issue is that producing local television content is quite different now than 20 or 30 years ago. A Betacam costs about $100,000. You can have broadcast quality equipment for $6,000 or $7,000, which journalists in the Southern Cross Network use out of Port Lincoln, Whyalla, Port Augusta and Port Pirie, and they seem to be able to put together a very comprehensive news bulletin. So I think the media has changed and it is just convenient to drop South Australia from that by virtue of a lack of a requirement in section 43A. I hope that answers Senator MacDonald's questions, but I think he has raised some very important issues. In terms of local advertisers, as long as they have got the viewers there they do not care whether they are watching The Bold and the Beautiful or the local news bulletin; what they are interested in is the number of eyes on the television set.
 
-",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1,speech
 "Macdonald, Sen Ian",LP,2015-03-03,"
 
 
@@ -474,7 +474,7 @@ The other issue is that producing local television content is quite different no
 Senator IAN MACDONALD
  (Queensland) (13:32):  I thank Senator Xenophon for those answers. I acknowledge his passion for his electorate and the place where he gets votes. His passion for South Australia almost matches that of my colleagues on this side from South Australia—and one of them has just walked into the room. With respect, you almost get tired of the way they continually advocate for, promote and support South Australia. They are fabulous supporters of and advocates for South Australia—and Senator Xenophon is another one in that same category. Having said that, Senator Xenophon, I have heard what you have said. Thank you for your answers, but I am afraid you have not convinced me, so I will be voting against the amendment.
 
-",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1,speech
 "Ludlam, Sen Scott",AG,2015-03-03,"
 
 
@@ -485,7 +485,7 @@ Senator LUDLAM
 
 In a country as heavily urbanised as Australia it means that the representation that comes into this place will be predominantly representing urban or peri-urban electorates. I think it is important we keep in mind that, in regional areas, locally produced regional media can be a tremendously important voice. And that is partly why we stand up so strongly for regional ABC broadcasters—because, in some instances, commercial players simply cannot maintain that service. So we will be supporting this amendment when it is committed to a vote.
 
-",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1,speech
 "Fifield, Sen Mitch",LP,2015-03-03,"
 
 
@@ -499,7 +499,7 @@ In 2013 the ACMA conducted an inquiry into the provision of local content in Sou
 
 Senator Xenophon was not expecting government support on his amendment, and I confirm that.
 
-",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1,speech
 "Xenophon, Sen Nick",Ind.,2015-03-03,"
 
 
@@ -519,7 +519,7 @@ Bill agreed to.
 
 Bill reported without amendments; report adopted.
 
-",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1,speech
 "Fifield, Sen Mitch",LP,2015-03-03,"
 
 
@@ -536,7 +536,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015</title>,BILLS,3,1,speech
 "Williams, Sen John (The TEMPORARY CHAIRMAN)",Nats,2015-03-03,"
 
 
@@ -547,7 +547,7 @@ The TEMPORARY CHAIRMAN
 Senator Williams
 ) (13:10):  Is it the wish of the committee that the bill be taken as a whole? There being no objection, it is so ordered. The question is that the bill stand as printed.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Xenophon, Sen Nick",Ind.,2015-03-03,"
 
 
@@ -607,7 +607,7 @@ After paragraph
 
 I spoke largely to this during my second reading contribution. Essentially, these amendments would require local content in South Australia, because South Australia was never included in the context of broadcasting legislation to have local content and local news bulletins in particular. The legislation did not include Western Australia or the Northern Territory because of a number of regional factors. South Australia lost regional television services in the south-east of South Australia and in the Riverland, but I am completely open as to whether there ought to be additional safeguards in Western Australia. There is quite a different media market there in terms of the size of that state and the population distribution. But this is basically saying that if regional communities had local television content—I know the importance of local coverage in New South Wales, Victoria, Queensland and Tasmania—they are all covered by the broadcasting act, but South Australia has been omitted. This is about rectifying that. I have had discussions, as recently as yesterday, with Harold Mitchell from Free TV to express my concerns about the need for commercial broadcasters to provide local coverage. I have had discussions with Bruce Gordon, the owner of WIN Television, about this issue as well. Losing their local content has been a real body blow for the communities in the south-east of South Australia, in Mount Gambier and surrounding communities, in the Riverland, Renmark, Loxton, Berri, Barmera and other surrounding communities. Losing their half hour news service has been a real body blow to that community infrastructure and that dissemination of information. This is what these amendments seek to deal with, that is why I am here and that is why I am moving them.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Macdonald, Sen Ian",LP,2015-03-03,"
 
 
@@ -621,7 +621,7 @@ So really my question to the mover is: why should this be regulated? Why wouldn'
 
 I do remember that, when the issue arose in Queensland some years ago and there was an attempt made to regulate or legislate to provide for these services, the broadcasting outlets involved indicated that none of their listeners particularly wanted to do this and therefore they were not interested in doing it. But more importantly—they were commercial radio stations—none of the advertisers were interested, because it became a turn-off for the local area. I am curious, having only just come into this debate, about Senator Xenophon's reasons for raising this. I would be very interested to hear them. I am sure he has thought about these things, so I will listen intently to the answers he gives.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Xenophon, Sen Nick",Ind.,2015-03-03,"
 
 
@@ -638,7 +638,7 @@ The issue of what consumers want is this. Advertisers are concerned about how ma
 
 What I was trying to do through these amendments was to remedy what I saw as an anomaly under section 43A of the act: that other states were included, but South Australia, Western Australia and the Northern Territory missed out—although there are regional differences between WA and the Northern Territory. That is the basis of the amendments: that there is a case of, if not market failure, market distortion by not including South Australia in 43A, the amendment that gave protection to local coverage. Senator Macdonald, it is always a pleasure to get a question from you. I hope I have answered it in part at least.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Macdonald, Sen Ian",LP,2015-03-03,"
 
 
@@ -786,7 +786,7 @@ Senator IAN MACDONALD:
 
 But I am drawing the likeness to Senator Xenophon's attention. In Townsville, Cairns, Mackay and Rockhampton, which I am familiar with—and, I am sure, in many other parts of regional Australia—you do not need to regulate for this. If there are regulations—I am not sure that there are, but if there are—they are certainly not needed in those places, because again I repeat that the Channel Seven and Channel Nine affiliates, WIN and Prime or Channel Seven, actually compete for the local news, because it is good for viewer participation. Viewers do watch the local news. That attracts advertisers, and that, of course, attracts the businesses that run these organisations. I repeat that I am not familiar with the Mount Gambier area, but if there were a demand in the Mount Gambier area then one would think that the first people to know about that would be WIN Television, and the second lot of people to know about it would be the advertisers. If the viewer demand is not there then one would wonder why the federal parliament should be regulating to provide a service that clearly nobody wants.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Xenophon, Sen Nick",Ind.,2015-03-03,"
 
 
@@ -800,7 +800,7 @@ One of the issues has been that this is a case where the market has been modifie
 
 The other issue is that producing local television content is quite different now than 20 or 30 years ago. A Betacam costs about $100,000. You can have broadcast quality equipment for $6,000 or $7,000, which journalists in the Southern Cross Network use out of Port Lincoln, Whyalla, Port Augusta and Port Pirie, and they seem to be able to put together a very comprehensive news bulletin. So I think the media has changed and it is just convenient to drop South Australia from that by virtue of a lack of a requirement in section 43A. I hope that answers Senator MacDonald's questions, but I think he has raised some very important issues. In terms of local advertisers, as long as they have got the viewers there they do not care whether they are watching The Bold and the Beautiful or the local news bulletin; what they are interested in is the number of eyes on the television set.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Macdonald, Sen Ian",LP,2015-03-03,"
 
 
@@ -808,7 +808,7 @@ The other issue is that producing local television content is quite different no
 Senator IAN MACDONALD
  (Queensland) (13:32):  I thank Senator Xenophon for those answers. I acknowledge his passion for his electorate and the place where he gets votes. His passion for South Australia almost matches that of my colleagues on this side from South Australia—and one of them has just walked into the room. With respect, you almost get tired of the way they continually advocate for, promote and support South Australia. They are fabulous supporters of and advocates for South Australia—and Senator Xenophon is another one in that same category. Having said that, Senator Xenophon, I have heard what you have said. Thank you for your answers, but I am afraid you have not convinced me, so I will be voting against the amendment.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Ludlam, Sen Scott",AG,2015-03-03,"
 
 
@@ -819,7 +819,7 @@ Senator LUDLAM
 
 In a country as heavily urbanised as Australia it means that the representation that comes into this place will be predominantly representing urban or peri-urban electorates. I think it is important we keep in mind that, in regional areas, locally produced regional media can be a tremendously important voice. And that is partly why we stand up so strongly for regional ABC broadcasters—because, in some instances, commercial players simply cannot maintain that service. So we will be supporting this amendment when it is committed to a vote.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Fifield, Sen Mitch",LP,2015-03-03,"
 
 
@@ -833,7 +833,7 @@ In 2013 the ACMA conducted an inquiry into the provision of local content in Sou
 
 Senator Xenophon was not expecting government support on his amendment, and I confirm that.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Xenophon, Sen Nick",Ind.,2015-03-03,"
 
 
@@ -853,7 +853,7 @@ Bill agreed to.
 
 Bill reported without amendments; report adopted.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Wong, Sen Penny",ALP,2015-03-03,"
 
 
@@ -912,7 +912,7 @@ Exploration for minerals does drive significant economic development. It is one 
 
 The opposition does support these bills before the Senate. We look forward to their prompt passage.
 
-",Senate,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014, Excess Exploration Credit Tax Bill 2014</title>",BILLS,5,1
+",Senate,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014, Excess Exploration Credit Tax Bill 2014</title>",BILLS,5,1,speech
 "Smith, Sen Dean",LP,2015-03-03,"
 
 
@@ -981,7 +981,7 @@ The EDI will encourage much-needed investment in greenfields exploration which i
 
 Along with the repeal of the carbon tax and the mining tax, the establishment of the exploration development incentive is another demonstration of the government's commitment to a sustainable, profitable and job-creating mining and resources sector that will continue to contribute to the nation's economic health for decades to come.
 
-",Senate,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014, Excess Exploration Credit Tax Bill 2014</title>",BILLS,5,1
+",Senate,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014, Excess Exploration Credit Tax Bill 2014</title>",BILLS,5,1,speech
 "Whish-Wilson, Sen Peter",AG,2015-03-03,"
 
 
@@ -998,7 +998,7 @@ Let me ask this question: if I go out and explore for gold and 300 metres under 
 
 Debate interrupted.
 
-",Senate,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014, Excess Exploration Credit Tax Bill 2014</title>",BILLS,5,1
+",Senate,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014, Excess Exploration Credit Tax Bill 2014</title>",BILLS,5,1,speech
 "Wong, Sen Penny",ALP,2015-03-03,"
 
 
@@ -1057,7 +1057,7 @@ Exploration for minerals does drive significant economic development. It is one 
 
 The opposition does support these bills before the Senate. We look forward to their prompt passage.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Smith, Sen Dean",LP,2015-03-03,"
 
 
@@ -1126,7 +1126,7 @@ The EDI will encourage much-needed investment in greenfields exploration which i
 
 Along with the repeal of the carbon tax and the mining tax, the establishment of the exploration development incentive is another demonstration of the government's commitment to a sustainable, profitable and job-creating mining and resources sector that will continue to contribute to the nation's economic health for decades to come.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Whish-Wilson, Sen Peter",AG,2015-03-03,"
 
 
@@ -1143,7 +1143,87 @@ Let me ask this question: if I go out and explore for gold and 300 metres under 
 
 Debate interrupted.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
+"Wong, Sen Penny",ALP,2015-03-03,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:00):  My question is to the Minister representing the Prime Minister, Senator Abetz. Does the Prime Minister stand by his claim that his unfair GP tax is 'good policy'?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Health Care</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Wong, Sen Penny",ALP,2015-03-03,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:00):  Mr President, I ask a supplementary question. Does the Prime Minister stand by his claim that his unfair GP tax 'makes economic sense, it makes health policy sense. Frankly, it makes fairness sense?' Does the Prime Minister stand by that claim?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Health Care</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Wong, Sen Penny",ALP,2015-03-03,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:03):  Mr President, I ask a further supplementary question. Will the minister confirm that in relation to the GP tax this Prime Minister ignored the doctors, ignored the voters and ignored his own backbench and is now only dumping this attack on Medicare to save his political skin?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Health Care</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Abetz, Sen Eric",LP,2015-03-03,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:00):  The government has made an announcement in relation to the GP co-payment through Minister Ley. Minister Ley has, a short time ago, indicated that the GP co-payment as proposed is off the table for good, and that is where the government's policy position is.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Health Care</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Abetz, Sen Eric",LP,2015-03-03,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:01):  I recall somebody in this chamber saying that the emissions trading scheme and the carbon tax was the greatest moral challenge of our time, and then we saw them dump it. Senator Wong hardly comes with any credibility to this debate. Governments do from time to time change their position—
+
+
+
+
+Senator Moore:
+  Mr President, I rise on a point of order on direct relevance to the question asked by Senator Wong. We have not got near an answer—we have heard about previous governments.
+
+
+
+The PRESIDENT:  The minister has more than half of his time left to answer the question. I remind the minister of the question.
+
+
+
+
+Senator ABETZ:
+  In relation to Medicare, we make no apology for saying that we are concerned about its sustainability, especially in circumstances where spending on Medicare has more than doubled in the last decade, from $8 billion in 2004 to $20 billion today, and it is expected to climb even higher, to $34 billion, by 2024. That is the trajectory and any responsible government would seek to deal—
+
+
+
+
+Senator Moore:
+  Mr President, I again raise a point of order on direct relevance. The question was about the Prime Minister's claim about the GP tax. We have not got close to that, and there are six seconds left.
+
+
+
+The PRESIDENT:  I remind the minister that he has six seconds left in which to answer the question.
+
+
+
+
+Senator ABETZ:
+  All these statements were made in the context of having a sustainable Medicare, and that is what we are working towards. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Health Care</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Abetz, Sen Eric",LP,2015-03-03,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:03):  The short answer to that is no. Prime Minister Abbott was an exceptionally good minister for health and a very, very good friend of Medicare. Everybody in Australia who has any depth of knowledge in the health area acknowledges that. Of course those opposite do not have that depth of knowledge and that is why we have these immature squeaks of laughter from them when those facts are laid on the table. The government and the Prime Minister are absolutely concerned to make sure that Medicare is sustainable into the future. The big question is, what is Labor's answer to this dilemma or indeed any other dilemma that the Australian people face in the budgetary context? It is borrow, borrow, borrow, borrow and to hell with the next generation. They are not concerned about deferring today's responsibilities to the next generation but we are concerned about that. We want to ensure that the budget parameters, in health as well, are within the confines of a responsible budget. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Health Care</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
 "McLucas, Sen Jan",ALP,2015-03-03,"
 
 
@@ -1173,7 +1253,7 @@ We need a policy that has Medicare at its heart. We want a policy that will deli
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Health Care</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Health Care</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Back, Sen Chris",LP,2015-03-03,"
 
 
@@ -1181,7 +1261,7 @@ Question agreed to.
 Senator BACK
  (Western Australia) (15:36):  by leave—I table a correction to the explanatory memorandum for the Criminal Code Amendment (Animal Protection) Bill 2015, which I introduced on Wednesday, 11 February 2015.
 
-",Senate,<title>BILLS</title>,<title>Criminal Code Amendment (Animal Protection) Bill 2015</title>,BILLS,10,1
+",Senate,<title>BILLS</title>,<title>Criminal Code Amendment (Animal Protection) Bill 2015</title>,BILLS,10,1,speech
 "Back, Sen Chris",LP,2015-03-03,"
 
 
@@ -1189,7 +1269,7 @@ Senator BACK
 Senator BACK
  (Western Australia) (15:36):  by leave—I table a correction to the explanatory memorandum for the Criminal Code Amendment (Animal Protection) Bill 2015, which I introduced on Wednesday, 11 February 2015.
 
-",Senate,<title>BILLS</title>,<title>Explanatory Memorandum</title>,BILLS,10,2
+",Senate,<title>BILLS</title>,<title>Explanatory Memorandum</title>,BILLS,10,2,speech
 "Cash, Sen Michaelia",LP,2015-03-03,"
 
 
@@ -1236,7 +1316,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>International Women's Day</title>,MOTIONS,11,1
+",Senate,<title>MOTIONS</title>,<title>International Women's Day</title>,MOTIONS,11,1,speech
 "McEwen, Sen Anne",ALP,2015-03-03,"
 
 
@@ -1284,7 +1364,7 @@ The PRESIDENT:  The question is that the motion moved by Senator McEwen be agree
 
  
 
-",Senate,<title>DOCUMENTS</title>,<title>National Mental Health Commission</title>,DOCUMENTS,12,1
+",Senate,<title>DOCUMENTS</title>,<title>National Mental Health Commission</title>,DOCUMENTS,12,1,speech
 "McEwen, Sen Anne",ALP,2015-03-03,"
 
 
@@ -1332,7 +1412,7 @@ The PRESIDENT:  The question is that the motion moved by Senator McEwen be agree
 
  
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,12,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,12,2,speech
 "Waters, Sen Larissa",AG,2015-03-03,"
 
 
@@ -1370,7 +1450,7 @@ That the Senate—
 
 (b) believes That the Liverpool Plains should be permanently off limits to coal mining and coal seam gas extraction.
 
-",Senate,<title>MOTIONS</title>,<title>Liverpool Plains</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Liverpool Plains</title>,MOTIONS,13,1,speech
 "Fifield, Sen Mitch",LP,2015-03-03,"
 
 
@@ -1398,7 +1478,7 @@ This will ensure that any decision made under national environmental law is base
 
 The PRESIDENT:  The question is that the motion moved by Senator Waters be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Liverpool Plains</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Liverpool Plains</title>,MOTIONS,13,1,speech
 "PRESIDENT, The",,2015-03-03,"
 
 
@@ -1424,7 +1504,7 @@ More than the number of senators required by the standing orders having risen in
 
 I understand that informal arrangements have been made to allocate specific times to each of the speakers in today's debate. With the concurrence of the Senate, I shall ask the Clerks to set the clock accordingly.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Leyonhjelm, Sen David",LDP,2015-03-03,"
 
 
@@ -1435,7 +1515,7 @@ Senator LEYONHJELM
 
 We would be comfortable with the Greens receiving an allocation of today's crossbench time based on their proportion of the crossbench, but we need an agreement that this occur in each MPI and urgency debate—including those where they propose the topic. To date, the position of the Greens has been to use all the crossbench allocation for MPIs and urgency debates when they propose the topic and half the allocation when they do not propose the topic. This is not proportionality.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Siewert, Sen Rachel",AG,2015-03-03,"
 
 
@@ -1460,7 +1540,7 @@ Senator SIEWERT:
 
 The PRESIDENT:  I will again seek advice. You are suggesting one of those items should be Greens rather than crossbench. Is there any objection to that? For further clarification, I will make the first allocation to the Greens party and the second allocation where it says crossbench to crossbench senators. I assume we will have some indication from crossbenches during the debate as to who the call will go to. Is everyone comfortable with those arrangements? I will now call Senator Singh.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Singh, Sen Lisa",ALP,2015-03-03,"
 
 
@@ -1508,7 +1588,7 @@ The Labor Party does not believe this sickening attack has any place in Australi
 
 So where is the coalition on this position? It is in a completely different place to the Labor Party, which stands for inclusion and for section 18C remaining in our Racial Discrimination Act.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Edwards, Sen Sean",LP,2015-03-03,"
 
 
@@ -1607,7 +1687,7 @@ We believe in an Australia where everybody is free to speak their mind. We belie
 
 I hope that the contributions to the rest of this debate can be a little more balanced and less prejudicial than the last contribution we had from Labor, from Senator Singh. Thank you.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Di Natale, Sen Richard",AG,2015-03-03,"
 
 
@@ -1636,7 +1716,7 @@ Of course, hate speech is now no longer a problem. Ensuring that people have got
 
 This government has failed that test. It has demonstrated that when it comes to its own political survival it will say or do anything, even if that means going against the very core beliefs that it argued in this place only a short time ago. Either you believe in freedom or you do not. And this government has shown that, when the circumstances change, it too will change on those core beliefs. Freedom and liberty are only something to be supported when the circumstances demand it. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Peris, Sen Nova",ALP,2015-03-03,"
 
 
@@ -1665,7 +1745,7 @@ There are senators in this place who have outlined their intention to vote in su
 
 The Racial Discrimination Act has served Australia well for 20 years. It sends a message of respect, it sends a message of support, it sends a message of inclusiveness and it sends a message of harmony. Those who support the watering down of racial discrimination laws are spreading a message of bigotry and hatred, and shame on them. I support the current laws. I do not support the rights of bigots. I support a tolerant society and I really hope that this parliament does what the community wants us to do, and that is to show some respect for each other.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Bernardi, Sen Cory",LP,2015-03-03,"
 
 
@@ -1694,7 +1774,7 @@ I do not agree that we should have unfettered free speech, because then we would
 
 When we are talking about hate, many times it is in the eye of the beholder. If we want to look at the hypocrisy, it was only in recent years the Greens decided the Murdoch press was somehow the hate press and were preaching hatred against the Greens and they wanted to enact some sort of government mechanism to limit the freedom of the press. I find that anathema. We have opportunities, if you are maligned by the press, to pursue it through the courts, as anyone else would, for defamation, but not simply because you are upset or somehow offended by what they have got to say. This is the hypocrisy that we are seeing in this chamber today. If we want to have a serious debate, let's have a discussion without the slurs. Let's have a discussion without the epithets. Let's have a discussion about what is in the national interest.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Day, Sen Bob",FFP,2015-03-03,"
 
 
@@ -1711,7 +1791,7 @@ An example of what my co-sponsors and I are on about is the recent case where th
 
 Family First has consistently supported national security bills in this place as it believes these are the best methods to guard against those who promote and support terrorist activity. When people act or conspire to commit criminal acts at home or abroad, then we have criminal laws to deal with them. It is unacceptable, however, to have criminal laws dealing with matters of debate and speech. Since my co-sponsors, whom I again thank today for their support—and I notice that Senator Smith is here in the chamber—and I tabled a bill to reform section 18C of the Racial Discrimination Act, we have seen some appalling further attacks on free speech in Europe. People have paid with their lives for the freedom to speak as they find. As my wife's Auntie Esther used to say, 'I speak as I find.' If we support free speech—one of the foundations of this place—then the right thing to do is to remove the prohibitions against it.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Dastyari, Sen Sam",ALP,2015-03-03,"
 
 
@@ -1737,7 +1817,7 @@ I think there is a real disconnect that we have to make sure we bridge in this d
 
 I was here for Senator Day's contribution. While the principle is something that is laudable and important, the reality of what happens when you start watering down something like the Racial Discrimination Act is that it sends a message. I worry that the message it sends is that it is okay to be a bigot, that it is okay to promote racist views, that it is okay to promote views the majority of Australians do not hold. I think the concern out there in the community about is legitimate and is real because they are the parents, they are the families, that they are communities that have to deal with the consequence of those views being promoted.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Smith, Sen Dean",LP,2015-03-03,"
 
 
@@ -1792,7 +1872,7 @@ In the limited time that is available to me, let me just add one more supporter,
 
 I am not renowned for my patience, but on this issue I will be patient because I have every confidence that, one by one, senators in this place will realise the wisdom of this approach to free speech. I do not doubt for a second that there will be some road blocks and people will try to make political mischief, but I am confident that community opinion will change in the favour and in the direction of the private senator's bill, which is sponsored by Senators Day, Leyonhjelm, Bernardi and me. Thank you.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Racial Discrimination Act</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Smith, Sen Dean",LP,2015-03-03,"
 
 
@@ -1878,7 +1958,7 @@ In conclusion, I would just like to put on record my sincere appreciation for th
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Human Rights Committee</title>,COMMITTEES,16,1
+",Senate,<title>COMMITTEES</title>,<title>Human Rights Committee</title>,COMMITTEES,16,1,speech
 "Smith, Sen Dean",LP,2015-03-03,"
 
 
@@ -1964,7 +2044,7 @@ In conclusion, I would just like to put on record my sincere appreciation for th
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,16,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,16,2,speech
 "Scullion, Sen Nigel",CLP,2015-03-03,"
 
 
@@ -1981,7 +2061,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Australian Securities and Investments Commission Amendment (Corporations and Markets Advisory Committee Abolition) Bill 2014</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Securities and Investments Commission Amendment (Corporations and Markets Advisory Committee Abolition) Bill 2014</title>,BILLS,17,1,speech
 "Scullion, Sen Nigel",CLP,2015-03-03,"
 
 
@@ -2091,7 +2171,7 @@ I commend the Bill to the House.
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Australian Securities and Investments Commission Amendment (Corporations and Markets Advisory Committee Abolition) Bill 2014</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Securities and Investments Commission Amendment (Corporations and Markets Advisory Committee Abolition) Bill 2014</title>,BILLS,17,1,speech
 "Scullion, Sen Nigel",CLP,2015-03-03,"
 
 
@@ -2108,7 +2188,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,17,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,17,2,speech
 "Milne, Sen Christine",AG,2015-03-03,"
 
 
@@ -2176,7 +2256,7 @@ It has been my experience from one end of the country to the other that these re
 
 People are going to look back and say, 'What sort of governments did you have in this country that were so keen to maximise the profits of the mining corporations at the expense of the community?' That is why the Greens will not be supporting this particular schedule. The Greens will be opposing schedule 1 and schedule 6 and would like the opportunity to vote on those separately in the committee stage.
 
-",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014</title>,BILLS,19,1
+",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014</title>,BILLS,19,1,speech
 "Scullion, Sen Nigel",CLP,2015-03-03,"
 
 
@@ -2211,7 +2291,7 @@ Question agreed to.
 
 Bills read a second time.
 
-",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014</title>,BILLS,19,1
+",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014</title>,BILLS,19,1,speech
 "Milne, Sen Christine",AG,2015-03-03,"
 
 
@@ -2228,7 +2308,7 @@ Senator MILNE
 
 I do not wish to speak to these amendments any further than I have in my speech on the second reading. It is very clear why we do not want to see $100 million of taxpayers' money given as an exploration incentive to the mining industry, nor do we want to assume that people who choose to exceed their non-concessional superannuation contribution have done so inadvertently.
 
-",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014</title>,BILLS,19,1
+",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014</title>,BILLS,19,1,speech
 "Polley, Sen Helen",ALP,2015-03-03,"
 
 
@@ -2266,7 +2346,7 @@ The CHAIRMAN:  The question now is that the bills be reported.
 
 Question agreed to.
 
-",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014</title>,BILLS,19,1
+",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014</title>,BILLS,19,1,speech
 "Nash, Sen Fiona",Nats,2015-03-03,"
 
 
@@ -2283,7 +2363,7 @@ Question agreed to.
 
 Bills reported without amendments; report adopted.
 
-",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014</title>,BILLS,19,1
+",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014</title>,BILLS,19,1,speech
 "Nash, Sen Fiona",Nats,2015-03-03,"
 
 
@@ -2300,7 +2380,7 @@ Question agreed to.
 
 Bills read a third time.
 
-",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014</title>,BILLS,19,1
+",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2014 Measures No. 7) Bill 2014</title>,BILLS,19,1,speech
 "Milne, Sen Christine",AG,2015-03-03,"
 
 
@@ -2368,7 +2448,7 @@ It has been my experience from one end of the country to the other that these re
 
 People are going to look back and say, 'What sort of governments did you have in this country that were so keen to maximise the profits of the mining corporations at the expense of the community?' That is why the Greens will not be supporting this particular schedule. The Greens will be opposing schedule 1 and schedule 6 and would like the opportunity to vote on those separately in the committee stage.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Scullion, Sen Nigel",CLP,2015-03-03,"
 
 
@@ -2403,7 +2483,7 @@ Question agreed to.
 
 Bills read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Smith, Sen Dean",LP,2015-03-03,"
 
 
@@ -2432,4 +2512,4 @@ The value of the contribution being made to the lives of farming families by the
 
 The board of the Rural Financial Counselling Service in Western Australia contains some of the most respected figures from the industry, from a range of backgrounds including banking, consulting, support agencies and farming groups. Over the past five years it has provided support and services to almost 600 clients, and it employs ten rural financial counsellors located throughout the state, all of whom are focused on engaging with and incorporating their client's ideas and solutions within a proper, sustainable business framework. In the words of the CEO of the Rural Financial Counselling Service of Western Australia, Chris Wheatcroft, the strength of the Rural Financial Counselling Service is that it 'returns control to the decision makers, the farming family'.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Rural Financial Counselling Service</title>,ADJOURNMENT,20,1
+",Senate,<title>ADJOURNMENT</title>,<title>Rural Financial Counselling Service</title>,ADJOURNMENT,20,1,speech

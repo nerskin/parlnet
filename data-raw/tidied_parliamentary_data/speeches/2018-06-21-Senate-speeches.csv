@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Hanson-Young, Sen Sarah",AG,2018-06-21,"
 
 
@@ -116,7 +116,7 @@ Senator Cameron:
 
 The PRESIDENT:  Senator Cameron, if you review what I said yesterday, I did not not give you the call because you stood earlier. I rejected your claim that you stood first because you stood earlier. Senator Cormann, as the Leader of the Government in the Senate, has precedence over all senators. Senator Wong is granted precedence over all senators other than the Leader of the Government in the Senate. I reflect that in the calls I give. I'm not going to move to a situation where I give the call to the most agile or quickest person jumping up before the end of a speech. That would be unfair on senators who are not as young and agile. Senator Cormann.
 
-",Senate,<title>MOTIONS</title>,"<title>Hanson, Senator Pauline</title>",MOTIONS,3,1
+",Senate,<title>MOTIONS</title>,"<title>Hanson, Senator Pauline</title>",MOTIONS,3,1,speech
 "Cormann, Sen Mathias",LP,2018-06-21,"
 
 
@@ -161,7 +161,7 @@ Senator Wong:
 
 The PRESIDENT:  Senator Wong, please resume your seat. I have a question before the chair, and I'm required to put that question. The question is that the procedural motion, as moved by Senator Cormann, be agreed to.
 
-",Senate,<title>MOTIONS</title>,"<title>Hanson, Senator Pauline</title>",MOTIONS,3,1
+",Senate,<title>MOTIONS</title>,"<title>Hanson, Senator Pauline</title>",MOTIONS,3,1,speech
 "PRESIDENT, The",,2018-06-21,"
 
 
@@ -169,7 +169,7 @@ The PRESIDENT:  Senator Wong, please resume your seat. I have a question before 
 The PRESIDENT
  (10:26):  The question is that the motion to suspend standing orders moved by Senator Hanson-Young be agreed to. 
 
-",Senate,<title>MOTIONS</title>,"<title>Hanson, Senator Pauline</title>",MOTIONS,3,1
+",Senate,<title>MOTIONS</title>,"<title>Hanson, Senator Pauline</title>",MOTIONS,3,1,speech
 "Rice, Sen Janet",AG,2018-06-21,"
 
 
@@ -358,7 +358,7 @@ The PRESIDENT:  I take Senator Wong's point—the request for me to take submiss
 
 With respect to your query, Senator Collins, I will seek further advice on that, given that ministers and the government do have a different status and an opportunity to rearrange the business. I will seek advice on that before I provide a ruling. So my ruling on that, unless someone wishes to take issue with it, stands and we move to proceed with the order of business as outlined today.
 
-",Senate,<title>MOTIONS</title>,"<title>Hanson, Senator Pauline</title>",MOTIONS,3,1
+",Senate,<title>MOTIONS</title>,"<title>Hanson, Senator Pauline</title>",MOTIONS,3,1,speech
 "Hanson-Young, Sen Sarah",AG,2018-06-21,"
 
 
@@ -476,7 +476,7 @@ Senator Cameron:
 
 The PRESIDENT:  Senator Cameron, if you review what I said yesterday, I did not not give you the call because you stood earlier. I rejected your claim that you stood first because you stood earlier. Senator Cormann, as the Leader of the Government in the Senate, has precedence over all senators. Senator Wong is granted precedence over all senators other than the Leader of the Government in the Senate. I reflect that in the calls I give. I'm not going to move to a situation where I give the call to the most agile or quickest person jumping up before the end of a speech. That would be unfair on senators who are not as young and agile. Senator Cormann.
 
-",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,3,2
+",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,3,2,speech
 "Cormann, Sen Mathias",LP,2018-06-21,"
 
 
@@ -521,7 +521,7 @@ Senator Wong:
 
 The PRESIDENT:  Senator Wong, please resume your seat. I have a question before the chair, and I'm required to put that question. The question is that the procedural motion, as moved by Senator Cormann, be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,3,2
+",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,3,2,speech
 "PRESIDENT, The",,2018-06-21,"
 
 
@@ -529,7 +529,7 @@ The PRESIDENT:  Senator Wong, please resume your seat. I have a question before 
 The PRESIDENT
  (10:26):  The question is that the motion to suspend standing orders moved by Senator Hanson-Young be agreed to. 
 
-",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,3,2
+",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,3,2,speech
 "Rice, Sen Janet",AG,2018-06-21,"
 
 
@@ -718,7 +718,7 @@ The PRESIDENT:  I take Senator Wong's point—the request for me to take submiss
 
 With respect to your query, Senator Collins, I will seek further advice on that, given that ministers and the government do have a different status and an opportunity to rearrange the business. I will seek advice on that before I provide a ruling. So my ruling on that, unless someone wishes to take issue with it, stands and we move to proceed with the order of business as outlined today.
 
-",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,3,2
+",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,3,2,speech
 "Kitching, Sen Kimberley",ALP,2018-06-21,"
 
 
@@ -768,7 +768,7 @@ I suggest that, if people haven't watched that Four Corners program, they should
 
 I want to look also at what the Labor Party have sought assurances on. We want some metering funding so we know what water is used. We want 'no meter, no pump' rules, embargoes on environmental water, and daily extraction limits so the environmental water is protected. We support a South Australian royal commission on water, although it only relates to South Australian matters and, as I said at the beginning of this contribution, Victoria is obviously affected as it has a large frontage on the Murray. So we would support that royal commission. We would like the government to fix the mess that's been created by the Prime Minister and the former minister Mr Joyce, and we would like that done as quickly as possible with a lack of grandstanding—just to get on with it.
 
-",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2018</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2018</title>,BILLS,4,1,speech
 "Cormann, Sen Mathias",LP,2018-06-21,"
 
 
@@ -783,7 +783,7 @@ That the debate be now adjourned.
 
 The PRESIDENT:  The question is that the motion moved by Senator Cormann be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2018</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Water Amendment Bill 2018</title>,BILLS,4,1,speech
 "Kitching, Sen Kimberley",ALP,2018-06-21,"
 
 
@@ -833,7 +833,7 @@ I suggest that, if people haven't watched that Four Corners program, they should
 
 I want to look also at what the Labor Party have sought assurances on. We want some metering funding so we know what water is used. We want 'no meter, no pump' rules, embargoes on environmental water, and daily extraction limits so the environmental water is protected. We support a South Australian royal commission on water, although it only relates to South Australian matters and, as I said at the beginning of this contribution, Victoria is obviously affected as it has a large frontage on the Murray. So we would support that royal commission. We would like the government to fix the mess that's been created by the Prime Minister and the former minister Mr Joyce, and we would like that done as quickly as possible with a lack of grandstanding—just to get on with it.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Cormann, Sen Mathias",LP,2018-06-21,"
 
 
@@ -848,7 +848,7 @@ That the debate be now adjourned.
 
 The PRESIDENT:  The question is that the motion moved by Senator Cormann be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Bushby, Sen David",LP,2018-06-21,"
 
 
@@ -988,7 +988,7 @@ Senator BUSHBY:
 That the report be adopted.
 
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "McKim, Sen Nicholas",AG,2018-06-21,"
 
 
@@ -1043,7 +1043,7 @@ All those things, these most recent manifestations of fascism, sprang from the d
 
 These developments around the world are dangerous. They are troubling. They will lead to mass human misery, mass deprivation of liberty, mass deprivation of freedom. They will lead to death. They will lead to the ongoing separation of families. They will lead to what we're seeing in America, where children are ripped from the arms of their families and locked up in cages. What a dark, dark example Australia has set to the world.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "Collins, Sen Jacinta",ALP,2018-06-21,"
 
 
@@ -1060,7 +1060,7 @@ I never thought I'd be standing in this place saying that critical to this parli
 
 I go back to my point about the Selection of Bills Committee. This report, although it is rarely focused on in any detail by the time it reaches this chamber, is critical to our function. The precedent we have around any senator being able to refer a matter to a committee for detailed scrutiny is critical. (Time expired)
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "Urquhart, Sen Anne",ALP,2018-06-21,"
 
 
@@ -1083,7 +1083,7 @@ Pauline Hanson's One Nation party have completely rolled over and capitulated in
 
 Can I take this opportunity to commend Senator Storer on his position and his stance. Thank heavens he's an Independent and standing on his own. He deserves respect and support, which he should get from the many voters who used to support the Nick Xenophon-Centre Alliance team. (Time expired)
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "Ketter, Sen Christopher",ALP,2018-06-21,"
 
 
@@ -1106,7 +1106,7 @@ The government does not respect our right to debate these important issues. The 
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "Bushby, Sen David",LP,2018-06-21,"
 
 
@@ -1246,7 +1246,7 @@ Senator BUSHBY:
 That the report be adopted.
 
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "McKim, Sen Nicholas",AG,2018-06-21,"
 
 
@@ -1301,7 +1301,7 @@ All those things, these most recent manifestations of fascism, sprang from the d
 
 These developments around the world are dangerous. They are troubling. They will lead to mass human misery, mass deprivation of liberty, mass deprivation of freedom. They will lead to death. They will lead to the ongoing separation of families. They will lead to what we're seeing in America, where children are ripped from the arms of their families and locked up in cages. What a dark, dark example Australia has set to the world.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Collins, Sen Jacinta",ALP,2018-06-21,"
 
 
@@ -1318,7 +1318,7 @@ I never thought I'd be standing in this place saying that critical to this parli
 
 I go back to my point about the Selection of Bills Committee. This report, although it is rarely focused on in any detail by the time it reaches this chamber, is critical to our function. The precedent we have around any senator being able to refer a matter to a committee for detailed scrutiny is critical. (Time expired)
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Urquhart, Sen Anne",ALP,2018-06-21,"
 
 
@@ -1341,7 +1341,7 @@ Pauline Hanson's One Nation party have completely rolled over and capitulated in
 
 Can I take this opportunity to commend Senator Storer on his position and his stance. Thank heavens he's an Independent and standing on his own. He deserves respect and support, which he should get from the many voters who used to support the Nick Xenophon-Centre Alliance team. (Time expired)
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Ketter, Sen Christopher",ALP,2018-06-21,"
 
 
@@ -1364,7 +1364,7 @@ The government does not respect our right to debate these important issues. The 
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "O'Neill, Sen Deb",ALP,2018-06-21,"
 
 
@@ -1423,7 +1423,7 @@ Labor is supportive of this bill, which seeks to improve outcomes for veterans a
 
 I take the opportunity in the time remaining to me to speak with pride about knowing a former veteran, who was a former student of mine as well: a great man by the name of Mark Lang, who lives on the Central Coast in the same community in which I live. I still run into his mother, Debbie; I remember first meeting her at parent-teacher interviews. Mark has served for a very long period of time in the Australian Defence Force, and in fact he made an effort at one stage to return to me and showed up at school in his uniform with great pride in his service. Mark has met with me on a number of occasions in my office. He's a powerful advocate for his mates who have served this nation with pride and distinction in many theatres overseas. At this time Mark is particularly unwell, so I want to recognise his service. I want to recognise his advocacy and the advocacy of men, women and families across this nation who continue to make sure that those who return from serving this country are treated in ways that engender further respect for the service that they've given and give them access to the services and opportunities that they need. I give our full support to this bill, and I commend the bill to the house. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Veterans' Affairs Legislation Amendment (Veteran-centric Reforms No. 2) Bill 2018</title>,BILLS,9,1
+",Senate,<title>BILLS</title>,<title>Veterans' Affairs Legislation Amendment (Veteran-centric Reforms No. 2) Bill 2018</title>,BILLS,9,1,speech
 "Kitching, Sen Kimberley",ALP,2018-06-21,"
 
 
@@ -1470,7 +1470,7 @@ Some of the organisations that do work—outside of the department, for example�
 
 The report shows that we can do a much better job of fulfilling our responsibilities to our veterans, and this bill goes some way to doing that. Every suicide among former ADF members, whatever its cause, is a reminder of our obligation to protect those who have protected us. This bill before us represents some progress towards that goal, and that's why this side of the chamber is supporting it.
 
-",Senate,<title>BILLS</title>,<title>Veterans' Affairs Legislation Amendment (Veteran-centric Reforms No. 2) Bill 2018</title>,BILLS,9,1
+",Senate,<title>BILLS</title>,<title>Veterans' Affairs Legislation Amendment (Veteran-centric Reforms No. 2) Bill 2018</title>,BILLS,9,1,speech
 "Ruston, Sen Anne",LP,2018-06-21,"
 
 
@@ -1493,7 +1493,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Veterans' Affairs Legislation Amendment (Veteran-centric Reforms No. 2) Bill 2018</title>,BILLS,9,1
+",Senate,<title>BILLS</title>,<title>Veterans' Affairs Legislation Amendment (Veteran-centric Reforms No. 2) Bill 2018</title>,BILLS,9,1,speech
 "Ketter, Sen Christopher (The ACTING DEPUTY PRESIDENT)",ALP,2018-06-21,"
 
 
@@ -1504,7 +1504,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Ketter
 ) (13:20):  As no amendments to the bill have been circulated, I shall call the minister to move the third reading unless any senator requires that the bill be considered in Committee of the Whole. 
 
-",Senate,<title>BILLS</title>,<title>Veterans' Affairs Legislation Amendment (Veteran-centric Reforms No. 2) Bill 2018</title>,BILLS,9,1
+",Senate,<title>BILLS</title>,<title>Veterans' Affairs Legislation Amendment (Veteran-centric Reforms No. 2) Bill 2018</title>,BILLS,9,1,speech
 "Ruston, Sen Anne",LP,2018-06-21,"
 
 
@@ -1521,7 +1521,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Veterans' Affairs Legislation Amendment (Veteran-centric Reforms No. 2) Bill 2018</title>,BILLS,9,1
+",Senate,<title>BILLS</title>,<title>Veterans' Affairs Legislation Amendment (Veteran-centric Reforms No. 2) Bill 2018</title>,BILLS,9,1,speech
 "O'Neill, Sen Deb",ALP,2018-06-21,"
 
 
@@ -1580,7 +1580,7 @@ Labor is supportive of this bill, which seeks to improve outcomes for veterans a
 
 I take the opportunity in the time remaining to me to speak with pride about knowing a former veteran, who was a former student of mine as well: a great man by the name of Mark Lang, who lives on the Central Coast in the same community in which I live. I still run into his mother, Debbie; I remember first meeting her at parent-teacher interviews. Mark has served for a very long period of time in the Australian Defence Force, and in fact he made an effort at one stage to return to me and showed up at school in his uniform with great pride in his service. Mark has met with me on a number of occasions in my office. He's a powerful advocate for his mates who have served this nation with pride and distinction in many theatres overseas. At this time Mark is particularly unwell, so I want to recognise his service. I want to recognise his advocacy and the advocacy of men, women and families across this nation who continue to make sure that those who return from serving this country are treated in ways that engender further respect for the service that they've given and give them access to the services and opportunities that they need. I give our full support to this bill, and I commend the bill to the house. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,9,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,9,2,speech
 "Kitching, Sen Kimberley",ALP,2018-06-21,"
 
 
@@ -1627,7 +1627,7 @@ Some of the organisations that do work—outside of the department, for example�
 
 The report shows that we can do a much better job of fulfilling our responsibilities to our veterans, and this bill goes some way to doing that. Every suicide among former ADF members, whatever its cause, is a reminder of our obligation to protect those who have protected us. This bill before us represents some progress towards that goal, and that's why this side of the chamber is supporting it.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,9,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,9,2,speech
 "Ruston, Sen Anne",LP,2018-06-21,"
 
 
@@ -1650,7 +1650,117 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,9,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,9,2,speech
+"Keneally, Sen Kristina",ALP,2018-06-21,"
+
+
+
+Senator KENEALLY
+ (New South Wales) (14:00):  My question is to the Minister representing the Treasurer, Senator Cormann. Can the minister inform the Senate how much someone on a salary of over $200,000, like Senator Hanson, who's not in the chamber, can expect to gain once all three stages of the Turnbull government's income tax scheme have been implemented? How does this compare—
+
+
+
+Government senators interjecting—
+
+
+
+The PRESIDENT:  Order! I'm going to insist on a degree of silence during the question so that I may hear it. On my right, please allow the conclusion of the question.
+
+
+
+
+Senator KENEALLY:
+  Can the minister inform the Senate how much someone on a salary of over $200,000, like Senator Hanson, can expect to gain once all three stages of the Turnbull government's income tax scheme have been implemented?
+
+
+
+Senator Fierravanti-Wells interjecting—
+
+
+
+The PRESIDENT:  Order, Senator Fierravanti-Wells! I just asked for order during the question.
+
+
+
+
+Senator KENEALLY:
+  How does this compare to what a worker earning under $90,000 will gain?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Keneally, Sen Kristina",ALP,2018-06-21,"
+
+
+
+Senator KENEALLY
+ (New South Wales) (14:03):  Why did the Prime Minister team up with Senator Pauline Hanson to give themselves the tax cut instead of supporting Labor's plan to give every working Australian on less than $125,000 a tax cut of up to $928 a year? That's almost double the tax cuts they will get from your government.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Keneally, Sen Kristina",ALP,2018-06-21,"
+
+
+
+Senator KENEALLY
+ (New South Wales) (14:05):  I ask a final supplementary question. Senator Hanson says that teaming up with the government to defeat Labor's plan to almost double the government's tax cut for low- and middle-income earners was 'the only fair thing to do'. How is it fair to vote against bigger tax cuts for low- and middle-income earners while voting for a tax cut of $7,000 for yourself?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Cormann, Sen Mathias",LP,2018-06-21,"
+
+
+
+Senator CORMANN
+ (Western Australia—Leader of the Government in the Senate, Minister for Finance, Special Minister of State and Vice-President of the Executive Council) (14:01):  As I've advised the chamber for some time, somebody earning $30,000 a year will get a 8.3 per cent tax cut and somebody earning $200,000 a year will get a 0.2 per cent tax cut. Colleagues, do you know what I'm going to say? The Labor Party does not know when the battle is over. The battle is over and the working families of Australia have won.
+
+
+
+Senator Wong interjecting—
+
+
+
+
+Senator CORMANN:
+  Yes, there's an election. I take that interjection from the Leader of the Opposition in the Senate. We can't wait to engage with the Labor Party in the lead-up to the next election all the way to election day next year when the Labor Party is saying to working families around Australia, 'We, the Labor Party, stand for higher taxes,' while we, the Liberal-National Party, stand for lower taxes. You stand for lower growth; we stand for stronger growth. You stand for fewer jobs; we stand for more jobs. You stand for lower wages; we stand for higher wages. Your agenda of higher taxes and your agenda of wanting to increase the tax burden on Australian families by $70 billion will hurt the economy, will hurt families and, of course, will cost jobs. We're quite happy to go to the next election with you promising to increase that—
+
+
+
+The PRESIDENT:  Senator Wong, on a point of order?
+
+
+
+
+Senator Wong:
+  It's all very interesting, but, really, the question was quite clear. It was on the comparison between someone on $200,000 and someone on $90,000.
+
+
+
+The PRESIDENT:  This is the reason I need silence when questions are asked; it's so that I may hear them. I can't instruct the minister how to answer the question, but I remind all ministers that all material in the answer must be directly relevant to the question.
+
+
+
+
+Senator CORMANN:
+  As I've advised the chamber now on a number of occasions, the value of the tax cut for somebody earning $90,000, which the Senate has just legislated, is 2.9 per cent for every year over the next four years. It is 0.2 per cent every year over the next four years for somebody earning $200,000.
+
+
+
+The PRESIDENT:  Senator Keneally, a supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
+"Cormann, Sen Mathias",LP,2018-06-21,"
+
+
+
+Senator CORMANN
+ (Western Australia—Leader of the Government in the Senate, Minister for Finance, Special Minister of State and Vice-President of the Executive Council) (14:04):  What the government has done is team up with the Australian Senate. Working families across Australia are very grateful to their Senate, and they're very grateful to those crossbench senators who've decided to back them by supporting and providing much-needed income tax relief for them so that they get to keep more of their own money instead of the government taking more money out of their pockets. That is what the Senate has done today, and we are prepared to work with any member of this Senate when it comes to advancing good public policy in the national interest and in the interests of working families across Australia. We are very proud that the Australian Senate today stood up for working families across Australia against the socialist politics of envy and destructive agenda of the Leader of the Opposition, Bill Shorten.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
+"Cormann, Sen Mathias",LP,2018-06-21,"
+
+
+
+Senator CORMANN
+ (Western Australia—Leader of the Government in the Senate, Minister for Finance, Special Minister of State and Vice-President of the Executive Council) (14:05):  We are very grateful to Senator Hanson, as we are grateful to Senators Hinch, Burston, Bernardi, Leyonhjelm, Patrick, Griff—all of those crossbench senators who have decided to back working families across Australia who are in much need of income tax relief. It's a plan that is fair. It's fair because our plan for income tax relief prioritises low- and middle-income earners in the first instance but then addresses bracket creep for all working Australians, ensuring they have the right incentive to get ahead. I remind Senator Keneally that somebody earning $30,000 a year pays $2,200 worth of tax, whereas somebody on $200,000 a year pays $67,000 worth of tax. Somebody earning just over three times as much in revenue pays about 30 times as much in tax. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
 "Wong, Sen Penny",ALP,2018-06-21,"
 
 
@@ -1658,7 +1768,7 @@ Bill read a second time.
 Senator WONG
  (South Australia—Leader of the Opposition in the Senate) (15:03):  by leave—I ask a question of you, Mr President, of which I've given you some notice. There has been some media reporting online of an alleged incident involving a young apprentice visiting Parliament House who was allegedly asked by a security guard to take off her shirt because it had a union logo on it. I appreciate you'll need to make inquiries. I ask: is this policy of not allowing someone wearing a union logo T-shirt into the parliament approved by the Department of Parliamentary Services? Is it a policy endorsed by or known to the Presiding Officers?
 
-",Senate,<title>QUESTIONS TO THE PRESIDENT</title>,<title>Parliament House: Security</title>,QUESTIONS TO THE PRESIDENT,12,1
+",Senate,<title>QUESTIONS TO THE PRESIDENT</title>,<title>Parliament House: Security</title>,QUESTIONS TO THE PRESIDENT,12,1,speech
 "PRESIDENT, The",,2018-06-21,"
 
 
@@ -1674,7 +1784,7 @@ Honourable senators interjecting—
 
 The PRESIDENT:  Order! I'm going to ask that, at least while I'm speaking, people hold their breath.
 
-",Senate,<title>QUESTIONS TO THE PRESIDENT</title>,<title>Parliament House: Security</title>,QUESTIONS TO THE PRESIDENT,12,1
+",Senate,<title>QUESTIONS TO THE PRESIDENT</title>,<title>Parliament House: Security</title>,QUESTIONS TO THE PRESIDENT,12,1,speech
 "Chisholm, Sen Anthony",ALP,2018-06-21,"
 
 
@@ -1709,7 +1819,7 @@ Let's be clear about what those are and the damage that it will do, particularly
 
 In regard to Longman—and this is topical; we know that there's a by-election imminent there—only 700 taxpayers in Longman will see the full benefit of Senator Hanson's decision to support stage 3, while 10,000 taxpayers in Wentworth will see the full benefit. Do you need a better example? Is there a more crystal clear example of how unfair what they voted for is? It is 700 people in Longman versus 10,000 in Wentworth. This is what they voted for. Senator Hanson and Senator Georgiou provided the two votes that the government needed. This is so unfair to the people of Longman. What a picture that makes about fairness: 700 people in Longman versus 10,000 in Wentworth. Also, to add to that, they voted against Labor's plan that would have almost doubled the tax cut for 63,000 taxpayers in Longman. So we see that, when it comes to Senator Hanson's priorities, they are: dealing with the government and abandoning those people who rely on her support the most.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1,speech
 "Macdonald, Sen Ian",LP,2018-06-21,"
 
 
@@ -1726,7 +1836,7 @@ The previous speaker seems to be fixated on Senator Hanson. Why do members of th
 
 The substantive issue which I thought the speaker was going to speak on is something that the debate has been held on over several weeks now, both in the various chambers of the parliament and more broadly. The plan that has been adopted by the Senate and by the Parliament of Australia is a plan that means all Australians are better off. We are lucky to live in a country in which we're able to work, to aspire and to earn more and not be penalised for it. I talk about aspiration, but I know most of those opposite don't understand what the term 'aspiration' means, and that's demonstrated by one of their senior shadow ministers. So I won't go there and confuse the opposition about aspiration. I simply emphasise that our plan doesn't create winners and losers. It isn't designed to pit Australians against each other. It's a plan that all Australians will share in, and it's a plan that I'm pleased the Parliament of Australia has supported.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1,speech
 "Keneally, Sen Kristina",ALP,2018-06-21,"
 
 
@@ -1761,7 +1871,7 @@ Senator Hanson also seems to misunderstand stage 1 of the Liberal's tax plan, wh
 
 As I said, Senator Cormann has said today that the government are grateful for Senator Hanson, and I am sure they are. What she has done today is join with the Liberal philosophy to make Australia a less fair place and to make it a place that will give benefits to the top end, hollow out the middle class and push more people into the working poor.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1,speech
 "Griff, Sen Stirling",CA,2018-06-21,"
 
 
@@ -1775,7 +1885,7 @@ We voted to pass the full package today because we would rather see low- and mid
 
 Centre Alliance has put hardworking Australians above petty politics. The bill has been passed, and Labor and the Greens need to stop pretending this is all about giving money to millionaires. They should recognise that in an environment where wages are stagnant and living costs are going up the majority of people want and need a tax cut. Do the Greens and Labor—and Senator Storer, for that matter—really think that low- and middle-income Australians are going to be grateful that they attempted to deny hardworking Australians hundreds of extra dollars in their pay packet? My final message to them is: stop playing politics and accept reality—that is, despite you, low- and middle-income earners can now enjoy the benefit of extra money in their pockets, which could help offset their living expenses, be put towards themselves or their families and be put to good use in their community. A reminder to Labor: should you become the government in the next one or two elections, we will definitely back any bid you have to unravel the rest of the package, but for now we're not prepared to stand in the way of tax cuts that the majority of ordinary Australians want and will benefit from in this coming financial year.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1,speech
 "Watt, Sen Murray",ALP,2018-06-21,"
 
 
@@ -1795,7 +1905,7 @@ Of course, she's not the only person who has grossly let down her constituents i
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Income Tax</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1,speech
 "Williams, Sen John",Nats,2018-06-21,"
 
 
@@ -1845,7 +1955,7 @@ I commend the Delegated Legislation Monitor No. 6 of 2018 to the Senate.
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Regulations and Ordinances Committee</title>,COMMITTEES,16,1
+",Senate,<title>COMMITTEES</title>,<title>Regulations and Ordinances Committee</title>,COMMITTEES,16,1,speech
 "Williams, Sen John",Nats,2018-06-21,"
 
 
@@ -1895,7 +2005,7 @@ I commend the Delegated Legislation Monitor No. 6 of 2018 to the Senate.
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Delegated Legislation Monitor</title>,COMMITTEES,16,2
+",Senate,<title>COMMITTEES</title>,<title>Delegated Legislation Monitor</title>,COMMITTEES,16,2,speech
 "Fawcett, Sen David",LP,2018-06-21,"
 
 
@@ -1937,7 +2047,7 @@ I encourage my fellow Senators and others to examine the committee's annual repo
 
 With these comments, I commend the committee's Report 5 of 2018 and Annual Report 2016-17 to the Senate.
 
-",Senate,<title>COMMITTEES</title>,<title>Human Rights Committee</title>,COMMITTEES,18,1
+",Senate,<title>COMMITTEES</title>,<title>Human Rights Committee</title>,COMMITTEES,18,1,speech
 "Moore, Sen Claire",ALP,2018-06-21,"
 
 
@@ -1972,7 +2082,7 @@ So I think it's important. The human rights committee secretariat has put out a 
 
 I also want to put on notice that this afternoon I want to talk about another committee, but I'm going to run out of time. We in the human rights committee did a full and very interesting inquiry this year on 18C. I think it was a particularly effective use of the joint human rights committee to use this process, and I'll talk about that at another time. But what I want to say—and I hope that all members of the committee know it—is that, in the report of the implementation of the Sustainable Development Goals which our government is going to take to the UN in a couple of weeks time, there is a particular statement about the role of our Joint Standing Committee on Human Rights. It says that Australia has been a leading supporter of national human rights institutions globally. It talks about the incredibly important role of the Australian Human Rights Commission and how it promotes human rights in the wider community. It talks about our committee in parliament and says that we have this focus on human rights in our parliament. Again, it is celebrating the fact that we not only sign up to core human rights treaties internationally but take them seriously and ensure, as I've said before, that all legislation and all legislative instruments that come before the parliament are subject to human rights consideration. So I think it's very impressive. I believe it's going to be Minister Connie Fierravanti-Wells who will be taking this report to the UN. The report indicates to the international community—because certainly the SDG framework is based on respect for human rights across the world—that the Australian parliament has a committee that reports regularly. We've had the most recent report this evening, on the legislation we've looked at in the last few months, and there is also the annual report. There is also our role now on the United Nations Human Rights Council. So we not only talk about human rights but also assess our performance and live the importance of human rights. As we know, we've just had the unfortunate news about the decision of the US government to remove itself from the UN Human Rights Council. I think it's most important that countries like Australia continue to celebrate our commitment to and our absolute knowledge of and respect for human rights in our parliament.
 
-",Senate,<title>COMMITTEES</title>,<title>Human Rights Committee</title>,COMMITTEES,18,1
+",Senate,<title>COMMITTEES</title>,<title>Human Rights Committee</title>,COMMITTEES,18,1,speech
 "Brown, Sen Carol",ALP,2018-06-21,"
 
 
@@ -2019,7 +2129,7 @@ I seek leave to continue my remarks later.
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Human Rights Committee</title>,COMMITTEES,18,1
+",Senate,<title>COMMITTEES</title>,<title>Human Rights Committee</title>,COMMITTEES,18,1,speech
 "Fawcett, Sen David",LP,2018-06-21,"
 
 
@@ -2061,7 +2171,7 @@ I encourage my fellow Senators and others to examine the committee's annual repo
 
 With these comments, I commend the committee's Report 5 of 2018 and Annual Report 2016-17 to the Senate.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,18,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,18,2,speech
 "Moore, Sen Claire",ALP,2018-06-21,"
 
 
@@ -2096,7 +2206,7 @@ So I think it's important. The human rights committee secretariat has put out a 
 
 I also want to put on notice that this afternoon I want to talk about another committee, but I'm going to run out of time. We in the human rights committee did a full and very interesting inquiry this year on 18C. I think it was a particularly effective use of the joint human rights committee to use this process, and I'll talk about that at another time. But what I want to say—and I hope that all members of the committee know it—is that, in the report of the implementation of the Sustainable Development Goals which our government is going to take to the UN in a couple of weeks time, there is a particular statement about the role of our Joint Standing Committee on Human Rights. It says that Australia has been a leading supporter of national human rights institutions globally. It talks about the incredibly important role of the Australian Human Rights Commission and how it promotes human rights in the wider community. It talks about our committee in parliament and says that we have this focus on human rights in our parliament. Again, it is celebrating the fact that we not only sign up to core human rights treaties internationally but take them seriously and ensure, as I've said before, that all legislation and all legislative instruments that come before the parliament are subject to human rights consideration. So I think it's very impressive. I believe it's going to be Minister Connie Fierravanti-Wells who will be taking this report to the UN. The report indicates to the international community—because certainly the SDG framework is based on respect for human rights across the world—that the Australian parliament has a committee that reports regularly. We've had the most recent report this evening, on the legislation we've looked at in the last few months, and there is also the annual report. There is also our role now on the United Nations Human Rights Council. So we not only talk about human rights but also assess our performance and live the importance of human rights. As we know, we've just had the unfortunate news about the decision of the US government to remove itself from the UN Human Rights Council. I think it's most important that countries like Australia continue to celebrate our commitment to and our absolute knowledge of and respect for human rights in our parliament.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,18,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,18,2,speech
 "Brown, Sen Carol",ALP,2018-06-21,"
 
 
@@ -2143,7 +2253,7 @@ I seek leave to continue my remarks later.
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,18,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,18,2,speech
 "Steele-John, Sen Jordon",AG,2018-06-21,"
 
 
@@ -2178,7 +2288,7 @@ Finally, this bill seeks to update our archaic electoral practices that say you 
 
 It is time to lower the voting age to 16 in Australia and show our young people that we here in this place hear them, that we care about their opinions and that we are working for their future. I thank the chamber for its time.
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Lowering Voting Age and Increasing Voter Participation) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Lowering Voting Age and Increasing Voter Participation) Bill 2018</title>,BILLS,20,1,speech
 "Farrell, Sen Don",ALP,2018-06-21,"
 
 
@@ -2237,7 +2347,7 @@ We've seen on a regular basis the appalling disconnect between the Turnbull gove
 
 This government has presided over a penalty rate cut for hundreds of thousands of Australian workers, many of them young people trying to pay their way through university, which is only going to be more expensive thanks to the Liberal cuts. Millionaire Malcolm Turnbull thinks the answer to housing affordability issues—another matter that is particularly pressing for many young Australians—is for their parents to shell out and buy them a house. No doubt he can afford to do that, but most Australian parents can't, and most young Australians know that. That's the point at the heart of why Labor is and has always been acutely aware of how important it is that we engage with and represent young Australians. The alternative for young Australians is an arrogant, out-of-touch Liberal Prime Minister who is more interested in giving billions of dollars to big business and big banks than he is in helping young Australians get a quality education, find a good job and be able to afford a house.
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Lowering Voting Age and Increasing Voter Participation) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Lowering Voting Age and Increasing Voter Participation) Bill 2018</title>,BILLS,20,1,speech
 "Stoker, Sen Amanda",LP,2018-06-21,"
 
 
@@ -2335,7 +2445,7 @@ Senator Farrell:
 
 The ACTING DEPUTY PRESIDENT:  You will need to seek leave to do that.
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Lowering Voting Age and Increasing Voter Participation) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Lowering Voting Age and Increasing Voter Participation) Bill 2018</title>,BILLS,20,1,speech
 "Farrell, Sen Don",ALP,2018-06-21,"
 
 
@@ -2358,7 +2468,7 @@ Senator Fawcett
 Senator FARRELL:
   I want to make it very clear that the reports on BuzzFeed are completely inaccurate. The Labor Party is not opposing this bill. I went through all of the arguments in favour and against as part of my summary, and we've made it very clear that we want a full and proper investigation into the bill. We have proposed to do that, with the support of the Greens, through the JSCEM process. I would request, to the extent that it's possible, to get the record corrected by BuzzFeed and that they do so as quickly as possible.
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Lowering Voting Age and Increasing Voter Participation) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Lowering Voting Age and Increasing Voter Participation) Bill 2018</title>,BILLS,20,1,speech
 "Rice, Sen Janet",AG,2018-06-21,"
 
 
@@ -2429,7 +2539,7 @@ Critically, those issues are ones that they feel very deeply. If you're a 16-yea
 
 I think it is critical, given the outlook over the lifetimes of young people in our society today, that they deserve to be enfranchised and to be able to have a say, be empowered, be involved and take part in our democracy. Doing so—having their voices in our democratic system and having that greater diversity—means we're going to end up with much better outcomes by involving the voices of young people, just like involving the voices of people of great cultural diversity and the voices of women, including women who have children. In saying that, I want to congratulate the Prime Minister of New Zealand, Jacinda Ardern, whose baby girl has just been born. What a wonderful thing to be having that sort of diversity in our parliaments—having the diversity of a huge range of Australian society represented here in our parliament. Lowering the voting age, having optional voting for 16 and 17-year-olds, is a really important factor. It's a really important and powerful lever in building towards a more participatory democracy to have greater involvement of a greater range of people in our democracy. To be giving people, whether it's a 16-year-old or a 66-year-old, the sense that they can be involved, they can vote and they can be represented is important, and that the decisions that our parliaments make are going to be taking the issues of the future, having the outlook, being concerned about a future for all Australians and working for an overall fairer, more caring and more sustainable Australia.
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Lowering Voting Age and Increasing Voter Participation) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Lowering Voting Age and Increasing Voter Participation) Bill 2018</title>,BILLS,20,1,speech
 "Hume, Sen Jane",LP,2018-06-21,"
 
 
@@ -2553,7 +2663,7 @@ In the couple of minutes I have left, I would like to return to one of the most 
 
 Madam Deputy President, and Senator Steele-John, there are 76 people in this place and 150 in the other place who, while they may very well disagree about the path, want Harry and his generation's future to be as bright as humanly possible. They want to give them every opportunity to thrive, to grow, to flourish and to succeed. Sixteen-year-olds don't need a vote. What they need most of all is responsible parliamentarians with sound minds, courageous spirits—as is yours, Senator Steele-John—and good hearts to pave that path for them.
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Lowering Voting Age and Increasing Voter Participation) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Lowering Voting Age and Increasing Voter Participation) Bill 2018</title>,BILLS,20,1,speech
 "Ketter, Sen Christopher",ALP,2018-06-21,"
 
 
@@ -2591,7 +2701,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Reynolds
 ):  It being 6 pm, debate is interrupted.
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Lowering Voting Age and Increasing Voter Participation) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Lowering Voting Age and Increasing Voter Participation) Bill 2018</title>,BILLS,20,1,speech
 "Steele-John, Sen Jordon",AG,2018-06-21,"
 
 
@@ -2626,7 +2736,7 @@ Finally, this bill seeks to update our archaic electoral practices that say you 
 
 It is time to lower the voting age to 16 in Australia and show our young people that we here in this place hear them, that we care about their opinions and that we are working for their future. I thank the chamber for its time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Farrell, Sen Don",ALP,2018-06-21,"
 
 
@@ -2685,7 +2795,7 @@ We've seen on a regular basis the appalling disconnect between the Turnbull gove
 
 This government has presided over a penalty rate cut for hundreds of thousands of Australian workers, many of them young people trying to pay their way through university, which is only going to be more expensive thanks to the Liberal cuts. Millionaire Malcolm Turnbull thinks the answer to housing affordability issues—another matter that is particularly pressing for many young Australians—is for their parents to shell out and buy them a house. No doubt he can afford to do that, but most Australian parents can't, and most young Australians know that. That's the point at the heart of why Labor is and has always been acutely aware of how important it is that we engage with and represent young Australians. The alternative for young Australians is an arrogant, out-of-touch Liberal Prime Minister who is more interested in giving billions of dollars to big business and big banks than he is in helping young Australians get a quality education, find a good job and be able to afford a house.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Stoker, Sen Amanda",LP,2018-06-21,"
 
 
@@ -2783,7 +2893,7 @@ Senator Farrell:
 
 The ACTING DEPUTY PRESIDENT:  You will need to seek leave to do that.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Farrell, Sen Don",ALP,2018-06-21,"
 
 
@@ -2806,7 +2916,7 @@ Senator Fawcett
 Senator FARRELL:
   I want to make it very clear that the reports on BuzzFeed are completely inaccurate. The Labor Party is not opposing this bill. I went through all of the arguments in favour and against as part of my summary, and we've made it very clear that we want a full and proper investigation into the bill. We have proposed to do that, with the support of the Greens, through the JSCEM process. I would request, to the extent that it's possible, to get the record corrected by BuzzFeed and that they do so as quickly as possible.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Rice, Sen Janet",AG,2018-06-21,"
 
 
@@ -2877,7 +2987,7 @@ Critically, those issues are ones that they feel very deeply. If you're a 16-yea
 
 I think it is critical, given the outlook over the lifetimes of young people in our society today, that they deserve to be enfranchised and to be able to have a say, be empowered, be involved and take part in our democracy. Doing so—having their voices in our democratic system and having that greater diversity—means we're going to end up with much better outcomes by involving the voices of young people, just like involving the voices of people of great cultural diversity and the voices of women, including women who have children. In saying that, I want to congratulate the Prime Minister of New Zealand, Jacinda Ardern, whose baby girl has just been born. What a wonderful thing to be having that sort of diversity in our parliaments—having the diversity of a huge range of Australian society represented here in our parliament. Lowering the voting age, having optional voting for 16 and 17-year-olds, is a really important factor. It's a really important and powerful lever in building towards a more participatory democracy to have greater involvement of a greater range of people in our democracy. To be giving people, whether it's a 16-year-old or a 66-year-old, the sense that they can be involved, they can vote and they can be represented is important, and that the decisions that our parliaments make are going to be taking the issues of the future, having the outlook, being concerned about a future for all Australians and working for an overall fairer, more caring and more sustainable Australia.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Hume, Sen Jane",LP,2018-06-21,"
 
 
@@ -3001,7 +3111,7 @@ In the couple of minutes I have left, I would like to return to one of the most 
 
 Madam Deputy President, and Senator Steele-John, there are 76 people in this place and 150 in the other place who, while they may very well disagree about the path, want Harry and his generation's future to be as bright as humanly possible. They want to give them every opportunity to thrive, to grow, to flourish and to succeed. Sixteen-year-olds don't need a vote. What they need most of all is responsible parliamentarians with sound minds, courageous spirits—as is yours, Senator Steele-John—and good hearts to pave that path for them.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Ketter, Sen Christopher",ALP,2018-06-21,"
 
 
@@ -3039,7 +3149,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Reynolds
 ):  It being 6 pm, debate is interrupted.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Ruston, Sen Anne",LP,2018-06-21,"
 
 
@@ -3047,7 +3157,7 @@ Senator Reynolds
 Senator RUSTON
  (South Australia—Assistant Minister for Agriculture and Water Resources) (18:00):  I table a document relating to the order for the production of documents concerning Australian survivors of thalidomide.
 
-",Senate,<title>DOCUMENTS</title>,<title>Department of Health</title>,DOCUMENTS,21,1
+",Senate,<title>DOCUMENTS</title>,<title>Department of Health</title>,DOCUMENTS,21,1,speech
 "Ruston, Sen Anne",LP,2018-06-21,"
 
 
@@ -3055,7 +3165,7 @@ Senator RUSTON
 Senator RUSTON
  (South Australia—Assistant Minister for Agriculture and Water Resources) (18:00):  I table a document relating to the order for the production of documents concerning Australian survivors of thalidomide.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,21,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,21,2,speech
 "Leyonhjelm, Sen David",LDP,2018-06-21,"
 
 
@@ -3096,7 +3206,7 @@ The Australian government's 2013 deregulation agenda aimed to reduce excessive, 
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Select Committee on Red Tape</title>,COMMITTEES,23,1
+",Senate,<title>COMMITTEES</title>,<title>Select Committee on Red Tape</title>,COMMITTEES,23,1,speech
 "Leyonhjelm, Sen David",LDP,2018-06-21,"
 
 
@@ -3137,7 +3247,7 @@ The Australian government's 2013 deregulation agenda aimed to reduce excessive, 
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2,speech
 "Singh, Sen Lisa",ALP,2018-06-21,"
 
 
@@ -3173,4 +3283,4 @@ In the coming months the proposed changes are likely to make thousands more vuln
 
 Finally, in this Refugee Week, on behalf of the Senate I would like to recognise all of the dedicated men and women in our community, from all walks of life, who work to support and welcome refugees. Thank you for all of your efforts. (Time expired)
 
-",Senate,<title>ADJOURNMENT</title>,<title>Refugee Week</title>,ADJOURNMENT,26,1
+",Senate,<title>ADJOURNMENT</title>,<title>Refugee Week</title>,ADJOURNMENT,26,1,speech

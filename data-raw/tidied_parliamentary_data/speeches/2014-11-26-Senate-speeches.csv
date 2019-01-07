@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2014-11-26,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (09:31):  I remind senators that the question may be put on any proposal at the request of any senator. 
 
-",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Legislation Committee, Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,0,1
+",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Legislation Committee, Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,0,1,speech
 "PRESIDENT, The",,2014-11-26,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (09:31):  I remind senators that the question may be put on any proposal at the request of any senator. 
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,0,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,0,2,speech
 "Johnston, Sen David",LP,2014-11-26,"
 
 
@@ -40,7 +40,7 @@ That was said in July 2011. I am committed to leading the effort to fix those pr
 
 On the matter at hand, the government has not made any decisions on the future submarine. Decisions will be made, as I have said time and again, on the advice of our service chiefs. Our goal is to deliver to our Navy a new class of submarine that is superior to Collins before the planned withdrawal date. Given the sheer scale of the program, it is only by working together as a team that we will reach this goal. The former government's program was costed at over $40 billion and would have resulted in a capability gap. This is an unacceptable risk to our $1.6 trillion economy. Whatever decision is made on the future submarine, there will be many, many more jobs for South Australia and a more capable Navy for Australians. Thank you, Mr President, and I thank the indulgence of the chamber.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Defence Procurement</title>,MINISTERIAL STATEMENTS,1,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Defence Procurement</title>,MINISTERIAL STATEMENTS,1,1,speech
 "Wong, Sen Penny",ALP,2014-11-26,"
 
 
@@ -131,7 +131,7 @@ The PRESIDENT:  Order on both sides!
 Senator WONG:
   He has lost the confidence of the Prime Minister, he has lost the confidence of his colleagues and I ask the Senate this question: in those circumstances, how can the Australian people have any confidence in this minister?
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Defence Procurement</title>,MINISTERIAL STATEMENTS,1,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Defence Procurement</title>,MINISTERIAL STATEMENTS,1,1,speech
 "Abetz, Sen Eric",LP,2014-11-26,"
 
 
@@ -481,7 +481,7 @@ Senator Wright:
 
 The PRESIDENT:  Senator Wright, it is my decision and I will be calling Senator Conroy next. Before I call Senator Conroy, the noise in the chamber from all quarters and all sides has been terrible. I expect the interjections to cease and the debate to continue with less interruption. It does not behove the Senate to have a debate the way we are having it, with the constant interjection from both sides.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Defence Procurement</title>,MINISTERIAL STATEMENTS,1,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Defence Procurement</title>,MINISTERIAL STATEMENTS,1,1,speech
 "Conroy, Sen Stephen",ALP,2014-11-26,"
 
 
@@ -866,7 +866,7 @@ What we have seen is every expert on submarines in the country—notwithstanding
 
 There is only one solution to the bias being shown by this minister. There is only one solution to the bias being shown by the Prime Minister in trying to give away this contract to the Japanese government, and that is to hold a proper competitive tender for this procurement. There is no more vital or lethal asset in Australia's defence than this next generation of submarines. For an island nation these submarines are our most lethal asset, and we should not take shortcuts for political expediency because the Prime Minister has had a rush of blood to the head—the same sort of rush of blood to his head as when he wanted STOVLs or nuclear subs. You did a good job fending him off on that, Senator Johnston—well done. But on this one, as you know, he is running the submarine tender program from his office. There is no more lethal asset than these submarines, and we must get it right. We must get value for Australian taxpayers. We must hold a proper tender. Senator Edwards agrees, Senator Birmingham agrees, Senator Ruston agrees, the South Australian Liberal senators agree that we have got to have a competitive tender; they understand that, and that is why this minister is so, so shamed today. (Time expired)
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Defence Procurement</title>,MINISTERIAL STATEMENTS,1,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Defence Procurement</title>,MINISTERIAL STATEMENTS,1,1,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -999,7 +999,7 @@ In the time available I have not had time to touch on the other Labor debacles l
 
 The ACTING DEPUTY PRESIDENT:  Before I call Senator Wright I remind senators that some terms may be parliamentary when used in a normal manner but when they are applied as a pejorative slur on another senator they are most unparliamentary. I would prefer it if that did not happen.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Defence Procurement</title>,MINISTERIAL STATEMENTS,1,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Defence Procurement</title>,MINISTERIAL STATEMENTS,1,1,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -1098,7 +1098,7 @@ Senator Lines
 
 Question agreed to.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Defence Procurement</title>,MINISTERIAL STATEMENTS,1,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Defence Procurement</title>,MINISTERIAL STATEMENTS,1,1,speech
 "Lines, Sen Susan (The TEMPORARY CHAIRMAN)",ALP,2014-11-26,"
 
 
@@ -1115,7 +1115,7 @@ Senator Lines
 (Quorum formed)
 
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Milne, Sen Christine",AG,2014-11-26,"
 
 
@@ -1152,7 +1152,7 @@ Senator MILNE:
 
 We take this legislation extremely seriously. The minister treated the committee with absolute contempt last night, refusing to explain those terms. He kept referring to his explanatory memorandum, which we do not have. I expect it will be distributed now so that the minister will answer the questions, because this applies to Australian citizens. People will want to know whether they are going to suddenly be caught up in a 'class of persons' definition that enables them to be spied upon, or information to be shared about them. People need to know what the basis for the definition of a class of persons is. Last month the minister said a class of persons was not going to be based on ethnicity or religion or ideology or political viewpoint. Let us see how the government intends to define a class of persons for the purposes of this legislation.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -1220,7 +1220,7 @@ Amendments (15), (16) and (18) oppose items 23, 24, 26, 27 and 29 of the bill. T
 
 The purpose of the amendments is to provide for consistency in the obligations that must be put before the relevant decision maker at each stage of the process whether it be the Attorney-General, whether it be the court that issues the control order or whether it be a court which is subsequently asked to vary or in some way amend the control order. As I said, these give effect to the unanimous recommendations of the Parliamentary Joint Committee on Intelligence and Security. When we have dealt with these amendments, and in the event that they were to be adopted by the committee, that would mean that all of the recommendations by the Parliamentary Joint Committee on Intelligence and Security for amendments to this bill would have been adopted and given effect to.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Collins, Sen Jacinta",ALP,2014-11-26,"
 
 
@@ -1228,7 +1228,7 @@ The purpose of the amendments is to provide for consistency in the obligations t
 Senator JACINTA COLLINS
  (Victoria) (11:13):  I thank the Attorney-General on this occasion for going through the details of the government amendments. People watching this debate might recall that, yesterday evening ahead of the Attorney-General arriving, I commenced outlining Labor's position in relation to all of those amendments. I have addressed these ones as well in my remarks to government amendments as a whole. We will be supporting them on the basis that they implement the recommendations of the joint intelligence committee.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -1251,7 +1251,7 @@ Last night, the Attorney-General evinced an unwillingness to engage in the prope
 
 I refuse to be directed by the Attorney-General as to what questions I can and cannot ask and when. This was the committee stage when senators are able to directly question the minister who is responsible for a bill. It is a fundamental part of our democratic system. This is a significant bill and I will continue to ask questions about the bill on behalf of the Australian public.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -1300,7 +1300,7 @@ The TEMPORARY CHAIRMAN:  The question is that items 13, 23, 24, 26, 27 and 29 of
 
 Question negatived.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -1344,7 +1344,7 @@ Submitters to the Parliamentary Joint Committee on Intelligence and Security inq
 
 Previously, the Independent National Security Legislation Monitor also recommended that the control order regime be repealed and replaced with a new regime that would apply only to persons previously convicted of involvement in or support for terrorist activity. These amendments are consistent with these recommendations. Because it is very clear that the opposition supports the government's legislation in this regard we are not seeking to revoke the control order regime, but these Australian Greens amendments are reasonable amendments to ensure that that nexus between risk and coercive action is stronger and clearer in a bid to support human rights in Australia.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -1373,7 +1373,7 @@ These orders have to have the capacity to operate prospectively. Leaving aside y
 
 These orders are unusual orders. They are invasive, which is why they need to be hedged in by safeguards, by high thresholds, by parliamentary review. All of those are part of the architecture of this legislation. Thus far in Australia there have only been two control orders issued under federal legislation, and I think there were recently one or two issued under the corresponding New South Wales state legislation. But so sparingly and carefully have these control orders been used that in a decade they have only been resorted to twice. So, to those like my friends at the Gilbert + Tobin Centre for Public Law who are fearful that this is invasive of liberty, it is invasive of liberty, potentially, but only so seldom because caveated by so many qualifications and thresholds and tests that need to be satisfied, only in circumstances where they are actually serviceable to prevent the commission of a terrorist crime. That is why we are asking the parliament—and the opposition, I am pleased to say, agrees with us—to agree that they ought to extend to conduct by which, on reasonable grounds, there is a belief or suspicion that the conduct will constitute the facilitation of a terrorist crime.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Collins, Sen Jacinta",ALP,2014-11-26,"
 
 
@@ -1393,7 +1393,7 @@ However, the Committee also accepts that there are increasingly situations in wh
 
 I direct Senator Wright and her Greens party colleagues to the amendments that Labor has supported in this bill—some of which Senator Brandis was referring to a moment ago—to tighten the process for granting control orders. I note that the government has accepted the committee recommendations that the monitor consider in a holistic way whether the 2013 COAG review recommendations concerning the reform of the control order scheme should be enacted. I also direct Senator Wright to the amendments that Labor supported to the foreign fighters bill providing that the entirety of the control order scheme will be subject to statutory review by the intelligence committee and the monitor and will sunset two years after the next election. 
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -1410,7 +1410,7 @@ The TEMPORARY CHAIRMAN
 Senator Lines
 ):  The question is that amendments (1), (2) and (7) on sheet 7626 be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Back, Sen Chris (The TEMPORARY CHAIRMAN)",LP,2014-11-26,"
 
 
@@ -1421,7 +1421,7 @@ The TEMPORARY CHAIRMAN
 Senator Back
 ) (11:46):  We now move to Greens amendments (8) and (9) of sheet 7626.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -1522,7 +1522,7 @@ The committee also recommends that, to be compatible with human rights, the ISA 
 
 That is the basis of these Greens amendments. We seek to make it crystal clear that ASIS may not engage in torture and that civil or criminal immunity from such acts would not attach to ASIS officers if they were to do so.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Leyonhjelm, Sen David",LDP,2014-11-26,"
 
 
@@ -1533,7 +1533,7 @@ Senator LEYONHJELM
 
 The argument here is that ASIS, which is operating outside Australia's shores—unlike ASIO—should also be subject to a prohibition on torture. I think it is a perfectly reasonable precaution. It confirms our difference from the uncivilised world of ISIS, or Daesh—or whatever you want to call them—and distinguishes us as a civilised society. If I can misquote a famous legal aphorism when Lord Mansfield said that the air of England is too pure for slavery, I would say that the air of Australia is too pure to countenance torture whether inside or outside the country, if it involves Australian officers.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -1601,7 +1601,7 @@ There is another reason as well, Senator Wright, and that is: Australia is a par
 
 Torture: conduct that constitutes torture would certainly, because of the way 'torture' is defined in both the UN convention and in the Criminal Code, extend to acts of violence, and violence would include that definition of torture. Therefore, the prohibition which you seek to introduce already exists in our current law. So, I am not disagreeing with your intention here, Senator Wright and Senator Leyonhjelm; I am telling you that, as a matter of law, Australian law already contains the prohibition you seek to introduce.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Collins, Sen Jacinta",ALP,2014-11-26,"
 
 
@@ -1612,7 +1612,7 @@ Senator JACINTA COLLINS
 
 This amendment, however, would have no genuine effect. As the Attorney has already indicated, torture is already prohibited by Australian law. It is already the law that ASIS may not engage in acts of torture. We will not be supporting the addition into the act of what is, essentially, a redundant provision. This is simply a matter of good policy regarding drafting and avoiding confusion in statutes. I understand that the government has also made this position clear in the explanatory memorandum of the bill.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -1629,7 +1629,7 @@ When I was referring to the IS Act I did, in fact, talk about the proper functio
 
 My question is really quite simple, and I put this question to the Attorney-General and I also put it, rhetorically, to the opposition. If you are genuinely concerned about the fact that we will not give civil and legal immunity to ASIS officers engaging in acts of torture, why don't we make that crystal clear, without ambiguity, in the IS Act as recommended by the Parliamentary Joint Committee on Human Rights? Why leave any ambiguity there at all?
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -1637,7 +1637,7 @@ My question is really quite simple, and I put this question to the Attorney-Gene
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (12:13):  Because there is none; that is the simple answer to your question. There is no ambiguity at all. Senator Wright, I did not think my explanation was particularly labyrinthine—I am not Theseus in pursuit of the Minotaur here. Just because somebody might, artlessly, make a claim that something is unclear, perhaps that merely means it is unclear to them. I used to lecture in international law, Senator Wright, at Australia's best law school, so, if you are going to rely upon what international legal academics have to say, there is only one person in this chamber who has taught international law, I think, and I can tell you that there is no ambiguity whatsoever on this question. The fact that it may be obscure to some does not mean that it is obscure.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -1645,7 +1645,7 @@ Senator BRANDIS
 Senator WRIGHT
  (South Australia) (12:14):  I want to take the Attorney-General to the other issue that has been raised, which is the fact that the prohibition on ASIS staff undertaking paramilitary activities, undertaking acts that involve violence against the person or the use of weapons does not preclude ASIS staff from being involved in the planning of activities to be carried out by other organisations. As I said, the spectre of Abu Ghraib and other very concerning incidents that have happened over the last few decades in terms of the treatment of prisoners and so on is very heavy in my consciousness. What prohibition would there be on ASIS staff being involved in the planning of activities that would then be carried out by other organisations that would be committing torture?
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -1668,7 +1668,7 @@ Senator BRANDIS
 
 So it is more than a prohibition on the officer being personally the actor in, for example, an act of torture. Prohibition is much broader than that. The prohibition is on planning for or undertaking activities that involve violence against persons. You seem to be assuming that the prohibition is limited to the particular ASIS officer or agent, but it is not; it is much broader than that. I have to say again, with all due respect, Senator, your concern is misplaced.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -1676,7 +1676,7 @@ So it is more than a prohibition on the officer being personally the actor in, f
 Senator WRIGHT
  (South Australia) (12:16):  I am going to ask for the Attorney-General's indulgence and ask him to read again for me—I do not have it available to me—the definition of 'violence' in the Criminal Code. You read it to me earlier—and I was listening carefully—but if you would not mind reading that to me again, that would be of assistance to me, thank you. That was part of the response you gave in seeking to reassure us that ASIS officers could not act with impunity in matters that involve torture.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -1690,7 +1690,7 @@ Senator BRANDIS
 
 And 'convention' is defined as the convention against torture—that is, the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment adopted by the UN General Assembly at New York on 10 December 1984. I omitted to make the point, which I should have made before, that the definition of 'torture' in the Criminal Code embraces the convention definition. The words in section 274.2 are not the very words used in the convention, but to the extent of any inconsistency the broader definition of 'torture'—that is, the definition to be found in the convention—is the operative definition, so in that sense, through the definition provision in section 274.1, the UN convention definition is imported into Australian law.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -1698,7 +1698,7 @@ And 'convention' is defined as the convention against torture—that is, the Con
 Senator WRIGHT
  (South Australia) (12:19):  I am trying to make sense of the argument that you have put, Attorney-General, because I would like to be reassured about this. So the word 'violence' is used in the IS Act and then you have said because the use of the term 'violence' is included in the definition of 'torture' in the Criminal Code, therefore that definition in the IS Act would encompass violence. I am genuinely trying to make sense of the way we can be reassured that torture can at no time be considered to be—or acts amounting to torture, inhuman, cruel, degrading treatment—a proper function of an IS officer.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -1709,7 +1709,7 @@ Senator BRANDIS
 
 'Violence' is not defined but violence plainly includes the common speech meaning of 'torture', which at its narrowest definition involves the infliction of physical suffering. But 'torture' has a broader definition than that in our law by virtue of section 274 of the Criminal Code both because of the way in which it is described in that section but also because, as I have just pointed out, by section 274.1, the UN convention definition of 'torture' is imported into Australian law and to the interpretation of any relevant provision of Australian law, including the specific provision of the Criminal Code. So if 'violence' equates to 'torture', as it does, and 'torture' has the meaning of the UN convention, which it does, then you can follow—and I do not mean to be labyrinthine, Senator; you can follow yourself—that the UN convention definition constitutes part of the prohibition in section 6(4) of the Intelligence Services Act.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -1717,7 +1717,7 @@ Senator BRANDIS
 Senator WRIGHT
  (South Australia) (12:23):  I suppose the premise of that is that 'torture' equates to 'violence' and that is where there is concern that that actually is not the case. That has been raised as a concern. Clearly some aspects of torture that would be within common understanding—electrocution, beatings, things like that—would clearly be violence, but to suggest that 'violence' equates to 'torture' I think is the challenge here, because examples of what have been and what would be considered to constitute 'torture' under the convention against torture—things like hooding, death threats, stress positions or deprivation of food or water—may not be so unambiguously considered to be violence against the person in that way, because it is not defined. I guess I would ask you, at the risk of asking you a hypothetical question—and I know you really do not like those very much at all—but I think for the sake of clarity I am going to ask you: if someone was hooded, held naked and forced to, over a period of time, hear things about their family or their religion, would that equate to violence?
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -1734,7 +1734,7 @@ The TEMPORARY CHAIRMAN
 Senator Sterle
 ):  The question is that Australian Greens amendment (8) on sheet 7626 be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -1765,7 +1765,7 @@ Senator WRIGHT
 
       In performing its functions, ASIS must not engage in any conduct that would be contrary to Australia's obligations under the Convention Against Torture.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -1773,7 +1773,7 @@ Senator WRIGHT
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (12:33):  This amendment would add a specific prohibition against torture. For reasons that have been thoroughly canvassed in the debate on the previous amendment, the government does not support the amendment. The same issue arises in relation to this amendment as arose in relation to the last amendment, and I will not repeat what I had to say in those remarks.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -1790,7 +1790,7 @@ The TEMPORARY CHAIRMAN
 Senator Seselja
 ):  The question is that amendment (9) be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -1801,7 +1801,7 @@ Senator BRANDIS
 
 That this bill be now read a third time.
 
-",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Counter-Terrorism Legislation Amendment Bill (No. 1) 2014</title>,BILLS,2,1,speech
 "Lines, Sen Susan (The TEMPORARY CHAIRMAN)",ALP,2014-11-26,"
 
 
@@ -1818,7 +1818,7 @@ Senator Lines
 (Quorum formed)
 
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Milne, Sen Christine",AG,2014-11-26,"
 
 
@@ -1855,7 +1855,7 @@ Senator MILNE:
 
 We take this legislation extremely seriously. The minister treated the committee with absolute contempt last night, refusing to explain those terms. He kept referring to his explanatory memorandum, which we do not have. I expect it will be distributed now so that the minister will answer the questions, because this applies to Australian citizens. People will want to know whether they are going to suddenly be caught up in a 'class of persons' definition that enables them to be spied upon, or information to be shared about them. People need to know what the basis for the definition of a class of persons is. Last month the minister said a class of persons was not going to be based on ethnicity or religion or ideology or political viewpoint. Let us see how the government intends to define a class of persons for the purposes of this legislation.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -1923,7 +1923,7 @@ Amendments (15), (16) and (18) oppose items 23, 24, 26, 27 and 29 of the bill. T
 
 The purpose of the amendments is to provide for consistency in the obligations that must be put before the relevant decision maker at each stage of the process whether it be the Attorney-General, whether it be the court that issues the control order or whether it be a court which is subsequently asked to vary or in some way amend the control order. As I said, these give effect to the unanimous recommendations of the Parliamentary Joint Committee on Intelligence and Security. When we have dealt with these amendments, and in the event that they were to be adopted by the committee, that would mean that all of the recommendations by the Parliamentary Joint Committee on Intelligence and Security for amendments to this bill would have been adopted and given effect to.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Collins, Sen Jacinta",ALP,2014-11-26,"
 
 
@@ -1931,7 +1931,7 @@ The purpose of the amendments is to provide for consistency in the obligations t
 Senator JACINTA COLLINS
  (Victoria) (11:13):  I thank the Attorney-General on this occasion for going through the details of the government amendments. People watching this debate might recall that, yesterday evening ahead of the Attorney-General arriving, I commenced outlining Labor's position in relation to all of those amendments. I have addressed these ones as well in my remarks to government amendments as a whole. We will be supporting them on the basis that they implement the recommendations of the joint intelligence committee.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -1954,7 +1954,7 @@ Last night, the Attorney-General evinced an unwillingness to engage in the prope
 
 I refuse to be directed by the Attorney-General as to what questions I can and cannot ask and when. This was the committee stage when senators are able to directly question the minister who is responsible for a bill. It is a fundamental part of our democratic system. This is a significant bill and I will continue to ask questions about the bill on behalf of the Australian public.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -2003,7 +2003,7 @@ The TEMPORARY CHAIRMAN:  The question is that items 13, 23, 24, 26, 27 and 29 of
 
 Question negatived.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -2047,7 +2047,7 @@ Submitters to the Parliamentary Joint Committee on Intelligence and Security inq
 
 Previously, the Independent National Security Legislation Monitor also recommended that the control order regime be repealed and replaced with a new regime that would apply only to persons previously convicted of involvement in or support for terrorist activity. These amendments are consistent with these recommendations. Because it is very clear that the opposition supports the government's legislation in this regard we are not seeking to revoke the control order regime, but these Australian Greens amendments are reasonable amendments to ensure that that nexus between risk and coercive action is stronger and clearer in a bid to support human rights in Australia.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -2076,7 +2076,7 @@ These orders have to have the capacity to operate prospectively. Leaving aside y
 
 These orders are unusual orders. They are invasive, which is why they need to be hedged in by safeguards, by high thresholds, by parliamentary review. All of those are part of the architecture of this legislation. Thus far in Australia there have only been two control orders issued under federal legislation, and I think there were recently one or two issued under the corresponding New South Wales state legislation. But so sparingly and carefully have these control orders been used that in a decade they have only been resorted to twice. So, to those like my friends at the Gilbert + Tobin Centre for Public Law who are fearful that this is invasive of liberty, it is invasive of liberty, potentially, but only so seldom because caveated by so many qualifications and thresholds and tests that need to be satisfied, only in circumstances where they are actually serviceable to prevent the commission of a terrorist crime. That is why we are asking the parliament—and the opposition, I am pleased to say, agrees with us—to agree that they ought to extend to conduct by which, on reasonable grounds, there is a belief or suspicion that the conduct will constitute the facilitation of a terrorist crime.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Collins, Sen Jacinta",ALP,2014-11-26,"
 
 
@@ -2096,7 +2096,7 @@ However, the Committee also accepts that there are increasingly situations in wh
 
 I direct Senator Wright and her Greens party colleagues to the amendments that Labor has supported in this bill—some of which Senator Brandis was referring to a moment ago—to tighten the process for granting control orders. I note that the government has accepted the committee recommendations that the monitor consider in a holistic way whether the 2013 COAG review recommendations concerning the reform of the control order scheme should be enacted. I also direct Senator Wright to the amendments that Labor supported to the foreign fighters bill providing that the entirety of the control order scheme will be subject to statutory review by the intelligence committee and the monitor and will sunset two years after the next election. 
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -2113,7 +2113,7 @@ The TEMPORARY CHAIRMAN
 Senator Lines
 ):  The question is that amendments (1), (2) and (7) on sheet 7626 be agreed to.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Back, Sen Chris (The TEMPORARY CHAIRMAN)",LP,2014-11-26,"
 
 
@@ -2124,7 +2124,7 @@ The TEMPORARY CHAIRMAN
 Senator Back
 ) (11:46):  We now move to Greens amendments (8) and (9) of sheet 7626.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -2225,7 +2225,7 @@ The committee also recommends that, to be compatible with human rights, the ISA 
 
 That is the basis of these Greens amendments. We seek to make it crystal clear that ASIS may not engage in torture and that civil or criminal immunity from such acts would not attach to ASIS officers if they were to do so.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Leyonhjelm, Sen David",LDP,2014-11-26,"
 
 
@@ -2236,7 +2236,7 @@ Senator LEYONHJELM
 
 The argument here is that ASIS, which is operating outside Australia's shores—unlike ASIO—should also be subject to a prohibition on torture. I think it is a perfectly reasonable precaution. It confirms our difference from the uncivilised world of ISIS, or Daesh—or whatever you want to call them—and distinguishes us as a civilised society. If I can misquote a famous legal aphorism when Lord Mansfield said that the air of England is too pure for slavery, I would say that the air of Australia is too pure to countenance torture whether inside or outside the country, if it involves Australian officers.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -2304,7 +2304,7 @@ There is another reason as well, Senator Wright, and that is: Australia is a par
 
 Torture: conduct that constitutes torture would certainly, because of the way 'torture' is defined in both the UN convention and in the Criminal Code, extend to acts of violence, and violence would include that definition of torture. Therefore, the prohibition which you seek to introduce already exists in our current law. So, I am not disagreeing with your intention here, Senator Wright and Senator Leyonhjelm; I am telling you that, as a matter of law, Australian law already contains the prohibition you seek to introduce.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Collins, Sen Jacinta",ALP,2014-11-26,"
 
 
@@ -2315,7 +2315,7 @@ Senator JACINTA COLLINS
 
 This amendment, however, would have no genuine effect. As the Attorney has already indicated, torture is already prohibited by Australian law. It is already the law that ASIS may not engage in acts of torture. We will not be supporting the addition into the act of what is, essentially, a redundant provision. This is simply a matter of good policy regarding drafting and avoiding confusion in statutes. I understand that the government has also made this position clear in the explanatory memorandum of the bill.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -2332,7 +2332,7 @@ When I was referring to the IS Act I did, in fact, talk about the proper functio
 
 My question is really quite simple, and I put this question to the Attorney-General and I also put it, rhetorically, to the opposition. If you are genuinely concerned about the fact that we will not give civil and legal immunity to ASIS officers engaging in acts of torture, why don't we make that crystal clear, without ambiguity, in the IS Act as recommended by the Parliamentary Joint Committee on Human Rights? Why leave any ambiguity there at all?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -2340,7 +2340,7 @@ My question is really quite simple, and I put this question to the Attorney-Gene
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (12:13):  Because there is none; that is the simple answer to your question. There is no ambiguity at all. Senator Wright, I did not think my explanation was particularly labyrinthine—I am not Theseus in pursuit of the Minotaur here. Just because somebody might, artlessly, make a claim that something is unclear, perhaps that merely means it is unclear to them. I used to lecture in international law, Senator Wright, at Australia's best law school, so, if you are going to rely upon what international legal academics have to say, there is only one person in this chamber who has taught international law, I think, and I can tell you that there is no ambiguity whatsoever on this question. The fact that it may be obscure to some does not mean that it is obscure.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -2348,7 +2348,7 @@ Senator BRANDIS
 Senator WRIGHT
  (South Australia) (12:14):  I want to take the Attorney-General to the other issue that has been raised, which is the fact that the prohibition on ASIS staff undertaking paramilitary activities, undertaking acts that involve violence against the person or the use of weapons does not preclude ASIS staff from being involved in the planning of activities to be carried out by other organisations. As I said, the spectre of Abu Ghraib and other very concerning incidents that have happened over the last few decades in terms of the treatment of prisoners and so on is very heavy in my consciousness. What prohibition would there be on ASIS staff being involved in the planning of activities that would then be carried out by other organisations that would be committing torture?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -2371,7 +2371,7 @@ Senator BRANDIS
 
 So it is more than a prohibition on the officer being personally the actor in, for example, an act of torture. Prohibition is much broader than that. The prohibition is on planning for or undertaking activities that involve violence against persons. You seem to be assuming that the prohibition is limited to the particular ASIS officer or agent, but it is not; it is much broader than that. I have to say again, with all due respect, Senator, your concern is misplaced.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -2379,7 +2379,7 @@ So it is more than a prohibition on the officer being personally the actor in, f
 Senator WRIGHT
  (South Australia) (12:16):  I am going to ask for the Attorney-General's indulgence and ask him to read again for me—I do not have it available to me—the definition of 'violence' in the Criminal Code. You read it to me earlier—and I was listening carefully—but if you would not mind reading that to me again, that would be of assistance to me, thank you. That was part of the response you gave in seeking to reassure us that ASIS officers could not act with impunity in matters that involve torture.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -2393,7 +2393,7 @@ Senator BRANDIS
 
 And 'convention' is defined as the convention against torture—that is, the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment adopted by the UN General Assembly at New York on 10 December 1984. I omitted to make the point, which I should have made before, that the definition of 'torture' in the Criminal Code embraces the convention definition. The words in section 274.2 are not the very words used in the convention, but to the extent of any inconsistency the broader definition of 'torture'—that is, the definition to be found in the convention—is the operative definition, so in that sense, through the definition provision in section 274.1, the UN convention definition is imported into Australian law.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -2401,7 +2401,7 @@ And 'convention' is defined as the convention against torture—that is, the Con
 Senator WRIGHT
  (South Australia) (12:19):  I am trying to make sense of the argument that you have put, Attorney-General, because I would like to be reassured about this. So the word 'violence' is used in the IS Act and then you have said because the use of the term 'violence' is included in the definition of 'torture' in the Criminal Code, therefore that definition in the IS Act would encompass violence. I am genuinely trying to make sense of the way we can be reassured that torture can at no time be considered to be—or acts amounting to torture, inhuman, cruel, degrading treatment—a proper function of an IS officer.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -2412,7 +2412,7 @@ Senator BRANDIS
 
 'Violence' is not defined but violence plainly includes the common speech meaning of 'torture', which at its narrowest definition involves the infliction of physical suffering. But 'torture' has a broader definition than that in our law by virtue of section 274 of the Criminal Code both because of the way in which it is described in that section but also because, as I have just pointed out, by section 274.1, the UN convention definition of 'torture' is imported into Australian law and to the interpretation of any relevant provision of Australian law, including the specific provision of the Criminal Code. So if 'violence' equates to 'torture', as it does, and 'torture' has the meaning of the UN convention, which it does, then you can follow—and I do not mean to be labyrinthine, Senator; you can follow yourself—that the UN convention definition constitutes part of the prohibition in section 6(4) of the Intelligence Services Act.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -2420,7 +2420,7 @@ Senator BRANDIS
 Senator WRIGHT
  (South Australia) (12:23):  I suppose the premise of that is that 'torture' equates to 'violence' and that is where there is concern that that actually is not the case. That has been raised as a concern. Clearly some aspects of torture that would be within common understanding—electrocution, beatings, things like that—would clearly be violence, but to suggest that 'violence' equates to 'torture' I think is the challenge here, because examples of what have been and what would be considered to constitute 'torture' under the convention against torture—things like hooding, death threats, stress positions or deprivation of food or water—may not be so unambiguously considered to be violence against the person in that way, because it is not defined. I guess I would ask you, at the risk of asking you a hypothetical question—and I know you really do not like those very much at all—but I think for the sake of clarity I am going to ask you: if someone was hooded, held naked and forced to, over a period of time, hear things about their family or their religion, would that equate to violence?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -2437,7 +2437,7 @@ The TEMPORARY CHAIRMAN
 Senator Sterle
 ):  The question is that Australian Greens amendment (8) on sheet 7626 be agreed to.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -2468,7 +2468,7 @@ Senator WRIGHT
 
       In performing its functions, ASIS must not engage in any conduct that would be contrary to Australia's obligations under the Convention Against Torture.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -2476,7 +2476,7 @@ Senator WRIGHT
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (12:33):  This amendment would add a specific prohibition against torture. For reasons that have been thoroughly canvassed in the debate on the previous amendment, the government does not support the amendment. The same issue arises in relation to this amendment as arose in relation to the last amendment, and I will not repeat what I had to say in those remarks.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -2493,7 +2493,7 @@ The TEMPORARY CHAIRMAN
 Senator Seselja
 ):  The question is that amendment (9) be agreed to.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Smith, Sen Dean",LP,2014-11-26,"
 
 
@@ -2558,7 +2558,106 @@ A pleasant twist on a tragic story. Now that shows you what exactly is happening
 
 Just yesterday, in The West Australian, it was confirmed that WA has the highest rate of methamphetamine use in the nation. Most worryingly, those taking methamphetamine in its 'purest' form, as crystal or ice, was at 78.2 per cent—well above the national figure of 50.4 per cent. The methamphetamine crisis is a national challenge, and all available evidence points to a crisis that is deepening. No longer can we afford to view methamphetamine abuse as a problem afflicting a small group of inner city people. As I have attempted to highlight today, the crisis is happening now and many regional communities are in its grasp. It is a challenge that governments at every level, educators, institutions and families must work together to address before we lose yet more of our young people to the vile clutches of this insidious drug. Today I will write to the chair of the Senate Community Affairs References Committee to propose a national inquiry into the use and consequences of methamphetamine abuse in regional Australia.
 
-",Senate,<title>STATEMENTS BY SENATORS</title>,<title>Crystal Methamphetamine Hydrochloride</title>,STATEMENTS BY SENATORS,3,1
+",Senate,<title>STATEMENTS BY SENATORS</title>,<title>Crystal Methamphetamine Hydrochloride</title>,STATEMENTS BY SENATORS,3,1,speech
+"Wong, Sen Penny",ALP,2014-11-26,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:00):  My question is to the Minister for Defence, Senator Johnston. I refer to the minister's personal denigration of the workers at ASC in question time yesterday when he stated 'I wouldn't trust them to build a canoe'. I also refer to the Prime Minister's repudiation of the defence minister when he said last night that the ASC 'plays a vital role supporting the Royal Australian Navy and our key naval capabilities'. Given that the Prime Minister's statement shows that he no longer has confidence in the defence minister, how can the minister continue in his role?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Wong, Sen Penny",ALP,2014-11-26,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:02):  Mr President, I rise to ask a supplementary question. I refer the minister to comments by the education minister, Mr Pyne, that 'The Minister for Defence shouldn't have made that statement,' and 'The Prime Minister has made it clear that he does not support that statement.' If the defence minister has lost the confidence of his cabinet colleagues, how can he continue in his role?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Wong, Sen Penny",ALP,2014-11-26,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:04):  Mr President, I rise to ask a final supplementary question. I refer the minister to comments by the person he described as a 'very fine man', Mr Marshall, who said that the comments by the minister were nothing short of deplorable and described his position as 'untenable'. If the defence minister has lost the confidence of the Prime Minister—
+
+
+
+Opposition senators interjecting—
+
+
+
+The PRESIDENT:  Pause the clock. Senator Wong, wait until we have silence behind you.
+
+
+
+
+Senator WONG:
+  Thank you, Mr President. If the defence minister has lost the confidence of the Prime Minister, his cabinet colleagues and the South Australian Liberal leader, how can he continue in his role?
+
+
+
+Government senators interjecting—
+
+
+
+The PRESIDENT:  Order on my right.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Johnston, Sen David",LP,2014-11-26,"
+
+
+
+Senator JOHNSTON
+ (Western Australia—Minister for Defence) (14:00):  This morning I took my medicine for an hour. I did say something that I regret. Gee, I do not think I am first cab off the rank—and I am looking straight at Senator Conroy. Let's talk about Defence. It was me who, back in 2009 during Defence estimates, worked out that we were paying around about a billion dollars a year and we did not have any submarines in the water. I then, for the first time ever, got the executive officer of ASC to come to Senate estimates and I asked him: why, with a gross turnover of $750 million, was there only a dividend of $2 million? And what is the problem with the sustainment of submarines? He set out a number of problems.
+
+
+The comparisons across the world were quite concerning. It was my constant reference in Defence estimates and in the public accounts committee that brought this matter forward. Indeed, may I say, the owner of ASC, the then finance minister—who happens to be sitting just over there—had to be told what the letters ASC actually stood for. And of course, as a result of my constant badgering we had the Coles report. The Coles report is very serious, sober reading. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Johnston, Sen David",LP,2014-11-26,"
+
+
+
+Senator JOHNSTON
+ (Western Australia—Minister for Defence) (14:03):  Sadly—I know it is disappointing—I have said that I regret the comments and I should not have made them.
+
+
+
+
+Senator Conroy:
+  Apologise to Steven Marshall.
+
+
+
+
+Senator JOHNSTON:
+  May I say, in accepting that interjection, Steven Marshall is a very fine man and should be the Premier of South Australia.
+
+
+
+Opposition senators interjecting—
+
+
+
+The PRESIDENT:  Order! Pause the clock.
+
+
+
+
+Senator JOHNSTON:
+  Steven Marshall is a very fine man who should be the Premier of South Australia. The point about all of this is that this is a vital program run by a vital government agency, a government business enterprise, ASC, that for six years was just left to founder by the person sitting at the leader's table on the opposition. The program that we inherited is a very vital program. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Johnston, Sen David",LP,2014-11-26,"
+
+
+
+Senator JOHNSTON
+ (Western Australia—Minister for Defence) (14:05):  One of the principal reasons for my contrition—and let me say, looking at the conduct over the other side over the last six years, there has never been one single piece of contrition—is that Steven Marshall said what he said, because I simply admire him and call him a friend. As the man that I am, I accept his criticism. However, I believe that the Prime Minister has full confidence in me. Indeed, I believe my cabinet colleagues understand, because we are a very good team. We understand exactly the difficulties we are confronting in Defence. We are supportive and are willing to understand that what I said was in extreme frustration.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
 "Wong, Sen Penny",ALP,2014-11-26,"
 
 
@@ -2621,7 +2720,7 @@ Again today, the Minister for Defence was asked by me—and the opposition has a
 
 The opposition would say this to the chamber: the minister's conduct in the last 24 hours, on top of his conduct in the months to date, is deserving of the debate of a censure motion. We are seeking to suspend standing orders to have that debate because we think this minister's performance yesterday, when he sought to traduce the workers whom we trust to keep our submariners safe, is deserving of a censure debate in this chamber. We say to the crossbenchers, 'We ask for your support for the suspension of standing orders for this debate.' (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1
+",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1,speech
 "Abetz, Sen Eric",LP,2014-11-26,"
 
 
@@ -2650,7 +2749,7 @@ Senator Conroy:
 Senator ABETZ:
   which he withdraws the very next day, then we will be debating these matters all the time. Finally, I will take Senator Conroy's interjection. He says Senator Johnston is a serial offender. Senator Conroy, look in the mirror and you will see the biggest serial offender this place has. (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1
+",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1,speech
 "Milne, Sen Christine",AG,2014-11-26,"
 
 
@@ -2668,7 +2767,7 @@ Government senators interjecting—
 Senator MILNE:
   I will support the suspension of standing orders because I think we should have a debate on the competence of the minister in this portfolio in relation to this matter. We have before us a procurement process that is going to be incredibly important and serious for the future of Australia's defence forces and we have a minister who has demonstrated that he does not have the capacity to deal with that  procurement process. It is very well known that that is the case and that is the view within the government itself.
 
-",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1
+",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1,speech
 "Conroy, Sen Stephen",ALP,2014-11-26,"
 
 
@@ -2724,7 +2823,7 @@ Senator Wong:
 Senator CONROY:
   Exactly, Senator Wong—a weak government trying to protect its own, but it is all over and you all know it. It is all over for Senator Johnston. Each and every one of you knows what happens when The Australian says you are in the way of the Abbott government. We have to scrape the barnacle off the bottom of the vessel and we have to move on.
 
-",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1
+",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -2764,7 +2863,7 @@ The PRESIDENT:  The question is that the motion to suspend standing orders, move
 
  
 
-",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1
+",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1,speech
 "Wong, Sen Penny",ALP,2014-11-26,"
 
 
@@ -2934,7 +3033,7 @@ Senator O'Neill:
 Senator WONG:
   It is disgraceful that a defence minister would be so cavalier with the perceptions of our defence capability. This minister has broken a promise to South Australians and to Australians that the Abbott government would build 12 submarines in Adelaide. This is the defence minister who is presiding over cuts to the pay and conditions of Australian service men and women. This is why this Senate should censure this discredited defence minister.
 
-",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1
+",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1,speech
 "Johnston, Sen David",LP,2014-11-26,"
 
 
@@ -2987,7 +3086,7 @@ For my sins I have worn the odium of two hours this morning and several question
 
 This is just a waste of the Senate's time. It is absolute nonsense. You people have got your priorities really messed up—seriously—as my portfolio stands in testament.
 
-",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1
+",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1,speech
 "Conroy, Sen Stephen",ALP,2014-11-26,"
 
 
@@ -3108,7 +3207,7 @@ Senator Williams
 Senator CONROY:
   because he has already done a deal with Japan.
 
-",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1
+",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1,speech
 "Abetz, Sen Eric",LP,2014-11-26,"
 
 
@@ -3279,7 +3378,7 @@ Further, we know that not only did they not increase according to CPI; they actu
 
 But let us be very clear: as a government, we are committed to our Defence personnel. We are committed to our defence industries. But when you are left with a situation of a trajectory of getting this nation into $667 billion worth of debt, where we are borrowing $1,000 million a month just to pay the interest on the existing loans, what do you do? Well, I, as a minister on behalf of this government, went to the remuneration tribunal and said: 'All parliamentarians, the Minister for Defence, the Chief of Defence Force, all our judges and other people, should not be given a pay rise at all; there should be a zero per cent pay rise for the Chief of Defence Force, for the Minister for Defence, and for the Prime Minister,' and so, in those circumstances, a 1.5 per cent deal was, as the Defence Force Remuneration Tribunal determined, a fair offer in all the circumstances. Do we really want to keep borrowing money from overseas to pay the wages? If we pay the wages today of parliamentarians and Defence personnel and public servants with borrowed money from overseas, who has to repay it? It will be our children and our grandchildren who will have to repay that debt. We are not going to be party to that sort of inappropriate economic management. We have full confidence in Senator Johnston. (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1
+",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1,speech
 "Milne, Sen Christine",AG,2014-11-26,"
 
 
@@ -3392,7 +3491,7 @@ I went to Sydney to see that fantastic production between the Sydney Theatre Com
 
 It is in that context that I support this censure motion of the minister because I do not have the confidence that he has the temperament to oversee a procurement process, given his reaction to the issue of the Submarine Corporation and his reaction to the issue of the complaints about the ADF with the asylum seeker boat incidents. He just reaches a conclusion and does not investigate the matters properly. But, more particularly, the big picture here is: he should be saying he is sorry. He should not be insulting people who are working in that particular business. More particularly, as the defence minister of Australia, he has an obligation to have a level of competence that is not being demonstrated If people do not have the confidence that he can oversee the procurement process, then the Prime Minister should take that on board and think about that very carefully, because it is pretty fundamental.
 
-",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1
+",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1,speech
 "Faulkner, Sen John",ALP,2014-11-26,"
 
 
@@ -3517,7 +3616,7 @@ And the standards go on. All ministers—all of them—and all members of the ex
 
 These issues are serious. Last night, after Senator Johnston's comments in question time, the Prime Minister felt that it was necessary for him to issue a supportive statement about the vital role of the ASC. No-one else has said this today in this chamber, but let me say that I am very pleased the Prime Minister did that. The Prime Minister should have done it; it was the responsible thing to do and I am glad that he did make that supportive statement, which I am sure made a difference to the management and, particularly, the workers at the ASC. Senator Johnston has, as we know, been criticised by state and federal politicians from both sides of politics and also from crossbenchers. I acknowledge that, in this chamber this morning, Senator Johnston made clear that he regretted making his statement, and, like others, I am pleased that he did so. But let me say this as a reluctant starter in this debate, courtesy of Senator Brandis: I believe it is critical that Senator Johnston, as defence minister, now assure the parliament that he has sought advice about all possible implications of his statements yesterday in question time on the submarine procurement processes. I want to know also, and I think we need to know, that that advice will be shared with the Australian parliament and that the parliament can also be assured that these processes have not been compromised in any way. It gives me no pleasure as a former Minister for Defence to say that I think, on this matter, the facts are clear. Senator Johnston made a serious mistake for which censure by this chamber is warranted. (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1
+",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1,speech
 "Lambie, Sen Jacqui",Ind.,2014-11-26,"
 
 
@@ -3646,7 +3745,7 @@ In closing, it is obvious that this Liberal Party decision to favour overseas sh
 
 The PRESIDENT:  The question is that the motion to censure moved by Senator Wong be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1
+",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1,speech
 "Abetz, Sen Eric",LP,2014-11-26,"
 
 
@@ -3654,7 +3753,7 @@ The PRESIDENT:  The question is that the motion to censure moved by Senator Wong
 Senator ABETZ
  (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (17:35):  Mr President, I ask that further questions be placed on the Notice Paper. 
 
-",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1
+",Senate,<title>MOTIONS</title>,<title>Minister for Defence</title>,MOTIONS,5,1,speech
 "Wong, Sen Penny",ALP,2014-11-26,"
 
 
@@ -3717,7 +3816,7 @@ Again today, the Minister for Defence was asked by me—and the opposition has a
 
 The opposition would say this to the chamber: the minister's conduct in the last 24 hours, on top of his conduct in the months to date, is deserving of the debate of a censure motion. We are seeking to suspend standing orders to have that debate because we think this minister's performance yesterday, when he sought to traduce the workers whom we trust to keep our submariners safe, is deserving of a censure debate in this chamber. We say to the crossbenchers, 'We ask for your support for the suspension of standing orders for this debate.' (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2
+",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2,speech
 "Abetz, Sen Eric",LP,2014-11-26,"
 
 
@@ -3746,7 +3845,7 @@ Senator Conroy:
 Senator ABETZ:
   which he withdraws the very next day, then we will be debating these matters all the time. Finally, I will take Senator Conroy's interjection. He says Senator Johnston is a serial offender. Senator Conroy, look in the mirror and you will see the biggest serial offender this place has. (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2
+",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2,speech
 "Milne, Sen Christine",AG,2014-11-26,"
 
 
@@ -3764,7 +3863,7 @@ Government senators interjecting—
 Senator MILNE:
   I will support the suspension of standing orders because I think we should have a debate on the competence of the minister in this portfolio in relation to this matter. We have before us a procurement process that is going to be incredibly important and serious for the future of Australia's defence forces and we have a minister who has demonstrated that he does not have the capacity to deal with that  procurement process. It is very well known that that is the case and that is the view within the government itself.
 
-",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2
+",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2,speech
 "Conroy, Sen Stephen",ALP,2014-11-26,"
 
 
@@ -3820,7 +3919,7 @@ Senator Wong:
 Senator CONROY:
   Exactly, Senator Wong—a weak government trying to protect its own, but it is all over and you all know it. It is all over for Senator Johnston. Each and every one of you knows what happens when The Australian says you are in the way of the Abbott government. We have to scrape the barnacle off the bottom of the vessel and we have to move on.
 
-",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2
+",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2,speech
 "Brandis, Sen George",LP,2014-11-26,"
 
 
@@ -3860,7 +3959,7 @@ The PRESIDENT:  The question is that the motion to suspend standing orders, move
 
  
 
-",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2
+",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2,speech
 "Wong, Sen Penny",ALP,2014-11-26,"
 
 
@@ -4030,7 +4129,7 @@ Senator O'Neill:
 Senator WONG:
   It is disgraceful that a defence minister would be so cavalier with the perceptions of our defence capability. This minister has broken a promise to South Australians and to Australians that the Abbott government would build 12 submarines in Adelaide. This is the defence minister who is presiding over cuts to the pay and conditions of Australian service men and women. This is why this Senate should censure this discredited defence minister.
 
-",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2
+",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2,speech
 "Johnston, Sen David",LP,2014-11-26,"
 
 
@@ -4083,7 +4182,7 @@ For my sins I have worn the odium of two hours this morning and several question
 
 This is just a waste of the Senate's time. It is absolute nonsense. You people have got your priorities really messed up—seriously—as my portfolio stands in testament.
 
-",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2
+",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2,speech
 "Conroy, Sen Stephen",ALP,2014-11-26,"
 
 
@@ -4204,7 +4303,7 @@ Senator Williams
 Senator CONROY:
   because he has already done a deal with Japan.
 
-",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2
+",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2,speech
 "Abetz, Sen Eric",LP,2014-11-26,"
 
 
@@ -4375,7 +4474,7 @@ Further, we know that not only did they not increase according to CPI; they actu
 
 But let us be very clear: as a government, we are committed to our Defence personnel. We are committed to our defence industries. But when you are left with a situation of a trajectory of getting this nation into $667 billion worth of debt, where we are borrowing $1,000 million a month just to pay the interest on the existing loans, what do you do? Well, I, as a minister on behalf of this government, went to the remuneration tribunal and said: 'All parliamentarians, the Minister for Defence, the Chief of Defence Force, all our judges and other people, should not be given a pay rise at all; there should be a zero per cent pay rise for the Chief of Defence Force, for the Minister for Defence, and for the Prime Minister,' and so, in those circumstances, a 1.5 per cent deal was, as the Defence Force Remuneration Tribunal determined, a fair offer in all the circumstances. Do we really want to keep borrowing money from overseas to pay the wages? If we pay the wages today of parliamentarians and Defence personnel and public servants with borrowed money from overseas, who has to repay it? It will be our children and our grandchildren who will have to repay that debt. We are not going to be party to that sort of inappropriate economic management. We have full confidence in Senator Johnston. (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2
+",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2,speech
 "Milne, Sen Christine",AG,2014-11-26,"
 
 
@@ -4488,7 +4587,7 @@ I went to Sydney to see that fantastic production between the Sydney Theatre Com
 
 It is in that context that I support this censure motion of the minister because I do not have the confidence that he has the temperament to oversee a procurement process, given his reaction to the issue of the Submarine Corporation and his reaction to the issue of the complaints about the ADF with the asylum seeker boat incidents. He just reaches a conclusion and does not investigate the matters properly. But, more particularly, the big picture here is: he should be saying he is sorry. He should not be insulting people who are working in that particular business. More particularly, as the defence minister of Australia, he has an obligation to have a level of competence that is not being demonstrated If people do not have the confidence that he can oversee the procurement process, then the Prime Minister should take that on board and think about that very carefully, because it is pretty fundamental.
 
-",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2
+",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2,speech
 "Faulkner, Sen John",ALP,2014-11-26,"
 
 
@@ -4613,7 +4712,7 @@ And the standards go on. All ministers—all of them—and all members of the ex
 
 These issues are serious. Last night, after Senator Johnston's comments in question time, the Prime Minister felt that it was necessary for him to issue a supportive statement about the vital role of the ASC. No-one else has said this today in this chamber, but let me say that I am very pleased the Prime Minister did that. The Prime Minister should have done it; it was the responsible thing to do and I am glad that he did make that supportive statement, which I am sure made a difference to the management and, particularly, the workers at the ASC. Senator Johnston has, as we know, been criticised by state and federal politicians from both sides of politics and also from crossbenchers. I acknowledge that, in this chamber this morning, Senator Johnston made clear that he regretted making his statement, and, like others, I am pleased that he did so. But let me say this as a reluctant starter in this debate, courtesy of Senator Brandis: I believe it is critical that Senator Johnston, as defence minister, now assure the parliament that he has sought advice about all possible implications of his statements yesterday in question time on the submarine procurement processes. I want to know also, and I think we need to know, that that advice will be shared with the Australian parliament and that the parliament can also be assured that these processes have not been compromised in any way. It gives me no pleasure as a former Minister for Defence to say that I think, on this matter, the facts are clear. Senator Johnston made a serious mistake for which censure by this chamber is warranted. (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2
+",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2,speech
 "Lambie, Sen Jacqui",Ind.,2014-11-26,"
 
 
@@ -4742,7 +4841,7 @@ In closing, it is obvious that this Liberal Party decision to favour overseas sh
 
 The PRESIDENT:  The question is that the motion to censure moved by Senator Wong be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2
+",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2,speech
 "Abetz, Sen Eric",LP,2014-11-26,"
 
 
@@ -4750,7 +4849,7 @@ The PRESIDENT:  The question is that the motion to censure moved by Senator Wong
 Senator ABETZ
  (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (17:35):  Mr President, I ask that further questions be placed on the Notice Paper. 
 
-",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2
+",Senate,<title>MOTIONS</title>,<title>Censure</title>,MOTIONS,5,2,speech
 "Bushby, Sen David",LP,2014-11-26,"
 
 
@@ -4786,7 +4885,7 @@ That the Joint Standing Committee on Treaties be authorised to hold private meet
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,10,1
+",Senate,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,10,1,speech
 "Bushby, Sen David",LP,2014-11-26,"
 
 
@@ -4822,7 +4921,7 @@ That the Joint Standing Committee on Treaties be authorised to hold private meet
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,10,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,10,2,speech
 "Williams, Sen John",Nats,2014-11-26,"
 
 
@@ -4863,7 +4962,7 @@ That the Senate:
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Moree Boomerangs Rugby League Football Club</title>,MOTIONS,11,1
+",Senate,<title>MOTIONS</title>,<title>Moree Boomerangs Rugby League Football Club</title>,MOTIONS,11,1,speech
 "Leyonhjelm, Sen David",LDP,2014-11-26,"
 
 
@@ -4895,7 +4994,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Freedom to Marry Bill 2014</title>,BILLS,12,1
+",Senate,<title>BILLS</title>,<title>Freedom to Marry Bill 2014</title>,BILLS,12,1,speech
 "Leyonhjelm, Sen David",LDP,2014-11-26,"
 
 
@@ -4994,7 +5093,7 @@ Senator LEYONHJELM:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Freedom to Marry Bill 2014</title>,BILLS,12,1
+",Senate,<title>BILLS</title>,<title>Freedom to Marry Bill 2014</title>,BILLS,12,1,speech
 "Leyonhjelm, Sen David",LDP,2014-11-26,"
 
 
@@ -5026,7 +5125,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,12,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,12,2,speech
 "Moore, Sen Claire",ALP,2014-11-26,"
 
 
@@ -5061,7 +5160,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Centenary of Anzac</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Centenary of Anzac</title>,MOTIONS,13,1,speech
 "McEwen, Sen Anne",ALP,2014-11-26,"
 
 
@@ -5072,7 +5171,7 @@ Senator McEWEN
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Scrutiny of Bills Committee</title>,COMMITTEES,16,1
+",Senate,<title>COMMITTEES</title>,<title>Scrutiny of Bills Committee</title>,COMMITTEES,16,1,speech
 "McEwen, Sen Anne",ALP,2014-11-26,"
 
 
@@ -5083,7 +5182,7 @@ Senator McEWEN
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,16,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,16,2,speech
 "Cormann, Sen Mathias",LP,2014-11-26,"
 
 
@@ -5100,7 +5199,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,"<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 6) Bill 2014</title>",BILLS,17,1
+",Senate,<title>BILLS</title>,"<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 6) Bill 2014</title>",BILLS,17,1,speech
 "Cormann, Sen Mathias",LP,2014-11-26,"
 
 
@@ -5392,7 +5491,7 @@ Debate adjourned.
 
 Ordered that the bills be listed on the Notice Paper as separate orders of the day.
 
-",Senate,<title>BILLS</title>,"<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 6) Bill 2014</title>",BILLS,17,1
+",Senate,<title>BILLS</title>,"<title>Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 6) Bill 2014</title>",BILLS,17,1,speech
 "Cormann, Sen Mathias",LP,2014-11-26,"
 
 
@@ -5409,7 +5508,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,17,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,17,2,speech
 "Carr, Sen Kim",ALP,2014-11-26,"
 
 
@@ -5459,7 +5558,7 @@ The bill inserts a new mandatory ground for cancellation of a visa where a perso
 
 Labor supports these amendments, which provide for a more rigorous system to exclude noncitizens who do not adhere to the integrity standards that the community would expect of those who wish to visit or live in this country.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Character and General Visa Cancellation) Bill 2014</title>,BILLS,19,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Character and General Visa Cancellation) Bill 2014</title>,BILLS,19,1,speech
 "Hanson-Young, Sen Sarah",AG,2014-11-26,"
 
 
@@ -5503,7 +5602,7 @@ Overall, the Australian Greens believe that the amendments proposed in this bill
 
 The government seems to be obsessed with treating vulnerable refugees with total contempt in this country. Rather than treating asylum seekers and refugees with care and compassion, this government is obsessed with subjecting them to a life of uncertainty and fear. It is clear that this government is intent on stripping away all rights and protections for these people, putting at risk the very rights that as Australians we hold dear. Instilling fear and playing politics has become the order of the day rather than upholding and celebrating what makes this country great. This minister is obsessed with power. Every bill that is currently before this place at the moment by the immigration minister is about giving him more, unfettered power. He is drunk on power. He cannot get enough of it. He has got an addiction. It is for these reasons that the Greens strongly oppose this bill.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Character and General Visa Cancellation) Bill 2014</title>,BILLS,19,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Character and General Visa Cancellation) Bill 2014</title>,BILLS,19,1,speech
 "Macdonald, Sen Ian",LP,2014-11-26,"
 
 
@@ -5574,7 +5673,7 @@ The current guidelines in ministerial direction No. 55 affirm Australia's commit
 
 So the committee, in its first recommendation, suggested to the minister and the government that the current directions be updated and extended so as to reflect the proposed amendments to the Migration Act and, in particular, to ensure the direction applies to cancellation decisions made under the general visa cancellation framework. I am sure that the minister would have carefully considered that recommendation of the committee and I would hope that the minister may have been able to adopt and accept that recommendation and put it into practice. With that qualification, I strongly support this bill, as did the committee that investigated it.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Character and General Visa Cancellation) Bill 2014</title>,BILLS,19,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Character and General Visa Cancellation) Bill 2014</title>,BILLS,19,1,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -5663,7 +5762,7 @@ The Australian Greens will not support this bill because overall it makes it far
 
 This bill also expands the discretionary powers of the immigration minister without providing for judicial oversight or sufficient safeguards to protect against misuse or overuse of these expansive powers. In the future, when we look back on how we are treating people who are in Australia and seeking protection or residency, we will see that this has been a dark time. Year by year restrictions are growing, rights are being curtailed, the arbitrary use of powers by the minister and officials is being expanded, and protections, checks and balances are being dismantled. Essentially, this bill has the effect of handing unfettered power to the immigration minister of the day—whoever that is today and in the future—and that is simply unacceptable when we are talking about people's lives. This bill is shameful and should not pass this place. Australia is so much better than this. The Australian Greens oppose this bill in the strongest possible terms.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Character and General Visa Cancellation) Bill 2014</title>,BILLS,19,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Character and General Visa Cancellation) Bill 2014</title>,BILLS,19,1,speech
 "Cash, Sen Michaelia",LP,2014-11-26,"
 
 
@@ -5698,7 +5797,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Character and General Visa Cancellation) Bill 2014</title>,BILLS,19,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Character and General Visa Cancellation) Bill 2014</title>,BILLS,19,1,speech
 "Back, Sen Chris (The ACTING DEPUTY PRESIDENT)",LP,2014-11-26,"
 
 
@@ -5709,7 +5808,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Back
 ) (19:02):  As no amendments to the bill have been circulated, I shall call the minister to move the third reading unless any senator requires that the bill be considered in Committee of the Whole.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Character and General Visa Cancellation) Bill 2014</title>,BILLS,19,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Character and General Visa Cancellation) Bill 2014</title>,BILLS,19,1,speech
 "Hanson-Young, Sen Sarah",AG,2014-11-26,"
 
 
@@ -5717,7 +5816,7 @@ Senator Back
 Senator HANSON-YOUNG
  (South Australia) (19:03):  I just want to make it clear and put it on the record that the Greens will not be dividing on this because of the hour of the day. But I want to make it clear that we do oppose this bill—the second reading and the third reading. We will not be bothering to move amendments because we think the bill should not exist.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Character and General Visa Cancellation) Bill 2014</title>,BILLS,19,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Character and General Visa Cancellation) Bill 2014</title>,BILLS,19,1,speech
 "Cash, Sen Michaelia",LP,2014-11-26,"
 
 
@@ -5734,7 +5833,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Migration Amendment (Character and General Visa Cancellation) Bill 2014</title>,BILLS,19,1
+",Senate,<title>BILLS</title>,<title>Migration Amendment (Character and General Visa Cancellation) Bill 2014</title>,BILLS,19,1,speech
 "Carr, Sen Kim",ALP,2014-11-26,"
 
 
@@ -5784,7 +5883,7 @@ The bill inserts a new mandatory ground for cancellation of a visa where a perso
 
 Labor supports these amendments, which provide for a more rigorous system to exclude noncitizens who do not adhere to the integrity standards that the community would expect of those who wish to visit or live in this country.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Hanson-Young, Sen Sarah",AG,2014-11-26,"
 
 
@@ -5828,7 +5927,7 @@ Overall, the Australian Greens believe that the amendments proposed in this bill
 
 The government seems to be obsessed with treating vulnerable refugees with total contempt in this country. Rather than treating asylum seekers and refugees with care and compassion, this government is obsessed with subjecting them to a life of uncertainty and fear. It is clear that this government is intent on stripping away all rights and protections for these people, putting at risk the very rights that as Australians we hold dear. Instilling fear and playing politics has become the order of the day rather than upholding and celebrating what makes this country great. This minister is obsessed with power. Every bill that is currently before this place at the moment by the immigration minister is about giving him more, unfettered power. He is drunk on power. He cannot get enough of it. He has got an addiction. It is for these reasons that the Greens strongly oppose this bill.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Macdonald, Sen Ian",LP,2014-11-26,"
 
 
@@ -5899,7 +5998,7 @@ The current guidelines in ministerial direction No. 55 affirm Australia's commit
 
 So the committee, in its first recommendation, suggested to the minister and the government that the current directions be updated and extended so as to reflect the proposed amendments to the Migration Act and, in particular, to ensure the direction applies to cancellation decisions made under the general visa cancellation framework. I am sure that the minister would have carefully considered that recommendation of the committee and I would hope that the minister may have been able to adopt and accept that recommendation and put it into practice. With that qualification, I strongly support this bill, as did the committee that investigated it.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Wright, Sen Penny",AG,2014-11-26,"
 
 
@@ -5988,7 +6087,7 @@ The Australian Greens will not support this bill because overall it makes it far
 
 This bill also expands the discretionary powers of the immigration minister without providing for judicial oversight or sufficient safeguards to protect against misuse or overuse of these expansive powers. In the future, when we look back on how we are treating people who are in Australia and seeking protection or residency, we will see that this has been a dark time. Year by year restrictions are growing, rights are being curtailed, the arbitrary use of powers by the minister and officials is being expanded, and protections, checks and balances are being dismantled. Essentially, this bill has the effect of handing unfettered power to the immigration minister of the day—whoever that is today and in the future—and that is simply unacceptable when we are talking about people's lives. This bill is shameful and should not pass this place. Australia is so much better than this. The Australian Greens oppose this bill in the strongest possible terms.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Cash, Sen Michaelia",LP,2014-11-26,"
 
 
@@ -6023,7 +6122,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Canavan, Sen Matthew",Nats,2014-11-26,"
 
 
@@ -6049,4 +6148,4 @@ One thing that was put to me at this meeting, and has now been put forward in su
 
 I think, more generally, we need to be very careful now. The farming sector has changed in the last couple of decades. There has been increasing corporatisation; there has been increasing foreign investment; there are increasing issues around how about 135,000 farmers in this country can negotiate with just a few big corporations to buy or market their products. They do not have the bargaining position that big corporations do. When I was on this trip I went to a place called Mareeba—that was the next day. They do grow a bit of sugar there, but I did not talk sugar there. I talked to some horticulturalists and I said to them: 'Why don't you guys cooperate? Why can't you get together and, effectively, do what the Labor Party do and go on strike and get a better price?' They said, 'Yeah, we tried that a few years ago. Three of us who are growers in Mareeba said, ""We're not going to sell to the Cairns marketplace. We're going to stop selling. So, next Saturday, no-one drive down to Cairns to sell their product.""' They said that the guy who left at 4.30 in the morning drove past the two others who were already coming back from Cairns that morning. It is very hard for farmers to cooperate, because there are so many of them. There is always an incentive for some to do deals outside of a cooperative framework. Given that, we need to recognise that marketplace. Sure, we have laws in place to prevent those with too much market power from abusing that position and limiting Australian farmers' ability to make a decent return on their work and investments.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Sugar Industry</title>,ADJOURNMENT,20,1
+",Senate,<title>ADJOURNMENT</title>,<title>Sugar Industry</title>,ADJOURNMENT,20,1,speech

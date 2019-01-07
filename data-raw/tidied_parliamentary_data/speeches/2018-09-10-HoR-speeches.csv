@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2018-09-10,"
 
 
@@ -14,7 +14,7 @@ An opposition member:  I'd go to New York too!
 
 The SPEAKER:  You'll be going out of the chamber; you won't be going to New York. Consideration is being given to possible dates for the by-election, and I will be consulting with party leaders on this matter during the course of this week. I will inform the House in due course of the dates which I have fixed for the by-election.
 
-",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Member for Wentworth</title>,PARLIAMENTARY REPRESENTATION,0,1
+",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Member for Wentworth</title>,PARLIAMENTARY REPRESENTATION,0,1,speech
 "Smith, Tony, MP",LP,2018-09-10,"
 
 
@@ -30,7 +30,7 @@ An opposition member:  I'd go to New York too!
 
 The SPEAKER:  You'll be going out of the chamber; you won't be going to New York. Consideration is being given to possible dates for the by-election, and I will be consulting with party leaders on this matter during the course of this week. I will inform the House in due course of the dates which I have fixed for the by-election.
 
-",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Resignation</title>,PARLIAMENTARY REPRESENTATION,0,2
+",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Resignation</title>,PARLIAMENTARY REPRESENTATION,0,2,speech
 "Wicks, Lucy, MP",LP,2018-09-10,"
 
 
@@ -38,7 +38,7 @@ The SPEAKER:  You'll be going out of the chamber; you won't be going to New York
 Mrs WICKS
  (Robertson) (10:02):  Today I present the 28th report of the Petitions Committee for the 45th Parliament.
 
-",HoR,<title>COMMITTEES</title>,<title>Petitions Committee</title>,COMMITTEES,1,1
+",HoR,<title>COMMITTEES</title>,<title>Petitions Committee</title>,COMMITTEES,1,1,speech
 "Wicks, Lucy, MP",LP,2018-09-10,"
 
 
@@ -46,7 +46,7 @@ Mrs WICKS
 Mrs WICKS
  (Robertson) (10:02):  Today I present the 28th report of the Petitions Committee for the 45th Parliament.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,1,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,1,2,speech
 "Wicks, Lucy, MP",LP,2018-09-10,"
 
 
@@ -54,7 +54,7 @@ Mrs WICKS
 Mrs WICKS
  (Robertson) (10:02):  Nine ministerial responses to petitions previously presented to the House have been received as follows:
 
-",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,3,2
+",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,3,2,speech
 "Falinski, Jason, MP",LP,2018-09-10,"
 
 
@@ -92,7 +92,7 @@ In closing, I would like to thank the member for Page, who started this committe
 
 Report made a parliamentary paper in accordance with standing order 39(e).
 
-",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Tax and Revenue</title>,COMMITTEES,5,1
+",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Tax and Revenue</title>,COMMITTEES,5,1,speech
 "Owens, Julie, MP",ALP,2018-09-10,"
 
 
@@ -113,7 +113,7 @@ So the report itself is really quite an interesting read. It covers some very im
 
 The SPEAKER:  The time allotted for statements on this report has expired. Does the member for Mackellar wish to move a motion in connection with the report to enable it to be debated on a later occasion?
 
-",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Tax and Revenue</title>,COMMITTEES,5,1
+",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Tax and Revenue</title>,COMMITTEES,5,1,speech
 "Falinski, Jason, MP",LP,2018-09-10,"
 
 
@@ -127,7 +127,7 @@ That the House take note of the report.
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Tax and Revenue</title>,COMMITTEES,5,1
+",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Tax and Revenue</title>,COMMITTEES,5,1,speech
 "Falinski, Jason, MP",LP,2018-09-10,"
 
 
@@ -141,7 +141,7 @@ That the order of the day be referred to the Federation Chamber for debate.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Tax and Revenue</title>,COMMITTEES,5,1
+",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Tax and Revenue</title>,COMMITTEES,5,1,speech
 "Falinski, Jason, MP",LP,2018-09-10,"
 
 
@@ -179,7 +179,7 @@ In closing, I would like to thank the member for Page, who started this committe
 
 Report made a parliamentary paper in accordance with standing order 39(e).
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,5,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,5,2,speech
 "Owens, Julie, MP",ALP,2018-09-10,"
 
 
@@ -200,7 +200,7 @@ So the report itself is really quite an interesting read. It covers some very im
 
 The SPEAKER:  The time allotted for statements on this report has expired. Does the member for Mackellar wish to move a motion in connection with the report to enable it to be debated on a later occasion?
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,5,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,5,2,speech
 "Falinski, Jason, MP",LP,2018-09-10,"
 
 
@@ -214,7 +214,7 @@ That the House take note of the report.
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,5,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,5,2,speech
 "Smith, Tony, MP",LP,2018-09-10,"
 
 
@@ -222,7 +222,7 @@ Debate adjourned.
 The SPEAKER
  (10:14):  I inform the House that, pursuant to standing order 110, the honourable member for Kennedy has withdrawn his notice relating to the introduction of the Inland Rail Project (Improving Accountability) Bill 2018. The order of precedence of remaining private members' business notices as determined by the Selection Committee's report, adopted by the House on 22 August 2018, remains unchanged.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Inland Rail</title>,PRIVATE MEMBERS' BUSINESS,6,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Inland Rail</title>,PRIVATE MEMBERS' BUSINESS,6,1,speech
 "Dutton, Peter, MP",LP,2018-09-10,"
 
 
@@ -245,7 +245,7 @@ In regard to the other matter, which has been referred to as the Brisbane matter
 
 I also put on the record the following in regard to the matter. The individual did not have contact with me in regard to this matter. He wrote an email to my publicly available email account, which can be accessed by anyone online. That email account is monitored by my staff. A staff member in my office asked me whether I knew this person. My initial response was, 'Who?' As is the case in any of these matters, my staffer asked for information from the department to examine the facts. The staff member in my office then sought further information through the DLO. At no time did I speak with the ABF commissioner, the departmental liaison officer or any other member of the department regarding this matter. In fact, as has become public over the last few days, despite his evidence otherwise, no-one in my office spoke with the ABF commissioner on this matter. Any statements made by current or former departmental officials are not informed by any communication with me. The department then compiled a submission which, as was provided in evidence to the Senate inquiry hearing last week, on the front page states as the recommendation to intervene in that matter. I actioned the submission on the facts of the case before me, nothing more, nothing less. 
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Minister for Home Affairs</title>,STATEMENTS ON INDULGENCE,7,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Minister for Home Affairs</title>,STATEMENTS ON INDULGENCE,7,1,speech
 "Shorten, Bill, MP",ALP,2018-09-10,"
 
 
@@ -319,7 +319,7 @@ The DEPUTY SPEAKER
 Mr Goodenough
 ):  Is there a seconder for the motion?
 
-",HoR,<title>MOTIONS</title>,<title>Morrison Government</title>,MOTIONS,8,1
+",HoR,<title>MOTIONS</title>,<title>Morrison Government</title>,MOTIONS,8,1,speech
 "Plibersek, Tanya, MP",ALP,2018-09-10,"
 
 
@@ -355,7 +355,7 @@ Opposition members interjecting—
 Ms PLIBERSEK:
   Where are they? Where are the lapel pins? I will tell you what, Mr Deputy Speaker: I don't need a lapel pin to tell me whose side I'm on. I don't need a lapel pin to remind me why I'm here. We don't need a lapel pin to remind us that we are proud Australians and we support increased wages for working Australians. We increased— (Time expired)
 
-",HoR,<title>MOTIONS</title>,<title>Morrison Government</title>,MOTIONS,8,1
+",HoR,<title>MOTIONS</title>,<title>Morrison Government</title>,MOTIONS,8,1,speech
 "Pyne, Christopher, MP",LP,2018-09-10,"
 
 
@@ -438,7 +438,7 @@ Here we are debating a Labor motion to suspend standing orders to demand that we
 
 The DEPUTY SPEAKER:  The time allotted for this debate has expired. The question is that the motion be agreed to. There being more than one voice calling for a division, in accordance with standing order 133 the division is deferred until 12 noon.
 
-",HoR,<title>MOTIONS</title>,<title>Morrison Government</title>,MOTIONS,8,1
+",HoR,<title>MOTIONS</title>,<title>Morrison Government</title>,MOTIONS,8,1,speech
 "Dreyfus, Mark, MP",ALP,2018-09-10,"
 
 
@@ -555,7 +555,7 @@ Ms Brodtmann:
 
 The DEPUTY SPEAKER:  The original question was that this bill be now read a second time. To this, the honourable member for Isaacs has moved as an amendment that all words after 'That' be omitted with a view to substituting other words. If it suits the House, I will state the question in the form that the amendment be agreed to. The question now is that the amendment be agreed to. I have taken the view that the deferred division should not be proceeded with until the member speaking at 12 noon had completed his speech and so I did not interrupt the member. The debate is adjourned and the resumption of the debate will be made an order of the day for a later hour.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,11,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,11,1,speech
 "Dreyfus, Mark, MP",ALP,2018-09-10,"
 
 
@@ -672,7 +672,7 @@ Ms Brodtmann:
 
 The DEPUTY SPEAKER:  The original question was that this bill be now read a second time. To this, the honourable member for Isaacs has moved as an amendment that all words after 'That' be omitted with a view to substituting other words. If it suits the House, I will state the question in the form that the amendment be agreed to. The question now is that the amendment be agreed to. I have taken the view that the deferred division should not be proceeded with until the member speaking at 12 noon had completed his speech and so I did not interrupt the member. The debate is adjourned and the resumption of the debate will be made an order of the day for a later hour.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2,speech
 "Goodenough, Ian (The DEPUTY SPEAKER)",LP,2018-09-10,"
 
 
@@ -687,7 +687,7 @@ Mr Goodenough
 
 The SPEAKER:  The question is that the motion moved by the Leader of the Opposition be agreed to.
 
-",HoR,<title>MOTIONS</title>,<title>Morrison Government</title>,MOTIONS,12,1
+",HoR,<title>MOTIONS</title>,<title>Morrison Government</title>,MOTIONS,12,1,speech
 "Thistlethwaite, Matt, MP",ALP,2018-09-10,"
 
 
@@ -741,7 +741,7 @@ Thankfully, in the wake of all of these scandals, the government have woken up t
 
 Labor stands ready to work with the government, with ASIC and with other regulators to ensure that we do have a fair dinkum set of regulations that oversee this particular industry, an area of deep concern for many Australians. Hopefully, we can restore confidence and trust in Australia's banking and financial services sector.
 
-",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,13,1
+",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,13,1,speech
 "Thistlethwaite, Matt, MP",ALP,2018-09-10,"
 
 
@@ -795,7 +795,7 @@ Thankfully, in the wake of all of these scandals, the government have woken up t
 
 Labor stands ready to work with the government, with ASIC and with other regulators to ensure that we do have a fair dinkum set of regulations that oversee this particular industry, an area of deep concern for many Australians. Hopefully, we can restore confidence and trust in Australia's banking and financial services sector.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,13,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,13,2,speech
 "Van Manen, Bert, MP",LP,2018-09-10,"
 
 
@@ -842,7 +842,7 @@ This bill anticipates a process through which the court would make a request or 
 
 We should not pretend that this legislative change alone will bring an end to family violence. That is a fight that is going to be fought on many fronts across our society for time to come. The bill before us is intended to be and needs to be a step forward to provide these protections to the victims. I hope this bill will, at least to some degree, ease the burden of fear of those many people who are currently facing the devastating situation of being victims of family violence and who, until now, have had their victimisation exacerbated by the very system that seeks to protection them. I hope it allows them the comfort of knowing that they will not be compelled to face the alleged perpetrator of the violence and abuse that has consumed them and become, often, the most significant, terrifying and destructive episode in their life. I'm proud of the fact that this bill has been brought before the House and of the bipartisan commitment that the member for Isaacs outlined earlier. We seek in this bill to provide the rights and protections to victims of family violence that are so desperately needed. 
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,14,1,speech
 "Perrett, Graham, MP",ALP,2018-09-10,"
 
 
@@ -905,7 +905,7 @@ The record of the Abbott-Turnbull-Morrison government, the ATM government, in ma
 
 Now, when the family law system is in crisis, what does the government do? They haven't given the courts the resources they've been crying out for. They have announced a radical reform that will effectively abolish the specialist Family Court of Australia—the court that has the most expertise in complex family law cases, including family violence, mental health issues and drug and alcohol abuse. Have they canvassed this radical proposal with stakeholders? Have they gone out to legal practitioners, judges or the families that use the family law system? No. Instead, they've gone ahead without consulting any of the groups. This arrogant, out-of-touch government does not consider it necessary to ask the very people who use the system daily if their radical idea will work before they try to implement it. It is dangerous to recklessly tinker with a family law system that decides the future of vulnerable children and their families—families who are already under stress and at breaking point. I hope, for the sake of the victims of family violence and the children using the family law system, that this government considers the measures in this bill to be sufficiently important to allocate proper funding. As I said before, if funding is not attached to this legislation it will be useless.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,14,1,speech
 "Burke, Tony, MP",ALP,2018-09-10,"
 
 
@@ -1014,7 +1014,7 @@ Mr BURKE:
 
 The DEPUTY SPEAKER:  I have listened to the arguments of the Manager of Opposition Business and the Leader of the House, and I do not believe—and I have conferred with the Clerk—that this is relevant to the business being debated. The Manager of Opposition Business can certainly bring this up at a later time.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,14,1,speech
 "Broadbent, Russell, MP",LP,2018-09-10,"
 
 
@@ -1043,7 +1043,7 @@ The flow-on of that, of course, is that they are protected by the Parliament of 
 
 With those few words, I support this legislation. I expect that the opposition will support this legislation. I know that the crossbenchers will support the legislation. There will be some criticism along the way, but I hope that, in the genuineness of the spirit that is behind this legislation, it will be supported unanimously by this parliament.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,14,1,speech
 "Claydon, Sharon, MP",ALP,2018-09-10,"
 
 
@@ -1076,7 +1076,7 @@ As I said, I am delighted that this bill comes before the House. It is deeply re
 
 The DEPUTY SPEAKER:  The debate is interrupted in accordance with standing order 43 and may be resumed at a later hour.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,14,1,speech
 "Van Manen, Bert, MP",LP,2018-09-10,"
 
 
@@ -1123,7 +1123,7 @@ This bill anticipates a process through which the court would make a request or 
 
 We should not pretend that this legislative change alone will bring an end to family violence. That is a fight that is going to be fought on many fronts across our society for time to come. The bill before us is intended to be and needs to be a step forward to provide these protections to the victims. I hope this bill will, at least to some degree, ease the burden of fear of those many people who are currently facing the devastating situation of being victims of family violence and who, until now, have had their victimisation exacerbated by the very system that seeks to protection them. I hope it allows them the comfort of knowing that they will not be compelled to face the alleged perpetrator of the violence and abuse that has consumed them and become, often, the most significant, terrifying and destructive episode in their life. I'm proud of the fact that this bill has been brought before the House and of the bipartisan commitment that the member for Isaacs outlined earlier. We seek in this bill to provide the rights and protections to victims of family violence that are so desperately needed. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Perrett, Graham, MP",ALP,2018-09-10,"
 
 
@@ -1186,7 +1186,7 @@ The record of the Abbott-Turnbull-Morrison government, the ATM government, in ma
 
 Now, when the family law system is in crisis, what does the government do? They haven't given the courts the resources they've been crying out for. They have announced a radical reform that will effectively abolish the specialist Family Court of Australia—the court that has the most expertise in complex family law cases, including family violence, mental health issues and drug and alcohol abuse. Have they canvassed this radical proposal with stakeholders? Have they gone out to legal practitioners, judges or the families that use the family law system? No. Instead, they've gone ahead without consulting any of the groups. This arrogant, out-of-touch government does not consider it necessary to ask the very people who use the system daily if their radical idea will work before they try to implement it. It is dangerous to recklessly tinker with a family law system that decides the future of vulnerable children and their families—families who are already under stress and at breaking point. I hope, for the sake of the victims of family violence and the children using the family law system, that this government considers the measures in this bill to be sufficiently important to allocate proper funding. As I said before, if funding is not attached to this legislation it will be useless.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Burke, Tony, MP",ALP,2018-09-10,"
 
 
@@ -1295,7 +1295,7 @@ Mr BURKE:
 
 The DEPUTY SPEAKER:  I have listened to the arguments of the Manager of Opposition Business and the Leader of the House, and I do not believe—and I have conferred with the Clerk—that this is relevant to the business being debated. The Manager of Opposition Business can certainly bring this up at a later time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Broadbent, Russell, MP",LP,2018-09-10,"
 
 
@@ -1324,7 +1324,7 @@ The flow-on of that, of course, is that they are protected by the Parliament of 
 
 With those few words, I support this legislation. I expect that the opposition will support this legislation. I know that the crossbenchers will support the legislation. There will be some criticism along the way, but I hope that, in the genuineness of the spirit that is behind this legislation, it will be supported unanimously by this parliament.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Claydon, Sharon, MP",ALP,2018-09-10,"
 
 
@@ -1357,7 +1357,7 @@ As I said, I am delighted that this bill comes before the House. It is deeply re
 
 The DEPUTY SPEAKER:  The debate is interrupted in accordance with standing order 43 and may be resumed at a later hour.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Giles, Andrew, MP",ALP,2018-09-10,"
 
 
@@ -1365,7 +1365,7 @@ The DEPUTY SPEAKER:  The debate is interrupted in accordance with standing order
 Mr GILES
  (Scullin) (13:29):  On Friday, at a place she loved in Melbourne, Mary Day's family, friends and comrades gathered to say farewell and to remember her. Mary knew and loved this place too. She made a huge contribution to its best work. She deserves to be remembered here as a giant of Victorian Labor, who gave so much to our movement through her work, especially for Gerry Hand and Lindsay Tanner, but also through the crucial leadership she demonstrated as an activist for the party and, as she'd insist on me saying, for the left. That ours is a movement of collectivism does not mean that we are without selfishness. But Mary was. She cared for outcomes, not credit. She cared for people. She built a movement in which she encouraged, developed and supported those around her. She saw and brought out the best in others. Like so many, I owe Mary so much. I say thank you to Mary for giving me the chance to speak here and to carry on our shared work in the struggle for a better and fairer Australia, with so many friends and proteges of yours, like the member for Bruce. All my best thoughts go to all who knew her and especially to her son, Nick, her siblings and all the family. Vale, Mary. Rest in peace. 
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,"<title>Day, Ms Mary</title>",STATEMENTS BY MEMBERS,15,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,"<title>Day, Ms Mary</title>",STATEMENTS BY MEMBERS,15,1,speech
 "Morrison, Scott, MP",LP,2018-09-10,"
 
 
@@ -1394,7 +1394,7 @@ We argue and compete and sometimes even vilify each other in our raucous public 
 
 There is grace in his words and a lesson for all of us. On behalf of this House and our nation, I extend our deepest condolences to Senator McCain's wife, Cindy, his family and the American people he served so magnificently. May he rest in peace. God bless.
 
-",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,17,1
+",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,17,1,speech
 "Shorten, Bill, MP",ALP,2018-09-10,"
 
 
@@ -1420,7 +1420,7 @@ We all remember John McCain as a devoted friend of Australia. I had the privileg
 
 At his best, the late John McCain typified the very best of American politics and idealism, opposing tyranny, defending liberty, extending justice to all. As Australians we honour his life and as parliamentarians we reflect on his example. Our condolences to his family. May he rest in peace.
 
-",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,17,1
+",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,17,1,speech
 "Pyne, Christopher, MP",LP,2018-09-10,"
 
 
@@ -1443,7 +1443,7 @@ That further statements on indulgence on the death of former United States Senat
 
 Question agreed to.
 
-",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,17,1
+",HoR,<title>CONDOLENCES</title>,"<title>McCain III, Senator John Sidney</title>",CONDOLENCES,17,1,speech
 "Pyne, Christopher, MP",LP,2018-09-10,"
 
 
@@ -1466,7 +1466,80 @@ That further statements on indulgence on the death of former United States Senat
 
 Question agreed to.
 
-",HoR,<title>CONDOLENCES</title>,<title>Reference to Federation Chamber</title>,CONDOLENCES,17,2
+",HoR,<title>CONDOLENCES</title>,<title>Reference to Federation Chamber</title>,CONDOLENCES,17,2,speech
+"Shorten, Bill, MP",ALP,2018-09-10,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:13):  My question is to the Prime Minister. Malcolm Turnbull is no longer Prime Minister of Australia. Why?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Liberal Party Leadership</title>,QUESTIONS WITHOUT NOTICE,19,1,question
+"Morrison, Scott, MP",LP,2018-09-10,"
+
+
+
+Mr MORRISON
+ (Cook—Prime Minister) (14:13):  I thank the member for his question. John Howard used to say something quite simple—that is, the privilege of serving as the leader of your parliamentary party is the decision of your parliamentary party. That's what it is. That's who decides who the leader of the parliamentary party is. Just as it is true that caucus members of the Labor Party decide who the leader of the Labor Party is, on this side of the House, the parliamentary party has made its decision.
+
+
+I recall many years ago being at the Sydney Entertainment Centre and listening to a presentation from Norman Schwarzkopf, and he said:
+
+
+When placed in command, take charge.
+
+
+That's what I propose to do, to take charge to ensure that we continue the stable government that has delivered the strong economy that has seen a million people come into work since we were elected in 2013; that has seen bulk-billing rates rise to record highs under Medicare; to ensure that we're delivering record funding for schools and for hospitals; and to ensure that we're putting young people in jobs. Ninety-five thousand five hundred people got a job in 2017-18. That is the strongest jobs growth in 30 years for young people.
+
+
+
+Honourable members interjecting—
+
+
+
+The SPEAKER:  The Prime Minister will resume his seat. Members on both sides will cease interjecting. The Leader of the Opposition on a point of order.
+
+
+
+
+Mr Shorten:
+  My point of order is relevance. The Australian people deserve an answer. Why did you change the Prime Minister?
+
+
+
+The SPEAKER:  The Prime Minister has the call.
+
+
+
+
+Mr MORRISON:
+  I thank the member for his interjection. He must be a little hard of hearing. His ears must be painted on. That's what we see from this Leader of the Opposition. As he roams around the country, he's doing a lot of talking and he's doing a lot of promising but he's not doing a lot of listening. I made it pretty clear: the privilege of serving as the leader of the Liberal Party is a decision of the parliamentary party, and they have made their decision. I have accepted their decision and, more than that, I have decided to take charge of that situation and deliver the strong economic growth, the even stronger Australia that we've been delivering now for five years. That is three simple points: keeping our economy strong, keeping Australians safe and keeping Australians together. That's my plan, and Australian will be backing it.
+
+
+
+Honourable members interjecting—
+
+
+
+The SPEAKER:  Members cease interjecting. I'm just going to make very clear—I realise members are in a mood to interject, but I will not incessantly warn members. I will simply eject those who are regular offenders. 
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Liberal Party Leadership</title>,QUESTIONS WITHOUT NOTICE,19,1,answer
+"Bandt, Adam, MP",AG,2018-09-10,"
+
+
+
+Mr BANDT
+ (Melbourne) (14:28):  My question is to the Prime Minister. When I asked him on 27 March this year, the Minister for Home Affairs categorically ruled out any personal connection or other relationship with the intended employers in the au pair stories. He went on to say, 'I don't know these people'. He later publicly confirmed he does know one of them, calling him a former police colleague that he worked with over a period of two years. TV news aired a photo, apparently, of the two of them together, and this morning in parliament the minister even implied that they spoke to each other while working together but simply hadn't spoken since that time. Prime Minister, hasn't the minister clearly misled parliament? Isn't this a clear breach of your ministerial standards? Will you now dismiss him? 
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Minister for Home Affairs</title>,QUESTIONS WITHOUT NOTICE,21,1,question
+"Morrison, Scott, MP",LP,2018-09-10,"
+
+
+
+Mr MORRISON
+ (Cook—Prime Minister) (14:29):  No.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Minister for Home Affairs</title>,QUESTIONS WITHOUT NOTICE,21,1,answer
 "Burke, Tony, MP",ALP,2018-09-10,"
 
 
@@ -1484,7 +1557,7 @@ The SPEAKER:  The Manager of Opposition Business on indulgence.
 Mr BURKE:
   With respect to the Minister for Home Affairs, there have been three different issues of misrepresentation. On one of those issues, which related to the question asked by the member for Melbourne, the comments I made in the House this morning were based on a transcript that had errors in it. I take full responsibility for it. I stand by the other parts but, for that part of it, I apologise to the Minister for Home Affairs.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Minister for Home Affairs</title>,STATEMENTS ON INDULGENCE,22,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Minister for Home Affairs</title>,STATEMENTS ON INDULGENCE,22,1,speech
 "Smith, Tony, MP",LP,2018-09-10,"
 
 
@@ -1495,7 +1568,7 @@ The SPEAKER
 
 Documents made parliamentary papers in accordance with the resolution agreed to on 28 March 2018.
 
-",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,"<title>Report No. 4 of 2018-19, Report No. 5 of 2018-19</title>",AUDITOR-GENERAL'S REPORTS,26,1
+",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,"<title>Report No. 4 of 2018-19, Report No. 5 of 2018-19</title>",AUDITOR-GENERAL'S REPORTS,26,1,speech
 "Smith, Tony, MP",LP,2018-09-10,"
 
 
@@ -1503,7 +1576,7 @@ Documents made parliamentary papers in accordance with the resolution agreed to 
 The SPEAKER
  (15:43):  Order! I've received a message from the Senate informing the House that on 27 June 2018 Senator Stoker was discharged from the Joint Committee of Public Accounts and Audit and Senator Martin was appointed a member of the committee.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,29,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,29,1,speech
 "Smith, Tony, MP",LP,2018-09-10,"
 
 
@@ -1511,7 +1584,7 @@ The SPEAKER
 The SPEAKER
  (15:43):  Order! I've received a message from the Senate informing the House that on 27 June 2018 Senator Stoker was discharged from the Joint Committee of Public Accounts and Audit and Senator Martin was appointed a member of the committee.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,29,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,29,2,speech
 "Pyne, Christopher, MP",LP,2018-09-10,"
 
 
@@ -1522,7 +1595,7 @@ Mr PYNE
 
 That the second reading be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Animal Export Legislation Amendment (Ending Long-haul Live Sheep Exports) Bill 2018</title>,BILLS,30,1
+",HoR,<title>BILLS</title>,<title>Animal Export Legislation Amendment (Ending Long-haul Live Sheep Exports) Bill 2018</title>,BILLS,30,1,speech
 "Burke, Tony, MP",ALP,2018-09-10,"
 
 
@@ -1569,7 +1642,7 @@ The DEPUTY SPEAKER
 Mr Andrews
 ):  Is the amendment seconded? 
 
-",HoR,<title>BILLS</title>,<title>Animal Export Legislation Amendment (Ending Long-haul Live Sheep Exports) Bill 2018</title>,BILLS,30,1
+",HoR,<title>BILLS</title>,<title>Animal Export Legislation Amendment (Ending Long-haul Live Sheep Exports) Bill 2018</title>,BILLS,30,1,speech
 "Fitzgibbon, Joel, MP",ALP,2018-09-10,"
 
 
@@ -1592,7 +1665,7 @@ The members for Farrer and Corangamite, stoically supported by the member for La
 
 The Leader of the House is indicating to me that if I leave my comments at this point, members of the crossbench will have an opportunity to make a contribution, and I will give way to them. I thank the Leader of the House.
 
-",HoR,<title>BILLS</title>,<title>Animal Export Legislation Amendment (Ending Long-haul Live Sheep Exports) Bill 2018</title>,BILLS,30,1
+",HoR,<title>BILLS</title>,<title>Animal Export Legislation Amendment (Ending Long-haul Live Sheep Exports) Bill 2018</title>,BILLS,30,1,speech
 "Bandt, Adam, MP",AG,2018-09-10,"
 
 
@@ -1624,7 +1697,7 @@ As someone who spent many, many years in Fremantle, you know what it's like when
 
 I'll just say once more to anyone with a good heart in this place who believes that it is time to act to stop the suffering, now is your chance. If you don't vote for this amendment, we will remind everyone about it right up until election day. If you don't vote for this, every promise that you've made about standing up for animals counts for absolutely nothing.
 
-",HoR,<title>BILLS</title>,<title>Animal Export Legislation Amendment (Ending Long-haul Live Sheep Exports) Bill 2018</title>,BILLS,30,1
+",HoR,<title>BILLS</title>,<title>Animal Export Legislation Amendment (Ending Long-haul Live Sheep Exports) Bill 2018</title>,BILLS,30,1,speech
 "Wilkie, Andrew, MP",IND,2018-09-10,"
 
 
@@ -1650,7 +1723,7 @@ And there's the issue that someone else will fill the gap—that, if we don't se
 
 If I had my way, we'd shut the whole live animal export industry down this afternoon because the only way to end the cruelty is to end the industry. But, if we're not going to do that, then let's at least phase out, over five years, the sheep exports to the Middle East—ban them completely at the height of summer and be done with them in five years. That is enough time, particularly with some government assistance, for the sheep export industry, especially in WA, to prepare for that transition. If nothing else, let's at least debate the issue. That's why I think that everyone in this House with any common sense and any decency should get behind the opposition's motion to at least schedule the bill that has come from the Senate, because the Manager of Opposition Business is quite correct: if we don't debate this bill shortly, then nothing will be debated. Like so much else that's said in this chamber in all of those grand speeches and all those wonderful press conferences, with all of those looks of anguish, will amount to nothing. Then we'll wonder why the community still has no time for politicians. It's because the community thinks that words are worthless unless they're backed up by action. Why doesn't this parliament for once do something in the public interest and for once represent the majority of the community? Let's pass this motion, let's schedule this bill and let's have a debate of ideas because I'm quite confident that, in a debate of ideas, the best idea will win and we will decide to back the bill that's come from the Senate and we'll at least wind up the sheep exports to the Middle East.
 
-",HoR,<title>BILLS</title>,<title>Animal Export Legislation Amendment (Ending Long-haul Live Sheep Exports) Bill 2018</title>,BILLS,30,1
+",HoR,<title>BILLS</title>,<title>Animal Export Legislation Amendment (Ending Long-haul Live Sheep Exports) Bill 2018</title>,BILLS,30,1,speech
 "Sharkie, Rebekha, MP",CA,2018-09-10,"
 
 
@@ -1701,7 +1774,7 @@ I would say that they will be hollow words if the member for Farrer does not sup
 
 A couple of weeks ago we all saw, in the media, the Prime Minister give lapel pins of the Australian flag to his new frontbench. He said that they were to remind everybody that they're there for the Australian people. Let me say this to the government: if you are genuinely there for the Australian people, you will allow this bill to be debated and you will support this motion. We need to restore the faith of the Australian community, and this is one very good way to do it.
 
-",HoR,<title>BILLS</title>,<title>Animal Export Legislation Amendment (Ending Long-haul Live Sheep Exports) Bill 2018</title>,BILLS,30,1
+",HoR,<title>BILLS</title>,<title>Animal Export Legislation Amendment (Ending Long-haul Live Sheep Exports) Bill 2018</title>,BILLS,30,1,speech
 "Katter, Bob, MP",KAP,2018-09-10,"
 
 
@@ -1749,7 +1822,7 @@ If you think you are going to help the meatworkers, think again. We are now figh
 
 The SPEAKER:  The original question was that the motion be agreed to. To this the Manager of Opposition Business has moved as an amendment that the words 'the next sitting' be omitted with a view to substituting other words. The question now is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Animal Export Legislation Amendment (Ending Long-haul Live Sheep Exports) Bill 2018</title>,BILLS,30,1
+",HoR,<title>BILLS</title>,<title>Animal Export Legislation Amendment (Ending Long-haul Live Sheep Exports) Bill 2018</title>,BILLS,30,1,speech
 "Smith, Tony, MP",LP,2018-09-10,"
 
 
@@ -1757,7 +1830,7 @@ The SPEAKER:  The original question was that the motion be agreed to. To this th
 The SPEAKER
  (16:44):  The question is that the original motion moved by the Leader of the House be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Animal Export Legislation Amendment (Ending Long-haul Live Sheep Exports) Bill 2018</title>,BILLS,30,1
+",HoR,<title>BILLS</title>,<title>Animal Export Legislation Amendment (Ending Long-haul Live Sheep Exports) Bill 2018</title>,BILLS,30,1,speech
 "Pyne, Christopher, MP",LP,2018-09-10,"
 
 
@@ -1768,7 +1841,7 @@ Mr PYNE
 
 That the second reading be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2
+",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2,speech
 "Burke, Tony, MP",ALP,2018-09-10,"
 
 
@@ -1815,7 +1888,7 @@ The DEPUTY SPEAKER
 Mr Andrews
 ):  Is the amendment seconded? 
 
-",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2
+",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2,speech
 "Fitzgibbon, Joel, MP",ALP,2018-09-10,"
 
 
@@ -1838,7 +1911,7 @@ The members for Farrer and Corangamite, stoically supported by the member for La
 
 The Leader of the House is indicating to me that if I leave my comments at this point, members of the crossbench will have an opportunity to make a contribution, and I will give way to them. I thank the Leader of the House.
 
-",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2
+",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2,speech
 "Bandt, Adam, MP",AG,2018-09-10,"
 
 
@@ -1870,7 +1943,7 @@ As someone who spent many, many years in Fremantle, you know what it's like when
 
 I'll just say once more to anyone with a good heart in this place who believes that it is time to act to stop the suffering, now is your chance. If you don't vote for this amendment, we will remind everyone about it right up until election day. If you don't vote for this, every promise that you've made about standing up for animals counts for absolutely nothing.
 
-",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2
+",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2,speech
 "Wilkie, Andrew, MP",IND,2018-09-10,"
 
 
@@ -1896,7 +1969,7 @@ And there's the issue that someone else will fill the gap—that, if we don't se
 
 If I had my way, we'd shut the whole live animal export industry down this afternoon because the only way to end the cruelty is to end the industry. But, if we're not going to do that, then let's at least phase out, over five years, the sheep exports to the Middle East—ban them completely at the height of summer and be done with them in five years. That is enough time, particularly with some government assistance, for the sheep export industry, especially in WA, to prepare for that transition. If nothing else, let's at least debate the issue. That's why I think that everyone in this House with any common sense and any decency should get behind the opposition's motion to at least schedule the bill that has come from the Senate, because the Manager of Opposition Business is quite correct: if we don't debate this bill shortly, then nothing will be debated. Like so much else that's said in this chamber in all of those grand speeches and all those wonderful press conferences, with all of those looks of anguish, will amount to nothing. Then we'll wonder why the community still has no time for politicians. It's because the community thinks that words are worthless unless they're backed up by action. Why doesn't this parliament for once do something in the public interest and for once represent the majority of the community? Let's pass this motion, let's schedule this bill and let's have a debate of ideas because I'm quite confident that, in a debate of ideas, the best idea will win and we will decide to back the bill that's come from the Senate and we'll at least wind up the sheep exports to the Middle East.
 
-",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2
+",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2,speech
 "Sharkie, Rebekha, MP",CA,2018-09-10,"
 
 
@@ -1947,7 +2020,7 @@ I would say that they will be hollow words if the member for Farrer does not sup
 
 A couple of weeks ago we all saw, in the media, the Prime Minister give lapel pins of the Australian flag to his new frontbench. He said that they were to remind everybody that they're there for the Australian people. Let me say this to the government: if you are genuinely there for the Australian people, you will allow this bill to be debated and you will support this motion. We need to restore the faith of the Australian community, and this is one very good way to do it.
 
-",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2
+",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2,speech
 "Katter, Bob, MP",KAP,2018-09-10,"
 
 
@@ -1995,7 +2068,7 @@ If you think you are going to help the meatworkers, think again. We are now figh
 
 The SPEAKER:  The original question was that the motion be agreed to. To this the Manager of Opposition Business has moved as an amendment that the words 'the next sitting' be omitted with a view to substituting other words. The question now is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2
+",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2,speech
 "Smith, Tony, MP",LP,2018-09-10,"
 
 
@@ -2003,7 +2076,7 @@ The SPEAKER:  The original question was that the motion be agreed to. To this th
 The SPEAKER
  (16:44):  The question is that the original motion moved by the Leader of the House be agreed to.
 
-",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2
+",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,30,2,speech
 "Dutton, Peter, MP",LP,2018-09-10,"
 
 
@@ -2011,7 +2084,7 @@ The SPEAKER
 Mr DUTTON
  (Dickson—Minister for Home Affairs) (17:07):  During the course of question time today, in response to a question from the member for Blair, I undertook to table an email this afternoon. I seek to do so now. 
 
-",HoR,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Minister for Home Affairs</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,32,1
+",HoR,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Minister for Home Affairs</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,32,1,speech
 "Bird, Sharon (The DEPUTY SPEAKER)",ALP,2018-09-10,"
 
 
@@ -2022,7 +2095,7 @@ The DEPUTY SPEAKER
 Ms Bird
 ) (17:09):  The question before the chair is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,33,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,33,1,speech
 "Crewther, Chris, MP",LP,2018-09-10,"
 
 
@@ -2057,7 +2130,7 @@ As I said, this is about keeping the victims of family violence safe. We must co
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,33,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,33,1,speech
 "Bird, Sharon (The DEPUTY SPEAKER)",ALP,2018-09-10,"
 
 
@@ -2068,7 +2141,7 @@ The DEPUTY SPEAKER
 Ms Bird
 ) (17:09):  The question before the chair is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2,speech
 "Crewther, Chris, MP",LP,2018-09-10,"
 
 
@@ -2103,7 +2176,7 @@ As I said, this is about keeping the victims of family violence safe. We must co
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2,speech
 "Collins, Julie, MP",ALP,2018-09-10,"
 
 
@@ -2138,7 +2211,7 @@ The DEPUTY SPEAKER
 Ms Bird
 ):  I thank the member.
 
-",HoR,<title>DELEGATION REPORTS</title>,<title>Australian Parliamentary Delegation to Brazil and Chile</title>,DELEGATION REPORTS,34,1
+",HoR,<title>DELEGATION REPORTS</title>,<title>Australian Parliamentary Delegation to Brazil and Chile</title>,DELEGATION REPORTS,34,1,speech
 "Bird, Sharon (The DEPUTY SPEAKER)",ALP,2018-09-10,"
 
 
@@ -2149,7 +2222,7 @@ The DEPUTY SPEAKER
 Ms Bird
 ) (17:20):  The question is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1,speech
 "Neumann, Shayne, MP",ALP,2018-09-10,"
 
 
@@ -2211,7 +2284,7 @@ The government's stance in this instance is that cross-examination simply cannot
 
 Labor supports this important reform in principle, but the government needs to come to the table and provide Legal Aid with the funds it needs to allow the scheme to operate. Labor is committed to an Australia that is free from domestic and family violence, to a legal aid system that is fair, just and appropriately funded and to a court system that provides justice for all. We've listened to stakeholders and we've supported reform, and I hope the government will do the same. I await the Attorney-General's announcement on funding towards this significant transformation to the family law system.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1,speech
 "Falinski, Jason, MP",LP,2018-09-10,"
 
 
@@ -2249,7 +2322,7 @@ In New South Wales we have seen rates of domestic violence decrease. There are, 
 
 This legislation will have a positive effect that will spread throughout the mechanisms that we have and the legal system in our community by reducing stress on victims and, in doing so, allowing those people to get on with their lives and ensure that they can get back on their feet, rather than continuing to mire them in legal processes that so many in the legal profession think that their clients want and, indeed, need. It will also help children. It will also alleviate the pressure on already strained domestic and family violence support services by helping people get back on their feet and get out of the system, and not help them continue to dwell in it. I think that the Attorney-General deserves great credit for this bill that he has brought to the House. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1,speech
 "Hayes, Chris, MP",ALP,2018-09-10,"
 
 
@@ -2311,7 +2384,7 @@ We do think that the government should be acting quickly to explain how it expec
 
 Labor will always remain committed to be an Australia free from domestic and family violence. We think this is a measure going to that and we support it on that basis, but we ask the government to consider the amendment of the shadow Attorney-General. We need these measures appropriately and properly funded.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1,speech
 "McGowan, Cathy, MP",IND,2018-09-10,"
 
 
@@ -2368,7 +2441,7 @@ Colleagues, it gives me enormous personal pleasure and great pride to be able to
 
 To the people of Australia, I say: trust us because, sometimes—more often than not—we really can deliver the changes that we need to fix up the problems in the system and to be the representatives that you really want us to be. So, Eleanor, thank you for your work, for your dedication and for the persistence you've shown in being such a strong spokesperson, and to my colleagues: I look forward to your support with this legislation tonight.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1,speech
 "Keogh, Matt, MP",ALP,2018-09-10,"
 
 
@@ -2418,7 +2491,7 @@ To that end, I note positively that the now Attorney-General has made comments t
 
 I was calling in 2015 for this government to get on with the job of proper support for victims of family and domestic violence. Three prime ministers later—and indeed three years later—we now get around to debating this bill in this chamber. It still has to work its way through that other place as well, so I say this to the Attorney-General and to the government: you still have time to find that $43 million; I suggest that you do your absolute best in finding that money to make sure that, by the time this legislation passes the Senate, there is proper legal aid funding and resources to support this much-needed and unfortunately much-delayed legislation.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1,speech
 "O'Toole, Cathy, MP",ALP,2018-09-10,"
 
 
@@ -2462,7 +2535,7 @@ The Council of Single Mothers and their Children also highlighted this issue, st
 
 I want to acknowledge the work and dedication of my colleague shadow Attorney-General, Mark Dreyfus, whose continual lobbying and hard work has led Labor to put real commitment and real funding on the table for legal organisations. If people in this place are committed to real change in domestic and family violence, additional funding must be put on the table. Labor is committed to an Australia free from domestic and family violence. I call on the government to match Labor's funding of $43 million for legal aid. Addressing the legal issues associated with family and domestic violence is essential in reducing the fear, anxiety and stress associated with complex family law cases. Labor is clearly focused on the welfare of families, especially children, which is evident in the fact that Labor has committed the additional funding to the sector.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1,speech
 "Katter, Bob, MP",KAP,2018-09-10,"
 
 
@@ -2500,7 +2573,7 @@ I go back to the case of a mother who was deprived of her little seven-year-old 
 
 We commend the government on making this move. I think they've done it for all the right reasons. We also commend the opposition and the initiative taken by the shadow Attorney-General, because I think in this case it is very, very necessary.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1,speech
 "Husar, Emma, MP",ALP,2018-09-10,"
 
 
@@ -2553,7 +2626,7 @@ This government need to do a far better job of protecting women, and they are fa
 
 Family violence in Australia is not something that any of us should take lightly. We should provide more than rhetoric. We need to do better to combat this crisis where Australian women and families currently face being cross-examined. The current arrangement for women going through family law is inadequate and woeful. The times in the Family Court, the three-year delays for some of the most complex matters, and the associated high costs are barriers for some to even enter there—a barrier to even having their matter heard in the first place. I call on this government to match this bill with the $43 million of funding that it requires.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1,speech
 "Burney, Linda, MP",ALP,2018-09-10,"
 
 
@@ -2618,7 +2691,7 @@ For those who can afford legal representation, it can still present a significan
 
 It is absolutely imperative that the government attach some money to these changes. If not, things will grind to a halt and people will absolutely fall through the cracks. As the Leader and the Deputy Leader of the Opposition have said in their letter to the government regarding the issue of funding: 'The message, even from your own government's senators, is crystal clear. Without the necessary money, the reform is just an empty shell; an expression of good intentions with no practical effect.' I ask the government to give serious consideration to the question of funding, if we want to fully realise the intentions of this bill.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1,speech
 "Brodtmann, Gai, MP",ALP,2018-09-10,"
 
 
@@ -2662,7 +2735,7 @@ We already know how this government feels about women. You don't need to look fu
 
 Labor supports the substance of this bill. That is why we have been calling for it for two years now. We committed to this important change ahead of the 2016 election and we recommitted to it on White Ribbon Day in November 2016. That commitment included $43 million for Legal Aid in order to facilitate the representation of under represented litigants. We made that funding commitment because we listened to stakeholders. We listened to women who were in abusive relationships, women trying to escape abusive relationships, women who had been victims of this cross-examination. We spoke to Legal Aid, legal societies, women's support services, rape crisis services. We spoke to stakeholders long and extensively. They told us that this change could not be made on current funding levels. Labor will welcome any form of announcement from the government to commit to additional funding to support this bill. We encourage the government, we beg the government to invest in Legal Aid and to fund to properly fund this legislation—not with reheated money, but with new money, with significant funding to ensure that people actually have access to their legal rights, particularly those women who are fleeing domestic violence relationships, fleeing hardship, fleeing horrible consequences in their homes. We ask the government, please, please commit the funding so that we do not have already stretched Legal Aid services and support services being flooded with the changes that arise from this bill. 
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1,speech
 "Wood, Jason, MP",LP,2018-09-10,"
 
 
@@ -2703,7 +2776,7 @@ So there are safeguards in place to ensure that, if it's a situation where there
 
 I fully support this legislation, and I acknowledge that both sides are supportive. I make the final point that I have been a very strong advocate of community legal centres of Victoria and have been able to secure funding for them in the past.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1,speech
 "Kelly, Craig, MP",LP,2018-09-10,"
 
 
@@ -2717,7 +2790,7 @@ There is quite a bit of work that we need to do, and I'm very glad that the Atto
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1
+",HoR,<title>BILLS</title>,<title>Family Law Amendment (Family Violence and Cross-examination of Parties) Bill 2018</title>,BILLS,35,1,speech
 "Bird, Sharon (The DEPUTY SPEAKER)",ALP,2018-09-10,"
 
 
@@ -2728,7 +2801,7 @@ The DEPUTY SPEAKER
 Ms Bird
 ) (17:20):  The question is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2,speech
 "Neumann, Shayne, MP",ALP,2018-09-10,"
 
 
@@ -2790,7 +2863,7 @@ The government's stance in this instance is that cross-examination simply cannot
 
 Labor supports this important reform in principle, but the government needs to come to the table and provide Legal Aid with the funds it needs to allow the scheme to operate. Labor is committed to an Australia that is free from domestic and family violence, to a legal aid system that is fair, just and appropriately funded and to a court system that provides justice for all. We've listened to stakeholders and we've supported reform, and I hope the government will do the same. I await the Attorney-General's announcement on funding towards this significant transformation to the family law system.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2,speech
 "Falinski, Jason, MP",LP,2018-09-10,"
 
 
@@ -2828,7 +2901,7 @@ In New South Wales we have seen rates of domestic violence decrease. There are, 
 
 This legislation will have a positive effect that will spread throughout the mechanisms that we have and the legal system in our community by reducing stress on victims and, in doing so, allowing those people to get on with their lives and ensure that they can get back on their feet, rather than continuing to mire them in legal processes that so many in the legal profession think that their clients want and, indeed, need. It will also help children. It will also alleviate the pressure on already strained domestic and family violence support services by helping people get back on their feet and get out of the system, and not help them continue to dwell in it. I think that the Attorney-General deserves great credit for this bill that he has brought to the House. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2,speech
 "Hayes, Chris, MP",ALP,2018-09-10,"
 
 
@@ -2890,7 +2963,7 @@ We do think that the government should be acting quickly to explain how it expec
 
 Labor will always remain committed to be an Australia free from domestic and family violence. We think this is a measure going to that and we support it on that basis, but we ask the government to consider the amendment of the shadow Attorney-General. We need these measures appropriately and properly funded.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2,speech
 "McGowan, Cathy, MP",IND,2018-09-10,"
 
 
@@ -2947,7 +3020,7 @@ Colleagues, it gives me enormous personal pleasure and great pride to be able to
 
 To the people of Australia, I say: trust us because, sometimes—more often than not—we really can deliver the changes that we need to fix up the problems in the system and to be the representatives that you really want us to be. So, Eleanor, thank you for your work, for your dedication and for the persistence you've shown in being such a strong spokesperson, and to my colleagues: I look forward to your support with this legislation tonight.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2,speech
 "Keogh, Matt, MP",ALP,2018-09-10,"
 
 
@@ -2997,7 +3070,7 @@ To that end, I note positively that the now Attorney-General has made comments t
 
 I was calling in 2015 for this government to get on with the job of proper support for victims of family and domestic violence. Three prime ministers later—and indeed three years later—we now get around to debating this bill in this chamber. It still has to work its way through that other place as well, so I say this to the Attorney-General and to the government: you still have time to find that $43 million; I suggest that you do your absolute best in finding that money to make sure that, by the time this legislation passes the Senate, there is proper legal aid funding and resources to support this much-needed and unfortunately much-delayed legislation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2,speech
 "O'Toole, Cathy, MP",ALP,2018-09-10,"
 
 
@@ -3041,7 +3114,7 @@ The Council of Single Mothers and their Children also highlighted this issue, st
 
 I want to acknowledge the work and dedication of my colleague shadow Attorney-General, Mark Dreyfus, whose continual lobbying and hard work has led Labor to put real commitment and real funding on the table for legal organisations. If people in this place are committed to real change in domestic and family violence, additional funding must be put on the table. Labor is committed to an Australia free from domestic and family violence. I call on the government to match Labor's funding of $43 million for legal aid. Addressing the legal issues associated with family and domestic violence is essential in reducing the fear, anxiety and stress associated with complex family law cases. Labor is clearly focused on the welfare of families, especially children, which is evident in the fact that Labor has committed the additional funding to the sector.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2,speech
 "Katter, Bob, MP",KAP,2018-09-10,"
 
 
@@ -3079,7 +3152,7 @@ I go back to the case of a mother who was deprived of her little seven-year-old 
 
 We commend the government on making this move. I think they've done it for all the right reasons. We also commend the opposition and the initiative taken by the shadow Attorney-General, because I think in this case it is very, very necessary.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2,speech
 "Husar, Emma, MP",ALP,2018-09-10,"
 
 
@@ -3132,7 +3205,7 @@ This government need to do a far better job of protecting women, and they are fa
 
 Family violence in Australia is not something that any of us should take lightly. We should provide more than rhetoric. We need to do better to combat this crisis where Australian women and families currently face being cross-examined. The current arrangement for women going through family law is inadequate and woeful. The times in the Family Court, the three-year delays for some of the most complex matters, and the associated high costs are barriers for some to even enter there—a barrier to even having their matter heard in the first place. I call on this government to match this bill with the $43 million of funding that it requires.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2,speech
 "Burney, Linda, MP",ALP,2018-09-10,"
 
 
@@ -3197,7 +3270,7 @@ For those who can afford legal representation, it can still present a significan
 
 It is absolutely imperative that the government attach some money to these changes. If not, things will grind to a halt and people will absolutely fall through the cracks. As the Leader and the Deputy Leader of the Opposition have said in their letter to the government regarding the issue of funding: 'The message, even from your own government's senators, is crystal clear. Without the necessary money, the reform is just an empty shell; an expression of good intentions with no practical effect.' I ask the government to give serious consideration to the question of funding, if we want to fully realise the intentions of this bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2,speech
 "Brodtmann, Gai, MP",ALP,2018-09-10,"
 
 
@@ -3241,7 +3314,7 @@ We already know how this government feels about women. You don't need to look fu
 
 Labor supports the substance of this bill. That is why we have been calling for it for two years now. We committed to this important change ahead of the 2016 election and we recommitted to it on White Ribbon Day in November 2016. That commitment included $43 million for Legal Aid in order to facilitate the representation of under represented litigants. We made that funding commitment because we listened to stakeholders. We listened to women who were in abusive relationships, women trying to escape abusive relationships, women who had been victims of this cross-examination. We spoke to Legal Aid, legal societies, women's support services, rape crisis services. We spoke to stakeholders long and extensively. They told us that this change could not be made on current funding levels. Labor will welcome any form of announcement from the government to commit to additional funding to support this bill. We encourage the government, we beg the government to invest in Legal Aid and to fund to properly fund this legislation—not with reheated money, but with new money, with significant funding to ensure that people actually have access to their legal rights, particularly those women who are fleeing domestic violence relationships, fleeing hardship, fleeing horrible consequences in their homes. We ask the government, please, please commit the funding so that we do not have already stretched Legal Aid services and support services being flooded with the changes that arise from this bill. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2,speech
 "Wood, Jason, MP",LP,2018-09-10,"
 
 
@@ -3282,7 +3355,7 @@ So there are safeguards in place to ensure that, if it's a situation where there
 
 I fully support this legislation, and I acknowledge that both sides are supportive. I make the final point that I have been a very strong advocate of community legal centres of Victoria and have been able to secure funding for them in the past.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2,speech
 "Kelly, Craig, MP",LP,2018-09-10,"
 
 
@@ -3296,7 +3369,7 @@ There is quite a bit of work that we need to do, and I'm very glad that the Atto
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,35,2,speech
 "Swan, Wayne, MP",ALP,2018-09-10,"
 
 
@@ -3316,7 +3389,7 @@ Where governments didn't act like ours did, either by providing stimulus that wa
 
 In 2008, Labor was facing the choice between a recession and a deficit. I feared then as I fear now, that facing the same choice, the coalition would give us both. Let's hope, if the worst happens, that we remember the importance of international coordination and gather the political courage to take the critical fiscal and financial regulatory actions to avoid the next recession. Ten years on from the GFC, we do need a new conversation about what we can learn from the past and what we must do in the future, and that's why it's important that, when these matters are analysed, we don't get partial explanations of what happened, such as was provided by the Financial Review on the weekend.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Economy</title>,ADJOURNMENT,36,1
+",HoR,<title>ADJOURNMENT</title>,<title>Economy</title>,ADJOURNMENT,36,1,speech
 "Claydon, Sharon, MP",ALP,2018-09-10,"
 
 
@@ -3330,7 +3403,7 @@ I'm pleased that my home city of Newcastle is one of the first trial sites for t
 
 While organisations and services have a role in preventing suicide, so does every community member. We know that people will often talk to a family member, friend or colleague first. Each and every one of us needs to know how to ask that question: 'Are you thinking about suicide?' And we need to know what to do if someone says: 'Yes, I am.' We want at least 6,000 members of our community in Newcastle to sign up to do what is known as the QPR—or Question, Persuade and Refer. This one-hour online training module helps people build the knowledge, confidence and skills to recognise and respond to a suicide crisis. Just as we all know the benefits of CPR, we also need to know QPR skills. We know people who are struggling can reach out to anyone at any time, including us as local members. (Time expired)
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Newcastle Electorate: World Suicide Prevention Day</title>,CONSTITUENCY STATEMENTS,38,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Newcastle Electorate: World Suicide Prevention Day</title>,CONSTITUENCY STATEMENTS,38,1,speech
 "Hayes, Chris, MP",ALP,2018-09-10,"
 
 
@@ -3359,7 +3432,7 @@ This is a cut of up to $77 a week for the lowest paid workers—people in retail
 
 This is a government that is hopelessly out of touch. This is a government that does not understand what it is that working families need to do to put food on the table, to make a difference in the lives of workers and their families. The government doesn't know what it needs to do to assist these families in the long run. We've seen what the government wants to do in terms of education. We've seen what it wants to do about health. Now we see what it wants to do about moving the parameters towards big business and not working families. This is just another example that this government is out of touch. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,39,1
+",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,39,1,speech
 "Claydon, Sharon, MP",ALP,2018-09-10,"
 
 
@@ -3382,7 +3455,7 @@ If Mr Morrison is genuine about being on the side of Australians, he needs to st
 
 Whatever happens here today, one thing is crystal clear: Labor will restore the penalty rates of up to 700,000 Australian workers. Not only that but we're going to reform the Fair Work Act to put the bargain back into enterprise bargaining. We will call time on the exploitation of so-called permanent casuals. We'll lead a national crackdown on dodgy labour hire companies and ensure that those who do the same job get the same pay. While the Liberals are determined to back the privileged and the powerful, only Labor looks after Australian workers.
 
-",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,39,1
+",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,39,1,speech
 "Bird, Sharon, MP",ALP,2018-09-10,"
 
 
@@ -3424,7 +3497,7 @@ The DEPUTY SPEAKER
 Mr S Georganas
 ):  There being no further speakers, the debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,39,1
+",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,39,1,speech
 "Hayes, Chris, MP",ALP,2018-09-10,"
 
 
@@ -3453,7 +3526,7 @@ This is a cut of up to $77 a week for the lowest paid workers—people in retail
 
 This is a government that is hopelessly out of touch. This is a government that does not understand what it is that working families need to do to put food on the table, to make a difference in the lives of workers and their families. The government doesn't know what it needs to do to assist these families in the long run. We've seen what the government wants to do in terms of education. We've seen what it wants to do about health. Now we see what it wants to do about moving the parameters towards big business and not working families. This is just another example that this government is out of touch. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,39,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,39,2,speech
 "Claydon, Sharon, MP",ALP,2018-09-10,"
 
 
@@ -3476,7 +3549,7 @@ If Mr Morrison is genuine about being on the side of Australians, he needs to st
 
 Whatever happens here today, one thing is crystal clear: Labor will restore the penalty rates of up to 700,000 Australian workers. Not only that but we're going to reform the Fair Work Act to put the bargain back into enterprise bargaining. We will call time on the exploitation of so-called permanent casuals. We'll lead a national crackdown on dodgy labour hire companies and ensure that those who do the same job get the same pay. While the Liberals are determined to back the privileged and the powerful, only Labor looks after Australian workers.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,39,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,39,2,speech
 "Bird, Sharon, MP",ALP,2018-09-10,"
 
 
@@ -3518,7 +3591,7 @@ The DEPUTY SPEAKER
 Mr S Georganas
 ):  There being no further speakers, the debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,39,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,39,2,speech
 "Prentice, Jane, MP",LP,2018-09-10,"
 
 
@@ -3541,7 +3614,7 @@ I have not mentioned Labor's contribution to Defence during my speech because, w
 
 Australia's defence industry has a range of world-leading capabilities and is well positioned to meet our current and future capability needs. The coalition government is ensuring that our ADF, whether it is the Army, the Air Force or the Navy, has the capabilities to keep us safe in the 21st century. To do this we rely on the skills and expertise of Australian small businesses, and I encourage all of them to explore opportunities to supply their products and services to the ADF. I thank my colleague the member for Fisher for this motion and look forward to working with Queensland counterparts to encourage and grow private sector involvement in the defence industries. I commend this motion to the House.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Defence Industry</title>,PRIVATE MEMBERS' BUSINESS,40,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Defence Industry</title>,PRIVATE MEMBERS' BUSINESS,40,1,speech
 "O'Toole, Cathy, MP",ALP,2018-09-10,"
 
 
@@ -3564,7 +3637,7 @@ But Labor hasn't stopped there in announcing policies that will support our curr
 
 I want to acknowledge the strong advocacy work of ex-service organisations, particularly ADSO, and especially local Townsville advocate Ray Martin, whose work and advocacy for the defence covenant over the last nine years must be recognised in this place. Those who put their lives on hold to serve our country deserve to know that we acknowledge the sacrifice they and their families have made in serving our nation and that we are committed to being there for them in their time of need. Signing the covenant builds on Labor's previous commitments to the current and ex-serving Defence community, including our $121 million veterans employment policy and our family engagement and support strategy. I call on this government to make a bipartisan commitment to getting behind Labor's policies. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Defence Industry</title>,PRIVATE MEMBERS' BUSINESS,40,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Defence Industry</title>,PRIVATE MEMBERS' BUSINESS,40,1,speech
 "Van Manen, Bert, MP",LP,2018-09-10,"
 
 
@@ -3584,7 +3657,7 @@ Australia currently ranks 13th in the world for defence expenditure, but is only
 
 Overall, this shows that it's the government's commitment to ensure that Australian small and medium-sized businesses have an opportunity, through the defence industry statement and through the Centre for Defence Industry Capability, to take part in the opportunities that will be created through a $200 billion long-term investment in building our national defence capabilities. Once again, it is a practical example of this government delivering what is needed for our country on an everyday basis to ensure we have jobs and a growing economy.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Defence Industry</title>,PRIVATE MEMBERS' BUSINESS,40,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Defence Industry</title>,PRIVATE MEMBERS' BUSINESS,40,1,speech
 "Brodtmann, Gai, MP",ALP,2018-09-10,"
 
 
@@ -3624,7 +3697,7 @@ to
 11:43
 
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Defence Industry</title>,PRIVATE MEMBERS' BUSINESS,40,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Defence Industry</title>,PRIVATE MEMBERS' BUSINESS,40,1,speech
 "Gosling, Luke, MP",ALP,2018-09-10,"
 
 
@@ -3647,7 +3720,7 @@ Recently, I spoke to the AIDN-NT about the importance of doing business with the
 
 We're getting feedback from Territory businesses that we're on the right track in terms of getting more of a go for SMEs, but there's more that we can do. Territory businesses have really appreciated the opportunity to speak with the shadow minister for defence, Richard Marles the member for Corio. Territory businesses ultimately just want a level playing field. They're not asking for special treatment via special tax zones at this stage, but they know they can compete with the best that Australia and the world has to offer. With more of a level playing field, they will go from strength to strength, becoming an important part of our national defence industry network.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Defence Industry</title>,PRIVATE MEMBERS' BUSINESS,40,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Defence Industry</title>,PRIVATE MEMBERS' BUSINESS,40,1,speech
 "Kelly, Mike, MP",ALP,2018-09-10,"
 
 
@@ -3676,7 +3749,7 @@ The DEPUTY SPEAKER
 Ms Bird
 ):  There being no further speakers on the motion, the debate is adjourned. The resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Defence Industry</title>,PRIVATE MEMBERS' BUSINESS,40,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Defence Industry</title>,PRIVATE MEMBERS' BUSINESS,40,1,speech
 "Chesters, Lisa, MP",ALP,2018-09-10,"
 
 
@@ -3723,7 +3796,7 @@ They want to see our parliament act. Those are just some of the words of people 
 
 As I stated at the beginning, the media reports are correct, and both the mover and the seconder of this bill have now declared that they're abandoning their support for this bill. Where are we today? They should come in here and clarify their position.
 
-",HoR,<title>BILLS</title>,<title>Live Sheep Long Haul Export Prohibition Bill 2018</title>,BILLS,41,1
+",HoR,<title>BILLS</title>,<title>Live Sheep Long Haul Export Prohibition Bill 2018</title>,BILLS,41,1,speech
 "Georganas, Steve, MP",ALP,2018-09-10,"
 
 
@@ -3731,7 +3804,7 @@ As I stated at the beginning, the media reports are correct, and both the mover 
 Mr GEORGANAS
  (Hindmarsh) (11:59):  by leave—I know that I have already made some comments on the Live Sheep Long Haul Export Prohibition Bill 2018, but I think it's very important to restate some of those things. Many people who have spoken before and after me on this particular bill have highlighted the cruelty of this trade, the absolute horror that we have seen in TV and newspaper reports of these animals who are absolutely mistreated in scorching heat on these hell ships, where they die, get diseases and are not treated well. We should be very proud of the way we treat animals here in Australia. We should stop this trade immediately to ensure we can treat our animals in the right way to add value to the industry by processing those sheep here and exporting them to markets overseas.
 
-",HoR,<title>BILLS</title>,<title>Live Sheep Long Haul Export Prohibition Bill 2018</title>,BILLS,41,1
+",HoR,<title>BILLS</title>,<title>Live Sheep Long Haul Export Prohibition Bill 2018</title>,BILLS,41,1,speech
 "Perrett, Graham, MP",ALP,2018-09-10,"
 
 
@@ -3772,7 +3845,7 @@ The DEPUTY SPEAKER
 Ms Bird
 ):  There being no further speakers on this bill, the debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Live Sheep Long Haul Export Prohibition Bill 2018</title>,BILLS,41,1
+",HoR,<title>BILLS</title>,<title>Live Sheep Long Haul Export Prohibition Bill 2018</title>,BILLS,41,1,speech
 "Chesters, Lisa, MP",ALP,2018-09-10,"
 
 
@@ -3819,7 +3892,7 @@ They want to see our parliament act. Those are just some of the words of people 
 
 As I stated at the beginning, the media reports are correct, and both the mover and the seconder of this bill have now declared that they're abandoning their support for this bill. Where are we today? They should come in here and clarify their position.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,41,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,41,2,speech
 "Georganas, Steve, MP",ALP,2018-09-10,"
 
 
@@ -3827,7 +3900,7 @@ As I stated at the beginning, the media reports are correct, and both the mover 
 Mr GEORGANAS
  (Hindmarsh) (11:59):  by leave—I know that I have already made some comments on the Live Sheep Long Haul Export Prohibition Bill 2018, but I think it's very important to restate some of those things. Many people who have spoken before and after me on this particular bill have highlighted the cruelty of this trade, the absolute horror that we have seen in TV and newspaper reports of these animals who are absolutely mistreated in scorching heat on these hell ships, where they die, get diseases and are not treated well. We should be very proud of the way we treat animals here in Australia. We should stop this trade immediately to ensure we can treat our animals in the right way to add value to the industry by processing those sheep here and exporting them to markets overseas.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,41,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,41,2,speech
 "Perrett, Graham, MP",ALP,2018-09-10,"
 
 
@@ -3868,7 +3941,7 @@ The DEPUTY SPEAKER
 Ms Bird
 ):  There being no further speakers on this bill, the debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,41,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,41,2,speech
 "Sharkie, Rebekha, MP",CA,2018-09-10,"
 
 
@@ -3894,7 +3967,7 @@ Securing a shopfront in Mount Barker took months of campaigning by our community
 
 If the Morrison government is serious about the mental health of young people in the regions, it needs to commit to funding affordable and appropriate face-to-face services in the regions. The rollout of headspace services is not complete. We cannot say we have ticked this off. Many young people right across Australia are still desperately in need of face-to-face services. As I said, a phone call is simply not enough. We have a duty to support our young people in Australia, to provide them with the services and skills they need to equip them to become happy and productive members of our community. With the right supports for all young people, no matter their postcode, I believe our young Australians have the great capacity to live successful and fulfilling lives.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Mental Health</title>,PRIVATE MEMBERS' BUSINESS,42,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Mental Health</title>,PRIVATE MEMBERS' BUSINESS,42,1,speech
 "Gosling, Luke, MP",ALP,2018-09-10,"
 
 
@@ -3933,7 +4006,7 @@ Sitting
 29
 
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Mental Health</title>,PRIVATE MEMBERS' BUSINESS,42,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Mental Health</title>,PRIVATE MEMBERS' BUSINESS,42,1,speech
 "Keay, Justine, MP",ALP,2018-09-10,"
 
 
@@ -3971,7 +4044,7 @@ The DEPUTY SPEAKER
 Ms Vamvakinou
 ):  There being no further speakers, the debate is adjourned. The resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Mental Health</title>,PRIVATE MEMBERS' BUSINESS,42,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Mental Health</title>,PRIVATE MEMBERS' BUSINESS,42,1,speech
 "Claydon, Sharon, MP",ALP,2018-09-10,"
 
 
@@ -3982,7 +4055,7 @@ Ms CLAYDON
 
 Medical transfers should be determined by doctors, not politicians. We don't need a federal court order for Australia to fulfil or understand its duty of care. It's time for the new Prime Minister to step up. The health care and needs of refugees and children must be paramount. The time is up, new Prime Minister. Here's a great opportunity for you to learn from the errors of your past and set the record straight.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Immigration Detention</title>,STATEMENTS BY MEMBERS,43,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Immigration Detention</title>,STATEMENTS BY MEMBERS,43,1,speech
 "Georganas, Steve, MP",ALP,2018-09-10,"
 
 
@@ -4038,7 +4111,7 @@ The DEPUTY SPEAKER
 Mr Howarth
 ):  Is the motion seconded?
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Shipping Industry</title>,PRIVATE MEMBERS' BUSINESS,44,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Shipping Industry</title>,PRIVATE MEMBERS' BUSINESS,44,1,speech
 "Hill, Julian, MP",ALP,2018-09-10,"
 
 
@@ -4070,7 +4143,7 @@ What a business philosophy! To be clear, it also operates in Sudan. The US label
 
 Now we hear that this company is going to be seeking deals in other Australian ports. I say to any state and territory government who may be even thinking about awarding contracts to this company: think again. Just say no. Don't do it. This is not a company that Australian governments should be contracting with. Its human rights record and its antiworker attitude speak for themselves. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Shipping Industry</title>,PRIVATE MEMBERS' BUSINESS,44,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Shipping Industry</title>,PRIVATE MEMBERS' BUSINESS,44,1,speech
 "Keay, Justine, MP",ALP,2018-09-10,"
 
 
@@ -4099,7 +4172,7 @@ While I am very confident the community would not tolerate the sort of exploitat
 
 By any reasonable standard, the exploitation of developing nations and their people is abhorrent. It is intolerable. I commend ITF and the member for Hindmarsh for bringing this issue to the attention of the parliament. It is shameful that members of the government are not speaking on this important motion.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Shipping Industry</title>,PRIVATE MEMBERS' BUSINESS,44,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Shipping Industry</title>,PRIVATE MEMBERS' BUSINESS,44,1,speech
 "Wilson, Josh, MP",ALP,2018-09-10,"
 
 
@@ -4134,7 +4207,7 @@ The DEPUTY SPEAKER
 Mr Howarth
 ):  There being no further speakers, the debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Shipping Industry</title>,PRIVATE MEMBERS' BUSINESS,44,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Shipping Industry</title>,PRIVATE MEMBERS' BUSINESS,44,1,speech
 "Pitt, Keith, MP",Nats,2018-09-10,"
 
 
@@ -4157,7 +4230,7 @@ I have a foundry in my electorate which has been there for over 125 years. The b
 
 So in this place we need for put aside our ideological views. We need to stand up for what is necessary to build a better country, and that is cheap energy. Intermittent wind and solar have their place, and there are lots of places where they will help and reduce the cost, particularly where there is an engagement, for example, with diesel generation, because that is a stored fuel. But we should take those opportunities where the physics and engineering say that it will drive down the price. You cannot run this country on an intermittent supply through wind and solar. It doesn't matter what you may or may not believe in terms of your ideals—this is purely engineering and physics, and we have to make decisions based around those things. As a government, we need to decide how to drive that, and if the states don't want to get on board then we should dismantle the National Electricity Market.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,46,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,46,1,speech
 "O'Toole, Cathy, MP",ALP,2018-09-10,"
 
 
@@ -4201,7 +4274,7 @@ This was a huge missed opportunity for Townsville, and we cannot allow this to c
 
 Where the LNP have failed, Labor will deliver. That is why federal Labor has committed $200 million towards hydro on the Burdekin Falls Dam. Labor is getting on with the job of delivering on policies, with our plan to transition Australia's energy system to 50 per cent renewable energy by 2030. Australians are sick of the LNP government's lack of action on energy. My message to the LNP Morrison government is: you say you are getting on with the job, so let's see some action and get over the words. You have the numbers, so get on with the job and start doing your job. Develop energy policy and govern this great nation.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,46,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,46,1,speech
 "Wallace, Andrew, MP",LP,2018-09-10,"
 
 
@@ -4227,7 +4300,7 @@ As a Rhodes Scholar at Oxford, the minister researched the competition policy wh
 
 We have already turned a corner on power prices, with reductions announced in Queensland, New South Wales and, believe it or not, South Australia from 1 July 2018. Through the minister's and the former Prime Minister's tough actions, we secured more gas for Australians. This has driven down the cost of wholesale gas by as much as  up to 50 per cent. Some of us know that the price of electricity is linked to the wholesale price of gas, so we should start to see significant reductions in our electricity costs. And, if we don't, we need to start whacking the retailers because the retailers are gouging the market. I encourage everybody to shop around as much as they can.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,46,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,46,1,speech
 "Watts, Tim, MP",ALP,2018-09-10,"
 
 
@@ -4268,7 +4341,7 @@ Labor has real policies with real outcomes for all Australians. The core of our 
 
 When the Prime Minister presented each of his ministers with an Australian flag lapel pin, really he should have given each and every coalition MP a lump of coal like the one that he brought into the chamber—a lump of coal to remind the Australian people whose side the coalition is really on: the side of ideology and idiocy, as was so aptly put by the former Prime Minister. They were the parting words of the coalition's former leader as he gave up on his former colleagues and flew the country for a New York holiday.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,46,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,46,1,speech
 "Wilson, Tim, MP",LP,2018-09-10,"
 
 
@@ -4291,7 +4364,7 @@ While we have been doing it, and dealing with these real consequences for the Au
 
 At every point, this government has said, 'We will seek to solve these problems for the nation and for the people of Australia.' What we face at a state level is obstruction from the Queensland and Victorian state Labor governments. Now is the time to put an end to it, and we are doing so. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,46,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,46,1,speech
 "Stanley, Anne, MP",ALP,2018-09-10,"
 
 
@@ -4323,7 +4396,7 @@ The DEPUTY SPEAKER
 Mr Howarth
 ):  The time allotted for this debate has expired. The debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,46,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Energy</title>,PRIVATE MEMBERS' BUSINESS,46,1,speech
 "Snowdon, Warren, MP",ALP,2018-09-10,"
 
 
@@ -4346,7 +4419,7 @@ We're held captive because of a constitutional arrangement of over a century ago
 
 I don't think there is an argument here. I would just say to those people who have hidden behind euthanasia to vote against this legislation in the Senate: wise up and understand that every Australian deserves the same rights as you have in this place. If you're representing the ACT here, you don't have the same rights as someone from New South Wales. That is wrong. I should have the same rights as every other Australian. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Restoring Territory Rights Bill 2018</title>,BILLS,47,1
+",HoR,<title>BILLS</title>,<title>Restoring Territory Rights Bill 2018</title>,BILLS,47,1,speech
 "Brodtmann, Gai, MP",ALP,2018-09-10,"
 
 
@@ -4381,7 +4454,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  The time allotted for this debate has expired, and the debate is adjourned. The resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Restoring Territory Rights Bill 2018</title>,BILLS,47,1
+",HoR,<title>BILLS</title>,<title>Restoring Territory Rights Bill 2018</title>,BILLS,47,1,speech
 "Snowdon, Warren, MP",ALP,2018-09-10,"
 
 
@@ -4404,7 +4477,7 @@ We're held captive because of a constitutional arrangement of over a century ago
 
 I don't think there is an argument here. I would just say to those people who have hidden behind euthanasia to vote against this legislation in the Senate: wise up and understand that every Australian deserves the same rights as you have in this place. If you're representing the ACT here, you don't have the same rights as someone from New South Wales. That is wrong. I should have the same rights as every other Australian. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,47,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,47,2,speech
 "Brodtmann, Gai, MP",ALP,2018-09-10,"
 
 
@@ -4439,7 +4512,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  The time allotted for this debate has expired, and the debate is adjourned. The resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,47,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,47,2,speech
 "Keay, Justine, MP",ALP,2018-09-10,"
 
 
@@ -4477,7 +4550,7 @@ Many families have experienced all of the above. Rural Business Tasmania succinc
 
 When it comes to delivering farm household assistance, Labor knows it can and must be done better. This government has gutted Centrelink, contributing to the delays in accessing the farm household allowance. Labor will rebuild Centrelink by employing an additional 1,200 properly trained full-time staff. In my electorate of Braddon 50 Department of Human Services officers will be employed, with some given the specific responsibility of visiting regional communities as outreach. Many of these don't have access to reliable internet, thanks to this government, and many want to talk to people face to face to avoid the long, long wait on the phone. Unlike those opposite, who talk up a big game of supporting farmers, Labor will take practical steps to support the sector, to ensure farmers receive the support they deserve when crisis hits. And just maybe the member for Calare could say sorry on behalf of his government for ignoring Tasmanian farmers in their hour of need.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Farm Household Allowance</title>,PRIVATE MEMBERS' BUSINESS,48,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Farm Household Allowance</title>,PRIVATE MEMBERS' BUSINESS,48,1,speech
 "Byrne, Anthony, MP",ALP,2018-09-10,"
 
 
@@ -4540,4 +4613,38 @@ adjourned at
 
  
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Farm Household Allowance</title>,PRIVATE MEMBERS' BUSINESS,48,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Farm Household Allowance</title>,PRIVATE MEMBERS' BUSINESS,48,1,speech
+"Katter, Bob, MP",KAP,2018-09-10,"
+
+
+
+Mr Katter
+ To ask the Minister for the Environment 
+
+
+(1) Was it necessary for the Australian Government to collaborate with the states to introduce vegetation management laws in order to meet its Kyoto Protocol commitments.(2) Would it be possible for Australia to meet the Paris Agreement targets without the Queensland Government's recent amendments to the vegetation management laws.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Climate Change (Question No. 990)</title>,QUESTIONS IN WRITING,49,1,question
+"Price, Melissa, MP",LP,2018-09-10,"
+
+
+
+Ms Price:
+  The answer to the honourable member's questions is as follows:
+
+
+Australia's emissions reduction target in the second commitment period of the Kyoto Protocol is an economy wide reduction consistent with five per cent below 2000 levels by 2020. It does not imply a particular reduction in any particular sector or impose any specific obligation on state or territory governments. Emissions reductions in all sectors contribute to meeting this target. 
+
+
+Australia's first nationally determined contribution under the Paris Agreement, a reduction of 26-28 per cent below 2005 levels in 2030, is also an economy wide target. 
+
+
+The Australian Government's emissions reduction policies, including the Emissions Reduction Fund, targets low-cost emissions across the economy, including the land sector. 
+
+
+ 
+
+
+ 
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Climate Change (Question No. 990)</title>,QUESTIONS IN WRITING,49,1,answer

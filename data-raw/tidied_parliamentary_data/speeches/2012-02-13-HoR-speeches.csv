@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Murphy, John, MP",ALP,2012-02-13,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 Mr MURPHY
  (Reid) (10:03):  Ministerial responses to petitions previously presented to the House have been received as follows:
 
-",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,1,2
+",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,1,2,speech
 "Slipper, Peter, MP",Ind.,2012-02-13,"
 
 
@@ -14,7 +14,7 @@ Mr MURPHY
 The SPEAKER
  (10:09):  In accordance with standing order 41(g) and the determinations of the Selection Committee, I present copies of the terms of three motions for which notice has been given by the member for Lyne and copies of the terms of motions for which notice has been given by the members for Fowler, Melbourne, Banks, Kingston and Shortland. These items will be considered in the Main Committee later today.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Private Members' Motions</title>,PRIVATE MEMBERS' BUSINESS,3,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Private Members' Motions</title>,PRIVATE MEMBERS' BUSINESS,3,1,speech
 "Slipper, Peter, MP",Ind.,2012-02-13,"
 
 
@@ -22,7 +22,7 @@ The SPEAKER
 The SPEAKER
  (10:09):  In accordance with standing order 41(g) and the determinations of the Selection Committee, I present copies of the terms of three motions for which notice has been given by the member for Lyne and copies of the terms of motions for which notice has been given by the members for Fowler, Melbourne, Banks, Kingston and Shortland. These items will be considered in the Main Committee later today.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Reference to Main Committee</title>,PRIVATE MEMBERS' BUSINESS,3,2
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Reference to Main Committee</title>,PRIVATE MEMBERS' BUSINESS,3,2,speech
 "Wilkie, Andrew, MP",Ind.,2012-02-13,"
 
 
@@ -66,7 +66,7 @@ I sincerely thank all those who submitted material and I thank the witnesses for
 
 In accordance with standing order 39(f) the report was made a parliamentary paper.
 
-",HoR,<title>COMMITTEES</title>,<title>Gambling Reform Committee</title>,COMMITTEES,4,1
+",HoR,<title>COMMITTEES</title>,<title>Gambling Reform Committee</title>,COMMITTEES,4,1,speech
 "Champion, Nick, MP",ALP,2012-02-13,"
 
 
@@ -87,7 +87,7 @@ It is important that the committee continue its work. This is a very interesting
 
 The SPEAKER:  The time allotted for statements on this report has expired. Does the honourable member for Denison wish to move a motion in connection with the report to enable it to be debated on a later occasion?
 
-",HoR,<title>COMMITTEES</title>,<title>Gambling Reform Committee</title>,COMMITTEES,4,1
+",HoR,<title>COMMITTEES</title>,<title>Gambling Reform Committee</title>,COMMITTEES,4,1,speech
 "Wilkie, Andrew, MP",Ind.,2012-02-13,"
 
 
@@ -102,7 +102,7 @@ That the House take note of the report.
 
 The SPEAKER:  In accordance with standing order 39, the debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Gambling Reform Committee</title>,COMMITTEES,4,1
+",HoR,<title>COMMITTEES</title>,<title>Gambling Reform Committee</title>,COMMITTEES,4,1,speech
 "Wilkie, Andrew, MP",Ind.,2012-02-13,"
 
 
@@ -116,7 +116,7 @@ That the order of the day be referred to the Main Committee for debate.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Gambling Reform Committee</title>,COMMITTEES,4,1
+",HoR,<title>COMMITTEES</title>,<title>Gambling Reform Committee</title>,COMMITTEES,4,1,speech
 "Wilkie, Andrew, MP",Ind.,2012-02-13,"
 
 
@@ -160,7 +160,7 @@ I sincerely thank all those who submitted material and I thank the witnesses for
 
 In accordance with standing order 39(f) the report was made a parliamentary paper.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2,speech
 "Champion, Nick, MP",ALP,2012-02-13,"
 
 
@@ -181,7 +181,7 @@ It is important that the committee continue its work. This is a very interesting
 
 The SPEAKER:  The time allotted for statements on this report has expired. Does the honourable member for Denison wish to move a motion in connection with the report to enable it to be debated on a later occasion?
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2,speech
 "Wilkie, Andrew, MP",Ind.,2012-02-13,"
 
 
@@ -196,7 +196,7 @@ That the House take note of the report.
 
 The SPEAKER:  In accordance with standing order 39, the debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2,speech
 "Ripoll, Bernie, MP",ALP,2012-02-13,"
 
 
@@ -225,7 +225,7 @@ In conducting the inquiry, the committee received 53 submissions and it held one
 
 This inquiry was important because it did look at a particular area of consumer credit that is controversial. There no question about that. People have differing views across differing jurisdictions, particularly when we refer to payday lending. Generally, it would be accepted by most people that it has a bad name and there certainly are some players in that sector of the market that do the wrong thing. That is less and less becoming the case, and with better regulation we will find we have a properly regulated, properly managed and professional sector that can provide a service for a gap in the market for people who find themselves in need of a short-term, small-amount loan. If it is done properly, if it is regulated properly and if consumer protections are in place, then both can coexist: consumers can have access to a service and access to credit and they can be protected against unscrupulous operators, and we will still have a viable sector. That was the intent of the committee of inquiry and of the work of all the committee members. I commend the report to the House.
 
-",HoR,<title>BILLS</title>,<title>Consumer Credit and Corporations Legislation Amendment (Enhancements) Bill 2011</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Consumer Credit and Corporations Legislation Amendment (Enhancements) Bill 2011</title>,BILLS,5,1,speech
 "Fletcher, Paul, MP",LP,2012-02-13,"
 
 
@@ -248,7 +248,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ):  Order! The time allocated for this debate has expired.
 
-",HoR,<title>BILLS</title>,<title>Consumer Credit and Corporations Legislation Amendment (Enhancements) Bill 2011</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Consumer Credit and Corporations Legislation Amendment (Enhancements) Bill 2011</title>,BILLS,5,1,speech
 "Ripoll, Bernie, MP",ALP,2012-02-13,"
 
 
@@ -277,7 +277,7 @@ In conducting the inquiry, the committee received 53 submissions and it held one
 
 This inquiry was important because it did look at a particular area of consumer credit that is controversial. There no question about that. People have differing views across differing jurisdictions, particularly when we refer to payday lending. Generally, it would be accepted by most people that it has a bad name and there certainly are some players in that sector of the market that do the wrong thing. That is less and less becoming the case, and with better regulation we will find we have a properly regulated, properly managed and professional sector that can provide a service for a gap in the market for people who find themselves in need of a short-term, small-amount loan. If it is done properly, if it is regulated properly and if consumer protections are in place, then both can coexist: consumers can have access to a service and access to credit and they can be protected against unscrupulous operators, and we will still have a viable sector. That was the intent of the committee of inquiry and of the work of all the committee members. I commend the report to the House.
 
-",HoR,<title>BILLS</title>,<title>Report from Committee</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Report from Committee</title>,BILLS,5,2,speech
 "Fletcher, Paul, MP",LP,2012-02-13,"
 
 
@@ -300,7 +300,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ):  Order! The time allocated for this debate has expired.
 
-",HoR,<title>BILLS</title>,<title>Report from Committee</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Report from Committee</title>,BILLS,5,2,speech
 "Perrett, Graham, MP",ALP,2012-02-13,"
 
 
@@ -326,7 +326,7 @@ The committee will investigate effective prevention strategies to reduce the inc
 
 I look forward to contributions to this important inquiry, particularly from the member for Murray, who has been so passionate about this topic.
 
-",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,6,1
+",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,6,1,speech
 "Stone, Dr Sharman, MP",LP,2012-02-13,"
 
 
@@ -361,7 +361,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ):  Order! The time allotted for this debate has expired.
 
-",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,6,1
+",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,6,1,speech
 "Perrett, Graham, MP",ALP,2012-02-13,"
 
 
@@ -387,7 +387,7 @@ The committee will investigate effective prevention strategies to reduce the inc
 
 I look forward to contributions to this important inquiry, particularly from the member for Murray, who has been so passionate about this topic.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Stone, Dr Sharman, MP",LP,2012-02-13,"
 
 
@@ -422,7 +422,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ):  Order! The time allotted for this debate has expired.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Bandt, Adam, MP",AG,2012-02-13,"
 
 
@@ -469,7 +469,7 @@ Last year I referred in this place to the famous aphorism 'Love conquers all,' a
 
 Bill read a first time.
 
-",HoR,<title>BILLS</title>,<title>Marriage Equality Amendment Bill 2012</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Marriage Equality Amendment Bill 2012</title>,BILLS,7,1,speech
 "Scott, Bruce (The DEPUTY SPEAKER)",Nats,2012-02-13,"
 
 
@@ -480,7 +480,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ) (11:01):  In accordance with standing order 41(c), the second reading will be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Marriage Equality Amendment Bill 2012</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Marriage Equality Amendment Bill 2012</title>,BILLS,7,1,speech
 "Bandt, Adam, MP",AG,2012-02-13,"
 
 
@@ -527,7 +527,7 @@ Last year I referred in this place to the famous aphorism 'Love conquers all,' a
 
 Bill read a first time.
 
-",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,7,2,speech
 "Scott, Bruce (The DEPUTY SPEAKER)",Nats,2012-02-13,"
 
 
@@ -538,7 +538,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ) (11:01):  In accordance with standing order 41(c), the second reading will be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,7,2,speech
 "Wilkie, Andrew, MP",Ind.,2012-02-13,"
 
 
@@ -592,7 +592,7 @@ Mrs D'Ath
 Mr Bandt:
   I second the motion and reserve my right to speak.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Same-Sex Relationships</title>,PRIVATE MEMBERS' BUSINESS,8,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Same-Sex Relationships</title>,PRIVATE MEMBERS' BUSINESS,8,1,speech
 "Haase, Barry, MP",LP,2012-02-13,"
 
 
@@ -615,7 +615,7 @@ I deplore this whole process of embracing and accepting these motions in this pl
 
 I do not believe that the population of this country want further nonsense from this government—they want a change of government. This would probably be one of the least important issues ever brought this House for the majority—and don't we aspire to govern for the majority? Don't we want good governance that will lead this nation forward to a brighter future, setting good, solid role models for the future of our children? This ought to be an honourable place and a place of permanence. It ought to have good legislation brought before it for good reasons. There is no good reason for the introduction of any of these bills and they ought to be voted down.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Same-Sex Relationships</title>,PRIVATE MEMBERS' BUSINESS,8,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Same-Sex Relationships</title>,PRIVATE MEMBERS' BUSINESS,8,1,speech
 "Leigh, Andrew, MP",ALP,2012-02-13,"
 
 
@@ -665,7 +665,7 @@ Whenever someone opposes this, I always counsel: you never know. You never know 
 
 I hope members of the House will support legislation to put in place same-sex marriage.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Same-Sex Relationships</title>,PRIVATE MEMBERS' BUSINESS,8,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Same-Sex Relationships</title>,PRIVATE MEMBERS' BUSINESS,8,1,speech
 "Hawke, Alex, MP",LP,2012-02-13,"
 
 
@@ -694,7 +694,7 @@ This is an attack on the rights of all those who support marriage, and I believe
 
 Debate adjourned.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Same-Sex Relationships</title>,PRIVATE MEMBERS' BUSINESS,8,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Same-Sex Relationships</title>,PRIVATE MEMBERS' BUSINESS,8,1,speech
 "Fitzgibbon, Joel, MP",ALP,2012-02-13,"
 
 
@@ -717,7 +717,7 @@ Appropriation Bill (No. 4) 2011-2012.
 
 Question agreed to.
 
-",HoR,<title>BILLS</title>,"<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011, Appropriation Bill (No. 3) 2011-2012, Appropriation Bill (No. 4) 2011-2012</title>",BILLS,10,1
+",HoR,<title>BILLS</title>,"<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011, Appropriation Bill (No. 3) 2011-2012, Appropriation Bill (No. 4) 2011-2012</title>",BILLS,10,1,speech
 "Fitzgibbon, Joel, MP",ALP,2012-02-13,"
 
 
@@ -740,7 +740,7 @@ Appropriation Bill (No. 4) 2011-2012.
 
 Question agreed to.
 
-",HoR,<title>BILLS</title>,<title>Reference to Main Committee</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Reference to Main Committee</title>,BILLS,10,2,speech
 "Fitzgibbon, Joel, MP",ALP,2012-02-13,"
 
 
@@ -757,7 +757,7 @@ Private Members’ business, order of the day, motion moved by Mr Wilkie relatin
 
 Question agreed to.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Same-Sex Relationships</title>,PRIVATE MEMBERS' BUSINESS,11,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Same-Sex Relationships</title>,PRIVATE MEMBERS' BUSINESS,11,1,speech
 "Fitzgibbon, Joel, MP",ALP,2012-02-13,"
 
 
@@ -774,7 +774,7 @@ Private Members’ business, order of the day, motion moved by Mr Wilkie relatin
 
 Question agreed to.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Reference to Main Committee</title>,PRIVATE MEMBERS' BUSINESS,11,2
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Reference to Main Committee</title>,PRIVATE MEMBERS' BUSINESS,11,2,speech
 "Owens, Julie, MP",ALP,2012-02-13,"
 
 
@@ -797,7 +797,7 @@ On 9 February 2012, the Senate referred Appropriation Bill (No. 3) and Appropria
 
 The committee, therefore, has agreed not to inquire into the bills and recommends that the House consider the bills under normal processes.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 3) 2011-2012, Appropriation Bill (No. 4) 2011-2012</title>",BILLS,12,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 3) 2011-2012, Appropriation Bill (No. 4) 2011-2012</title>",BILLS,12,1,speech
 "Ciobo, Steven, MP",LP,2012-02-13,"
 
 
@@ -808,7 +808,7 @@ Mr CIOBO
 
 We on this side of the chamber will remain vigilant and steadfast in our opposition to the continued reckless spending of this government and to the lack of good control when it comes to debt and deficit. For that reason we will continue, where appropriate, to refer bills—even if they happen to duplicate some of the work the Senate is doing—if it means putting in place a safeguard to protect Australia's future and the Australian people from the reckless spending of the Labor government.
 
-",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 3) 2011-2012, Appropriation Bill (No. 4) 2011-2012</title>",BILLS,12,1
+",HoR,<title>BILLS</title>,"<title>Appropriation Bill (No. 3) 2011-2012, Appropriation Bill (No. 4) 2011-2012</title>",BILLS,12,1,speech
 "Owens, Julie, MP",ALP,2012-02-13,"
 
 
@@ -831,7 +831,7 @@ On 9 February 2012, the Senate referred Appropriation Bill (No. 3) and Appropria
 
 The committee, therefore, has agreed not to inquire into the bills and recommends that the House consider the bills under normal processes.
 
-",HoR,<title>BILLS</title>,<title>Report from Committee</title>,BILLS,12,2
+",HoR,<title>BILLS</title>,<title>Report from Committee</title>,BILLS,12,2,speech
 "Ciobo, Steven, MP",LP,2012-02-13,"
 
 
@@ -842,7 +842,7 @@ Mr CIOBO
 
 We on this side of the chamber will remain vigilant and steadfast in our opposition to the continued reckless spending of this government and to the lack of good control when it comes to debt and deficit. For that reason we will continue, where appropriate, to refer bills—even if they happen to duplicate some of the work the Senate is doing—if it means putting in place a safeguard to protect Australia's future and the Australian people from the reckless spending of the Labor government.
 
-",HoR,<title>BILLS</title>,<title>Report from Committee</title>,BILLS,12,2
+",HoR,<title>BILLS</title>,<title>Report from Committee</title>,BILLS,12,2,speech
 "Jenkins, Harry, MP",ALP,2012-02-13,"
 
 
@@ -853,7 +853,7 @@ Mr JENKINS
 
 Ordered that the report be made a parliamentary paper.
 
-",HoR,<title>COMMITTEES</title>,<title>Privileges and Members' Interests Committee</title>,COMMITTEES,13,1
+",HoR,<title>COMMITTEES</title>,<title>Privileges and Members' Interests Committee</title>,COMMITTEES,13,1,speech
 "Jenkins, Harry, MP",ALP,2012-02-13,"
 
 
@@ -864,7 +864,7 @@ Mr JENKINS
 
 Ordered that the report be made a parliamentary paper.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,13,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,13,2,speech
 "Perrett, Graham, MP",ALP,2012-02-13,"
 
 
@@ -878,7 +878,7 @@ The bill contains provisions to: enhance the Federal Court's powers concerning d
 
 The committee met on Thursday, 9 February to discuss the referral. The committee noted that the Senate Legal and Constitutional Affairs Legislation Committee is currently conducting a public inquiry into this bill and is receiving submissions. The Senate committee is due to report on 22 March 2012. The committee notes that seven submissions have already been received by the Senate committee. The committee supports the public consultation process that is being undertaken by the Senate. The committee does not consider that it could add significantly to the work already being undertaken and notes that duplication is likely from a further inquiry. In light of this, the committee has agreed not to further inquire into this bill.
 
-",HoR,<title>BILLS</title>,<title>Access to Justice (Federal Jurisdiction) Amendment Bill 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Access to Justice (Federal Jurisdiction) Amendment Bill 2011</title>,BILLS,14,1,speech
 "Perrett, Graham, MP",ALP,2012-02-13,"
 
 
@@ -892,7 +892,7 @@ The bill contains provisions to: enhance the Federal Court's powers concerning d
 
 The committee met on Thursday, 9 February to discuss the referral. The committee noted that the Senate Legal and Constitutional Affairs Legislation Committee is currently conducting a public inquiry into this bill and is receiving submissions. The Senate committee is due to report on 22 March 2012. The committee notes that seven submissions have already been received by the Senate committee. The committee supports the public consultation process that is being undertaken by the Senate. The committee does not consider that it could add significantly to the work already being undertaken and notes that duplication is likely from a further inquiry. In light of this, the committee has agreed not to further inquire into this bill.
 
-",HoR,<title>BILLS</title>,<title>Report from Committee</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Report from Committee</title>,BILLS,14,2,speech
 "Tudge, Alan, MP",LP,2012-02-13,"
 
 
@@ -909,7 +909,7 @@ The government has introduced these new ratios for no discernible benefit. There
 
 If a parent like Mrs Kulkarni is happy with the quality of care, and if the childcare centre is happy to provide that level of quality, then what is the problem that the government is trying to fix? The government is making the cost of child care dramatically more expensive for everyday Australians and making it unaffordable for many, for little benefit. It should abandon this policy. (Time expired)
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Child Care</title>,STATEMENTS BY MEMBERS,15,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Child Care</title>,STATEMENTS BY MEMBERS,15,1,speech
 "Gillard, Julia, MP",ALP,2012-02-13,"
 
 
@@ -920,7 +920,7 @@ Ms GILLARD
 
 This year the relevance and timeliness of the apology is more obvious than ever. We need the spirit of the apology to keep urging us on—on to the next step, which is constitutional recognition of Indigenous Australians, and on to the next step, too, which is directing our focus always on closing the gap. We know in our own lives that matters of the spirit and practical matters are not divorced from each other; words of apology matter, and that apology mattered in the life of our nation and we mark its anniversary today.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Indigenous Affairs</title>,STATEMENTS ON INDULGENCE,16,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Indigenous Affairs</title>,STATEMENTS ON INDULGENCE,16,1,speech
 "Abbott, Tony, MP",LP,2012-02-13,"
 
 
@@ -934,7 +934,7 @@ Mr ABBOTT
 
 I think what Mr Rudd said on that day is very important and we should remember it. I do not think we should remember that day in a spirit of self-congratulation; we should remember it in a spirit of consciousness of the magnitude of the task yet to be achieved. We have to get the children to school, we have to get the adults to work, we have to ensure that there are police in remote and other Indigenous communities so that the ordinary laws of the land apply. Yes symbolic change does matter; yes constitutional recognition is a mission as yet unaccomplished for our country. But, in the end, it is practical change that the Aboriginal people of this country need and want, and that is the task to which we should dedicate ourselves.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Indigenous Affairs</title>,STATEMENTS ON INDULGENCE,16,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Indigenous Affairs</title>,STATEMENTS ON INDULGENCE,16,1,speech
 "Albanese, Anthony, MP",ALP,2012-02-13,"
 
 
@@ -948,7 +948,7 @@ That further statements by indulgence in relation to the anniversary of National
 
 Question agreed to.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Indigenous Affairs</title>,STATEMENTS ON INDULGENCE,16,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Indigenous Affairs</title>,STATEMENTS ON INDULGENCE,16,1,speech
 "Albanese, Anthony, MP",ALP,2012-02-13,"
 
 
@@ -962,7 +962,7 @@ That further statements by indulgence in relation to the anniversary of National
 
 Question agreed to.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Reference to Main Committee</title>,STATEMENTS ON INDULGENCE,16,2
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Reference to Main Committee</title>,STATEMENTS ON INDULGENCE,16,2,speech
 "Abbott, Tony, MP",LP,2012-02-13,"
 
 
@@ -984,7 +984,7 @@ Leader of the Opposition
 I refer the Prime Minister, to whom this question is directed, to the government's own Treasury modelling that predicts that output in Australia's aluminium industry, which sustains some 10,000 families, will decrease by 61.7 per cent because of the carbon tax. Why is the Prime Minister introducing the world's biggest carbon tax when the government's own advice shows that it will destroy an industry, cost jobs and hurt struggling communities?
 
 
-",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,18,1
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,18,1,speech
 "Gillard, Julia, MP",ALP,2012-02-13,"
 
 
@@ -1115,7 +1115,7 @@ The SPEAKER:  I asked the deputy leader to leave for one hour under the provisio
 Ms GILLARD:
   The statistic I was seeking to share with the House was that the average impact of the carbon price on the aluminium sector is the equivalent of a one cent increase in the exchange rate with the US. I think that gives a sense of the order of magnitude here. What is pressing on the aluminium industry is having an exchange rate which is well above parity with the US dollar, when of course their business models were factored at a different parity price with the US at a different time in Australia's history when we routinely traded far below the US dollar. That is the truth and the Leader of the Opposition should understand— (Time expired)
 
-",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,18,1
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,18,1,speech
 "Abbott, Tony, MP",LP,2012-02-13,"
 
 
@@ -1193,7 +1193,7 @@ Make no mistake about this: this is just the beginning of the assault on private
 
 The SPEAKER:  Is the motion moved by the Leader of the Opposition seconded?
 
-",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,19,1
+",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,19,1,speech
 "Dutton, Peter, MP",LP,2012-02-13,"
 
 
@@ -1230,7 +1230,7 @@ I do not think that this government can be believed about the impact of this cha
 
 The SPEAKER:  I would remind the member, for next time, that he ought to more closely address the actual motion before the chair.
 
-",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,19,1
+",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,19,1,speech
 "Albanese, Anthony, MP",ALP,2012-02-13,"
 
 
@@ -1386,7 +1386,7 @@ The SPEAKER:  The question before the chair is that the motion moved by the Lead
 Ms Gillard:
   I ask that further questions be placed on the Notice Paper.
 
-",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,19,1
+",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,19,1,speech
 "Fitzgibbon, Joel, MP",ALP,2012-02-13,"
 
 
@@ -1400,7 +1400,7 @@ That the Access to Justice (Federal Jurisdiction) Amendment Bill 2011 be referre
 
 Question agreed to.
 
-",HoR,<title>BILLS</title>,<title>Access to Justice (Federal Jurisdiction) Amendment Bill 2011</title>,BILLS,22,1
+",HoR,<title>BILLS</title>,<title>Access to Justice (Federal Jurisdiction) Amendment Bill 2011</title>,BILLS,22,1,speech
 "Fitzgibbon, Joel, MP",ALP,2012-02-13,"
 
 
@@ -1414,7 +1414,7 @@ That the Access to Justice (Federal Jurisdiction) Amendment Bill 2011 be referre
 
 Question agreed to.
 
-",HoR,<title>BILLS</title>,<title>Reference to Main Committee</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Reference to Main Committee</title>,BILLS,22,2,speech
 "Van Manen, Bert, MP",LP,2012-02-13,"
 
 
@@ -1449,7 +1449,7 @@ We note that Labor promised not to touch the subsidy before the 2007 election an
 
 The email went on to say that they found the government's plot to sell the changes to private health insurance, as stopping the poor from subsidising the rich, as both insulting and dishonest. The authors of this email went to the effort of making some comparisons to support their view, and I would like to note some of their observations, an area that I touched on earlier. If you are earning an income of about $30,000 per annum you are paying about $5,000 per annum in tax and Medicare levy. If you are earning about $60,000 a year, you are paying about $12½ thousand and if you are earning about $90,000 a year, you are paying about $22½ thousand. So you can see that as your income increases you are contributing significantly more to general taxation and also through the Medicare levy. When you have a look in detail at the argument that the poor are subsidising the rich, you see that does not hold any water. It is time this government's ideological bent, of saying that the rich need to pay more for this and more for that and that the poor and needy are suffering, was put away. The politics of envy does no good as to the future of this nation whatsoever. We in the opposition oppose these measures for very good reasons, as I have outlined. Whilst the government seeks to promote this as a win-win solution, I see it as nothing more than a lose-lose one for the individuals and families living in my electorate and those around the country. We oppose this legislation.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Symon, Mike, MP",ALP,2012-02-13,"
 
 
@@ -1499,7 +1499,7 @@ It is important to note that nearly eight million policy holders will not feel a
 
 These bills will help Australia get the best value for its health dollar as there is an urgent need to manage this rebate, which is the fastest growing health cost in the nation. I commend these bills to the House.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Gash, Joanna, MP",LP,2012-02-13,"
 
 
@@ -1600,7 +1600,7 @@ The new national elective surgery targets will not be fully implemented until 20
 
 This legislation is a square peg in a round hole. It is a retrograde step. It breaks more promises and it will only compound an already difficult situation. It is not something we need and it is certainly not something we deserve. I cannot for the life of me see any sense in this, and I can see even less in a government that is determined to have its own way despite the cost to the community. I do not support this legislation and I do not trust a government with a proven track record of cunning, deceit and rank stupidity. The Australian people deserve better.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Simpkins, Luke, MP",LP,2012-02-13,"
 
 
@@ -1686,7 +1686,7 @@ One of the specific points that has been made about private health insurance and
 
 This legislation does represent a huge knock for those hardworking Australians who want to share the cost of the provision of their own health services—those people who believe that society does not owe them and that they should pay their own way where they can. They are just asking for that little bit of help so that they can take pressure off the public hospital system. I do not think it is too much to ask, particularly for those that pay the majority of the income tax in this country, that they should get that little bit of support. These are people that have been making sure that they are doing the right thing for this country as well as looking after themselves first and foremost and it is not wrong for them to get just that little bit of support. We reject this bill, we reject the premise behind it and we call on the government to get its act together and balance the budget in the right way by cutting its spending. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Markus, Louise, MP",LP,2012-02-13,"
 
 
@@ -1724,7 +1724,7 @@ We need to be very clear about this. What the Labor government is proposing here
 
 By bringing the Fairer Private Health Insurance Incentives Bill and the two related bills back before the parliament, this Labor government is once again showing that it is not listening to what Australians are saying. In both May and November of 2009 the parliament clearly told Labor that we did not want it destroying our health system. We must now again say that in 2012 nothing has changed. This bill needs to be opposed. The last thing we need is more hurt from this Labor government.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "O'Dwyer, Kelly, MP",LP,2012-02-13,"
 
 
@@ -1801,7 +1801,7 @@ Warnings abound in our national papers every day that this government is on the 
 
 The only reason this government is pursuing this action is that, ideologically, it is opposed to private health insurance. It is opposed to people saving and providing for their own futures and it is against choice in health care. It is now on its the third attempt to dismantle the private health insurance industry in this country. I stand against this, as do the people of Higgins. The people in my electorate of Higgins are vitally opposed to these measures and I will continue to fight for private health insurance that will allow Australians to directly participate. This government should hang its head in shame for taking one policy to the 2007 election and then the 2010 election, but then breaking that promise. This government cannot be trusted to maintain its promises; it cannot be trusted to maintain the health care of all Australians. This legislation should not stand.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Fletcher, Paul, MP",LP,2012-02-13,"
 
 
@@ -1845,7 +1845,7 @@ Many of the arguments that have been made by the government in favour of this me
 
 When you step back and look at the overall impact of these measures, it is very difficult to avoid the conclusion that what the Labor Party is doing here is pushing us towards a two-tier health system in Australia, where the poor or the less well off are in the public system and the more affluent are being pushed into a private health insurance funded private system. That seems a very curious approach for the Labor Party to be taking. It is a profound attack on the principles of both economies of scale and equity that the public health system is supposed to deliver and it is one of the many curiosities of this deeply ill-conceived piece of legislation, which attacks fundamentally Australians who seek to provide for themselves.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Frydenberg, Josh, MP",LP,2012-02-13,"
 
 
@@ -1892,7 +1892,7 @@ This is just a mad dash for cash. They need to scramble for a surplus and in doi
 
 Be under no illusions. This is bad policy from a bad government and it will come at a bad time for Australian families. This legislation before the House to put a means test on private health insurance in this country must be opposed by all clear-thinking members who are interested not just in the good health of our country's balance sheet but also in the physical health and wellbeing of all Australians.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Tudge, Alan, MP",LP,2012-02-13,"
 
 
@@ -1945,7 +1945,7 @@ But the accounting trick—and this is the only thing that the government are in
 
 Let me summarise the position in relation to these bills. They are based on a broken promise—that is the first point. They implement poor policy that will see premiums increase across the board for everyday Australians on very modest incomes. It will see people fall out of private health insurance and put greater pressure on the public health system. That is the second point. Finally, my third point is that these bills are poor economics. They increase the pressure on the taxpayer overall and create additional financial pressure on state governments that the Commonwealth avoids in the short term. I am firmly against these bills. I believe that all sensible members of this parliament should also vote against these bills.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Baldwin, Bob, MP",LP,2012-02-13,"
 
 
@@ -2095,7 +2095,7 @@ This is a government that says one thing and does another. This is a government 
 
 This is a desperate move by a desperate government that has squandered the dollars of millions of Australians on wasted programs like the insulation tragedy and the school halls rip-off. I say to you, Madam Deputy Speaker Livermore, to each and every Labor member in this place and to the Independents: the health of our fellow Australians is far more important than all of the other programs that this government has wasted money on. This government will see, under its stewardship, a blow-out in the waiting lists in the public health system. This government will see, under its stewardship, private hospitals close because of a lack of patients. This government will see, under its stewardship, the health standards of the people of Australia deteriorate because it mismanaged the economy and saw as a sacrifice those hard-working Australians who take out private health insurance and who reduce the pressure on the public system. It should be the government's agenda, as it was under the previous coalition government and as it was stated to be by the previous Labor opposition, to support private health insurance to make it affordable for working families. That is why I call on the Independents to refuse to support this legislation that will hurt the people in their constituencies. I reject these bills as presented to the House.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Matheson, Russell, MP",LP,2012-02-13,"
 
 
@@ -2136,7 +2136,7 @@ Allied health services are also expected to bear the brunt of this government's 
 
 The coalition has strongly supported giving Australians the choice of affordable private health insurance. The 30 per cent rebate on private health insurance premiums is a proven policy that we have seen works. Families in Macarthur are going to be negatively impacted by this legislation, and many will have no option but to forgo private health insurance and rely on the already stretched public system. This is a bad policy that will do nothing but harm both our public and private health systems and I would urge members of the House to keep faith with their electorates and reject it. So I say this to members opposite: stand up for affordable and accessible private health cover. Stand up for your community, your seniors and your youth. Stand up for a fair go for Aussie families. Stick to the ironclad guarantee that the Prime Minister previously made to the Australian public: 'Under no circumstances will we touch the private health insurance rebate.' As late as August 2010 the Prime Minister also stated, 'Medicare rebates are safe under Labor.' How safe? These bills change all that. No wonder there is a trust and credibility problem with this government.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Christensen, George, MP",Nats,2012-02-13,"
 
 
@@ -2210,7 +2210,7 @@ Being a Queenslander, I find that a frightening proposition. The Labor governmen
 
 In creating this 'damned if you do and damned if you don't' situation for families with private health cover, the government is basically kicking an own goal. Even if this white rabbit is combined with enough smoke and mirrors to create the illusion of a surplus, it will be just a matter of time before the mirrors crack and the smoke clears. When it does, Australian families who can no longer afford private health insurance will see nothing but a rotting rabbit carcass that carries the stench of deception, incompetence and betrayal.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Tehan, Dan, MP",LP,2012-02-13,"
 
 
@@ -2315,7 +2315,7 @@ The second thing this legislation will do is add to the already growing list of 
 
 That is why I stand here today opposing these changes. They are a breach of trust, they will add to the cost of living and, worse than that, they will shift the cost of delivering health care from the Commonwealth to the states at a time when the states need help in delivering the services they want to deliver. They do not need extra costs being put on their health services.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Kelly, Craig, MP",LP,2012-02-13,"
 
 
@@ -2488,7 +2488,7 @@ The report goes on to estimate that, over five years, 1.6 million Australians wi
 
 In my seat of Hughes there are 91,000 people that rely on their private health insurance cover, and many of these 91,000 people will be forced to fork out an additional $935 a year. That has been made clear by the recent Deloitte report. This bill—the so-called Fairer Private Health Insurance Incentives Bill—and its associated bills will rip support from families doing the right thing by our public health system. The millions of Australian families that will be hurt by this bill are doing their bit for the country, even though they are already struggling with cost-of-living pressures—and this will only be made worse by the carbon tax. We are again seeing Labor driving the dagger of cost of living into the heart of middle-class working families. Shame on this government for introducing this bill, and shame on every Labor member who votes for it. I call on the Independents to live up to the motto 'keep the bastards honest' and vote against this bill.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Gambaro, Teresa, MP",LP,2012-02-13,"
 
 
@@ -2535,7 +2535,7 @@ Whenever the Labor Party finds itself in a mess, they revert to class warfare. W
 
 I will always stand up in this place for the constituents of the electorate of Brisbane. On behalf of the 89,920 people in my electorate who have private health insurance cover, I will oppose these bills.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Roy, Wyatt, MP",LP,2012-02-13,"
 
 
@@ -2594,7 +2594,7 @@ The expansion of the Caboolture Hospital is of fundamental importance to the peo
 
 This legislation represents yet another betrayal of the trust of the Australian people. We are getting used to it now with this Labor government, but that does not make it right. The price of private health care will increase for so many families at a time when they are already struggling to balance their books. The exodus from private health care will place additional pressure on an already overburdened public health system. In my community, I know that the many families who have contacted me regarding soaring costs of living will jettison their private health cover because it will be unaffordable for them. The pressure on the Caboolture Hospital will become even worse than it already is, causing even more distress for my community. In conclusion, that is why, as a member of the coalition, I will not be supporting these bills.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Southcott, Dr Andrew, MP",LP,2012-02-13,"
 
 
@@ -2635,7 +2635,7 @@ The effect of this legislation on my electorate of Boothby is going to be very d
 
 Voters in Boothby will take a very dim view of the Labor Party's decision. This is a bad measure for Australia and a bad measure for my electorate. It is such a bad measure that over 2,000 residents in my electorate have petitioned to have the private health insurance rebate retained intact. It is a petition that I will be presenting later this week. The opposition have no choice but to oppose this measure, as we did in 2009 and in 2010.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Griggs, Natasha, MP",CLP,2012-02-13,"
 
 
@@ -2712,7 +2712,7 @@ How concerning is this sentiment? But this is exactly what this Labor government
 
 In conclusion, this piece of legislation is absolutely not about a health policy. This is about a government trying to rip money out of people's back pockets as a patch-up for the waste and mismanagement that this government has undertaken over the last four years. This is bad policy and I will be voting against this piece of legislation as this bill is not about 'Fairer Private Health Insurance Incentives'. This is another Labor broken promise. This is another betrayal of the Australian people.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Wyatt, Ken, MP",LP,2012-02-13,"
 
 
@@ -2805,7 +2805,7 @@ I call on the Independents to actually stick up for the people in their electora
 
 The SPEAKER:  Order! It being almost 8 pm, the debate is interrupted.
 
-",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Fairer Private Health Insurance Incentives Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Bill 2011, Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Bill 2011</title>",BILLS,25,1,speech
 "Van Manen, Bert, MP",LP,2012-02-13,"
 
 
@@ -2840,7 +2840,7 @@ We note that Labor promised not to touch the subsidy before the 2007 election an
 
 The email went on to say that they found the government's plot to sell the changes to private health insurance, as stopping the poor from subsidising the rich, as both insulting and dishonest. The authors of this email went to the effort of making some comparisons to support their view, and I would like to note some of their observations, an area that I touched on earlier. If you are earning an income of about $30,000 per annum you are paying about $5,000 per annum in tax and Medicare levy. If you are earning about $60,000 a year, you are paying about $12½ thousand and if you are earning about $90,000 a year, you are paying about $22½ thousand. So you can see that as your income increases you are contributing significantly more to general taxation and also through the Medicare levy. When you have a look in detail at the argument that the poor are subsidising the rich, you see that does not hold any water. It is time this government's ideological bent, of saying that the rich need to pay more for this and more for that and that the poor and needy are suffering, was put away. The politics of envy does no good as to the future of this nation whatsoever. We in the opposition oppose these measures for very good reasons, as I have outlined. Whilst the government seeks to promote this as a win-win solution, I see it as nothing more than a lose-lose one for the individuals and families living in my electorate and those around the country. We oppose this legislation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Symon, Mike, MP",ALP,2012-02-13,"
 
 
@@ -2890,7 +2890,7 @@ It is important to note that nearly eight million policy holders will not feel a
 
 These bills will help Australia get the best value for its health dollar as there is an urgent need to manage this rebate, which is the fastest growing health cost in the nation. I commend these bills to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Gash, Joanna, MP",LP,2012-02-13,"
 
 
@@ -2991,7 +2991,7 @@ The new national elective surgery targets will not be fully implemented until 20
 
 This legislation is a square peg in a round hole. It is a retrograde step. It breaks more promises and it will only compound an already difficult situation. It is not something we need and it is certainly not something we deserve. I cannot for the life of me see any sense in this, and I can see even less in a government that is determined to have its own way despite the cost to the community. I do not support this legislation and I do not trust a government with a proven track record of cunning, deceit and rank stupidity. The Australian people deserve better.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Simpkins, Luke, MP",LP,2012-02-13,"
 
 
@@ -3077,7 +3077,7 @@ One of the specific points that has been made about private health insurance and
 
 This legislation does represent a huge knock for those hardworking Australians who want to share the cost of the provision of their own health services—those people who believe that society does not owe them and that they should pay their own way where they can. They are just asking for that little bit of help so that they can take pressure off the public hospital system. I do not think it is too much to ask, particularly for those that pay the majority of the income tax in this country, that they should get that little bit of support. These are people that have been making sure that they are doing the right thing for this country as well as looking after themselves first and foremost and it is not wrong for them to get just that little bit of support. We reject this bill, we reject the premise behind it and we call on the government to get its act together and balance the budget in the right way by cutting its spending. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Markus, Louise, MP",LP,2012-02-13,"
 
 
@@ -3115,7 +3115,7 @@ We need to be very clear about this. What the Labor government is proposing here
 
 By bringing the Fairer Private Health Insurance Incentives Bill and the two related bills back before the parliament, this Labor government is once again showing that it is not listening to what Australians are saying. In both May and November of 2009 the parliament clearly told Labor that we did not want it destroying our health system. We must now again say that in 2012 nothing has changed. This bill needs to be opposed. The last thing we need is more hurt from this Labor government.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "O'Dwyer, Kelly, MP",LP,2012-02-13,"
 
 
@@ -3192,7 +3192,7 @@ Warnings abound in our national papers every day that this government is on the 
 
 The only reason this government is pursuing this action is that, ideologically, it is opposed to private health insurance. It is opposed to people saving and providing for their own futures and it is against choice in health care. It is now on its the third attempt to dismantle the private health insurance industry in this country. I stand against this, as do the people of Higgins. The people in my electorate of Higgins are vitally opposed to these measures and I will continue to fight for private health insurance that will allow Australians to directly participate. This government should hang its head in shame for taking one policy to the 2007 election and then the 2010 election, but then breaking that promise. This government cannot be trusted to maintain its promises; it cannot be trusted to maintain the health care of all Australians. This legislation should not stand.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Fletcher, Paul, MP",LP,2012-02-13,"
 
 
@@ -3236,7 +3236,7 @@ Many of the arguments that have been made by the government in favour of this me
 
 When you step back and look at the overall impact of these measures, it is very difficult to avoid the conclusion that what the Labor Party is doing here is pushing us towards a two-tier health system in Australia, where the poor or the less well off are in the public system and the more affluent are being pushed into a private health insurance funded private system. That seems a very curious approach for the Labor Party to be taking. It is a profound attack on the principles of both economies of scale and equity that the public health system is supposed to deliver and it is one of the many curiosities of this deeply ill-conceived piece of legislation, which attacks fundamentally Australians who seek to provide for themselves.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Frydenberg, Josh, MP",LP,2012-02-13,"
 
 
@@ -3283,7 +3283,7 @@ This is just a mad dash for cash. They need to scramble for a surplus and in doi
 
 Be under no illusions. This is bad policy from a bad government and it will come at a bad time for Australian families. This legislation before the House to put a means test on private health insurance in this country must be opposed by all clear-thinking members who are interested not just in the good health of our country's balance sheet but also in the physical health and wellbeing of all Australians.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Tudge, Alan, MP",LP,2012-02-13,"
 
 
@@ -3336,7 +3336,7 @@ But the accounting trick—and this is the only thing that the government are in
 
 Let me summarise the position in relation to these bills. They are based on a broken promise—that is the first point. They implement poor policy that will see premiums increase across the board for everyday Australians on very modest incomes. It will see people fall out of private health insurance and put greater pressure on the public health system. That is the second point. Finally, my third point is that these bills are poor economics. They increase the pressure on the taxpayer overall and create additional financial pressure on state governments that the Commonwealth avoids in the short term. I am firmly against these bills. I believe that all sensible members of this parliament should also vote against these bills.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Baldwin, Bob, MP",LP,2012-02-13,"
 
 
@@ -3486,7 +3486,7 @@ This is a government that says one thing and does another. This is a government 
 
 This is a desperate move by a desperate government that has squandered the dollars of millions of Australians on wasted programs like the insulation tragedy and the school halls rip-off. I say to you, Madam Deputy Speaker Livermore, to each and every Labor member in this place and to the Independents: the health of our fellow Australians is far more important than all of the other programs that this government has wasted money on. This government will see, under its stewardship, a blow-out in the waiting lists in the public health system. This government will see, under its stewardship, private hospitals close because of a lack of patients. This government will see, under its stewardship, the health standards of the people of Australia deteriorate because it mismanaged the economy and saw as a sacrifice those hard-working Australians who take out private health insurance and who reduce the pressure on the public system. It should be the government's agenda, as it was under the previous coalition government and as it was stated to be by the previous Labor opposition, to support private health insurance to make it affordable for working families. That is why I call on the Independents to refuse to support this legislation that will hurt the people in their constituencies. I reject these bills as presented to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Matheson, Russell, MP",LP,2012-02-13,"
 
 
@@ -3527,7 +3527,7 @@ Allied health services are also expected to bear the brunt of this government's 
 
 The coalition has strongly supported giving Australians the choice of affordable private health insurance. The 30 per cent rebate on private health insurance premiums is a proven policy that we have seen works. Families in Macarthur are going to be negatively impacted by this legislation, and many will have no option but to forgo private health insurance and rely on the already stretched public system. This is a bad policy that will do nothing but harm both our public and private health systems and I would urge members of the House to keep faith with their electorates and reject it. So I say this to members opposite: stand up for affordable and accessible private health cover. Stand up for your community, your seniors and your youth. Stand up for a fair go for Aussie families. Stick to the ironclad guarantee that the Prime Minister previously made to the Australian public: 'Under no circumstances will we touch the private health insurance rebate.' As late as August 2010 the Prime Minister also stated, 'Medicare rebates are safe under Labor.' How safe? These bills change all that. No wonder there is a trust and credibility problem with this government.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Christensen, George, MP",Nats,2012-02-13,"
 
 
@@ -3601,7 +3601,7 @@ Being a Queenslander, I find that a frightening proposition. The Labor governmen
 
 In creating this 'damned if you do and damned if you don't' situation for families with private health cover, the government is basically kicking an own goal. Even if this white rabbit is combined with enough smoke and mirrors to create the illusion of a surplus, it will be just a matter of time before the mirrors crack and the smoke clears. When it does, Australian families who can no longer afford private health insurance will see nothing but a rotting rabbit carcass that carries the stench of deception, incompetence and betrayal.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Tehan, Dan, MP",LP,2012-02-13,"
 
 
@@ -3706,7 +3706,7 @@ The second thing this legislation will do is add to the already growing list of 
 
 That is why I stand here today opposing these changes. They are a breach of trust, they will add to the cost of living and, worse than that, they will shift the cost of delivering health care from the Commonwealth to the states at a time when the states need help in delivering the services they want to deliver. They do not need extra costs being put on their health services.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Kelly, Craig, MP",LP,2012-02-13,"
 
 
@@ -3879,7 +3879,7 @@ The report goes on to estimate that, over five years, 1.6 million Australians wi
 
 In my seat of Hughes there are 91,000 people that rely on their private health insurance cover, and many of these 91,000 people will be forced to fork out an additional $935 a year. That has been made clear by the recent Deloitte report. This bill—the so-called Fairer Private Health Insurance Incentives Bill—and its associated bills will rip support from families doing the right thing by our public health system. The millions of Australian families that will be hurt by this bill are doing their bit for the country, even though they are already struggling with cost-of-living pressures—and this will only be made worse by the carbon tax. We are again seeing Labor driving the dagger of cost of living into the heart of middle-class working families. Shame on this government for introducing this bill, and shame on every Labor member who votes for it. I call on the Independents to live up to the motto 'keep the bastards honest' and vote against this bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Gambaro, Teresa, MP",LP,2012-02-13,"
 
 
@@ -3926,7 +3926,7 @@ Whenever the Labor Party finds itself in a mess, they revert to class warfare. W
 
 I will always stand up in this place for the constituents of the electorate of Brisbane. On behalf of the 89,920 people in my electorate who have private health insurance cover, I will oppose these bills.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Roy, Wyatt, MP",LP,2012-02-13,"
 
 
@@ -3985,7 +3985,7 @@ The expansion of the Caboolture Hospital is of fundamental importance to the peo
 
 This legislation represents yet another betrayal of the trust of the Australian people. We are getting used to it now with this Labor government, but that does not make it right. The price of private health care will increase for so many families at a time when they are already struggling to balance their books. The exodus from private health care will place additional pressure on an already overburdened public health system. In my community, I know that the many families who have contacted me regarding soaring costs of living will jettison their private health cover because it will be unaffordable for them. The pressure on the Caboolture Hospital will become even worse than it already is, causing even more distress for my community. In conclusion, that is why, as a member of the coalition, I will not be supporting these bills.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Southcott, Dr Andrew, MP",LP,2012-02-13,"
 
 
@@ -4026,7 +4026,7 @@ The effect of this legislation on my electorate of Boothby is going to be very d
 
 Voters in Boothby will take a very dim view of the Labor Party's decision. This is a bad measure for Australia and a bad measure for my electorate. It is such a bad measure that over 2,000 residents in my electorate have petitioned to have the private health insurance rebate retained intact. It is a petition that I will be presenting later this week. The opposition have no choice but to oppose this measure, as we did in 2009 and in 2010.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Griggs, Natasha, MP",CLP,2012-02-13,"
 
 
@@ -4103,7 +4103,7 @@ How concerning is this sentiment? But this is exactly what this Labor government
 
 In conclusion, this piece of legislation is absolutely not about a health policy. This is about a government trying to rip money out of people's back pockets as a patch-up for the waste and mismanagement that this government has undertaken over the last four years. This is bad policy and I will be voting against this piece of legislation as this bill is not about 'Fairer Private Health Insurance Incentives'. This is another Labor broken promise. This is another betrayal of the Australian people.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Wyatt, Ken, MP",LP,2012-02-13,"
 
 
@@ -4196,7 +4196,7 @@ I call on the Independents to actually stick up for the people in their electora
 
 The SPEAKER:  Order! It being almost 8 pm, the debate is interrupted.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Gillard, Julia, MP",ALP,2012-02-13,"
 
 
@@ -4204,7 +4204,7 @@ The SPEAKER:  Order! It being almost 8 pm, the debate is interrupted.
 Ms GILLARD
  (Lalor—Prime Minister) (19:58):  on indulgence—I wish to add to an answer I gave in question time today. In question time today I answered a question from the member for O'Connor concerning native title. In my answer I indicated that the Western Australian Premier had not personally raised with me matters related to native title compensation. The Premier wrote to me on 14 April last year regarding financial assistance for native title compensation and settlements. I wrote to the Premier on 23 May last year noting that in 2001 the Howard government made an offer to the states and territories in relation to native title compensation, but a shared costs arrangement was not agreed to. This exchange of correspondence was reported in the Australian newspaper on 6 January this year. As I stated earlier today, despite my quite frequent contact with the Premier of Western Australia, the Premier has not taken the opportunity to raise this matter with me personally, and by that I mean face to face.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Native Title</title>,STATEMENTS ON INDULGENCE,26,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Native Title</title>,STATEMENTS ON INDULGENCE,26,1,speech
 "Saffin, Janelle, MP",ALP,2012-02-13,"
 
 
@@ -4315,7 +4315,7 @@ The DEPUTY SPEAKER
 Ms Vamvakinou
 ):  Is the motion seconded?
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Asbestos Awareness Week</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Asbestos Awareness Week</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Chester, Darren, MP",Nats,2012-02-13,"
 
 
@@ -4372,7 +4372,7 @@ There are a couple of points to remember. One is that if you do not know what th
 
 Safe disposal is a very key point and there are many cases still occurring in our community of dumping of asbestos products. It is outrageous to think that someone would expose others in the community to a risk like that, but there are many cases of that. I am looking forward to continuing to work with my colleague the member for McMillan and others like the member for Page and Senator Singh to make sure we do whatever we can in this place to reduce the incidence of asbestos related diseases in the community.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Asbestos Awareness Week</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Asbestos Awareness Week</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Jones, Stephen, MP",ALP,2012-02-13,"
 
 
@@ -4392,7 +4392,7 @@ The member for Gippsland mentioned the threat that is posed to home renovators. 
 
 It is a catastrophic situation for the people of India. The true costs of asbestos are being hidden from the people of India. If the hidden medical costs were properly taken into account, there is no way that asbestos would continue to be seen and used as a cheap building material. For these reasons, I am proud to add my voice in support of this motion and to urge all other members in this place to support it and to get behind the recently formed Parliamentary Group on Asbestos Related Disease, to raise awareness and advocacy and urge further action, parliamentary and otherwise, to fight the scourge that is asbestos and asbestos related disease. I commend the motion to the House.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Asbestos Awareness Week</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Asbestos Awareness Week</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Kelly, Craig, MP",LP,2012-02-13,"
 
 
@@ -4436,7 +4436,7 @@ Overall, the results of health reviews show that there were significant health e
 
 I was very surprised to discover that currently in Australia we have no compliance standards for the particulate matter PM2.5 and we have no annual average standards for PM10. These are things we need to look at, especially in areas of Western Sydney. We need to make sure that everything we are doing in government is to give the best quality air to our residents and to bring Australian standards up to international standards for particulate matter. We do not want to see a repeat of the mistakes we have made in the past with the time it has taken to bring in thorough regulations on asbestos. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Asbestos Awareness Week</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Asbestos Awareness Week</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Zappia, Tony, MP",ALP,2012-02-13,"
 
 
@@ -4462,7 +4462,7 @@ In respect to that, I join in the comments of other speakers that I too am astou
 
 Lastly, I pay tribute and commend the work of Terry Miller, Kat Burge, Pam Sandys and Tony Henstridge who are the volunteers who man and support the Asbestos Victims Association in South Australia. Their tireless work in support of the victims, the victims' families, their advocacy against the use of asbestos and their community education and awareness campaigns are an absolute credit to them. From my experience of working with them and seeing what they do, their work is truly invaluable, and I thank them for it.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Asbestos Awareness Week</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Asbestos Awareness Week</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Tehan, Dan, MP",LP,2012-02-13,"
 
 
@@ -4527,7 +4527,7 @@ The one aspect of this motion I will just touch on tonight is the issue of our b
 
 So, in supporting the call for the Australian government to make strong diplomatic efforts to convince the Canadian government, I also call on the government to make sure it does this in a way which reflects the very strong relationship we have with Canada. They are our ally. We have a very good relationship which dates back many years. I therefore think that we should use science, facts and our experience with asbestos in Australia to convince them of the path we think we should go down. That is the type of diplomatic activity we should use. Canada has been a longstanding friend and ally of our country and I think that if we go to them with a very sound argument—one based on the science and the health facts arising from our experience here in Australia—down the track we will be able to get Canada to understand where we are coming from. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Asbestos Awareness Week</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Asbestos Awareness Week</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Owens, Julie, MP",ALP,2012-02-13,"
 
 
@@ -4550,7 +4550,7 @@ There can be no doubt that, as the global demand for asbestos decreased, there w
 
 The world has known about the dangers of asbestos for many, many years. It was known by the Greeks, and Roman naturalist Pliny the Elder noticed that women who wove asbestos into cloth commonly displayed a sickness of the lungs. The first modern registered death from asbestos exposure was in 1899—40 years before James Hardie opened its plant in my electorate. It was a 33-year-old man who died from asbestos related disease. He had worked in an asbestos textile factory for 14 years and, of the nine other people who worked with him, he was, when he died, the only one to have survived until then. In 1906, the French made recommendations that asbestos workplaces should be ventilated. In 1916, Prudential Insurance in the US decided that they would no longer give life insurance to asbestos workers. In 1917 and 1918, there was more research in the US and James Hardie set up their plant—without appropriate worker safety practices. The first diagnosis of asbestosis was in 1924, following the death of a 33-year-old woman who had been working with asbestos since she was 13. A subsequent study showed that 25 per cent of asbestos workers in England had lung disease. The first workers compensation claim for asbestos was in 1927, involving  a foreman in a textile plant in Massachusetts. By the thirties, when James Hardie opened its plant in Australia, a significant amount of scientific knowledge had been accumulated about asbestos-related disease. The US made asbestosis a work compensatable disease in 1941—many years ago, and yet we still have Canada selling this material to developing countries. The first Australian case of mesothelioma was a miner from Wittenoom—in 1962. Later research identified over 658 cases leading up to 1979. James Hardie put a warning on its product in 1978 and stopped producing it in 1982 but continued to sell its stockpile until 1987—appalling behaviour. I commend the motion to the House. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Asbestos Awareness Week</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Asbestos Awareness Week</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
 "McCormack, Michael, MP",Nats,2012-02-13,"
 
 
@@ -4585,7 +4585,7 @@ The DEPUTY SPEAKER
 Mr KJ Thomson
 ):  The time for the debate has expired. The debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Asbestos Awareness Week</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>National Asbestos Awareness Week</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Ruddock, Philip, MP",LP,2012-02-13,"
 
 
@@ -4611,7 +4611,7 @@ Some 6,000 Sabian Mandaeans now live in Sydney. I guess that is one of the reaso
 
 When I was Minister for Immigration and Multicultural Affairs, I was able to provide within the refugee program many places to settle Sabian Mandaeans in Australia. I think they have been wonderful settlers. I notice that the honourable member has been raising with the Minister for Immigration and Citizenship matters relating to the Sabian Mandaeans. I hope that, in response to his representations, this government will be able to be as generous as the former government was in assisting the Sabian Mandaeans, who need further assistance. (Time expired)
 
-",HoR,<title>ADJOURNMENT</title>,<title>Iraq</title>,ADJOURNMENT,28,1
+",HoR,<title>ADJOURNMENT</title>,<title>Iraq</title>,ADJOURNMENT,28,1,speech
 "O'Dwyer, Kelly, MP",LP,2012-02-13,"
 
 
@@ -4634,7 +4634,7 @@ But these are not the only infrastructure problems in my electorate. There are o
 
 On 16 November, I sat down with the state Minister for Transport and Roads, Terry Mulder, with a map of Higgins to tell him where investment was required. It is now up to the federal minister for infrastructure to heed the call. I call upon the federal government to support the Victorian government's submission and work in a bipartisan way on this critical infrastructure.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Higgins Electorate: Railway Crossings, Infrastructure</title>",CONSTITUENCY STATEMENTS,30,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Higgins Electorate: Railway Crossings, Infrastructure</title>",CONSTITUENCY STATEMENTS,30,1,speech
 "Coulton, Mark, MP",Nats,2012-02-13,"
 
 
@@ -4648,7 +4648,7 @@ I was the Mayor of Gwydir Shire Council before I came to this place, and not onl
 
 While I agree that we need a regular funding stream, I think that we need to look at this not as a flat rate. If we receive this funding as a percentage of GST or if it is allocated on a per capita basis, once again the City of Sydney Council, Brisbane City Council, Hornsby Shire Council, Blacktown City Council and so on will be flush with cash. They have large rating bases and many people stacked up several storeys high but have nowhere near the responsibility of regional councils. I believe that we have got a way to go with this, but what I have been saying to the councils in my area is not to rush into something that is once again going to leave regional local government the poor cousin. Indeed, Gwydir Shire Council and Moree Plains Shire Council have formed the Australian Rural Roads Group to lobby on behalf of high-production agricultural councils and to speak of the benefit of local roads. Everything that we purchase on the supermarket shelf starts its life on a local road. Indeed, the economic capacity of this country is being impacted because these rural businesses—many of them are multimillion dollar businesses—cannot meet contractual agreements because of the poor state of the roads. We have seen a focus on metropolitan areas and the large arterial roads, and they are important, but the local roads are equally important. When assessing a government's commitment to country roads, a fund for the Pacific Highway really should not be taken into account. It plays a different role compared to the local roads. While I agree with the sentiment of the member for Lyne, I cannot agree to the detail or the intent of this motion. I will continue to lobby in support of a decent go for funding and recognition of local government in Australia.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Local Government</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Local Government</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "Oakeshott, Robert, MP",Ind.,2012-02-13,"
 
 
@@ -4668,7 +4668,7 @@ The GST review is on. John Brumby and Nick Greiner are good men and I would hope
 
 There is an urgent need on the ground. I repeat that the network has failed. Unless there is a substantial change in funding models from the Commonwealth then this is going to create all sorts of productivity problems for the nation. I am not in the camp that says a Pape case in the High Court rules it out. I am watching closely to see another case, the Williams case, to see whether it does. I think we should buy some time on constitutional recognition and make it a financial issue and address it.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Local Government</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Local Government</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "Christensen, George, MP",Nats,2012-02-13,"
 
 
@@ -4685,7 +4685,7 @@ I say you cannot just do that. I remember being in a private council meeting whe
 
 With regard to the constitutional recognition issue, I disagree with the motion before the House. Constitutional recognition is vitally important. The Pape case showed that there was great uncertainty about direct federal funding to local government. In fact, George Williams, renowned legal expert, says that there is no constitutional validity for it. That is ultimately deserved and it will stop situations like that which we had in Queensland, where the Beattie government, with the support of the current Premier, Anna Bligh, and the then local government minister, Andrew Fraser, rode roughshod over local communities and amalgamated councils left, right and centre, where there was no community of interest for those councils. There is no better reason than that than to have constitutional recognition. So, to sum up, there needs to be growth funding— (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Local Government</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Local Government</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "Burke, Anna, MP",ALP,2012-02-13,"
 
 
@@ -4729,7 +4729,7 @@ I am not saying that this motion is not important and I am not saying that my co
 
 The main aim of this inquiry and this report was to say that the three levels of government need to get together and work better together. They need to understand what each is doing, what each is raising, and then work it through, as opposed to just buck-shifting. Councils also need to learn to say no to ratepayers, state governments and the federal government. They need to say it is not their responsibility and they are not going to fill that void. That is really hard. I have said to my local councillors that their job is a lot harder than mine. Everybody knows who they are. When a bin is not picked up, it is their fault. But if something happens at a federal level nobody is going to find and abuse their federal member of parliament. So local councils do find it difficult to say no. I think it is a really difficult thing, but we need to get the three levels of government together and resolve this now so that we do not keep going around in circles.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Local Government</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Local Government</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "McCormack, Michael, MP",Nats,2012-02-13,"
 
 
@@ -4752,7 +4752,7 @@ That is why it is so important that local government be recognised in the Consti
 
 In New South Wales the percentage of own-source revenue in 2005-06 was 84 per cent, so you can see how limited local government is in providing its own revenue when there are so many demands to provide avenues of community help and assistance. Particularly in New South Wales, where rates are capped, there are very limited opportunities for local governments to be able to provide the sorts of infrastructure that people demand and expect of their local shire councils. Roads, as the member for Parkes pointed out, are the lifeblood of this nation. Every grocery item that ends up in a metropolitan supermarket starts its life on a local government road in regional Australia. It is high time that local councils were able to access more money from the federal government to provide that infrastructure.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Local Government</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Local Government</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "Georganas, Steve, MP",ALP,2012-02-13,"
 
 
@@ -4775,7 +4775,7 @@ The tax summit that was convened by the government in October 2011 bore witness 
 
 Debate adjourned. 
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Local Government</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Local Government</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "Smith, Tony, MP",LP,2012-02-13,"
 
 
@@ -4795,7 +4795,7 @@ With respect to the goods and services tax, the bill outlines two things with re
 
 Finally, schedule 5 adds the Rhodes Trust to the deductible gift recipient list. Of course the Rhodes Trust raises funds to augment the existing Rhodes Scholarship program at Oxford. I also noticed from the then Assistant Treasurer's second reading speech that there is also a name change to another organisation. As I said at the start, schedule 6 deals with some miscellaneous amendments to correct some unintended errors with some technical corrections. On behalf of the opposition I commend the bill to House. As I said at the outset, we will be supporting this bill through both houses.
 
-",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011</title>,BILLS,32,1
+",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011</title>,BILLS,32,1,speech
 "Neumann, Shayne, MP",ALP,2012-02-13,"
 
 
@@ -4849,7 +4849,7 @@ We are committed, on this side of the chamber, to high-skilled, good wages. And 
 
 It is almost a road to Damascus conversion experience from those opposite—actually now supporting good pieces of legislation, reforming the tax system and reforming superannuation. And if, like Saint Paul on the road to Damascus, this is when they have seen the light, we are very pleased and we support the legislation.
 
-",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011</title>,BILLS,32,1
+",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011</title>,BILLS,32,1,speech
 "Ciobo, Steven, MP",LP,2012-02-13,"
 
 
@@ -4875,7 +4875,7 @@ The member for Blair and others have spoken about the Rhodes Trust being added t
 
 I am pleased to associate myself with the bill. It is a bill that will clarify a number of matters in relation to taxation. At the outset I addressed very directly some of the spurious assertions that were made by the member for Blair and corrected the record with respect to the fact that there is another side to that coin about providing for Australians' retirement incomes, and that is to control the cost of living.
 
-",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011</title>,BILLS,32,1
+",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011</title>,BILLS,32,1,speech
 "Owens, Julie, MP",ALP,2012-02-13,"
 
 
@@ -4922,7 +4922,7 @@ Schedule 4 involves the GST treatment of new residential premises. The amendment
 
 There are a number of miscellaneous amendments in schedule 6 that I will not go into. They are mainly quite administrative—too administrative even for a person who loves tax or amendments. Again, it is a rather nice little collection of amendments that reduce complexity for small business, clarify tax law and have benefits for cash-flow management for small business. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011</title>,BILLS,32,1
+",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011</title>,BILLS,32,1,speech
 "Buchholz, Scott, MP",LP,2012-02-13,"
 
 
@@ -4967,7 +4967,7 @@ Schedule 5 speaks about the adding of the Rhodes Trust to the list of deductible
 
 The bill makes technical corrections and other minor and miscellaneous amendments to the taxation laws. The coalition sees no serious issues with this legislation and does not intend to oppose it. I believe the provisions of the bill are to be applied as of 1 July 2012, and I am pleased to associate myself with the bill.
 
-",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011</title>,BILLS,32,1
+",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011</title>,BILLS,32,1,speech
 "Leigh, Andrew, MP",ALP,2012-02-13,"
 
 
@@ -5044,7 +5044,7 @@ This is a fundamental piece of economic legislation that underpins the Gillard g
 
 Let me conclude with the words of a constituent who came and saw me in the mobile office that I attended on Saturday at the National Multicultural Festival. He said to me: 'When you look out across all the people at this festival probably almost none of us will still be here in 80 years time, but our children and grandchildren will be here and the reforms we are putting into place are ensuring that their prosperity is upheld. Yes, they are good for the current generations but they are recognising that in politics we do what we can for the future. We are not here just to scaremonger.' He said: 'You should see through what Mr Abbott is proposing. You should see out his negativity and you should see him out of politics, because what is important is the future prosperity of all Australians.' I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011</title>,BILLS,32,1
+",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011</title>,BILLS,32,1,speech
 "Jones, Stephen, MP",ALP,2012-02-13,"
 
 
@@ -5073,7 +5073,7 @@ This means a lot to ordinary working families in my electorate of Throsby in the
 
 I commend the minister for bringing this bill before the House, and I am delighted to have the opportunity to speak on the matter. As I said, it is a part of an important Labor project. At the heart of that important Labor project is this simple idea: if somebody works their entire life then they are entitled to a dignified retirement, not one that is reliant upon a pension and the vagaries of government decision making in relation to that pension. They are entitled to retire on the savings income that they have earned for their entire life. This bill is going to do its bit to ensure that $12.9 billion finds its rightful owners. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011</title>,BILLS,32,1
+",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011</title>,BILLS,32,1,speech
 "Bradbury, David, MP",ALP,2012-02-13,"
 
 
@@ -5136,7 +5136,7 @@ Message from the Governor-General recommending appropriation announced.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011</title>,BILLS,32,1
+",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2011 Measures No. 9) Bill 2011</title>,BILLS,32,1,speech
 "Smith, Tony, MP",LP,2012-02-13,"
 
 
@@ -5156,7 +5156,7 @@ With respect to the goods and services tax, the bill outlines two things with re
 
 Finally, schedule 5 adds the Rhodes Trust to the deductible gift recipient list. Of course the Rhodes Trust raises funds to augment the existing Rhodes Scholarship program at Oxford. I also noticed from the then Assistant Treasurer's second reading speech that there is also a name change to another organisation. As I said at the start, schedule 6 deals with some miscellaneous amendments to correct some unintended errors with some technical corrections. On behalf of the opposition I commend the bill to House. As I said at the outset, we will be supporting this bill through both houses.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2,speech
 "Neumann, Shayne, MP",ALP,2012-02-13,"
 
 
@@ -5210,7 +5210,7 @@ We are committed, on this side of the chamber, to high-skilled, good wages. And 
 
 It is almost a road to Damascus conversion experience from those opposite—actually now supporting good pieces of legislation, reforming the tax system and reforming superannuation. And if, like Saint Paul on the road to Damascus, this is when they have seen the light, we are very pleased and we support the legislation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2,speech
 "Ciobo, Steven, MP",LP,2012-02-13,"
 
 
@@ -5236,7 +5236,7 @@ The member for Blair and others have spoken about the Rhodes Trust being added t
 
 I am pleased to associate myself with the bill. It is a bill that will clarify a number of matters in relation to taxation. At the outset I addressed very directly some of the spurious assertions that were made by the member for Blair and corrected the record with respect to the fact that there is another side to that coin about providing for Australians' retirement incomes, and that is to control the cost of living.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2,speech
 "Owens, Julie, MP",ALP,2012-02-13,"
 
 
@@ -5283,7 +5283,7 @@ Schedule 4 involves the GST treatment of new residential premises. The amendment
 
 There are a number of miscellaneous amendments in schedule 6 that I will not go into. They are mainly quite administrative—too administrative even for a person who loves tax or amendments. Again, it is a rather nice little collection of amendments that reduce complexity for small business, clarify tax law and have benefits for cash-flow management for small business. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2,speech
 "Buchholz, Scott, MP",LP,2012-02-13,"
 
 
@@ -5328,7 +5328,7 @@ Schedule 5 speaks about the adding of the Rhodes Trust to the list of deductible
 
 The bill makes technical corrections and other minor and miscellaneous amendments to the taxation laws. The coalition sees no serious issues with this legislation and does not intend to oppose it. I believe the provisions of the bill are to be applied as of 1 July 2012, and I am pleased to associate myself with the bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2,speech
 "Leigh, Andrew, MP",ALP,2012-02-13,"
 
 
@@ -5405,7 +5405,7 @@ This is a fundamental piece of economic legislation that underpins the Gillard g
 
 Let me conclude with the words of a constituent who came and saw me in the mobile office that I attended on Saturday at the National Multicultural Festival. He said to me: 'When you look out across all the people at this festival probably almost none of us will still be here in 80 years time, but our children and grandchildren will be here and the reforms we are putting into place are ensuring that their prosperity is upheld. Yes, they are good for the current generations but they are recognising that in politics we do what we can for the future. We are not here just to scaremonger.' He said: 'You should see through what Mr Abbott is proposing. You should see out his negativity and you should see him out of politics, because what is important is the future prosperity of all Australians.' I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2,speech
 "Jones, Stephen, MP",ALP,2012-02-13,"
 
 
@@ -5434,7 +5434,7 @@ This means a lot to ordinary working families in my electorate of Throsby in the
 
 I commend the minister for bringing this bill before the House, and I am delighted to have the opportunity to speak on the matter. As I said, it is a part of an important Labor project. At the heart of that important Labor project is this simple idea: if somebody works their entire life then they are entitled to a dignified retirement, not one that is reliant upon a pension and the vagaries of government decision making in relation to that pension. They are entitled to retire on the savings income that they have earned for their entire life. This bill is going to do its bit to ensure that $12.9 billion finds its rightful owners. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2,speech
 "Bradbury, David, MP",ALP,2012-02-13,"
 
 
@@ -5497,7 +5497,7 @@ Message from the Governor-General recommending appropriation announced.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2,speech
 "Wyatt, Ken, MP",LP,2012-02-13,"
 
 
@@ -5571,7 +5571,7 @@ In no sense has the Inquiry been ‘raking over the past’ for its own sake. Th
 
 Walking and working together and in unity mend what was the past but build for a future that strengthens our nation.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Sorry Day</title>,STATEMENTS ON INDULGENCE,33,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Sorry Day</title>,STATEMENTS ON INDULGENCE,33,1,speech
 "Leigh, Andrew, MP",ALP,2012-02-13,"
 
 
@@ -5609,7 +5609,7 @@ There are many Indigenous constituents of whom I am enormously proud. Peter Rado
 
 So it is a day to say sorry but it is also a day to look forward with optimism to an Australia that closes the gaps and engenders a great sense of pride in our extraordinary Indigenous heritage.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Sorry Day</title>,STATEMENTS ON INDULGENCE,33,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Sorry Day</title>,STATEMENTS ON INDULGENCE,33,1,speech
 "McCormack, Michael, MP",Nats,2012-02-13,"
 
 
@@ -5660,7 +5660,7 @@ It is a tremendous concept and would make such a difference to more lives if it 
 
 The sorry speech was a start. Let us, as a parliament and a Commonwealth, now work towards real improvements in Aboriginal health, Aboriginal education and Aboriginal housing as a means to being genuine partners, together united towards a better future.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Sorry Day</title>,STATEMENTS ON INDULGENCE,33,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Sorry Day</title>,STATEMENTS ON INDULGENCE,33,1,speech
 "Jenkins, Harry, MP",ALP,2012-02-13,"
 
 
@@ -5713,7 +5713,7 @@ In Aboriginal society there is no word, term or expression for ‘health’ as i
 
 That is the important thing in so much of Indigenous culture that transcends our known bounds of definition—the association with the land and that type of thought about health. To our Indigenous brothers and sisters I indicate that I am pleased that the journey has a greater pace than when I was first elected to this place. It is not the end; it is part of the beginning. We should all be determined to ensure that the gaps are closed.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Sorry Day</title>,STATEMENTS ON INDULGENCE,33,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Sorry Day</title>,STATEMENTS ON INDULGENCE,33,1,speech
 "Stone, Dr Sharman, MP",LP,2012-02-13,"
 
 
@@ -5775,7 +5775,7 @@ I am very pleased to be the Deputy Chair of the House of Representatives Standin
 
 We have come a very long way from our often brutal colonial views and actions. We are a great nation with a great future for all Australians and our spirit of reconciliation is a lesson to be learned by many other countries struggling to reach the point that we are now at in our nation. But we must never forget the past as we build a better future. We must never forget that all things are possible when people from different parts of the country remember that we are in fact all humans with equal opportunities and with an equal sense of our own humanity.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Sorry Day</title>,STATEMENTS ON INDULGENCE,33,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Sorry Day</title>,STATEMENTS ON INDULGENCE,33,1,speech
 "Parke, Melissa, MP",ALP,2012-02-13,"
 
 
@@ -5804,7 +5804,7 @@ It was noted that one of the criteria for a democratic parliament is that it sho
 
 The Chiapas Declaration made a number of recommendations, including that a debate be held in the national parliament on the representation of minorities and indigenous peoples and that a national plan of action be developed to make the right of equal participation and nondiscrimination a reality. The declaration also called upon political parties to promote the effective participation of minorities and indigenous peoples. I intend to move a motion relating to the Chiapas Declaration in the near future and I hope I will have the support of the whole parliament. As other speakers to this Sorry Day motion have noted, the original Sorry Day four years ago was, of course, not a final resolution but just the beginning of making things right. Some progress has been made and much remains to be done. As said so eloquently just now by the member for Scullin, we are on a journey together. I applaud the work of Reconciliation Australia, the National Congress of Australia's First Peoples, the Close the Gap campaign, the Deaths in Custody Watch Committee, Halo, the Aboriginal and Torres Strait Islander Social Justice Commissioner and all those committed in this place and elsewhere to genuine progress and reconciliation, both substantive and symbolic, for Indigenous Australians.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Sorry Day</title>,STATEMENTS ON INDULGENCE,33,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Sorry Day</title>,STATEMENTS ON INDULGENCE,33,1,speech
 "Husic, Ed, MP",ALP,2012-02-13,"
 
 
@@ -5857,7 +5857,7 @@ Again, it is an honour for me not only to participate in the debate but also to 
 
 Debate adjourned.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Sorry Day</title>,STATEMENTS ON INDULGENCE,33,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Sorry Day</title>,STATEMENTS ON INDULGENCE,33,1,speech
 "Oakeshott, Robert, MP",Ind.,2012-02-13,"
 
 
@@ -5877,7 +5877,7 @@ In 2000 the Howard government introduced the microbrewery refund to nurture the 
 
 Alcohol tax was off the agenda at the national tax forum, wrongly in my opinion. That is why I have brought this motion before this House. The major parties in the Senate have previously rejected a similar motion to this. However, that motion was highly prescriptive, containing a definitive change to the rebate threshold to 300,000 litres. So, in the interests of giving the major parties and every member of parliament room to move, this is simply a call for the rebate to be significantly lifted and, hopefully, in considerations leading up to this year's budget or in any of the considerations from the Treasurer and the executive, that lift of the rebate can occur. I trust that the merit of supporting small, often regional, Australian businesses against dominant foreign-owned competitors will compel all members of this chamber and the major parties and the executive to support this motion and to get to work on developing fairer tax arrangements for microbreweries in Australia.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Microbrewery Refunds</title>,PRIVATE MEMBERS' BUSINESS,34,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Microbrewery Refunds</title>,PRIVATE MEMBERS' BUSINESS,34,1,speech
 "Jones, Ewen, MP",LP,2012-02-13,"
 
 
@@ -5894,7 +5894,7 @@ Whilst I have the floor, I would like to say a couple things. While the governme
 
 I support the member for Lyne on this issue and I believe that what we are trying to do in Australia is create a finer art of what beer actually is. We are now an international beer drinking nation. It is not that you are stuck with one brand for life. I do not mind South Australian beer. I love Tasmanian beer. New South Wales and Victorian beers still leave me a bit cold. Queensland beer is still the best in the world. We should be doing everything we can to support these industries because they do bring so much to regional communities.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Microbrewery Refunds</title>,PRIVATE MEMBERS' BUSINESS,34,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Microbrewery Refunds</title>,PRIVATE MEMBERS' BUSINESS,34,1,speech
 "Adams, Dick, MP",ALP,2012-02-13,"
 
 
@@ -5914,7 +5914,7 @@ There are seven microbreweries in Tasmania, five in my electorate. They value-ad
 
 Tourism is coming along. A meadery is being built and there is also a hop garden. The old hops are part of the tourism opportunities around a microbrewery. So there are very productive and innovative projects adding to the economy in Tasmania, as we have heard from members from other parts of our country. We need to build on this. The government have not been backward. I understand that the government have assisted and they are very sympathetic to the arguments being put forward. I understand there has been some reform in the small business sector here. They used to have to pay excise within seven days, but they can now get it out to 21 days or 51 days. That is a plus. We are also broadly delivering value tax relief to about 2.7 million Australian small businesses. There is also the issue of the mining tax, which will give opportunities for small business to write down assets of $6,500. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Microbrewery Refunds</title>,PRIVATE MEMBERS' BUSINESS,34,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Microbrewery Refunds</title>,PRIVATE MEMBERS' BUSINESS,34,1,speech
 "Andrews, Karen, MP",LP,2012-02-13,"
 
 
@@ -5937,7 +5937,7 @@ From the customer side, the Australian brewing market is now dominated by two ma
 
 Debate adjourned.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Microbrewery Refunds</title>,PRIVATE MEMBERS' BUSINESS,34,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Microbrewery Refunds</title>,PRIVATE MEMBERS' BUSINESS,34,1,speech
 "Alexander, John, MP",LP,2012-02-13,"
 
 
@@ -5984,4 +5984,4 @@ The final judgment on our performance in dealing with our opportunities gained o
 
 It is time to face this next foe with the same courage, this time armed with vision from a liberated imagination and a future greater than the one envisaged by those who did not dare to dream. Perhaps we can embrace that future whilst riding on the back of a very fast train, opening up our boundless plains for industry, for jobs, facilitating growth and productivity. Then we would have made our own luck, and she would be all right.
 
-",HoR,<title>GRIEVANCE DEBATE</title>,<title>Bennelong Electorate: Housing and Infrastructure</title>,GRIEVANCE DEBATE,35,1
+",HoR,<title>GRIEVANCE DEBATE</title>,<title>Bennelong Electorate: Housing and Infrastructure</title>,GRIEVANCE DEBATE,35,1,speech

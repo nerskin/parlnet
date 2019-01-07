@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Pyne, Christopher, MP",LP,2014-06-24,"
 
 
@@ -30,7 +30,7 @@ That:
 
 On 8 July, Tuesday week, at 10.50 am the Prime Minister of Japan will be attending the parliament to address a joint sitting of the Senate and the House of Representatives. We envisage that that will take an hour or so and other invitations may be issued to members for the rest of the day. We are very much looking forward to the Prime Minister of Japan visiting Australia and we are privileged and honoured that he will accept our invitation to address the parliament on 8 July at 10.50 am.
 
-",HoR,<title>MOTIONS</title>,<title>Address by the Prime Minister of Japan</title>,MOTIONS,0,1
+",HoR,<title>MOTIONS</title>,<title>Address by the Prime Minister of Japan</title>,MOTIONS,0,1,speech
 "Burke, Tony, MP",ALP,2014-06-24,"
 
 
@@ -45,7 +45,7 @@ The SPEAKER:  I thank the Leader of the House and the Manager of Opposition Busi
 
 Question agreed to.
 
-",HoR,<title>MOTIONS</title>,<title>Address by the Prime Minister of Japan</title>,MOTIONS,0,1
+",HoR,<title>MOTIONS</title>,<title>Address by the Prime Minister of Japan</title>,MOTIONS,0,1,speech
 "Feeney, David, MP",ALP,2014-06-24,"
 
 
@@ -62,7 +62,7 @@ This situation is made even more dire by the unfair GP tax. This ideological tax
 
 The Abbott government's decision to cut the schoolkids bonus betrays the young people of Batman and their families. (Time expired)
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Budget</title>,STATEMENTS BY MEMBERS,2,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Budget</title>,STATEMENTS BY MEMBERS,2,1,speech
 "Abbott, Tony, MP",LP,2014-06-24,"
 
 
@@ -73,7 +73,7 @@ Mr ABBOTT
 
 Some weeks ago, I spoke to the Acting President of Egypt, Mr Mansour. Over the weekend I spoke to the newly elected President of Egypt, President al-Sisi. I want to assure the House that the Australian government will continue to make intercessions at every level with the Egyptian government and elsewhere to try to ensure that Peter Greste and his colleagues are swiftly released.
 
-",HoR,<title>STATEMENTS</title>,"<title>Greste, Mr Peter</title>",STATEMENTS,3,1
+",HoR,<title>STATEMENTS</title>,"<title>Greste, Mr Peter</title>",STATEMENTS,3,1,speech
 "Shorten, Bill, MP",ALP,2014-06-24,"
 
 
@@ -93,7 +93,128 @@ This morning I wrote to the Prime Minister to advise that Labor will be taking a
 
 I also recognise that for all our fine words, Peter Greste is still in jail in Egypt. The real challenge is to bring him home.
 
-",HoR,<title>STATEMENTS</title>,"<title>Greste, Mr Peter</title>",STATEMENTS,3,1
+",HoR,<title>STATEMENTS</title>,"<title>Greste, Mr Peter</title>",STATEMENTS,3,1,speech
+"Marles, Richard, MP",ALP,2014-06-24,"
+
+
+
+Mr MARLES
+ (Corio) (14:03):  In the budget, the Prime Minister cruelly cut the non-contributory family visa, which will remove the ability of low-income Australian families with overseas parents to ever be permanently reunited. Why is the Prime Minister punishing low- and middle-income Australian families?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Migration</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Morrison, Scott, MP",LP,2014-06-24,"
+
+
+
+Mr MORRISON
+ (Cook—Minister for Immigration and Border Protection) (14:04):  I thank the Prime Minister for the opportunity to respond to the question from the member for Corio. Next year's migration program has been set to ensure that we focus on skilled migration. We are ensuring that more than two-thirds of the intake for next year will be for skilled migrants because the best way to ensure the cohesion of our society through our migration program is to focus on skilled migration. One of the great achievements of the Howard government was to ensure that we reversed the low level of skilled intake that we had under the Hawke and Keating governments, which fell to less than 30 per cent. It went to as high as 70 per cent under the Howard government. 
+
+
+I note that that was one of the things that the previous government did not change. If only they took that approach to other immigration policies of the Howard government. But on the matter that the member has raised, it is true: we have decided to increase the number of places available for the contributing parent scheme. We have done that by reducing the number for the non-contributing parent visa scheme, because under our migration program we invite people into the country who are able to come and to pay their way. We maintain a program—
+
+
+
+
+Mr Burke:
+  I rise on a point of order. The question was specifically about the people who do not have to pay $50,000.
+
+
+
+The SPEAKER:  There is no point of order; the member will resume his seat.
+
+
+
+
+Mr MORRISON:
+  I was saying, in my answer to the specific question put to me, that we have increased the number of places for the contributing parents scheme, and we have reduced the number of places for the non-contributing scheme.
+
+
+
+
+Ms Plibersek:
+  To zero!
+
+
+
+Opposition members interjecting—
+
+
+
+
+Mr MORRISON:
+  It has not gone to zero, at all, as opposition members who are interjecting know. They know little about these matters. Under our program we ensure that we encourage people to come to Australia the right way, we stop people who are trying to come the wrong way—something the previous government could not do—and we ensure that there is a program that is fair and balanced and continues to build on the success of Australia's immigration program.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Migration</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Shorten, Bill, MP",ALP,2014-06-24,"
+
+
+
+Mr SHORTEN
+
+
+
+(
+Maribyrnong
+—
+Leader of the Opposition
+)
+
+
+(
+14:
+43
+):  My question is to the Prime Minister. Within 10 years, pensioners will end up $4,000 a year worse off because of the Prime Minister's cuts to pension indexation. Pensioners will also have to pay for the Prime Minister's cuts to pension concessions, the new GP tax and the higher petrol tax. Why should pensioners, who have worked hard their whole lives, be forced to pay for this Prime Minister's dishonesty?
+
+
+
+The SPEAKER:  The Prime Minister has the call. I repeat: the tag line broadens the nature of the question considerably.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Abbott, Tony, MP",LP,2014-06-24,"
+
+
+
+Mr ABBOTT
+ (Warringah—Prime Minister) (14:44):  As the pensioners of this country understand, this government inherited a debt and deficit disaster, thanks to the incompetence and the untrustworthiness of members opposite. We said that we would not change pensions, and pensions do not get changed until after the next election. They do not get changed until after the next election. 
+
+
+What we propose to do after the next election is to apply the same indexation to pensions as members opposite applied to family tax benefit. If it is right for members opposite to apply this particular indexation to family tax benefit, how can it be somehow grievously wrong to do it for the pensions? Let me repeat for the benefit of members opposite and for the benefit of people right around Australia who members opposite are seeking to deceive: the pension goes up every six months every year. When members opposite changed the indexation method that applies to the family tax benefit, no less a person and no less a guardian of ethics and morality than the member for Jagajaga herself said in this House:
+
+
+The removal of the link to earnings ensures that government expenditure on—
+
+
+this particular social security benefit—
+
+
+is more sustainable in the long term.
+
+
+That is what Jenny Macklin, the member for Jagajaga, said. She said that they were changing indexation to make that particular social security benefit 'more sustainable in the long term'. The difference between this government and members opposite is that we want the pension to be sustainable.
+
+
+
+
+Mr Laurie Ferguson:
+  So you lied.
+
+
+
+
+Mr ABBOTT:
+  There are no pie-in-the-sky promises from this government. There are no cash splashes with borrowed money from this government. What there is from this government is decent, sensible, prudent government, and I think that pensioners of Australia understand that.
+
+
+
+The SPEAKER:  The member for Werriwa will withdraw his comment.
+
+
+
+
+Mr Laurie Ferguson:
+  I withdraw.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
 "Morrison, Scott, MP",LP,2014-06-24,"
 
 
@@ -101,7 +222,7 @@ I also recognise that for all our fine words, Peter Greste is still in jail in E
 Mr MORRISON
  (Cook—Minister for Immigration and Border Protection) (15:12):  In response to the question put to the Prime Minister by the member for Corio, I can confirm that the non-contributory parent visa planning outcome for next year is 1,500 places. A suggestion was made by those opposite that there were no places in that program next year. There are 1,500 places in that program next year.
 
-",HoR,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Migration</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,7,1
+",HoR,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Migration</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,7,1,speech
 "Bishop, Bronwyn, MP",LP,2014-06-24,"
 
 
@@ -121,7 +242,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Butler, Mark, MP",ALP,2014-06-24,"
 
 
@@ -177,7 +298,7 @@ This government is not content just to shut down environmental programs. It is a
 
 This fortnight, in the World Heritage Committee, we have seen the culmination of a couple of very serious problems that this government has around environmental protection. I am sure the member for Watson will address one of these issues in far more detail than I have time to. Last night, we saw the World Heritage Committee dismiss out of hand one of the most bizarre applications we have ever seen from the Commonwealth of Australia, a country that has been a responsible, leading citizen of the World Heritage system for the 40 years since it became only the seventh nation to join the World Heritage convention. It is a bizarre application to delist 70,000 hectares, which rightly has been dismissed out of hand by the World Heritage Committee, and it follows on from a decision by the World Heritage Committee only last week which called on this government to postpone and to hold back on the handover of environmental protection powers to state and local governments because it might impact on the Great Barrier Reef. This government has not even bothered to respond to that decision by the World Heritage Committee. There has been no response that I have seen to the World Heritage Committee's call to postpone the handover of environmental protection powers to state and local governments. Instead, what we saw was this government persisting in bringing forward legislation in blatant disregard of the committee's recommendation—an ultimate decision to push legislation through to hand over the environmental protection powers. It is the culmination of an appalling record on environmental protection.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Hunt, Greg, MP",LP,2014-06-24,"
 
 
@@ -225,7 +346,7 @@ In terms of clean water, we have completed the work of the Murray-Darling Basin 
 
 I want to deal with some of the claims made in relation to World Heritage. As members opposite would know, in 2011, under their watch, the World Heritage Committee raised questions about the status of the reef—and in 2012 and 2013. This year they made a finding that there had been significant work and progress. They made a finding that they were moving towards a positive outcome. In other words, after three years of failure, we have had the most significant improvement yet in the findings of that body. In relation to the decision last night, we had a mandate; we took it to the people and we were given that mandate. We then took it to the international body. We accept the umpire's decision, as does the Tasmanian government. Yes, there is disappointment in that, but let me be clear: we accept the umpire's decision there. Do you accept the umpire's decision in terms of the Australian people and the carbon tax? If you do, get out of the way! (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Burke, Tony, MP",ALP,2014-06-24,"
 
 
@@ -251,7 +372,7 @@ And let us not forget the significance of the Tasmanian Forestry Agreement and t
 
 Those who understand modern forestry industries understand that you need your export markets, which, increasingly, require certification. The key to certification has been saved for export markets for Tasmanian timber, because the World Heritage Committee had a level of responsibility that the Australian government did not have. It had a level of responsibility of ensuring that the long-term interests of the Tasmanian timber industry to keep that agreement in place did remain in place. That is why the forestry industry themselves wrote to the World Heritage Committee pleading to reject what the Australian government were trying to do. They had done the right thing by the Australian environment. The tallest flowering plants in the world get protected, the forestry industry gets protected out of this and the political game that the government tried to play is at an end. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Kelly, Craig, MP",LP,2014-06-24,"
 
 
@@ -271,7 +392,7 @@ When people burn wood, yes, you release carbon dioxide. But you also release, of
 
 So we are making electricity dearer, we are forcing people to burn wood, because that is all they can afford—they cannot afford to turn on their heater—and that is releasing particulate matter in Western Sydney. It is of particular concern in Western Sydney because of the unique nature of our topography. We know that particulate matter gets trapped in there for days and days. In fact, over the last few years we have seen a significant and dangerous increase in particulate matter in Western Sydney. In fact, last year in Liverpool we were above the World Health Organization's recommended standard of PM10. We were also above the World Health Organization standard of PM10. This is simple. The major component of that particulate matter as measured by ANSTO is people burning wood from their fireplace. There is a clear link. As we increase electricity prices through the carbon tax we find more people burning wood to keep themselves warm and we are getting more particulate matter in the atmosphere. That is causing death and disease; it is harming the environment. That is why the carbon tax must go.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Parke, Melissa, MP",ALP,2014-06-24,"
 
 
@@ -294,7 +415,7 @@ I want to acknowledge yesterday's decision by UNESCO at its World Heritage Commi
 
 The Prime Minister has recently described himself as a conservationist and I am sure the overwhelming majority of Australians would like him to make good on that claim. But actions speak louder than words, and on the evidence before us the Prime Minister and the government he leads are now seeking to accelerate down the road to long-term environmental harm. 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Nikolic, Andrew, MP",LP,2014-06-24,"
 
 
@@ -314,7 +435,7 @@ We have two valuable Green Army projects—one from King's Bridge to Duck Reach 
 
 There are so many good projects for my community that have both strong interest and support, and these things are long overdue. So how dare those opposite, like the member for Port Adelaide, come in here and engage in such rampant hypocrisy after six years of their policy record: the train wreck of waste and thoughtless ideology over substance; the carbon tax which cost $15.4 billion over two years, yet emissions go up; the Home Insulation Program, which resulted in four deaths, 224 home fires, 70,000 repairs and $500 million to fix the problems it caused; the bungled Green Loans program—and I can go on and on. What I ask the member for Port Adelaide and those opposite to do is spare us the lectures and hypocrisy, get out of our way and let us fix your mess. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Perrett, Graham, MP",ALP,2014-06-24,"
 
 
@@ -355,7 +476,7 @@ Mr Nikolic interjecting—
 Mr PERRETT:
   Obviously, we have some over there like the member for Bass, who has all the vision of the southern marsupial mole, lives in a burrow and does not really understand how things are going. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Landry, Michelle, MP",Nats,2014-06-24,"
 
 
@@ -424,7 +545,7 @@ The London Telegraph went on to describe Labor's carbon tax as 'perhaps the most
 
 Let me get back to the very first point I raised—that Labor's matter of public importance today is a joke. It reminds me of the last lines of a song. I will not sing it, but it goes like this: 'Send in the clowns, send in the clowns. Don't worry, they're here.'
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Butler, Terri, MP",ALP,2014-06-24,"
 
 
@@ -516,7 +637,7 @@ The DEPUTY SPEAKER:  The member for Griffith might refer to the minister by his 
 Ms BUTLER:
   I shall refer to him as the environment minister, thank you very much. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Broadbent, Russell, MP",LP,2014-06-24,"
 
 
@@ -540,7 +661,7 @@ Now, you are going to say that I am right out of order here but I actually do no
 
 The DEPUTY SPEAKER:  No, there is not. The discussion has concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Environment</title>,MATTERS OF PUBLIC IMPORTANCE,10,1,speech
 "Marino, Nola, MP",LP,2014-06-24,"
 
 
@@ -590,7 +711,7 @@ I would like to extend the delegation's thanks to officers of the Department of 
 
 Finally, I thank my fellow delegates for their thoughtful participation in the delegation's meetings and their commitment to our program of work. I also want to thank the officials who accompanied us: Ms Talitha Try from the Office of the Speaker of the House of Representatives; Mr Brien Hallett, from the Department of the Senate; and Jeanette Radcliffe, the delegation's secretary from the Department of the Senate. This was her final delegation in her role as secretary and Jeanette provided us all with outstanding service. Her knowledge and experience was extraordinary and of great value to this parliament and the members of the delegation. I commend the report to the House.
 
-",HoR,<title>DELEGATION REPORTS</title>,<title>Australian Parliamentary Delegation to the 130th Inter-Parliamentary Union Assembly</title>,DELEGATION REPORTS,12,1
+",HoR,<title>DELEGATION REPORTS</title>,<title>Australian Parliamentary Delegation to the 130th Inter-Parliamentary Union Assembly</title>,DELEGATION REPORTS,12,1,speech
 "McCormack, Michael, MP",Nats,2014-06-24,"
 
 
@@ -718,7 +839,7 @@ I commend the bill to the House.
 
 Debate adjourned. 
 
-",HoR,<title>BILLS</title>,"<title>Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Bill 2014</title>",BILLS,13,1
+",HoR,<title>BILLS</title>,"<title>Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Bill 2014</title>",BILLS,13,1,speech
 "Scott, Bruce (The DEPUTY SPEAKER)",Nats,2014-06-24,"
 
 
@@ -729,7 +850,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ) (21:10):  In accordance with the resolution agreed to earlier, I call the minister.
 
-",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1
+",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1,speech
 "Andrews, Kevin, MP",LP,2014-06-24,"
 
 
@@ -741,7 +862,7 @@ Mr ANDREWS
 
 The DEPUTY SPEAKER:  Pursuant to the resolution agreed to earlier, I will now put the question on the Social Security and Other Legislation Amendment (2014 Budget Measures No.1) Bill 2014 and the related bill. The question is that these bills be now read a second time.
 
-",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1
+",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1,speech
 "Macklin, Jenny, MP",ALP,2014-06-24,"
 
 
@@ -860,7 +981,7 @@ Application provision
 
 As I have already given substantial indication of the reasons for these amendments in my speech in the second reading debate, I will not take the time of the house. Because of the gag motion that has been imposed on the House by the government, I will give the opportunity to my colleagues to contribute.
 
-",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1
+",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1,speech
 "Watts, Tim, MP",ALP,2014-06-24,"
 
 
@@ -889,7 +1010,7 @@ I further ask the minister: is it not true that they know what the impacts of th
 
 The next question I have for those opposite is: how can they look Australian families in the eye after going to last election promising to ease cost-of-living pressures on Australian families and then, after the federal budget,  ripping $7.5 billion from family payments? These bills contain freezes on the rates and thresholds of family tax benefits A and B. They also include a freeze on the low-income area for tax benefit A. According to the Department of Social Services, this will see more 370,000 Australian families around $750 a year worse off. So I ask those opposite, who promised to ease cost-of-living pressures on Australian families, how they look Australian parents in the eye.
 
-",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1
+",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1,speech
 "O'Neil, Clare, MP",ALP,2014-06-24,"
 
 
@@ -924,7 +1045,7 @@ It is difficult, amongst a bevvy of absolute nasties in these bills, to single o
 
 The context for this has been fabricated from the very beginning. I do not have time to go into it. We are not in a budget emergency. The Australian budget is in ship shape. Labor took us through a financial crisis and left our economy in great condition. These bills are totally unjustified.
 
-",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1
+",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1,speech
 "Leigh, Andrew, MP",ALP,2014-06-24,"
 
 
@@ -951,7 +1072,7 @@ When the Treasurer talks about leaners is he speaking about carers who are up th
 
 This is a budget which breaks promises like so much kindling. It is not just a budget which increases the deficit. Let us not worry about comparisons with the Treasurer's budget update last year; let us make the comparison with the pre-election economic and fiscal outlook. Compared to that, it is a budget that increases the deficit. The great flaw in this budget is that it breaches the fair go test, and that is why this government wants to talk about anything other than the budget. That is why members and backbenchers want to go out and speak to their constituents about anything other than the broken promises and the breach of the social contract. It is a social contract Australians have held dear and which, as previous members have so articulately highlighted, has been buttressed by a means tested social security net. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1
+",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1,speech
 "Hogan, Kevin, MP",Nats,2014-06-24,"
 
 
@@ -983,7 +1104,7 @@ Like Tracy, this bill recognises that people with a disability who are able to p
 
 That is plain wrong. Instead of rejecting the many skills and abilities people with a disability have, we should embrace and encourage them. Whether it is compulsory work focused activities such as work experience, education or training, the social, economic and health benefits of active participation for disability support pension recipients under 35 years cannot be overstated. So my question to the minister is: what measures are contained in this bill that will encourage greater workforce participation among people living with a disability?
 
-",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1
+",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1,speech
 "Claydon, Sharon, MP",ALP,2014-06-24,"
 
 
@@ -1018,7 +1139,7 @@ That is the lived reality of one job seeker in Newcastle. The notion that this g
 
 Those attacks on young people at this time when people feel their jobs are insecure and they are finding it especially difficult to find work is perhaps amongst the most vicious aspects of these particular bills before us. It is estimated that there will be some 500,000 new claims for emergency assistance as a result of this particular measure. My question to the minister is how does he intend to provide for those half a million— (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1
+",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1,speech
 "Andrews, Kevin, MP",LP,2014-06-24,"
 
 
@@ -1061,7 +1182,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ):  The time allocated to this debate has expired. The question is that the amendments be agreed to.
 
-",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1
+",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1,speech
 "Scott, Bruce (The DEPUTY SPEAKER)",Nats,2014-06-24,"
 
 
@@ -1072,7 +1193,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ) (22:01):  In accordance with the resolution agreed to earlier, I now put the question that the bills be agreed to.
 
-",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1
+",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1,speech
 "Andrews, Kevin, MP",LP,2014-06-24,"
 
 
@@ -1092,7 +1213,7 @@ House adjourned at
 22:09
 
 
-",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1
+",HoR,<title>BILLS</title>,"<title>Social Services and Other Legislation Amendment (2014 Budget Measures No. 1) Bill 2014, Social Services and Other Legislation Amendment (2014 Budget Measures No. 2) Bill 2014</title>",BILLS,15,1,speech
 "Scott, Bruce (The DEPUTY SPEAKER)",Nats,2014-06-24,"
 
 
@@ -1103,7 +1224,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ) (21:10):  In accordance with the resolution agreed to earlier, I call the minister.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2,speech
 "Andrews, Kevin, MP",LP,2014-06-24,"
 
 
@@ -1115,4 +1236,26 @@ Mr ANDREWS
 
 The DEPUTY SPEAKER:  Pursuant to the resolution agreed to earlier, I will now put the question on the Social Security and Other Legislation Amendment (2014 Budget Measures No.1) Bill 2014 and the related bill. The question is that these bills be now read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,15,2,speech
+"Thomson, Kelvin, MP",ALP,2014-06-24,"
+
+
+
+Mr Kelvin Thomson
+  asked the Minister for Foreign Affairs, in writing, on 13 May 2014:
+
+
+In respect of long acting contraceptives Mirena®, DPMA (marketed as Depo Provera® and Depo Ralovera®) and Implanon®, (a) is she aware of their advantages in assisting poor communities in developing countries to access family planning services, and (b) what action is the overseas aid section of her department taking to make them available to these communities as part of Australia's overseas aid program.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Overseas Aid (Question No. 126)</title>,QUESTIONS IN WRITING,17,1,question
+"Bishop, Julie, MP",LP,2014-06-24,"
+
+
+
+Ms Julie Bishop:
+  The answer to the honourable member's question is as follows:
+
+
+Australia's family planning support through the aid program aims to provide the same range of reproductive health and family planning services for women in developing countries as are supported for women in Australia, subject to the national laws of the relevant nation concerned. Australia provides access to a broad range of modern contraception choices, including long acting methods. This support is provided through partners such as Marie Stopes International, the United Nations Population Fund (UNFPA) and bilateral health programs.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Overseas Aid (Question No. 126)</title>,QUESTIONS IN WRITING,17,1,answer

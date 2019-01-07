@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2018-10-18,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER
  (09:30):  I have an update for the House, out of courtesy. As you well know, we've had an ICT network outage. A circular has gone out from the department. The Department of Parliamentary Services has worked through the night and continues to work to restore systems. Just in the last 10 or 15 minutes, emails and some other systems have started to come back online, but it will take a few more hours yet for all systems to be restored. I want to thank members for their patience. In terms of the House itself, our systems here are unaffected in terms of bells, broadcasting and everything else. I just want to make that clear at the start. I do have a handwritten speakers list, which is nice!
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Australian Parliament House</title>,STATEMENT BY THE SPEAKER,0,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Australian Parliament House</title>,STATEMENT BY THE SPEAKER,0,1,speech
 "Frydenberg, Josh, MP",LP,2018-10-18,"
 
 
@@ -131,7 +131,7 @@ Full details of the measure are contained in the explanatory memorandum, and I c
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Making Sure Every State and Territory Gets Their Fair Share of GST) Bill 2018</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Making Sure Every State and Territory Gets Their Fair Share of GST) Bill 2018</title>,BILLS,1,1,speech
 "Hill, Julian, MP",ALP,2018-10-18,"
 
 
@@ -199,7 +199,7 @@ The DEPUTY SPEAKER
 Mr Rob Mitchell
 ):  Well done. I thank the member for Bruce. In accordance with standing order 39, the debate is adjourned and the resumption of the debate will be made an order of the day for the next day of sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,2,1,speech
 "Hill, Julian, MP",ALP,2018-10-18,"
 
 
@@ -213,7 +213,7 @@ That the order of the day be referred to the Federation Chamber for debate.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,2,1,speech
 "Hill, Julian, MP",ALP,2018-10-18,"
 
 
@@ -281,7 +281,7 @@ The DEPUTY SPEAKER
 Mr Rob Mitchell
 ):  Well done. I thank the member for Bruce. In accordance with standing order 39, the debate is adjourned and the resumption of the debate will be made an order of the day for the next day of sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,2,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,2,2,speech
 "Albanese, Anthony, MP",ALP,2018-10-18,"
 
 
@@ -391,7 +391,7 @@ The DEPUTY SPEAKER
 Mr Rob Mitchell
 ):  Is the amendment seconded?
 
-",HoR,<title>BILLS</title>,<title>Maritime Legislation Amendment Bill 2018</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Maritime Legislation Amendment Bill 2018</title>,BILLS,3,1,speech
 "Mitchell, Brian, MP",ALP,2018-10-18,"
 
 
@@ -465,7 +465,7 @@ A combined national effort won that iconic battle that turned the tide in that g
 
 That's why I support the shadow minister's second reading amendment. We must do all we can to rebuild our merchant fleet and support the men and women of Australia's maritime industry.
 
-",HoR,<title>BILLS</title>,<title>Maritime Legislation Amendment Bill 2018</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Maritime Legislation Amendment Bill 2018</title>,BILLS,3,1,speech
 "McCormack, Michael, MP",Nats,2018-10-18,"
 
 
@@ -503,7 +503,7 @@ Original question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Maritime Legislation Amendment Bill 2018</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Maritime Legislation Amendment Bill 2018</title>,BILLS,3,1,speech
 "McCormack, Michael, MP",Nats,2018-10-18,"
 
 
@@ -520,7 +520,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Maritime Legislation Amendment Bill 2018</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Maritime Legislation Amendment Bill 2018</title>,BILLS,3,1,speech
 "Albanese, Anthony, MP",ALP,2018-10-18,"
 
 
@@ -630,7 +630,7 @@ The DEPUTY SPEAKER
 Mr Rob Mitchell
 ):  Is the amendment seconded?
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Mitchell, Brian, MP",ALP,2018-10-18,"
 
 
@@ -704,7 +704,7 @@ A combined national effort won that iconic battle that turned the tide in that g
 
 That's why I support the shadow minister's second reading amendment. We must do all we can to rebuild our merchant fleet and support the men and women of Australia's maritime industry.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "McCormack, Michael, MP",Nats,2018-10-18,"
 
 
@@ -742,7 +742,7 @@ Original question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Watts, Tim, MP",ALP,2018-10-18,"
 
 
@@ -753,7 +753,7 @@ Mr WATTS
 
 But the great part of Australian democracy is that I can say all of these things about those opposite, in this place, without being scared of being tortured or having my family disappeared. Australian voters can say things like this without the fear of that too, and together we can try to fix it—to change a government and to elect MPs who will do a better job. Over decades, hundreds of thousands of people have fled their countries of birth, choosing to make Australia their new home, because they understand firsthand just how precious Australian democracy is. I say to all Australians, particularly young Australians: be angry—there's lots to be angry about—but don't give up on democracy. Speak out, organise, enrol, vote and fight to make our democracy live up to its promise.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Australian Values Study</title>,STATEMENTS BY MEMBERS,4,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Australian Values Study</title>,STATEMENTS BY MEMBERS,4,1,speech
 "Morrison, Scott, MP",LP,2018-10-18,"
 
 
@@ -780,7 +780,7 @@ I've been married for 28 years. We celebrate birthdays every year just by living
 
 And so, on behalf of the government and the country, I want them to have a very happy anniversary tomorrow. I know the member for Mayo is attending the celebration. I am sure she will convey the joy of this parliament. May God bless you both and may you have many more years of good health, love and happiness.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Collings, Mrs Esther and Mr Ronald</title>",STATEMENTS ON INDULGENCE,5,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Collings, Mrs Esther and Mr Ronald</title>",STATEMENTS ON INDULGENCE,5,1,speech
 "Shorten, Bill, MP",ALP,2018-10-18,"
 
 
@@ -794,7 +794,7 @@ As honourable members would know, traditionally anniversary gifts begin with pap
 
 In your long lives together, I'm sure you've had thousands of sparkling diamonds of happiness and countless pearls of joy and laughter. Congratulations from all of us. Enjoy your afternoon tea tomorrow. Best wishes to you and all your family for the time ahead.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Collings, Mrs Esther and Mr Ronald</title>",STATEMENTS ON INDULGENCE,5,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Collings, Mrs Esther and Mr Ronald</title>",STATEMENTS ON INDULGENCE,5,1,speech
 "Sharkie, Rebekha, MP",CA,2018-10-18,"
 
 
@@ -808,7 +808,136 @@ After meeting at the picture theatre, they married in 1938 at just 23 and 22 yea
 
 What always strikes me when I talk to couples who have been together for decades and weathered the storms of life together is: what is your secret to making such a successful relationship? I'm told it's compromise and communication. Mr Collings loves his footy—regrettably, he loves the Sydney Swans and not the Adelaide Crows—while Mrs Collings prefers yoga. Both have given each other the space and time to support each other's own pursuits. I think they're a good example for all of us here in the parliament, and I know all of Mayo is very proud of them. So I congratulate Ron and Esther Collings on reaching their 80th wedding anniversary, and I look forward to sharing in their wonderful celebration tomorrow.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Collings, Mrs Esther and Mr Ronald</title>",STATEMENTS ON INDULGENCE,5,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,"<title>Collings, Mrs Esther and Mr Ronald</title>",STATEMENTS ON INDULGENCE,5,1,speech
+"Shorten, Bill, MP",ALP,2018-10-18,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:07):  My question is to the Prime Minister. Is the Prime Minister concerned about an ASIO bulletin circulated on 15 October regarding the proposal to move Australia's embassy to Jerusalem, which the Prime Minister announced on 16 October, that was marked 'secret, Australian eyes only'? Is he concerned about it being leaked from within the government, and why did the Prime Minister fail to initiate a full cabinet process to fully consider the serious implications of his proposal?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Embassy: Israel</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Morrison, Scott, MP",LP,2018-10-18,"
+
+
+
+Mr MORRISON
+ (Cook—Prime Minister) (14:07):  I'm advised by the Director-General of Security and the head of ASIO, Duncan Lewis, that, at this time, there is no evidence of planned violence in response to the government's announcement. There's no evidence of that. ASIO, as a matter of routine, provides this advice to Commonwealth and state governments on security matters, as it should. The director-general has advised me that he has spoken with the Commissioner of the Australian Federal Police and will formally refer this matter to the AFP for investigation. The government, of course, does not comment on the contents of security advice and intelligence matters. I want to repeat and reassure Australians that ASIO has no evidence at this time of any planned violence in response to the government's announcement on 16 October, and the matter was fully discussed by cabinet.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Embassy: Israel</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Wilkie, Andrew, MP",IND,2018-10-18,"
+
+
+
+Mr WILKIE
+ (Denison) (14:29):  My question is to the Prime Minister. Prime Minister, you and the Minister for Home Affairs misled parliament yesterday when it was claimed there are about 65 medical personnel on Nauru and that children are evacuated on their advice. The truth is there's only half that number at any time and medical advice is routinely overturned by Border Force. In fact, virtually all the children that have been evacuated were because of Federal Court orders or the threat of legal action. Prime Minister, will you correct the record, or will you continue to peddle lies about the abuse of the children suffering in Nauru? After all, the community expects politicians to lie but not to lie about children's lives.
+
+
+
+The SPEAKER:  The Leader of the House on a predictable point of order.
+
+
+
+
+Mr Pyne:
+  The member for Denison has been here long enough to know that if he wants to accuse any member of the House of misleading the parliament then he has to do so by a substantive motion, and he also can't accuse people of telling lies in the parliament, particularly not in a question.
+
+
+
+The SPEAKER:  On the second point, the Leader of the Opposition is right. On the first he's wrong, and I'll explain why. The term 'deliberately mislead' would—
+
+
+
+Mr Hill interjecting—
+
+
+
+The SPEAKER:  The member for Bruce can leave under 94(a). I'm not going to be continually interrupted.
+
+
+
+
+The member for 
+Bruce
+ then left the chamber.
+
+
+
+
+The SPEAKER:  The words 'deliberately mislead' can't be made other than by a substantive motion, but the word 'lie' cannot be used. There's a long history of that. That needs to be withdrawn and—
+
+
+
+An opposition member interjecting—
+
+
+
+The SPEAKER:  Well, I'm not going to have members on either side argue with black-and-white history. There was a former member of the Gillard government who was asked by the Speaker to withdraw that term, and certainly withdrew that term and came up with other terms. There are other terms, but I'm not going to give you an education on the terms you can use, okay? Seriously, I'm not conducting some sort of class. The member for Denison needs to rephrase the question or withdraw those words.
+
+
+
+
+Mr WILKIE:
+  Speaker, the truth matters. Everything in my question is truthful and I won't withdraw it.
+
+
+
+The SPEAKER:  Okay then; we'll just move to the next question. The member for Port Adelaide.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Immigration Detention</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Evans, Trevor, MP",LP,2018-10-18,"
+
+
+
+Mr EVANS
+ (Brisbane) (14:40):  My question is to the Minister for Health. Will the minister update the House on how our government's plan for a strong economy enables investment in life-changing medicines like Spinraza or Orkambi? Is the minister aware of any alternative approaches to economic management that could place this investment at risk?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Pharmaceutical Benefits Scheme</title>,QUESTIONS WITHOUT NOTICE,10,1,question
+"Hunt, Greg, MP",LP,2018-10-18,"
+
+
+
+Mr HUNT
+ (Flinders—Minister for Health) (14:41):  I want to thank the member for Brisbane, who, before coming to this place, was a strong advocate for a strong economy through his work with small businesses and, since coming to this place, has built on that work with being a strong advocate for the listing of new medicines such as Orkambi, in which he took a deep, strong, personal interest. One of the things that he knows is that it is critical that we have a strong economy in order to list these new medicines because, if we don't, as we saw earlier, if fiscal circumstances did not permit, as was the case under a previous government, new medicines would be deferred. We've dealt with that risk at length this week.
+
+
+But I particularly want to focus on why the strong economy allows us to list these new medicines. In particular, today, we see an unemployment rate of five per cent and 1.1 million new jobs. That allows us to ensure that all of the new medicines that the medical experts recommend should be listed are listed.
+
+
+There's one in particular that I want to focus on because this brings us all to the point of why we are in this House—the very things that we seek to achieve. One of the topics that the Prime Minister helped bring to the parliament was spinal muscular atrophy. It's a cause that's been deep and close to him, and it's something about which he has been passionate. A new medicine that we were able to list earlier in the year was Spinraza. Spinraza, which is also known as nusinersen, is for spinal muscular atrophy.
+
+
+I've received a letter which was conveyed to the member for Corangamite from a family in her electorate, the family of Stephanie Nave. I met with the parents, Amanda and Mark. They talked about what this medicine, which would have cost $370,000, has meant, since it was listed, for their beautiful little daughter Stephanie. As Amanda says: 'It has now been four months since she'—this is Stephanie—'and the first batch of SMA kids to be treated have started, and, for Stephanie at least, the results have been nothing short of amazing. At her physio visit seven days after the first treatment, she was not only able to sit in a preloved manual wheelchair that friends had given us, but she could push it, on carpet. Each and every day we see new things, and she is continuing to get stronger. She has more energy. She's become very chatty, and, because her lungs are stronger, with increased respiratory muscle strength, she's spending a lot of time singing. It is wonderful to finally have some optimism and return to a time when you are able to celebrate milestones and not simply watch skills vanish.'
+
+
+This is the story of listing new medicines. This is the reason we have a strong economy. This is why we deliver the new medicines, because, at the end of the day, whether it's Stephanie or other children, if we can save and protect their lives, then this parliament is doing its job.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Pharmaceutical Benefits Scheme</title>,QUESTIONS WITHOUT NOTICE,10,1,answer
+"Flint, Nicolle, MP",LP,2018-10-18,"
+
+
+
+Ms FLINT
+ (Boothby) (14:50):  My question is to the Minister for Education. Would the minister update the House on how the government's plan for a strong economy enables the government to focus on delivering a quality education for young Australians? What are the risks of alternative approaches?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education</title>,QUESTIONS WITHOUT NOTICE,12,1,question
+"Tehan, Dan, MP",LP,2018-10-18,"
+
+
+
+Mr TEHAN
+ (Wannon—Minister for Education) (14:50):  I thank the member for her question. Following on from that spirit of bipartisanship, I know she would like—as I'm sure all members in this House would—to wish those who are doing their leaving exams, right across the nation, all the very best over the coming weeks, because it will be a very trying time for them.
+
+
+Our government has an economic plan. It's seen more than one million jobs created. It's seen an unemployment rate of five per cent. It's seen economic growth at 3.4 per cent through the year, faster economic growth than any G7 country. It's seen the smallest budget deficit in a decade. We are on track to come back to balance a year earlier, in 2019-20, with a AAA credit rating from the three leading agencies. What does this have to do with education? Everything, because it means that Australians can rely on our government to deliver the essential services we all rely on, the essential services that mean that we can fund the education our kids need. What are we delivering? Record funding for state schools, record funding for Catholic schools and record funding for independent schools. Our government is providing a record $309.6 billion in recurrent funding to all Australian schools from 2018 to 2029, including $88.9 billion over the next four years, delivering for state schools, independent schools and Catholic schools.
+
+
+But we're not just focused on investment; we're focused on outcomes and, in particular, student outcomes. That's why we're working with the states and territories to deliver the National School Reform Agreement. This includes creating a unique student identifier that will give our kids, parents and teachers the ability to view lifelong progression in education so we can identify problems and opportunities and improve results. In addition, learning progressions will provide support for teachers to teach the curriculum in a way that best suits individual students. This means every child will get a year's worth of learning for every year in education.
+
+
+Our government believes that you can improve student outcomes without putting up taxes. Those opposite believe you have to do everything by putting up taxes—$200 billion worth of taxes. Australians know that, if you can manage the budget, you can deliver the essential services Australians rely on. This is what our government is doing.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education</title>,QUESTIONS WITHOUT NOTICE,12,1,answer
 "Smith, Tony, MP",LP,2018-10-18,"
 
 
@@ -831,7 +960,7 @@ With the endorsement of both the relevant House committees, the electronic acces
 
 Finally, can I inform members that this electronic access system has been installed, switched on and operating in the ministerial wing for some months now. I thank the House.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Parliament House: Security</title>,STATEMENT BY THE SPEAKER,15,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Parliament House: Security</title>,STATEMENT BY THE SPEAKER,15,1,speech
 "Smith, Tony, MP",LP,2018-10-18,"
 
 
@@ -851,7 +980,7 @@ I call upon all those honourable members who approve of the proposed discussion 
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Fitzgibbon, Joel, MP",ALP,2018-10-18,"
 
 
@@ -892,7 +1021,7 @@ I've been doing the numbers myself—I know this area just a little—and I reck
 
 One minister today got it right, I think, when he said, as reported in TheSydney Morning Herald, 'They have lost their minds'. But Bernard Keane, in Crikey, might have trumped him when his headline read, 'The return of Joyce is the final insult to an angry electorate'. There's only one way to get us all talking positively about the opportunities in rural and regional Australia. There's only one way to restore services in rural and regional Australia, and that, of course, is to elect a Shorten Labor government. I say bring the election on—and bring it on now. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Coulton, Mark, MP",Nats,2018-10-18,"
 
 
@@ -949,7 +1078,7 @@ Those opposite like to take the high moral ground with renewable energy and clim
 
 We're seeing a massive amount of investment because on this side we understand regional Australia. We don't go out with platitudes; we don't buy the RMs and the big hat and go out and speak slowly so the poor folks in the country can understand us, as I've seen in the past. We understand the people we represent. We understand that working Australians are the heart of this nation and we support them, unlike those opposite, who have been captured by the latte-sipping set from the leafy suburbs of the capital cities. They come in here and have the hide to bring up a matter of public importance as puerile as this one. You'd think the member for Hunter might come up with something more original. It seems we have a bit of deja vu all over again, every couple of weeks. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Jones, Stephen, MP",ALP,2018-10-18,"
 
 
@@ -979,7 +1108,7 @@ Mr Coulton interjecting—
 Mr STEPHEN JONES:
   I hear the minister complaining. They bagged it, they voted against it—year after year after year—and now they're putting press releases out saying, 'Thanks to us you've got the NBN!' These guys are the champions with the jam tin on a string. If we were to leave it to them, that would be the broadband connection that people in country Australia would get. Under their watch, complaints in the telecommunications sector are at four times the level that they are in the financial services sector, and we got a royal commission in the banking and financial sector. These guys reckon that business as usual is okay and that they're going very, very well. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Broad, Andrew, MP",Nats,2018-10-18,"
 
 
@@ -1002,7 +1131,7 @@ I want to tell you something else about a plan. I came to this place five years 
 
 I see they have gone all quiet on that side. That's because when you put it all down on paper and lay it all out, there are millions and millions of dollars in regional Australia that have been delivered by the National Party, but not even an attempt by the state Labor government to match it, and not even an attempt to match it by the Labor Party in this place. The shadow minister for agriculture wants to be the man, but he isn't muscling up to the task. He's had all that time in opposition, and all he's got to present to this parliament is the same Labor plan, which is a plan to tax more, a plan to spend less in regional Australia and a plan to make life very difficult for the people who live in regional Australia.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Keay, Justine, MP",ALP,2018-10-18,"
 
 
@@ -1038,7 +1167,7 @@ I just want to go to this labour shortage and their thought bubble about getting
 
 Who's going to pay for the accommodation of these workers, who have to go to rural parts of the country? Where are they going to stay? How are they going to get there? Some of these people don't have cars, and many of these people are in my electorate. The farms are in my electorate, and did they even bother to speak to the farmers there? No. But I have. They know that that is not the solution to this issue at all. This is another policy failure from a government that have lost touch with the regions. The muppet show rolls on, but our regions need people who will stand up for them, and that is the Labor Party.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Ramsey, Rowan, MP",LP,2018-10-18,"
 
 
@@ -1055,7 +1184,7 @@ I'm very proud to say that I was a farmer before I came into this place. It is i
 
 We've moved well on drought. We have farm household support and the then Prime Minister announced that we would have $12,000 per farming couple as a cash bonus over the next 12 months. We've delivered extra money to allow people to apply for farm household support. We've got the drought concessional loans. We've got the farm finance concessional loans. We've put extra money into support for mental health for farmers who are under pressure at the moment. Because the members of parliament on this side of the chamber represent the vast bulk of regional Australia, we understand regional Australia. That's why we deliver good policy for regional Australia. That's why we have delivered great outcomes. I have really noticed what the last five years have been like compared with the six years before that. There has been a vast improvement.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Swanson, Meryl, MP",ALP,2018-10-18,"
 
 
@@ -1090,7 +1219,7 @@ Ms SWANSON:
 
 I'll tell you what: it is a great travesty to treat our regions with such disrespect. People from the bush and people from the regions are some of the hardest working, most decent, most generous and most caring people. They're looking for good representation. They want to see our country go forward. They want to see their kids do well. They want to see them go to well-funded schools. They want to be able to go to a hospital and not sit in emergency for five hours plus. In fact, someone said to me last week: 'Meryl, my father-in-law went to hospital. He'd had a stroke. There was one doctor for 800 people, and now the thing that has happened to him has irrevocably changed his life.' That's because, as we all know, with stroke victims, you need to have very, very prompt attention. Well, that wasn't coming. That was in a big hospital. The government are a joke. They are not delivering the leadership that we need and deserve in our regions.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Marino, Nola, MP",LP,2018-10-18,"
 
 
@@ -1119,7 +1248,7 @@ But the damage was done. There were young people who actually changed plans, who
 
 I also want to talk briefly about our investment in mobile blackspot towers. When an anaesthetist who lives in Ferguson Valley had to park his car on a hill to be able to get calls, when he was on call, from the local hospital, you know there's a problem. But of course Labor didn't invest one dollar in mobile blackspots. And we have. When I look at the difference that that has made, right around my electorate, to that anaesthetist and then to the health care that's being provided to people in my electorate, I am very, very proud of this program. But I have no doubt that this was not a program that was supported by Labor then, and, if you're talking about regional leadership, this is a core part of it.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "O'Toole, Cathy, MP",ALP,2018-10-18,"
 
 
@@ -1145,7 +1274,7 @@ Then there are the LNP cuts to the National Partnership on Remote Housing. This 
 
 Only Labor will fund hospitals. Only Labor will fund our schools. Only Labor will fund TAFE and universities. It will only ever be Labor that will get Townsville back on track, delivering jobs and apprenticeships and providing the infrastructure that we need to kick off our economy.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Ley, Sussan, MP",LP,2018-10-18,"
 
 
@@ -1180,7 +1309,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  I thank the member. The discussion has concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Husar, Emma, MP",ALP,2018-10-18,"
 
 
@@ -1209,7 +1338,7 @@ Most important, though, are the friendships and the hopes shared at incredible e
 
 I just want to say thank you to Emma and Judy for their long-term dedication and commitment to turning type 1 into type none. The JDRF One Walk will bring together the core of JDRF's message: funding for medical research and fostering community. Together we'll raise money for research while enjoying what is truly great about the JDRF community. I'll be there this Sunday and I will be walking. I will be ready for a fun day, with lunch, kids' activities and all the things that go into recognising the incredible work that Emma and the JDRF team have done.
 
-",HoR,<title>ADJOURNMENT</title>,<title>JDRF</title>,ADJOURNMENT,19,1
+",HoR,<title>ADJOURNMENT</title>,<title>JDRF</title>,ADJOURNMENT,19,1,speech
 "Hayes, Chris, MP",ALP,2018-10-18,"
 
 
@@ -1223,7 +1352,7 @@ In an ordinarily difficult field of work, organisations such as Oxfam and APHEDA
 
 At the forum, it was highlighted by both Wayne and Kate that Australia's current aid contribution amounts to 0.22 per cent of our gross national income—a figure that is far too low in comparison with our global commitment to reach the UN spending target of 0.7 per cent. As a generous and caring nation, with our provision of international development assistance, it is crucial that our foreign policy remains consistent with Australia's values and our national interest. The discussion that took place at the Labor For Aid forum made one thing clear: when it comes to helping those in need across the globe, we can and must do better.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Fowler Electorate: International Development Assistance</title>,CONSTITUENCY STATEMENTS,21,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Fowler Electorate: International Development Assistance</title>,CONSTITUENCY STATEMENTS,21,1,speech
 "Albanese, Anthony, MP",ALP,2018-10-18,"
 
 
@@ -1240,7 +1369,7 @@ In 1991, Ian decided that, since Clean Up Sydney Harbour had moved to Clean Up A
 
 Ian was named Australian of the Year in 1994 and received numerous Australian and international awards—but he didn't ask for any of them. He was a very humble man. I was privileged to have contact with him on a number of occasions. He was someone who was very passionate about making a difference. Ian Kiernan's life shows that an individual can make a very, very big difference to their local community, the city in which they live, the nation and indeed the world. He and his wife, Judy, had two daughters, Sally and Pip, and a son, Jack. I pay my respects to all of the family members and to all those who will miss Ian Kiernan dearly.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Kiernan, Mr Ian Bruce Carrick, AO</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Kiernan, Mr Ian Bruce Carrick, AO</title>",CONDOLENCES,22,1,speech
 "Zimmerman, Trent, MP",LP,2018-10-18,"
 
 
@@ -1269,7 +1398,7 @@ Of course, as I alluded to, the problems he identified exist today and, frankly,
 
 I pay tribute to Ian Kiernan, and I particularly want to extend my condolences to his family: Judy, Sally and Pip. I know that they will have some consolation from the recognition Ian's work has been receiving over the last two days, although obviously nothing will take away from the extraordinary personal loss they are feeling this week.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Kiernan, Mr Ian Bruce Carrick, AO</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Kiernan, Mr Ian Bruce Carrick, AO</title>",CONDOLENCES,22,1,speech
 "O'Toole, Cathy, MP",ALP,2018-10-18,"
 
 
@@ -1292,7 +1421,7 @@ Simple, easy actions can protect the health of our water resources and help save
 
 I thank Mr Kiernan for his years of dedication. My thoughts are with his family: his wife, Judy, and his two daughters, Sally and Pip.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Kiernan, Mr Ian Bruce Carrick, AO</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Kiernan, Mr Ian Bruce Carrick, AO</title>",CONDOLENCES,22,1,speech
 "Albanese, Anthony, MP",ALP,2018-10-18,"
 
 
@@ -1324,4 +1453,59 @@ The work that Jim Spigelman and Charlie Perkins did on those freedom rides is ve
 
 Ned is an example of a true believer in the Australian Labor Party—a bloke who has never run for any office other than local council, who's given up more than five decades of his life and who's made a real impact. I'm sure there are many people across the political spectrum who do that, and I pay tribute to Ned today and all those who don't get to be members of parliament but who make a difference to their local communities and to their nation.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Racism</title>,ADJOURNMENT,23,1
+",HoR,<title>ADJOURNMENT</title>,<title>Racism</title>,ADJOURNMENT,23,1,speech
+"Bird, Sharon, MP",ALP,2018-10-18,"
+
+
+
+Ms Bird
+ asked the Minister for Jobs, Industrial Relations and Women, in writing, on 13 August 2018:
+
+
+(1) How many audits has the Fair Work Ombudsman (FWO) undertaken in the Illawarra region since 2015. 
+
+
+(2) How many audits has the (a) FWO, or (b) Fair Work Commission (FWC), undertaken in the hospitality industry in the Illawarra region between 2015 and 2018 (to date).
+
+
+(3) Has any action been taken by the (a) FWO, or (b) FWC, to recover wages from employers in the Illawarra region between 2015 and 2018 (to date); if so, how many such cases.
+
+
+(4) What sum has been recovered by the (a) FWO, or (b) FWC, between 2015 and 2018 (to date) from employers in the Illawarra region who owe money to their employees.
+
+
+(5) Did the (a) FWO, or (b) FWC, commence any legal action against employers in the Illawarra region between 2015 and 2018 (to date); if so, how many such cases.
+
+
+(6) Did the (a) FWO, or (b) FWC, issue any (i) cautions, (ii) compliance notices, or (iii) other notices, to employers in the Illawarra region between 2015 and 2018 (to date); if so, how many of each.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Fair Work (Question No. 1004)</title>,QUESTIONS IN WRITING,24,1,question
+"O'Dwyer, Kelly, MP",LP,2018-10-18,"
+
+
+
+Ms O'Dwyer:
+  The answer to the honourable member's question is as follows:
+
+
+1. The Fair Work Ombudsman (FWO) undertook more than 150 audits of businesses in the Illawarra region between 1 January 2015 and 31 March 2018.
+
+
+2. The FWO undertook more than 40 audits of businesses in the hospitality industry in the Illawarra region between 1 January 2015 and 31 March 2018.
+
+
+Please note that the Fair Work Commission, as Australia's independent workplace relations tribunal, has no role in the activities referred to in the honourable member's questions. Accordingly, my answers reflect only the work of the FWO.
+
+
+3. In addition to the audits mentioned in response to questions 1 and 2, the FWO resolved more than 450 workplace disputes involving allegations of underpayment of wages and entitlements in the Illawarra region between 1 January 2015 and 31 March 2018.
+
+
+4. The FWO recovered more than $400,000 in respect of unpaid wages and entitlements in the Illawarra region between 1 January 2015 and 31 March 2018.
+
+
+5. The FWO commenced one litigation in the Illawarra region between 1 January 2015 and 31 March 2018.
+
+
+6. The FWO issued 50 Letters of Caution, Compliance Notices and Infringement Notices to businesses in the Illawarra region between 1 January 2015 and 31 March 2018.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Fair Work (Question No. 1004)</title>,QUESTIONS IN WRITING,24,1,answer

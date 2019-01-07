@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Bishop, Bronwyn, MP",LP,2014-10-23,"
 
 
@@ -15,7 +15,7 @@ Several weeks ago we enhanced the security arrangements around the parliament to
 
 It is timely to remind ourselves and your staff to be vigilant and report any suspicious behaviour to parliamentary security staff. As a result of the enhanced security arrangements that we already have put in place, the President and I are confident, based on security agency advice, that the parliament is a safe environment. I thank members for their concern about these issues and their willingness to report anything that they see.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,"<title>Ottawa: Attack, Parliament House: Security</title>",STATEMENT BY THE SPEAKER,0,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,"<title>Ottawa: Attack, Parliament House: Security</title>",STATEMENT BY THE SPEAKER,0,1,speech
 "Fletcher, Paul, MP",LP,2014-10-23,"
 
 
@@ -153,7 +153,7 @@ I commend this bill to the chamber.
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Australian Citizenship and Other Legislation Amendment Bill 2014</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Australian Citizenship and Other Legislation Amendment Bill 2014</title>,BILLS,1,1,speech
 "Husic, Ed, MP",ALP,2014-10-23,"
 
 
@@ -172,7 +172,7 @@ By contrast, how do families in the Prime Minister's and Treasurer's north shore
 
 People in Wentworth might be a couple of dollars short each week due to the Abbott government budget, but the hit on families in our area would roughly equate to three or four weeks' groceries for some. The Prime Minister promised, hand on heart, a 'no surprises' government, but this budget is turning out to be an absolute shocker for Western Sydney families.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Budget</title>,STATEMENTS BY MEMBERS,2,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Budget</title>,STATEMENTS BY MEMBERS,2,1,speech
 "Abbott, Tony, MP",LP,2014-10-23,"
 
 
@@ -193,7 +193,7 @@ Finally, I note the presence in our parliament today of Canada's High Commission
 
 Honourable members:  Hear, hear!
 
-",HoR,<title>STATEMENTS</title>,<title>Ottawa: Attack</title>,STATEMENTS,3,1
+",HoR,<title>STATEMENTS</title>,<title>Ottawa: Attack</title>,STATEMENTS,3,1,speech
 "Shorten, Bill, MP",ALP,2014-10-23,"
 
 
@@ -223,7 +223,7 @@ There is more than enough hate in the world today. We need to be careful not to 
 
 Honourable members:  Hear, hear!
 
-",HoR,<title>STATEMENTS</title>,<title>Ottawa: Attack</title>,STATEMENTS,3,1
+",HoR,<title>STATEMENTS</title>,<title>Ottawa: Attack</title>,STATEMENTS,3,1,speech
 "Bishop, Bronwyn, MP",LP,2014-10-23,"
 
 
@@ -244,7 +244,29 @@ Honourable members having stood in their places—
 
 The SPEAKER:  I thank the House.
 
-",HoR,<title>STATEMENTS</title>,<title>Ottawa: Attack</title>,STATEMENTS,3,1
+",HoR,<title>STATEMENTS</title>,<title>Ottawa: Attack</title>,STATEMENTS,3,1,speech
+"Shorten, Bill, MP",ALP,2014-10-23,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:07):  My question is to the Prime Minister. In the last 24 hours we have heard conflicting accounts of the government's preparedness to respond to the Ebola crisis from: one, the Chief Medical Officer; two, the head of the health department; three, the head of the foreign affairs department; four, the Defence Force; and, five, the immigration minister. Prime Minister, Australia needs leadership on this issue. Just who is in charge and are we ready?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Ebola</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Abbott, Tony, MP",LP,2014-10-23,"
+
+
+
+Mr ABBOTT
+ (Warringah—Prime Minister) (14:07):  We are ready and obviously I take ultimate responsibility for our readiness and for what we do in response to the Ebola disaster now unfolding in west Africa. I can say that Australia has already responded very significantly to the Ebola crisis in west Africa. First we committed $1 million, then we committed $7 million, most recently we committed $10 million to the UN fund and, after we responded immediately to that particular request, UN spokesman Nabarro praised Australia and said that we had responded in a swift and effective manner and he invited other countries to do likewise. 
+
+
+While we are responding in west Africa, as we should, our priority inevitably is here at home and in our region. I can advise the House that the NSC has discussed Ebola on at least six separate occasions—I am advised by the health minister—most recently yesterday. The Chief Medical Officer is in almost daily contact with the state chief health officers to ensure that in every state there is an adult and a children's hospital which is the designated Ebola response institution should an Ebola case turn up on our shores.
+
+
+We are ready to respond in our region. We have a team of 20 healthcare workers—four doctors and 16 nurses—who have been specially trained in the care of Ebola patients and the use of high-level personal protective equipment at the national critical care trauma centre in Darwin. They are fully vaccinated, fully acclimatised to work in the heat of our region, and this group could be deployed immediately out of Darwin for a four-week period. So I am pleased to have the question from the Leader of the Opposition. This is a very important topic. Australia is determined to be a good international citizen on this subject, as on all subjects, and we continue to carefully monitor the situation in west Africa and to talk to our friends, partners and allies about an appropriate response.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Ebola</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
 "Bishop, Bronwyn, MP",LP,2014-10-23,"
 
 
@@ -264,7 +286,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Ellis, Kate, MP",ALP,2014-10-23,"
 
 
@@ -332,7 +354,7 @@ We know that there is a pattern of attack from the Abbott government. Low- and m
 
 It is time to end their magic pudding statements and promises and for this government to level with the Australian public. It is time for those opposite to guarantee that they will not accept any proposals that will make child care less affordable for Australian families. They have said one thing and we will now hear from those opposite that they are actually unable to do anything other than point the finger at the Labor Party—blame it on me; blame it on Labor—but a billion dollars has been cut from the program under their watch and $157 million has been cut from family day care in their budget on their watch that they must justify.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Ley, Sussan, MP",LP,2014-10-23,"
 
 
@@ -418,7 +440,7 @@ But I come back to my main point. We cannot stand here as the Liberal and Nation
 
 But remember this: under Labor, childcare costs went up 53 per cent, flexibility went down, affordability went down and availability went down. We inherited a system close to breaking point. This Labor party could not even support our Productivity Commission inquiry. They could not even say, 'Yes, it is a good idea to have a look at future arrangements and make changes for the benefit of families.' This Labor Party is a disgrace.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Owens, Julie, MP",ALP,2014-10-23,"
 
 
@@ -444,7 +466,7 @@ I cannot believe that you can do this to people who are increasingly casualised,
 
 This is the service that you want in modern Australia, and this is the service that we want as we prepare our children for the future. This is not the one that you would cut. It actually deserves the support of the minister and it deserves a new era. In Western Sydney it deserves a better one. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Nikolic, Andrew, MP",LP,2014-10-23,"
 
 
@@ -467,7 +489,7 @@ When it comes to promises by the member for Adelaide and her colleagues, what we
 
 I will finish by thanking the minister for repeatedly visiting northern Tasmania to consult and discuss these issues with childcare providers. Some family day care schemes have told us that they know Labor's magic pudding money would never have continued and that they are making transitional arrangements. They are listening to the minister's advice about a business development package that the government is developing for family day care services in partnership with the sector's peak bodies, and the minister is out there every day explaining how Labor's mismanagement caused this problem and what we are doing to fix the appalling mess left to us by the former government.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Giles, Andrew, MP",ALP,2014-10-23,"
 
 
@@ -513,7 +535,7 @@ The impact on Scullin will be very significant. There are nine centres operating
 
 Family day care has to be a critical part of meeting our childcare challenge. It has been for 35 years. Doing the best for all working families to have choices in respect of child care is fundamentally important to the wellbeing of those families now and to the future prospects of their children. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Scott, Fiona, MP",LP,2014-10-23,"
 
 
@@ -551,7 +573,7 @@ Ms SCOTT:
 
 In regard to further operational matters of family day care services, this is not a fee assistance program and is not paid directly to educators or parents. Labor really took their eye off the ball when it came to the Community Support Program. The budget blew out by $200 million. This included Labor ignoring the 2012 Australian National Audit Office report highlighting the growing problem with the Community Support Program and recommending its eligibility guidelines be reviewed. The Australian National Audit Office report further noted that family day care was receiving 71 per cent of the total Community Support Program budget despite only caring for about 10 per cent of the children. This is completely unsustainable, completely irrational and goes to show that those opposite had taken their eyes off the ball and were not providing true support for the people of Western Sydney.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Ryan, Joanne, MP",ALP,2014-10-23,"
 
 
@@ -577,7 +599,7 @@ I think one of the important things we have to note in this MPI is, of course, m
 
 But we have had the cuts. We are going to pull this back because Labor builds and those opposite tear it down. The cuts they are introducing to child care will tear down this sector. We hear a lot about the unionisation of the workforce as if somehow that is a negative. The unionisation of the childcare workforce is about women—mostly—in the workforce collectively bargaining for a better deal for themselves and for the children they care for.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Williams, Matt, MP",LP,2014-10-23,"
 
 
@@ -618,7 +640,7 @@ Let me go onto the CPS in a broader sense. We know that it provides good assista
 
 This sensible and fair measure brings support for family day care services into line with other types of child care such as long day care and outside school hours care. Just in closing, a few comments about early childhood education. I do agree with him member for Scullin on this point. We know children's development and the transition to school in those early childhood years are extremely important. There are significant reasons to support those early years, not just at home but also in a more formal sense with experienced educators, because there are significant benefits for when they get older in terms of development and their vulnerabilities. Naturally there is support required and costs money. Australian government funding is going to around $7 billion per year, covering two-thirds of the early childhood education and care costs. This is a significant investment and significant commitment to early childhood development, notwithstanding the comments of our friends opposite. In closing, let's be honest about this: we all care about child care, we are all committed to it. Let's just find the money to get on and do a good job.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "O'Neil, Clare, MP",ALP,2014-10-23,"
 
 
@@ -647,7 +669,7 @@ Family day care is a really important piece of the puzzle here and instead of ta
 
 We talked a little bit about confusion and hypocrisy—these kinds of mixed messages that we are getting. I want to go to this issue about female workforce participation, because this is really right into the heart of the problem. Again we have got a very expensive Productivity Commission inquiry looking into the question of how we can help women in Australia who want to work more be able to do that. But we know that the biggest driver of women's decision to work is the child care costs. There are some very simple economics at work here. If there is nothing else you remember from what I say today, just let it be this. A woman in Australia who works full time on the minimum wage takes home after her child care costs $4.55 an hour. We know that there are women right around the country who are doing the simple maths and saying that, in the face of that, it is not worth it for them to work, especially if they have several children. I will just say to those on the other side of the House: what we know is that this has lifelong impacts for women. It is absolutely understandable and I respect the decision of women who want to stay at home, but for women who do want to work, if they spend three years at home with kids, we know that they going to earn about 40 per cent less through their lifetime as a consequence of their decision to do that. We on this side of the House want to give Australian women real choices, and that means affordable and flexible child care. That is exactly what family day care is providing. But what makes all of this so much more outrageous is this: we have this issue on the other side of the House being raised about $157 million—that is, how this program is just so expensive and we have to cut back on costs. Yet, at the very time, this government is introducing a gold-plated paid maternity leave scheme that will see the wealthiest women in Australia get paid $2,000 a week to have a child. One year of funding for that program would make up the funding shortfall for family day care for about 35 years. I would just say this: check your priorities, guys; women in Australia want flexible, affordable child care and that is exactly what family day care gives us.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "McNamara, Karen, MP",LP,2014-10-23,"
 
 
@@ -679,7 +701,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ):  Order! The discussion has now concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Family Day Care</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Perrett, Graham, MP",ALP,2014-10-23,"
 
 
@@ -747,7 +769,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ):  The question is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,"<title>Aged Care and Other Legislation Amendment Bill 2014, Health and Other Services (Compensation) Care Charges (Amendment) Bill 2014</title>",BILLS,10,1
+",HoR,<title>BILLS</title>,"<title>Aged Care and Other Legislation Amendment Bill 2014, Health and Other Services (Compensation) Care Charges (Amendment) Bill 2014</title>",BILLS,10,1,speech
 "Zappia, Tony, MP",ALP,2014-10-23,"
 
 
@@ -768,7 +790,7 @@ Mr ZAPPIA:
 
 Leave granted; debate adjourned.
 
-",HoR,<title>BILLS</title>,"<title>Aged Care and Other Legislation Amendment Bill 2014, Health and Other Services (Compensation) Care Charges (Amendment) Bill 2014</title>",BILLS,10,1
+",HoR,<title>BILLS</title>,"<title>Aged Care and Other Legislation Amendment Bill 2014, Health and Other Services (Compensation) Care Charges (Amendment) Bill 2014</title>",BILLS,10,1,speech
 "Perrett, Graham, MP",ALP,2014-10-23,"
 
 
@@ -836,7 +858,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ):  The question is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Zappia, Tony, MP",ALP,2014-10-23,"
 
 
@@ -857,7 +879,7 @@ Mr ZAPPIA:
 
 Leave granted; debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "MacTiernan, Alannah, MP",ALP,2014-10-23,"
 
 
@@ -1057,7 +1079,7 @@ here
 to restore our faith in them.
 
 
-",HoR,<title>ADJOURNMENT</title>,<title>Serana (WA) Pty Ltd</title>,ADJOURNMENT,11,1
+",HoR,<title>ADJOURNMENT</title>,<title>Serana (WA) Pty Ltd</title>,ADJOURNMENT,11,1,speech
 "Vamvakinou, Maria, MP",ALP,2014-10-23,"
 
 
@@ -1074,7 +1096,7 @@ Dorette worked long hours in the public hospital system and saw up to 60 patient
 
 This family is a wonderful example of the calibre of people who are coming here from Iraq, mostly under the refugee and humanitarian program. I have on many occasions through my work on the Migration Committee drawn attention to the need for us and the government to recognise overseas qualifications and the importance of enabling capable people to make a contribution to Australia.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Calwell Electorate: Sayegh, Dr Dorette</title>",CONSTITUENCY STATEMENTS,12,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Calwell Electorate: Sayegh, Dr Dorette</title>",CONSTITUENCY STATEMENTS,12,1,speech
 "Champion, Nick, MP",ALP,2014-10-23,"
 
 
@@ -1091,4 +1113,4 @@ When we talk of Balaklava it is also important that we also acknowledge the reti
 
 When we talk about the Barossa council, one has to talk about Mayor Brian Hurn OAM, who is retiring after an epic 37 years in local government. He spent 10 years as chairman of the Angaston council. He joined it at a time when there was just a CEO and at a time when, as he described it, a couple of ladies ran the council. It is now a much bigger organisation in Tanunda. Brian Hurn became the mayor in 1997. There are so many things I could say about Brian. He is not only a great footballer, a great state cricketer for South Australia but also was a great mayor. I have worked with him on things such as the Gawler to Tanunda bike track facility, which is a great facility. He created a community facility with a pool and recreation centre that is now used by 20,000 people every month. He hands a terrific legacy to the Barossa. He should indeed be acknowledged as a great citizen of the Barossa.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Wakefield Electorate: Balaklava Cup</title>,ADJOURNMENT,13,1
+",HoR,<title>ADJOURNMENT</title>,<title>Wakefield Electorate: Balaklava Cup</title>,ADJOURNMENT,13,1,speech

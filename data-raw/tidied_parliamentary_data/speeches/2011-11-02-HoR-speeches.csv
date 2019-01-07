@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Shorten, Bill, MP",ALP,2011-11-02,"
 
 
@@ -266,7 +266,7 @@ On behalf of the Treasurer and Acting Prime Minister, I commend this bill to all
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Minerals Resource Rent Tax Bill 2011</title>,BILLS,0,1
+",HoR,<title>BILLS</title>,<title>Minerals Resource Rent Tax Bill 2011</title>,BILLS,0,1,speech
 "Albanese, Anthony, MP",ALP,2011-11-02,"
 
 
@@ -307,7 +307,7 @@ I commend the bill to the House.
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Broadcasting Services Amendment (Review of Future Uses of Broadcasting Services Bands Spectrum) Bill 2011</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>Broadcasting Services Amendment (Review of Future Uses of Broadcasting Services Bands Spectrum) Bill 2011</title>,BILLS,2,1,speech
 "Stone, Dr Sharman, MP",LP,2011-11-02,"
 
 
@@ -354,7 +354,7 @@ Let me mention another area of despair for country people. We had, as you know, 
 
 Yarrawonga, a big region on the Murray River, are being told they will now be in a region different to Wangaratta hospital, where they get most of their networking, liaising, cooperating and coordinated services. They will no longer be able to work with the same division of GPs in Wangaratta. They will be transferred into a new region where, instead, the major hospital will be Shepparton. That is not a hospital that they have traditionally interacted with, because Wangaratta is of course a much closer option. This is an example of the nonsense that is going on—new lines on maps, more bureaucracy, more red tape and less funding for hospital services on the ground. That is a shame. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>National Health Reform Amendment (Independent Hospital Pricing Authority) Bill 2011</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>National Health Reform Amendment (Independent Hospital Pricing Authority) Bill 2011</title>,BILLS,4,1,speech
 "Zappia, Tony, MP",ALP,2011-11-02,"
 
 
@@ -395,7 +395,7 @@ Those kinds of commitments should have been initiated a decade ago, not just thr
 
 Finally, I take this opportunity to commend the Minister for Health and Ageing, who I see in the chamber, for driving these reforms and for delivering them to the Australian people. I believe that she has been instrumental not only in driving the reforms but also in negotiating the agreements with the states and territories as required and in ensuring that the objective of this government to deliver on these reforms is met. It has not been an easy road, but it is a job that the health minister has done admirably and I commend her for it.
 
-",HoR,<title>BILLS</title>,<title>National Health Reform Amendment (Independent Hospital Pricing Authority) Bill 2011</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>National Health Reform Amendment (Independent Hospital Pricing Authority) Bill 2011</title>,BILLS,4,1,speech
 "Roxon, Nicola, MP",ALP,2011-11-02,"
 
 
@@ -418,7 +418,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>National Health Reform Amendment (Independent Hospital Pricing Authority) Bill 2011</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>National Health Reform Amendment (Independent Hospital Pricing Authority) Bill 2011</title>,BILLS,4,1,speech
 "Roxon, Nicola, MP",ALP,2011-11-02,"
 
 
@@ -435,7 +435,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>National Health Reform Amendment (Independent Hospital Pricing Authority) Bill 2011</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>National Health Reform Amendment (Independent Hospital Pricing Authority) Bill 2011</title>,BILLS,4,1,speech
 "Stone, Dr Sharman, MP",LP,2011-11-02,"
 
 
@@ -482,7 +482,7 @@ Let me mention another area of despair for country people. We had, as you know, 
 
 Yarrawonga, a big region on the Murray River, are being told they will now be in a region different to Wangaratta hospital, where they get most of their networking, liaising, cooperating and coordinated services. They will no longer be able to work with the same division of GPs in Wangaratta. They will be transferred into a new region where, instead, the major hospital will be Shepparton. That is not a hospital that they have traditionally interacted with, because Wangaratta is of course a much closer option. This is an example of the nonsense that is going on—new lines on maps, more bureaucracy, more red tape and less funding for hospital services on the ground. That is a shame. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Zappia, Tony, MP",ALP,2011-11-02,"
 
 
@@ -523,7 +523,7 @@ Those kinds of commitments should have been initiated a decade ago, not just thr
 
 Finally, I take this opportunity to commend the Minister for Health and Ageing, who I see in the chamber, for driving these reforms and for delivering them to the Australian people. I believe that she has been instrumental not only in driving the reforms but also in negotiating the agreements with the states and territories as required and in ensuring that the objective of this government to deliver on these reforms is met. It has not been an easy road, but it is a job that the health minister has done admirably and I commend her for it.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Roxon, Nicola, MP",ALP,2011-11-02,"
 
 
@@ -546,7 +546,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Tudge, Alan, MP",LP,2011-11-02,"
 
 
@@ -563,7 +563,284 @@ This is just the first of many kindergartens across Victoria that will be closin
 
 I have been warning the government that three-year-old kinders will be closing and they are now starting to do so. The parliament has passed a resolution calling for the minister to provide flexibility. We simply say: 'Provide flexibility or more kinders will close their doors.' (Time expired)
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Education Funding</title>,STATEMENTS BY MEMBERS,5,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Education Funding</title>,STATEMENTS BY MEMBERS,5,1,speech
+"Abbott, Tony, MP",LP,2011-11-02,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:00):  My question is to the Acting Prime Minister. I remind him that, since the present government reversed the previous border protection laws, there have been 12,942 boat arrivals on more than 250 boats. There are 4½ thousand people currently in detention, including 440 children, and two boats that we know of have been lost at sea with tragic loss of life. Can the Acting Prime Minister inform the House what immediate steps the government will now take to stop the boats?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Abbott, Tony, MP",LP,2011-11-02,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:03):  Mr Speaker, I ask a supplementary question of the Acting Prime Minister. If, as the Acting Prime Minister has just informed the House, it is so important that the Malaysia people swap be put into effect, will the government immediately bring before the parliament for a vote the people swap legislation?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Swan, Wayne, MP",ALP,2011-11-02,"
+
+
+
+Mr SWAN
+ (Lilley—Deputy Prime Minister and Treasurer) (14:01):  The first point is to acknowledge the tragedy which has occurred off Indonesia and the tragic loss of life. That is why we on this side of the House have been so determined to break the people smugglers' model and to do it through genuine regional engagement, to send a message to the people smugglers that their model is broken and it will not work. That is why the government has been so intent in putting together this regional solution. That is why it was such a shame and a tragedy that the legislation that we needed to put in place because of the High Court decision has not been able to pass this parliament, because that is the only measure that can be taken to break the people smugglers' model.
+
+
+Those opposite are not interested in genuine solutions to this problem. For our part, we extend to them again an invitation to come to this House with good heart and acknowledge that we need a regional solution to stop the boats from coming. They have been advised by all of our senior advisers that the approaches they are putting forward will not work. For our part, we remain committed to a genuine regional solution. The Malaysian arrangement is precisely the sort of humanitarian arrangement that is required to ensure that we break that model. Until we break that model, we will see tragic deaths at sea. I happened to be Acting Prime Minister last December when that boat hit Christmas Island. I will never forget that day. That is one of the reasons that we are so keen to break the people smugglers' model and put in place a regional arrangement that deals properly with this matter so we can save lives.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Swan, Wayne, MP",ALP,2011-11-02,"
+
+
+
+Mr SWAN
+ (Lilley—Deputy Prime Minister and Treasurer) (14:04):  We will bring it before the House when they vote for it.
+
+
+
+Honourable members interjecting—
+
+
+
+
+The SPEAKER:
+  Order! The House will come to order both on my left and on my right!
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"O'Neill, Deb, MP",ALP,2011-11-02,"
+
+
+
+Ms O'NEILL
+ (Robertson) (14:13):  My question is to the Assistant Treasurer and Minister for Financial Services and Superannuation. How will the government's minerals resource rent tax and superannuation guarantee benefit the economy and help all Australians prepare adequately for their future?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"Shorten, Bill, MP",ALP,2011-11-02,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Assistant Treasurer and Minister for Financial Services and Superannuation) (14:13):  I thank the member for Robertson for her question because she is interested in the idea that people who work hard all their life should be able to retire with some degree of dignity and income security. That is why the legislation that went into the House this morning is so good for so many Australians. That is why the mining tax is unreservedly a very good idea, because it is going to spread the prosperity of the mining boom across all of Australia.
+
+
+I have no doubt that the member for Robertson's constituents, and indeed 8.4 million Australians, will be pleased to learn that today this government has continued the work of lifting compulsory superannuation to a point where more Australians than ever before can hope that they can retire with some adequate level of replacement income in the years after retirement. Australians know that we are living longer than ever before. The evidence sits opposite me. We are living longer than ever before and in those years we need to make sure that people have enough money to live on. We need to make sure that people have enough to retire on. The current compulsory superannuation savings of nine per cent are simply not adequate. We need to lift it to 12 per cent. We are managing to do it in a staged way, which means business will be able to work with the increases. It will be of a quarter of a per cent in 2013-14, a quarter of a per cent the following year and then five instalments of half a per cent up until 2019-20. This country and this government understand that it is not fair that, in Australia, only a few very wealthy people will have sufficient to retire on. We on this side of the House say: if some Australians are getting better than nine per cent superannuation, why isn't it good enough for 8½ million people?
+
+
+But the good news for Australians does not stop with that aspect of the government's measures. I am also pleased to report to the House that today we are proposing to eliminate the concessional tax paid by all Australians who go to work and earn less than $37,000 a year. That's right: we are going to remove the 15 per cent concessional tax so that 3.6 million Australians on low incomes, rather than having to pay tax on their superannuation, will receive it in their superannuation. It is worth noting that 60 per cent of these 3.6 million people, our fellow Australians who are working hard, are women. We understand that women are not paid equally to men in many sectors of the economy. We also understand that women will sometimes have to take breaks in their careers and reduce their potential earnings to raise families. We do not believe that women should miss out on the benefits of the superannuation system for this reason. That is why we are introducing the scheme.
+
+
+But the good news continues further. This government today announced that we will scrap the age discrimination levels for everyone who goes to work. In other words, no longer will you have to lose your superannuation contributions when you are 70. We said at the last election—unlike those opposite—that we would raise it to 75, but courtesy of the good work of the Labor backbench and the crossbenches we have been persuaded, and today we announce that we will scrap that. So the 18,000 Australians in the workforce who are over the age of 75 will be able to get superannuation.
+
+
+
+Opposition members interjecting—
+
+
+
+
+Mr SHORTEN:
+  I hear the opposition crowing, 'That's our policy!' Well, I tell you what: if it is your policy, vote for it. And, while you are voting for it, don't keep 15 per cent just for yourselves and vote for the rest of Australia to get nine per cent. Shame on your hypocrisy!
+
+
+
+
+Mr Abbott:
+  On indulgence, can I congratulate the Assistant Treasurer for adopting the opposition's policy.
+
+
+
+
+Ms Julie Bishop:
+  Mr Speaker—
+
+
+
+
+The SPEAKER:
+  The Deputy Leader of the Opposition will resume her seat.
+
+
+
+
+Mr Albanese:
+  Mr Speaker, I assume that you gave the call to the Leader of the Opposition on the basis that he was going to ask a question. It is not in order at all for the Leader of the Opposition to give a speech during question time.
+
+
+
+
+The SPEAKER:
+  The Leader of the House will resume his seat. I have got the point of order.
+
+
+
+
+Ms Julie Bishop:
+  Mr Speaker—
+
+
+
+
+The SPEAKER:
+  The Deputy Leader of the Opposition will resume her seat. The member for Denison will resume his seat as well. He is pre-empting and reading my mind but I think he has gone down a different lane to where I am going. I am pleased that some people are paying enough attention to know that they can try to make sure that they are not missed out; I understand that with the member for Denison. I simply say that the way the Leader of the House characterised events has some element of truth. The Leader of the Opposition assumed that I would give indulgence, and he took indulgence. But I will remember that he assumed I would give indulgence, and that is not necessarily going to be the case. I have got sufficient memory that I remember things, and he understands that as well, and the way this place works, so he should be very careful. But I would just urge members in general to contain their enthusiasm today. I am not sure whether there is something in the air conditioning, but there is something going on here that is not healthy.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
+"Cheeseman, Darren, MP",ALP,2011-11-02,"
+
+
+
+Mr CHEESEMAN
+ (Corangamite) (14:27):  My question is to the Minister for Infrastructure and Transport. Would the minister advise the House on the circumstances leading up to the decision of Qantas to lock out its workforce and to ground its fleet?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Qantas</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Albanese, Anthony, MP",ALP,2011-11-02,"
+
+
+
+Mr ALBANESE
+ (Grayndler—Leader of the House and Minister for Infrastructure and Transport) (14:28):  I thank the member for Corangamite for his question. Qantas has confirmed that the first time it advised the government that there was any consideration of a lockout of its workforce and a grounding of the fleet was after 2 pm on Saturday. The government acted immediately. By 10 pm the government was with the office of Fair Work Australia seeking a stop to this decision. Just over 24 hours later, we had the decision that ensured that Qantas planes returned to the air on Monday afternoon. Today Qantas is back, running its full schedule. The parties have 21 days to get an agreement done and the government calls upon both Qantas and the trade unions to bargain in good faith during this time and get this deal done in the interests of Qantas and in the interests of its workforce. Both parties must show some maturity. The response of the community to this proposed lockout and grounding has been extraordinary, because when you lock out a workforce and shut down an airline you also lock out the customers. So we need to make sure that this deal gets done.
+
+
+We know—because Qantas has confirmed it—when we were told. The Leader of the Opposition yesterday confirmed that he was called about the specific 5 pm grounding on Saturday. What he has not said is when he was told that they were considering locking out the workforce and grounding their fleet.
+
+
+
+Opposition members interjecting—
+
+
+
+
+Mr Pyne:
+  Mr Speaker, I rise on a point of order. I ask you: how it can be in order when the Leader of the Opposition made a personal explanation about this matter yesterday and answered questions about this yesterday and today in press conferences? How can it be in order for the Leader of the House to make the same misrepresentations that he made yesterday?
+
+
+
+Opposition members interjecting—
+
+
+
+
+The SPEAKER:
+  Order! For the newer members that believe they can adjudicate, I am about to give them a lesson. This has been a problem that this House has had for many, many years. It is interesting that when people change sides, their interpretation of this problem is different. As the member for Sturt is aware, as frustrating as it might be and as illogical as it might be, the House has never tackled this problem. There is only one thing that I can advise: there are avenues and procedures within the House that an aggrieved member can take yet again, even if it is an iteration.
+
+
+
+
+Mr ALBANESE:
+  I am asked about the circumstances leading up to the Qantas decision to lock out its workforce and ground its fleet, and I think that the Australian public are entitled to know. 
+
+
+
+Opposition members interjecting—
+
+
+
+
+Mr ALBANESE:
+  It is true that the Leader of the Opposition changed his position with regard to intervention last Friday. 
+
+
+
+Opposition members interjecting—
+
+
+
+
+The SPEAKER:
+  Order! The House will come to order! Order, the member for Sturt!
+
+
+
+
+Mr ALBANESE:
+  What is also true is that the shadow Treasurer had for some time called for government intervention. Last night we saw the shadow Treasurer on the 7.30 report melt down when he was asked when he knew that Qantas was considering locking out its workforce and grounding its fleet. He said that he could not recall.
+
+
+
+Mr Ripoll interjecting—
+
+
+
+
+The SPEAKER:
+  Order! The member for Oxley might get to go and have a fondue if he does not sit there quietly.
+
+
+
+
+Mr Pyne:
+  Mr Speaker, I rise on a point of order. Firstly, Mr Speaker, the Leader of the House is completely ignoring you when you ask him to sit down, which is totally disrespectful. Secondly, how could it be directly relevant for the Leader of the House to be shouting across the dispatch box about the answer to the question? He is completely not answering the question that he was asked just so that he can do a 'slag and bag' on the Leader of the Opposition.
+
+
+
+Government members interjecting—
+
+
+
+
+The SPEAKER:
+  Order! The member for Sturt will resume his seat, and the Chief Government Whip will resume his seat too.
+
+
+
+Mr Ewen Jones interjecting—
+
+
+
+
+The SPEAKER:
+  Order, the member for Herbert! I would have hoped that he had learned a lesson yesterday. I simply say to the member for Sturt: if he had listened to the question, the minister was asked to advise the House of circumstances leading up to the Qantas decision to stand down the workforce and ground its fleet. Regrettably, it is a fairly wide question. 
+
+
+
+Mr Abbott interjecting—
+
+
+
+
+The SPEAKER:
+ Order! The only relevance that I am worried about, Leader of the Opposition, is that, if I am disturbed about other people being interrupted, I am awfully disturbed when it is the occupant of the chair. I will make the ruling and, again, there are avenues open to him if he has a problem. All I am simply saying is that, because the House has not dealt with the standing orders, argument is allowed in responses. There may be too much argument in this response, but it is allowed under the standing orders. The Minister for Transport and Infrastructure has the call.
+
+
+
+
+Mr ALBANESE:
+  I can understand the sensitivity there. 
+
+
+
+Opposition members interjecting—
+
+
+
+
+Mr ALBANESE:
+  It is quite extraordinary that the shadow Treasurer of the nation is told that Qantas is considering locking out its workforce, with all the implications for the national economy, and he says, 'I cannot recall when I was told.' With that sort of memory, no wonder he cannot find the $70 billion that is down that black hole.
+
+
+
+
+The SPEAKER:
+  Order! The minister will come back to the question.
+
+
+
+
+Mr ALBANESE:
+  With that sort of memory, no wonder he cannot find that $70 billion. The shadow Treasurer and others need to come clean about when they were told that Qantas was considering locking out its workforce. (Time expired)
+
+
+
+Honourable members interjecting—
+
+
+
+
+The SPEAKER:
+  Order! The member for North Sydney has the call and he will be heard in silence.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Qantas</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
 "Jenkins, Harry, MP",ALP,2011-11-02,"
 
 
@@ -1366,7 +1643,7 @@ Dairy industry (Mr Broadbent)
 
 Occasional care child care funding (Ms S Ley).
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,14,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,14,1,speech
 "Jenkins, Harry, MP",ALP,2011-11-02,"
 
 
@@ -2169,7 +2446,7 @@ Dairy industry (Mr Broadbent)
 
 Occasional care child care funding (Ms S Ley).
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,14,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,14,2,speech
 "Jenkins, Harry, MP",ALP,2011-11-02,"
 
 
@@ -2189,7 +2466,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Morrison, Scott, MP",LP,2011-11-02,"
 
 
@@ -2278,7 +2555,7 @@ I applaud the Malaysian government for the measures they introduced for biometri
 
 At the end of the day, this government abolished the policies that worked, refuses to restore the policies that worked and remains locked in a prison of failure when it comes to its stubborn obstinacy to implement proven policies on border protection. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Bowen, Chris, MP",ALP,2011-11-02,"
 
 
@@ -2410,7 +2687,7 @@ The Malaysia arrangement has never been given the chance to be implemented, but 
 
 We have a chance to ensure that we never see the type of incident we saw last night, that I as minister—or the member for Cook if he were minister—never has to get the type of phone call that I received last night. This parliament should take that opportunity. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Ruddock, Philip, MP",LP,2011-11-02,"
 
 
@@ -2437,7 +2714,7 @@ Mr RUDDOCK:
 
 The DEPUTY SPEAKER:  Order! The member for Berowra will resume his seat. I do not think it is appropriate to ask that the occupant of the chair take any particular course of action as suggested by the member for Berowra. 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Keenan, Michael, MP",LP,2011-11-02,"
 
 
@@ -2481,7 +2758,7 @@ You cannot solve a problem that you do not acknowledge exists, and you cannot so
 
 The Labor Party has options to fix this mess. All they need to do is accept the coalition's sensible amendment to their migration amendments—one sensible amendment, an amendment that they said was so vital just a year ago—and they could solve this problem by re-embracing the proven three-pronged approach of the coalition. It is an approach we have tried when we faced this problem in the past and an approach that we know has succeeded: the reintroduction of temporary protection visas; offshore processing on the island nation of Nauru; and towing the boats back, as is appropriate. The option is there to have a successful policy that works to restore Australia's border protection sovereignty. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Husic, Ed, MP",ALP,2011-11-02,"
 
 
@@ -2522,7 +2799,7 @@ The DEPUTY SPEAKER
 Hon. Peter Slipper
 ):  Before calling the member for Mayo I would remind the government whip that I am not bagging anyone out, and that the word 'you' refers to the occupant of the chair and not to those opposite.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Briggs, Jamie, MP",LP,2011-11-02,"
 
 
@@ -2557,7 +2834,7 @@ The consequences we are seeing across Australia are vast and we have talked abou
 
 We were told before the last election there would be no more onshore detention centres and, quite clearly, that is a broken promise. We were told when the Inverbrackie facility was first established that there would be a great economic boost to the region, which has also proved to be false. The government's policies have failed. They had an opportunity to adopt policies that worked—policies put in by the Howard government—and they should be put in again. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Ferguson, Laurie, MP",ALP,2011-11-02,"
 
 
@@ -2610,7 +2887,7 @@ They talk about 'one sensible amendment'. The one sensible amendment is that we 
 
 Finally, I what to turn to the Greens. Every time there is a debate in this area we see their solution: an increased intake per se. I am not opposed to increases, but to say that increasing this country's intake—an admittedly high intake per capita, but very minor in terms of the overall international problem—can somehow solve this problem is preposterous. We are talking about 10½ million people internationally, as of earlier this year. We are talking about 1.9 million people in Pakistan; 1.1 million people in Iran; and 5½ million in Asia, more than half of them in our region. To say, every time there is a debate about the need to bring in disincentives for people to undertake perilous journeys, that somehow the boats are not going to come if we increase the intake is absolutely preposterous.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Danby, Michael, MP",ALP,2011-11-02,"
 
 
@@ -2672,7 +2949,7 @@ That was the opposition's policy then, but now they have a different one. Like i
 
 I also want to make sure that people understand what the member for Werriwa was saying about the member for Curtin, the Deputy Leader of the Opposition who had a few cracks at me about my past comments on Christmas Island. On 27 July 2011, she said, 'The coalition does not consider that being a signatory to the refugee convention is a precondition for hosting processing centres.' It is there in black and white; her own words. Of course, now, because the Labor government suggests that the opposition should act responsibility with us in national security interests to deter people from these terrible voyages—and we have seen the results of them in the last few days—they will not act with us. They demand that Labor act responsibly, which we do whenever these issues come up. I was involved in the national security decision with Senator Faulkner and the people on our side. We worked with Mr Ruddock and we achieved a result. The opposition stand for hypocrisy and cant on this issue.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Jones, Stephen, MP",ALP,2011-11-02,"
 
 
@@ -2707,7 +2984,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ):  Order! The time allotted for the discussion has concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Border Protection</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Gray, Gary, MP",ALP,2011-11-02,"
 
 
@@ -2757,7 +3034,7 @@ That so much of the standing and sessional orders be suspended as would prevent 
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Commonwealth Ombudsman</title>,MINISTERIAL STATEMENTS,17,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Commonwealth Ombudsman</title>,MINISTERIAL STATEMENTS,17,1,speech
 "Robb, Andrew, MP",LP,2011-11-02,"
 
 
@@ -2777,7 +3054,7 @@ Regrettably, in a most irresponsible way, Greens Senator Hanson-Young did indeed
 
 We can now close this chapter and let the Office of the Commonwealth Ombudsman get on with the functions it typically performs so well. I join the minister in thanking Ms Alison Larkins for agreeing to act as Ombudsman during the recruitment process for a permanent appointment. This has been a difficult period for the Office of the Commonwealth Ombudsman and, once again, on behalf of the opposition I offer ongoing support to the office and confidence in it.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Commonwealth Ombudsman</title>,MINISTERIAL STATEMENTS,17,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Commonwealth Ombudsman</title>,MINISTERIAL STATEMENTS,17,1,speech
 "Rudd, Kevin, MP",ALP,2011-11-02,"
 
 
@@ -2794,7 +3071,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,"<title>Classification (Publications, Films and Computer Games) Amendment (Online Games) Bill 2011</title>",BILLS,18,1
+",HoR,<title>BILLS</title>,"<title>Classification (Publications, Films and Computer Games) Amendment (Online Games) Bill 2011</title>",BILLS,18,1,speech
 "Scott, Bruce, MP",Nats,2011-11-02,"
 
 
@@ -2820,7 +3097,7 @@ There are many schools in the Maranoa electorate that have benefited over many y
 
 It is the same old story: brand Labor will never be able to address the inequities in the education of rural and remote Australia. They do not care and they do not understand. I call on the government to address these two issues. (Time expired)
 
-",HoR,<title>ADJOURNMENT</title>,<title>Rural and Regional Education Services</title>,ADJOURNMENT,19,1
+",HoR,<title>ADJOURNMENT</title>,<title>Rural and Regional Education Services</title>,ADJOURNMENT,19,1,speech
 "Coulton, Mark, MP",Nats,2011-11-02,"
 
 
@@ -2852,7 +3129,7 @@ I want to talk about the village of Goolma. Goolma is a small farming village lo
 
 In 2007, the Howard government had the Regional Telecommunications Infrastructure Fund, in which funds were put aside specifically for cases such as Goolma. The first thing that the Rudd government did was raid that fund, and it no longer exists. As it is now, the residents of Goolma are expected to fund their own telecommunications tower. I ask members in this place who live in metropolitan areas whether their constituents would be expected to fund their own mobile phone tower. Would their residents be expected to go without any internet connection? Would their constituents who might have a car accident as they were driving around expect to be able to ring 000? The reality is that telecommunications is not a luxury; it is considered a basic necessity of life. I will do whatever it takes to make sure that the people in my electorate, particularly the people in villages such as Goolma, get what the rest of Australia takes for granted.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Parkes Electorate: Telecommunications</title>,CONSTITUENCY STATEMENTS,21,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Parkes Electorate: Telecommunications</title>,CONSTITUENCY STATEMENTS,21,1,speech
 "Brodtmann, Gai, MP",ALP,2011-11-02,"
 
 
@@ -2902,7 +3179,7 @@ You can see how much technology has changed in a small amount of time. I also sa
 
 Innovation very much underscores the clean energy package. This legislation is designed to achieve innovation and to encourage investment in renewable energy. This government will support government and enterprise to not just adapt but to innovate and to become world leaders in green energy technologies. I support the bills before us today, as I supported the measures that came before the House a few weeks ago as part of this clean energy future package. I understand that we must be bold and courageous in tackling the challenge of climate change. We must be forward looking and embrace new opportunities. As I have said before, I want to be able to look my nieces, nephews and godchildren in the eyes 20 years from now and say: 'I made a choice to shape our economy for the future. I made a choice to build a cleaner and more prosperous economy,' and that it was all for them and for Australia. I support this legislation.
 
-",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1
+",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1,speech
 "Perrett, Graham, MP",ALP,2011-11-02,"
 
 
@@ -2952,7 +3229,7 @@ If Australia is going to achieve its ambition of a clean energy future, we need 
 
 Since the industrial revolution, Australia has totally underutilised its abundant access to renewable energies. Apart from the Snowy River scheme, we have yet to realise the full potential of our renewable energy. This bill and the clean energy reforms which have preceded it put Australia on a new course to realise that potential. The possibilities are endless and I am sure that all members, even those opposite who are silent today, are eager to see what the future holds for renewable energy in Australia. I am sure our children and our grandchildren will be too. I commend the legislation to the House.
 
-",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1
+",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1,speech
 "Lyons, Geoff, MP",ALP,2011-11-02,"
 
 
@@ -3002,7 +3279,7 @@ Labor has a good record on climate change action. One of Labor's first acts in 2
 
 Continued strong investment in renewable energy technology research and development is fundamental for Australia's transition to cleaner base load energy sources. Government support to fill market gaps and drive down costs will help us to achieve this transition. Like the wind generation in the north-east of Tasmania, the government legislation will support a clean energy future and jobs. I urge those opposite to support this bill.
 
-",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1
+",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1,speech
 "Georganas, Steve, MP",ALP,2011-11-02,"
 
 
@@ -3049,7 +3326,7 @@ We have also invested funds to transform the automotive industry with the rollou
 
 We are creating a user-friendly one-stop green shop website that links families, schools and businesses to all government energy and water efficiency programs. It is very important for all of us to do what we can to use solar and a whole range of other renewable energies in our own households. As I said earlier, I hope the opposition do support these bills, but I do not hold a lot of hope having heard the Leader of the Opposition, Tony Abbott, talking about climate change and referring to it as 'crap'. That does not give you much hope, but we have an absolute duty in this place. The utmost duty we have as members of parliament is to ensure that we hand over this country in a better position than we found it. We should all aspire to do that. These bills, as I said, are not a choice. They are a must if we want Australia and the world to survive. We have to look at renewable energy. I commend these bills to the House.
 
-",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1
+",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1,speech
 "Bandt, Adam, MP",AG,2011-11-02,"
 
 
@@ -3096,7 +3373,7 @@ I welcome the coalition's support for ARENA as an independent statutory authorit
 
 At the last election I announced a plan to shift Melbourne to 100 per cent clean renewable energy, including a price on pollution. I asked people to imagine an MCG covered in solar panels and community solar farms on the roofs of factories and schools. I talked about how we could expand public transport and maintain our mobility with electric vehicles. I found that people understood that to get there we needed to be willing to face up to the risks of climate change and lead. With the passage of this bill and the other clean energy bills I will be making good on that commitment to the people of Melbourne, and Australia will be on the way to a clean energy future.
 
-",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1
+",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1,speech
 "Burke, Anna, MP",ALP,2011-11-02,"
 
 
@@ -3176,7 +3453,7 @@ In addition, numerous safeguards have been put in place to ensure appropriate ad
 
 The government is committed to taking action on climate change and recognises the importance of keeping momentum in the renewable energy industry. The government's renewable energy bill provides the avenue through which renewable energy can play its vital role in ensuring a clean energy future for this country. That is why we are taking these actions for future generations. I commend this legislation to the House.
 
-",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1
+",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1,speech
 "Grierson, Sharon, MP",ALP,2011-11-02,"
 
 
@@ -3289,7 +3566,7 @@ By creating a long-term funding pipeline for research and development, and the c
 
 In conclusion, I would like to praise the Newcastle Institute for Energy and Resources. Having visited the institute recently, and I will be visiting there again on Friday, I know that their work has been outstanding. I also heard in other members' speeches about some of the collaborations that are happening to make sure we do develop technologies like solar paint. I also congratulate the Enterprise Connect Centre, the Clean Technology Innovation Centre and the Smart Grid, Smart City initiative in my electorate on their good work, and I encourage the quest for renewable energy in this country.
 
-",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1
+",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1,speech
 "Sidebottom, Sid, MP",ALP,2011-11-02,"
 
 
@@ -3370,7 +3647,7 @@ The Prime Minister recently visited King Island. In fact, it was only the second
 
 That is not to say that Tassie is not investing even more in renewable energy. In terms of wind energy for Tassie, Musselroe Bay is the next cab off the rank. There are some very exciting geothermal projects in the southern part of the state. Technologies such as wave technology and the use of biomass are also being developed in Tassie. We will always remain the clean energy and renewable capital of Australia. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1
+",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1,speech
 "Hall, Jill, MP",ALP,2011-11-02,"
 
 
@@ -3417,7 +3694,7 @@ We also went to Shanghai and whilst in Shanghai we visited their alternative ene
 
 Here in Australia, the establishment of ARENA will see that our commitment to renewable energy is coordinated and that here in Australia we are now fulfilling our commitment to a renewable energy future.
 
-",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1
+",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1,speech
 "Parke, Melissa, MP",ALP,2011-11-02,"
 
 
@@ -3491,7 +3768,7 @@ Each of us has a part to play in a new future that will benefit all of us. As we
 
 It is an essential part of the Labor ethos that a strong economy should be the foundation for positive long-term reform. These bills, which go hand in hand with the clean energy future package, are very much consonant with that ethos. It is a characteristic feature of Labor governments that we take on the difficult big-picture structural changes that are necessary to put Australia on the path to prosperity with fairness, to productivity that is sustainable and to a social and physical framework for our communities that in the face of future challenges is optimistic but realistic at the same time. These bills are part of that task which I wholeheartedly support.
 
-",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1
+",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1,speech
 "Rishworth, Amanda, MP",ALP,2011-11-02,"
 
 
@@ -3508,7 +3785,7 @@ This will be incredibly important as this country harnesses the opportunities th
 
 So I believe that our clean energy future will provide a lot of opportunities. This bill is part of this. I saw today that the opposition has agreed to support this bill. I am not sure what happened to their 'we will repeal the clean energy future'—obviously step by step. They are backing down on that, and I have no doubt that in the future we will continue to see a backdown from the opposition. We believe in going forward with this, ensuring that we do have a clean energy future. My electorate, in sites like Tonsley, is really set to benefit in this emerging industry that I think will create a lot of jobs and a lot of innovation.
 
-",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1
+",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1,speech
 "Ferguson, Martin, MP",ALP,2011-11-02,"
 
 
@@ -3552,7 +3829,7 @@ Message from the Governor-General recommending appropriation announced.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1
+",HoR,<title>BILLS</title>,"<title>Australian Renewable Energy Agency Bill 2011, Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Bill 2011</title>",BILLS,22,1,speech
 "Brodtmann, Gai, MP",ALP,2011-11-02,"
 
 
@@ -3602,7 +3879,7 @@ You can see how much technology has changed in a small amount of time. I also sa
 
 Innovation very much underscores the clean energy package. This legislation is designed to achieve innovation and to encourage investment in renewable energy. This government will support government and enterprise to not just adapt but to innovate and to become world leaders in green energy technologies. I support the bills before us today, as I supported the measures that came before the House a few weeks ago as part of this clean energy future package. I understand that we must be bold and courageous in tackling the challenge of climate change. We must be forward looking and embrace new opportunities. As I have said before, I want to be able to look my nieces, nephews and godchildren in the eyes 20 years from now and say: 'I made a choice to shape our economy for the future. I made a choice to build a cleaner and more prosperous economy,' and that it was all for them and for Australia. I support this legislation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Perrett, Graham, MP",ALP,2011-11-02,"
 
 
@@ -3652,7 +3929,7 @@ If Australia is going to achieve its ambition of a clean energy future, we need 
 
 Since the industrial revolution, Australia has totally underutilised its abundant access to renewable energies. Apart from the Snowy River scheme, we have yet to realise the full potential of our renewable energy. This bill and the clean energy reforms which have preceded it put Australia on a new course to realise that potential. The possibilities are endless and I am sure that all members, even those opposite who are silent today, are eager to see what the future holds for renewable energy in Australia. I am sure our children and our grandchildren will be too. I commend the legislation to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Lyons, Geoff, MP",ALP,2011-11-02,"
 
 
@@ -3702,7 +3979,7 @@ Labor has a good record on climate change action. One of Labor's first acts in 2
 
 Continued strong investment in renewable energy technology research and development is fundamental for Australia's transition to cleaner base load energy sources. Government support to fill market gaps and drive down costs will help us to achieve this transition. Like the wind generation in the north-east of Tasmania, the government legislation will support a clean energy future and jobs. I urge those opposite to support this bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Georganas, Steve, MP",ALP,2011-11-02,"
 
 
@@ -3749,7 +4026,7 @@ We have also invested funds to transform the automotive industry with the rollou
 
 We are creating a user-friendly one-stop green shop website that links families, schools and businesses to all government energy and water efficiency programs. It is very important for all of us to do what we can to use solar and a whole range of other renewable energies in our own households. As I said earlier, I hope the opposition do support these bills, but I do not hold a lot of hope having heard the Leader of the Opposition, Tony Abbott, talking about climate change and referring to it as 'crap'. That does not give you much hope, but we have an absolute duty in this place. The utmost duty we have as members of parliament is to ensure that we hand over this country in a better position than we found it. We should all aspire to do that. These bills, as I said, are not a choice. They are a must if we want Australia and the world to survive. We have to look at renewable energy. I commend these bills to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Bandt, Adam, MP",AG,2011-11-02,"
 
 
@@ -3796,7 +4073,7 @@ I welcome the coalition's support for ARENA as an independent statutory authorit
 
 At the last election I announced a plan to shift Melbourne to 100 per cent clean renewable energy, including a price on pollution. I asked people to imagine an MCG covered in solar panels and community solar farms on the roofs of factories and schools. I talked about how we could expand public transport and maintain our mobility with electric vehicles. I found that people understood that to get there we needed to be willing to face up to the risks of climate change and lead. With the passage of this bill and the other clean energy bills I will be making good on that commitment to the people of Melbourne, and Australia will be on the way to a clean energy future.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Burke, Anna, MP",ALP,2011-11-02,"
 
 
@@ -3876,7 +4153,7 @@ In addition, numerous safeguards have been put in place to ensure appropriate ad
 
 The government is committed to taking action on climate change and recognises the importance of keeping momentum in the renewable energy industry. The government's renewable energy bill provides the avenue through which renewable energy can play its vital role in ensuring a clean energy future for this country. That is why we are taking these actions for future generations. I commend this legislation to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Grierson, Sharon, MP",ALP,2011-11-02,"
 
 
@@ -3989,7 +4266,7 @@ By creating a long-term funding pipeline for research and development, and the c
 
 In conclusion, I would like to praise the Newcastle Institute for Energy and Resources. Having visited the institute recently, and I will be visiting there again on Friday, I know that their work has been outstanding. I also heard in other members' speeches about some of the collaborations that are happening to make sure we do develop technologies like solar paint. I also congratulate the Enterprise Connect Centre, the Clean Technology Innovation Centre and the Smart Grid, Smart City initiative in my electorate on their good work, and I encourage the quest for renewable energy in this country.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Sidebottom, Sid, MP",ALP,2011-11-02,"
 
 
@@ -4070,7 +4347,7 @@ The Prime Minister recently visited King Island. In fact, it was only the second
 
 That is not to say that Tassie is not investing even more in renewable energy. In terms of wind energy for Tassie, Musselroe Bay is the next cab off the rank. There are some very exciting geothermal projects in the southern part of the state. Technologies such as wave technology and the use of biomass are also being developed in Tassie. We will always remain the clean energy and renewable capital of Australia. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Hall, Jill, MP",ALP,2011-11-02,"
 
 
@@ -4117,7 +4394,7 @@ We also went to Shanghai and whilst in Shanghai we visited their alternative ene
 
 Here in Australia, the establishment of ARENA will see that our commitment to renewable energy is coordinated and that here in Australia we are now fulfilling our commitment to a renewable energy future.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Parke, Melissa, MP",ALP,2011-11-02,"
 
 
@@ -4191,7 +4468,7 @@ Each of us has a part to play in a new future that will benefit all of us. As we
 
 It is an essential part of the Labor ethos that a strong economy should be the foundation for positive long-term reform. These bills, which go hand in hand with the clean energy future package, are very much consonant with that ethos. It is a characteristic feature of Labor governments that we take on the difficult big-picture structural changes that are necessary to put Australia on the path to prosperity with fairness, to productivity that is sustainable and to a social and physical framework for our communities that in the face of future challenges is optimistic but realistic at the same time. These bills are part of that task which I wholeheartedly support.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Rishworth, Amanda, MP",ALP,2011-11-02,"
 
 
@@ -4208,7 +4485,7 @@ This will be incredibly important as this country harnesses the opportunities th
 
 So I believe that our clean energy future will provide a lot of opportunities. This bill is part of this. I saw today that the opposition has agreed to support this bill. I am not sure what happened to their 'we will repeal the clean energy future'—obviously step by step. They are backing down on that, and I have no doubt that in the future we will continue to see a backdown from the opposition. We believe in going forward with this, ensuring that we do have a clean energy future. My electorate, in sites like Tonsley, is really set to benefit in this emerging industry that I think will create a lot of jobs and a lot of innovation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Ferguson, Martin, MP",ALP,2011-11-02,"
 
 
@@ -4252,7 +4529,7 @@ Message from the Governor-General recommending appropriation announced.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Robert, Stuart, MP",LP,2011-11-02,"
 
 
@@ -4272,7 +4549,7 @@ Brothers-in-arms fell on the weekend. As the brother of Corporal Birt, whom he s
 
 As we collectively grieve as a parliament in joining with our nation and as we express our gratitude, let us renew again today that we will offer more than words and tears, that we will offer nothing less than our unwavering support and complete commitment to those that fight wearing our flag—the same flag that flies here in this place. We honour you lads as we mourn your loss.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1
+",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1,speech
 "Snowdon, Warren, MP",ALP,2011-11-02,"
 
 
@@ -4319,7 +4596,7 @@ This is a very difficult time for those families but it is very important in the
 
 These brave souls have done that and to their comrades, who are no doubt feeling very deeply at this time around the events that took place so recently and seeing these three brave men lose their lives, we say: thank you for your continuing work, your intestinal fortitude, your courage, your capacity, your resilience and your bravery. At this time of tragic loss, we remember Captain Bryce Duffy, Corporal Ashley Birt, Lance Corporal Luke Gavin—lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1
+",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1,speech
 "Truss, Warren, MP",Nats,2011-11-02,"
 
 
@@ -4357,7 +4634,7 @@ Just a few weeks ago Corporal Birt was interviewed on Ten News and he was asked 
 
 Gympie is one of Queensland's oldest towns and is proud of its contribution to Australia's wartime effort. The city has fine memorial gates and a marvellous memorial wall. After many years, a new name has to be added to those gates. An extra name will go on the Gympie State High School's new honour board in the school's 100th year. The flags of the city and the region fly low. The Melbourne Cup race meeting at the town's racecourse paused yesterday to remember. The Gympie Regional Council meeting began with prayers. The horror of war came to Gympie this week after so many years of peace. The cost of the Afghanistan commitment became real to another community which has lost one of its own, one of its finest. They will never forget his engaging smile and his warm personality. But I hope that those feeling the pain of his loss can take some consolation in knowing his was a sacrifice in the name of creating a new and safer Afghanistan and, as a result, a new and safer world for all of us.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1
+",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1,speech
 "Brodtmann, Gai, MP",ALP,2011-11-02,"
 
 
@@ -4377,7 +4654,7 @@ Every time I meet a member of the ADF I am struck by their professionalism and d
 
 While there can be no preparation for the death of a loved one, even one serving in this dangerous deployment, to have the death come at the hands of someone you were training and supporting to build a better nation—someone you may have called a mate—must be truly devastating. So, to the families of Captain Duffy, Corporal Birt and Lance Corporal Gavin, I say that, while none of my words will bring them back, please know that my thoughts, Canberra's thoughts and the thoughts of a nation are with you. You are part of an extended family which honours the sacrifice of your loved ones and which will support you now in your time of grief. Everywhere you go in this country, know that you are among friends. I know the Army and the ADF will not let their names, their deeds or their sacrifice fade from the memory of this country—and I know I will not either.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1
+",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1,speech
 "Frydenberg, Josh, MP",LP,2011-11-02,"
 
 
@@ -4397,7 +4674,7 @@ Lance Corporal Gavin was a member of the 2nd Battalion, Royal Australian Regimen
 
 Having travelled to Afghanistan earlier this year in a bipartisan delegation, I have seen firsthand the valuable work our soldiers are doing to bring stability and security to this troubled region and, by definition, to bring stability and security to Australia and our interests both here and abroad. We should not lose faith in this cause, despite these tragic deaths. It is a difficult task and there will be setbacks. But as a nation our interests are advanced by this deployment. We will never forget the sacrifice of Captain Duffy, Corporal Birt and Lance Corporal Gavin. Our thoughts and our prayers are with their families at this very difficult time. Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1
+",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1,speech
 "O'Dwyer, Kelly, MP",LP,2011-11-02,"
 
 
@@ -4420,7 +4697,7 @@ What makes the loss of these young men so extraordinary are the circumstances in
 
 We cannot, however, be blinded by this great tragedy to the tremendous good our soldiers are doing in Afghanistan or to the reason they are there. They are there to support the pursuit of democracy and freedom and to secure not only our nation's liberty but also the liberty of all free nations. To pull out now would mean that these lives have been lost in vain. It would create a dangerous vacuum, and the people who gave the orders for these murders would reassert control. We must stay the course, we must keep our resolve and we must never forget why these men, and their families, have ultimately paid the highest price in sacrificing their lives. Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1
+",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1,speech
 "Clare, Jason, MP",ALP,2011-11-02,"
 
 
@@ -4440,7 +4717,7 @@ I'm not sure how to live a life without him in it. We are all so incredibly prou
 
 All Australians are proud of him—we are proud of all three men and we too will never forget them.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1
+",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1,speech
 "McCormack, Michael, MP",Nats,2011-11-02,"
 
 
@@ -4484,7 +4761,7 @@ They fell with their faces to the foe.
 
 Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1
+",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1,speech
 "Prentice, Jane, MP",LP,2011-11-02,"
 
 
@@ -4507,7 +4784,7 @@ Corporal Ashley Birt, just 22, and from Gympie was part of the 1st Topographical
 
 These young men were all unique and all leave behind people whom they loved and who loved them. They were dedicated to their cause, and their country is proud of them. I extend my condolences to the families of these men and keep our other Australian soldiers serving in Afghanistan and around the world in my thoughts and prayers. Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1
+",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1,speech
 "Tudge, Alan, MP",LP,2011-11-02,"
 
 
@@ -4542,7 +4819,7 @@ Last Saturday's incident now brings the total number of Australian soldiers kill
 
 While these soldiers have died tragically, they have died in great honour in serving our nation in the cause of making Afghanistan safer from terrorism. Their sacrifice is not in vain. We honour their memory and we thank them for their service to our nation. Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1
+",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1,speech
 "Fitzgibbon, Joel, MP",ALP,2011-11-02,"
 
 
@@ -4574,7 +4851,7 @@ Again, we are grateful to them for what they did and we are grateful to their fe
 
 What will really fix Afghanistan in the end is an economy capable of producing the sort of growth we need to bring the Afghan people out of the 16th century and eventually into the 21st century. It is achievable. It is possible for the Afghan security forces to develop to the point where they are capable of taking care of their own security. It will take time and we must give that time. All of us in this place must at every opportunity reassure our boys there, and of course the female soldiers playing an important role in Afghanistan, that we are 100 per cent behind them. Again, I could not imagine going out on patrol next to ANA soldiers, taking all those risks and wondering whether it is going to be all for nil because, at some point, the politicians back in Canberra are going to give up and bring people home before the job is done. That is certainly not what the boys want to hear and it is certainly not the message we should be sending them. The only message we should be sending them is that we will do everything in our power to ensure that the 32 Australians who have given their lives in Afghanistan have not given their lives in vain. Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1
+",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1,speech
 "Jones, Ewen, MP",LP,2011-11-02,"
 
 
@@ -4618,7 +4895,7 @@ I say this to the men and women who are left over there: this is a very stressfu
 
 I am very proud to represent the city of Townsville—the men and women of 3rd Brigade, and people from Townsville and the Defence Force in general that are part of the Mentoring Task Force. I am very sorry to be here, and I do not like doing these things, but it is a damn sight easier than being over there. Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1
+",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1,speech
 "Jones, Stephen, MP",ALP,2011-11-02,"
 
 
@@ -4676,4 +4953,41 @@ Committee adjourned at
 
  
 
-",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1
+",HoR,<title>CONDOLENCES</title>,"<title>Duffy, Captain Bryce, Birt, Corporal Ashley, Gavin, Lance Corporal Luke</title>",CONDOLENCES,23,1,speech
+"Bishop, Julie, MP",LP,2011-11-02,"
+
+
+
+Ms Julie Bishop
+  asked the Minister for Foreign Affairs, in writing, on 24 March 2011:
+
+
+How many overseas business class flights were taken by Canberra-based AusAID staff in each calendar year from 2005 to 2010.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>AusAID: Business Class Flights (Question No. 340)</title>,QUESTIONS IN WRITING,24,1,question
+"Rudd, Kevin, MP",ALP,2011-11-02,"
+
+
+
+Mr Rudd:
+  The answer to the honourable member’s question is as follows:
+
+
+2005 – 984 flights
+
+
+2006 - 1116 flights
+
+
+2007 – 1321 flights
+
+
+2008 - 1317 flights
+
+
+2009 - 1034 flights
+
+
+2010 - 1011 flights
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>AusAID: Business Class Flights (Question No. 340)</title>,QUESTIONS IN WRITING,24,1,answer

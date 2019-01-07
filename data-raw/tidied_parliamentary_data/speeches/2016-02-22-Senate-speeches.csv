@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2016-02-22,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (10:01):  Does any senator wish to have the question put on any of those motions? There being none, we will proceed.
 
-",Senate,<title>COMMITTEES</title>,"<title>Finance and Public Administration Legislation Committee, Joint Standing Committee on Foreign Affairs, Defence and Trade</title>",COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,"<title>Finance and Public Administration Legislation Committee, Joint Standing Committee on Foreign Affairs, Defence and Trade</title>",COMMITTEES,1,1,speech
 "PRESIDENT, The",,2016-02-22,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (10:01):  Does any senator wish to have the question put on any of those motions? There being none, we will proceed.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "Dastyari, Sen Sam",ALP,2016-02-22,"
 
 
@@ -40,7 +40,7 @@ Under this measure, from 1 July 2016, where the seller of certain Australian ass
 
 As I said earlier, this is a piece of legislation that Labor intends to support. It relates to measures and budget measures that were raised and introduced and discussed by the previous government. I think it is disappointing that when it comes to tax reform and tax debate in this country, into the third year of the Abbott-Turnbull government, we are still only dealing with a handful of legacy items and tax reform proposals that were presented by the former Labor government. That being said, on its merits, this is a bill that warrants our support and Labor will be supporting it.
 
-",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2015 Measures No. 6) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2015 Measures No. 6) Bill 2015</title>,BILLS,2,1,speech
 "Leyonhjelm, Sen David",LDP,2016-02-22,"
 
 
@@ -57,7 +57,7 @@ The government justifies its new tax by complaining that it is difficult to get 
 
 The solution is the exact opposite of what this bill aims to achieve. The solution is to exempt foreigners from capital gains tax when they sell Australian land, plant and equipment. The art of taxation is said to consist of plucking the goose to obtain the maximum amount of feathers with the smallest amount of hissing. But we are not plucking the goose; we are strangling it because it flew in from overseas.
 
-",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2015 Measures No. 6) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2015 Measures No. 6) Bill 2015</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2016-02-22,"
 
 
@@ -83,7 +83,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2015 Measures No. 6) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2015 Measures No. 6) Bill 2015</title>,BILLS,2,1,speech
 "PRESIDENT, The",,2016-02-22,"
 
 
@@ -91,7 +91,7 @@ Bill read a second time.
 The PRESIDENT
  (10:21):  As there have been no amendments circulated, unless any senator requires a committee stage, I propose to call the minister for the third reading.
 
-",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2015 Measures No. 6) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2015 Measures No. 6) Bill 2015</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2016-02-22,"
 
 
@@ -108,7 +108,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2015 Measures No. 6) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Tax and Superannuation Laws Amendment (2015 Measures No. 6) Bill 2015</title>,BILLS,2,1,speech
 "Dastyari, Sen Sam",ALP,2016-02-22,"
 
 
@@ -134,7 +134,7 @@ Under this measure, from 1 July 2016, where the seller of certain Australian ass
 
 As I said earlier, this is a piece of legislation that Labor intends to support. It relates to measures and budget measures that were raised and introduced and discussed by the previous government. I think it is disappointing that when it comes to tax reform and tax debate in this country, into the third year of the Abbott-Turnbull government, we are still only dealing with a handful of legacy items and tax reform proposals that were presented by the former Labor government. That being said, on its merits, this is a bill that warrants our support and Labor will be supporting it.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Leyonhjelm, Sen David",LDP,2016-02-22,"
 
 
@@ -151,7 +151,7 @@ The government justifies its new tax by complaining that it is difficult to get 
 
 The solution is the exact opposite of what this bill aims to achieve. The solution is to exempt foreigners from capital gains tax when they sell Australian land, plant and equipment. The art of taxation is said to consist of plucking the goose to obtain the maximum amount of feathers with the smallest amount of hissing. But we are not plucking the goose; we are strangling it because it flew in from overseas.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Fifield, Sen Mitch",LP,2016-02-22,"
 
 
@@ -177,7 +177,142 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
+"Ketter, Sen Christopher",ALP,2016-02-22,"
+
+
+
+Senator KETTER
+ (Queensland) (14:00):  My question is to the Minister for Finance, Senator Cormann. I refer to the Treasurer's statement last week that bracket creep 'is a job killer, and it's a growth killer'. I also refer to the minister's statement on bracket creep that 'given that wage inflation is comparatively low, that inflation generally is comparatively low, the problem is there but it is not there to the same extent as it might have been in the past'. Who is right—the Treasurer or the minister?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Ketter, Sen Christopher",ALP,2016-02-22,"
+
+
+
+Senator KETTER
+ (Queensland) (14:03):  Mr President, I ask a supplementary question. I refer to the Treasurer's admission as follows:
+
+
+It was only last September when we started the approach of looking at issues, whether it was superannuation or the GST or other things like that. Those issues were not under consideration before September last year. 
+
+
+Did the Minister for Finance really do nothing on economic reform until Mr Turnbull and Mr Morrison showed up?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Ketter, Sen Christopher",ALP,2016-02-22,"
+
+
+
+Senator KETTER
+ (Queensland) (14:05):  Mr President, I ask a further supplementary question. With the increase in unemployment, debt and deficit blowing out, and slowing economic growth, does Mr Turnbull's statement last September that the coalition government 'is not successful in providing the economic leadership that we need' remain true?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Cormann, Sen Mathias",LP,2016-02-22,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance and Deputy Leader of the Government in the Senate) (14:01):  I thank Senator Ketter for that question. Of course, if he had quoted my full quote, he would have seen that the comments made by the Treasurer and me were entirely consistent. What I said in the interview on Radio National was that bracket creep is a problem, it is a drag on growth, and that we would do as much is possible to address it and as much as we can sensibly afford, which I would have thought was an entirely reasonable boundary to set. Indeed, it is a very responsible boundary to set in relation to any policy proposals that will come forward down the track.
+
+
+The second point I would make is that it is self-evident that the stronger the wages growth and the higher the wages growth across the community the faster people move through individual income tax brackets; and the lower the rate of inflation or the lower the rate of wages growth the more slowly people move through individual income tax brackets. 
+
+
+So the key point is this, and the government are of course of one mind in relation to this: bracket creep is a problem, bracket creep is a drag on growth, bracket creep is something that the government are committed to addressing, and we will address it to the best of our ability. We will do the best possible job to address bracket creep by pursuing personal income tax cuts in a way that is sensibly affordable. 
+
+
+Labor should have a close look at their policy, which is to spend more, borrow too much and then tax more. They are always chasing increased levels of expenditure with more new taxes. Our focus is on strengthening growth and creating more jobs, and part of that focus is to ensure that our tax system is as growth friendly as possible and as efficient as possible, and that we address bracket creep in the best way possible and in a way that is sensibly affordable. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Cormann, Sen Mathias",LP,2016-02-22,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance and Deputy Leader of the Government in the Senate) (14:04):  It is quite humorous to see Labor playing politics with the Australian economy! They think it is quite humorous. This government, since its election in September 2013, has been working to strengthen growth and to create more jobs. That is why, since our election in 2013, we have focused on improving our international competitiveness, making our tax system more growth friendly and getting rid of Labor's disastrous carbon tax and their disastrous mining tax; that is why we delivered company tax cuts to small business in last year's budget; that is why we pursued an ambitious free-trade agenda; and that is why we pursued an ambitious infrastructure investment program—all focused on delivering stronger growth and more jobs. 
+
+
+It is a matter of public record that since September, when we had a change of leadership, a number of proposals, or a number of options, that previously had been taken off the table were back on the table for consideration. The way we are working through them— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Cormann, Sen Mathias",LP,2016-02-22,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance and Deputy Leader of the Government in the Senate) (14:05):  I completely reject the premise of the question. Employment growth today is much stronger than it was when Labor lost government. In fact, the unemployment rate is below the rate that was anticipated at the time Labor lost government. The economic position today is better than it would have been if we had kept Labor's disastrous mining tax and Labor's disastrous carbon tax, if we had not pursued an ambitious free-trade agenda and if we had not pursued an ambitious infrastructure investment program. Our budget position now is on an improving trajectory—it is on an unbelievably improving trajectory—with the underlying cash balance improving year-on-year in both dollar terms and as a share of GDP. 
+
+
+In any event, when are Labor going to tell us how they are going to pay for more than $50 billion in unfunded promises? Or are you going to increase taxes by another $50 billion, on top of all the tax increases that you have already put on the table?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Fawcett, Sen David",LP,2016-02-22,"
+
+
+
+Senator FAWCETT
+ (South Australia—Deputy Government Whip in the Senate) (14:07):  My question is to the Minister for Defence, Senator Payne. Will the minister please provide the Senate with the latest update on the situation in Fiji arising from Tropical Cyclone Winston and on the contribution of the Australian Defence Force?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Tropical Cyclone Winston</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Fawcett, Sen David",LP,2016-02-22,"
+
+
+
+Senator FAWCETT
+ (South Australia—Deputy Government Whip in the Senate) (14:09):  Mr President, I ask a supplementary question. Can the minister advise how the Australian Defence Force is working with its regional partners in the response?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Tropical Cyclone Winston</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Fawcett, Sen David",LP,2016-02-22,"
+
+
+
+Senator FAWCETT
+ (South Australia—Deputy Government Whip in the Senate) (14:10):  Mr President, I ask a further supplementary question. Could the minister detail to the Senate whether the ADF is able to provide any further assistance, if requested by Fiji?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Tropical Cyclone Winston</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Payne, Sen Marise",LP,2016-02-22,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Defence) (14:07):  I thank Senator Fawcett very much for his question and particularly acknowledge his longstanding interest in defence issues and, in this instance, particularly in our humanitarian assistance and disaster relief work.
+
+
+Our thoughts are with the people of Fiji following the devastating impact of Tropical Cyclone Winston over the weekend, which has caused severe damage in the Pacific. This cyclone is the strongest tropical cyclone ever recorded to make landfall in Fiji, with reports of widespread destruction and devastation and, tragically, the death of 17 people. I want to acknowledge the government of Fiji for their work in putting in place a number of precautionary measures to protect their citizens and endeavour to limit the damage. Early assessments indicate that those measures have helped to reduce the loss of life.
+
+
+I am pleased to say that Defence is working quickly with other Australian government agencies to ensure a coordinated response to this natural disaster. We are also working with our friends in New Zealand in the response process. I can confirm that Australia will provide MRH90 helicopters to assist Fiji to carry out assessments and provide relief to the outlying islands in particular affected by the cyclone.
+
+
+The initial movement of advance elements departs today from RAAF Base Amberley and will provide the personnel necessary to assist the government of Fiji and the Republic of Fiji Military Forces. These initial elements will be deployed by C17A Globemaster and will arrive in Fiji this afternoon. Australia also has two AP3C Orion aircraft on standby in the region that can be activated at short notice, if that is requested by the government of Fiji, and they are able to assist with aerial surveillance of affected areas.
+
+
+The Chief of the Defence Force, Air Chief Marshal Mark Binskin, spoke this morning with his Fijian counterpart, Commander of the Republic of Fiji Military Forces, Rear Admiral Naupoto— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Tropical Cyclone Winston</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Payne, Sen Marise",LP,2016-02-22,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Defence) (14:09):  In addition to the CDF's conversation with Rear Admiral Naupoto today to ensure the effective coordination of our support, as I referred to earlier, the ADF is also working closely with the New Zealand Defence Force to coordinate our support to the government of Fiji. I am aware that New Zealand has deployed a P3 Orion to assist with aerial assessment in the early days.
+
+
+We are also working with the Pacific Islands Forum, which is consulting with its broader membership about how they are able to assist in Fiji as it, as a country, identifies the areas in which particular assistance is needed. We have also engaged with other international partners, such as the United Kingdom and the United States, and are keeping them informed of our contributions to enable them to consider areas in which they may assist. Australia is also working in close cooperation with France through our France-Australia-New Zealand trilateral disaster relief arrangement here in the Pacific.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Tropical Cyclone Winston</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Payne, Sen Marise",LP,2016-02-22,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Defence) (14:10):  I thank Senator Fawcett. That is an important question, given that the full impact of the cyclone is not yet clear, because power and communications remain down right across the country, and that makes challenging the identification of particular areas of need. As the situation becomes clearer the ADF stands ready to provide further assistance to support Fiji's relief and recovery efforts, as they may request.
+
+
+Australia does have some additional capabilities that may be of assistance. One of those in particular would be HMAS Canberra, one of the Navy's new LHD amphibious vessels. It is on standby should the Fiji government request it. HMAS Canberra has a very significant medical support capacity and can also transport heavy earthmoving equipment should that be needed by the Fiji government. We will continue to plan with the Fiji government and with New Zealand, in particular, to ensure that we are able to provide the quickest possible response to any further requests from Fiji.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Tropical Cyclone Winston</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
 "Brown, Sen Carol",ALP,2016-02-22,"
 
 
@@ -212,7 +347,7 @@ Another question that was asked in question time today was about bracket creep, 
 
 Mr Morrison's inept performance at the Press Club was excruciating—I felt bad for him, but I can tell you that Senator Cormann was sitting in the audience and his face told the whole story. He was just appalled by the lack of substance in Mr Morrison's performance. Mr Morrison rightly got the rounds of the table when he went out to the media—and no-one backed him in—because Mr Morrison started talking about unicorns and pixies. It was very hard to follow what Mr Morrison was trying to convey to the community. What he managed to convey was that this government has no plan— (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Edwards, Sen Sean",LP,2016-02-22,"
 
 
@@ -241,7 +376,7 @@ All the Treasury modelling shows that high-taxing and high-spending governments 
 
 If you look at negative gearing carefully, every Australian aspires, whether or not they own a home, to own an investment property—every Australian. I do not know why those on the other side play the politics of envy and why they deny people the same opportunity that they have had. I do not know why they are being mean. I do not think these things are lucrative; I do not think it is keeping anybody out of the Adelaide market and I do not think it is keeping anybody out of the Whyalla market— (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Ketter, Sen Christopher",ALP,2016-02-22,"
 
 
@@ -258,7 +393,7 @@ At least the former Treasurer put out a press release in March 2015 identifying 
 
 Senator Cormann talked about the fact that the budget was on an improving trajectory, but we have a doubling of the deficit. So, we have a very poor quality of economic leadership on display here.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Smith, Sen Dean",LP,2016-02-22,"
 
 
@@ -301,7 +436,7 @@ interjecting
 Senator SMITH:
   Senator Conroy, perhaps you would like me to remind you that Prime Minister Kevin Rudd suggested there would be $50 billion in revenue from the mining tax. How much revenue was there from the mining tax? There was just $400 million of an expected $26 billion. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "McAllister, Sen Jenny",ALP,2016-02-22,"
 
 
@@ -354,7 +489,7 @@ I would say this to the government: if there was ever a time to get your ideas o
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "PRESIDENT, The",,2016-02-22,"
 
 
@@ -362,7 +497,7 @@ Question agreed to.
 The PRESIDENT
  (15:36):  It is with deep regret that I inform the Senate of the death on 9 February 2016, of the Hon. Robert George (Bob) Halverson OBE, a former Speaker of the House of Representatives and member for the division of Casey. Prior to calling the Leader of the Government in the Senate, I also draw attention to senators of the presence today in the public gallery of Mr Halverson's daughter, son-in-law and grandson, and we offer our deepest sympathy to members of the family.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Halverson, Hon. Robert George (Bob), OBE</title>",CONDOLENCES,8,1
+",Senate,<title>CONDOLENCES</title>,"<title>Halverson, Hon. Robert George (Bob), OBE</title>",CONDOLENCES,8,1,speech
 "Brandis, Sen George",LP,2016-02-22,"
 
 
@@ -409,7 +544,7 @@ The men and women who seek to serve in this place may be motivated by many reaso
 
 He also spoke of the importance of 'sacrifice, courage, discipline, loyalty, devotion to duty and', once again, 'love of country'—the values by which he lived his life and served his country so passionately. In that same speech, Bob Halverson spoke with feeling of having 'the help, support and encouragement of a loved and loving wife'. Our hearts go out to Maggie, and to their four children and their families, in their deep loss, and we send to them our very deepest sympathy on this occasion, while acknowledging the service to this parliament and to this nation of a great Australian.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Halverson, Hon. Robert George (Bob), OBE</title>",CONDOLENCES,8,1
+",Senate,<title>CONDOLENCES</title>,"<title>Halverson, Hon. Robert George (Bob), OBE</title>",CONDOLENCES,8,1,speech
 "Wong, Sen Penny",ALP,2016-02-22,"
 
 
@@ -444,7 +579,7 @@ Mr Halverson resigned as Speaker in March 1998 and did not contest the election 
 
 Bob Halverson died last week at the age of 78 on his farm at Holbrook, in southern New South Wales. He spent a lifetime in the service of this country, in the Defence Force, in the parliament and as an ambassador. We recognise and honour his service, and I again express the condolences of the opposition and extend our thoughts to his wife, children and grandchildren.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Halverson, Hon. Robert George (Bob), OBE</title>",CONDOLENCES,8,1
+",Senate,<title>CONDOLENCES</title>,"<title>Halverson, Hon. Robert George (Bob), OBE</title>",CONDOLENCES,8,1,speech
 "Scullion, Sen Nigel",CLP,2016-02-22,"
 
 
@@ -479,7 +614,7 @@ Vale Robert 'Bob' Halverson.
 
 Question agreed to, honourable senators standing in their places.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Halverson, Hon. Robert George (Bob), OBE</title>",CONDOLENCES,8,1
+",Senate,<title>CONDOLENCES</title>,"<title>Halverson, Hon. Robert George (Bob), OBE</title>",CONDOLENCES,8,1,speech
 "Lazarus, Sen Glenn",GLT,2016-02-22,"
 
 
@@ -493,7 +628,7 @@ That the Legal and Constitutional Affairs References Committee be authorised to 
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,12,1
+",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,12,1,speech
 "DEPUTY PRESIDENT, The",,2016-02-22,"
 
 
@@ -501,7 +636,7 @@ Question agreed to.
 The DEPUTY PRESIDENT
  (15:58):  Does any senator require the question to be put separately on any of those proposals? There being none, we shall move on.
 
-",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,12,2
+",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,12,2,speech
 "Macdonald, Sen Ian",LP,2016-02-22,"
 
 
@@ -542,7 +677,7 @@ That the Senate—
 
 Question negatived.
 
-",Senate,<title>MOTIONS</title>,<title>Mining</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Mining</title>,MOTIONS,13,1,speech
 "Back, Sen Chris",LP,2016-02-22,"
 
 
@@ -562,7 +697,7 @@ That the Joint Standing Committee on Migration be authorised to hold public meet
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Joint Standing Committee on Migration</title>,COMMITTEES,14,1
+",Senate,<title>COMMITTEES</title>,<title>Joint Standing Committee on Migration</title>,COMMITTEES,14,1,speech
 "Back, Sen Chris",LP,2016-02-22,"
 
 
@@ -582,7 +717,7 @@ That the Joint Standing Committee on Migration be authorised to hold public meet
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,14,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,14,2,speech
 "Siewert, Sen Rachel",AG,2016-02-22,"
 
 
@@ -608,7 +743,7 @@ That the Senate—
 
 Question agreed to. 
 
-",Senate,<title>MOTIONS</title>,<title>Aboriginal Children in Out-of-Home Care</title>,MOTIONS,15,1
+",Senate,<title>MOTIONS</title>,<title>Aboriginal Children in Out-of-Home Care</title>,MOTIONS,15,1,speech
 "DEPUTY PRESIDENT, The",,2016-02-22,"
 
 
@@ -635,7 +770,7 @@ More than the number of senators required by the standing orders having risen in
 
 The DEPUTY PRESIDENT:  I understand that informal arrangements have been made to allocate specific times to each of the speakers in today’s debate. With the concurrence of the Senate, I shall ask the clerks to set the clocks accordingly.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Bilyk, Sen Catryna",ALP,2016-02-22,"
 
 
@@ -694,7 +829,7 @@ In deciding to pursue these specific reforms to negative gearing and capital gai
 
 In addition, Labor want to tackle the issues of the multinational tax avoidance. In 2012-13, companies shifted over $300 billion from their Australian arms to overseas parent or subsidiary companies. We want to close the loopholes that allow big multinationals to send their profits overseas. Unlike the government, who want to cut funding to schools and hospitals, we think that multinationals should pay their fair share of tax. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Back, Sen Chris",LP,2016-02-22,"
 
 
@@ -732,7 +867,7 @@ This is not a time for cheap political point-scoring. This is not a time for thi
 
 Just have a look at how different the circumstances are today to how they were then and whether this country is equipped to be able to sustain another global financial crisis: our terms of trade have declined; China, the great supplier of wealth to this country over the last few years, has slowed down economically; high commodity prices have now come off; and Australia has that debt of $400 to $600 billion and the monthly interest of $1.2 billion. Interest rates are at a historically low level. It is time that this country understood the challenge. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Ludlam, Sen Scott",AG,2016-02-22,"
 
 
@@ -780,7 +915,7 @@ The ACTING DEPUTY PRESIDENT:  Order! Senator Ludlam, it is 'Mr Turnbull' or 'the
 Senator LUDLAM:
   Quite correct, Acting Deputy President. When Mr Turnbull, the Prime Minister of the Commonwealth of Australia, brazenly stood up the other day and said, 'It'll crash property prices if you take away these negative gearing and capital gains tax reforms.' I would have thought that, if you strip away the hysterical language, that should have been the end of the debate. When this so-called liberal said that this $22 billion intervention in the property market is there to help push prices up, he basically acknowledged that negative gearing and capital gains tax exemptions increase property prices. What kind of intervention in the market is that supposed to be, where these incentives are being subsidised by low-income taxpayers? That should have been the end of the debate, but at least it has started. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Urquhart, Sen Anne",ALP,2016-02-22,"
 
 
@@ -818,7 +953,7 @@ But Labor's reform plan will succeed where the existing policy has failed becaus
 
 In contrast, this Abbott-Turnbull government have been in power for more than two years and yet they clearly do not have a clue on tax policy. The reality is that those opposite either have no intention or no idea how to create a fairer tax system that will support a productive economy. And now they are trying to distract from their abject failure by waging a baseless, hysterical scare campaign against Labor's measured and sensible negative-gearing reform. Mr Turnbull promised an intelligent debate on tax to the Australian people. But now we see that he is trying to cover up the total policy void in his own government by waging a desperate misinformation campaign against Labor. Well, it is not good enough. Australians expect more from the government, and they deserve more. Those opposite need to stop sitting on their hands and start doing the work. Mr Morrison needs to stop blaming everyone for his failure and Mr Turnbull needs to front up to the Australian people. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Bernardi, Sen Cory",LP,2016-02-22,"
 
 
@@ -894,7 +1029,7 @@ Senator BERNARDI:
 
 Having said that, they have failed, clearly, to adopt the Bernardi taxation plan of simplifying things, because from their point of view it is about controlling and influencing people and trying to coerce their behaviour. As I mentioned earlier, every notional saving—if only Hansard could pick up that I am putting 'savings' in air quotes—savings, for those on the other side, are bigger taxes. They are expenses for other people. That is the duality and the great hypocrisy of modern politics: they talk about savings but they are actually expenses. This is why the budget is never going to balance under those on the other side. What they put forward is a fraud. We need to allow individuals to make determinations about what they want to spend their money on, free of the influence or corralling of government. Let them choose the best type of child care for themselves by cutting the taxes and not having to subsidise it. It means not taking a dollar from someone, clipping the ticket in government and giving them back 90c or 50c or 40c in rebates. That only increases the size of government, and this is what this country cannot afford. This is a very hard word for me to say, as a conservative, but it is time for a radical rethink of how taxes are implemented in this country. If we do not, we will travel the path of other countries—that is, the reward for effort is gone and government gets bigger and bigger until it is no longer sustainable. We have seen it in Greece, we have seen it in Italy, we have seen it right through the European Union. We are seeing that America is struggling with debt problems and the polarisation of the community there. We want to avoid those issues in this country. The only way to do it is to shrink the size of government, to live within our means and to allow people the opportunity to make determinations, good and bad, and to live with the consequences, good and bad, of making their own decisions. That needs a radical rethink from those on that side of the chamber. But it is clear that those on this side of the chamber are starting to think seriously about how we can reset the tax system for the benefit of all Australians.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Whish-Wilson, Sen Peter",AG,2016-02-22,"
 
 
@@ -920,7 +1055,7 @@ I am very proud to say that my partner in crime here, Senator Ludlam, has been c
 
 We also have a vision for infrastructure spending around this country. We have a vision for getting rid of fossil fuel subsidies and other areas where we know we can get up to $80 billion worth of revenue in this country, which we can redirect into schools, into hospitals, into affordable housing, into where it is needed, and look after those who are least well-off in this society. That is the role of government—not what Senator Bernardi said. The role of government is, when markets fail, being there to protect those who are vulnerable.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Lines, Sen Susan",ALP,2016-02-22,"
 
 
@@ -940,7 +1075,7 @@ What about when the PM said he wanted to have a conversation with the Australian
 
 Goodness knows what is going to be in the budget. It would seem that Mr Morrison has had to rip it up and start again because he was getting contradictory messages from all sorts of people—not backbenchers, but senior members of the government who want to be out there contradicting one another. It is shambolic and it is a disgrace. I have not heard it, but we know there is an internal conversation going on, and it is one of dissent within the Turnbull government about where to go on tax. That is what we have seen: shambolic government and empty promises among other things. There are 12 sitting days until the budget and we have seen no real hint of what is going on, apart from there will be announcements at some point into the future. It is shambolic and the Australian voters know that—they know it well and truly—the gloss is off.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Seselja, Sen Zed",LP,2016-02-22,"
 
 
@@ -963,7 +1098,7 @@ We talk about first home buyers and the reason that so many first homebuyers are
 
 What is this going to mean for future borrowings, as banks consider whether houses remain a good risk? People might find they cannot get into the property market, even with those lower values, because it will be harder to access finance. What kind of flow-on impact will this have on the economy—when people lose significant amounts of their wealth, do not have any confidence, do not have the same disposable income, do not have the same ability to access funds necessary to make major purchases? What is that going to do for business and spending? This is the Labor Party's future. This is the future for Australia under the Labor Party—more taxing, more spending and, most importantly, when it comes to negative gearing changes in particular, a whack on the value of the family home and a whack on the value of all properties. This is what the Labor Party is advocating, and a coalition— (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Turnbull Government</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Siewert, Sen Rachel",AG,2016-02-22,"
 
 
@@ -974,7 +1109,7 @@ Senator SIEWERT
 
 Leave granted. 
 
-",Senate,<title>PETITIONS</title>,<title>Stolen Generation</title>,PETITIONS,18,1
+",Senate,<title>PETITIONS</title>,<title>Stolen Generation</title>,PETITIONS,18,1,speech
 "Ruston, Sen Anne",LP,2016-02-22,"
 
 
@@ -982,7 +1117,7 @@ Leave granted.
 Senator RUSTON
  (South Australia—Assistant Minister for Agriculture and Water Resources) (17:33):  I table an addendum to the explanatory memorandum relating to the Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,19,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,19,1,speech
 "Ruston, Sen Anne",LP,2016-02-22,"
 
 
@@ -990,7 +1125,7 @@ Senator RUSTON
 Senator RUSTON
  (South Australia—Assistant Minister for Agriculture and Water Resources) (17:33):  I table an addendum to the explanatory memorandum relating to the Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015.
 
-",Senate,<title>BILLS</title>,<title>Explanatory Memorandum</title>,BILLS,19,2
+",Senate,<title>BILLS</title>,<title>Explanatory Memorandum</title>,BILLS,19,2,speech
 "Ruston, Sen Anne",LP,2016-02-22,"
 
 
@@ -998,7 +1133,7 @@ Senator RUSTON
 Senator RUSTON
  (South Australia—Assistant Minister for Agriculture and Water Resources) (17:34):  I table documents relating to the orders for the production of documents concerning the Defence White Paper 2015 and the Lazard scoping study.
 
-",Senate,<title>DOCUMENTS</title>,<title>Defence White Paper</title>,DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,<title>Defence White Paper</title>,DOCUMENTS,20,1,speech
 "Ruston, Sen Anne",LP,2016-02-22,"
 
 
@@ -1006,7 +1141,7 @@ Senator RUSTON
 Senator RUSTON
  (South Australia—Assistant Minister for Agriculture and Water Resources) (17:34):  I table documents relating to the orders for the production of documents concerning the Defence White Paper 2015 and the Lazard scoping study.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "Ruston, Sen Anne",LP,2016-02-22,"
 
 
@@ -1014,7 +1149,7 @@ Senator RUSTON
 Senator RUSTON
  (South Australia—Assistant Minister for Agriculture and Water Resources) (17:34):  I table a ministerial statement by the former Minister for Trade and Investment and related documents on the Trans-Pacific Partnership Agreement.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Trans-Pacific Partnership Agreement</title>,MINISTERIAL STATEMENTS,21,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Trans-Pacific Partnership Agreement</title>,MINISTERIAL STATEMENTS,21,1,speech
 "Whish-Wilson, Sen Peter",AG,2016-02-22,"
 
 
@@ -1052,7 +1187,7 @@ This agreement that we have in front of us today that the minister tabled in his
 
 Question agreed to. 
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Trans-Pacific Partnership Agreement</title>,MINISTERIAL STATEMENTS,21,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Trans-Pacific Partnership Agreement</title>,MINISTERIAL STATEMENTS,21,1,speech
 "Scullion, Sen Nigel",CLP,2016-02-22,"
 
 
@@ -1069,7 +1204,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,"<title>Australian Crime Commission Amendment (National Policing Information) Bill 2015, Australian Crime Commission (National Policing Information Charges) Bill 2015</title>",BILLS,22,1
+",Senate,<title>BILLS</title>,"<title>Australian Crime Commission Amendment (National Policing Information) Bill 2015, Australian Crime Commission (National Policing Information Charges) Bill 2015</title>",BILLS,22,1,speech
 "Scullion, Sen Nigel",CLP,2016-02-22,"
 
 
@@ -1251,7 +1386,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Back
 ):  In accordance with standing order 115(3), further consideration of these bills is now adjourned to 10 March 2016.
 
-",Senate,<title>BILLS</title>,"<title>Australian Crime Commission Amendment (National Policing Information) Bill 2015, Australian Crime Commission (National Policing Information Charges) Bill 2015</title>",BILLS,22,1
+",Senate,<title>BILLS</title>,"<title>Australian Crime Commission Amendment (National Policing Information) Bill 2015, Australian Crime Commission (National Policing Information Charges) Bill 2015</title>",BILLS,22,1,speech
 "Scullion, Sen Nigel",CLP,2016-02-22,"
 
 
@@ -1268,7 +1403,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,22,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,22,2,speech
 "Scullion, Sen Nigel",CLP,2016-02-22,"
 
 
@@ -1282,7 +1417,7 @@ That the Senate concurs with the resolution of the House of Representatives cont
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Electoral Matters Committee</title>,COMMITTEES,25,1
+",Senate,<title>COMMITTEES</title>,<title>Electoral Matters Committee</title>,COMMITTEES,25,1,speech
 "Scullion, Sen Nigel",CLP,2016-02-22,"
 
 
@@ -1296,7 +1431,7 @@ That the Senate concurs with the resolution of the House of Representatives cont
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,25,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,25,2,speech
 "Fawcett, Sen David",LP,2016-02-22,"
 
 
@@ -1307,7 +1442,7 @@ Senator FAWCETT
 
 Ordered that the reports be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs Legislation Committee</title>,COMMITTEES,27,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs Legislation Committee</title>,COMMITTEES,27,1,speech
 "Fawcett, Sen David",LP,2016-02-22,"
 
 
@@ -1318,7 +1453,7 @@ Senator FAWCETT
 
 Ordered that the reports be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,27,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,27,2,speech
 "Macdonald, Sen Ian",LP,2016-02-22,"
 
 
@@ -1353,7 +1488,7 @@ In all, the committee was of the view that the bill, because it seeks to combat 
 
 In concluding I emphasise that this is all part of the government's ongoing campaign against serious organised crime and the financing of terrorism. The committee did have some queries, which we raised in writing with the department, but with the assistance of the information and clarifications provided by the department and others on these questions the committee is satisfied that the bill strikes the appropriate balance within each of its legislative schemes, bearing in mind the important matters of criminal justice and national security that are at stake. For those reasons the committee recommended that the bill be passed. I urge upon the Senate a consideration and acceptance of the committee's recommendations.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1,speech
 "Scullion, Sen Nigel",CLP,2016-02-22,"
 
 
@@ -1382,7 +1517,7 @@ The amendments made by schedule 5 of this bill will ensure that AusCheck's infor
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1,speech
 "McKim, Sen Nicholas",AG,2016-02-22,"
 
 
@@ -1444,7 +1579,7 @@ To describe them as broad, as I have said, is doing them a disservice; they are 
 
 I would also like an answer, Minister, if possible—I am not asking for the Solicitor-General's advice to be tabled—to the question: was the constitutionality or otherwise tested through the Solicitor-General prior to this legislation being introduced? If so, what matters were raised? It was the view of some submitters to the committee process that this legislation could lead to circumstances where a right to a fair trial, which is a fundamental right in this country, would be prejudiced. That is something we ought to avoid at all costs in this place. I heard earlier today from the minister who has carriage of this bill reference to the fact that stays of Proceeds of Crime Act proceedings can frustrate the intent of the Proceeds of Crime Act legislation, but, surely, it is more important that someone get a fair trial in this country than that those proceedings be handled expeditiously so that the Commonwealth can get its hands on any assets which may be delivered to the Commonwealth off the back of proceeds of crime act proceedings.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1,speech
 "Scullion, Sen Nigel",CLP,2016-02-22,"
 
 
@@ -1461,7 +1596,7 @@ The challenge is, fundamentally, that if we accepted the amendments the Greens a
 
 Senator McKim also mentioned that the court may reasonably have a view not to stay proceedings and what were the circumstances under which that would happen. As I have said, they are not prescribed. Outside of the matters in section 319, which describes what a person is required to provide, the legislation is silent on the remainder. The court would have complete purview over the remainder to make a decision on those matters. Constitutionality has been tested, and I am advised it has been tested with the Solicitor-General. The government takes comfort from that advice.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1,speech
 "McKim, Sen Nicholas",AG,2016-02-22,"
 
 
@@ -1478,7 +1613,7 @@ Some might think that we are having a semantic debate here, but I do not think w
 
 I think you will find the answer to that is 'no'. If that is the case, we need to be very clear about what we are doing here. We are preventing a court in Australia from acting in what it believes is the interests of justice. That is almost Monty Pythonesque in its absurdity. You are basically saying to a court: 'You, Justice, can form a reasonable view that in the interests of justice certain proceedings should be stayed, but we are actually going to prevent you from doing that by inserting a list of grounds on which you cannot stay Proceeds of Crime Act proceedings even if you think such a stay is in the interests of justice.' And that is the matter I am trying to explore here, because that is a very serious matter that you are asking the Senate to consider here. Effectively, you are asking us to agree with your proposal that a court be prevented from staying proceeds of crime proceedings even if that court has reasonably arrived a view that it is in the interests of justice to stay the proceedings. I can see you have a response, Minister, so I will sit down and hand over to you.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1,speech
 "Scullion, Sen Nigel",CLP,2016-02-22,"
 
 
@@ -1486,7 +1621,7 @@ I think you will find the answer to that is 'no'. If that is the case, we need t
 Senator SCULLION
  (Northern Territory—Minister for Indigenous Affairs and Leader of The Nationals in the Senate) (21:38):  First of all, can I correct an answer that I gave you. In error, I indicated that the advice had in fact come from the Solicitor-General. What I should have told you was that it was the Australian government solicitor. My apologies. In your hypothetical, you are suggesting that a court may in some circumstances be compelled to do a particular thing. It is a balancing act, but I think without a doubt proposed section 319(1) is the overarching discretion of the court to make a decision on the stayed proceedings. It still will lie with the court. And please accept my apologies and retraction for the information I provided in error.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1,speech
 "McKim, Sen Nicholas",AG,2016-02-22,"
 
 
@@ -1494,7 +1629,7 @@ Senator SCULLION
 Senator McKIM
  (Tasmania) (21:40):  Thank you for the clarification, Minister. That is appreciated. You have bounced us back to the proposed section 319(1), which I accept gives power to the courts to stay proceedings that are not criminal proceedings if the court considers that it is in the interests of justice to do. It is worth reflecting on previous High Court decisions, one in particular that has actually supported that power of certain courts in Australia. Even though we welcome it being explicit in this legislation, we would argue that in jurisprudence that power already has been confirmed by the High Court. But I am specifically asking about a court which reasonably forms a view that it is in the interests of justice to stay a Proceeds of Crime Act proceeding on one of the grounds contained in proposed subsection (2). At the moment, given your responses, I think we have some drafting ambiguity here—in fact that term was used in at least one of the submissions to one of the committee inquiries in relation to this legislation. Again, Minister, I draw your attention to the hypothetical circumstance where a court forms a view that it is in the interests of justice to stay a Proceeds of Crime Act proceeding on one of the grounds in proposed subsection (2). Can the court stay the proceeding or not? That is the question.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1,speech
 "Scullion, Sen Nigel",CLP,2016-02-22,"
 
 
@@ -1502,7 +1637,7 @@ Senator McKIM
 Senator SCULLION
  (Northern Territory—Minister for Indigenous Affairs and Leader of The Nationals in the Senate) (21:42):  As I have already indicated, the amendments in proposed subsections (2) to (5) are basically saying what is not sufficient. The case is quite explicit. It is not for a person to simply state if this is the case. All they are asking to do is rather than just simply saying, 'There is another person that may face charges or might have to give evidence in relation to a criminal trial at a future date,' these amendments have the effect of requiring a person seeking that stay to actually explain to the court the risk of the prejudice in the circumstances. But again, we have comfort from proposed section 319(1) that the final overarching discretion of the court is we rely on proposed section 319(1) to stay proceedings. As I indicated and you would know from the report, this area was covered significantly in evidence and in the report. I will not assert something I do not know, because I am not sure about the Australian Government Solicitor's report. I am not familiar with the legal advice, but I think it is a reasonable assumption that these would be matters that they would all have focused upon, and given the comfort that I am advised the government has from the advice from the Australian Government Solicitor, I would think that the advice I am provided with, the proposed subsections (2) to (5) limit but certainly do not remove the overarching discretion of the court under the proposal section 319(1) to stay proceedings. I hope that is clear. 
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1,speech
 "McKim, Sen Nicholas",AG,2016-02-22,"
 
 
@@ -1510,7 +1645,7 @@ Senator SCULLION
 Senator McKIM
  (Tasmania) (21:43):  That is clear as far as it goes. The proposed new section 319(2) certainly does limit the capacity of courts to stay Proceeds of Crime Act proceedings. I have heard a few times that one of the government's intents here is to ensure that someone just cannot claim a general need to stay proceedings; they need to be more precise about arguing their reasons. I accept that to a degree, but I have to point out that a person could argue detail on one of the grounds contained in the proposed new section 319(2) till the cows come home and the courts still would not be able to stay the proceedings, no matter how much detail was provided. That section is explicit. If that is not the case, Minister, please stand up and say so, so that we can move on to other matters in this legislation. But we have not yet had an answer to the very simple question: if a court formed a reasonable view that in the interests of justice it should stay Proceeds of Crime Act proceedings on one of the grounds in proposed subsection (2), could it stay the proceedings or not? It is actually a 'yes' or 'no' question.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1,speech
 "Scullion, Sen Nigel",CLP,2016-02-22,"
 
 
@@ -1518,7 +1653,7 @@ Senator McKIM
 Senator SCULLION
  (Northern Territory—Minister for Indigenous Affairs and Leader of The Nationals in the Senate) (21:45):  Again, I will in a more general sense say that the overarching discretion of the court under proposed section 319(1) preserves the court's rights of overarching discretion and that is in a very lay sense—even I can understand that. I think that deals with this. The amendments clarify that proceedings under the act may only be stayed where the granting of a stay is the only means of addressing the circumstances—that is, potentially the prejudice that may result from a concurrent or subsequent criminal trial.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1,speech
 "McKim, Sen Nicholas",AG,2016-02-22,"
 
 
@@ -1529,7 +1664,7 @@ Senator McKIM
 
 My reading of this is pretty clear, as someone who has sat for through an awful lot of similar debates in the Tasmanian parliament for well over a decade as the Greens justice spokesperson. My reading of this legislation is that the court retains an overarching discretion to stay proceedings but not on any of the grounds contained in the proposed new section 319(2). That would be my reading of this legislation. I am simply trying to distil the government's intent here. Is it the government's intent that a court cannot stay proceedings on grounds listed in proposed section 319(2) even if it believes that it is the interests of justice to stay those proceedings?
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1,speech
 "Scullion, Sen Nigel",CLP,2016-02-22,"
 
 
@@ -1543,7 +1678,7 @@ Whilst I am on my feet, we thought it was important in the context of the amendm
 
 Progress reported.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015</title>,BILLS,29,1,speech
 "Macdonald, Sen Ian",LP,2016-02-22,"
 
 
@@ -1578,7 +1713,7 @@ In all, the committee was of the view that the bill, because it seeks to combat 
 
 In concluding I emphasise that this is all part of the government's ongoing campaign against serious organised crime and the financing of terrorism. The committee did have some queries, which we raised in writing with the department, but with the assistance of the information and clarifications provided by the department and others on these questions the committee is satisfied that the bill strikes the appropriate balance within each of its legislative schemes, bearing in mind the important matters of criminal justice and national security that are at stake. For those reasons the committee recommended that the bill be passed. I urge upon the Senate a consideration and acceptance of the committee's recommendations.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,29,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,29,2,speech
 "Scullion, Sen Nigel",CLP,2016-02-22,"
 
 
@@ -1607,7 +1742,7 @@ The amendments made by schedule 5 of this bill will ensure that AusCheck's infor
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,29,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,29,2,speech
 "Bernardi, Sen Cory",LP,2016-02-22,"
 
 
@@ -1687,4 +1822,4 @@ Some will argue none of this really matters because the Safe Schools materials a
 
 How long before independent and religious schools are forced to adopt the teachings that have already permeated our public school system? It is a valid question. We are seeing Catholic bishops being taken to the anti-discrimination commission for promoting Catholic thought and teaching. We are seeing concerted efforts to stop religious schools hiring teachers who do not share the same faith. So it is reasonable to ask: what attack is next for these schools? The Safe Schools Coalition goes beyond simply seeking to make schools safer places. It promotes a radical political and social agenda and seeks to indoctrinate students to make them its advocates.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Safe Schools Coalition Australia</title>,ADJOURNMENT,30,1
+",Senate,<title>ADJOURNMENT</title>,<title>Safe Schools Coalition Australia</title>,ADJOURNMENT,30,1,speech

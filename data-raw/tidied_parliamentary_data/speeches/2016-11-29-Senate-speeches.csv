@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2016-11-29,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (12:31):  Does any senator wish to have those motions put? There being none, we shall proceed.
 
-",Senate,<title>COMMITTEES</title>,"<title>Community Affairs References Committee, Environment and Communications References Committee</title>",COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,"<title>Community Affairs References Committee, Environment and Communications References Committee</title>",COMMITTEES,1,1,speech
 "PRESIDENT, The",,2016-11-29,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (12:31):  Does any senator wish to have those motions put? There being none, we shall proceed.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "PRESIDENT, The",,2016-11-29,"
 
 
@@ -39,7 +39,7 @@ The PRESIDENT:  I am sure the Deputy Clerk is monitoring the chamber very closel
 
 So as not to conflate the two issues, and to give due credit to Richard Pye's selection as Clerk, I will be making a further announcement regarding the retirement of our current Clerk, Dr Rosemary Laing, later in the week.
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Clerk of the Senate</title>,STATEMENT BY THE PRESIDENT,2,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Clerk of the Senate</title>,STATEMENT BY THE PRESIDENT,2,1,speech
 "Brandis, Sen George",LP,2016-11-29,"
 
 
@@ -56,7 +56,7 @@ Those of us on the government side of the chamber who have come to know and deal
 
 There will be another occasion, as you mentioned, to express our deep, deep appreciation for the service of Dr Rosemary Laing, the retiring Clerk of the Senate. But that can be a matter for another day.
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Clerk of the Senate</title>,STATEMENT BY THE PRESIDENT,2,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Clerk of the Senate</title>,STATEMENT BY THE PRESIDENT,2,1,speech
 "Wong, Sen Penny",ALP,2016-11-29,"
 
 
@@ -70,7 +70,7 @@ I would just like to make a brief point, if I may, about the tradition of which 
 
 In relation to Dr Laing, there will be much more to say—I am sure she is very happy to hear that—before we rise on this occasion. 
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Clerk of the Senate</title>,STATEMENT BY THE PRESIDENT,2,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Clerk of the Senate</title>,STATEMENT BY THE PRESIDENT,2,1,speech
 "Di Natale, Sen Richard",AG,2016-11-29,"
 
 
@@ -78,7 +78,7 @@ In relation to Dr Laing, there will be much more to say—I am sure she is very 
 Senator DI NATALE
  (Victoria—Leader of the Australian Greens) (12:38):  by leave—I rise to echo the sentiments of both the Leader of the Government in the Senate and the Leader of the Opposition in the Senate. I have always found, as all of us in the Greens have found, Richard Pye to be thoroughly professional, approachable and extremely diligent. We really look forward to his appointment. I will just finish by saying that anyone called Richard who wears an earring has to be okay. 
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Clerk of the Senate</title>,STATEMENT BY THE PRESIDENT,2,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Clerk of the Senate</title>,STATEMENT BY THE PRESIDENT,2,1,speech
 "Scullion, Sen Nigel",CLP,2016-11-29,"
 
 
@@ -86,7 +86,7 @@ Senator DI NATALE
 Senator SCULLION
  (Northern Territory—Minister for Indigenous Affairs and Leader of The Nationals in the Senate) (12:38):  by leave—The Nationals would also like to add our congratulations to Richard Pye and acknowledge that he has been here for a huge amount of time. We can all recall him at different times. If you have been working here for a period of time you would have seen Richard in different places. When we were in opposition, the assistance he gave us in the drafting office, for example, was absolutely essential. Somebody who has worked in almost every element of assistance to this chamber is, I am sure, going to bring a great deal of experience to the job. I take this opportunity, on behalf of the Nationals, to congratulate him. 
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Clerk of the Senate</title>,STATEMENT BY THE PRESIDENT,2,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Clerk of the Senate</title>,STATEMENT BY THE PRESIDENT,2,1,speech
 "Cameron, Sen Doug",ALP,2016-11-29,"
 
 
@@ -121,7 +121,7 @@ So we have a public officer who wants to operate in complete secrecy. What we ha
 
 There are a number of amendments before the Senate today. Senator Xenophon has put up a range of amendments. I must say, I have not had a chance to see the detail of those amendments, and here we are because the government wants a victory. In my view, this is going to be a Pyrrhic victory if it goes through. I need time and the Labor Party needs time to sit down with Senator Xenophon to ask some questions about the implications and the intent of some of the amendments that will be coming through. There is a need to do that. This is a bill that is complex. This bill, in terms of its impact on ordinary Australians, is absolutely terrible. This is a government which, as I said, have Work Choices in their DNA. They will attack the trade union movement. If there are people doing the wrong thing they should be dealt with under the laws as they exist. We have a regulator—a very strong and powerful regulator in the Fair Work Building Commission—but what this does is impinge even more on workers' rights to collective bargaining. So we will have a number of issues that we want to raise. In closing, Senator Cash, do you intend to appoint Mr Hadgkiss as head of ABCC? If so, why— (Time expired)
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1,speech
 "Rhiannon, Sen Lee",AG,2016-11-29,"
 
 
@@ -192,7 +192,7 @@ Then there is the issue of local jobs. The Greens will move amendments to requir
 
 Those are some of the issues that we are looking forward to getting our teeth into, because right now the question is: Minister, can you explain how the housing crisis is in any way associated with the so-called union thuggery that you have been talking about for so long, considering that there is minimal union activity in the housing industry. I ran through the various parameters. None of them stack up to show that there is any link between increased union activity and the housing crisis. I do think that would be a wise starting point for you, to inject some honesty into this debate.
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1,speech
 "Macdonald, Sen Ian",LP,2016-11-29,"
 
 
@@ -221,7 +221,7 @@ Senator IAN MACDONALD:
 
 I know why the Labor Party is opposed. I can understand that. They are all here because the unions put them here. They only stay here for as long as the unions give them the tick to stay here. Senator Cameron, who is in the chamber, will know this well. His good mate George Campbell fell out of favour with the unions, and as a result of that Senator Cameron was able to come in. It was nothing Senator Cameron did; it was the unions that did it. So I understand the Labor Party as clearly as a bell. I am not in any doubt as to what that is all about. But I cannot understand the Greens, unless there is an element of monetary donation to the Greens political party. I know the Greens got the biggest corporate donation in the history of Australian politics—$1.6 million from a single businessman. It was the biggest donation ever. I understand that. That is why there were certain funny arrangements made in Tasmania a few years ago, including an attempt to have tax free status for a certain newspaper that was associated with, perhaps, the donor. But that is all past history. I understand that, but I cannot understand why the Greens are so opposed to this particular bill, unless there is a simple explanation. That might be it; it might not be. I am just wondering whether the minister can help me on that.
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1,speech
 "Cash, Sen Michaelia",LP,2016-11-29,"
 
 
@@ -235,7 +235,7 @@ In response to Senator Rhiannon's question in relation to the impact of costs in
 
 In relation to the question posed by Senator Macdonald, my understanding is, yes, the Australian Greens are or have been in receipt of moneys from the CFMEU. It might be that Senator Roberts, who articulated this in his very good speech to the Senate last night, is able to refer to it and provide more information to the Senate, unless of course the Australian Greens would like to.
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1,speech
 "Cameron, Sen Doug",ALP,2016-11-29,"
 
 
@@ -297,7 +297,7 @@ This bill outlaws consultation about the use of subcontractors. This lot want to
 
 There is plenty there for One Nation, plenty there for Senator Xenophon, plenty there for Senator Hinch—and Senator Leyonhjelm: well, who knows? We will see where you stand on these issues today. We will see whether you actually stand for Australian workers. We will see whether you actually stand for safety on the job. We will see whether you actually stand for older workers. We will see whether you actually stand for young workers getting an apprenticeship. We will be watching how you vote on every one of those issues. This code is a disgrace. Minister, do you intend to proceed with the code? (Time expired)
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1,speech
 "McKim, Sen Nicholas",AG,2016-11-29,"
 
 
@@ -320,7 +320,7 @@ I will say to Senator Macdonald—even though he is not in the chamber at the mo
 
 Minister, the question to you is: exactly how many millions of dollars has the Liberal Party received from property developers? Could you take that back through five years and provide a breakdown on an annual basis please.
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1,speech
 "Roberts, Sen Malcolm",PHON,2016-11-29,"
 
 
@@ -419,7 +419,7 @@ The ACTU does not raise tax. The opposition leader in the lower house does not r
 
 Then I come to the Greens—again, the Greens. Only the Greens could tell us that depreciation is a subsidy on hydrocarbon fuels. Only the Greens could lack understanding of accounting so that they could classify depreciation as a subsidy and talk about it in isolation as if only the hydrocarbon industry is getting it. I am tired of the rants, I am tired of the labels and I am tired of the old-world tactics. I need to help this country get on with coming back into the 21st century and improving the efficiency, safety and security of this industry. I am very much in favour of this bill.
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1,speech
 "Cash, Sen Michaelia",LP,2016-11-29,"
 
 
@@ -427,7 +427,7 @@ Then I come to the Greens—again, the Greens. Only the Greens could tell us tha
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (13:49):  I would just like to respond to a question that was asked by Senator McKim in relation to political donations. All campaign donations received by the coalition are disclosed in accordance with the law and those disclosures are publicly accessible, which is, again, consistent with the law. In response to a question from Senator Cameron in relation to the building code, the answer is, yes, we intend to proceed with the building code.
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1,speech
 "Dastyari, Sen Sam",ALP,2016-11-29,"
 
 
@@ -438,7 +438,7 @@ Senator DASTYARI
 
 Minister, have you had a chance to read the report that was produced by the Senate Economics References Committee, Insolvency in the Australian construction industry? I believe it was tabled in the Senate on 5 December last year.
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1,speech
 "Cash, Sen Michaelia",LP,2016-11-29,"
 
 
@@ -446,7 +446,7 @@ Minister, have you had a chance to read the report that was produced by the Sena
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (13:50):  If I am referring to the right report then, yes, I have been briefed on it.
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1,speech
 "Dastyari, Sen Sam",ALP,2016-11-29,"
 
 
@@ -454,7 +454,7 @@ Senator CASH
 Senator DASTYARI
  (New South Wales) (13:50):  Minister, did this report produced by the Senate Economics References Committee play a role in the development of this piece of legislation?
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1,speech
 "Cash, Sen Michaelia",LP,2016-11-29,"
 
 
@@ -462,7 +462,7 @@ Senator DASTYARI
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (13:51):  No.
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1,speech
 "Dastyari, Sen Sam",ALP,2016-11-29,"
 
 
@@ -470,7 +470,7 @@ Senator CASH
 Senator DASTYARI
  (New South Wales) (13:51):  Minister, that is disappointing. There were 44 recommendations made. It was quite a bipartisan inquiry. I want to give credit to Senator Cameron, who I think initiated the inquiry. Frankly, while I had the role of chairing the committee, it was Senator Cameron and Senator Cameron's office that did the bulk of the work and then I think Senator Ketter finally presented it. The report itself had 44 recommendations that went to the heart of the issues affecting the building industry. They were largely around the issues of phoenixing—how companies are phoenixing and what the impact of phoenixing has been. Minister, how does this bill, as it currently stands unamended, address the issue of phoenixing in the industry?
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1,speech
 "Cash, Sen Michaelia",LP,2016-11-29,"
 
 
@@ -481,7 +481,7 @@ Senator CASH
 
 In relation to the question that you asked: my understanding is that there will be amendments moved by some of the crossbenchers which will address in further detail the concerns which you raised.
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1,speech
 "Dastyari, Sen Sam",ALP,2016-11-29,"
 
 
@@ -563,7 +563,7 @@ This is a bad piece of legislation. This is a piece of legislation that has been
 
 I will say this: this is a bad bill. This is not a bill that should be supported. This is not a bill that should be passed by this Senate, and I await the Senate defeating this bill one more time.
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1,speech
 "Paterson, Sen James",LP,2016-11-29,"
 
 
@@ -577,7 +577,7 @@ I would also like to thank Senator McKim for proving that unconstructed sprays a
 
 Progress reported.
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013, Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013</title>",BILLS,3,1,speech
 "Cameron, Sen Doug",ALP,2016-11-29,"
 
 
@@ -612,7 +612,7 @@ So we have a public officer who wants to operate in complete secrecy. What we ha
 
 There are a number of amendments before the Senate today. Senator Xenophon has put up a range of amendments. I must say, I have not had a chance to see the detail of those amendments, and here we are because the government wants a victory. In my view, this is going to be a Pyrrhic victory if it goes through. I need time and the Labor Party needs time to sit down with Senator Xenophon to ask some questions about the implications and the intent of some of the amendments that will be coming through. There is a need to do that. This is a bill that is complex. This bill, in terms of its impact on ordinary Australians, is absolutely terrible. This is a government which, as I said, have Work Choices in their DNA. They will attack the trade union movement. If there are people doing the wrong thing they should be dealt with under the laws as they exist. We have a regulator—a very strong and powerful regulator in the Fair Work Building Commission—but what this does is impinge even more on workers' rights to collective bargaining. So we will have a number of issues that we want to raise. In closing, Senator Cash, do you intend to appoint Mr Hadgkiss as head of ABCC? If so, why— (Time expired)
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Rhiannon, Sen Lee",AG,2016-11-29,"
 
 
@@ -683,7 +683,7 @@ Then there is the issue of local jobs. The Greens will move amendments to requir
 
 Those are some of the issues that we are looking forward to getting our teeth into, because right now the question is: Minister, can you explain how the housing crisis is in any way associated with the so-called union thuggery that you have been talking about for so long, considering that there is minimal union activity in the housing industry. I ran through the various parameters. None of them stack up to show that there is any link between increased union activity and the housing crisis. I do think that would be a wise starting point for you, to inject some honesty into this debate.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Macdonald, Sen Ian",LP,2016-11-29,"
 
 
@@ -712,7 +712,7 @@ Senator IAN MACDONALD:
 
 I know why the Labor Party is opposed. I can understand that. They are all here because the unions put them here. They only stay here for as long as the unions give them the tick to stay here. Senator Cameron, who is in the chamber, will know this well. His good mate George Campbell fell out of favour with the unions, and as a result of that Senator Cameron was able to come in. It was nothing Senator Cameron did; it was the unions that did it. So I understand the Labor Party as clearly as a bell. I am not in any doubt as to what that is all about. But I cannot understand the Greens, unless there is an element of monetary donation to the Greens political party. I know the Greens got the biggest corporate donation in the history of Australian politics—$1.6 million from a single businessman. It was the biggest donation ever. I understand that. That is why there were certain funny arrangements made in Tasmania a few years ago, including an attempt to have tax free status for a certain newspaper that was associated with, perhaps, the donor. But that is all past history. I understand that, but I cannot understand why the Greens are so opposed to this particular bill, unless there is a simple explanation. That might be it; it might not be. I am just wondering whether the minister can help me on that.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Cash, Sen Michaelia",LP,2016-11-29,"
 
 
@@ -726,7 +726,7 @@ In response to Senator Rhiannon's question in relation to the impact of costs in
 
 In relation to the question posed by Senator Macdonald, my understanding is, yes, the Australian Greens are or have been in receipt of moneys from the CFMEU. It might be that Senator Roberts, who articulated this in his very good speech to the Senate last night, is able to refer to it and provide more information to the Senate, unless of course the Australian Greens would like to.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Cameron, Sen Doug",ALP,2016-11-29,"
 
 
@@ -788,7 +788,7 @@ This bill outlaws consultation about the use of subcontractors. This lot want to
 
 There is plenty there for One Nation, plenty there for Senator Xenophon, plenty there for Senator Hinch—and Senator Leyonhjelm: well, who knows? We will see where you stand on these issues today. We will see whether you actually stand for Australian workers. We will see whether you actually stand for safety on the job. We will see whether you actually stand for older workers. We will see whether you actually stand for young workers getting an apprenticeship. We will be watching how you vote on every one of those issues. This code is a disgrace. Minister, do you intend to proceed with the code? (Time expired)
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "McKim, Sen Nicholas",AG,2016-11-29,"
 
 
@@ -811,7 +811,7 @@ I will say to Senator Macdonald—even though he is not in the chamber at the mo
 
 Minister, the question to you is: exactly how many millions of dollars has the Liberal Party received from property developers? Could you take that back through five years and provide a breakdown on an annual basis please.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Roberts, Sen Malcolm",PHON,2016-11-29,"
 
 
@@ -910,7 +910,7 @@ The ACTU does not raise tax. The opposition leader in the lower house does not r
 
 Then I come to the Greens—again, the Greens. Only the Greens could tell us that depreciation is a subsidy on hydrocarbon fuels. Only the Greens could lack understanding of accounting so that they could classify depreciation as a subsidy and talk about it in isolation as if only the hydrocarbon industry is getting it. I am tired of the rants, I am tired of the labels and I am tired of the old-world tactics. I need to help this country get on with coming back into the 21st century and improving the efficiency, safety and security of this industry. I am very much in favour of this bill.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Cash, Sen Michaelia",LP,2016-11-29,"
 
 
@@ -918,7 +918,7 @@ Then I come to the Greens—again, the Greens. Only the Greens could tell us tha
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (13:49):  I would just like to respond to a question that was asked by Senator McKim in relation to political donations. All campaign donations received by the coalition are disclosed in accordance with the law and those disclosures are publicly accessible, which is, again, consistent with the law. In response to a question from Senator Cameron in relation to the building code, the answer is, yes, we intend to proceed with the building code.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Dastyari, Sen Sam",ALP,2016-11-29,"
 
 
@@ -929,7 +929,7 @@ Senator DASTYARI
 
 Minister, have you had a chance to read the report that was produced by the Senate Economics References Committee, Insolvency in the Australian construction industry? I believe it was tabled in the Senate on 5 December last year.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Cash, Sen Michaelia",LP,2016-11-29,"
 
 
@@ -937,7 +937,7 @@ Minister, have you had a chance to read the report that was produced by the Sena
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (13:50):  If I am referring to the right report then, yes, I have been briefed on it.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Dastyari, Sen Sam",ALP,2016-11-29,"
 
 
@@ -945,7 +945,7 @@ Senator CASH
 Senator DASTYARI
  (New South Wales) (13:50):  Minister, did this report produced by the Senate Economics References Committee play a role in the development of this piece of legislation?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Cash, Sen Michaelia",LP,2016-11-29,"
 
 
@@ -953,7 +953,7 @@ Senator DASTYARI
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (13:51):  No.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Dastyari, Sen Sam",ALP,2016-11-29,"
 
 
@@ -961,7 +961,7 @@ Senator CASH
 Senator DASTYARI
  (New South Wales) (13:51):  Minister, that is disappointing. There were 44 recommendations made. It was quite a bipartisan inquiry. I want to give credit to Senator Cameron, who I think initiated the inquiry. Frankly, while I had the role of chairing the committee, it was Senator Cameron and Senator Cameron's office that did the bulk of the work and then I think Senator Ketter finally presented it. The report itself had 44 recommendations that went to the heart of the issues affecting the building industry. They were largely around the issues of phoenixing—how companies are phoenixing and what the impact of phoenixing has been. Minister, how does this bill, as it currently stands unamended, address the issue of phoenixing in the industry?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Cash, Sen Michaelia",LP,2016-11-29,"
 
 
@@ -972,7 +972,7 @@ Senator CASH
 
 In relation to the question that you asked: my understanding is that there will be amendments moved by some of the crossbenchers which will address in further detail the concerns which you raised.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Dastyari, Sen Sam",ALP,2016-11-29,"
 
 
@@ -1054,7 +1054,7 @@ This is a bad piece of legislation. This is a piece of legislation that has been
 
 I will say this: this is a bad bill. This is not a bill that should be supported. This is not a bill that should be passed by this Senate, and I await the Senate defeating this bill one more time.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
 "Paterson, Sen James",LP,2016-11-29,"
 
 
@@ -1068,7 +1068,118 @@ I would also like to thank Senator McKim for proving that unconstructed sprays a
 
 Progress reported.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,3,2,speech
+"Gallagher, Sen Katy",ALP,2016-11-29,"
+
+
+
+Senator GALLAGHER
+ (Australian Capital Territory—Manager of Opposition Business in the Senate) (14:00):  My question is to the Attorney-General, Senator Brandis. In the Attorney-General's statement to the Senate yesterday regarding the Bell Group matter, he indicated that the first personal involvement he recalls having in the matter was on 3 March 2016. When and how did the Attorney-General first become aware that the Western Australian government was seeking the Commonwealth's agreement not to contest the Western Australian legislation?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Attorney-General</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Gallagher, Sen Katy",ALP,2016-11-29,"
+
+
+
+Senator GALLAGHER
+ (Australian Capital Territory—Manager of Opposition Business in the Senate) (14:03):  I again refer to the Attorney-General's statement in which he indicated his office had been dealing with the matter prior to his personal involvement on 3 March 2016—
+
+
+
+Senator Brandis interjecting—
+
+
+
+
+Senator GALLAGHER:
+  Yes, indeed, that is. Can the minister outline to the Senate: when did his office first become aware of the matter, and what was his office's involvement?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Attorney-General</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Gallagher, Sen Katy",ALP,2016-11-29,"
+
+
+
+Senator GALLAGHER
+ (Australian Capital Territory—Manager of Opposition Business in the Senate) (14:05):  I again refer to the Attorney-General's statement to the Senate, in which he claimed not to have been personally involved in the matter until 3 March. How can he maintain he was not personally involved when counsel appearing on his behalf in the High Court appeared on 8 February?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Attorney-General</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Brandis, Sen George",LP,2016-11-29,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:00):  Senator Gallagher, I am not sure that properly characterises what my understanding of the matter was at any time, as a matter of fact. As I said in my statement yesterday, I became aware on 3 March when I received a visit from Mr Porter, who discussed the matter with me. I had a teleconference with Mr Mischin, the Attorney-General of Western Australia, in which Dr Nahan—
+
+
+
+
+Senator Wong:
+  When did you first become aware? It is not about your first involvement. When did you first become aware?
+
+
+
+
+Senator BRANDIS:
+  I am sorry, Mr President. I am trying to answer the question. I keep being interrupted by Senator Wong. 
+
+
+
+
+Honourable senators interjecting
+—
+
+
+
+
+The PRESIDENT:  Order! Interjections are disorderly.
+
+
+
+
+Senator BRANDIS:
+  On 4 March I had a teleconference with Mr Mischin, in which Dr Nahan, the Treasurer, was also involved—as I said in my statement yesterday. That was my first involvement in the matter, although—
+
+
+
+
+Senator Wong:
+  A point of order on relevance. We did not ask about his first personal involvement. We understand this Attorney-General's careful use of language. We asked when he first became aware, not when he was first personally involved, which is the language he used. The question was: when and how did the Attorney-General first become aware?
+
+
+
+The PRESIDENT:  The Attorney-General was asked when and how he first became aware. He commenced his answer by answering—as he indicated yesterday—3 March. The date was mentioned. He is now continuing with his answer and is indicating another date, 4 March, for subsequent material. The Attorney-General has been in order.
+
+
+
+
+Senator BRANDIS:
+  I know that there had been some communication to my office earlier than 3 March, but my own involvement began on 3 March. Senator Gallagher, the relevant events, to which I understand you refer, occurred in April 2015, which was almost a year before I first became involved.
+
+
+
+The PRESIDENT:  Senator Gallagher, a supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Attorney-General</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Brandis, Sen George",LP,2016-11-29,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:04):  It was before 3 March. I looked at some documents overnight, and I think it may have been in January 2016, but I will check that date. The point I make to you, Senator, is that the relevant discussion, which is said to constitute—at least as pointed to by Western Australian ministers—an arrangement or an agreement of some kind between the Commonwealth and the Western Australian government, took place in April 2015. I had no knowledge of or involvement in that whatsoever. I first became aware of it the following year.
+
+
+
+The PRESIDENT:  Senator Gallagher, a final supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Attorney-General</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Brandis, Sen George",LP,2016-11-29,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:05):  That is not correct. The counsel who appeared in the matter in the High Court on behalf of the only relevant Commonwealth party, Mr Gleeson, was, as I understand the matter, at that time acting on the instructions of the Australian Taxation Office—not on my instructions. As I was at pains to point out yesterday, at that time and subsequently I was not involved in giving instructions to Mr Gleeson on behalf of the Australian Taxation Office. The Australian Taxation Office is an independent statutory authority; when it retains counsel, counsel appears on behalf of it, not on behalf of the Attorney-General.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Attorney-General</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
 "Sterle, Sen Glenn",ALP,2016-11-29,"
 
 
@@ -1106,7 +1217,7 @@ But let's not blame it all on Dr Nahan's view of the incompetent Liberal ministe
 
 There were a few carrots along the way, too. Remember the $490 million—'Shut your mouth; stop whinging about the GST; we'll give you some money from the federal government'? Now, I say, give us more money; give us back the money you stole off us from the GST. I am running out of time, but I am absolutely gobsmacked, because I can understand the pressure on the Western Australian Liberal government, because they are incompetent, but also they have been made a promise and someone has ratted on the deal, and we need to find out who that is. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "Hume, Sen Jane",LP,2016-11-29,"
 
 
@@ -1142,7 +1253,7 @@ What skulduggery by the opposition. Mark Dreyfus and Bill Shorten have significa
 
 The DEPUTY PRESIDENT:  Senator Hume, may I remind you, when you refer to members of the other place, to use their correct titles.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "Collins, Sen Jacinta",ALP,2016-11-29,"
 
 
@@ -1175,7 +1286,7 @@ So we will continue for days on end to get senior commentators and others contin
 
 This is no pantomime. Sure, it has attracted humour. I was today sent a reference from the SBS about how Senator Brandis is now ordering more buses because his behaviour here has become a farce. The length of the scandals and the gaffes that reside around this Attorney-General just continue to grow. The SBS humour was that he had to order a fleet of buses so that he could throw more— (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "Paterson, Sen James",LP,2016-11-29,"
 
 
@@ -1201,7 +1312,7 @@ There are many other interesting things in Senator Brandis's statement, which I 
 
 I commend particularly the comments he made about the government that was in charge at the time of the Bell Group liquidation, about the events leading up to that liquidation, about the involvement of Mr Brian Burke and his government in that liquidation and about the very exorbitant costs that the people of Western Australia have had to bear as a result of the handling of it by Mr Burke and by members of his government. I look forward to his contribution later, although I also hope that at some point the Senate will move on from these matters to more weighty ones.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "Dodson, Sen Patrick",ALP,2016-11-29,"
 
 
@@ -1221,7 +1332,7 @@ I listened carefully to his explanation of Dr Nahan's statement, and I can see a
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "Urquhart, Sen Anne",ALP,2016-11-29,"
 
 
@@ -1256,7 +1367,7 @@ The delivery of outcomes under the National Disability Strategy 2010-2020 to bui
 
 (d) any other related matters.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,7,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,7,1,speech
 "McGrath, Sen James",LP,2016-11-29,"
 
 
@@ -1277,7 +1388,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,7,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,7,1,speech
 "Urquhart, Sen Anne",ALP,2016-11-29,"
 
 
@@ -1312,7 +1423,7 @@ The delivery of outcomes under the National Disability Strategy 2010-2020 to bui
 
 (d) any other related matters.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,7,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,7,2,speech
 "McGrath, Sen James",LP,2016-11-29,"
 
 
@@ -1333,7 +1444,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,7,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,7,2,speech
 "Siewert, Sen Rachel",AG,2016-11-29,"
 
 
@@ -1356,7 +1467,7 @@ That the Senate—
 
 (d) calls on the Government to respond to the report and to commit to implementing the 30 recommendations of the report, including the recommendation for a royal commission.
 
-",Senate,<title>MOTIONS</title>,<title>Disability Awareness Week</title>,MOTIONS,8,1
+",Senate,<title>MOTIONS</title>,<title>Disability Awareness Week</title>,MOTIONS,8,1,speech
 "McGrath, Sen James",LP,2016-11-29,"
 
 
@@ -1377,7 +1488,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Disability Awareness Week</title>,MOTIONS,8,1
+",Senate,<title>MOTIONS</title>,<title>Disability Awareness Week</title>,MOTIONS,8,1,speech
 "Bushby, Sen David",LP,2016-11-29,"
 
 
@@ -1397,7 +1508,7 @@ That the Joint Committee of Public Accounts and Audit be authorised to hold priv
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,9,1
+",Senate,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,9,1,speech
 "Bushby, Sen David",LP,2016-11-29,"
 
 
@@ -1417,7 +1528,7 @@ That the Joint Committee of Public Accounts and Audit be authorised to hold priv
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,9,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,9,2,speech
 "Rice, Sen Janet",AG,2016-11-29,"
 
 
@@ -1455,7 +1566,7 @@ That—
 
 (b) there be laid on the table, by the Minister representing the Minister for Agriculture and Water Resources, by no later than 9.30 am on 1 December 2016, the Independent Review of the National Red Imported Fire Ant Eradication Program: Report of the independent review panel.
 
-",Senate,<title>DOCUMENTS</title>,<title>Red Imported Fire Ants</title>,DOCUMENTS,10,1
+",Senate,<title>DOCUMENTS</title>,<title>Red Imported Fire Ants</title>,DOCUMENTS,10,1,speech
 "McGrath, Sen James",LP,2016-11-29,"
 
 
@@ -1476,7 +1587,7 @@ Senator McGRATH:
 
 Question agreed to
 
-",Senate,<title>DOCUMENTS</title>,<title>Red Imported Fire Ants</title>,DOCUMENTS,10,1
+",Senate,<title>DOCUMENTS</title>,<title>Red Imported Fire Ants</title>,DOCUMENTS,10,1,speech
 "Rice, Sen Janet",AG,2016-11-29,"
 
 
@@ -1514,7 +1625,7 @@ That—
 
 (b) there be laid on the table, by the Minister representing the Minister for Agriculture and Water Resources, by no later than 9.30 am on 1 December 2016, the Independent Review of the National Red Imported Fire Ant Eradication Program: Report of the independent review panel.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,10,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,10,2,speech
 "McGrath, Sen James",LP,2016-11-29,"
 
 
@@ -1535,7 +1646,7 @@ Senator McGRATH:
 
 Question agreed to
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,10,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,10,2,speech
 "Rhiannon, Sen Lee",AG,2016-11-29,"
 
 
@@ -1567,7 +1678,7 @@ That the Senate—
 
 (b) calls on the federal government to support current and sound future research into potential anti-corruption systems appropriate for Australia, including the research led by Griffith University, in partnership with Transparency International Australia.
 
-",Senate,<title>MOTIONS</title>,<title>New South Wales Independent Commission Against Corruption</title>,MOTIONS,11,1
+",Senate,<title>MOTIONS</title>,<title>New South Wales Independent Commission Against Corruption</title>,MOTIONS,11,1,speech
 "McGrath, Sen James",LP,2016-11-29,"
 
 
@@ -1588,7 +1699,7 @@ Senator McGRATH:
 
 Question agreed to. 
 
-",Senate,<title>MOTIONS</title>,<title>New South Wales Independent Commission Against Corruption</title>,MOTIONS,11,1
+",Senate,<title>MOTIONS</title>,<title>New South Wales Independent Commission Against Corruption</title>,MOTIONS,11,1,speech
 "Urquhart, Sen Anne",ALP,2016-11-29,"
 
 
@@ -1659,7 +1770,7 @@ Senator URQUHART
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Funding for Research into Cancers with Low Survival Rates Committee</title>,COMMITTEES,12,1
+",Senate,<title>COMMITTEES</title>,<title>Funding for Research into Cancers with Low Survival Rates Committee</title>,COMMITTEES,12,1,speech
 "Urquhart, Sen Anne",ALP,2016-11-29,"
 
 
@@ -1730,7 +1841,7 @@ Senator URQUHART
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,12,2
+",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,12,2,speech
 "Hanson-Young, Sen Sarah",AG,2016-11-29,"
 
 
@@ -1765,7 +1876,7 @@ That the Senate—
 
 (c) supports the ongoing strengthening of the ABC as a bold, vital and well-funded national broadcaster with strong local and regional content for all Australians.
 
-",Senate,<title>MOTIONS</title>,<title>Australian Broadcasting Corporation</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Australian Broadcasting Corporation</title>,MOTIONS,13,1,speech
 "McGrath, Sen James",LP,2016-11-29,"
 
 
@@ -1783,7 +1894,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator McGRATH:
   The government opposes this motion. The coalition is committed to budget repair and the ABC, like all government agencies, has been asked to contribute to this effort. The ABC and SBS efficiency study demonstrated that the national broadcasters could realise significant savings without impacting on their programming or services. The ABC has previously confirmed that the decision to close its portfolio of leased stores was in no way related to the government's efficiency savings. The ABC has further advised that there has been no reduction in ABC commissions of children's content. The ABC has also confirmed that its regional services have been quarantined from any efficiencies or savings.
 
-",Senate,<title>MOTIONS</title>,<title>Australian Broadcasting Corporation</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Australian Broadcasting Corporation</title>,MOTIONS,13,1,speech
 "O'Neill, Sen Deb",ALP,2016-11-29,"
 
 
@@ -1808,7 +1919,7 @@ In government, Labor implemented measures to ensure the institutional independen
 
 The PRESIDENT:  The question is the motion moved by Senator Hanson-Young be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Australian Broadcasting Corporation</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Australian Broadcasting Corporation</title>,MOTIONS,13,1,speech
 "Rice, Sen Janet",AG,2016-11-29,"
 
 
@@ -1874,7 +1985,7 @@ That—
 
 The PRESIDENT:  The question is that the motion moved by Senator Rice be agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Australian Pesticides and Veterinary Medicine Authority</title>,DOCUMENTS,14,1
+",Senate,<title>DOCUMENTS</title>,<title>Australian Pesticides and Veterinary Medicine Authority</title>,DOCUMENTS,14,1,speech
 "Rice, Sen Janet",AG,2016-11-29,"
 
 
@@ -1940,7 +2051,7 @@ That—
 
 The PRESIDENT:  The question is that the motion moved by Senator Rice be agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,14,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,14,2,speech
 "Lambie, Sen Jacqui",JLN,2016-11-29,"
 
 
@@ -1972,7 +2083,7 @@ That the Senate—
 
 (b) calls on the Government to make a recommendation to remove General Morrison as Australian of the Year, and replace him with a person worthy of the title.
 
-",Senate,<title>MOTIONS</title>,<title>Australian of the Year</title>,MOTIONS,15,1
+",Senate,<title>MOTIONS</title>,<title>Australian of the Year</title>,MOTIONS,15,1,speech
 "McGrath, Sen James",LP,2016-11-29,"
 
 
@@ -1990,7 +2101,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator McGRATH:
   I thank Senator Lambie for raising the Australian of the Year Awards. The awards recognise outstanding Australians from across the community in a range of fields of endeavour. Nominations come from the community and finalists are selected by state and territory Australia Day Councils. The National Australia Day Council then independently selects the national winner, based on long-established criteria. Given the importance and prominence of their role, it is proper that every Australian of the Year is held to account for their actions and statements during their term. The government does not have the power to select, replace or remove any Australian of the Year. In any event, a new Australian of the Year for 2017 will be awarded in less than two months' time.
 
-",Senate,<title>MOTIONS</title>,<title>Australian of the Year</title>,MOTIONS,15,1
+",Senate,<title>MOTIONS</title>,<title>Australian of the Year</title>,MOTIONS,15,1,speech
 "Lambie, Sen Jacqui",JLN,2016-11-29,"
 
 
@@ -2015,7 +2126,7 @@ The uncovering of a secret New South Wales police report—Strike Force Civet, w
 
 The PRESIDENT:  The question is that the motion moved by Senator Lambie be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Australian of the Year</title>,MOTIONS,15,1
+",Senate,<title>MOTIONS</title>,<title>Australian of the Year</title>,MOTIONS,15,1,speech
 "PRESIDENT, The",,2016-11-29,"
 
 
@@ -2042,7 +2153,7 @@ More than the number of senators required by the standing orders having risen in
 
 The PRESIDENT:  I understand that informal arrangements have been allocated to allow specific times for each of the speakers in today's debate, and, with the concurrence of the Senate, I shall ask the clerks to set the clock accordingly.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Revenue</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Revenue</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Sterle, Sen Glenn",ALP,2016-11-29,"
 
 
@@ -2131,7 +2242,7 @@ We want to ensure—the West Australian Government wanted to ensure, and certain
 
 What the heck does that mean? He is in here arguing against it. You heard it yourself, Mr Acting Deputy President Whish-Wilson. You have seen him in here denying any knowledge of it. As I said when I started—and I will finish with this—someone is not telling the truth. Have the guts, stand up and dob yourself in.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Revenue</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Revenue</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Back, Sen Chris",LP,2016-11-29,"
 
 
@@ -2211,7 +2322,7 @@ Where is the problem with that? Nahan says to the federal Treasurer, 'We want to
 
 In the few seconds I have left to me, I will say that the advice I have learnt over time is that I never try to pick a Queen's Counsel lawyer, because they are good. And what I have seen evidenced in the last few days in this place is that Senator Brandis is good all right; he is a jolly sight better than anyone who has tried to come up against him. There is nothing to see here, except— (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Revenue</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Revenue</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "McKim, Sen Nicholas",AG,2016-11-29,"
 
 
@@ -2231,7 +2342,7 @@ Senator Brandis has consistently refused to answer that question. That is the su
 
 So, this Senate voted quite comfortably today to send this matter to an inquiry. It is worth pointing out that the motion actually compels the attendance of Senator Brandis and also Senator Cormann, who, of course, was the cigar-smoking mate of Joe Hockey and finance minister at the time that this sordid affair went down. I look forward to this Legal and Constitutional Affairs References Committee inquiry. I believe that we will have the opportunity to, once again, ask these questions. We will find out whether the Attorney-General believes in the rule of law in this country and whether he is a fit and proper person to hold that office. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Revenue</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Revenue</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Gallacher, Sen Alex",ALP,2016-11-29,"
 
 
@@ -2272,7 +2383,7 @@ The Liberal Party and the coalition are always on about factions in the Labor Pa
 
 You could argue that he is a senator for Western Australia and that he can do whatever he likes. But he should realise that the Commonwealth is the first creditor in liquidation, and that the ATO and the Australian people are entitled to get the first bite of any proceeds. To do anything other than that is pure stupidity and a misuse of his factional power.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Revenue</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Revenue</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Macdonald, Sen Ian",LP,2016-11-29,"
 
 
@@ -2343,7 +2454,7 @@ But, as far as the substantive issue has gone, on Monday morning Senator Brandis
 
 I just wish the Labor Party would use the remaining time of this parliament this year at question time to ask questions about education, about health, about infrastructure, about border security, stopping the boats—but we do not hear any of that. All we hear is this fixation with Senator Brandis, and they will continue with that. Eventually the penny will drop and the Labor Party will again end up with egg on their face. I am looking to seeing which Labor mate is destroyed by this Labor-Greens inquiry into the Bell Group shares issue when this next inquiry comes up. It is an inquiry in which, again, there will be four Labor-Greens senators and only two government senators, but I do not think it really matters because the facts will speak for themselves. It will get nowhere and, as I say, I am looking forward to seeing who is destroyed.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Revenue</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Revenue</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Roberts, Sen Malcolm",PHON,2016-11-29,"
 
 
@@ -2363,7 +2474,7 @@ Then we think about climate policies, with the Clean Energy Finance Corporation 
 
 Then we see our tax system based on raising revenue by cutting things like payrolls, things like employment—because we all know that when we tax something we cut its use. Payrolls are taxed—why? Employment is taxed through PAYE tax—why? The request from employees to have more money in take-home pay leads to very high gross income, which puts people out of work. So what is $300 million among friends? It is thousands of jobs and inefficiencies, and instead of people being servants of government we need to get back to governments serving people. Let us make Australia great again for everyone, with comprehensive tax reform. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Revenue</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Revenue</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "McCarthy, Sen Malarndirri",ALP,2016-11-29,"
 
 
@@ -2389,7 +2500,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Marshall
 ):  The time for this discussion has now expired.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Revenue</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Revenue</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Siewert, Sen Rachel",AG,2016-11-29,"
 
 
@@ -2454,7 +2565,7 @@ I thank the secretariat of the Community Affairs References Committee, who go ab
 
 I urge the government to read this report. Read it together with the committee's report on violence, neglect and abuse of people with disability. Implement these recommendations, or we will see no change in the terrible circumstances that Australians are finding themselves in—in indefinite detention and subject to abuse, violence and neglect.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,19,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,19,1,speech
 "Brown, Sen Carol",ALP,2016-11-29,"
 
 
@@ -2489,7 +2600,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Marshall
 ):  I think Senator Duniam wishes to speak.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,19,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,19,1,speech
 "Duniam, Sen Jonathon",LP,2016-11-29,"
 
 
@@ -2506,7 +2617,7 @@ We did tour some excellent facilities, and again I would like to thank the gover
 
 Leave granted.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,19,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,19,1,speech
 "Siewert, Sen Rachel",AG,2016-11-29,"
 
 
@@ -2571,7 +2682,7 @@ I thank the secretariat of the Community Affairs References Committee, who go ab
 
 I urge the government to read this report. Read it together with the committee's report on violence, neglect and abuse of people with disability. Implement these recommendations, or we will see no change in the terrible circumstances that Australians are finding themselves in—in indefinite detention and subject to abuse, violence and neglect.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,19,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,19,2,speech
 "Brown, Sen Carol",ALP,2016-11-29,"
 
 
@@ -2606,7 +2717,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Marshall
 ):  I think Senator Duniam wishes to speak.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,19,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,19,2,speech
 "Duniam, Sen Jonathon",LP,2016-11-29,"
 
 
@@ -2623,7 +2734,7 @@ We did tour some excellent facilities, and again I would like to thank the gover
 
 Leave granted.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,19,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,19,2,speech
 "Cash, Sen Michaelia",LP,2016-11-29,"
 
 
@@ -2631,7 +2742,7 @@ Leave granted.
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:01):  I table a document relating to the order for the production of documents concerning the government's response to a report of the Community Affairs References Committee.
 
-",Senate,<title>DOCUMENTS</title>,<title>Community Affairs References Committee</title>,DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,<title>Community Affairs References Committee</title>,DOCUMENTS,20,1,speech
 "Cash, Sen Michaelia",LP,2016-11-29,"
 
 
@@ -2639,7 +2750,7 @@ Senator CASH
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:01):  I table a document relating to the order for the production of documents concerning the government's response to a report of the Community Affairs References Committee.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "Cash, Sen Michaelia",LP,2016-11-29,"
 
 
@@ -2656,7 +2767,7 @@ Minister Assisting the Prime Minister for the Public Service, Minister for Emplo
 ):
   I table an addendum to the explanatory memorandum relating to theCriminal Code Amendment (High Risk Terrorist Offenders) Bill 2016. The addendum responds to recommendations made by the Parliamentary Joint Committee on Intelligence and Security.
 
-",Senate,<title>BILLS</title>,<title>Criminal Code Amendment (High Risk Terrorist Offenders) Bill 2016</title>,BILLS,21,1
+",Senate,<title>BILLS</title>,<title>Criminal Code Amendment (High Risk Terrorist Offenders) Bill 2016</title>,BILLS,21,1,speech
 "Cash, Sen Michaelia",LP,2016-11-29,"
 
 
@@ -2673,4 +2784,4 @@ Minister Assisting the Prime Minister for the Public Service, Minister for Emplo
 ):
   I table an addendum to the explanatory memorandum relating to theCriminal Code Amendment (High Risk Terrorist Offenders) Bill 2016. The addendum responds to recommendations made by the Parliamentary Joint Committee on Intelligence and Security.
 
-",Senate,<title>BILLS</title>,<title>Explanatory Memorandum</title>,BILLS,21,2
+",Senate,<title>BILLS</title>,<title>Explanatory Memorandum</title>,BILLS,21,2,speech

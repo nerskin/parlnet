@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Bishop, Bronwyn, MP",LP,2014-09-24,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER
  (09:01):  I have received a message from the Senate acquainting the House that Senator Carr has been appointed a member of the Joint Select committee on the Australia Fund Establishment and that Senator Bullock has been appointed a member of the Joint Select Committee on Trade and Investment Growth.
 
-",HoR,<title>COMMITTEES</title>,"<title>Joint Select Committee on the Australia Fund Establishment, Joint Select Committee on Trade and Investment Growth</title>",COMMITTEES,0,1
+",HoR,<title>COMMITTEES</title>,"<title>Joint Select Committee on the Australia Fund Establishment, Joint Select Committee on Trade and Investment Growth</title>",COMMITTEES,0,1,speech
 "Bishop, Bronwyn, MP",LP,2014-09-24,"
 
 
@@ -14,7 +14,7 @@ The SPEAKER
 The SPEAKER
  (09:01):  I have received a message from the Senate acquainting the House that Senator Carr has been appointed a member of the Joint Select committee on the Australia Fund Establishment and that Senator Bullock has been appointed a member of the Joint Select Committee on Trade and Investment Growth.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,0,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,0,2,speech
 "Macfarlane, Ian, MP",LP,2014-09-24,"
 
 
@@ -61,7 +61,7 @@ Debate adjourned.
 
 Ordered that the second reading be made an order of the day for the next sitting day.
 
-",HoR,<title>BILLS</title>,<title>Automotive Transformation Scheme Amendment Bill 2014</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Automotive Transformation Scheme Amendment Bill 2014</title>,BILLS,1,1,speech
 "Randall, Don, MP",LP,2014-09-24,"
 
 
@@ -108,7 +108,7 @@ The DEPUTY SPEAKER
 Mr Buchholz
 ):  The debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Procedure Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Procedure Committee</title>,COMMITTEES,2,1,speech
 "Randall, Don, MP",LP,2014-09-24,"
 
 
@@ -122,7 +122,7 @@ That the order of the day be referred to the Federation Chamber for debate.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Procedure Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Procedure Committee</title>,COMMITTEES,2,1,speech
 "Randall, Don, MP",LP,2014-09-24,"
 
 
@@ -169,7 +169,7 @@ The DEPUTY SPEAKER
 Mr Buchholz
 ):  The debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,2,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,2,2,speech
 "Prentice, Jane, MP",LP,2014-09-24,"
 
 
@@ -204,7 +204,7 @@ The committee is looking into many different factors from a wide range of stakeh
 
 Efficient provision of infrastructure, including public infrastructure, is the hallmark of a well-functioning economy. I welcome the government's commitment to building infrastructure for the 21st century and to approaching infrastructure planning and procurement sensibly and efficiently, ensuring that Australia's infrastructure can support a growing population and future requirements. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Gillespie, David, MP",Nats,2014-09-24,"
 
 
@@ -227,7 +227,7 @@ As well, I am very pleased to see that we have got other infrastructure rolling 
 
 A 15-year planning register is also very important, and Infrastructure Australia will develop a 15-year plan independent of the government to inform the government with some rock-solid, cold, hard light-of-day analysis of infrastructure priorities. This bill will establish an out-of-department, out-of-government, freestanding Infrastructure Australia with its own governance and its own responsibilities to make fearless and frank advice. It will allow us to develop and deliver much more infrastructure than the previous government and in a much more cost-effective manner. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Truss, Warren, MP",Nats,2014-09-24,"
 
 
@@ -271,7 +271,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Albanese, Anthony, MP",ALP,2014-09-24,"
 
 
@@ -336,7 +336,7 @@ Labor's amendment also aligns with the coalition's actual election commitment, w
 
 Amendment (3) is about transparency. As we have moved previously and as many stakeholders, regulators and academics have called for, details of project evaluations will be made public on a regular basis. This amendment adds greater rigor to disclosure by requiring that the details of cost-benefit analyses are published on the IA website. Also included are wider elements of any IA evaluation. Items (6) and (7) are consequential amendments that are uniform with the indexation method proposed in the bill. I commend the amendments to the House.
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Bandt, Adam, MP",AG,2014-09-24,"
 
 
@@ -359,7 +359,7 @@ So when the government comes in here and says, 'We need some rigour and we need 
 
 I think the Deputy Prime Minister knows, just as everyone else in this place knows, that the East West Link does not stack up. The only way that there can possibly be any money spent is by ignoring the fact that it is going to be a loss-making project. Melbourne is crying out for investment in public transport. Melbourne could be like one of those cities overseas that you can get around without having to use a car. We are a growing city that needs more trains, and that is something that the federal government could help with—as it has in the past and could do again. Instead, billions of dollars are being spent on a road that no-one wants. If these amendments are supported, then the government hopefully will release the cost-benefit analysis for East West Link.
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Truss, Warren, MP",Nats,2014-09-24,"
 
 
@@ -388,7 +388,7 @@ Mr TRUSS:
 
 So we have a genuine commitment to making Infrastructure Australia work. I think the bill before the House makes significant improvements, and I acknowledge the fact that it was supported in the second reading vote without dissent. I think we can make further progress. I repeat that I will look at the amendments that the opposition spokesman has moved and see whether the government is able to accommodate them between now and their introduction to the Senate. In all conscience I could not accept them without having the opportunity to examine their impact.
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Albanese, Anthony, MP",ALP,2014-09-24,"
 
 
@@ -437,7 +437,7 @@ Mr Dutton:
 Mr ALBANESE:
   They are prepared to slur people across the chamber— Michael Deegan was appointed head of the National Transport Commission by the Howard government. The Deputy Prime Minister seems to think he has no influence on who is appointed head of the National Transport Commission, which is quite extraordinary. The only person with any political background who was appointed to the Infrastructure Australia council was Mark Birrell, the former minister in the Kennett government, and he was appointed on the basis of merit. There were no former Labor politicians appointed to that body. In terms of the process, we need to make sure that we get it right. This is an opportunity to get it right. I support the amendments.
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Bandt, Adam, MP",AG,2014-09-24,"
 
 
@@ -445,7 +445,7 @@ Mr ALBANESE:
 Mr BANDT
  (Melbourne) (10:30):  I have a question for the Deputy Prime Minister arising out of his contribution, where he spoke about the importance of the public having the right to know, when it comes to cost-benefit analyses. On that basis, will the government release the cost-benefit analysis for East-West Link? Previously, the government has said, 'we don't want to release it because it may jeopardise the tendering process'. Given that a preferred bidder has now been chosen—and given the Deputy Prime Minister's statements about the importance of the right to know—will the government release the cost-benefit analysis for this multibillion dollar project?
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Truss, Warren, MP",Nats,2014-09-24,"
 
 
@@ -453,7 +453,7 @@ Mr BANDT
 Mr TRUSS
  (Wide Bay—Deputy Prime Minister and Minister for Infrastructure and Regional Development) (10:31):  I do not want to prolong the debate, but Infrastructure Australia is the body that will be releasing its cost-benefit analyses and, as I mentioned to the member earlier in the debate, I would expect that Infrastructure Australia will examine this project and that they will release the report.
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Bandt, Adam, MP",AG,2014-09-24,"
 
 
@@ -461,7 +461,7 @@ Mr TRUSS
 Mr BANDT
  (Melbourne) (10:31):  Following on from that question, can the Deputy Prime Minister then indicate when the cost-benefit analysis will be released, and whether it will be before the Victorian election?
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Truss, Warren, MP",Nats,2014-09-24,"
 
 
@@ -478,7 +478,7 @@ The DEPUTY SPEAKER
 Mr Mitchell
 ):  The question is that the amendments be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Albanese, Anthony, MP",ALP,2014-09-24,"
 
 
@@ -495,7 +495,7 @@ Mr ALBANESE
 
 Item 4 requires Infrastructure Australia to approve a standard method for requiring assessments of proposals. This allows for costs and benefits of competing or alternative projects to be compared. This maintains the status quo in the existing act. The government's amendment makes standardisation optional for Infrastructure Australia. Labor's amendment will make a standard method a requirement, as is currently the case, and as is critical if we are examining where taxpayer dollars should go to which project where there are multiple bids for infrastructure projects. Given that there are many more bids for projects than will ever be funded, this is an important amendment. Amendment (5) is a minor amendment providing for better spacing of the first review of Infrastructure Australia's standard assessment method. This amendment requires the first review to occur by next September rather than March. I commend the amendments to the House.
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Truss, Warren, MP",Nats,2014-09-24,"
 
 
@@ -503,7 +503,7 @@ Item 4 requires Infrastructure Australia to approve a standard method for requir
 Mr TRUSS
  (Wide Bay—Deputy Prime Minister and Minister for Infrastructure and Regional Development) (10:44):  I commented earlier that the government had not had a chance to review the amendments. A superficial examination of this couple of amendments suggests that there may well be room for us to accept them, but I would want to study that beforehand. So, we will be opposing them, but there is a degree of superficial goodwill towards those two amendments.
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Bandt, Adam, MP",AG,2014-09-24,"
 
 
@@ -520,7 +520,7 @@ The DEPUTY SPEAKER
 Mr Vasta
 ):  The question is that the amendments be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Albanese, Anthony, MP",ALP,2014-09-24,"
 
 
@@ -735,7 +735,7 @@ Amendment (8) is an important amendment that makes Infrastructure Australia invo
 
 Amendment (1) amends the commencement provisions of the bill to include commencement of the changes made by Labor's amendments to the National Land Transport Act 2014. At the time of drafting of these amendments, recent amendments passed by the parliament to this act had not commenced, and this is reflected in the proposed schedule. I commend the amendments to the House.
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Truss, Warren, MP",Nats,2014-09-24,"
 
 
@@ -743,7 +743,7 @@ Amendment (1) amends the commencement provisions of the bill to include commence
 Mr TRUSS
  (Wide Bay—Deputy Prime Minister and Minister for Infrastructure and Regional Development) (10:48):  Let me repeat: I am prepared to look at the amendments, but we are less likely to be sympathetic to these two amendments. They are not even amendments to the Infrastructure Australia Bill; they are actually amendments to the land transport act, which has already been debated in the parliament. And these issues were debated at that time and rejected, so I think it is unlikely that I am going to have a rethink of amendments (1) and (8) and certainly will be opposing them today.
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Albanese, Anthony, MP",ALP,2014-09-24,"
 
 
@@ -751,7 +751,7 @@ Mr TRUSS
 Mr ALBANESE
  (Grayndler) (10:48):  Labor will be pursuing these amendments. These are absolutely critical to ensure that the circumstances that have occurred, whereby, for example, $1½ billion has already been paid for the East West project—which has not had a published cost-benefit analysis, which has not had a contract signed, and which has not had proper scrutiny—cannot occur again. The fact is that this government's rhetoric in terms of Infrastructure Australia was one thing prior to the election and has been another since. We have seen projects funded without a cost-benefit analysis—such as the Perth Freight Link project, WestConnex and the East West project—which is one thing. But what is worse is the fact that advanced payments have actually been made. This will ensure that you have to have the cost-benefit analysis in place prior to funding occurring—that is, nothing more and nothing less than what the coalition said it would do prior to the election. And it was not just prior to the election. Since the election they are saying that that would be the case. They also say that they will only make milestone payments upon construction. Well, how is it that last financial year billions of dollars had already been allocated for projects that are not even under contract, let alone under construction? We heard a lot of rhetoric from those opposite about cranes in the sky and bulldozers on projects. The bulldozers are not there—just the bulldust from those opposite in terms of their rhetoric. That is why we are moving these amendments—in order to hold the government to account. I commend the amendments to the House.
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Bandt, Adam, MP",AG,2014-09-24,"
 
 
@@ -775,7 +775,7 @@ The DEPUTY SPEAKER:  The question is that opposition amendments (1) and (8) be a
 
 Bill agreed to.
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Truss, Warren, MP",Nats,2014-09-24,"
 
 
@@ -792,7 +792,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Infrastructure Australia Amendment (Cost Benefit Analysis and Other Measures) Bill 2014</title>,BILLS,3,1,speech
 "Prentice, Jane, MP",LP,2014-09-24,"
 
 
@@ -827,7 +827,7 @@ The committee is looking into many different factors from a wide range of stakeh
 
 Efficient provision of infrastructure, including public infrastructure, is the hallmark of a well-functioning economy. I welcome the government's commitment to building infrastructure for the 21st century and to approaching infrastructure planning and procurement sensibly and efficiently, ensuring that Australia's infrastructure can support a growing population and future requirements. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Gillespie, David, MP",Nats,2014-09-24,"
 
 
@@ -850,7 +850,7 @@ As well, I am very pleased to see that we have got other infrastructure rolling 
 
 A 15-year planning register is also very important, and Infrastructure Australia will develop a 15-year plan independent of the government to inform the government with some rock-solid, cold, hard light-of-day analysis of infrastructure priorities. This bill will establish an out-of-department, out-of-government, freestanding Infrastructure Australia with its own governance and its own responsibilities to make fearless and frank advice. It will allow us to develop and deliver much more infrastructure than the previous government and in a much more cost-effective manner. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Truss, Warren, MP",Nats,2014-09-24,"
 
 
@@ -894,7 +894,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Roy, Wyatt, MP",LP,2014-09-24,"
 
 
@@ -929,7 +929,7 @@ The amendments to these three treaties involve the addition or removal and the a
 
 Finally, the committee reports on a proposed amendment to the Australia-New Zealand Closer Economic Relations Trade Agreement to reflect changes to Australia's media ownership laws concerning foreign investment. The agreement is a comprehensive bilateral free trade agreement covering nearly all goods and services traded between Australia and New Zealand. Both parties to the agreement can nominate exceptions to the requirement for free trade in services by listing those exceptions in an annex to the agreement. One of the exceptions listed by Australia applies the limit on foreign ownership of television and broadcasting services set out in the Broadcasting Services Act 1992. All limits to the foreign ownership of television and broadcasting services were removed from that act in 2007, meaning the exceptions listed in the annex to the agreement do not serve a purpose. The amending treaty action will remove those listings from the agreement. The committee supports this amendment. Report 143 also contains a statement relating to minor treaty action. On behalf of the committee, I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,4,1
+",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,4,1,speech
 "Thomson, Kelvin, MP",ALP,2014-09-24,"
 
 
@@ -964,7 +964,7 @@ Reclamation and development of tidal flats in South Korea, where 25 per cent of 
 
 Between 1983 and 2006 across south-eastern Australia, migratory shorebird populations plunged by 73 per cent. In July this year, I wrote to the environment minister, Mr Hunt, referring him to the Save our Shorebirds online petition and asking what the government was doing to establish a wildlife conservation plan for migratory shorebirds and develop a national wetlands policy which takes into account the cumulative effects of multiple threats to Australia's shorebirds. He recently replied to me, and I thank him for that and urge him to continue with this work, such as the draft Wildlife Conservation Plan for Migratory Shorebirds which he said will soon be out for public comment. I also urge the Chinese and Korean governments to do much more to uphold their obligations, and ensure that all remaining shorebird habitat is properly protected so that these plucky little adventurers can continue their epic journeys to the joy of many generations to come.
 
-",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,4,1
+",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,4,1,speech
 "Roy, Wyatt, MP",LP,2014-09-24,"
 
 
@@ -984,7 +984,7 @@ The DEPUTY SPEAKER
 Mr Vasta
 ):  In accordance with standing order 39, the debate is adjourned. The resumption of the debate will be made an order of the day for the next day of sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,4,1
+",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,4,1,speech
 "Roy, Wyatt, MP",LP,2014-09-24,"
 
 
@@ -998,7 +998,7 @@ That the order of the day be referred to the Federation Chamber for debate.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,4,1
+",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,4,1,speech
 "Roy, Wyatt, MP",LP,2014-09-24,"
 
 
@@ -1033,7 +1033,7 @@ The amendments to these three treaties involve the addition or removal and the a
 
 Finally, the committee reports on a proposed amendment to the Australia-New Zealand Closer Economic Relations Trade Agreement to reflect changes to Australia's media ownership laws concerning foreign investment. The agreement is a comprehensive bilateral free trade agreement covering nearly all goods and services traded between Australia and New Zealand. Both parties to the agreement can nominate exceptions to the requirement for free trade in services by listing those exceptions in an annex to the agreement. One of the exceptions listed by Australia applies the limit on foreign ownership of television and broadcasting services set out in the Broadcasting Services Act 1992. All limits to the foreign ownership of television and broadcasting services were removed from that act in 2007, meaning the exceptions listed in the annex to the agreement do not serve a purpose. The amending treaty action will remove those listings from the agreement. The committee supports this amendment. Report 143 also contains a statement relating to minor treaty action. On behalf of the committee, I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2,speech
 "Thomson, Kelvin, MP",ALP,2014-09-24,"
 
 
@@ -1068,7 +1068,7 @@ Reclamation and development of tidal flats in South Korea, where 25 per cent of 
 
 Between 1983 and 2006 across south-eastern Australia, migratory shorebird populations plunged by 73 per cent. In July this year, I wrote to the environment minister, Mr Hunt, referring him to the Save our Shorebirds online petition and asking what the government was doing to establish a wildlife conservation plan for migratory shorebirds and develop a national wetlands policy which takes into account the cumulative effects of multiple threats to Australia's shorebirds. He recently replied to me, and I thank him for that and urge him to continue with this work, such as the draft Wildlife Conservation Plan for Migratory Shorebirds which he said will soon be out for public comment. I also urge the Chinese and Korean governments to do much more to uphold their obligations, and ensure that all remaining shorebird habitat is properly protected so that these plucky little adventurers can continue their epic journeys to the joy of many generations to come.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2,speech
 "Roy, Wyatt, MP",LP,2014-09-24,"
 
 
@@ -1088,7 +1088,7 @@ The DEPUTY SPEAKER
 Mr Vasta
 ):  In accordance with standing order 39, the debate is adjourned. The resumption of the debate will be made an order of the day for the next day of sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2,speech
 "Bowen, Chris, MP",ALP,2014-09-24,"
 
 
@@ -1200,7 +1200,7 @@ Because of this government's cuts—let us be very clear—there will be tax avo
 
 On behalf of the opposition, I have indicated those measures which the Labor Party are prepared to support. The schedules in bill No. 5 which we are prepared to support are schedule 1 and schedule 4, I believe, but we will be opposing the other schedules in the other house. We are prepared to give our support to bill No. 4 on the basis that it is implementing measures that were contemplated and begun by the previous Labor government. We commend the government for proceeding with them. We condemn the government for handing back $1.1 billion to international tax avoiders by not proceeding with the previous, Labor government's other important changes and we will vote accordingly in the other place.
 
-",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1
+",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1,speech
 "Jones, Ewen, MP",LP,2014-09-24,"
 
 
@@ -1280,7 +1280,7 @@ We have to follow through on what the Treasurer and the Prime Minister have said
 
 This bill does not close every international tax loophole; it does not address every single issue that those opposite suggest that we should. What it does is set out the plan that we are going about in trying to rectify the budget mess with which we were left. What it does is say to the people of Australia that we are getting on with the business of government; we are opening our doors to opportunities for people to get on with their lives and to deliver for themselves the opportunity to create wealth and employment. That is no more and no less than the people of Australia demand of us. We must make sure that we use these things to do it properly, but we cannot simply go through and cut and rape and blast the place open. We are doing the calm, methodical job that the Prime Minister and the Treasurer said we would. You have seen what happened in Cairns on the weekend: we are talking to the world on so many fronts and we are doing the right thing. This bill goes about that part of the business. I thank the House.
 
-",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1
+",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1,speech
 "Chesters, Lisa, MP",ALP,2014-09-24,"
 
 
@@ -1333,7 +1333,7 @@ Fair tax reform will boost growth and our economy. Our tax system should be fair
 
 Implementing important and fair tax reforms will improve competitiveness, will boost savings through superannuation, will make superannuation fairer, will signify personal tax and reduce barriers to participation in the workforce. We need to ensure that tax reform is focused on ensuring our system is fair and sustainable. We need a fair and sustainable tax system that encourages and provides incentives for people to work and to undertake productive enterprise. We need to ensure that there is a link between our tax system, our economy and between what we are introducing in future budgets between industry. But what we have seen from this government is an endless list of stunts. What we have seen is some small sensible measures that we support, some very silly measures and then some other measures that only tinker at the edges.
 
-",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1
+",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1,speech
 "Laming, Andrew, MP",LP,2014-09-24,"
 
 
@@ -1374,7 +1374,7 @@ This brings us into the debate about whether our debt-to-GDP ratios are (a) any 
 
 What we are talking about here are two significant measures to take Australia along the road to reducing profit shifting. It is an important step. I concede that there were steps taken by the previous government as well. Together with Australia's chairmanship of the G20, we can look to agreements being struck between major economies, which in the end is the only way that we can genuinely, without creating sovereign risk, ensure that we have profit shifting brought to an end globally.
 
-",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1
+",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1,speech
 "Chalmers, Jim, MP",ALP,2014-09-24,"
 
 
@@ -1460,7 +1460,7 @@ Dr CHALMERS:
 
 Labor will be voting in favour of these bills, but not without first expressing our concerns about this government's underperformance in addressing multinational profit-shifting, about their lack of support for Australia's shipping industry and about their interest in stunts, rather than real reform. For this reason, I will be supporting the amendments moved by our side and will continue to support greater action, in particular on that crucial issue of multinational profit-shifting.
 
-",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1
+",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1,speech
 "Sukkar, Michael, MP",LP,2014-09-24,"
 
 
@@ -1510,7 +1510,7 @@ Finally, schedule 3 to the bill amends the Income Tax Assessment Act, to reduce 
 
 This is ultimately a broad package of changes in the bills before us today. It cleans up a lot of the issues that are legacy problems which were not dealt with by the former Labor government, and I think it is good tax policy for the country.
 
-",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1
+",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1,speech
 "Jones, Stephen, MP",ALP,2014-09-24,"
 
 
@@ -1563,7 +1563,7 @@ The seafarer tax offset has already helped to reduce the operating costs of Aust
 
 In the time I have left I want to make a few points about the importance of ensuring that we maintain a vibrant shipping industry in this country. Anybody who knows anything about the shipping workforce knows it is an ageing workforce. If we do not move now to ensure that there are replacement workers who are going to be regenerating the maritime industry workforce and if we do not move now to ensure that we maintain the skills, not only for domestic voyages but international voyages, then we will lose those skills forever. These are not things that you can turn on and off like a tap. So, in a country with over 99 per cent of its trade coming in and out of our ports—and in a parliament that gives bipartisan support to the importance of free trade agreements, international trade and ensuring that we are connected to the world—why on earth would any member stand in this place and vote for a proposition that is going to undermine that most important link in the chain: the capacity for Australians to be working on ships that ply our coasts and ply the international trade routes and to ensure that we have a skilled workforce, that we have an experienced workforce, that we have a vibrant Australian maritime workforce? This is one of many measures put in place as part of the maritime reform package. It is reckless. It has no drag weight on the budget whatsoever. All right-thinking members of the House should reject it, and I call upon the government MPs to do exactly that.
 
-",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1
+",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1,speech
 "Thistlethwaite, Matt, MP",ALP,2014-09-24,"
 
 
@@ -1604,7 +1604,7 @@ The Australian Shipowners Association, the industry body for this sector, strong
 
 Labor is committed to finding savings within the budget. We demonstrated that during our period in government. We have demonstrated that in putting before this parliament specific reforms aimed at improving the bottom line of the budget. One area of reform we put forward was in the area of corporate profit shifting—something, again, that was opposed by the current government when in opposition. We are pleased to see some of the reforms that Labor commenced in government forming part of this bill, but we do not support the changes to research and development and the changes to the seafarer offset.
 
-",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1
+",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1,speech
 "Bandt, Adam, MP",AG,2014-09-24,"
 
 
@@ -1633,7 +1633,7 @@ One of the other elements of this bill that would not be supported, from our per
 
 That is not the way to balance the budget. If the government were serious about balancing the budget, it would look to those who can afford it the most and ask them to pay their fair share. As it is, we know that this government is turning its sights on the young, the old, the sick and the poor. We are now finding it turning its sights on companies that invest in R&D and companies that try and do the right thing by employing local workers to work on ships surrounding Australia. For those reasons we are not in a position to support the bill.
 
-",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1
+",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1,speech
 "Ripoll, Bernie, MP",ALP,2014-09-24,"
 
 
@@ -1662,7 +1662,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ):  Order! The debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour. The member for Oxley will have leave to continue his remarks when the debate is continued.
 
-",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1
+",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,5,1,speech
 "Bowen, Chris, MP",ALP,2014-09-24,"
 
 
@@ -1774,7 +1774,7 @@ Because of this government's cuts—let us be very clear—there will be tax avo
 
 On behalf of the opposition, I have indicated those measures which the Labor Party are prepared to support. The schedules in bill No. 5 which we are prepared to support are schedule 1 and schedule 4, I believe, but we will be opposing the other schedules in the other house. We are prepared to give our support to bill No. 4 on the basis that it is implementing measures that were contemplated and begun by the previous Labor government. We commend the government for proceeding with them. We condemn the government for handing back $1.1 billion to international tax avoiders by not proceeding with the previous, Labor government's other important changes and we will vote accordingly in the other place.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Jones, Ewen, MP",LP,2014-09-24,"
 
 
@@ -1854,7 +1854,7 @@ We have to follow through on what the Treasurer and the Prime Minister have said
 
 This bill does not close every international tax loophole; it does not address every single issue that those opposite suggest that we should. What it does is set out the plan that we are going about in trying to rectify the budget mess with which we were left. What it does is say to the people of Australia that we are getting on with the business of government; we are opening our doors to opportunities for people to get on with their lives and to deliver for themselves the opportunity to create wealth and employment. That is no more and no less than the people of Australia demand of us. We must make sure that we use these things to do it properly, but we cannot simply go through and cut and rape and blast the place open. We are doing the calm, methodical job that the Prime Minister and the Treasurer said we would. You have seen what happened in Cairns on the weekend: we are talking to the world on so many fronts and we are doing the right thing. This bill goes about that part of the business. I thank the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Chesters, Lisa, MP",ALP,2014-09-24,"
 
 
@@ -1907,7 +1907,7 @@ Fair tax reform will boost growth and our economy. Our tax system should be fair
 
 Implementing important and fair tax reforms will improve competitiveness, will boost savings through superannuation, will make superannuation fairer, will signify personal tax and reduce barriers to participation in the workforce. We need to ensure that tax reform is focused on ensuring our system is fair and sustainable. We need a fair and sustainable tax system that encourages and provides incentives for people to work and to undertake productive enterprise. We need to ensure that there is a link between our tax system, our economy and between what we are introducing in future budgets between industry. But what we have seen from this government is an endless list of stunts. What we have seen is some small sensible measures that we support, some very silly measures and then some other measures that only tinker at the edges.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Laming, Andrew, MP",LP,2014-09-24,"
 
 
@@ -1948,7 +1948,7 @@ This brings us into the debate about whether our debt-to-GDP ratios are (a) any 
 
 What we are talking about here are two significant measures to take Australia along the road to reducing profit shifting. It is an important step. I concede that there were steps taken by the previous government as well. Together with Australia's chairmanship of the G20, we can look to agreements being struck between major economies, which in the end is the only way that we can genuinely, without creating sovereign risk, ensure that we have profit shifting brought to an end globally.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Chalmers, Jim, MP",ALP,2014-09-24,"
 
 
@@ -2034,7 +2034,7 @@ Dr CHALMERS:
 
 Labor will be voting in favour of these bills, but not without first expressing our concerns about this government's underperformance in addressing multinational profit-shifting, about their lack of support for Australia's shipping industry and about their interest in stunts, rather than real reform. For this reason, I will be supporting the amendments moved by our side and will continue to support greater action, in particular on that crucial issue of multinational profit-shifting.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Sukkar, Michael, MP",LP,2014-09-24,"
 
 
@@ -2084,7 +2084,7 @@ Finally, schedule 3 to the bill amends the Income Tax Assessment Act, to reduce 
 
 This is ultimately a broad package of changes in the bills before us today. It cleans up a lot of the issues that are legacy problems which were not dealt with by the former Labor government, and I think it is good tax policy for the country.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Jones, Stephen, MP",ALP,2014-09-24,"
 
 
@@ -2137,7 +2137,7 @@ The seafarer tax offset has already helped to reduce the operating costs of Aust
 
 In the time I have left I want to make a few points about the importance of ensuring that we maintain a vibrant shipping industry in this country. Anybody who knows anything about the shipping workforce knows it is an ageing workforce. If we do not move now to ensure that there are replacement workers who are going to be regenerating the maritime industry workforce and if we do not move now to ensure that we maintain the skills, not only for domestic voyages but international voyages, then we will lose those skills forever. These are not things that you can turn on and off like a tap. So, in a country with over 99 per cent of its trade coming in and out of our ports—and in a parliament that gives bipartisan support to the importance of free trade agreements, international trade and ensuring that we are connected to the world—why on earth would any member stand in this place and vote for a proposition that is going to undermine that most important link in the chain: the capacity for Australians to be working on ships that ply our coasts and ply the international trade routes and to ensure that we have a skilled workforce, that we have an experienced workforce, that we have a vibrant Australian maritime workforce? This is one of many measures put in place as part of the maritime reform package. It is reckless. It has no drag weight on the budget whatsoever. All right-thinking members of the House should reject it, and I call upon the government MPs to do exactly that.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Thistlethwaite, Matt, MP",ALP,2014-09-24,"
 
 
@@ -2178,7 +2178,7 @@ The Australian Shipowners Association, the industry body for this sector, strong
 
 Labor is committed to finding savings within the budget. We demonstrated that during our period in government. We have demonstrated that in putting before this parliament specific reforms aimed at improving the bottom line of the budget. One area of reform we put forward was in the area of corporate profit shifting—something, again, that was opposed by the current government when in opposition. We are pleased to see some of the reforms that Labor commenced in government forming part of this bill, but we do not support the changes to research and development and the changes to the seafarer offset.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Bandt, Adam, MP",AG,2014-09-24,"
 
 
@@ -2207,7 +2207,7 @@ One of the other elements of this bill that would not be supported, from our per
 
 That is not the way to balance the budget. If the government were serious about balancing the budget, it would look to those who can afford it the most and ask them to pay their fair share. As it is, we know that this government is turning its sights on the young, the old, the sick and the poor. We are now finding it turning its sights on companies that invest in R&D and companies that try and do the right thing by employing local workers to work on ships surrounding Australia. For those reasons we are not in a position to support the bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Ripoll, Bernie, MP",ALP,2014-09-24,"
 
 
@@ -2236,7 +2236,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ):  Order! The debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour. The member for Oxley will have leave to continue his remarks when the debate is continued.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Parke, Melissa, MP",ALP,2014-09-24,"
 
 
@@ -2253,7 +2253,7 @@ In forcing community TV out of television, it is no answer to say that the inter
 
 Like many Western Australians I enjoy West TV, and I have been fortunate enough to participate in some of its local programming, including current affairs shows like Undercurrent. The community TV sector is an important part of diversity and local character in Australia's media and an important incubator of ideas and talent. Silencing community TV is yet another sad example of this government's nation unbuilding.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Community Television</title>,STATEMENTS BY MEMBERS,6,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Community Television</title>,STATEMENTS BY MEMBERS,6,1,speech
 "Truss, Warren, MP",Nats,2014-09-24,"
 
 
@@ -2285,7 +2285,7 @@ We are an inclusive and tolerant society. The actions of violent criminals do no
 
 I reiterate that Australians should remain calm and carry on with the normal lives, confident that our law enforcement and security agencies will do everything humanly they can to keep all members of the Australian community safe so that all Australians can enjoy the freedom and the lifestyle we prize as our birthright.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Security</title>,STATEMENTS ON INDULGENCE,7,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Security</title>,STATEMENTS ON INDULGENCE,7,1,speech
 "Shorten, Bill, MP",ALP,2014-09-24,"
 
 
@@ -2308,7 +2308,275 @@ We are a country of 23 million individual souls, but today we are one people. We
 
 We live in a challenging time. We have lived in challenging times before and we shall face challenging times in the future. We understand in this parliament that what Australia needs now is wisdom and understanding to guide us sensibly and safely through the days ahead.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Security</title>,STATEMENTS ON INDULGENCE,7,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>National Security</title>,STATEMENTS ON INDULGENCE,7,1,speech
+"Shorten, Bill, MP",ALP,2014-09-24,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:10):  My question is to the Minister for Education. It has been reported today that Monash University economics professor and competition expert, Stephen King, says that fee deregulation of universities is a recipe for disaster, suggesting that fees will creep up until Australian students pay about the same as full-fee-paying foreign students. Why is the Abbott government putting the cost of university out of the reach of young Australians?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,10,1,question
+"Pyne, Christopher, MP",LP,2014-09-24,"
+
+
+
+Mr PYNE
+ (Sturt—Leader of the House and Minister for Education) (14:11):  I thank the Leader of the Opposition for his question. To answer his final question first, students who go to university in Australia can borrow every single dollar from the Australian taxpayer. So no university course is out of reach to any Australian young or mature age student who wants to go to university, because every single dollar of the fees that they may be charged—or that they are being charged now, for that matter—can be borrowed through the most generous higher education loan program in the world, one that is the envy of the entire world.
+
+
+Let me explain one thing to the opposition, which they do not understand: in Great Britain, where there are fees in England and there is a so-called free education paid for by the taxpayer in Scotland, the rate of low-socioeconomic status students going to university has increased in England and has dropped in Scotland, so the supposed evidence from the opposition that fees will lead to people of low-SES backgrounds not going to university has been utterly exploded by the evidence of what has occurred in Great Britain. So that is the answer to the final question in his question to me. The fact is that no university degree will be out of reach to anyone, because they will be able to borrow money from the Australian taxpayer.
+
+
+The first part of the member's question was a quote from one academic. I welcome that, because I would like to quote from a few people as well. The Labor Party are desperately clinging to one academic's comment about our higher education reforms—a small sapling floating past that, like a drowning sailor, they have reached out to grasp. This gives me the opportunity to tell the opposition: ask the Group of Eight, ask the Australian Technology Network of universities, ask the Regional Universities Network, ask Innovative Research Universities, ask Universities Australia, which represents 39 universities.
+
+
+
+Opposition members interjecting—
+
+
+
+
+Mr PYNE:
+  Ask business leaders like David Gonski—they have gone quiet again—and like Michael Chaney. Ask individual vice chancellors from across Australia like John Dewar from La Trobe, Annabelle Duncan from the University of New England, Warren Bebbington from the University of Adelaide. 
+
+
+
+Mr Snowdon interjecting—
+
+
+
+The SPEAKER:  The member for Lingiari will desist.
+
+
+
+
+Mr PYNE:
+  All of these people and all of these organisations are saying that there must be reform to universities in Australia, otherwise we will fall behind our Asian competitors and decline into mediocrity. 
+
+
+This side of the House is prepared to make the real, microeconomic reform that Labor squibbed for six years in government. This reform will transform our universities and provide more opportunities for students.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,10,1,answer
+"Rishworth, Amanda, MP",ALP,2014-09-24,"
+
+
+
+Ms RISHWORTH
+ (Kingston) (14:18):  Thank you, Madam Speaker. My question is to the Minister for Education. Yesterday in question time, the Prime Minister said the Commonwealth taxpayer will continue to cover 50 per cent of people's university education. But the University of Western Australia's fee schedule released yesterday shows that the Commonwealth will cover only 10 per cent for commerce students and 43 per cent for science students. Minister, isn't the Prime Minister's 50 per cent claim just another sham that will massively increase the cost of university for young Australians?
+
+
+
+Opposition members interjecting—
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,12,1,answer
+"Pyne, Christopher, MP",LP,2014-09-24,"
+
+
+
+Mr PYNE
+ (Sturt—Leader of the House and Minister for Education) (14:19):  It never rains but it pours!
+
+
+
+Mr Conroy interjecting—
+
+
+
+The SPEAKER:  We will have some silence on my left, including the member for Charlton.
+
+
+
+
+Mr PYNE:
+  Having had very few questions from the opposition about education for 12 months, it is now a welter of questions on education! And I am very glad to get them, Madam Speaker, because the point is—
+
+
+
+Opposition members interjecting—
+
+
+
+The SPEAKER:  There will be silence on my left! The member for Moreton.
+
+
+
+
+Mr PYNE:
+  that the opposition can spin their wheels as much as they like about the higher education reforms. The simple fact is, they are out of step with the rest of Australia.
+
+
+
+Opposition members interjecting—
+
+
+
+
+Mr PYNE:
+  They are out of step with all the sensible economic commentators in the country who recognise the need for reform. For example, Paul Kelly, writing in The Weekend Australian—
+
+
+
+Opposition members interjecting—
+
+
+
+
+Mr PYNE:
+  Oh, you laugh at Paul Kelly do you? One of the most eminent journalists in Australia. Have a good old laugh; no wonder you are so out of touch with reality over there!
+
+
+
+Ms MacTiernan interjecting—
+
+
+
+The SPEAKER:  The member for Perth will desist!
+
+
+
+
+Mr PYNE:
+  Paul Kelly, writing in The Weekend Australian—
+
+
+
+Opposition members interjecting—
+
+
+
+The SPEAKER:  The minister will resume his seat. The Manager of Opposition Business on a point of order.
+
+
+
+
+Mr Burke:
+  Madam Speaker, to be directly relevant the minister needs to refer to the 50 per cent claim made by the Prime Minister.
+
+
+
+The SPEAKER:  The call goes to the Minister for Education.
+
+
+
+
+Mr PYNE:
+  Madam Speaker, before I quote from Paul Kelly I will answer that specific question, since I am perfectly happy to do so. The Labor Party can fabricate figures as much as they like—
+
+
+
+Opposition members interjecting—
+
+
+
+
+Mr PYNE:
+  and they can make up quotations as much they like. They can pick out and parse—
+
+
+
+Mr Dreyfus interjecting—
+
+
+
+The SPEAKER:  The member for Isaacs.
+
+
+
+
+Mr PYNE:
+  sentences and tables. The reality is, our reforms will mean that that students will be required to pay 50 per cent of the cost of their education, across the university sector, and they are currently on average paying 40 per cent.
+
+
+
+Opposition members interjecting—
+
+
+
+
+Mr PYNE:
+  They are currently paying 40 per cent of the cost of their education. That is what the student cohort is paying. And they are getting the lowest unemployment rates of anybody in our community, long life expectancy, better health outcomes—and they will earn 75 per cent more, on average—
+
+
+
+
+Mr Albanese:
+  What's the percentage?
+
+
+
+The SPEAKER:  The member for Grayndler.
+
+
+
+
+Mr PYNE:
+  than people who did not go to university. And more than 60 per cent of Australians do not have a university degree. So rather than complaining about being asked to pay 50 per cent of the cost of their education rather than 40 per cent, they should actually be buying a bunch of flowers and knocking on the door of a neighbour who does not have a university degree and saying: 'Thank you for paying 50 per cent of the cost of my education.'
+
+
+
+Ms Owens interjecting—
+
+
+
+The SPEAKER:  The member for Parramatta.
+
+
+
+
+Mr PYNE:
+  That is what they should be doing. Because they are going to get a much better opportunity in life than those people who do not get the chance to go to university. Now, returning to Paul Kelly—who those over that side of the House think is an absolute riot, but most of us see him as a very serious person; I certainly do—
+
+
+
+Opposition members interjecting—
+
+
+
+The SPEAKER:  There will be silence on my left!
+
+
+
+
+Mr PYNE:
+   He was quoting Mike Gallagher, the executive director of the Group of Eight. Mike Gallagher says: 'It is outrageous that the Labor Party have washed their hands of responsibility for the mess they created'—the mess you on that side created—that we are prepared to fix up, because we are an adult, responsible government getting on with the job—methodically, calmly and carefully—of fixing this country after the six years—the six Rip Van Winkle years—of the Labor government.
+
+
+
+Opposition members interjecting—
+
+
+
+The SPEAKER:  There will be silence on my left.
+
+
+
+Ms Macklin interjecting—
+
+
+
+The SPEAKER:  That includes the member for Jagajaga. I call the honourable member for Mitchell.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,12,1,answer
+"McGowan, Cathy, MP",Ind.,2014-09-24,"
+
+
+
+Ms McGOWAN
+ (Indi) (14:30):  My question is to the Minister for Communications. The NBN rollout is beginning in my electorate, for which I am very grateful. It will bring improved internet and mobile phone coverage to many households and businesses. The broadband quality and availability survey has been done to gather information on the success of this rollout. Can the minister please tell the House how my electorate of Indi rated? And will the government commit to prioritising the worst areas identified in the survey?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Broadband</title>,QUESTIONS WITHOUT NOTICE,14,1,question
+"Turnbull, Malcolm, MP",LP,2014-09-24,"
+
+
+
+Mr TURNBULL
+ (Wentworth—Minister for Communications) (14:31):  I thank the honourable member for her question. The broadband quality survey that the government undertook shortly after the election was the first of its kind. It was the first time any government actually sought to find out where broadband was good, bad or indifferent across Australia. We surveyed 78,000 distribution areas across Australia, of which 832 are in the honourable member's electorate. Of those distribution areas, 71 per cent have access to ADSL, which is below the national average, although six per cent of those DAs that have access to ADSL have access to very poor service. In common with many regional electorates, most of the residents in the honourable member's electorate live in large centres—in Wodonga, in Wangaratta—where broadband access is generally good at the moment, although it will become a lot better. But of course the residents who live outside those towns—in the country, in smaller communities and of course a long way from exchanges—typically have very poor broadband.
+
+
+What we are doing is building a massive fixed-wireless network across Australia. Already in the electorate of Indi there are four fixed-wireless towers active, with 1,271 premises covered, and construction is underway on another seven. Across the country the fixed-wireless network is active or under construction in 50 electorates. We have increased its reach from 38,000 premises to 127,000 premises, and construction is currently underway on 82,000 premises. In other words, there are more than 700 fixed-wireless towers that are either active or under construction. This is a really transformative technology, because typically it is addressing areas that have virtually no broadband access at all, and once the fixed wireless is turned on they have access to 25 megabits per second, which is better than most people in the big cities have. This fixed-wireless rollout was colossally bungled by the Labor Party. Not only did Labor not have the spectrum but they did not even own the spectrum that was required to do the job, so we have had to go to great lengths to secure that additional spectrum, something Labor had no plan for. But, incredibly, the Labor Party estimated that there would be only 230,000 users of the fixed-wireless network by 2021. It turns out that there is going to be somewhere between a minimum of 440,000 and 620,000. How could you get something so wrong? Only the Labor Party could do that.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Broadband</title>,QUESTIONS WITHOUT NOTICE,14,1,answer
 "Burke, Tony, MP",ALP,2014-09-24,"
 
 
@@ -2359,7 +2627,7 @@ Mr Hockey:
 
 The SPEAKER:  Enough is enough. I give the call to the member for McMahon.
 
-",HoR,<title>DOCUMENTS</title>,<title>East West Link</title>,DOCUMENTS,16,1
+",HoR,<title>DOCUMENTS</title>,<title>East West Link</title>,DOCUMENTS,16,1,speech
 "Burke, Tony, MP",ALP,2014-09-24,"
 
 
@@ -2410,7 +2678,29 @@ Mr Hockey:
 
 The SPEAKER:  Enough is enough. I give the call to the member for McMahon.
 
-",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,16,2
+",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,16,2,speech
+"Bowen, Chris, MP",ALP,2014-09-24,"
+
+
+
+Mr BOWEN
+ (McMahon) (14:54):  My question is to the Treasurer. It has been reported today that the CEO of the Financial Services Council, John Brogden, has said in relation to financial advice:
+
+
+The level of trust as at an all-time low. We need a circuit breaker. Self-regulation is not enough.
+
+
+Treasurer, why is the government so determined to rely on self-regulation when the savings of millions of Australians are at risk?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Future of Financial Advice</title>,QUESTIONS WITHOUT NOTICE,17,1,question
+"Hockey, Joe, MP",LP,2014-09-24,"
+
+
+
+Mr HOCKEY
+ (North Sydney—The Treasurer) (14:55):  Labor set up the system. Now Labor is criticising the system they set up. Don't you guys have any consistent principles? Is there anything you are consistent about in your lives? The system was established under the FoFA laws that were set up by the man who asked the question. Not once, not twice, not three times but on five separate occasions he came into this parliament and tabled the new information memorandum to the legislation. He was in here amending his own amendments in relation to financial advice. He did not understand his own laws when he was the minister. The Leader of the Opposition is critical of his own laws now that he is in opposition. I mean, cut us a break here! Really, you cannot be that stupid. It is a new benchmark for the Labor Party to be this insultingly stupid.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Future of Financial Advice</title>,QUESTIONS WITHOUT NOTICE,17,1,answer
 "Bishop, Bronwyn, MP",LP,2014-09-24,"
 
 
@@ -2421,7 +2711,7 @@ The SPEAKER
 
 Ordered that the report be made a parliamentary paper.
 
-",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Annual Report for 2013-14</title>,AUDITOR-GENERAL'S REPORTS,19,1
+",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Annual Report for 2013-14</title>,AUDITOR-GENERAL'S REPORTS,19,1,speech
 "Bishop, Bronwyn, MP",LP,2014-09-24,"
 
 
@@ -2429,7 +2719,7 @@ Ordered that the report be made a parliamentary paper.
 The SPEAKER
  (15:17):  I have received advice from the chief government whip that he has nominated Mr van Manen to be a member of the Standing Committee on Infrastructure and Communications in place of Mr Brough.
 
-",HoR,<title>COMMITTEES</title>,<title>Infrastructure and Communications Committee</title>,COMMITTEES,21,1
+",HoR,<title>COMMITTEES</title>,<title>Infrastructure and Communications Committee</title>,COMMITTEES,21,1,speech
 "Pyne, Christopher, MP",LP,2014-09-24,"
 
 
@@ -2443,7 +2733,7 @@ That Mr Brough be discharged from the Standing Committee on Infrastructure and C
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Infrastructure and Communications Committee</title>,COMMITTEES,21,1
+",HoR,<title>COMMITTEES</title>,<title>Infrastructure and Communications Committee</title>,COMMITTEES,21,1,speech
 "Bishop, Bronwyn, MP",LP,2014-09-24,"
 
 
@@ -2451,7 +2741,7 @@ Question agreed to.
 The SPEAKER
  (15:17):  I have received advice from the chief government whip that he has nominated Mr van Manen to be a member of the Standing Committee on Infrastructure and Communications in place of Mr Brough.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,21,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,21,2,speech
 "Pyne, Christopher, MP",LP,2014-09-24,"
 
 
@@ -2465,7 +2755,7 @@ That Mr Brough be discharged from the Standing Committee on Infrastructure and C
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,21,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,21,2,speech
 "Bishop, Bronwyn, MP",LP,2014-09-24,"
 
 
@@ -2485,7 +2775,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1,speech
 "Butler, Mark, MP",ALP,2014-09-24,"
 
 
@@ -2549,7 +2839,7 @@ We know what that has done to the sector. Over the first six months of 2014, onl
 
 The Prime Minister has described himself as a weathervane on this issue. He has famously described himself as a weathervane. He probably pats himself on the back for having won an election about the dreaded carbon tax. This is a serious issue, though. This is a serious challenge for Australia and for our partners in the region and the rest of the world. It is time for the Prime Minister to reflect on his attitude to the challenge of climate change and to get with the rest of the world, who are moving forward to an ambitious global agreement in Paris next year.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1,speech
 "Hunt, Greg, MP",LP,2014-09-24,"
 
 
@@ -2637,7 +2927,7 @@ Mr HUNT:
 
 I will claim responsibility for the Emissions Reductions Fund, for the Asia-Pacific rainforest recovery plan, for the 20 Million Trees plan, for the Green Army plan. These are real things that do real things. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1,speech
 "Watts, Tim, MP",ALP,2014-09-24,"
 
 
@@ -2693,7 +2983,7 @@ Now politics is about conviction and a commitment to carry out those convictions
 
 The member for Wentworth is right. Unfortunately, our country is currently governed by a Prime Minister whose only conviction on climate change is short-term political gain. So long as the Prime Minister thinks there are votes to be won from acting as though climate change is 'crap' he will continue to sacrifice our nation's economic future to do so. We on this side of the House take a bigger picture approach to Australia's future, and we will fight in international forums from here and into the future to secure our nation's prosperity.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1,speech
 "Taylor, Angus, MP",LP,2014-09-24,"
 
 
@@ -2713,7 +3003,7 @@ In my own electorate I have seen this in action. One of the biggest employers in
 
 Their position was never coherent. Worse, it cost the Australian economy. Outsourcing emissions meant outsourcing jobs, mining and manufacturing. Of course, we know that their carbon price, their carbon tax, was the highest in the world. That, of course, was having a dramatic impact on the Australian economy. In contrast, our policies are about incentives, not penalties; they are broad based, not narrow; and we are bringing the Australian people along with us. Labor has only ever pretended to take climate change seriously, because they mistook bureaucracy, consultants and spending for outcomes. We will never make that mistake.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1,speech
 "Parke, Melissa, MP",ALP,2014-09-24,"
 
 
@@ -2754,7 +3044,7 @@ As I have mentioned, last Sunday I attended a rally in Perth as part of a global
 
 The failure of this government to take climate change seriously is a failure to take science seriously; it is a failure to take economics seriously; and it is a failure to accept the responsibility for the health, security and wellbeing of Australians and our living natural environment now and in the future.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1,speech
 "Coulton, Mark, MP",Nats,2014-09-24,"
 
 
@@ -2780,7 +3070,7 @@ But we would wear the pain. Professor Garnaut said that regional Australia would
 
 The member for Makin is sitting down there. He was responsible for one of my favourite speeches in this place. In 2008 we were debating the original emissions trading scheme and he said, 'It's 43 degrees in Adelaide. We need to pass this bill today. It is 43 degrees in Adelaide and we have got no time to waste.' I presume that he had a barbecue planned for Sunday and he thought we could get the policy through on Thursday and cool things down for when he got home! It is one of my favourite times, when a member of the Labor Party has confused the climate with the weather and has got it all wrong. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1,speech
 "Conroy, Pat, MP",ALP,2014-09-24,"
 
 
@@ -2803,7 +3093,7 @@ The sad thing is that they cannot even name a single economist they are not payi
 
 On this side of parliament, we have introduced a policy. Our policy for 2016, a flexible price emissions trading scheme, is a recommendation of pre-eminent economists. The entire Treasury is in favour of an emissions trading scheme. Professor Paul Krugman, Ross Garnaut and Lord Nicholas Stern—the most pre-eminent economists in the world—when they look at the problem of climate change, say, 'Let the market solve it. Use a flexible price emissions trading scheme to target it.' That is Labor's policy. Those on the other side are divided between those who do not want to do anything because they do not accept climate change is real and the other half, who just see a political opportunity. They are failing not only future generations but this generation as well. I am confident they will stand condemned by history for their horrible, horrible work. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1,speech
 "Prentice, Jane, MP",LP,2014-09-24,"
 
 
@@ -2829,7 +3119,7 @@ Unlike those opposite, the coalition believes in taking real action, not partici
 
 Unlike Labor and the Greens, the coalition is not about screaming and shouting. We are not about announcing scientifically baseless policies. We are about action. The coalition stands for reducing emissions in a way that will not hurt everyday Australians already doing it tough.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1,speech
 "Elliot, Justine, MP",ALP,2014-09-24,"
 
 
@@ -2864,7 +3154,7 @@ The panel's report is just a political document, not an independent review. The 
 
 The Prime Minister has previously described climate science as 'absolute crap'. I hear National Party members in my electorate saying the same thing, all the time. This government is out of step with the rest of the world by refusing to accept the need for urgent and serious climate-change action. It is environmentally and economically reckless to not take action on climate change, and this government is condemned for its inaction.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1,speech
 "Hawke, Alex, MP",LP,2014-09-24,"
 
 
@@ -2936,7 +3226,7 @@ I ask the member for Charlton: does he believe that? His government paid this pe
 
 The DEPUTY SPEAKER:  Order! The discussion has concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Climate Change</title>,MATTERS OF PUBLIC IMPORTANCE,22,1,speech
 "Smith, Tony, MP",LP,2014-09-24,"
 
 
@@ -2974,7 +3264,7 @@ The tax receipt that is part of this schedule is a transparent measure to report
 
 I will confine my remarks to those matters in the Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014. I commend this bill and the related bill to the House.
 
-",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,23,1
+",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,23,1,speech
 "Albanese, Anthony, MP",ALP,2014-09-24,"
 
 
@@ -3037,7 +3327,7 @@ The 2012 reforms had the backing of industry, and they followed more than a year
 
 We want reform in the national interest. This reform that they are attempting to wind back here is a saving—and that is the point. It is a saving to the government from removing a rebate for business. By all means, argue that business should not deserve that rebate, but do it on the basis of the reality, not on the basis of this nonsense that somehow it is not a rebate for business. At least understand the legislation that is before the parliament in terms of the changes that are being put forward. This is very disappointing indeed for Australian industry. I spoke to the head of the Australian Shipowners Association today, and there is a great deal of disappointment about the fact that the coalition has made no attempt to have proper policy development and process on this. We did. We made no apologies for the fact that we did negotiate and had input from and consultation with unions as well as employers and others in the sector. Everyone from the National Farmers' Federation to Rio Tinto and the Business Council were all involved and were able to participate in that process. I commend the amendment to this legislation that will be moved by the shadow Treasurer. He is doing that because of the flawed proposition being put forward by the government to run what is a very narrow, ideological and misguided agenda.
 
-",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,23,1
+",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,23,1,speech
 "Zappia, Tony, MP",ALP,2014-09-24,"
 
 
@@ -3075,7 +3365,7 @@ There is another matter that flows from all of this, which is what we call the b
 
 Taken individually, each of the hits to research and development in Australia may be absorbed. But, collectively, the impacts will have devastating consequences for years and years to come. Diminishing the research and development tax incentives, cutting funding to government research and development organisations, the loss of the automotive manufacturing research and development dollars that we have benefited from, and the loss of intellectual capital—that is, the loss of scientists and researchers—will cost Australia dearly in the years to come. It is ignorant policy by a government that knows it will not be here when the damage is realised in years to come.
 
-",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,23,1
+",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,23,1,speech
 "Ciobo, Steven, MP",LP,2014-09-24,"
 
 
@@ -3125,7 +3415,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,23,1
+",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,23,1,speech
 "Ciobo, Steven, MP",LP,2014-09-24,"
 
 
@@ -3142,7 +3432,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,23,1
+",HoR,<title>BILLS</title>,"<title>Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014, Tax and Superannuation Laws Amendment (2014 Measures No. 5) Bill 2014</title>",BILLS,23,1,speech
 "Smith, Tony, MP",LP,2014-09-24,"
 
 
@@ -3180,7 +3470,7 @@ The tax receipt that is part of this schedule is a transparent measure to report
 
 I will confine my remarks to those matters in the Tax and Superannuation Laws Amendment (2014 Measures No. 4) Bill 2014. I commend this bill and the related bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Albanese, Anthony, MP",ALP,2014-09-24,"
 
 
@@ -3243,7 +3533,7 @@ The 2012 reforms had the backing of industry, and they followed more than a year
 
 We want reform in the national interest. This reform that they are attempting to wind back here is a saving—and that is the point. It is a saving to the government from removing a rebate for business. By all means, argue that business should not deserve that rebate, but do it on the basis of the reality, not on the basis of this nonsense that somehow it is not a rebate for business. At least understand the legislation that is before the parliament in terms of the changes that are being put forward. This is very disappointing indeed for Australian industry. I spoke to the head of the Australian Shipowners Association today, and there is a great deal of disappointment about the fact that the coalition has made no attempt to have proper policy development and process on this. We did. We made no apologies for the fact that we did negotiate and had input from and consultation with unions as well as employers and others in the sector. Everyone from the National Farmers' Federation to Rio Tinto and the Business Council were all involved and were able to participate in that process. I commend the amendment to this legislation that will be moved by the shadow Treasurer. He is doing that because of the flawed proposition being put forward by the government to run what is a very narrow, ideological and misguided agenda.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Zappia, Tony, MP",ALP,2014-09-24,"
 
 
@@ -3281,7 +3571,7 @@ There is another matter that flows from all of this, which is what we call the b
 
 Taken individually, each of the hits to research and development in Australia may be absorbed. But, collectively, the impacts will have devastating consequences for years and years to come. Diminishing the research and development tax incentives, cutting funding to government research and development organisations, the loss of the automotive manufacturing research and development dollars that we have benefited from, and the loss of intellectual capital—that is, the loss of scientists and researchers—will cost Australia dearly in the years to come. It is ignorant policy by a government that knows it will not be here when the damage is realised in years to come.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Ciobo, Steven, MP",LP,2014-09-24,"
 
 
@@ -3331,7 +3621,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Rishworth, Amanda, MP",ALP,2014-09-24,"
 
 
@@ -3351,7 +3641,7 @@ Building new submarines in Adelaide will greatly increase Australia's defence ca
 
 The South Australian economy needs a government that will help to create jobs, not send them overseas. So far, we have seen nothing from this government that supports jobs in South Australia or, indeed, across the rest of Australia. In fact, we have seen them scare Holden and other car companies out of this country. They have ensured that the demise of Holden, Ford and Toyota was almost a fait accompli. Unfortunately, if the government continue this attitude of not actually having a policy to create jobs, then South Australia will be in trouble. My electorate of Kingston, which is home to a lot of small manufacturers, is already feeling and will continue to feel the brunt of this. This is an ill-informed decision that will have a devastating blow for South Australia. It is time to listen, not just to Labor but also to the South Australian Minister for Defence Industries and former Liberal, Martin Hamilton-Smith, who has called upon the government to defend South Australian jobs.
 
-",HoR,<title>ADJOURNMENT</title>,<title>South Australia: Manufacturing</title>,ADJOURNMENT,24,1
+",HoR,<title>ADJOURNMENT</title>,<title>South Australia: Manufacturing</title>,ADJOURNMENT,24,1,speech
 "Albanese, Anthony, MP",ALP,2014-09-24,"
 
 
@@ -3377,7 +3667,7 @@ Emanuel showed enormous courage while dealing with cancer and related illness ov
 
 His funeral at the Greek Orthodox Parish of St Nicholas saw many hundreds of people come to farewell one of Marrickville's finest citizens. We will miss his infectious laugh, love of life, friendship and loyalty. At 38 years old, Emanuel had so much more to give, and this is a tragic loss for his family and for the community. May Emanuel rest in peace.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Tsardoulias, Councillor Emanuel</title>",CONSTITUENCY STATEMENTS,26,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Tsardoulias, Councillor Emanuel</title>",CONSTITUENCY STATEMENTS,26,1,speech
 "Pasin, Tony, MP",LP,2014-09-24,"
 
 
@@ -3451,7 +3741,7 @@ Korea will eliminate, on the agreement's entry into force, its three per cent ta
 
 As you can see, Australia, and regional Australia in particular, is an enormous beneficiary from this agreement. The areas I have listed are all key industries in my electorate, and a reduction in trade barriers will lead inevitably, and thankfully, to their expansion. The expansion of these industries necessarily means an expansion of jobs, the creation of jobs, in my electorate. I am unapologetic in my support for government initiatives that encourage business and industry to create and sustain jobs. I commend this bill and this agreement to the House.
 
-",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1,speech
 "Conroy, Pat, MP",ALP,2014-09-24,"
 
 
@@ -3510,7 +3800,7 @@ So this is an FTA that Labor has decided, on the broad merits of it, is justifie
 
 I would also like to flag that I have significant concerns with how we are negotiating the Australia-China Free Trade Agreement. First off, I think it was a massive mistake by the Prime Minister to set an artificial negotiating deadline of the visit by the Chinese leadership to this country for the G20. I was in China on a delegation last month, and the Chinese were not hiding the fact that they regarded this date as a great opportunity to place pressure on Australia to accept a substandard agreement. I am voicing my concerns in advance to see what this government can deliver on the China FTA, but if that Korean FTA is any example I hold out few hopes, and I fear that we will be getting another substandard agreement. Nevertheless, Labor will support this agreement with the reservations that I have highlighted, and I thank you for the opportunity to speak.
 
-",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1,speech
 "Cobb, John, MP",Nats,2014-09-24,"
 
 
@@ -3597,7 +3887,7 @@ We have learnt over the years that protectionism does have its bad side—as wel
 
 I congratulate the minister on getting this agreement. It should have happened over the last six years, particularly for beef, but thank Heaven it has. Let us hope that, in the time to come, those issues that are not resolved will be and that we continue to be very good suppliers to and traders with the country of Korea.
 
-",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1,speech
 "MacTiernan, Alannah, MP",ALP,2014-09-24,"
 
 
@@ -3644,7 +3934,7 @@ I am really keen and enthusiastic about the beef market and opening up the packa
 
 I want to repeat that this is a very bad agreement. There has not been honesty and transparency with the Australian people about the true asymmetry of this agreement and just how broad those entitlements are going to be for Korean people to come here and, totally without labour market testing, to work here at a time when we have rising unemployment. This is a dishonest agreement and I think it augurs badly for the current raft of agreements that we know are being negotiated. I ask the government to take stock about what it is they are doing here and to not repeat this travesty in the next agreement. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1,speech
 "Varvaris, Nickolas, MP",LP,2014-09-24,"
 
 
@@ -3733,7 +4023,7 @@ Primary industries make up the backbone by which the whole of Australia is suppo
 
 Ultimately, these bills are about our longstanding support as government for the liberalisation of trade. These bills, and the free trade agreements that our government support as a whole, stem from our belief in breaking down barriers between Australia and our partners, our belief in being competitive on the international stage and our belief in job creation and staying ahead when progress is made by our competitors. These bills stem from our belief in strengthening the bilateral ties between our nation and our partners, especially our Asian partners, our belief in the openness of trade and exchange and our commitment to winning the benefits for the average Australian consumer. They demonstrate our commitment to a fair go for regional Australia and delivering benefits to the farm gate. For all these reasons, I am confident in commending these bills to the House.
 
-",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1,speech
 "Thomson, Kelvin, MP",ALP,2014-09-24,"
 
 
@@ -3792,7 +4082,7 @@ There are numerous other examples of the kinds of problems that this approach ha
 
 I also note, in closing, that Labor also has concerns about the treaty's provisions on intellectual property and that the opposition will determine its position concerning any changes to the Copyright Act when the details of that are made public.
 
-",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1,speech
 "Williams, Matt, MP",LP,2014-09-24,"
 
 
@@ -3845,7 +4135,7 @@ In other areas: the audiovisual co-production agreement will deliver new commerc
 
 I congratulate Andrew Robb and his team on the fantastic work they have done with this free trade agreement with South Korea, as well as the other work they have done with Japan and their ongoing work with China. As we know, the growth from the middle class creates great opportunities, great chances, for Australian exporters and service companies to expand internationally. We are a small market so we have to take advantage of these international opportunities where there is this growth. I am sure my South Australian federal colleague over there, the member for Makin, will be most pleased that our state—whether it be in relation to wine, resources or agriculture—can benefit from this great work by the government in delivering free trade agreements. We cannot forget that there are some benefits as well for Australian business, whether it be IP or government procurement, in the whole equation. Australian suppliers will be allowed access to the Korean government procurement market, and with IP we are making sure that Australian innovators and creative industries enjoy higher levels of protection—so important for them when they enter new markets. This is a great result for Australia, a great result for Australian exporters and companies, and we look forward to the results being achieved.
 
-",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1,speech
 "Zappia, Tony, MP",ALP,2014-09-24,"
 
 
@@ -3898,7 +4188,7 @@ This kind of agreement, in my view, will hasten the closure of the car-making in
 
 Compounding that, we now have a situation where the government is likely to walk away in a substantial way from naval shipbuilding for our Defence forces in this country. Again, particularly for South Australia, that is a critical matter, because it was the building of naval ships and submarines that offered some hope and provided some light at the end of the tunnel for those people who are likely to be made redundant from the end of car making at Elizabeth—so that they could go into a different sector to continue employment. These are matters that truly concern me.
 
-",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1,speech
 "Wilson, Rick, MP",LP,2014-09-24,"
 
 
@@ -4009,7 +4299,7 @@ As I have mentioned, the KAFTA will lead to job losses in other parts of our man
 
 The question of whether a particular trade policy or trade agreement is in the long-term best interest of the nation must always take into account opportunities to develop and grow jobs, but not at the expense of others. These are just some of the concerns I have with the KAFTA and I urge the government to negotiate a better deal for our country.
 
-",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1,speech
 "Prentice, Jane, MP",LP,2014-09-24,"
 
 
@@ -4062,7 +4352,7 @@ Federation Chamber adjourned at 12:5
 
  
 
-",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1
+",HoR,<title>BILLS</title>,<title>Customs Amendment (Korea-Australia Free Trade Agreement Implementation) Bill 2014</title>,BILLS,27,1,speech
 "Pasin, Tony, MP",LP,2014-09-24,"
 
 
@@ -4136,7 +4426,7 @@ Korea will eliminate, on the agreement's entry into force, its three per cent ta
 
 As you can see, Australia, and regional Australia in particular, is an enormous beneficiary from this agreement. The areas I have listed are all key industries in my electorate, and a reduction in trade barriers will lead inevitably, and thankfully, to their expansion. The expansion of these industries necessarily means an expansion of jobs, the creation of jobs, in my electorate. I am unapologetic in my support for government initiatives that encourage business and industry to create and sustain jobs. I commend this bill and this agreement to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
 "Conroy, Pat, MP",ALP,2014-09-24,"
 
 
@@ -4195,7 +4485,7 @@ So this is an FTA that Labor has decided, on the broad merits of it, is justifie
 
 I would also like to flag that I have significant concerns with how we are negotiating the Australia-China Free Trade Agreement. First off, I think it was a massive mistake by the Prime Minister to set an artificial negotiating deadline of the visit by the Chinese leadership to this country for the G20. I was in China on a delegation last month, and the Chinese were not hiding the fact that they regarded this date as a great opportunity to place pressure on Australia to accept a substandard agreement. I am voicing my concerns in advance to see what this government can deliver on the China FTA, but if that Korean FTA is any example I hold out few hopes, and I fear that we will be getting another substandard agreement. Nevertheless, Labor will support this agreement with the reservations that I have highlighted, and I thank you for the opportunity to speak.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
 "Cobb, John, MP",Nats,2014-09-24,"
 
 
@@ -4282,7 +4572,7 @@ We have learnt over the years that protectionism does have its bad side—as wel
 
 I congratulate the minister on getting this agreement. It should have happened over the last six years, particularly for beef, but thank Heaven it has. Let us hope that, in the time to come, those issues that are not resolved will be and that we continue to be very good suppliers to and traders with the country of Korea.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
 "MacTiernan, Alannah, MP",ALP,2014-09-24,"
 
 
@@ -4329,7 +4619,7 @@ I am really keen and enthusiastic about the beef market and opening up the packa
 
 I want to repeat that this is a very bad agreement. There has not been honesty and transparency with the Australian people about the true asymmetry of this agreement and just how broad those entitlements are going to be for Korean people to come here and, totally without labour market testing, to work here at a time when we have rising unemployment. This is a dishonest agreement and I think it augurs badly for the current raft of agreements that we know are being negotiated. I ask the government to take stock about what it is they are doing here and to not repeat this travesty in the next agreement. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
 "Varvaris, Nickolas, MP",LP,2014-09-24,"
 
 
@@ -4418,7 +4708,7 @@ Primary industries make up the backbone by which the whole of Australia is suppo
 
 Ultimately, these bills are about our longstanding support as government for the liberalisation of trade. These bills, and the free trade agreements that our government support as a whole, stem from our belief in breaking down barriers between Australia and our partners, our belief in being competitive on the international stage and our belief in job creation and staying ahead when progress is made by our competitors. These bills stem from our belief in strengthening the bilateral ties between our nation and our partners, especially our Asian partners, our belief in the openness of trade and exchange and our commitment to winning the benefits for the average Australian consumer. They demonstrate our commitment to a fair go for regional Australia and delivering benefits to the farm gate. For all these reasons, I am confident in commending these bills to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
 "Thomson, Kelvin, MP",ALP,2014-09-24,"
 
 
@@ -4477,7 +4767,7 @@ There are numerous other examples of the kinds of problems that this approach ha
 
 I also note, in closing, that Labor also has concerns about the treaty's provisions on intellectual property and that the opposition will determine its position concerning any changes to the Copyright Act when the details of that are made public.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
 "Williams, Matt, MP",LP,2014-09-24,"
 
 
@@ -4530,7 +4820,7 @@ In other areas: the audiovisual co-production agreement will deliver new commerc
 
 I congratulate Andrew Robb and his team on the fantastic work they have done with this free trade agreement with South Korea, as well as the other work they have done with Japan and their ongoing work with China. As we know, the growth from the middle class creates great opportunities, great chances, for Australian exporters and service companies to expand internationally. We are a small market so we have to take advantage of these international opportunities where there is this growth. I am sure my South Australian federal colleague over there, the member for Makin, will be most pleased that our state—whether it be in relation to wine, resources or agriculture—can benefit from this great work by the government in delivering free trade agreements. We cannot forget that there are some benefits as well for Australian business, whether it be IP or government procurement, in the whole equation. Australian suppliers will be allowed access to the Korean government procurement market, and with IP we are making sure that Australian innovators and creative industries enjoy higher levels of protection—so important for them when they enter new markets. This is a great result for Australia, a great result for Australian exporters and companies, and we look forward to the results being achieved.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
 "Zappia, Tony, MP",ALP,2014-09-24,"
 
 
@@ -4583,7 +4873,7 @@ This kind of agreement, in my view, will hasten the closure of the car-making in
 
 Compounding that, we now have a situation where the government is likely to walk away in a substantial way from naval shipbuilding for our Defence forces in this country. Again, particularly for South Australia, that is a critical matter, because it was the building of naval ships and submarines that offered some hope and provided some light at the end of the tunnel for those people who are likely to be made redundant from the end of car making at Elizabeth—so that they could go into a different sector to continue employment. These are matters that truly concern me.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
 "Wilson, Rick, MP",LP,2014-09-24,"
 
 
@@ -4694,7 +4984,7 @@ As I have mentioned, the KAFTA will lead to job losses in other parts of our man
 
 The question of whether a particular trade policy or trade agreement is in the long-term best interest of the nation must always take into account opportunities to develop and grow jobs, but not at the expense of others. These are just some of the concerns I have with the KAFTA and I urge the government to negotiate a better deal for our country.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
 "Prentice, Jane, MP",LP,2014-09-24,"
 
 
@@ -4747,4 +5037,38 @@ Federation Chamber adjourned at 12:5
 
  
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,27,2,speech
+"MacTiernan, Alannah, MP",ALP,2014-09-24,"
+
+
+
+Ms MacTiernan
+  asked the Minister for Infrastructure and Regional Development, in writing, on 26 May 2014:
+
+
+(1) Has the Western Australian Government lodged the Roe Highway Stage 8/Perth Freight Link project to Infrastructure Australia, (a) if so, on what date was it submitted and what was the result of the assessment of the project, and (b) if not, will it be required to be subject to assessment by Infrastructure Australia before federal funds are committed to the project; if not, why not. 
+
+
+(2) Has he seen the cost benefit analysis of the Roe Highway Stage 8 Project completed by the Western Australian Government; if so, on what date. 
+
+
+(3) How many vehicles will be removed from the surrounding road network by Roe Highway Stage 8, and how was this number calculated. 
+
+
+(4) What is the economic benefit of the Roe Highway Stage 8 project per dollar invested, and how was this sum calculated. 
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Perth Freight Link (Question No. 164)</title>,QUESTIONS IN WRITING,28,1,question
+"Truss, Warren, MP",Nats,2014-09-24,"
+
+
+
+Mr Truss:
+  The answer to the honourable member's question is as follows:
+
+
+(1) The Western Australian Government is preparing a business case for the project, following which the project will be considered by Infrastructure Australia.
+
+
+(2), (3)and (4) The Roe Highway Stage 8 project will form part of the Perth Freight Link project. Further detail on the overall project scope and benefits is expected to form part of the business case for the Perth Freight Link project.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Perth Freight Link (Question No. 164)</title>,QUESTIONS IN WRITING,28,1,answer

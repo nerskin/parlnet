@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Shorten, Bill, MP",ALP,2018-08-15,"
 
 
@@ -21,7 +21,7 @@ That this House:
 
 Leave granted.
 
-",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,0,1
+",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,0,1,speech
 "Smith, Tony, MP",LP,2018-08-15,"
 
 
@@ -754,7 +754,7 @@ All Members—5 minutes. each.
 The Committee determined that consideration of this should continue on a future day.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,1,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,1,1,speech
 "Smith, Tony, MP",LP,2018-08-15,"
 
 
@@ -1487,7 +1487,7 @@ All Members—5 minutes. each.
 The Committee determined that consideration of this should continue on a future day.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,1,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,1,2,speech
 "Smith, Tony, MP",LP,2018-08-15,"
 
 
@@ -1495,7 +1495,7 @@ The Committee determined that consideration of this should continue on a future 
 The SPEAKER
  (09:33):  I present the Presiding Officer's response to the report of the Joint Committee on Publications on its inquiry into printing standards for documents presented to parliament.
 
-",HoR,<title>DOCUMENTS</title>,<title>Publications Joint Committee</title>,DOCUMENTS,2,1
+",HoR,<title>DOCUMENTS</title>,<title>Publications Joint Committee</title>,DOCUMENTS,2,1,speech
 "Smith, Tony, MP",LP,2018-08-15,"
 
 
@@ -1503,7 +1503,7 @@ The SPEAKER
 The SPEAKER
  (09:33):  I present the Presiding Officer's response to the report of the Joint Committee on Publications on its inquiry into printing standards for documents presented to parliament.
 
-",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,2,2
+",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,2,2,speech
 "Tehan, Dan, MP",LP,2018-08-15,"
 
 
@@ -1619,7 +1619,7 @@ This bill will provide greater certainty to all Australians who want to undertak
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Student Reform) Bill 2018</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Student Reform) Bill 2018</title>,BILLS,3,1,speech
 "Robert, Stuart, MP",LP,2018-08-15,"
 
 
@@ -1667,7 +1667,7 @@ The report also contains the committee's review of four non- or minor treaty act
 
 On behalf of the committee, I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Joint Standing Committee on Treaties</title>,COMMITTEES,4,1
+",HoR,<title>COMMITTEES</title>,<title>Joint Standing Committee on Treaties</title>,COMMITTEES,4,1,speech
 "Robert, Stuart, MP",LP,2018-08-15,"
 
 
@@ -1715,7 +1715,7 @@ The report also contains the committee's review of four non- or minor treaty act
 
 On behalf of the committee, I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2,speech
 "Dreyfus, Mark, MP",ALP,2018-08-15,"
 
 
@@ -1744,7 +1744,7 @@ To return to this bill, this bill complements guidelines issued by the Attorney-
 
 Labor supports this bill, because the sunsetting framework helps to keep the statute books free from redundant instruments. I note that the sunsetting framework put in place by this bill does not apply to acts of parliament but only to regulations. However, this bill is primarily about improving housekeeping of statute books, rather than reducing regulation as the government has suggested. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Legislation Amendment (Sunsetting Review and Other Measures) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Legislation Amendment (Sunsetting Review and Other Measures) Bill 2018</title>,BILLS,5,1,speech
 "Tehan, Dan, MP",LP,2018-08-15,"
 
 
@@ -1758,7 +1758,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Legislation Amendment (Sunsetting Review and Other Measures) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Legislation Amendment (Sunsetting Review and Other Measures) Bill 2018</title>,BILLS,5,1,speech
 "Tehan, Dan, MP",LP,2018-08-15,"
 
 
@@ -1775,7 +1775,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Legislation Amendment (Sunsetting Review and Other Measures) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Legislation Amendment (Sunsetting Review and Other Measures) Bill 2018</title>,BILLS,5,1,speech
 "Dreyfus, Mark, MP",ALP,2018-08-15,"
 
 
@@ -1804,7 +1804,7 @@ To return to this bill, this bill complements guidelines issued by the Attorney-
 
 Labor supports this bill, because the sunsetting framework helps to keep the statute books free from redundant instruments. I note that the sunsetting framework put in place by this bill does not apply to acts of parliament but only to regulations. However, this bill is primarily about improving housekeeping of statute books, rather than reducing regulation as the government has suggested. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Tehan, Dan, MP",LP,2018-08-15,"
 
 
@@ -1818,7 +1818,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Shorten, Bill, MP",ALP,2018-08-15,"
 
 
@@ -1899,7 +1899,7 @@ The SPEAKER:  Is the motion seconded?
 Ms Plibersek:
   I second the motion and reserve my right to speak.
 
-",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1,speech
 "Turnbull, Malcolm, MP",LP,2018-08-15,"
 
 
@@ -1929,7 +1929,7 @@ The Leader of the Opposition said perhaps we should not say too much about the s
 
 Honourable members:  Hear, hear! 
 
-",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1,speech
 "Plibersek, Tanya, MP",ALP,2018-08-15,"
 
 
@@ -1997,7 +1997,7 @@ Nearly one million Australians fought fascism during the Second World War. Some 
 
 … to forget the dead would be akin to killing them a second time.
 
-",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1,speech
 "Dutton, Peter, MP",LP,2018-08-15,"
 
 
@@ -2029,7 +2029,7 @@ We wouldn't be able to bring the 12,000 Syrians—or the Sora family, who I met 
 
 Today we celebrate what is great about our country. We turn it into an opportunity to talk about the success not just of the Chinese migrants growing up in my community in the seventies but also of those people who have been here for generations before that. Regardless of their path or their means to our country, people have made a wonderful contribution. We owe them a lot for what they have contributed. We work with them shoulder to shoulder to protect our values and to protect our future. Today we call out that which is wrong, that Senator Anning has detailed as his view in the Senate. We work together and we renew our efforts to make sure that this country remains as great as it has always been. I'm very pleased to join with the Prime Minister, the Leader of the Opposition, the deputy leader and subsequent speakers on this very important topic.
 
-",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1,speech
 "Husic, Ed, MP",ALP,2018-08-15,"
 
 
@@ -2052,7 +2052,7 @@ I will end on this observation. People ask me whether, because of my Muslim fait
 
 There are a lot of people in different parts of the world who want to make their country great again. We've already got a great country. We can make it better, and we can make it better by working together and not focusing on the division and not focusing—if I can make this remark—on ignoring words that are used in a debate that have in times past caused great pain to people. When you use those two words 'final solution'—and I spend time with my great friends from the Jewish community, and I know the pain that they've gone through and that they've felt—you don't want that on anyone else, and you certainly don't want to remind people of the pain that they have been through. We are going to use this as a moment to recognise the great things about our country, but call out the times when we've made those missteps and say we can do better.
 
-",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1,speech
 "McCormack, Michael, MP",Nats,2018-08-15,"
 
 
@@ -2114,7 +2114,7 @@ Mr McCORMACK:
 
 I know that each and every one of the people in this chamber and, I would say, just about every person in this nation today, is as one in condemning those words spoken with hate last night. To talk about the final solution—and I know the member for Isaacs would feel this particularly—was absolutely dreadful. I've just finished watching a documentary series on it. We've all watched The Boy in the Striped Pyjamas. We've all watched Schindler's List, as the minister for immigration mentioned. Those atrocities that took place in World War II were not just felt then; they are still being felt today; and they will be felt for as long as decent humans walk this earth. It was atrocious. To even utter those words anywhere, let alone in this house of democracy, is dreadful. It is evil. We are a fine nation. We are the best nation on earth. The member for Chifley said: 'We don't need to make Australia great. We're already great.' This motion today proves that. 
 
-",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1,speech
 "Aly, Anne, MP",ALP,2018-08-15,"
 
 
@@ -2138,7 +2138,7 @@ Honourable members:  Hear, hear!
 Dr ALY:
   Thank you for that. It means a lot. It means a lot to me. It means a lot to my kids. It means a lot to my mum, who was told to stand at the back of the line every time she went to get on a bus, while she struggled with two toddlers, and to repeatedly say her pleases and thankyous before she was allowed on that bus. This today means something. It means something to Australia. It means something that all of us here stand up against this racism, stand up against this hatred and stand up against the disgraceful use of that terminology. That neo-nazi, white supremacist terminology wasn't an accident. I won't accept that that was an accident. That was the deliberate use of a heinous term which brings back so many painful memories and sets a precedent for the future of our country that we need to stand up and stop. I just want to rise here today and say thank you. I'm not going to read any of this speech that I wrote. I just want to say thank you to our leaders for showing that leadership.
 
-",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1,speech
 "Tudge, Alan, MP",LP,2018-08-15,"
 
 
@@ -2167,7 +2167,7 @@ Many of Senator Anning's comments were factually ignorant, but there were other 
 
 We live in a terrific nation. It is a proudly multicultural country where we welcome people from around the world. We've got to work to continue to maintain this social cohesion, and I hope that all Australians today will hear very loudly the government, led by the Prime Minister, and the opposition, led by the member for Maribyrnong, calling out divisive comment and racially based comment, and saying that we will always maintain a non-discriminatory immigration program.
 
-",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1,speech
 "Bandt, Adam, MP",AG,2018-08-15,"
 
 
@@ -2199,7 +2199,7 @@ I also want to, lastly, just say that we've been trading barbs about a number of
 
 Lastly, I'd like to end by doing something that's often done at the beginning, which is to acknowledge the traditional owners of the land. To say that this galls me is an understatement: how can someone be so wilfully blind to this country's history as to talk about Australia being a white-only country when we have a black history? If the senator wants to talk about saying, 'Well, go back to where you came from,' he's probably included in that category as well, as is every one of us who's not an Aboriginal or Torres Strait Islander. Many of them must be looking at the things that he is saying with the same kind of revulsion. I know that there's a lot of work going on between the Aboriginal and Torres Strait Islander community and members of the African communities in my electorate and in Melbourne more broadly at the moment. But I think it's appropriate to acknowledge the traditional owners of this country and pay respects to them.
 
-",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1,speech
 "Wilkie, Andrew, MP",IND,2018-08-15,"
 
 
@@ -2219,7 +2219,7 @@ To pick up on the points made by the member for Melbourne so eloquently, comment
 
 Question agreed to.
 
-",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1
+",HoR,<title>MOTIONS</title>,<title>Migration</title>,MOTIONS,6,1,speech
 "Vasta, Ross (The DEPUTY SPEAKER)",LP,2018-08-15,"
 
 
@@ -2233,7 +2233,7 @@ Mr Vasta
 
 That the time for the presentation of the report of the Joint Standing Committee on Foreign Affairs, Defence and Trade on its inquiry into PFAS contamination be extended to 25 October 2018.
 
-",HoR,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,7,1
+",HoR,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,7,1,speech
 "Vasta, Ross (The DEPUTY SPEAKER)",LP,2018-08-15,"
 
 
@@ -2247,7 +2247,7 @@ Mr Vasta
 
 That the time for the presentation of the report of the Joint Standing Committee on Foreign Affairs, Defence and Trade on its inquiry into PFAS contamination be extended to 25 October 2018.
 
-",HoR,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,7,2
+",HoR,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,7,2,speech
 "Clare, Jason, MP",ALP,2018-08-15,"
 
 
@@ -2261,7 +2261,51 @@ This morning, a lot of people in my electorate would have woken up and heard wha
 
 I want my community to know that today this parliament stood up and condemned him and the awful things he said—and so we should. When people spew out that sort of rancid, racist bile, all of us here have an obligation to stand up, to speak out and to condemn it. What he said was dangerous because it's got the potential to divide us; what he said was painful because he used words that dragged up memories of the most evil act in human history; and what he said was just plain wrong. But I also want the people of my electorate to know that this is a bloke who won only 19 votes at the last election. He doesn't represent us. He barely represents anybody.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,"<title>Anning, Senator Fraser</title>",STATEMENTS BY MEMBERS,9,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,"<title>Anning, Senator Fraser</title>",STATEMENTS BY MEMBERS,9,1,speech
+"Shorten, Bill, MP",ALP,2018-08-15,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:01):  My question is to the Prime Minister. Today's disappointing ABS wages data confirms that this Prime Minister continues to preside over record-low wages growth. Given that everything is going up except people's wages, why is the Prime Minister making it even harder for working Australians to make ends meet by supporting unilateral cuts to penalty rates? Why does the Prime Minister only ever look after the top end of town?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,10,1,question
+"Turnbull, Malcolm, MP",LP,2018-08-15,"
+
+
+
+Mr TURNBULL
+ (Wentworth—Prime Minister) (14:01):  The Wage Price Index increased by 0.6 per cent in the June quarter. That's the fastest quarterly increase since March 2014. While the growth in average wages has been relatively low, we have turned the corner on wages growth, and the increase in the June quarter is an indication of that. I repeat: it's the fastest quarterly increase since March 2014. As the Reserve Bank governor said only a week or so ago:
+
+
+… the rate of wages growth appears to have troughed and there are increased reports of skills shortages in some areas.
+
+
+The relatively modest wage growth shows again why our personal income tax relief of $530 this year for middle-income families or taxpayers is so important. It also underlines the importance of strong jobs growth. We are starting to see a pickup in wages growth because of more demand for labour. The laws of supply and demand have not been suspended. The Reserve Bank governor notes that. We're seeing more demand for labour. We're seeing skills shortages starting to develop in some areas, hence wages are starting to move up. That means we need to maintain the momentum for strong economic growth. All of that growth we have seen has been driven and enabled by our economic policies. We're bringing down energy prices. Companies are paying lower taxes. Individuals are paying less tax. Small and medium firms are investing and hiring. That is why last calendar year we saw the largest jobs growth in any calendar year in Australia's history. We are delivering more jobs and stronger economic growth, and that is starting to be reflected, as the Reserve Bank governor foreshadowed, in the wage growth figure, which, as I said, is the fastest quarterly increase since March 2014.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,10,1,answer
+"Goodenough, Ian, MP",LP,2018-08-15,"
+
+
+
+Mr GOODENOUGH
+ (Moore) (14:34):  My question is to the Minister for Revenue and Financial Services. Will the minister update the House on how the government is ensuring the future prosperity of all Australians, including those in my electorate of Moore? Is the minister aware of any threats posed by alternative approaches? 
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,12,1,question
+"O'Dwyer, Kelly, MP",LP,2018-08-15,"
+
+
+
+Ms O'DWYER
+ (Higgins—Minister for Revenue and Financial Services, Minister for Women and Minister Assisting the Prime Minister for the Public Service) (14:35):  I thank the member for his question and for hosting me in his electorate only a few weeks ago. I would like to publicly congratulate him for the very fine work that he is doing, because he is delivering, and delivering more, for his constituents of Moore. He is delivering more tax relief for small, medium- and family-sized enterprises—around 15,000—in his electorate of Moore. And he is delivering more tax relief for those hardworking Australians, around 65,000 of them, who work hard every day and who will benefit from our personal income tax relief that has been legislated through both houses of this parliament. He understands that people work hard for their money and that they deserve to keep more of it, after we secure the essentials that government needs to deliver. Of course, part of the government's personal income tax plan is to ensure that nine out of 10 Australians will pay a marginal tax rate of no more than 32½c in the dollar. 
+
+
+The member asks me about alternative approaches. Well, he would probably be aware that the Leader of the Opposition does see things rather differently. He would like to saddle his fellow Australians with more than $200 billion of new taxes. He would like to slug the Australian economy with over $200 billion of new taxes. And why is this? Because not only is the Leader of the Opposition short on authenticity, as he made very clear through the hot mic incident in Queensland, but he is also short on ideas. He is short on ideas about how to build the economy, how to manage the Australian economy, how to grow the Australian economy. To him, economic policy simply means all of the multiple ways that he can reach in and pick your pocket. 
+
+
+Let's just take the mega retiree tax as just one example, because this is not just picking a pocket. This is a smash-and-grab on retirees right across the country—a $55 billion smash-and-grab on them—and it will punish around a million Australians, if he has his way. It will see the potential reduction for these Australians of around 30 per cent of their income, if they do not get their tax refunds. He does not want to encourage aspirational self-reliance In fact, he wants to see more people on welfare, not less, because he claims it's all about fairness. But these people are some of the most vulnerable people in this country. They are low-income earners. They cannot afford his tax slug, and he shouldn't be allowed to get away with it. (Time expired)
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,12,1,answer
 "Smith, Tony, MP",LP,2018-08-15,"
 
 
@@ -2283,7 +2327,7 @@ I call on all honourable members who approve of the proposed discussion to rise 
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Rishworth, Amanda, MP",ALP,2018-08-15,"
 
 
@@ -2321,7 +2365,7 @@ This minister has form. He treats early education like every other part of the e
 
 It is time the minister commits to funding our preschools. It's time he commits to the quality agenda. If the banks need certainty, our preschools certainly do. Let's see the minister lock in money for a decade for our preschools and then we will know he is serious about early education. Until he does that, he is failing the children and families of Australia.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Gillespie, David, MP",Nats,2018-08-15,"
 
 
@@ -2366,7 +2410,7 @@ But it is so important that you understand that the coalition government, whethe
 
 Historically you might have had some runs on the board, but what's happening now is so much better than the old system. I've had children in preschools, in family day care and in group day care. It is much better now. Looking at what we had to go through when my children were little and now, it is so much better now. We are allowing working mums and dads to work so that they can save hard and get ahead. That is what we are trying to do—empowering families. Life is hard if you've got a big mortgage, if you've got a big commute or if you've got big fiscal responsibilities for your family, and working is essential, and this childcare system allows them to do that. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Thistlethwaite, Matt, MP",ALP,2018-08-15,"
 
 
@@ -2395,7 +2439,7 @@ This program is pretty important—350,000 preschoolers across Australia rely on
 
 We've seen some pretty bad decisions from the Turnbull government, but this one would have to take the cake. Labor is opposed to this because in government we established federal funding for this program. We instituted the first national preschool and kindy program agreement, which was signed by Labor in 2008, and preschool enrolment increased from 77 per cent through to the 93 per cent it is at today. That one figure alone is proof that this program is working. It's proof that this program is getting more kids into early childhood education and providing them with the foundational support they need for a good education. For this minister and this government to be risking that program by cutting that funding is despicable and must be opposed.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Leeser, Julian, MP",LP,2018-08-15,"
 
 
@@ -2421,7 +2465,7 @@ It's important to think about what Labor have done to improve early-childhood ed
 
 In 2016, Labor offered only expensive election bandaids to the old, broken system which would have delivered an annual windfall of up to $176 million to families earning over $250,000, at the expense of low- to middle-income working families. Labor haven't learnt the lesson from their previous term in government. They stood by while childcare fees increased by 53 per cent under their six years of government, without taking the necessary action to fix it. We're now taking that action. Labor failed to deliver their promise to build 260 new childcare centres and end the double drop-off. We remember Kevin Rudd talking about that. They only built 38. Labor totally dropped the ball on compliance. Under Labor, in the two years to June 2013, there were no cancellations, no suspensions and only two fines issued. Compliance checks fell from 763 to 523—a paltry effort compared to this government's 4½ thousand checks in the last financial year. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Bird, Sharon, MP",ALP,2018-08-15,"
 
 
@@ -2441,7 +2485,7 @@ I visited the Smith Street Children's Centre last week in my own electorate. I k
 
 So it is absolutely shocking that the government will not give a long-term commitment to that preschool opportunity. What they have been doing is rolling it over, year by year. That means that, if you go to enrol your little one in a school, you won't know whether the preschool program being run in that centre will still be available by the time your little one gets to that point, because the government won't give long-term certainty. It is, I would suggest, something that they can't just push off until after an election—which I think what's been exposed with the budget papers makes us cynical about. It's got to be a commitment. Parents and families in my electorate and the centres that I visit and the parents I talk to want to know now that this government is going to give a long-term commitment to preschool education, a long-term commitment to their kids and a long-term commitment to all of our best interests in having a really well-educated population for the future.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Crewther, Chris, MP",LP,2018-08-15,"
 
 
@@ -2461,7 +2505,7 @@ So this MPI is a continual scare campaign, and it is utterly disgraceful. As Min
 
 The member for Kingsford Smith referred to TheAustralian Financial Review having confirmed the budget paper. These are points that the minister actually sent through at the time, noting that this is not true. The story has actually been running for months across Australia as various union groups try to push it with local newspapers. 'That's a saving of more than $440 million,' it said. No— (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Perrett, Graham, MP",ALP,2018-08-15,"
 
 
@@ -2488,7 +2532,7 @@ To have a policy where the government is effectively walking away from 350,000 A
 
 In the face of this mountain of evidence, what do we see? We see this government, under Prime Minister Turnbull, decide to rip $440 million away from preschool funding. In a tight budget situation, $440 million might seem like a lot. However, on a whim, the Prime Minister was able to find $444 million in the space of nine days and hand it over to basically outsource the process of looking after the Great Barrier Reef. I'm not taking anything away from the Great Barrier Reef Foundation. They do good work and they're worth supporting. But we need to have a proper process. We know from Gonski and beyond, and all that study, that investing in education gives you a return. Who knows what Nobel prizes could have been won—maybe into studying the reef—if we'd invested in that early childhood education? Incredible! There are two different approaches to $444 million that the Prime Minister can take: he has a chance to help out 350,000 Australian pre-schoolers, or to hand it to the top end of town. And what does he do?
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Robert, Stuart, MP",LP,2018-08-15,"
 
 
@@ -2520,7 +2564,7 @@ Mr ROBERT:
 
 The opposition voted against 8,739 families in my electorate. In 2016 Labor offered only expensive election bandaids to the old broken system—a system that saw childcare fees under those opposite increase by 53 per cent. Facts hurt. They are not in dispute. I was here when those opposite offered 260 new childcare centres. They were going to get rid of the double drop-off. I was here; 10 years ago we were offered that. Only 38 were built, and there we are: they completely and utterly dropped the ball. What a joke of an MPI!
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Kearney, Ged, MP",ALP,2018-08-15,"
 
 
@@ -2552,7 +2596,7 @@ We on this side of the House get it. I especially do. As I told the House yester
 
 My kids went to kinder in our local area—Clyde Street Kindergarten, actually. It gave them social and education skills to get them school ready. All kids deserve this opportunity, especially disadvantaged kids, as early education means their future holds more opportunities and choices, like finishing school, getting a decent job, and fulfilling their hopes and dreams. Today, along with the parents in my community, early educators, unions, grandparents and many kids themselves, I call on the government to fix the mess they have created. What could be more important than equalising opportunity right from the start by providing early education to all our kids?
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Ley, Sussan, MP",LP,2018-08-15,"
 
 
@@ -2581,7 +2625,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  The discussion is now concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Early Education</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Hart, Ross, MP",ALP,2018-08-15,"
 
 
@@ -2637,7 +2681,7 @@ I look forward to maintaining the high standard of committee work over the comin
 
 I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,15,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,15,1,speech
 "Hart, Ross, MP",ALP,2018-08-15,"
 
 
@@ -2693,7 +2737,7 @@ I look forward to maintaining the high standard of committee work over the comin
 
 I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2,speech
 "Bandt, Adam, MP",AG,2018-08-15,"
 
 
@@ -2710,7 +2754,7 @@ We have chosen, wrongly, not to regulate shipping in our region, and as a result
 
 There are many things that can be done now, without this legislation passing, that have led to the decimation of Australian shipping, as we've seen, but this bill will take it even further. There are not many bills that come before parliament and say, 'Our aim is to enable people to have lower wages and conditions than might otherwise apply and to enable people to opt out of the small amount of regulation that might apply to protect our environment and our workforce,' but that's exactly what this bill does. That's why this bill can't be supported and we need to go back to the drawing board. When we go back to the drawing board and consider how we're going to deal with Australian shipping, we should look to the other countries that are doing it well—the other countries that have built up an industry, contrary to the intention of this bill and the direction that we've been going in under Labor and Liberal. It's not right that as an island country we just say, 'We'll leave it up to other countries to register our ships and crew our ships as they sail through our waters.' We have an opportunity here, if we're a bit sensible about it, to rebuild the Australian shipping industry. I would hope that, if this bill proceeds to the other place, the scrutiny that's going to be brought to bear on it there will prompt the government to go back to the drawing board and have a rethink of this terrible bill.
 
-",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1,speech
 "McCormack, Michael, MP",Nats,2018-08-15,"
 
 
@@ -2752,7 +2796,7 @@ I want to acknowledge the shadow minister's contribution and his proposed amendm
 
 The SPEAKER:  The original question was that this bill be now read a second time. To this the honourable member for Grayndler has moved as an amendment that all words after 'That' be omitted with a view to substituting other words. The immediate question is that the amendment moved by the member for Grayndler be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1,speech
 "Smith, Tony, MP",LP,2018-08-15,"
 
 
@@ -2760,7 +2804,7 @@ The SPEAKER:  The original question was that this bill be now read a second time
 The SPEAKER
  (16:42):  The question is that this bill be now read a second time.
 
-",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1,speech
 "Albanese, Anthony, MP",ALP,2018-08-15,"
 
 
@@ -2789,7 +2833,7 @@ The ultimate voyage carried out may bear no resemblance to the original voyage f
 
 AIMPE are right in their submission, and that is why this amendment should be carried. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1,speech
 "McCormack, Michael, MP",Nats,2018-08-15,"
 
 
@@ -2806,7 +2850,7 @@ I want to tell the House that Australian seafarer jobs have been declining and w
 
 The amendments in this bill—the original reforms—will make no change to the pay and conditions of seafarers, and that is important to note. The reforms do not alter the workforce entitlements of Australian seafarers, to whom part A of the Seagoing Industry Award 2010, the modern award, will continue to apply. Nor do they alter the coverage of foreign seafarers. For seafarers on foreign flagged vessels, the wages and conditions currently set out in part B of the Seagoing Industry Award 2010 will continue to apply from the third voyage of their ship onwards in Australian waters over a 12-month period. By recording the IMO number of vessels being used, additional information will be available to determine when those entitlements are payable. This is good reform. We've talked about it for long enough and it's time for this reform to take place. 
 
-",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1,speech
 "Albanese, Anthony, MP",ALP,2018-08-15,"
 
 
@@ -2865,7 +2909,7 @@ What you have here is an Australian based industry—Coral Sea Expeditions, whic
 
 When Mr Milby raised this question originally, when these sorts of provisions were in the act put forward by former minister Warren Truss, which were rejected in the Senate, he was told: 'What you should do is take the Australian flag off your ship, reflag it with a foreign flag and replace your Australian crew with a foreign crew being paid foreign wages. That's the way in which you can continue to compete.' That is explicitly what they said. And today, in his one contribution to the debate about this amendment, the minister said that seafarer jobs would continue to be in decline. Well, why is it, Minister, that for an island continent you are promoting legislation that you say will result in a decline in jobs for Australian seafarers? There are real implications behind that. I think you're better than that, and you can do better than this legislation.
 
-",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1,speech
 "McCormack, Michael, MP",Nats,2018-08-15,"
 
 
@@ -2889,7 +2933,7 @@ That the question be now put.
 
 The SPEAKER:  The question is that the question be now put.
 
-",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1,speech
 "Smith, Tony, MP",LP,2018-08-15,"
 
 
@@ -2897,7 +2941,7 @@ The SPEAKER:  The question is that the question be now put.
 The SPEAKER
  (17:19):  The question now is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1,speech
 "Albanese, Anthony, MP",ALP,2018-08-15,"
 
 
@@ -3007,7 +3051,7 @@ The DEPUTY SPEAKER:  Yes. I call the member for Shortland.
 Mr McCormack:
   Please, let's hear from the member for Shortland!
 
-",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1,speech
 "Conroy, Pat, MP",ALP,2018-08-15,"
 
 
@@ -3039,7 +3083,7 @@ It's not just about Australian jobs and maintaining an Australian industry. We'r
 
 As the shadow minister's already foreshadowed, we're open to discussions with the superyacht industry about how we facilitate the growth of that industry, but you don't do it by further attacks on Australia's shipping industry, further attacks on our proud maritime tradition. So I urge that Labor's amendments be supported. I urge this government to go back to the drawing board. I acknowledge that the minister in the past has acknowledged that we need a bipartisan settlement. We need a bipartisan policy solution that will survive changes of government. That is the only way you're going to get investment in new Australian ships, staffed by Australian seafarers. But this bill is not the way to do it, so I urge them to go back to the drawing board and come back with something that is actually workable and fair and that will promote Australian seafarers.
 
-",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1,speech
 "Albanese, Anthony, MP",ALP,2018-08-15,"
 
 
@@ -3077,7 +3121,7 @@ The shipping industry also has consequences for our coastal trading regime to ta
 
 There are a whole range of reasons that this legislation is flawed and should be rejected. The particular amendment we're debating shows that the government is so ideologically determined that they're prepared to redefine the whole definition of a voyage rather than apply a bit of common sense. This isn't the current minister's legislation, nor even the member for New England's legislation, but there has been no consultation with the opposition over this. When this was introduced—a long time ago now; more than a year—before even I gave my second reading speech I moved a procedural resolution to dismiss this and to have a proper consultation process, because I recognise that a bipartisan position would be far preferable. This is unsupportable. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1,speech
 "Conroy, Pat, MP",ALP,2018-08-15,"
 
 
@@ -3107,7 +3151,7 @@ We can honour the legacy of the former member for Wide Bay without continuing th
 
 The SPEAKER:  The question is that amendment (3), moved by the member for Grayndler, be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1,speech
 "Albanese, Anthony, MP",ALP,2018-08-15,"
 
 
@@ -3206,7 +3250,7 @@ And I say this: the party of Black Jack McEwen and the party of Doug Anthony wou
 
 The fact is that not only are you saying, 'Oh, well, that's fair, we won't recognise there's a difference there'; you're also changing the rules in this legislation to make it harder for the Australian based ship to compete. There are real consequences. We won't have an Australian maritime skills base. We're an island continent, for goodness sake! The idea that that doesn't matter is just absurd. I say to the minister that there is an opportunity now to point to a single positive measure in this legislation that says, 'This is in the interests of Australian ships' capacity to compete.'
 
-",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1,speech
 "Conroy, Pat, MP",ALP,2018-08-15,"
 
 
@@ -3226,7 +3270,7 @@ We need to go back to the drawing board. We need to embrace bipartisanship. We n
 
 This bill will lead to the denudation of the Australian seafaring industry. It will imperil our environment, it will no doubt lead to more Pasha Bulker incidents, it will no doubt lead to the Great Barrier Reef being endangered again and it will no doubt lead to all sorts of other negative consequences for maritime safety and the maritime environment. That's a great, great danger of this bill. We had a great tragedy where we had four deaths on flag-of-convenience vessels in the Port of Newcastle in the last few years. Unfortunately, this bill will weaken the current safeguards. The minister needs to go back to the drawing board. He needs to consult with the opposition. He needs to consult, heaven forbid, with the Australian shippers. He needs find a solution that can be bipartisan and that can represent a genuine investment in the Australian shipping industry, rather than repeating Work Choices on water.
 
-",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1,speech
 "Albanese, Anthony, MP",ALP,2018-08-15,"
 
 
@@ -3307,7 +3351,7 @@ These are real consequences for the individuals involved, but there are real con
 
 The SPEAKER:  The question is that opposition amendments (2) and (4) to (14) as circulated by the member for Grayndler be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1,speech
 "Smith, Tony, MP",LP,2018-08-15,"
 
 
@@ -3315,7 +3359,7 @@ The SPEAKER:  The question is that opposition amendments (2) and (4) to (14) as 
 The SPEAKER
  (18:44):  The question is that the bill be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1,speech
 "McCormack, Michael, MP",Nats,2018-08-15,"
 
 
@@ -3332,7 +3376,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Coastal Trading (Revitalising Australian Shipping) Amendment Bill 2017</title>,BILLS,16,1,speech
 "Bandt, Adam, MP",AG,2018-08-15,"
 
 
@@ -3349,7 +3393,7 @@ We have chosen, wrongly, not to regulate shipping in our region, and as a result
 
 There are many things that can be done now, without this legislation passing, that have led to the decimation of Australian shipping, as we've seen, but this bill will take it even further. There are not many bills that come before parliament and say, 'Our aim is to enable people to have lower wages and conditions than might otherwise apply and to enable people to opt out of the small amount of regulation that might apply to protect our environment and our workforce,' but that's exactly what this bill does. That's why this bill can't be supported and we need to go back to the drawing board. When we go back to the drawing board and consider how we're going to deal with Australian shipping, we should look to the other countries that are doing it well—the other countries that have built up an industry, contrary to the intention of this bill and the direction that we've been going in under Labor and Liberal. It's not right that as an island country we just say, 'We'll leave it up to other countries to register our ships and crew our ships as they sail through our waters.' We have an opportunity here, if we're a bit sensible about it, to rebuild the Australian shipping industry. I would hope that, if this bill proceeds to the other place, the scrutiny that's going to be brought to bear on it there will prompt the government to go back to the drawing board and have a rethink of this terrible bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "McCormack, Michael, MP",Nats,2018-08-15,"
 
 
@@ -3391,7 +3435,7 @@ I want to acknowledge the shadow minister's contribution and his proposed amendm
 
 The SPEAKER:  The original question was that this bill be now read a second time. To this the honourable member for Grayndler has moved as an amendment that all words after 'That' be omitted with a view to substituting other words. The immediate question is that the amendment moved by the member for Grayndler be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "Smith, Tony, MP",LP,2018-08-15,"
 
 
@@ -3399,7 +3443,7 @@ The SPEAKER:  The original question was that this bill be now read a second time
 The SPEAKER
  (16:42):  The question is that this bill be now read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "Fletcher, Paul, MP",LP,2018-08-15,"
 
 
@@ -3575,7 +3619,7 @@ On behalf of the government, I express thanks to those stakeholders who provided
 
 I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Enhancing Online Safety (Non-consensual Sharing of Intimate Images) Bill 2018</title>,BILLS,18,1
+",HoR,<title>BILLS</title>,<title>Enhancing Online Safety (Non-consensual Sharing of Intimate Images) Bill 2018</title>,BILLS,18,1,speech
 "Rowland, Michelle, MP",ALP,2018-08-15,"
 
 
@@ -3679,7 +3723,7 @@ So called revenge porn should be a crime across Australia but it is not. Crimina
 
 Labor is pleased that we have finally reached the point of making those words a reality.
 
-",HoR,<title>BILLS</title>,<title>Enhancing Online Safety (Non-consensual Sharing of Intimate Images) Bill 2018</title>,BILLS,18,1
+",HoR,<title>BILLS</title>,<title>Enhancing Online Safety (Non-consensual Sharing of Intimate Images) Bill 2018</title>,BILLS,18,1,speech
 "Wallace, Andrew, MP",LP,2018-08-15,"
 
 
@@ -3717,7 +3761,7 @@ I've worked with the relevant ministers to explore what more we can do to crimin
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Enhancing Online Safety (Non-consensual Sharing of Intimate Images) Bill 2018</title>,BILLS,18,1
+",HoR,<title>BILLS</title>,<title>Enhancing Online Safety (Non-consensual Sharing of Intimate Images) Bill 2018</title>,BILLS,18,1,speech
 "Fletcher, Paul, MP",LP,2018-08-15,"
 
 
@@ -3893,7 +3937,7 @@ On behalf of the government, I express thanks to those stakeholders who provided
 
 I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2,speech
 "Rowland, Michelle, MP",ALP,2018-08-15,"
 
 
@@ -3997,7 +4041,7 @@ So called revenge porn should be a crime across Australia but it is not. Crimina
 
 Labor is pleased that we have finally reached the point of making those words a reality.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2,speech
 "Wallace, Andrew, MP",LP,2018-08-15,"
 
 
@@ -4035,7 +4079,7 @@ I've worked with the relevant ministers to explore what more we can do to crimin
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2,speech
 "Leigh, Andrew, MP",ALP,2018-08-15,"
 
 
@@ -4061,7 +4105,7 @@ When you turn to boards, we see an even larger gender pay gap. Women currently c
 
 It's important that we bring more prominence to the research around this important work being done on flexible work by Claudia Goldin and work on risk by Alison Booth. Michelle Ryan and Alexander Haslam have done studies on the notion of a glass cliff—that women may be promoted to top roles in times of trouble, with Kim Campbell, Jill Abramson, Marissa Mayer, Joan Kirner and Carmen Lawrence being examples that immediately come to mind.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Gender Equity</title>,ADJOURNMENT,19,1
+",HoR,<title>ADJOURNMENT</title>,<title>Gender Equity</title>,ADJOURNMENT,19,1,speech
 "Leigh, Andrew, MP",ALP,2018-08-15,"
 
 
@@ -4099,4 +4143,4 @@ Senator McCarthy, personally, does not support the current proposal for euthanas
 
 As I made clear in this House in a speech on 17 August 2015, I'm personally a supporter of euthanasia—like four in five Australians, including four out of five Anglicans, three out of four Catholics and nine out of 10 Australians of no religion. It ought to be viewed fully as an issue of territories' rights. I find it shocking that Senator Seselja, who is meant to stand up for the ACT, did not take the position taken by his Liberal predecessor Kate Carnell but has instead chosen to vote to restrict the democratic rights of Canberrans. This is about restricting the rights of territorians. Territorians should not have their rights restricted in this way. We need to repeal the Andrews bill, which is what my private member's bill with Luke Gosling aims to do. (Time expired)
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Euthanasia</title>,CONSTITUENCY STATEMENTS,21,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Euthanasia</title>,CONSTITUENCY STATEMENTS,21,1,speech

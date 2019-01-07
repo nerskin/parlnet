@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2017-12-07,"
 
 
@@ -7,7 +7,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (09:31):  I remind senators the question may be put on any proposal at the request of any senator.
 
-",Senate,<title>COMMITTEES</title>,<title>Environment and Communications References Committee</title>,COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,<title>Environment and Communications References Committee</title>,COMMITTEES,1,1,speech
 "PRESIDENT, The",,2017-12-07,"
 
 
@@ -16,7 +16,7 @@ The PRESIDENT
 The PRESIDENT
  (09:31):  I remind senators the question may be put on any proposal at the request of any senator.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -82,7 +82,7 @@ There have been four hearings of the Senate Education and Employment Legislation
 
 A government senator:  Well done.
 
-",Senate,<title>STATEMENTS</title>,<title>Minister for Employment</title>,STATEMENTS,2,1
+",Senate,<title>STATEMENTS</title>,<title>Minister for Employment</title>,STATEMENTS,2,1,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -183,7 +183,7 @@ This is a cover-up. This is a cover-up the likes of which I have never seen in t
 
 Again I call on the AFP, if it wants to make a public interest immunity claim, to do so. This minister should stand aside. This minister has got no credibility. This minister has got no capacity to stand here and lecture anyone. This minister has got no authority to take any claims against anyone while she is under criminal investigation, when her office is under criminal investigation, when she misuses her power, when she trashes the Westminster system. This minister should resign. This minister should go. This minister is an absolute disgrace. She is unacceptable in that position. (Time expired)
 
-",Senate,<title>STATEMENTS</title>,<title>Minister for Employment</title>,STATEMENTS,2,1
+",Senate,<title>STATEMENTS</title>,<title>Minister for Employment</title>,STATEMENTS,2,1,speech
 "Macdonald, Sen Ian",LP,2017-12-07,"
 
 
@@ -318,7 +318,7 @@ Senator Cash is, I am pleased to say—it is not just my opinion; everywhere I g
 
 I note in passing that Senator Cameron's major attack on the government is now supported by three other male senators, one of whom has to be here because he's the whip. This shows that not even the Labor Party are serious about this attack. The sooner we can get on with the real business of this Senate, the better this nation will be served.
 
-",Senate,<title>STATEMENTS</title>,<title>Minister for Employment</title>,STATEMENTS,2,1
+",Senate,<title>STATEMENTS</title>,<title>Minister for Employment</title>,STATEMENTS,2,1,speech
 "Di Natale, Sen Richard",AG,2017-12-07,"
 
 
@@ -380,7 +380,7 @@ This is part of a much bigger pattern. What we are seeing is a retreat of democr
 
 It is about time that those of us who support democracy—whether we're on the progressive or conservative side of politics; whether we're democratic traditionalists or democratic activists—stand up and recognise that we have a responsibility to support our democratic institutions, to acknowledge the Westminster traditions that underpin this parliament and to prevent these attacks on that precious privilege we have in representing the community in this place called our parliament. It starts with ministers stepping up and accepting responsibility for their own actions. It starts with strengthening civil society, rather than quashing it. It starts with recognising that when you've got a constitutional crisis on your hands you take responsibility, you show leadership and you sort it out and let the cards fall where they may.
 
-",Senate,<title>STATEMENTS</title>,<title>Minister for Employment</title>,STATEMENTS,2,1
+",Senate,<title>STATEMENTS</title>,<title>Minister for Employment</title>,STATEMENTS,2,1,speech
 "Hinch, Sen Derryn",DHJP,2017-12-07,"
 
 
@@ -391,7 +391,7 @@ Senator HINCH
 
 The minister has said today that she is not under an investigation, and yet she has been hiding behind the idea that if she gives us information it will affect an AFP investigation. How would it affect an AFP investigation for the minister to tell us how long the staffer had worked for her? How would it hurt the minister to tell us whether we can expect any more of her staff to leave during the Christmas-New Year break? How can it affect an AFP investigation if, in a small office, one of her media advisers was overheard telling another media adviser—or getting information from somebody else's media adviser—what was going on? I keep going back to this media source thing because I've come to the reluctant conclusion that this was a deliberate decision by the minister and her department to use the term 'media source' rather than a ROC media adviser, a Fair Work media adviser or a senior media adviser. It was done deliberately—to say 'media source'—to throw the senators in those estimates hearings off the track. If it was a tip-off from a journo in the press gallery corridor, that's one thing. Somebody might have thought, 'A bit of gossip; I'll pass it on,' but it wasn't that at all. It was something that was given, allegedly, to David De Garis. Since then, we haven't been able to find him. The AFP can't find him. It was information deliberately given by an independent agency to somebody in Senator Cash's office. Something's rotten in the state of Denmark.
 
-",Senate,<title>STATEMENTS</title>,<title>Minister for Employment</title>,STATEMENTS,2,1
+",Senate,<title>STATEMENTS</title>,<title>Minister for Employment</title>,STATEMENTS,2,1,speech
 "Watt, Sen Murray",ALP,2017-12-07,"
 
 
@@ -405,7 +405,7 @@ On multiple occasions she has refused to answer whether any other staff member i
 
 Question agreed to.
 
-",Senate,<title>STATEMENTS</title>,<title>Minister for Employment</title>,STATEMENTS,2,1
+",Senate,<title>STATEMENTS</title>,<title>Minister for Employment</title>,STATEMENTS,2,1,speech
 "Di Natale, Sen Richard",AG,2017-12-07,"
 
 
@@ -416,7 +416,7 @@ Senator DI NATALE
 
 Leave not granted.
 
-",Senate,<title>MOTIONS</title>,<title>Qualifications of Members and Senators</title>,MOTIONS,3,1
+",Senate,<title>MOTIONS</title>,<title>Qualifications of Members and Senators</title>,MOTIONS,3,1,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -517,7 +517,7 @@ What an outrageous statement of paternalism to justify discriminatory and damagi
 
 Mr Turnbull claims his flawed and hateful drug policy is a policy based on love. How out of touch can this Prime Minister get? It's a blatant attack on the most vulnerable people in our community with no basis in evidence. In a country with an affordable-housing crisis, where underemployment is a persistent and growing feature of our labour market, this government is doing nothing to fix these issues. Instead, they serve up a never-ending supply of nasty cuts to our social safety net that drive further inequality. This government does not care about the poor and the disadvantaged in this country. This government is a disgrace.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,5,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -624,7 +624,7 @@ Addiction is a disorder that's described by the WHO and in the DSM-5—the Diagn
 
 The evidence to the Senate committee was very clear: these measures will not work and are likely to have a detrimental effect. We cannot afford to erode our social security system any further. We oppose this bill. We oppose the schedules in the bill, and we will be moving amendments if this goes through the second reading. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,5,1,speech
 "Singh, Sen Lisa",ALP,2017-12-07,"
 
 
@@ -722,7 +722,7 @@ The people of Australia have the right to an answer from this government as to w
 
 Finally, I want to thank the medical experts and those who work in the community sector. Every day they are on the frontline, ensuring that they are providing the care, services and support needed by some of our most vulnerable people. We stand with you, we support you and we support the people who rely on the safety net that makes Australia such a great country to live in. We will always ensure that the government keeps its hands off it by debating and fighting for you in this place and within our communities.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,5,1,speech
 "Bernardi, Sen Cory",AC,2017-12-07,"
 
 
@@ -778,7 +778,7 @@ I'm here as a member of the Australian Conservatives. We support schedule 12. We
 
 We need to make sure that people in this country are accountable for the decisions that they take, that they tell the truth and that they don't sell out, if I can say it like that, or compromise themselves or their values—just like this government shouldn't compromise itself or its values. Doing a deal with the Nick Xenophon Team where they think crystal meth users should be refused bail and treated like terrorists if they commit a crime but should also be entitled to access welfare every week is tantamount to selling out our responsibilities as a nation to the Australian taxpayer and to the onus of mutual obligation. I wait and see, however, how this bill fills out in the end. It will be fascinating to see the end result, and I reserve my right, as a member of the Australian Conservatives, to vote accordingly in the third reading.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,5,1,speech
 "Brockman, Sen Slade",LP,2017-12-07,"
 
 
@@ -855,7 +855,7 @@ For the first time, all jobseekers with substance misuse would be able to undert
 
 The bill is a very large and complex bill, and there is certainly much more to go through. However, I will restate that this is a comprehensive reform package. The government has amended the bill to remove the drug-testing trial. However, the government remains committed to that trial. I commend the bill to the house.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,5,1,speech
 "Polley, Sen Helen",ALP,2017-12-07,"
 
 
@@ -923,7 +923,7 @@ There's not a senator in this place who doesn't think that our communities would
 
 I conclude my remarks with some advice to those opposite: if you are truly committed to doing more than grabbing a headline, then you should go out and actually talk to the people who are trying to turn their lives around and listen to the experts. If you really want to help people who have drug addiction, you need to listen to them and you need to listen to the experts. Shelving your flawed policy for the time being, as Minister Porter said, doesn't cut the mustard. Australians know they can't trust this government. This is such an elitist government. Their target is always the most vulnerable in our communities. We're almost on the eve of Christmas and they're committed, as ever, to making things harder for vulnerable Australians—that's their trademark. Mr Turnbull's predecessor John Howard was renowned for being a Christmas Grinch and a Scrooge, but Malcolm Turnbull really takes the cake. He's the biggest turkey of them all, and that's how the Australian people see him.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,5,1,speech
 "Fifield, Sen Mitch",LP,2017-12-07,"
 
 
@@ -946,7 +946,7 @@ Debate adjourned.
 
 Ordered that the resumption of the debate be made an order of the day for a later hour.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,5,1,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -1047,7 +1047,7 @@ What an outrageous statement of paternalism to justify discriminatory and damagi
 
 Mr Turnbull claims his flawed and hateful drug policy is a policy based on love. How out of touch can this Prime Minister get? It's a blatant attack on the most vulnerable people in our community with no basis in evidence. In a country with an affordable-housing crisis, where underemployment is a persistent and growing feature of our labour market, this government is doing nothing to fix these issues. Instead, they serve up a never-ending supply of nasty cuts to our social safety net that drive further inequality. This government does not care about the poor and the disadvantaged in this country. This government is a disgrace.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -1154,7 +1154,7 @@ Addiction is a disorder that's described by the WHO and in the DSM-5—the Diagn
 
 The evidence to the Senate committee was very clear: these measures will not work and are likely to have a detrimental effect. We cannot afford to erode our social security system any further. We oppose this bill. We oppose the schedules in the bill, and we will be moving amendments if this goes through the second reading. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Singh, Sen Lisa",ALP,2017-12-07,"
 
 
@@ -1252,7 +1252,7 @@ The people of Australia have the right to an answer from this government as to w
 
 Finally, I want to thank the medical experts and those who work in the community sector. Every day they are on the frontline, ensuring that they are providing the care, services and support needed by some of our most vulnerable people. We stand with you, we support you and we support the people who rely on the safety net that makes Australia such a great country to live in. We will always ensure that the government keeps its hands off it by debating and fighting for you in this place and within our communities.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Bernardi, Sen Cory",AC,2017-12-07,"
 
 
@@ -1308,7 +1308,7 @@ I'm here as a member of the Australian Conservatives. We support schedule 12. We
 
 We need to make sure that people in this country are accountable for the decisions that they take, that they tell the truth and that they don't sell out, if I can say it like that, or compromise themselves or their values—just like this government shouldn't compromise itself or its values. Doing a deal with the Nick Xenophon Team where they think crystal meth users should be refused bail and treated like terrorists if they commit a crime but should also be entitled to access welfare every week is tantamount to selling out our responsibilities as a nation to the Australian taxpayer and to the onus of mutual obligation. I wait and see, however, how this bill fills out in the end. It will be fascinating to see the end result, and I reserve my right, as a member of the Australian Conservatives, to vote accordingly in the third reading.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Brockman, Sen Slade",LP,2017-12-07,"
 
 
@@ -1385,7 +1385,7 @@ For the first time, all jobseekers with substance misuse would be able to undert
 
 The bill is a very large and complex bill, and there is certainly much more to go through. However, I will restate that this is a comprehensive reform package. The government has amended the bill to remove the drug-testing trial. However, the government remains committed to that trial. I commend the bill to the house.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Polley, Sen Helen",ALP,2017-12-07,"
 
 
@@ -1453,7 +1453,7 @@ There's not a senator in this place who doesn't think that our communities would
 
 I conclude my remarks with some advice to those opposite: if you are truly committed to doing more than grabbing a headline, then you should go out and actually talk to the people who are trying to turn their lives around and listen to the experts. If you really want to help people who have drug addiction, you need to listen to them and you need to listen to the experts. Shelving your flawed policy for the time being, as Minister Porter said, doesn't cut the mustard. Australians know they can't trust this government. This is such an elitist government. Their target is always the most vulnerable in our communities. We're almost on the eve of Christmas and they're committed, as ever, to making things harder for vulnerable Australians—that's their trademark. Mr Turnbull's predecessor John Howard was renowned for being a Christmas Grinch and a Scrooge, but Malcolm Turnbull really takes the cake. He's the biggest turkey of them all, and that's how the Australian people see him.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Fifield, Sen Mitch",LP,2017-12-07,"
 
 
@@ -1476,7 +1476,7 @@ Debate adjourned.
 
 Ordered that the resumption of the debate be made an order of the day for a later hour.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Di Natale, Sen Richard",AG,2017-12-07,"
 
 
@@ -1547,7 +1547,7 @@ I want to congratulate my Greens colleagues—in particular Senator Siewert, who
 
 At the end of the motion, add ""but the Senate is of the opinion that an independent, comprehensive public review of the current jobseeker compliance system should be carried out, including what is needed to reform the system"".
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,7,1,speech
 "McCarthy, Sen Malarndirri",ALP,2017-12-07,"
 
 
@@ -1606,7 +1606,7 @@ I'd like to draw attention to another group in our community that will be furthe
 
 Volunteering can be an incredibly effective way to engage in society. It acts as a pathway back to gainful employment, encourages economic participation, builds work skills, keeps people healthy and active, and is a social network. These punitive measures for older Australians fail to recognise this; instead, forcing people to give up voluntary work to undertake job-related activities that fail to improve their job prospects. This bill does nothing to increase the job prospects and build the potential of Australian jobseekers. Instead, it takes an even more punitive approach towards people who are already amongst our most vulnerable.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,7,1,speech
 "Steele-John, Sen Jordon",AG,2017-12-07,"
 
 
@@ -1629,7 +1629,7 @@ I cannot think of the intellectual gymnastics that must have been performed for 
 
 I will vote against this legislation later this afternoon as somebody who would not be here without the support at certain times in my life of our social safety net, who lives in a community where those services are needed, who has friends whose health, happiness and progress depend on these services and who knows to their core that there is no lower act than demonising people who ask for help when they need it. I thank the chamber for its time.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,7,1,speech
 "Watt, Sen Murray",ALP,2017-12-07,"
 
 
@@ -1752,7 +1752,7 @@ If this government was actually serious about getting its budget back in order, 
 
 The PRESIDENT:  Senator Watt, you will be in continuation upon the resumption of debate. It being 2.00 pm, we move to questions without notice. 
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,7,1,speech
 "Di Natale, Sen Richard",AG,2017-12-07,"
 
 
@@ -1823,7 +1823,7 @@ I want to congratulate my Greens colleagues—in particular Senator Siewert, who
 
 At the end of the motion, add ""but the Senate is of the opinion that an independent, comprehensive public review of the current jobseeker compliance system should be carried out, including what is needed to reform the system"".
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "McCarthy, Sen Malarndirri",ALP,2017-12-07,"
 
 
@@ -1882,7 +1882,7 @@ I'd like to draw attention to another group in our community that will be furthe
 
 Volunteering can be an incredibly effective way to engage in society. It acts as a pathway back to gainful employment, encourages economic participation, builds work skills, keeps people healthy and active, and is a social network. These punitive measures for older Australians fail to recognise this; instead, forcing people to give up voluntary work to undertake job-related activities that fail to improve their job prospects. This bill does nothing to increase the job prospects and build the potential of Australian jobseekers. Instead, it takes an even more punitive approach towards people who are already amongst our most vulnerable.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Steele-John, Sen Jordon",AG,2017-12-07,"
 
 
@@ -1905,7 +1905,7 @@ I cannot think of the intellectual gymnastics that must have been performed for 
 
 I will vote against this legislation later this afternoon as somebody who would not be here without the support at certain times in my life of our social safety net, who lives in a community where those services are needed, who has friends whose health, happiness and progress depend on these services and who knows to their core that there is no lower act than demonising people who ask for help when they need it. I thank the chamber for its time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Watt, Sen Murray",ALP,2017-12-07,"
 
 
@@ -2028,7 +2028,86 @@ If this government was actually serious about getting its budget back in order, 
 
 The PRESIDENT:  Senator Watt, you will be in continuation upon the resumption of debate. It being 2.00 pm, we move to questions without notice. 
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
+"Wong, Sen Penny",ALP,2017-12-07,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:00):  My question is to the Minister representing the Prime Minister, Senator Brandis. When asked on Sunday how he intends to turn around 25 consecutive Newspoll losses, leaks from cabinet and backflips at the behest of backbenchers, Mr Turnbull said, 'But, you know, next year we've got the National Energy Guarantee to finally complete and implement.' Given Mr Turnbull has so far this year floated and scrapped an emissions intensity scheme and a clean energy target and still hasn't got agreement on his latest proposal, the National Energy Guarantee, why should the Australian people believe Mr Turnbull's scorecard next year will be any better than this year's?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Turnbull Government</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Wong, Sen Penny",ALP,2017-12-07,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:03):  The Prime Minister, in the same interview, also said, 'We've talked about further taxation reform.' Which of his failed tax reforms is Mr Turnbull planning to reheat? Will it be allowing states to collect income tax or will it be increasing the GST? Or will he just stick with his proposal from this year's budget to increase taxes on working and middle-class Australians?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Turnbull Government</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Wong, Sen Penny",ALP,2017-12-07,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:04):  When announcing he would challenge former Prime Minister Abbott, Mr Turnbull said:
+
+
+We have lost 30 Newspolls in a row. It is clear that the people have made up their mind about Mr Abbott's leadership.
+
+
+After losing 24 Newspolls in a row, isn't it clear that people have also made up their mind about Mr Turnbull's leadership?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Turnbull Government</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Brandis, Sen George",LP,2017-12-07,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:00):  Senator Wong, I'm bound to say you do disappoint me. Here we are in the last question time of the year, and you'd think we could have had something a little bit more substantial. Given the festive season and the news from the House of Representatives later today that you and I are both looking forward to, I'm not going to chastise you too strongly, but I must observe that, if the best you can do for the very first question in the very last question time of the year is to ask yet another tricky political question, I'm disappointed with you.
+
+
+But your question does give me the opportunity to reflect upon all of the great achievements of the Turnbull government in 2017, which will be continuing in 2018. We've only recently had the September quarter national accounts, which show that GDP grew by 0.6 per cent in the September quarter. It has grown over the last 12 months by 2.8 per cent—a very, very strong rate of growth. We also have the labour market statistics, which show that, in the last 12 months, 355,000 new jobs were created—almost a thousand new jobs a day—and, of those, 85 per cent were full-time jobs. That is the fastest rate of jobs creation in more than 20 years—another achievement of the Turnbull government. 
+
+
+Senator Wong, you talked also about the National Energy Guarantee. Absolutely, we are very proud of the National Energy Guarantee. For more than a decade, including in this place, Australian energy policy has been deadlocked. It has been deadlocked, and now there has been a breakthrough, thanks to Prime Minister Turnbull. (Time expired)
+
+
+
+The PRESIDENT:  Senator Wong, a supplementary question?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Turnbull Government</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
+"Brandis, Sen George",LP,2017-12-07,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:03):  You're asking about the government's tax reform agenda. I'm delighted to tell you about it. Do you mean to give me an early Christmas present today with these easy questions? I must be grateful to you, Senator Wong. There is the enterprise tax plan, the first instalment of which has already been introduced by the Turnbull government again, and we will be prosecuting the rest of the enterprise tax plan next year and in the years to come so as to give small to medium enterprises the capital to put on more staff, to pay them better wages, to return more to investors. That is the benefit of the enterprise tax plan. And you wonder why there have been all those extra jobs created in the last 12 months—more new jobs than in any year for more than 20 years. It might have something to do with the capacity of small to medium enterprises to put on more staff. (Time expired)
+
+
+
+The PRESIDENT:  Senator Wong, a final supplementary question?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Turnbull Government</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
+"Brandis, Sen George",LP,2017-12-07,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:04):  Well, Senator Wong, there are other more important metrics by which this government will be judged, and the most important metrics by which this government will be judged is what this government has done to make life better for the Australian people. I mentioned in answer to your earlier question the fact that, for every day in the last year, there have been, on average, almost 1,000 new jobs created in the Australian economy—85 per cent of them full-time jobs. That's 1,000 families who were apprehensive about the future, who were poor, who didn't know what the future held, and now their breadwinners have a job. That's good news for the Australian people, Senator Wong.
+
+
+You ask about other metrics, Senator Wong. I quoted to you before the very strong economic growth—2.8 per cent in the last year, Senator Wong—which again is the indicator of the success of this government— (Time expired)
+
+
+
+Opposition senators interjecting—
+
+
+
+The PRESIDENT:  Order on my left! There will be an opportunity, I'm sure, for that later. It is the opposition's time, question time. I'll call Senator Smith when I can hear him. Senator Smith.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Turnbull Government</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
 "McKenzie, Sen Bridget",Nats,2017-12-07,"
 
 
@@ -2036,7 +2115,7 @@ The PRESIDENT:  Senator Watt, you will be in continuation upon the resumption of
 Senator McKENZIE
  (Victoria) (15:06):  by leave—I want to inform the chamber that I'm very honoured to have been elected as Deputy Leader of the National Party at a meeting of my party colleagues early this morning, replacing our former colleague Fiona Nash. I look forward to serving with Barnaby Joyce to deliver outcomes for regional Australia.
 
-",Senate,<title>STATEMENTS</title>,<title>Deputy Leader of the National Party</title>,STATEMENTS,9,1
+",Senate,<title>STATEMENTS</title>,<title>Deputy Leader of the National Party</title>,STATEMENTS,9,1,speech
 "Wong, Sen Penny",ALP,2017-12-07,"
 
 
@@ -2044,7 +2123,7 @@ Senator McKENZIE
 Senator WONG
  (South Australia—Leader of the Opposition in the Senate) (15:06):  by leave—on behalf of the opposition, I congratulate Senator McKenzie on her appointment. On a personal level, can I say it is good to see more women in leadership positions.
 
-",Senate,<title>STATEMENTS</title>,<title>Deputy Leader of the National Party</title>,STATEMENTS,9,1
+",Senate,<title>STATEMENTS</title>,<title>Deputy Leader of the National Party</title>,STATEMENTS,9,1,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -2064,7 +2143,7 @@ But what do we get from this rabble of a government? What do we get from this we
 
 This is a Prime Minister whose claim to power was 30 negative Newspolls for the former Prime Minister, Mr Tony Abbott. He knocked him off because there were 30 negative Newspolls. Where are we now? Again, it's mathematics: 24 Newspolls where this Prime Minister and this rabble of a government have been behind the Labor Party. Not by a small part; it's by a long way. That is locked in. Is it any wonder that their heads are down behind the Attorney-General every time we have question time here? Is it any wonder that they don't look up? Is it any wonder that they are despondent? If I were a backbencher in the government heading off for Christmas, it might be my last time ever here. This government should actually resolve the problems and resolve the chaos: go to an election and get tossed out—that's what would happen to this mob. That's what would happen to them, because they've got no answers on unemployment, they've got no answers on energy, they've got no answers on climate change, they've got no answers on health and they've got no answers on education. The only answer the Prime Minister has is how to try to defend his job. This is a weak Prime Minister and a jelly-backed Prime Minister; this Prime Minister is probably the weakest we've ever had in this country.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Abetz, Sen Eric",LP,2017-12-07,"
 
 
@@ -2084,7 +2163,7 @@ Can I say to the Australian people, and to those opposite, remember when Labor w
 
 So Mr Shorten and the Australian Labor Party know, because it issued forth from their own mouths, that these tax cuts would deliver jobs and lift people from social welfare into self-reliance and the capacity to look after themselves—a worthy goal and something which we supported Labor on whilst they were in government. This should be bipartisan policy, but the cheap politics that has now infected Labor has also infected them to the extent that they now repudiate their own policies. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "O'Neill, Sen Deb",ALP,2017-12-07,"
 
 
@@ -2136,7 +2215,7 @@ There are a range of reasons why these ministers have had to leave. There's no t
 
 But today we have seen, in the question that Senator Wong asked, a list of the things that are characteristic of this chaotic, dysfunctional and disunified government under Mr Turnbull. All they know is how to divide, not how to deliver. These resignations really beg the question: how can Mr Turnbull possibly lead a nation when he cannot even lead his own ministry? He can't keep his team together, he can't keep the ministry together and he's certainly not keeping the country together, as we see with the passage of legislation after the most disunifying effort of engagement with the marriage equality matter. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Reynolds, Sen Linda",LP,2017-12-07,"
 
 
@@ -2159,7 +2238,7 @@ There are so many other things that this government has done this year for our n
 
 Unlike those opposite, I would also like to thank senators on all sides of this chamber. One of the great sadnesses I have in this place is that so rarely do we acknowledge the work we do together in a great spirit of cooperation, bipartisanship and multipartisanship. So what I would like to do with my final words is say thank you very much to the senators—and some of them are here in the chamber—I have had the absolute pleasure and honour of working with. Despite what you read in the media, this parliament and this Senate have achieved a great deal. Shortly we'll be tabling the Senate committee's report on modern slavery, which is a landmark report globally. I thank my Senate colleagues on all sides of the chamber for your support, your friendship and for the wonderful work we have done on behalf of all Australians. Merry Christmas! (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Watt, Sen Murray",ALP,2017-12-07,"
 
 
@@ -2200,7 +2279,7 @@ In regional Queensland, we have a really big problem around insecure work, with 
 
 In Queensland terms, you have to ask yourself: who is responsible for this? And we can look no further than the regional LNP members from Queensland, who come down here, stay absolutely mute about all of these things that are happening in their electorates that are hurting average people and just line up behind Prime Minister Turnbull time and time again to back in the cuts that he's making. Australians do have one party on their side. Labor have put forward policies to deal with each of these challenges: wage growth, labour hire, permanent jobs, secure work for people and restoring penalty rates—and we'll do it again next year. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -2229,7 +2308,7 @@ He has criticised charities, as I said, including Beyond Blue, for raising conce
 
 Question agreed to. 
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Bushby, Sen David",LP,2017-12-07,"
 
 
@@ -2368,7 +2447,7 @@ Senator BUSHBY:
 
 That the report be adopted. 
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,13,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,13,1,speech
 "Fifield, Sen Mitch",LP,2017-12-07,"
 
 
@@ -2391,7 +2470,7 @@ That amendment has been circulated in the chamber, I understand. I thank the opp
 
 I also speak briefly to the date which the government is seeking to add to the Selection of Bills Committee report, in relation to the Regional and Small Publishers Innovation Fund. That reporting date for the committee would enable the Australian Communications and Media Authority to administer the $50 million Regional and Small Publishers Innovation Fund. As colleagues would know, the purpose of the fund is to assist small publishers, particularly those in regional areas, with grants to help them transform their businesses in a challenging media market. The government wants the architecture for the fund in place to allow for the first round of grants to be awarded in June 2018, with funds to flow from July 2018. I should, for the benefit of colleagues, indicate that, if the proposed reporting date doesn't find favour with colleagues, it would be unlikely that ACMA would be in a position to award grants by 1 June 2018, as is intended.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,13,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,13,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -2425,7 +2504,7 @@ The DEPUTY PRESIDENT:  The question is that the motion, as amended, be agreed to
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,13,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,13,1,speech
 "Bushby, Sen David",LP,2017-12-07,"
 
 
@@ -2564,7 +2643,7 @@ Senator BUSHBY:
 
 That the report be adopted. 
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,13,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,13,2,speech
 "Fifield, Sen Mitch",LP,2017-12-07,"
 
 
@@ -2587,7 +2666,7 @@ That amendment has been circulated in the chamber, I understand. I thank the opp
 
 I also speak briefly to the date which the government is seeking to add to the Selection of Bills Committee report, in relation to the Regional and Small Publishers Innovation Fund. That reporting date for the committee would enable the Australian Communications and Media Authority to administer the $50 million Regional and Small Publishers Innovation Fund. As colleagues would know, the purpose of the fund is to assist small publishers, particularly those in regional areas, with grants to help them transform their businesses in a challenging media market. The government wants the architecture for the fund in place to allow for the first round of grants to be awarded in June 2018, with funds to flow from July 2018. I should, for the benefit of colleagues, indicate that, if the proposed reporting date doesn't find favour with colleagues, it would be unlikely that ACMA would be in a position to award grants by 1 June 2018, as is intended.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,13,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,13,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -2621,7 +2700,7 @@ The DEPUTY PRESIDENT:  The question is that the motion, as amended, be agreed to
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,13,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,13,2,speech
 "Cormann, Sen Mathias",LP,2017-12-07,"
 
 
@@ -2641,7 +2720,7 @@ A Bill for an Act to deal with consequential and transitional matters in connect
 
 Question agreed to.
 
-",Senate,<title>BILLS</title>,"<title>Security of Critical Infrastructure Bill 2017, Security of Critical Infrastructure (Consequential and Transitional Provisions) Bill 2017</title>",BILLS,14,1
+",Senate,<title>BILLS</title>,"<title>Security of Critical Infrastructure Bill 2017, Security of Critical Infrastructure (Consequential and Transitional Provisions) Bill 2017</title>",BILLS,14,1,speech
 "Cormann, Sen Mathias",LP,2017-12-07,"
 
 
@@ -2658,7 +2737,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,"<title>Security of Critical Infrastructure Bill 2017, Security of Critical Infrastructure (Consequential and Transitional Provisions) Bill 2017</title>",BILLS,14,1
+",Senate,<title>BILLS</title>,"<title>Security of Critical Infrastructure Bill 2017, Security of Critical Infrastructure (Consequential and Transitional Provisions) Bill 2017</title>",BILLS,14,1,speech
 "Cormann, Sen Mathias",LP,2017-12-07,"
 
 
@@ -2850,7 +2929,7 @@ The Security of Critical Infrastructure (Consequential and Transitional Provisio
 
 Ordered that further consideration of the second reading of these bills be adjourned to 5 February 2018, in accordance with standing order 111.
 
-",Senate,<title>BILLS</title>,"<title>Security of Critical Infrastructure Bill 2017, Security of Critical Infrastructure (Consequential and Transitional Provisions) Bill 2017</title>",BILLS,14,1
+",Senate,<title>BILLS</title>,"<title>Security of Critical Infrastructure Bill 2017, Security of Critical Infrastructure (Consequential and Transitional Provisions) Bill 2017</title>",BILLS,14,1,speech
 "Cormann, Sen Mathias",LP,2017-12-07,"
 
 
@@ -2870,7 +2949,7 @@ A Bill for an Act to deal with consequential and transitional matters in connect
 
 Question agreed to.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,14,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,14,2,speech
 "Cormann, Sen Mathias",LP,2017-12-07,"
 
 
@@ -2887,7 +2966,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,14,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,14,2,speech
 "Bushby, Sen David",LP,2017-12-07,"
 
 
@@ -2910,7 +2989,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Her Majesty the Queen and the Duke of Edinburgh: 70th Anniversary</title>,MOTIONS,15,1
+",Senate,<title>MOTIONS</title>,<title>Her Majesty the Queen and the Duke of Edinburgh: 70th Anniversary</title>,MOTIONS,15,1,speech
 "McCarthy, Sen Malarndirri",ALP,2017-12-07,"
 
 
@@ -2945,7 +3024,7 @@ The Turnbull Government's management of per- and polyfluoroalkyl substances (PFA
 
 (g) what consideration has been given to understanding and addressing any financial impact to affected businesses and individuals.
 
-",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,16,1
+",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,16,1,speech
 "McGrath, Sen James",LP,2017-12-07,"
 
 
@@ -2966,7 +3045,7 @@ The DEPUTY PRESIDENT:  The question is that the amendment as moved by Senator Mc
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,16,1
+",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,16,1,speech
 "McGrath, Sen James",LP,2017-12-07,"
 
 
@@ -2991,7 +3070,7 @@ The DEPUTY PRESIDENT:  The question now is that general business notice of motio
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,16,1
+",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,16,1,speech
 "McCarthy, Sen Malarndirri",ALP,2017-12-07,"
 
 
@@ -3026,7 +3105,7 @@ The Turnbull Government's management of per- and polyfluoroalkyl substances (PFA
 
 (g) what consideration has been given to understanding and addressing any financial impact to affected businesses and individuals.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,16,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,16,2,speech
 "McGrath, Sen James",LP,2017-12-07,"
 
 
@@ -3047,7 +3126,7 @@ The DEPUTY PRESIDENT:  The question is that the amendment as moved by Senator Mc
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,16,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,16,2,speech
 "McGrath, Sen James",LP,2017-12-07,"
 
 
@@ -3072,7 +3151,7 @@ The DEPUTY PRESIDENT:  The question now is that general business notice of motio
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,16,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,16,2,speech
 "Urquhart, Sen Anne",ALP,2017-12-07,"
 
 
@@ -3098,7 +3177,7 @@ That the Senate notes—
 
 (e) the recommendations of the Hope Royal Commissions on Intelligence and Security, in particular, relating to the relationship between the security services and executive government and the responsibility of the Government to protect and adhere to the above principles.
 
-",Senate,<title>MOTIONS</title>,<title>Security Services</title>,MOTIONS,17,1
+",Senate,<title>MOTIONS</title>,<title>Security Services</title>,MOTIONS,17,1,speech
 "Patrick, Sen Rex",NXT,2017-12-07,"
 
 
@@ -3112,7 +3191,7 @@ At the end of paragraph (e), add—
 
 "", and further affirms that enhanced scrutiny of the security services as proposed by the Parliamentary Joint Committee on Intelligence and Security Amendment Bill 2015, and extending to appropriate oversight of agency operations, would increase confidence that the security services strictly adhere to their non-political role and that intelligence material will not be used for partisan purposes."" 
 
-",Senate,<title>MOTIONS</title>,<title>Security Services</title>,MOTIONS,17,1
+",Senate,<title>MOTIONS</title>,<title>Security Services</title>,MOTIONS,17,1,speech
 "McGrath, Sen James",LP,2017-12-07,"
 
 
@@ -3130,7 +3209,7 @@ The DEPUTY PRESIDENT:  Leave is granted for one minute.
 Senator McGRATH:
   The government supports the motion in its original form. However, we do not support this amendment. Australian intelligence agencies already have comprehensive independent oversight of their operations through the Inspector-General of Intelligence and Security and of their legislation through the Independent National Security Legislation Monitor. These oversight mechanisms are being enhanced through the coalition government's response to the independent intelligence review and home affairs implementation. It is the government's view that adding a duplicating layer of operational oversight by a parliamentary committee would only increase the potential for the politicisation of our intelligence agencies, not diminish it.
 
-",Senate,<title>MOTIONS</title>,<title>Security Services</title>,MOTIONS,17,1
+",Senate,<title>MOTIONS</title>,<title>Security Services</title>,MOTIONS,17,1,speech
 "Bernardi, Sen Cory",AC,2017-12-07,"
 
 
@@ -3187,7 +3266,7 @@ The DEPUTY PRESIDENT:  The question is that paragraph (e) of general business no
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Security Services</title>,MOTIONS,17,1
+",Senate,<title>MOTIONS</title>,<title>Security Services</title>,MOTIONS,17,1,speech
 "Griff, Sen Stirling",NXT,2017-12-07,"
 
 
@@ -3267,7 +3346,7 @@ That the Senate—
 
 (viii) any variations, in respect of paragraph (c)(vii), to previous contracts or agreements.
 
-",Senate,<title>DOCUMENTS</title>,<title>West Lorengau Haus</title>,DOCUMENTS,18,1
+",Senate,<title>DOCUMENTS</title>,<title>West Lorengau Haus</title>,DOCUMENTS,18,1,speech
 "McGrath, Sen James",LP,2017-12-07,"
 
 
@@ -3292,7 +3371,7 @@ The coalition government's strong and consistent border protection policies, inc
 
 The DEPUTY PRESIDENT:  The question is that general business motion No. 662, as amended by Senator Griff, be agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>West Lorengau Haus</title>,DOCUMENTS,18,1
+",Senate,<title>DOCUMENTS</title>,<title>West Lorengau Haus</title>,DOCUMENTS,18,1,speech
 "Griff, Sen Stirling",NXT,2017-12-07,"
 
 
@@ -3372,7 +3451,7 @@ That the Senate—
 
 (viii) any variations, in respect of paragraph (c)(vii), to previous contracts or agreements.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2,speech
 "McGrath, Sen James",LP,2017-12-07,"
 
 
@@ -3397,7 +3476,7 @@ The coalition government's strong and consistent border protection policies, inc
 
 The DEPUTY PRESIDENT:  The question is that general business motion No. 662, as amended by Senator Griff, be agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2,speech
 "Bernardi, Sen Cory",AC,2017-12-07,"
 
 
@@ -3429,7 +3508,7 @@ That the Senate—
 
 (g) urges the respectful conduct of senators, their staff and events they participate in within Parliament House.
 
-",Senate,<title>MOTIONS</title>,<title>Parliament House Passholders</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>Parliament House Passholders</title>,MOTIONS,19,1,speech
 "McGrath, Sen James",LP,2017-12-07,"
 
 
@@ -3447,7 +3526,7 @@ The DEPUTY PRESIDENT:  Leave is granted for one minute.
 Senator McGRATH:
   The government supports the motion. Practising freedom of speech requires that we allow others to do likewise, free from any hindrance or obstruction. It is a privilege for all members, senators and staff to work in this building, and it is deeply regrettable that some members of staff would seek to abuse that privilege by behaving in the manner we witnessed this week. Shame on them.
 
-",Senate,<title>MOTIONS</title>,<title>Parliament House Passholders</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>Parliament House Passholders</title>,MOTIONS,19,1,speech
 "Farrell, Sen Don",ALP,2017-12-07,"
 
 
@@ -3469,7 +3548,7 @@ Senator FARRELL:
 
 The DEPUTY PRESIDENT:  The question is that the motion moved by Senator Bernardi be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Parliament House Passholders</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>Parliament House Passholders</title>,MOTIONS,19,1,speech
 "Ruston, Sen Anne",LP,2017-12-07,"
 
 
@@ -3486,7 +3565,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Anti-Money Laundering and Counter-Terrorism Financing Amendment Bill 2017</title>,BILLS,21,1
+",Senate,<title>BILLS</title>,<title>Anti-Money Laundering and Counter-Terrorism Financing Amendment Bill 2017</title>,BILLS,21,1,speech
 "Ruston, Sen Anne",LP,2017-12-07,"
 
 
@@ -3845,7 +3924,7 @@ Debate adjourned.
 
 Ordered that the resumption of the debate be made an order of the day for a later hour.
 
-",Senate,<title>BILLS</title>,<title>Anti-Money Laundering and Counter-Terrorism Financing Amendment Bill 2017</title>,BILLS,21,1
+",Senate,<title>BILLS</title>,<title>Anti-Money Laundering and Counter-Terrorism Financing Amendment Bill 2017</title>,BILLS,21,1,speech
 "Ruston, Sen Anne",LP,2017-12-07,"
 
 
@@ -3862,7 +3941,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,21,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,21,2,speech
 "Williams, Sen John",Nats,2017-12-07,"
 
 
@@ -3921,7 +4000,7 @@ Modern slavery describes some of the greatest crimes of our time. The recommenda
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,23,1
+",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,23,1,speech
 "Williams, Sen John",Nats,2017-12-07,"
 
 
@@ -3980,7 +4059,7 @@ Modern slavery describes some of the greatest crimes of our time. The recommenda
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2,speech
 "McAllister, Sen Jenny",ALP,2017-12-07,"
 
 
@@ -4084,7 +4163,7 @@ The thing about the proposal that the government brought forward is that we don'
 
 This bill forms part of a long list of pointless and expensive uses of taxpayer money by the government to punish the poor and the young. It is polarising, moralising and dangerous rhetoric. It's a mythical creation—the deserving and non-deserving poor, where poverty and unemployment are recast as personal or moral failure rather than a result of complex people facing complex challenges and often dealing with health issues alongside their social and economic factors. We should reject this. We should reject it now and we should reject attempts to introduce it in the future. The government should go back to the drawing board rather than insisting on retaining this as part of their policy plans. The government should go back and engage with complexity. They should use evidence and they should take the advice of experts. Most importantly, the government should work with local communities, like the community in Canterbury-Bankstown, and see if they have ideas that could be used to address serious social and health issues in a way that might actually make a difference.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "O'Neill, Sen Deb",ALP,2017-12-07,"
 
 
@@ -4158,7 +4237,7 @@ We already know, as I've said, that there are very long waiting times for access
 
 I would like to conclude with the comments of Sandra Goldie from the Australian Council of Social Services: 'There is no evidence that this drug testing proposal will lead to improved health, social or employment outcomes for people. Indeed, the evidence is to the contrary. Drug test measures would direct very precious dollars to a measure that has been widely condemned by leading health experts.' That should be the last word on this. It's not evidence based; it's punitive and it will cost more than it will deliver.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Ketter, Sen Christopher",ALP,2017-12-07,"
 
 
@@ -4307,7 +4386,7 @@ The government don't have an adequate plan for getting older Australians back in
 
 In conclusion, Labor opposes many of the measures in this bill. Many of the measures in the proposed bill only further disadvantage already vulnerable people. They contribute to inequality; they do not address it. It is yet another example of this government attacking those most vulnerable in our community. Labor will not stand for it.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Bartlett, Sen Andrew",AG,2017-12-07,"
 
 
@@ -4381,7 +4460,7 @@ There are a range of other measures in this legislation as well, and some of tho
 
 I was in Townsville a couple of weeks ago, speaking to people at a local community legal centre there about the challenges that so many of their clients face, particularly with regard to dealing with Centrelink, actually being able to get a problem sorted out with Centrelink. We all know about the scandalous robo-debt attack and farce that this government has been perpetrating on people on income support. How about actually helping the battlers instead of bashing the battlers? That's what we need to see if we want to get a real change here. If we actually want to help people, we need to see investment in proper assistance to people, including through the social services that the Senate committee inquiry highlighted as not being provided now. And let me take the opportunity to put on the record the need to significantly increase the scandalously low basic payment for Newstart, which has been going backwards in value for years. The gap between Newstart and the pension has been getting bigger and bigger. As I said in this place last week, people on income support trying to afford a home anywhere in any capital city in the country—certainly in Brisbane in South-East Queensland—are paying over half of their income just on rent. That's before food. That's before childcare. That's before getting to a job. That's before everything else. Let's see some action on that, rather than this latest hotchpotch of measures that is mostly focused on making life harder and reinforcing that political narrative which targets and stigmatises people on income support. It's about time we had a change in that regard. Some of the Greens, including myself, will continue to push on into the future.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -4418,7 +4497,7 @@ Senator Pratt
  did not vote, to compensate for the vacancy caused by the resignation of Senator Kakoschke-Moore. 
 
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -4426,7 +4505,7 @@ Senator Pratt
 Senator CAMERON
  (New South Wales) (18:03):  Labor certainly does not support this bill. This is a bill that is attacking the poorest, poorest people in this country, and we just do not believe that this is either humane thing to do or the proper thing to do. So Labor will be indicating our opposition to all these amendments that are up from the government, and we will be speaking on each one of them.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5124,7 +5203,7 @@ Schedule 6, item 3, page 141 (lines 29 and 30), omit paragraph 603AC(1) (c), sub
 
 (c) she ceased to be a member of a couple after turning 40;
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -5132,7 +5211,7 @@ Schedule 6, item 3, page 141 (lines 29 and 30), omit paragraph 603AC(1) (c), sub
 Senator CAMERON
  (New South Wales) (18:04):  I did indicate we'd be opposing all the government's amendments. If, as I understand it, NXT is backing this bill in then we will have to have a look at the amendments and deal with them on their merits as they come up.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5144,7 +5223,7 @@ Senator SIEWERT
 
 The CHAIR:  That's right, but they'll be split into parts 1 and 2. I'll put the question on part 1 unless someone wishes to speak.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5152,7 +5231,7 @@ The CHAIR:  That's right, but they'll be split into parts 1 and 2. I'll put the 
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:06):  I have a series of questions that I would like to ask the government about a number of the schedules. As we know, there are a lot of schedules in this bill. I figure it's better to get them done now, and then we'll go through the specific amendments. I want to ask a few questions about the compliance framework, which is schedule 15. First off, I want to ask about the four weeks—once they go through the seven-point process and they end up with a four-week cancellation, it's my understanding that people won't have to reapply for the income support payment that they're on.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5163,7 +5242,7 @@ Senator CASH
 
 Jobseekers in the three-strikes phase who remain fully compliant for three months will return to the demerits phase. In either phase, any jobseeker who refuses work without a valid reason will have their payment cancelled for four weeks in recognition of the seriousness of this. To ensure that genuine jobseekers who simply are having difficulty meeting their requirements do not enter the three-strikes phase, their provider will assess their capability and requirements after their third demerit, and DHS will also do so after their fourth. At either point, if they are found to be unable to meet the requirements, those requirements will be reset, and they will return to the demerits phase.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5171,7 +5250,7 @@ Jobseekers in the three-strikes phase who remain fully compliant for three month
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:09):  I may have misheard. When you were talking about the loss of two weeks worth of payment, I thought that was at the sixth. So there's one week, two weeks, four weeks, I thought. Is that correct?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5189,7 +5268,7 @@ Senator Siewert interjecting—
 Senator CASH:
   Sorry, it must have been the terminology.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5197,7 +5276,7 @@ Senator CASH:
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:10):  Yes, it's the terminology. In terms, then, of the process of engagement, once you've lost your four-week payment—so you've got your seventh; you've got your four weeks. So—and I'm sorry if I've misunderstood what you just said—you don't have to reapply. Is there a process of engagement over those four weeks, or are they just left for four weeks? Is there an intensive process of engagement for those four weeks?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5205,7 +5284,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:11):  I understand they're able to volunteer for jobactive should they choose to. If not, they are left.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5213,7 +5292,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:11):  So there's actually no incentive for them to engage with jobactive voluntarily if they're on no payment and there's not a way to get off the four weeks of no payment. That's a correct understanding, isn't it?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5221,7 +5300,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:11):  The incentive, obviously, would be to actually get a job, hence the stance that has been taken.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5229,7 +5308,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:11):  I can understand that that's what you think is going to happen, but, in fact, we know there are not enough jobs out there for people to get a job. So what is going to happen for those four weeks? People are going to have no income. There's no incentive for them to re-engage voluntarily, because they've just been dumped off income support, and they actually don't have the resources to go and find a job—pay the phone et cetera—or even buy food.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5237,7 +5316,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:12):  Again, they are encouraged to obviously engage with jobactive or, alternatively, not get to this stage, because, along the way, there has been in-built the ability to actually engage with your provider and to engage with DHS. So, at each phase, you're actively engaging to ensure that you don't get to this stage.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5245,7 +5324,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:12):  This process happens over the six-month process. I'm trying to understand, then, what happens if I've been in the intensive four-week phase. Is it possible that I could end up going through the intensive phase again in that six months and end up on four weeks loss of payment again?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5256,7 +5335,7 @@ Senator CASH
 
 Existing protections for the 200,000 jobseekers who have some sort of exemption from their mutual obligations or are fully meeting their obligations through approved activities will also be preserved. If a jobseeker does reach the three-strikes phase and again fails to meet their requirements, no penalty will be applied if they have a reasonable excuse for their failure. As is currently the case, all financial penalty decisions will be made by DHS and not by providers. As you are aware, we've also ensured that jobseekers will be able to continue to appeal against the financial penalties that have been put in place, first to a Centrelink-authorised review officer and then to the Administrative Appeals Tribunal. So, again, there are safeguards built in along the way to ensure that you don't get to or limit the possibility of getting to that final phase.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -5273,7 +5352,7 @@ It's easy for the coalition to justify this, because they've got form when it co
 
 What is the government's rationale for cutting a short-term income support payment to low-income people who have lost their partner? Have you got no shame?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5281,7 +5360,7 @@ What is the government's rationale for cutting a short-term income support payme
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:17):  To ensure that no existing recipients will be worse off, people in receipt of bereavement allowance on implementation will continue to receive it until the end of their bereavement period, which is a maximum of 14 weeks, or for a pregnant woman until the end of her pregnancy.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -5298,7 +5377,7 @@ Schedule 13 removes the exemptions due to drugs or alcohol for people who are no
 
 We think this is a terrible bill. I just don't understand how anyone can sit in this chamber on a $200,000 basic salary—anywhere up to $400,000 for ministers—and vote for this and try to justify cutting the welfare payments for the poorest in this country. I'll summarise our position: we think this is an atrocious bill. We think it typifies what this coalition government is all about. However, we've got no option, given the capitulation by NXT to the Liberal Party and the coalition, once again, but to actually agree to these small amendments that ameliorate it in a very small way. I hope I've made our opposition to this clear and how terrible this is for people on welfare in this country.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5306,7 +5385,7 @@ We think this is a terrible bill. I just don't understand how anyone can sit in 
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:23):  I'm sorry this seems a bit disjointed, and I also thank Senator Cameron for clearing up the ALP's position on the government amendments. I will come to my comments on the government amendments shortly. However, I don't want to detain the chamber longer than necessary, but this is an extremely long bill—18 schedules—with a number of different things happening in the bill. I do have a few more questions around schedule 15 to do with the compliance process. The minister had been explaining the process to go through from demerit point 3 to 4, the support and the process to go through to demerit point 7 and the four weeks off. I'm trying to clarify: they re-engage and they come back to four again—that's correct, isn't it? You re-engage and you come back?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5314,7 +5393,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:25):  I've been advised you come back to one.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5322,7 +5401,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:25):  Thank you for clarifying that because it was unclear. It is then possible that they could get another four-week suspension if we're not meeting people's needs and they're continuingly in noncompliance. It is possible they could end up with another total of seven weeks noncompliance over that six-month period. Is that a correct understanding?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5330,7 +5409,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:25):  Not if they keep turning up to their appointments.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5338,7 +5417,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:25):  I appreciate that. If the issues people have are not met, for whatever reason—we've also had quite a lot of evidence that people often don't disclose straight up—it may be a process where they are still noncompliant. Is there still a capacity for people over that six-month period to go through the seven-week process again; there's nothing to prevent that from happening?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5346,7 +5425,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:26):  No, you actually go back into the intensive compliance phase.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5354,7 +5433,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:26):  That's what I understood that you did—I'm genuinely trying to find out how this works. They go through the intensive phase again—just say you accumulate your four points again; okay? Once you've accumulated your fourth point again, you go through the number of weeks, again; that's correct, isn't it? You can then end up in the four-week phase again?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5371,7 +5450,7 @@ As I've also said, to ensure that genuine jobseekers don't enter that compliance
 
 Jobseekers in either phase who refuse an offer of suitable work or who fail to start in a suitable job without a valid reason will have their payment cancelled for four weeks. Again, this penalty is identical to that imposed on jobseekers who have reached three strikes and it recognises the seriousness of refusing work and the importance of reducing reliance on welfare, wherever possible. Again, we're building in safeguards along the way. Before any loss of payment or cancellation, the jobseeker will get to discuss the failure with DHS. If DHS determines that the jobseeker had a good reason for their actions, no penalty will apply. Again: we are building in safeguards along the way so that you are ultimately targeting those who are wilfully noncompliant as opposed to those who have made a genuine mistake or have a genuine excuse.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5379,7 +5458,7 @@ Jobseekers in either phase who refuse an offer of suitable work or who fail to s
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:30):  I appreciate you going through that. From that, it does seem to me that a person could end up going through the seven-week process at least twice in that six-month period.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5387,7 +5466,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:30):  Technically, yes, but that is only for those who are not meeting their obligations—hence why we're building in the safeguards along the way to ensure that we are assisting people to meet their obligations at all times and incentivising them to do the right thing, meet their obligations and go out to find work.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5395,7 +5474,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:31):  In terms of the first four points in the personal responsibility phase, are there some compliance failures that you lose more than one point for?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5403,7 +5482,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:31):  That is correct.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5411,7 +5490,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:31):  What are they? I must admit, I have been unable to properly work out what those failures are.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5419,7 +5498,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:31):  They are called demerit events. Fail to enter into a job plan: one demerit point. Fail to undertake job search: one demerit point. Fail to attend a provider appointment: one demerit point. Fail to attend a third-party appointment: one demerit point. Fail to attend an activity—for example, Work for the Dole—one demerit point. Failure to attend a job interview: as I previously explained, you are automatically referred to an immediate jobactive or DHS assessment, but that is when you are actually failing to attend a job interview. Failure to accept suitable work—you've been offered a job, it's suitable for you and you say no—your payment is cancelled and there is a four-week exclusion before reapplying. Again, that is because you have failed to accept suitable work; there was a job available and you said no. That is the list of demerit events.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5427,7 +5506,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:33):  Thank you for clearing that up. It seems to me from what you've just read out—and I understood what you've just said—that there's no occasion where you would lose two points at once. It's either you lose a demerit point or you go straight to seven, basically, if you refuse suitable work?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5435,7 +5514,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:33):  That is correct. Again, because of the seriousness of there being a job, it's suitable for you and you saying no.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5443,7 +5522,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:33):  In terms of this new system, there will be people at Centrelink and there will now be people on the Serco process. What arrangements are in place to make sure that they are thoroughly across this new system when people ring up? I appreciate that the providers will be available, but I strongly suspect that people are going to run into problems with payments and things like that, where they don't understand what's happening. Will there be specific lines people can ring around this new system?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5451,7 +5530,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:34):  I'm instructed that there will be an expanded call centre brought into play, and people will have access to that expanded call centre. The people manning the call centre will have the same training as DHS.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5459,7 +5538,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:35):  I appreciate that. Will there just be expanded call centres, and not specific lines and things like that, on this?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5467,7 +5546,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:35):  My instructions are it's not specific to this framework as such, but, because we're expanding it, there should be the capacity to take the calls et cetera.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5475,7 +5554,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:35):  I have a specific question around schedule 6. I figure we'll get them all done now and it will make it easier later. I don't know about misunderstanding, but there is some confusion about the number of people who are going to be affected by some parts of the jobseeker payment and the changes to the jobseeker payment, and I particularly now focused on schedule 6, the widow allowance. How many women who will be on the jobseeker payment immediately before 1 January 2022 who would have been eligible for widow's allowance before 1 January in 2018 won't be eligible for the age pension as they won't meet the residency requirements? This was an issue that came up during the inquiry, and I've actually heard a couple of different bits of information around that.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5483,7 +5562,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:36):  In responding to that, I'll take you through what the schedule does. Schedule 6, as you know, closes the widow allowance to new entrants from 1 January 2018. It ceases the widow allowance from 1 January 2022. From 1 January 2018, women who would otherwise have claimed the widow allowance may claim the age pension, if eligible; Newstart allowance, if under the age pension age; or special benefit, if over age pension age but not residentially qualified for the age pension. All existing widow allowance recipients will be of age pension age by 1 January 2022. Those who are not residentially qualified for the age pension by 1 January 2022 will be transferred to the age pension under one-off transition arrangements. This measure is part of a broader reform package which will create a simpler payment system that will drive the efficiencies et cetera and create greater administrative consistency within the welfare payment. So all existing widow allowance recipients will be of age pension age by 1 January 2022, but those who are not residentially qualified for the age pension by this date are going to be transferred to the age pension under what has been put in place: the one-off transition arrangements.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5491,7 +5570,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:38):  I take it, then, that you're saying that, of the women who are on the jobseeker payment before 1 January 2022, there'll be none who would have been eligible or were eligible before 1 January who won't get the age care pension? That's the bottom line. You're saying everybody will, in fact, get the age pension, regardless of residency?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5502,7 +5581,7 @@ Senator CASH
 
 Existing widow allowance recipients will be unaffected by the closure, remaining on the payment until they reach age pension age and transfer to the age pension. From 1 January 2022, the widow allowance, as you know, will cease and 400 recipients, who are over age pension age but do not meet the age pension residence qualification rules, as I said, will be transferred to age pension under the one-off transition. Does that give you the statistics?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5533,7 +5612,7 @@ The CHAIR:  The question is that schedule 1 and schedule 12 stand as printed.
 
 Question negatived.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5566,7 +5645,7 @@ The Greens also oppose schedule 3 in the following terms:
 
 These amendments relate to the transition payments for wife pensioners. Amendment (2) provides for the transition rate for wife pensioners to be indexed. Amendment (3), which also relates to the transition rate of wife pension, seeks to oppose schedule 3, items 45 to 49 in the terms circulated.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5580,7 +5659,7 @@ The bill represents the most comprehensive reform of Australia's working-age wel
 
 The Greens' opposition to schedule 4 is unfortunate because, under the jobseeker payment, those who are bereaved will receive significant up-front payments which would enable them to meet some of their expenses early. The proposed amendments to schedules 3, 5 and 6 will add to the complexity of the system rather than simplifying the already complex arrangements.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -5588,7 +5667,7 @@ The Greens' opposition to schedule 4 is unfortunate because, under the jobseeker
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:47):  While I appreciate what the government is trying to do in terms of creating a new, simpler payment, we don't want people to be worse off under this process than under the previous payments. That's why we are seeking to move these amendments. We do understand what the government is trying to achieve, but it's unfortunate that people are going to be hurt along the way. That's why we are seeking to make sure that we have an appropriate indexation rate in place.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -5596,7 +5675,7 @@ Senator SIEWERT
 Senator CAMERON
  (New South Wales) (18:48):  Minister, did the government consider grandfathering the 200 low-income women who will be forced to live on nothing from 20 March 2020? If you did, what would it cost?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5616,7 +5695,7 @@ Senator Cameron:
 Senator CASH:
   Senator Cameron, you are right: these recipients are no longer eligible for any other social security payment as they are under age pension age and, based on available information, would not be eligible for another payment under an international agreement or a portable agreement. If these recipients returned to Australia they may be eligible for the jobseeker payment.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -5624,7 +5703,7 @@ Senator CASH:
 Senator CAMERON
  (New South Wales) (18:49):  But, Minister, you are the Minister for Women. Did you try and ameliorate this issue for those women who are going to be affected by this?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5632,7 +5711,7 @@ Senator CAMERON
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:50):  Most of these people report income already.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -5640,7 +5719,7 @@ Senator CASH
 Senator CAMERON
  (New South Wales) (18:50):  Did you get any advice on what it would cost to grandfather these low-income women?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5648,7 +5727,7 @@ Senator CAMERON
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:50):  The government's position is as stated.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -5656,7 +5735,7 @@ Senator CASH
 Senator CAMERON
  (New South Wales) (18:50):  So, the government's position, and the Minister for Women's position, is to take money away from low-income women who could be forced to live on nothing from 20 March 2020?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5664,7 +5743,7 @@ Senator CAMERON
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:50):  These are people who are living overseas, and, as we've stated, if they were to return to Australia, they may well qualify for a payment.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -5672,7 +5751,7 @@ Senator CASH
 Senator CAMERON
  (New South Wales) (18:51):  What's the rationale for ceasing the indexation of the payment for women transitioning onto the jobseeker payment, and what would it cost to maintain indexation?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5680,7 +5759,7 @@ Senator CAMERON
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:51):  I'm instructed that we don't, unfortunately, have those figures to hand.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -5688,7 +5767,7 @@ Senator CASH
 Senator CAMERON
  (New South Wales) (18:51):  Given we are debating this bill tonight, I find it quite perplexing that you don't have the figures to hand for a cut to the indexation payments for women transitioning onto the jobseeker payment. Are you in a position to provide that information tonight?
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5696,7 +5775,7 @@ Senator CAMERON
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:52):  The advisers will see what information they're able to provide to the Senate tonight.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -5710,7 +5789,7 @@ Our view is that it would not take a lot of money to look after 3,100 women. Lab
 
 Our view is that this is a cruel and unnecessary cut. Minister, we just can't understand how, as Minister for Women, you could support this. It's a minimal cost to the government's budget. It would mean a significant continuation of income for some of our vulnerable women. I'd just like to ask again—I see there have been some people talking to you—whether you do have the cost of this and what it would cost to maintain the indexation.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -5724,7 +5803,7 @@ Progress reported.
 
 Ordered that the committee have leave to sit again on the next day of sitting.
 
-",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,24,1,speech
 "McAllister, Sen Jenny",ALP,2017-12-07,"
 
 
@@ -5828,7 +5907,7 @@ The thing about the proposal that the government brought forward is that we don'
 
 This bill forms part of a long list of pointless and expensive uses of taxpayer money by the government to punish the poor and the young. It is polarising, moralising and dangerous rhetoric. It's a mythical creation—the deserving and non-deserving poor, where poverty and unemployment are recast as personal or moral failure rather than a result of complex people facing complex challenges and often dealing with health issues alongside their social and economic factors. We should reject this. We should reject it now and we should reject attempts to introduce it in the future. The government should go back to the drawing board rather than insisting on retaining this as part of their policy plans. The government should go back and engage with complexity. They should use evidence and they should take the advice of experts. Most importantly, the government should work with local communities, like the community in Canterbury-Bankstown, and see if they have ideas that could be used to address serious social and health issues in a way that might actually make a difference.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "O'Neill, Sen Deb",ALP,2017-12-07,"
 
 
@@ -5902,7 +5981,7 @@ We already know, as I've said, that there are very long waiting times for access
 
 I would like to conclude with the comments of Sandra Goldie from the Australian Council of Social Services: 'There is no evidence that this drug testing proposal will lead to improved health, social or employment outcomes for people. Indeed, the evidence is to the contrary. Drug test measures would direct very precious dollars to a measure that has been widely condemned by leading health experts.' That should be the last word on this. It's not evidence based; it's punitive and it will cost more than it will deliver.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Ketter, Sen Christopher",ALP,2017-12-07,"
 
 
@@ -6051,7 +6130,7 @@ The government don't have an adequate plan for getting older Australians back in
 
 In conclusion, Labor opposes many of the measures in this bill. Many of the measures in the proposed bill only further disadvantage already vulnerable people. They contribute to inequality; they do not address it. It is yet another example of this government attacking those most vulnerable in our community. Labor will not stand for it.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Bartlett, Sen Andrew",AG,2017-12-07,"
 
 
@@ -6125,7 +6204,7 @@ There are a range of other measures in this legislation as well, and some of tho
 
 I was in Townsville a couple of weeks ago, speaking to people at a local community legal centre there about the challenges that so many of their clients face, particularly with regard to dealing with Centrelink, actually being able to get a problem sorted out with Centrelink. We all know about the scandalous robo-debt attack and farce that this government has been perpetrating on people on income support. How about actually helping the battlers instead of bashing the battlers? That's what we need to see if we want to get a real change here. If we actually want to help people, we need to see investment in proper assistance to people, including through the social services that the Senate committee inquiry highlighted as not being provided now. And let me take the opportunity to put on the record the need to significantly increase the scandalously low basic payment for Newstart, which has been going backwards in value for years. The gap between Newstart and the pension has been getting bigger and bigger. As I said in this place last week, people on income support trying to afford a home anywhere in any capital city in the country—certainly in Brisbane in South-East Queensland—are paying over half of their income just on rent. That's before food. That's before childcare. That's before getting to a job. That's before everything else. Let's see some action on that, rather than this latest hotchpotch of measures that is mostly focused on making life harder and reinforcing that political narrative which targets and stigmatises people on income support. It's about time we had a change in that regard. Some of the Greens, including myself, will continue to push on into the future.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -6162,7 +6241,7 @@ Senator Pratt
  did not vote, to compensate for the vacancy caused by the resignation of Senator Kakoschke-Moore. 
 
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -6170,7 +6249,7 @@ Senator Pratt
 Senator CAMERON
  (New South Wales) (18:03):  Labor certainly does not support this bill. This is a bill that is attacking the poorest, poorest people in this country, and we just do not believe that this is either humane thing to do or the proper thing to do. So Labor will be indicating our opposition to all these amendments that are up from the government, and we will be speaking on each one of them.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -6868,7 +6947,7 @@ Schedule 6, item 3, page 141 (lines 29 and 30), omit paragraph 603AC(1) (c), sub
 
 (c) she ceased to be a member of a couple after turning 40;
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -6876,7 +6955,7 @@ Schedule 6, item 3, page 141 (lines 29 and 30), omit paragraph 603AC(1) (c), sub
 Senator CAMERON
  (New South Wales) (18:04):  I did indicate we'd be opposing all the government's amendments. If, as I understand it, NXT is backing this bill in then we will have to have a look at the amendments and deal with them on their merits as they come up.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -6888,7 +6967,7 @@ Senator SIEWERT
 
 The CHAIR:  That's right, but they'll be split into parts 1 and 2. I'll put the question on part 1 unless someone wishes to speak.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -6896,7 +6975,7 @@ The CHAIR:  That's right, but they'll be split into parts 1 and 2. I'll put the 
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:06):  I have a series of questions that I would like to ask the government about a number of the schedules. As we know, there are a lot of schedules in this bill. I figure it's better to get them done now, and then we'll go through the specific amendments. I want to ask a few questions about the compliance framework, which is schedule 15. First off, I want to ask about the four weeks—once they go through the seven-point process and they end up with a four-week cancellation, it's my understanding that people won't have to reapply for the income support payment that they're on.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -6907,7 +6986,7 @@ Senator CASH
 
 Jobseekers in the three-strikes phase who remain fully compliant for three months will return to the demerits phase. In either phase, any jobseeker who refuses work without a valid reason will have their payment cancelled for four weeks in recognition of the seriousness of this. To ensure that genuine jobseekers who simply are having difficulty meeting their requirements do not enter the three-strikes phase, their provider will assess their capability and requirements after their third demerit, and DHS will also do so after their fourth. At either point, if they are found to be unable to meet the requirements, those requirements will be reset, and they will return to the demerits phase.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -6915,7 +6994,7 @@ Jobseekers in the three-strikes phase who remain fully compliant for three month
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:09):  I may have misheard. When you were talking about the loss of two weeks worth of payment, I thought that was at the sixth. So there's one week, two weeks, four weeks, I thought. Is that correct?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -6933,7 +7012,7 @@ Senator Siewert interjecting—
 Senator CASH:
   Sorry, it must have been the terminology.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -6941,7 +7020,7 @@ Senator CASH:
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:10):  Yes, it's the terminology. In terms, then, of the process of engagement, once you've lost your four-week payment—so you've got your seventh; you've got your four weeks. So—and I'm sorry if I've misunderstood what you just said—you don't have to reapply. Is there a process of engagement over those four weeks, or are they just left for four weeks? Is there an intensive process of engagement for those four weeks?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -6949,7 +7028,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:11):  I understand they're able to volunteer for jobactive should they choose to. If not, they are left.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -6957,7 +7036,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:11):  So there's actually no incentive for them to engage with jobactive voluntarily if they're on no payment and there's not a way to get off the four weeks of no payment. That's a correct understanding, isn't it?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -6965,7 +7044,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:11):  The incentive, obviously, would be to actually get a job, hence the stance that has been taken.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -6973,7 +7052,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:11):  I can understand that that's what you think is going to happen, but, in fact, we know there are not enough jobs out there for people to get a job. So what is going to happen for those four weeks? People are going to have no income. There's no incentive for them to re-engage voluntarily, because they've just been dumped off income support, and they actually don't have the resources to go and find a job—pay the phone et cetera—or even buy food.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -6981,7 +7060,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:12):  Again, they are encouraged to obviously engage with jobactive or, alternatively, not get to this stage, because, along the way, there has been in-built the ability to actually engage with your provider and to engage with DHS. So, at each phase, you're actively engaging to ensure that you don't get to this stage.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -6989,7 +7068,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:12):  This process happens over the six-month process. I'm trying to understand, then, what happens if I've been in the intensive four-week phase. Is it possible that I could end up going through the intensive phase again in that six months and end up on four weeks loss of payment again?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7000,7 +7079,7 @@ Senator CASH
 
 Existing protections for the 200,000 jobseekers who have some sort of exemption from their mutual obligations or are fully meeting their obligations through approved activities will also be preserved. If a jobseeker does reach the three-strikes phase and again fails to meet their requirements, no penalty will be applied if they have a reasonable excuse for their failure. As is currently the case, all financial penalty decisions will be made by DHS and not by providers. As you are aware, we've also ensured that jobseekers will be able to continue to appeal against the financial penalties that have been put in place, first to a Centrelink-authorised review officer and then to the Administrative Appeals Tribunal. So, again, there are safeguards built in along the way to ensure that you don't get to or limit the possibility of getting to that final phase.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -7017,7 +7096,7 @@ It's easy for the coalition to justify this, because they've got form when it co
 
 What is the government's rationale for cutting a short-term income support payment to low-income people who have lost their partner? Have you got no shame?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7025,7 +7104,7 @@ What is the government's rationale for cutting a short-term income support payme
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:17):  To ensure that no existing recipients will be worse off, people in receipt of bereavement allowance on implementation will continue to receive it until the end of their bereavement period, which is a maximum of 14 weeks, or for a pregnant woman until the end of her pregnancy.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -7042,7 +7121,7 @@ Schedule 13 removes the exemptions due to drugs or alcohol for people who are no
 
 We think this is a terrible bill. I just don't understand how anyone can sit in this chamber on a $200,000 basic salary—anywhere up to $400,000 for ministers—and vote for this and try to justify cutting the welfare payments for the poorest in this country. I'll summarise our position: we think this is an atrocious bill. We think it typifies what this coalition government is all about. However, we've got no option, given the capitulation by NXT to the Liberal Party and the coalition, once again, but to actually agree to these small amendments that ameliorate it in a very small way. I hope I've made our opposition to this clear and how terrible this is for people on welfare in this country.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -7050,7 +7129,7 @@ We think this is a terrible bill. I just don't understand how anyone can sit in 
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:23):  I'm sorry this seems a bit disjointed, and I also thank Senator Cameron for clearing up the ALP's position on the government amendments. I will come to my comments on the government amendments shortly. However, I don't want to detain the chamber longer than necessary, but this is an extremely long bill—18 schedules—with a number of different things happening in the bill. I do have a few more questions around schedule 15 to do with the compliance process. The minister had been explaining the process to go through from demerit point 3 to 4, the support and the process to go through to demerit point 7 and the four weeks off. I'm trying to clarify: they re-engage and they come back to four again—that's correct, isn't it? You re-engage and you come back?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7058,7 +7137,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:25):  I've been advised you come back to one.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -7066,7 +7145,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:25):  Thank you for clarifying that because it was unclear. It is then possible that they could get another four-week suspension if we're not meeting people's needs and they're continuingly in noncompliance. It is possible they could end up with another total of seven weeks noncompliance over that six-month period. Is that a correct understanding?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7074,7 +7153,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:25):  Not if they keep turning up to their appointments.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -7082,7 +7161,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:25):  I appreciate that. If the issues people have are not met, for whatever reason—we've also had quite a lot of evidence that people often don't disclose straight up—it may be a process where they are still noncompliant. Is there still a capacity for people over that six-month period to go through the seven-week process again; there's nothing to prevent that from happening?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7090,7 +7169,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:26):  No, you actually go back into the intensive compliance phase.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -7098,7 +7177,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:26):  That's what I understood that you did—I'm genuinely trying to find out how this works. They go through the intensive phase again—just say you accumulate your four points again; okay? Once you've accumulated your fourth point again, you go through the number of weeks, again; that's correct, isn't it? You can then end up in the four-week phase again?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7115,7 +7194,7 @@ As I've also said, to ensure that genuine jobseekers don't enter that compliance
 
 Jobseekers in either phase who refuse an offer of suitable work or who fail to start in a suitable job without a valid reason will have their payment cancelled for four weeks. Again, this penalty is identical to that imposed on jobseekers who have reached three strikes and it recognises the seriousness of refusing work and the importance of reducing reliance on welfare, wherever possible. Again, we're building in safeguards along the way. Before any loss of payment or cancellation, the jobseeker will get to discuss the failure with DHS. If DHS determines that the jobseeker had a good reason for their actions, no penalty will apply. Again: we are building in safeguards along the way so that you are ultimately targeting those who are wilfully noncompliant as opposed to those who have made a genuine mistake or have a genuine excuse.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -7123,7 +7202,7 @@ Jobseekers in either phase who refuse an offer of suitable work or who fail to s
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:30):  I appreciate you going through that. From that, it does seem to me that a person could end up going through the seven-week process at least twice in that six-month period.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7131,7 +7210,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:30):  Technically, yes, but that is only for those who are not meeting their obligations—hence why we're building in the safeguards along the way to ensure that we are assisting people to meet their obligations at all times and incentivising them to do the right thing, meet their obligations and go out to find work.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -7139,7 +7218,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:31):  In terms of the first four points in the personal responsibility phase, are there some compliance failures that you lose more than one point for?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7147,7 +7226,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:31):  That is correct.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -7155,7 +7234,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:31):  What are they? I must admit, I have been unable to properly work out what those failures are.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7163,7 +7242,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:31):  They are called demerit events. Fail to enter into a job plan: one demerit point. Fail to undertake job search: one demerit point. Fail to attend a provider appointment: one demerit point. Fail to attend a third-party appointment: one demerit point. Fail to attend an activity—for example, Work for the Dole—one demerit point. Failure to attend a job interview: as I previously explained, you are automatically referred to an immediate jobactive or DHS assessment, but that is when you are actually failing to attend a job interview. Failure to accept suitable work—you've been offered a job, it's suitable for you and you say no—your payment is cancelled and there is a four-week exclusion before reapplying. Again, that is because you have failed to accept suitable work; there was a job available and you said no. That is the list of demerit events.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -7171,7 +7250,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:33):  Thank you for clearing that up. It seems to me from what you've just read out—and I understood what you've just said—that there's no occasion where you would lose two points at once. It's either you lose a demerit point or you go straight to seven, basically, if you refuse suitable work?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7179,7 +7258,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:33):  That is correct. Again, because of the seriousness of there being a job, it's suitable for you and you saying no.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -7187,7 +7266,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:33):  In terms of this new system, there will be people at Centrelink and there will now be people on the Serco process. What arrangements are in place to make sure that they are thoroughly across this new system when people ring up? I appreciate that the providers will be available, but I strongly suspect that people are going to run into problems with payments and things like that, where they don't understand what's happening. Will there be specific lines people can ring around this new system?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7195,7 +7274,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:34):  I'm instructed that there will be an expanded call centre brought into play, and people will have access to that expanded call centre. The people manning the call centre will have the same training as DHS.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -7203,7 +7282,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:35):  I appreciate that. Will there just be expanded call centres, and not specific lines and things like that, on this?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7211,7 +7290,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:35):  My instructions are it's not specific to this framework as such, but, because we're expanding it, there should be the capacity to take the calls et cetera.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -7219,7 +7298,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:35):  I have a specific question around schedule 6. I figure we'll get them all done now and it will make it easier later. I don't know about misunderstanding, but there is some confusion about the number of people who are going to be affected by some parts of the jobseeker payment and the changes to the jobseeker payment, and I particularly now focused on schedule 6, the widow allowance. How many women who will be on the jobseeker payment immediately before 1 January 2022 who would have been eligible for widow's allowance before 1 January in 2018 won't be eligible for the age pension as they won't meet the residency requirements? This was an issue that came up during the inquiry, and I've actually heard a couple of different bits of information around that.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7227,7 +7306,7 @@ Senator SIEWERT
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:36):  In responding to that, I'll take you through what the schedule does. Schedule 6, as you know, closes the widow allowance to new entrants from 1 January 2018. It ceases the widow allowance from 1 January 2022. From 1 January 2018, women who would otherwise have claimed the widow allowance may claim the age pension, if eligible; Newstart allowance, if under the age pension age; or special benefit, if over age pension age but not residentially qualified for the age pension. All existing widow allowance recipients will be of age pension age by 1 January 2022. Those who are not residentially qualified for the age pension by 1 January 2022 will be transferred to the age pension under one-off transition arrangements. This measure is part of a broader reform package which will create a simpler payment system that will drive the efficiencies et cetera and create greater administrative consistency within the welfare payment. So all existing widow allowance recipients will be of age pension age by 1 January 2022, but those who are not residentially qualified for the age pension by this date are going to be transferred to the age pension under what has been put in place: the one-off transition arrangements.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -7235,7 +7314,7 @@ Senator CASH
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:38):  I take it, then, that you're saying that, of the women who are on the jobseeker payment before 1 January 2022, there'll be none who would have been eligible or were eligible before 1 January who won't get the age care pension? That's the bottom line. You're saying everybody will, in fact, get the age pension, regardless of residency?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7246,7 +7325,7 @@ Senator CASH
 
 Existing widow allowance recipients will be unaffected by the closure, remaining on the payment until they reach age pension age and transfer to the age pension. From 1 January 2022, the widow allowance, as you know, will cease and 400 recipients, who are over age pension age but do not meet the age pension residence qualification rules, as I said, will be transferred to age pension under the one-off transition. Does that give you the statistics?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -7277,7 +7356,7 @@ The CHAIR:  The question is that schedule 1 and schedule 12 stand as printed.
 
 Question negatived.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -7310,7 +7389,7 @@ The Greens also oppose schedule 3 in the following terms:
 
 These amendments relate to the transition payments for wife pensioners. Amendment (2) provides for the transition rate for wife pensioners to be indexed. Amendment (3), which also relates to the transition rate of wife pension, seeks to oppose schedule 3, items 45 to 49 in the terms circulated.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7324,7 +7403,7 @@ The bill represents the most comprehensive reform of Australia's working-age wel
 
 The Greens' opposition to schedule 4 is unfortunate because, under the jobseeker payment, those who are bereaved will receive significant up-front payments which would enable them to meet some of their expenses early. The proposed amendments to schedules 3, 5 and 6 will add to the complexity of the system rather than simplifying the already complex arrangements.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-12-07,"
 
 
@@ -7332,7 +7411,7 @@ The Greens' opposition to schedule 4 is unfortunate because, under the jobseeker
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (18:47):  While I appreciate what the government is trying to do in terms of creating a new, simpler payment, we don't want people to be worse off under this process than under the previous payments. That's why we are seeking to move these amendments. We do understand what the government is trying to achieve, but it's unfortunate that people are going to be hurt along the way. That's why we are seeking to make sure that we have an appropriate indexation rate in place.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -7340,7 +7419,7 @@ Senator SIEWERT
 Senator CAMERON
  (New South Wales) (18:48):  Minister, did the government consider grandfathering the 200 low-income women who will be forced to live on nothing from 20 March 2020? If you did, what would it cost?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7360,7 +7439,7 @@ Senator Cameron:
 Senator CASH:
   Senator Cameron, you are right: these recipients are no longer eligible for any other social security payment as they are under age pension age and, based on available information, would not be eligible for another payment under an international agreement or a portable agreement. If these recipients returned to Australia they may be eligible for the jobseeker payment.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -7368,7 +7447,7 @@ Senator CASH:
 Senator CAMERON
  (New South Wales) (18:49):  But, Minister, you are the Minister for Women. Did you try and ameliorate this issue for those women who are going to be affected by this?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7376,7 +7455,7 @@ Senator CAMERON
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:50):  Most of these people report income already.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -7384,7 +7463,7 @@ Senator CASH
 Senator CAMERON
  (New South Wales) (18:50):  Did you get any advice on what it would cost to grandfather these low-income women?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7392,7 +7471,7 @@ Senator CAMERON
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:50):  The government's position is as stated.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -7400,7 +7479,7 @@ Senator CASH
 Senator CAMERON
  (New South Wales) (18:50):  So, the government's position, and the Minister for Women's position, is to take money away from low-income women who could be forced to live on nothing from 20 March 2020?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7408,7 +7487,7 @@ Senator CAMERON
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:50):  These are people who are living overseas, and, as we've stated, if they were to return to Australia, they may well qualify for a payment.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -7416,7 +7495,7 @@ Senator CASH
 Senator CAMERON
  (New South Wales) (18:51):  What's the rationale for ceasing the indexation of the payment for women transitioning onto the jobseeker payment, and what would it cost to maintain indexation?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7424,7 +7503,7 @@ Senator CAMERON
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:51):  I'm instructed that we don't, unfortunately, have those figures to hand.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -7432,7 +7511,7 @@ Senator CASH
 Senator CAMERON
  (New South Wales) (18:51):  Given we are debating this bill tonight, I find it quite perplexing that you don't have the figures to hand for a cut to the indexation payments for women transitioning onto the jobseeker payment. Are you in a position to provide that information tonight?
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7440,7 +7519,7 @@ Senator CAMERON
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (18:52):  The advisers will see what information they're able to provide to the Senate tonight.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cameron, Sen Doug",ALP,2017-12-07,"
 
 
@@ -7454,7 +7533,7 @@ Our view is that it would not take a lot of money to look after 3,100 women. Lab
 
 Our view is that this is a cruel and unnecessary cut. Minister, we just can't understand how, as Minister for Women, you could support this. It's a minimal cost to the government's budget. It would mean a significant continuation of income for some of our vulnerable women. I'd just like to ask again—I see there have been some people talking to you—whether you do have the cost of this and what it would cost to maintain the indexation.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Cash, Sen Michaelia",LP,2017-12-07,"
 
 
@@ -7468,7 +7547,7 @@ Progress reported.
 
 Ordered that the committee have leave to sit again on the next day of sitting.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "McAllister, Sen Jenny",ALP,2017-12-07,"
 
 
@@ -7551,7 +7630,7 @@ Acting Deputy President, as I have said, the motion I have moved would adopt the
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Procedure Committee</title>,COMMITTEES,25,1
+",Senate,<title>COMMITTEES</title>,<title>Procedure Committee</title>,COMMITTEES,25,1,speech
 "McAllister, Sen Jenny",ALP,2017-12-07,"
 
 
@@ -7634,7 +7713,7 @@ Acting Deputy President, as I have said, the motion I have moved would adopt the
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,25,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,25,2,speech
 "Brandis, Sen George",LP,2017-12-07,"
 
 
@@ -7776,7 +7855,7 @@ I want to end on this note: this is a momentous day, as Senator Brandis has said
 
 Honourable senators:  Hear, hear!
 
-",Senate,<title>STATEMENTS</title>,<title>Valedictories</title>,STATEMENTS,29,1
+",Senate,<title>STATEMENTS</title>,<title>Valedictories</title>,STATEMENTS,29,1,speech
 "Di Natale, Sen Richard",AG,2017-12-07,"
 
 
@@ -7868,7 +7947,7 @@ And, of course, what a great day to finish the year on! What a great day. It's o
 
 Let me just finish by signing off, as I do each year. For the benefit of some of the members on my left: have a happy non-denominational, gender-neutral, environmentally sustainable and socially responsible holiday! We don't like using the word 'Christmas'! Perhaps as a tribute to the difficulties we've had through the dual citizenship fiasco that has unfolded this year, let me say Buon Natale a tutti! Happy Christmas, everyone!
 
-",Senate,<title>STATEMENTS</title>,<title>Valedictories</title>,STATEMENTS,29,1
+",Senate,<title>STATEMENTS</title>,<title>Valedictories</title>,STATEMENTS,29,1,speech
 "Scullion, Sen Nigel",CLP,2017-12-07,"
 
 
@@ -7900,7 +7979,7 @@ Finally, I say to our current President: well done, mate. Everybody brings a dif
 
 I wish you all a very merry Christmas. May Australia reclaim the Ashes. Most importantly, have a very safe holiday. If you find yourself up in the Territory, give me a yell. There are always a few beers and barras hanging around. Merry Christmas.
 
-",Senate,<title>STATEMENTS</title>,<title>Valedictories</title>,STATEMENTS,29,1
+",Senate,<title>STATEMENTS</title>,<title>Valedictories</title>,STATEMENTS,29,1,speech
 "Hinch, Sen Derryn",DHJP,2017-12-07,"
 
 
@@ -7917,7 +7996,7 @@ I would like to thank Richard Pye, Maureen, the staff, the attendants, the COMCA
 
 The way my fellow senators and their staff have negotiated with me has been fantastic. I trust you all with the way you stick to deals et cetera. I extend to my fellow senators yuletide greetings. Have a safe and meaningful Christmas. To our new President, who I think is doing a great job—and I promise you I won't sing it like Bing Crosby—'Mele Kalikimaka.'
 
-",Senate,<title>STATEMENTS</title>,<title>Valedictories</title>,STATEMENTS,29,1
+",Senate,<title>STATEMENTS</title>,<title>Valedictories</title>,STATEMENTS,29,1,speech
 "Griff, Sen Stirling",NXT,2017-12-07,"
 
 
@@ -7935,7 +8014,7 @@ Skye and Nick were here very much for the right reasons, and we certainly hope, 
 
 Honourable senators:  Hear, hear!
 
-",Senate,<title>STATEMENTS</title>,<title>Valedictories</title>,STATEMENTS,29,1
+",Senate,<title>STATEMENTS</title>,<title>Valedictories</title>,STATEMENTS,29,1,speech
 "PRESIDENT, The",,2017-12-07,"
 
 
@@ -7965,4 +8044,4 @@ Merry Christmas to all who work in and around this building, our staff and our l
 
 Honourable senators:  Hear, hear!
 
-",Senate,<title>STATEMENTS</title>,<title>Valedictories</title>,STATEMENTS,29,1
+",Senate,<title>STATEMENTS</title>,<title>Valedictories</title>,STATEMENTS,29,1,speech

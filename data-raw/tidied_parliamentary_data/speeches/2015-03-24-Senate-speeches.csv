@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2015-03-24,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (12:31):  Unless any senator wishes to have that motion put we will proceed to business.
 
-",Senate,<title>COMMITTEES</title>,<title>Joint Standing Committee on Treaties</title>,COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,<title>Joint Standing Committee on Treaties</title>,COMMITTEES,1,1,speech
 "PRESIDENT, The",,2015-03-24,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (12:31):  Unless any senator wishes to have that motion put we will proceed to business.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "Fifield, Sen Mitch",LP,2015-03-24,"
 
 
@@ -31,7 +31,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,3,1,speech
 "Fifield, Sen Mitch",LP,2015-03-24,"
 
 
@@ -210,7 +210,7 @@ This Bill is critical to prevent the capabilities of Australia's law enforcement
 
 More broadly, this Bill demonstrates the Government's commitment to ensuring that access to sensitive and personal information by these agencies is strictly controlled through robust accountability processes. 
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,3,1,speech
 "Collins, Sen Jacinta",ALP,2015-03-24,"
 
 
@@ -314,7 +314,7 @@ Senator Faulkner developed a set of reforms designed to ensure that the effectiv
 
 So Labor will bring forward legislation this year to give effect to the reforms proposed by Senator Faulkner to build better oversight of the whole national security framework. It is in this context that the bill was first presented. The bill now, as heavily amended, sits— (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,3,1,speech
 "Ludlam, Sen Scott",AG,2015-03-24,"
 
 
@@ -487,7 +487,7 @@ So what I am proposing now is that we take our power back from a government that
 
 We will not forget what the major parties have done this week and we will not forgive them when the inevitable privacy breaches occur down the track. This measure will be repealed at some stage in the future, either repealed or rendered obsolete as technology marches forward. If you are listening to this debate and you wish it were to end differently, change the way parliament operates and help break the two-party system once and for all.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,3,1,speech
 "Wright, Sen Penny",AG,2015-03-24,"
 
 
@@ -573,7 +573,7 @@ These are just a few of the very serious problems the Australian Greens have ide
 
 When future generations look back to see how and why mass surveillance became legal in Australia, I believe the Australian Greens will stand out as the only party that was prepared to fight for the privacy and legal rights of ordinary Australians. I urge the Senate not to pass this bill and, if this course of action is rejected, to at least adopt the amendments to make the bill safer proposed by the Australian Greens.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,3,1,speech
 "Conroy, Sen Stephen",ALP,2015-03-24,"
 
 
@@ -702,7 +702,7 @@ Our security agencies have requested changes to these laws to support their work
 
 It may come as a surprise to some of those in the chamber who have been interjecting, but I when I opened by referring to 'some of the more general arguments and accusations that have been made by some members of this chamber', I was not actually talking about them—until they self-selected by intruding into my contribution. I was referring more to one of our New South Wales colleagues. But by interjecting you have emphasised the stark contrast between your position and that of the Labor Party on this legislation. I commend the bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,3,1,speech
 "Hanson-Young, Sen Sarah",AG,2015-03-24,"
 
 
@@ -752,7 +752,7 @@ We know that the Australian government—the immigration department in particula
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,3,1,speech
 "Fifield, Sen Mitch",LP,2015-03-24,"
 
 
@@ -769,7 +769,107 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,3,2,speech
+"Singh, Sen Lisa",ALP,2015-03-24,"
+
+
+
+Senator SINGH
+ (Tasmania) (14:00):  My question is to the Minister for Finance, Senator Cormann. I refer to the finance minister's decision to rule out further cuts to the aid budget. Can he confirm that this was a response to the foreign minister's fit of pique at leaks from the Treasurer's office?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>International Development Assistance</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Singh, Sen Lisa",ALP,2015-03-24,"
+
+
+
+Senator SINGH
+ (Tasmania) (14:00):  Mr President, I ask a supplementary question. Now that the Minister for Finance has ruled out further foreign aid cuts, will he also rule out further cuts to health and further cuts to hospitals?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>International Development Assistance</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Singh, Sen Lisa",ALP,2015-03-24,"
+
+
+
+Senator SINGH
+ (Tasmania) (14:02):  Mr President, I ask a further supplementary question. I think the answer was no to that one. We will see how we go with the final supplementary question. The Minister for Finance has ruled out further cuts to foreign aid, so will he rule out further cuts to education and further cuts to schools?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>International Development Assistance</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Cormann, Sen Mathias",LP,2015-03-24,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance) (14:00):  No.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>International Development Assistance</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Cormann, Sen Mathias",LP,2015-03-24,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance) (14:00):  What I will rule out is a continuation of the unsustainable spending growth trajectory that Labor put Australia on. What I can rule out is a continuation of the policies of the previous government which contributed to a weakening of the economy, rising unemployment and a budget position which was rapidly deteriorating, taking us to government debt of 122 per cent as a share of the economy within just a couple of decades. That is of course that trajectory that none other than the failed former finance minister—
+
+
+
+The PRESIDENT:  Pause the clock. Senator Moore, a point of order?
+
+
+
+
+Senator Moore:
+  Direct relevance, Mr President. Can the minister rule out cuts to health and hospitals?
+
+
+
+The PRESIDENT:  Minister, I will remind you of the question. You have 21 seconds in which to answer the question.
+
+
+
+
+Senator CORMANN:
+  Thank you very much, Mr President. As Senator Singh knows, the budget will be delivered on the second Tuesday in May, and what I can say to Senator Singh is that—
+
+
+
+
+Opposition members interjecting—
+
+
+
+
+
+Senator CORMANN:
+  Senator Singh asked me about what I can rule out. I can rule out a continuation of the disastrous trajectory that the worst finance minister in Australia's history put Australia on, a trajectory that— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>International Development Assistance</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Cormann, Sen Mathias",LP,2015-03-24,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance) (14:03):  What the government will continue to do is make the decisions in order to put Australia on a stronger foundation for the future. The previous government put Australia on a trajectory where we were borrowing from our children and grandchildren, putting their living standards at risk by forcing them to pay for our day-to-day living expenses today as well as their own. Of course, that is not a trajectory that this government will continue. Indeed, in last year's budget we made a series of very important decisions to put Australia on a stronger foundation for the future. Three quarters—
+
+
+
+The PRESIDENT:  Pause the clock. Senator Moore, a point of order?
+
+
+
+
+Senator Moore:
+  Mr President, I was wondering whether we could get any comment about education and schools in the answer.
+
+
+
+The PRESIDENT:  Again, I will remind the minister of the question. He has 21 seconds in which to answer the question.
+
+
+
+
+Senator CORMANN:
+  Thank you very much, Mr President. When it comes to schools and education, the government will make sure that federal government funding for schools and education is sustainable over the long term. That is, of course, our responsibility as a government. If the Labor Party really cared about education, they would actually join us in making sure that federal government spending is sustainable and affordable within the economy. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>International Development Assistance</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
 "Singh, Sen Lisa",ALP,2015-03-24,"
 
 
@@ -792,7 +892,7 @@ Let us just have a look at what Senator Cormann is protecting. The government pr
 
 The Australian Council for International Development has said that if there were any further cuts to the aid program it will not be credible, it will not be effective. We have known that for some time. The minister knows that, and she knows Australia has got the weakest and the most depleted aid program in Australia's history. Hence her being so alarmed at the Treasurer's attempt to make an even deeper cut, and hence Senator Cormann coming to her rescue. Senator Cormann has not come to anyone's rescue. He was quite happy to have $11 billion cut out of the foreign aid budget last December. He is quite happy, as he has given in his answer today, to not rule out any further cuts to health, to not rule out any further cuts to education, and we know what effect that is having right now on students with disability, let alone all the other students who need decent quality education in our country, which only comes from decent funding of those critical government services. Labor of course contributed to official development assistance funding in every budget. We have a high record when it comes to foreign aid funding and when it comes to health and education, because our core values demand it. That is what we believe is the right way for Australia, not this government's awful— (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>International Development Assistance, Education Funding</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>International Development Assistance, Education Funding</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "Seselja, Sen Zed",LP,2015-03-24,"
 
 
@@ -955,7 +1055,7 @@ Senator SESELJA:
 
 On all of these issues, the Labor Party is not telling the truth. At least Senator Cameron, in his embarrassment, managed to acknowledge that he was not telling the truth. I hope Senator O'Neill, when she gets up, will make the same recognition—that she has gotten it wrong. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>International Development Assistance, Education Funding</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>International Development Assistance, Education Funding</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "O'Neill, Sen Deb",ALP,2015-03-24,"
 
 
@@ -987,7 +1087,7 @@ I want to point to the report brought to the parliament today, called 'State of 
 
 The really disgraceful thing that I want to put on the record is that, when Labor came in, we tried to get a national definition of disability and so we undertook research. That research went out into the disability sector. In contrast, since this government came in, they have failed to put very important reports on the public record. On 5 March, when I tried to table a report by PricewaterhouseCoopers on additional resourcing provided for students with disability, the Liberal members of that committee used their numbers to prevent me from making this document public. This government is a disgrace; they are keeping vital information from the sector, from parents and teachers. They cut them out of the conversation and assume that they have a right to rule from on high and, when they had the chance to be transparent, they walked away from the opportunity that Labor provided them to do the right thing. Instead, they shut down debate. They have not delivered funding in 2015; they have not committed to year 5 and year 6 of the Gonski funding. This government cannot be trusted in any policy area. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>International Development Assistance, Education Funding</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>International Development Assistance, Education Funding</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "Canavan, Sen Matthew",Nats,2015-03-24,"
 
 
@@ -1056,7 +1156,7 @@ Senator CANAVAN:
 
 Wouldn't it have been nice to have had $11 billion to spend on services for disabled children? Wouldn't it have been nice to not have to cut our foreign aid budget as much as we have had to do if we had had that $11 billion? But you did that. And we cannot get that money back now; we have to pay it back. We have to pay it back to those overseas whom we borrowed money from—to the Chinese government, to oil barons in the Middle East. That is who we borrowed money from. All that money that you wasted has to be repaid now. Unfortunately, that means that we cannot fund all of the things that we would like to do, including in the disabled space, the health space and the education space.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>International Development Assistance, Education Funding</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>International Development Assistance, Education Funding</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "Lines, Sen Susan",ALP,2015-03-24,"
 
 
@@ -1079,7 +1179,7 @@ Throwing away bipartisanship in relation to children with disability is part of 
 
 Question agreed to. 
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>International Development Assistance, Education Funding</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>International Development Assistance, Education Funding</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "Abetz, Sen Eric",LP,2015-03-24,"
 
 
@@ -1093,7 +1193,7 @@ That the Senate records its deep regret at the dearth on 23 March 2015 of Lee Ku
 
 Question agreed to, honourable members standing in their places.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Mr Lee Kuan Yew GCMG, CH</title>",CONDOLENCES,6,1
+",Senate,<title>CONDOLENCES</title>,"<title>Mr Lee Kuan Yew GCMG, CH</title>",CONDOLENCES,6,1,speech
 "Bushby, Sen David",LP,2015-03-24,"
 
 
@@ -1113,7 +1213,7 @@ That the Senate notes:
 
 Question agreed to. 
 
-",Senate,<title>MOTIONS</title>,<title>Employment</title>,MOTIONS,12,1
+",Senate,<title>MOTIONS</title>,<title>Employment</title>,MOTIONS,12,1,speech
 "Bushby, Sen David",LP,2015-03-24,"
 
 
@@ -1136,7 +1236,7 @@ That the Joint Committee of Public Accounts and Audit be authorised to hold priv
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Joint Committee of Public Accounts and Audit</title>,COMMITTEES,13,1
+",Senate,<title>COMMITTEES</title>,<title>Joint Committee of Public Accounts and Audit</title>,COMMITTEES,13,1,speech
 "Bushby, Sen David",LP,2015-03-24,"
 
 
@@ -1159,7 +1259,7 @@ That the Joint Committee of Public Accounts and Audit be authorised to hold priv
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,13,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,13,2,speech
 "Bushby, Sen David",LP,2015-03-24,"
 
 
@@ -1227,7 +1327,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>World Tuberculosis Day</title>,MOTIONS,14,1
+",Senate,<title>MOTIONS</title>,<title>World Tuberculosis Day</title>,MOTIONS,14,1,speech
 "Rice, Sen Janet",AG,2015-03-24,"
 
 
@@ -1313,7 +1413,7 @@ The impact of Australia's temporary work visa programs on the Australian labour 
 
 (2) That in conducting the inquiry, the committee shall review the findings and recommendations of previous inquiries into such matters, including the Legal and Constitutional Affairs References Committee's report, Framework and operation of subclass 457 visas, Enterprise Migration Agreements and Regional Migration Agreements.
 
-",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,15,1
+",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,15,1,speech
 "Cash, Sen Michaelia",LP,2015-03-24,"
 
 
@@ -1341,7 +1441,7 @@ The PRESIDENT:  The question is that the motion moved by Senator Rice be agreed 
 
  
 
-",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,15,1
+",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,15,1,speech
 "Rice, Sen Janet",AG,2015-03-24,"
 
 
@@ -1427,7 +1527,7 @@ The impact of Australia's temporary work visa programs on the Australian labour 
 
 (2) That in conducting the inquiry, the committee shall review the findings and recommendations of previous inquiries into such matters, including the Legal and Constitutional Affairs References Committee's report, Framework and operation of subclass 457 visas, Enterprise Migration Agreements and Regional Migration Agreements.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,15,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,15,2,speech
 "Cash, Sen Michaelia",LP,2015-03-24,"
 
 
@@ -1455,7 +1555,7 @@ The PRESIDENT:  The question is that the motion moved by Senator Rice be agreed 
 
  
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,15,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,15,2,speech
 "Rhiannon, Sen Lee",AG,2015-03-24,"
 
 
@@ -1478,7 +1578,7 @@ That the Senate—
 
 (ii) shut down its publicly-funded highered.gov.au site, which was designed to advertise the failed changes. 
 
-",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,16,1
+",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,16,1,speech
 "Fifield, Sen Mitch",LP,2015-03-24,"
 
 
@@ -1499,7 +1599,7 @@ Senator FIFIELD:
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,16,1
+",Senate,<title>MOTIONS</title>,<title>Abbott Government</title>,MOTIONS,16,1,speech
 "Siewert, Sen Rachel",AG,2015-03-24,"
 
 
@@ -1522,7 +1622,7 @@ That the Senate—
 
 Question negatived.
 
-",Senate,<title>MOTIONS</title>,<title>Welfare Reform</title>,MOTIONS,18,1
+",Senate,<title>MOTIONS</title>,<title>Welfare Reform</title>,MOTIONS,18,1,speech
 "Marshall, Sen Gavin",ALP,2015-03-24,"
 
 
@@ -1584,7 +1684,7 @@ That consideration of the report be made a Business of the Senate order of the d
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Procedure Committee</title>,COMMITTEES,19,1
+",Senate,<title>COMMITTEES</title>,<title>Procedure Committee</title>,COMMITTEES,19,1,speech
 "Marshall, Sen Gavin",ALP,2015-03-24,"
 
 
@@ -1646,7 +1746,7 @@ That consideration of the report be made a Business of the Senate order of the d
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,19,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,19,2,speech
 "Wright, Sen Penny",AG,2015-03-24,"
 
 
@@ -1666,7 +1766,7 @@ Senator WRIGHT:
 
 That the Senate take note of the report.
 
-",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,20,1
+",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,20,1,speech
 "Ludlam, Sen Scott",AG,2015-03-24,"
 
 
@@ -1704,7 +1804,7 @@ This report is extremely timely. Those who understand that the Australian Greens
 
 We simply could not have done this work without the hard work of the secretariat who do their work behind the scenes, particularly Ms Sophie Dunstone and Ms Sandra Kennedy—who regrettably the Senate has lost to the House of Representatives committee system. To those two in particular, and to Ms Jo-Anne Holmes, on behalf of the committee I thank them for their extraordinary work.
 
-",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,20,1
+",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,20,1,speech
 "Collins, Sen Jacinta",ALP,2015-03-24,"
 
 
@@ -1733,7 +1833,7 @@ I seek leave to continue my remarks later.
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,20,1
+",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,20,1,speech
 "Wright, Sen Penny",AG,2015-03-24,"
 
 
@@ -1753,7 +1853,7 @@ Senator WRIGHT:
 
 That the Senate take note of the report.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2,speech
 "Ludlam, Sen Scott",AG,2015-03-24,"
 
 
@@ -1791,7 +1891,7 @@ This report is extremely timely. Those who understand that the Australian Greens
 
 We simply could not have done this work without the hard work of the secretariat who do their work behind the scenes, particularly Ms Sophie Dunstone and Ms Sandra Kennedy—who regrettably the Senate has lost to the House of Representatives committee system. To those two in particular, and to Ms Jo-Anne Holmes, on behalf of the committee I thank them for their extraordinary work.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2,speech
 "Collins, Sen Jacinta",ALP,2015-03-24,"
 
 
@@ -1820,7 +1920,7 @@ I seek leave to continue my remarks later.
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2,speech
 "Ruston, Sen Anne",LP,2015-03-24,"
 
 
@@ -1831,7 +1931,7 @@ Senator RUSTON
 
 Ordered that the reports be printed.
 
-",Senate,<title>COMMITTEES</title>,"<title>Finance and Public Administration Legislation Committee, Education and Employment Legislation Committee</title>",COMMITTEES,23,1
+",Senate,<title>COMMITTEES</title>,"<title>Finance and Public Administration Legislation Committee, Education and Employment Legislation Committee</title>",COMMITTEES,23,1,speech
 "Ruston, Sen Anne",LP,2015-03-24,"
 
 
@@ -1842,7 +1942,7 @@ Senator RUSTON
 
 Ordered that the reports be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2,speech
 "Ludwig, Sen Joe",ALP,2015-03-24,"
 
 
@@ -1905,7 +2005,7 @@ The bill was introduced into parliament late last year. It was inadequate at tha
 
 The PRESIDENT:  Pursuant to the order of the Senate agreed to earlier today, the Senate will now move to valedictory statements.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,24,1,speech
 "Ludwig, Sen Joe",ALP,2015-03-24,"
 
 
@@ -1968,7 +2068,7 @@ The bill was introduced into parliament late last year. It was inadequate at tha
 
 The PRESIDENT:  Pursuant to the order of the Senate agreed to earlier today, the Senate will now move to valedictory statements.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Milne, Sen Christine",AG,2015-03-24,"
 
 
@@ -2045,7 +2145,7 @@ When you get to the issue of trusting our government bureaucracies and intellige
 
 When we get to looking at this as an overall objective in Australia, I think it is really sad that we have got to the point that we are legislating without evidence. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Singh, Sen Lisa",ALP,2015-03-24,"
 
 
@@ -2143,7 +2243,7 @@ I have raised a number of other aspects of this legislation that are great impro
 
 I will finish with a comment by former Senator John Faulkner, a former defence minister and someone who has very strong values in relation to freedom and privacy issues. He said that parliament must always strike the right balance between our security imperatives and our liberties and freedoms. That is what this bill should achieve.  With any review in the future, that must always be at the forefront.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Rhiannon, Sen Lee",AG,2015-03-24,"
 
 
@@ -2241,7 +2341,7 @@ Senator RHIANNON:
 
 Ever since the terrorist attack of September 2001, crime, spy and security agencies have been demanding more and more powers to reach into our private individual lives. This incursion for mandatory metadata retention will not make us safer or more secure. Mandatory data retention strikes at the very heart of the relationship between governments and the public. This bill, which is set to be passed on the combined vote of the Liberal, National and Labor parties, is an enormous setback as it delivers an increase in the power of the state over private individuals for indiscriminate surveillance. The campaign to stop this level of surveillance and to have this bill repealed is I believe set to become one of the most important issues in Australia.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Leyonhjelm, Sen David",LDP,2015-03-24,"
 
 
@@ -2306,7 +2406,7 @@ But why should a company concerned with the business of keeping animals healthy 
 
 This is bad law—law that compromises our rights and freedoms, treats us all as criminals-in-waiting, and invites abuse and overreach. It is wrong on every level. This bill should not be entertained in a liberal democracy such as ours. 
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Lambie, Sen Jacqui",Ind.,2015-03-24,"
 
 
@@ -2365,7 +2465,7 @@ In closing, it must be said that the mass storage of the metadata of all Austral
 
 Giving away this level of privacy of every Australian to that level of invasion by the government and its agencies no longer makes us a free society in my view and in the view of many courts and respected privacy advocates throughout the free world. I say this: I have a very, very strong suspicion that this is going to come back and bite the coalition. When it does there will be a few of us on this side standing up to say, 'I told you so!' I will be looking forward to that. I oppose this legislation.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Xenophon, Sen Nick",Ind.,2015-03-24,"
 
 
@@ -2412,7 +2512,7 @@ I just wanted to reflect briefly on the most recent terrorist attack that this c
 
 These are important matters. The impact of this legislation on the free press in this country, in my view, will be chilling. We failed to have the same sorts of safeguards that the United States, our closest ally, has or, indeed, the broader safeguards that are in the process of being adopted in the United Kingdom. For that reason, I will be moving a number of amendments. I look forward to the committee stages of this bill. But I am deeply concerned that our democracy will be weakened as a result of the chilling impact this will have on journalists and their ability to do their valuable work.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Collins, Sen Jacinta",ALP,2015-03-24,"
 
 
@@ -2423,7 +2523,7 @@ Senator JACINTA COLLINS
 
 The Joint Parliamentary Committee on Intelligence and Security made a number of recommendations about how costs would be met. Chief among them was that the government should meet a substantial proportion of those costs. However, there is no need to hold up this bill while final details of costs are settled. The government has assured us and the public that it will honour the committee's recommendations in full. I also note that the letter tabled by Senator Ludlam does not ask the government to delay this legislation.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2481,7 +2581,7 @@ The PRESIDENT:  The question is that the bill be now read a second time.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Ludlam, Sen Scott",AG,2015-03-24,"
 
 
@@ -2492,7 +2592,7 @@ Senator LUDLAM
 
 I am interested to know, firstly—and the Attorney-General is welcome to take these questions together, if he wishes—how the government proposes to resolve issues of cost as relayed in the letter from the Communications Alliance and obviously representative of concerns of the CEOs of major and minor telecommunications companies. Secondly, how does the Attorney-General see the issue of where the data is to be hosted and how that may affect considerations of cost?
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2503,7 +2603,7 @@ Senator BRANDIS
 
 In relation to the locality of hosting the storage of data, the bill does not mandate a particular locality. It casts, as you know, an obligation on the ISPs to retain metadata. It is really quite a simple requirement. How they retain the metadata and where they retain the metadata is a matter for them; it is not mandated by the bill. The only thing that is mandated is the type of metadata that is to be retained and the duration of the retention obligation. One would expect that the ISPs would retain metadata in a manner and at a locality which was least costly to them.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Ludlam, Sen Scott",AG,2015-03-24,"
 
 
@@ -2514,7 +2614,7 @@ Senator LUDLAM
 
 I wonder whether you think that issue has any validity. In the course of the various reviews that are occurring into the way that this bill is going to operate, I wonder whether the government's mind is closed to a requirement, as Mr Irvine proposes in his comments, to adopt a position of data nationalism. It is not one that sits comfortably with me, but I am interested to know whether or not the government has a fixed view on this. 
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2528,7 +2628,7 @@ On the broader issue, the government does not have a closed mind. Australian law
 
 As well, Senator Ludlam, you would be familiar with recommendation 36 of the 2015 PJCIS report, which recommends that the government introduce the telecommunications sector security reforms promptly. In the latter part of this year, that legislation will be introduced. The telecommunications sector security reforms will contain protections. It would, in particular, operate to provide a statutory framework for security agencies to work with industry to identify and mitigate security risks. Carriers and carriage-service providers would be required to manage security risks, including outsourcing and offshoring, by demonstrating effective control and competent supervision of their networks, the data on them and their facilities. The security framework would be based on a government and industry partnership to effectively manage national security risks and protect data stored and carried across telecommunications networks. So that is the answer to your question. There are, at the moment, under the Privacy Act, obligations, and there is in prospect, later this year, under the telecommunications sector security reforms, additional safeguards. 
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Milne, Sen Christine",AG,2015-03-24,"
 
 
@@ -2536,7 +2636,7 @@ As well, Senator Ludlam, you would be familiar with recommendation 36 of the 201
 Senator MILNE
  (Tasmania—Leader of the Australian Greens) (20:56):  Just to follow up on the answer from the Attorney-General, it interests me that you are bringing in legislation that deals with the security issues, after the fact. Why did we not do that first, before you brought that in as it currently stands? I particularly want to go to what you have just said: that the companies will be required to give an undertaking that, if they store the data offshore, it would be compliant with Australia's privacy requirements. I am interested to know what auditing or enforcement of compliance there will be. A company could easily say, 'Yes, we undertake to be in compliance with Australia's privacy laws,' but store the data offshore. Who is going to audit it? Who is going to enforce it? Where is the compliance?
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2544,7 +2644,7 @@ Senator MILNE
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (20:57):  Senator Milne, you should read the bill. If you want to participate in this debate, it would really be helpful if you read the bill. If you had read the bill, you would be aware that there is an 18-month implementation period for this metadata-storage regime. Well before that 18-month implementation period has run its course, the telecommunications sector security reform legislation will have been enacted—subject, of course, to the will of the Senate—because it will be introduced and deliberated upon before the end of this calendar year. That is the answer to your first question. In relation to the second question, I do not understand that there is an audit function or obligation under the Privacy Act but, in preparing the TSSR legislation, I will bear in mind the observation that you have made.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Xenophon, Sen Nick",Ind.,2015-03-24,"
 
 
@@ -2555,7 +2655,7 @@ Senator XENOPHON
 
 As a general principle can the Attorney-General indicate at this stage whether there will be a preference, from a policy point of view, that any storage should be controlled here in Australia, by Australian providers, rather than being offshore?
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2563,7 +2663,7 @@ As a general principle can the Attorney-General indicate at this stage whether t
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (21:00):  I do not want to give any credence to the suggestion in your question that Mr Irvine has some misgivings about the way in which the matter is dealt with by this legislation because I can tell you he does not. I know that Mr Irvine is unhappy that the remarks to which you have referred that are attributed to him have been interpreted wrongly to suggest that he does. In relation to the broader issue, I really cannot add to what I said in response to Senator Ludlam's intervention. Australian telecommunications companies are subject to Australian law, wherever the data is stored, as you would be aware.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Xenophon, Sen Nick",Ind.,2015-03-24,"
 
 
@@ -2571,7 +2671,7 @@ Senator BRANDIS
 Senator XENOPHON
  (South Australia) (21:01):  In a story by Mark Eggleton in TheAustralian Financial Review, Mr Irvine essentially said that the would feel much more comfortable if data were governed by Australian law rather than law by some other country. I will not take it any further than that. I accept what the attorney has said. I think it is important that any metadata that is stored is stored with very much Australian control, by Australian entities and under Australian law. I do not want to take it any further than that. I do look forward to the next tranche of this legislation, or consequential legislation, so that the unmisrepresented concerns of Mr Irvine can at least be addressed.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2579,7 +2679,7 @@ Senator XENOPHON
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (21:02):  I am sure we would all as Australian legislators be most comfortable if the obligations which are imposed are obligations imposed by Australian law. The point I made to Senator Ludlam, and which I would make to you, is that the obligations under the Privacy Act and under the telecommunications sector security reform legislation which is in prospect will be obligations arising under Australian law binding companies carrying on business in Australia, wherever the metadata may be stored.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Leyonhjelm, Sen David",LDP,2015-03-24,"
 
 
@@ -2587,7 +2687,7 @@ Senator BRANDIS
 Senator LEYONHJELM
  (New South Wales) (21:02):  Senator Brandis, I am just wondering if you could explain the thinking behind requiring a warrant for journalists metadata but not the metadata of others who have particular concerns about the privacy of their relationships. I refer in particular to lawyers, and their clients, and medical professionals. I have received representations from quite a range of legal professionals, including the Law Society of New South Wales, expressing concern that their metadata will be exposed to this regime without the protection provided to journalists via a warrant system.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2598,7 +2698,7 @@ Senator BRANDIS
 
 In relation to members of the legal professional, there is a pretty clear answer to your question. This is a bill about metadata; it is not about the content of a communication. I can understand the argument that the metadata of, for argument's sake, a telephone connection between a journalist and a telephone number could identify a source. But what the law regarding lawyer-client privilege protects is legal advice, which is, of its very nature, content. The law relating to lawyer-client privilege does not protect or prevent a person from being asked, for example, whether he had engaged a lawyer or whether he had had a communication with a lawyer. The interest, the confidential information that that legal principle protects, is what the lawyer advised the client or what the client may have told the lawyer in the course of seeking advice and representation. So the whole basis of this legislation, which excludes content, means that legal advice or what passes between a lawyer and his client could never be captured by it.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Leyonhjelm, Sen David",LDP,2015-03-24,"
 
 
@@ -2606,7 +2706,7 @@ In relation to members of the legal professional, there is a pretty clear answer
 Senator LEYONHJELM
  (New South Wales) (21:06):  I will frame the question a little differently in the context of something that I hesitate to say I know more about—in theory at least—than lawyer-client confidentiality, and that is medical professional confidentiality. Yes, you are right in saying that the content is not the subject of this legislation; it is the metadata. But the metadata includes the heading, for example, in an email. Suppose a doctor emailed somebody, stating, 'Your venereal disease test results'—they did not state what those results were, just simply, 'Your venereal disease test results'—how could it not be a serious imposition on both the doctor and particularly the patient to have that kind of information available without a warrant?
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2614,7 +2714,7 @@ Senator LEYONHJELM
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (21:07):  Senator Leyonhjelm, the answer to your question is that your premise is wrong, because that would be content. And it is not correct to say that the heading line on an email would be caught by this legislation. It is not, because that is content. So that is the simple answer to your question. More broadly, except where the states and territories may have made specific statutory provision, of which I am unaware, the relationship between doctor and patient is not protected in the way that the relationship between lawyer and client has traditionally been protected. So, for example, a doctor called to give evidence in the witness box could be required to disclose matters about a patient, which he only knew by reason of a professional consultation, whereas a lawyer could not be asked a question obliging him to disclose information provided to him by a client. The conceptual bases of lawyer-client privilege are quite different from the reasons the law does or, in this case, does not protect other relationships which, in the public arena, are regarded as confidential. Bear in mind also of course, Senator Leyonhjelm, that lawyer-client privilege is really an aspect of the rules of evidence. It is an aspect of the admissibility or exclusion of evidence in a proceeding before a court.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Wright, Sen Penny",AG,2015-03-24,"
 
 
@@ -2640,7 +2740,7 @@ The Law Council's position is simple—lawyer communications deserve the same le
 
 I suppose my question is: is that a concern that has been consistently raised? There are really good policy reasons for protecting lawyer-client communications. Why is it, Attorney, that lawyer communications do not deserve the same level of protection as that afforded to journalists?
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2651,7 +2751,7 @@ Senator BRANDIS
 
 This bill, ex hypothesi, does not deal with content. It is defined specifically to ensure that it does not deal with content. So the mischief to which you refer could never arise. And, as I said to Senator Leyonhjelm, it is conceivable that a journalist's source could be disclosed by metadata. It is, at least theoretically, conceivable. Let me give you an example. Let us say a journalist's metadata was accessed and it appeared that the day before the journalist published a particular scoop, the journalist was ringing a particular telephone number and that was the telephone number of a person who was leaking confidential information to the journalist. That person could be identified and, by a process of inference, it might be concluded that the telephone communication between the journalist and the particular telephone number identified the source of the leak and therefore identified the source. This is the difference you have to understand, Senator Wright. Where we protect journalists' sources, we protect their identity. Where we protect lawyer-client confidentiality, we protect what passes between the lawyer and the client—not the identity of the lawyer or the client but what the client says to the lawyer and what advice the lawyer gives to the client. That is the difference.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Wright, Sen Penny",AG,2015-03-24,"
 
 
@@ -2659,7 +2759,7 @@ This bill, ex hypothesi, does not deal with content. It is defined specifically 
 Senator WRIGHT
  (South Australia) (21:14):  I am trying to work out the potential implications of that. If, for instance, a government was minded to raid a lawyer's offices on the basis that it had suspicion that that lawyer had information that the government might be wishing to gain access to and the reason that the government might have that information might be related to identification of communications between that lawyer and a particular client, whether that particular client might also be considered to possibly be a whistleblower because they have talked to a journalist or had some other interest, that would not necessarily be in relation to the content of the communication between the client and the lawyer. But certainly that information about the contact, the number of contacts, the time of contact and the fact that communication was occurring would be relevant and could indeed be useful information for a government that was intending to do that kind of investigation such as visiting lawyers' premises and looking at their files and their records.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2670,7 +2770,7 @@ Senator BRANDIS
 
 With the example you have given, if a particular lawyer's client was a whistleblower, well, he was a whistleblower—it has nothing to do with the lawyer-client relationship, the terms of the retainer; the scope of that which is protected is confidential information arising in the course of that relationship.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Leyonhjelm, Sen David",LDP,2015-03-24,"
 
 
@@ -2678,7 +2778,7 @@ With the example you have given, if a particular lawyer's client was a whistlebl
 Senator LEYONHJELM
  (New South Wales) (21:16):  One of my concerns is the definition of 'journalist'. It would appear that freelance journalists, bloggers, amateur journalists and so forth will not enjoy the protections of the warrant process that professional journalists will enjoy. Attorney, can you please advise me on that?
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2689,7 +2789,7 @@ Senator BRANDIS
 
 As my colleague the Minister for Communications, of course a former journalist himself, said in the other place when dealing with this issue, a journalist is a person who is engaged in the collection and dissemination to the public of material in the form of news, current affairs or a documentary, or in commentary or an analysis of such material—and the bill is drafted to reflect that traditional and orthodox understanding of what the profession of journalism consists of.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Leyonhjelm, Sen David",LDP,2015-03-24,"
 
 
@@ -2697,7 +2797,7 @@ As my colleague the Minister for Communications, of course a former journalist h
 Senator LEYONHJELM
  (New South Wales) (21:19):  I participated in some of the hearings of the Senate committee inquiring into revisions to the Telecommunications (Interception and Access) Act. Some of the witnesses described how they were voluntarily retaining information about their customers in order to benefit those customers who made subsequent inquiries as to their data usage, essentially. It was not all of them—some of them were doing it. The maximum period that anyone was doing it for was three months. It would seem logical that if you are going to solve a crime three months of metadata would be fairly handy to have. I am just wondering whether consideration might have been given to having the retention period for three months and on what basis did the government decide not to limit it to that period?
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2711,7 +2811,7 @@ The selection of two years as the retention period was the conclusion to which t
 
 In relation to the metadata-retention practices of ISPs, there is no common standard. It is one of the problems here—there is no common standard. I do not say they all retain metadata for precisely two years; some retain it for less; some retain it for longer, as a matter of fact. After long discussion, which I well remember, in particular with the intelligence agencies, it seemed in all the circumstances to be the right period to reconcile the need not to hold onto this material indefinitely with the need for it to be retained sufficiently long to be serviceable and useful to an investigation.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Leyonhjelm, Sen David",LDP,2015-03-24,"
 
 
@@ -2719,7 +2819,7 @@ In relation to the metadata-retention practices of ISPs, there is no common stan
 Senator LEYONHJELM
  (New South Wales) (21:24):  Attorney, the publicly stated justification for the data-retention system and obligation to retain data is to deal with terrorism and paedophilia. I acknowledge that the number of law-enforcement agencies with access to the data will be, thankfully, substantially reduced. I think that is commendable. But what will prevent them from using this for the quite wide range of relatively trivial offences that similar data retention involved in the United Kingdom?
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2730,7 +2830,7 @@ Senator BRANDIS
 
 So it is a question of judgement by the law-enforcement agencies. It is a question of how they allocate their resources. But we do know that some types of crime—terrorist related crime is one of them, organised transnational crime and transnational crime is another of them, and paedophilia is another of them—in which the modus operandi, as it were, of those involved peculiarly involves reliance upon networks. It is the mapping of those networks which is particularly important in locating and identifying the actors, and that is something that is facilitated by access to metadata.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Leyonhjelm, Sen David",LDP,2015-03-24,"
 
 
@@ -2738,7 +2838,7 @@ So it is a question of judgement by the law-enforcement agencies. It is a questi
 Senator LEYONHJELM
  (New South Wales) (21:27):  Thank you, Attorney. I acknowledge that ASIO, AFP and ASIS will only be focusing on serious crime, the kind that you mentioned. But I also note that ASIC and the ACCC are to be included among the list of law-enforcement agencies. My experience with ASIC is that if you do not lodge your annual return they are relentless—relentless—in pursuit of you. The ACCC recently took an egg producer to the Federal Court for not producing their eggs under what they thought were acceptable free-range conditions. In other words, they did not think they had enough space to be justifiably called free range. Can you give me a guarantee that the retained metadata will not be used by ASIC and ACCC and others of the less significant agencies for such types of infractions?
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2746,7 +2846,7 @@ Senator LEYONHJELM
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (21:28):  Let me say three things to you, Senator Leyonhjelm. First of all, I really admire your commitment to economic liberty. I really admire it, and I admire your scepticism about economic regulatory agencies and the risk of over-reach of their powers, so let me put that on the record. I am much of your mind. The second point I would make to you is that in the original draft of this bill, as it was introduced on 30 October last year, the ACCC and ASIC were not included in the list in section 110A of agencies that would have a right to access metadata. But the PJCIS, in recommendation 20 of its report, recommended that they be included. I think we do have to acknowledge that ASIC and the ACCC are the two most important economic regulators in this country. We have to acknowledge that there is a great deal of conduct, including criminal conduct, conduct such as cartel conduct and conduct such as market manipulation and other forms of commercial fraud, which it is the remit of the ACCC or ASIC, respectively, to investigate and to police. Although the primary target of this legislation is terrorism, organised crime and paedophilia networks, there will be circumstances in which it will be useful for ASIC and the ACCC to have access to metadata for those purposes. Although I cannot give you the guarantee you seek, I can tell you that under the existing law there is no limitation either. At worst, from your point of view, this law does not change anything for the worse. It does not change anything at all in relation to the capacity of the ACCC and ASIC to have access to this information.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Leyonhjelm, Sen David",LDP,2015-03-24,"
 
 
@@ -2754,7 +2854,7 @@ Senator BRANDIS
 Senator LEYONHJELM
  (New South Wales) (21:30):  I heard your closing speech in the second reading debate from my office. I noted that in your remarks you said that in many respects this tightens up access to metadata and that many agencies do not have any restrictions on their access to metadata, which they will have under this legislation. The difference, of course, is that the ISPs in many cases do not store the metadata for those agencies to access. Under this legislation they will be required to store it for two years, as you know. What I would like from you is to explain whether that changes anything. What you are suggesting is that the situation will not be any worse. There will be two years of metadata available. If ASIC, the ACCC or one of the other agencies with lesser status, if you like, to ASIO, the AFP and so forth, who are chasing terrorists and paedophiles, have a mind to use it for trivial offences, and there is precedent for that overseas, is there anything actually to prevent them from doing so?
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2762,7 +2862,7 @@ Senator LEYONHJELM
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (21:32):  I would have hoped you might be rejoicing, libertarian as you are, that the number of agencies and entities which would access the metadata has been reduced from 85 to 21. That is a reduction by more than three-quarters. At the moment, as a result of this legislation, only the core law enforcement agencies—and the two main economic regulators, I will acknowledge—will have access. I think you need to be realistic, Senator Leyonhjelm. Police forces, but particularly the economic regulatory agencies, are resource constrained. They make judgements about the allocation of their own resources. I for many years used to act for the ACCC on a regular basis. I know them very well and I know that the enforcement committee, as it used to be called, makes judgements about which particular matters to pursue and which particular matters to let go. Those are a function, of course, of the severity and unlawfulness of the conduct involved, but they are also a function of the available resources. You would not expect, as a matter of common sense, an economic regulator to devote limited resources in the pursuit of trivial matters. I think it is that practical common-sense consideration, rather than any statutory guarantees, which should put your mind at ease.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Ludlam, Sen Scott",AG,2015-03-24,"
 
 
@@ -2770,7 +2870,7 @@ Senator BRANDIS
 Senator LUDLAM
  (Western Australia) (21:34):  I have just a couple of questions tonight. I will save most of mine until we get to the clause by clause, because they relate to specific amendments. By way of confirming and maybe closing that thread from Senator Leyonhjelm, is it the case that there is no essential gravity of conduct threshold? We have narrowed the range of agencies which is appropriate—I commend the government for doing that; I do not think I have heard a critical work from any stakeholder about that step—but there is no actual threshold of gravity of conduct below which it would be unlawful or outside the ambit of the act?
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2778,7 +2878,7 @@ Senator LUDLAM
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (21:34):  No.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Ludlam, Sen Scott",AG,2015-03-24,"
 
 
@@ -2786,7 +2886,7 @@ Senator BRANDIS
 Senator LUDLAM
  (Western Australia) (21:34):  I would like to know what the government's process is for establishing the overall start-up costs. You gave us earlier some rough calculations relating to operating costs, once the infrastructure is up and running, both of new storage capacity and whatever other infrastructure the ISPs and telcos need to install. Firstly, Senator Brandis, are you in a position to provide the Senate with the source documents that you are quoting from? It is my understanding that this parliament has not seen either of the two consultancies that were undertaken by PwC. It is good that you are reading from them; I had not heard those numbers before. Can you provide us with those documents or a summary of them, please?
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2794,7 +2894,7 @@ Senator LUDLAM
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (21:35):  In relation to the capital cost, there has been, as I said earlier in the debate, a quite long negotiation between government and industry, and there are very diverse estimates of the capital cost—I see you nodding—as I think you know. As to which of those within that diverse range the government will settle upon as a reasonable estimate of the capital cost across industry and as to the percentage contribution the government will make to that figure as its substantial contribution, as promised, to the capital cost, those are matters currently before the government. They are a matter of deliberation as part of the budget process, because there will be an outlay here, of course. Those matters, because they are part of the budget deliberations at the moment and are cabinet in confidence, I am not at liberty to share with you.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Ludlam, Sen Scott",AG,2015-03-24,"
 
 
@@ -2802,7 +2902,7 @@ Senator BRANDIS
 Senator LUDLAM
  (Western Australia) (21:37):  Perhaps the Attorney cares to also address the direct question that I put as to whether he is able to share the PwC documentation with us, because I do not think the parliament has seen either the documents or a summary of them.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2810,7 +2910,7 @@ Senator LUDLAM
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (21:37):  Senator, I have told you as much as I feel able to. That is also a cabinet-in-confidence document and I am not in a position to release it to you.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Ludlam, Sen Scott",AG,2015-03-24,"
 
 
@@ -2828,7 +2928,7 @@ Senator Brandis interjecting—
 Senator LUDLAM:
   I can finish, Senator Brandis; I am still going. It is remarkable that you would bring forward a bill without knowing how much it is going to cost or how you are going to evaluate the costs. A specific question: unless you are going to be walking something of a tightrope, the government are going to be facing claims by industry at very different scales, operating very different kinds of back-end systems, who are going to be putting all kinds of claims to you. Without casting aspersions on the telecommunications sector, you are going to be in a position of having to judge whether these are ambit claims or whether they are reasonable. Presumably, industry is not going to put cost claims to you that do not cover their costs. I understand it is going to have to be case by case, and maybe that is why you cannot give us an aggregate figure. What is your process going to be for assessing the fairness or otherwise of these cost claims by different providers?
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2839,7 +2939,7 @@ Senator BRANDIS
 
 In relation to the other matters that you raise, a lot of the considerations that you have adverted to are, I think, very pertinent considerations. I do not cast aspersions on the telecommunications industry either, but the hazards that you identify in a negotiation of that kind are undoubtedly present and they are something that the government is seeking to guard against. That is why we have had the long consultation with industry, by the way. So that is the process. The process is the consultation with industry to satisfy ourselves—I think you would acknowledge that it can only be an estimate—what is the most reliable and credible estimate to use as our base figure for the proportionate contribution that we have promised to make. In that regard, I will not read it into the record because I do not want to prolong things, but recommendation 16 of the PJCIS report also specifically addresses the issue you raise and was adopted by the government.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Leyonhjelm, Sen David",LDP,2015-03-24,"
 
 
@@ -2847,7 +2947,7 @@ In relation to the other matters that you raise, a lot of the considerations tha
 Senator LEYONHJELM
  (New South Wales) (21:40):  Attorney, one of my concerns, I suppose, is that this bill has, like the previous national security legislation, had very limited scrutiny by anyone other than the Parliamentary Joint Committee on Intelligence and Security. As a consequence, I and the other crossbench senators have struggled, I suppose, to address its implications and, as a result, these committee phases of the bill's consideration by the Senate have been protracted and difficult and, I know, frustrating to you. I wonder whether you have any views as to what the process might be for when this bill is reviewed and whether or not that process might be broadened to include those who currently have had no opportunity to comment on this prior to seeing it in the Senate.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2858,7 +2958,7 @@ Senator BRANDIS
 
 Senator Leyonhjelm, it is the case that the PJCIS does not at the moment contain any members of the Senate crossbench. It is not a committee that excludes independent members of parliament. For instance, Mr Andrew Wilkie was a member of the PJCIS throughout the course of the entire inquiry during the last parliament, which was the genesis of this legislation. The composition of the PJCIS, like the composition of all parliamentary committees, whether joint or committees of either chamber, are a matter of deliberation between government, opposition and independents and crossbenchers. I do not, with respect, think it reflects poorly on the process that the members of the committee on this occasion did not include any of the Senate crossbenchers. As you rightly point out, we look like we are having a very long committee stage debate, in which I am available to you to respond to any questions you may have. But the composition of any parliamentary committee cannot guarantee that any individual minor party or independent member will be a member of that committee, and I think you understand that.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Xenophon, Sen Nick",Ind.,2015-03-24,"
 
 
@@ -2869,7 +2969,7 @@ Senator XENOPHON
 
 The point made is that, in each of these cases, the authorities were not wanting for data. What they failed to do was appreciate the significance of the data they already had. I appreciate what the Attorney-General said in his summing up speech about what he considers to be the breadth of this legislation. My question to the Attorney-General is: with this ability to access metadata, will there be a different approach to assessing that information to avoid the mistakes of intelligence agencies referred to overseas, where they failed to appreciate the significance of that data? General Keith Alexander, the former head of the National Security Agency, has called all this digital information 'the whole haystack'. How do we find the needles when the haystack seems to be so much bigger? I hope he understands the spirit in which I ask this question. It is not being provocative. How do we ensure that intelligence agencies are not swamped with so much information that they do not make a good analysis as to where the threats are?
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2898,7 +2998,7 @@ This is, as I say, a retention obligation imposed on the private sector, not an 
 
 Coming to the second point I understand you to be making, I think we should leave it to the agencies to judge what information is useful to them because it is not the agencies that collect or hold this information. It is the agencies that seek the information, that require it to be provided to them by the ISPs that hold it. In making that request, as they do now, the agencies make a professional judgement as to what particular items of metadata are useful to an investigation.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Xenophon, Sen Nick",Ind.,2015-03-24,"
 
 
@@ -2912,7 +3012,7 @@ My final question—and I am grateful to the Attorney for his response—is: whe
 
 I take issue in relation to Man Haron Manis. He was on a watch list and he dropped off that watch list; and I know the Attorney has acknowledged that. I am not privy to the information, of course, that others would be, other than what I read in the media about this, but I still cannot understand to this day why that man, both madman and terrorist, was on the streets, given his extensive history. The issue is one of assessment by intelligence agencies. Whilst he was not regarded as a terrorist threat at the time of the Martin Place siege and the tragedy that unfolded, that it resulted in, I wonder whether that raises the issue of a failure of our intelligence services to appropriately assess him as a terrorist threat and the fact that, in my view and, I think, the view of many others, this man, with his extensive history, should not have been on the streets.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2926,7 +3026,7 @@ Senator Xenophon, you are right when you say that the Senate intelligence commit
 
 Lastly, having served for a term during the term of the last parliament as a member of the PJCIS, I have to tell you, Senator Xenophon, your understanding of the scope of its capacity to inquire is too limited. The PJCIS, although it does not examine operational matters in granular detail, does nevertheless receive briefings—for example, from the director-general of ASIO or the Commissioner of the Australian Federal Police—which are more than, as it were, auditing exercises. It is informed by the heads of the respective intelligence and policing agencies, in the broad, of the work they undertake, their assessment of risks and threats and where those risks and threats lie, and how the agencies are responding to them.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Xenophon, Sen Nick",Ind.,2015-03-24,"
 
 
@@ -2934,7 +3034,7 @@ Lastly, having served for a term during the term of the last parliament as a mem
 Senator XENOPHON
  (South Australia) (21:56):  I appreciate the Attorney's response. Very briefly, in respect of IGIS I think it is fair to say that, whilst IGIS has extensive powers, very little information can be forthcoming, even through a Senate estimates process, which I think is quite unsatisfactory. But can the Attorney indicate whether, given these metadata laws or the regime that will be passed, along with other laws that have been passed in relation to counter-terrorism, the government has considered, is considering or will consider supporting a broadening of the powers of the Parliamentary Joint Committee on Intelligence and Security to look more broadly at operational matters, similar to what the US Senate and US House of Representatives intelligence committees do? Is that on the radar for the government—considering giving them these broader powers?
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2963,7 +3063,7 @@ Consistent with the focus of the PJCIS on non-operational matters concerning sec
 
 So, that recommendation was adopted, at least in part, by conferring an additional power, and that is reflected in one of the clauses of the bill before the chamber. But the government has not gone the further step, for reasons that I have indicated, of modelling or remodelling the PJCIS along the lines of the US Senate or House intelligence committees.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Ludlam, Sen Scott",AG,2015-03-24,"
 
 
@@ -2971,7 +3071,7 @@ So, that recommendation was adopted, at least in part, by conferring an addition
 Senator LUDLAM
  (Western Australia) (21:59):  I will put a really quick question to the Attorney. It is my last question tonight on costs. It is about the process the government intends to go through and how much we will know by budget night. I am interested in the formal mechanism, if there is one, for assessing costs from individual telecommunications companies. Are you standing a working group? Will it be done by way of a consultancy? How will it be done?
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -2982,7 +3082,7 @@ Senator BRANDIS
 
 Progress reported.
 
-",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1
+",Senate,<title>BILLS</title>,<title>Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015</title>,BILLS,26,1,speech
 "Milne, Sen Christine",AG,2015-03-24,"
 
 
@@ -3059,7 +3159,7 @@ When you get to the issue of trusting our government bureaucracies and intellige
 
 When we get to looking at this as an overall objective in Australia, I think it is really sad that we have got to the point that we are legislating without evidence. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2,speech
 "Singh, Sen Lisa",ALP,2015-03-24,"
 
 
@@ -3157,7 +3257,7 @@ I have raised a number of other aspects of this legislation that are great impro
 
 I will finish with a comment by former Senator John Faulkner, a former defence minister and someone who has very strong values in relation to freedom and privacy issues. He said that parliament must always strike the right balance between our security imperatives and our liberties and freedoms. That is what this bill should achieve.  With any review in the future, that must always be at the forefront.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2,speech
 "Rhiannon, Sen Lee",AG,2015-03-24,"
 
 
@@ -3255,7 +3355,7 @@ Senator RHIANNON:
 
 Ever since the terrorist attack of September 2001, crime, spy and security agencies have been demanding more and more powers to reach into our private individual lives. This incursion for mandatory metadata retention will not make us safer or more secure. Mandatory data retention strikes at the very heart of the relationship between governments and the public. This bill, which is set to be passed on the combined vote of the Liberal, National and Labor parties, is an enormous setback as it delivers an increase in the power of the state over private individuals for indiscriminate surveillance. The campaign to stop this level of surveillance and to have this bill repealed is I believe set to become one of the most important issues in Australia.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2,speech
 "Leyonhjelm, Sen David",LDP,2015-03-24,"
 
 
@@ -3320,7 +3420,7 @@ But why should a company concerned with the business of keeping animals healthy 
 
 This is bad law—law that compromises our rights and freedoms, treats us all as criminals-in-waiting, and invites abuse and overreach. It is wrong on every level. This bill should not be entertained in a liberal democracy such as ours. 
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2,speech
 "Lambie, Sen Jacqui",Ind.,2015-03-24,"
 
 
@@ -3379,7 +3479,7 @@ In closing, it must be said that the mass storage of the metadata of all Austral
 
 Giving away this level of privacy of every Australian to that level of invasion by the government and its agencies no longer makes us a free society in my view and in the view of many courts and respected privacy advocates throughout the free world. I say this: I have a very, very strong suspicion that this is going to come back and bite the coalition. When it does there will be a few of us on this side standing up to say, 'I told you so!' I will be looking forward to that. I oppose this legislation.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2,speech
 "Xenophon, Sen Nick",Ind.,2015-03-24,"
 
 
@@ -3426,7 +3526,7 @@ I just wanted to reflect briefly on the most recent terrorist attack that this c
 
 These are important matters. The impact of this legislation on the free press in this country, in my view, will be chilling. We failed to have the same sorts of safeguards that the United States, our closest ally, has or, indeed, the broader safeguards that are in the process of being adopted in the United Kingdom. For that reason, I will be moving a number of amendments. I look forward to the committee stages of this bill. But I am deeply concerned that our democracy will be weakened as a result of the chilling impact this will have on journalists and their ability to do their valuable work.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2,speech
 "Collins, Sen Jacinta",ALP,2015-03-24,"
 
 
@@ -3437,7 +3537,7 @@ Senator JACINTA COLLINS
 
 The Joint Parliamentary Committee on Intelligence and Security made a number of recommendations about how costs would be met. Chief among them was that the government should meet a substantial proportion of those costs. However, there is no need to hold up this bill while final details of costs are settled. The government has assured us and the public that it will honour the committee's recommendations in full. I also note that the letter tabled by Senator Ludlam does not ask the government to delay this legislation.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2,speech
 "Brandis, Sen George",LP,2015-03-24,"
 
 
@@ -3495,7 +3595,7 @@ The PRESIDENT:  The question is that the bill be now read a second time.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2,speech
 "Smith, Sen Dean",LP,2015-03-24,"
 
 
@@ -3521,4 +3621,4 @@ Current tools for prevention, diagnosis and treatment of TB are outdated and hav
 
 TB is one of the most serious public health challenges now affecting our region. It is my hope that Australia's ongoing efforts to provide support to nations in our region suffering through the epidemic will play a significant role in reducing the disease's impact in the years immediately ahead. In conclusion, I would like to extend my gratitude to Mrs Mary Moran and Ms Isabelle Brown of Policy Cures who first came to see me in my capacity as chair of the Parliamentary Liaison Group for HIV/AIDS, Blood Borne Viruses and Sexually Transmitted Infections. Their passion, their commitment and their conviction are very powerful tools for advocacy around TB issues. I am sure many of us would share their ambition for a modern cure for TB.
 
-",Senate,<title>ADJOURNMENT</title>,<title>World Tuberculosis Day</title>,ADJOURNMENT,27,1
+",Senate,<title>ADJOURNMENT</title>,<title>World Tuberculosis Day</title>,ADJOURNMENT,27,1,speech

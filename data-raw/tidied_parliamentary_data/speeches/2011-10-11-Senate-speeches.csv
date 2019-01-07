@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Kroger, Sen Helen",LP,2011-10-11,"
 
 
@@ -18,7 +18,7 @@ That–
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,"<title>Environment and Communications References Committee, Legal and Constitutional Affairs References Committee</title>",COMMITTEES,0,1
+",Senate,<title>COMMITTEES</title>,"<title>Environment and Communications References Committee, Legal and Constitutional Affairs References Committee</title>",COMMITTEES,0,1,speech
 "Kroger, Sen Helen",LP,2011-10-11,"
 
 
@@ -38,7 +38,7 @@ That–
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,0,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,0,2,speech
 "Parry, Sen Stephen",LP,2011-10-11,"
 
 
@@ -46,7 +46,7 @@ Question agreed to.
 The CHAIRMAN:
   The question before the committee is that subclause 19-67(3) on schedule 1 stand as printed. 
 
-",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1
+",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1,speech
 "Mason, Sen Brett",LP,2011-10-11,"
 
 
@@ -54,7 +54,7 @@ The CHAIRMAN:
 Senator MASON
  (Queensland) (12:32): I will draw the committee's attention to where we are up to. I had asked the Parliamentary Secretary for School Education and Work­place Relations a question in relation to subclause 19-38(4)(f). To remind the parlia­mentary secretary, my question was whether the phrase 'promoting the health or welfare of students' would prohibit student clubs or organisations from promoting a political cause. For example, it might be argued that the promotion of a carbon tax or a campaign such as Your Rights at Work might be for the welfare of students. So my question is: will subclause 19-38(4)(f), on the promotion of the welfare of students, prohibit the use of student moneys for that purpose?
 
-",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1
+",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1,speech
 "Collins, Sen Jacinta",ALP,2011-10-11,"
 
 
@@ -83,7 +83,7 @@ Senator Mason:
 Senator JACINTA COLLINS:
   I would encourage Senator Mason and other senators to consider not frustrating this matter any further.
 
-",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1
+",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1,speech
 "Ryan, Sen Scott",LP,2011-10-11,"
 
 
@@ -115,7 +115,7 @@ Senator RYAN:
 
 But I do have a specific question which I am interested in. It is about the operation of the levy to pay back the deferred component of this fee. In my day it was called HECS. We would have a tax component levied essentially at a flat rate upon your taxable income. If a student accumulates a debt for the student assistance component of this fee, is that levied as a separate tax or is it simply added to what I would call a HECS debt? Is it a single levy put on someone's taxable income? My question is: are there two income levies or is it a single income levy?
 
-",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1
+",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1,speech
 "Hanson-Young, Sen Sarah",AG,2011-10-11,"
 
 
@@ -123,7 +123,7 @@ But I do have a specific question which I am interested in. It is about the oper
 Senator HANSON-YOUNG
  (South Australia) (12:43):  We are currently still debating Greens amendment (3). I wanted to foreshadow that I will be withdrawing Greens amendments (4) and (5), so if we make a decision on amendment (3) we can then move on.
 
-",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1
+",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1,speech
 "Collins, Sen Jacinta",ALP,2011-10-11,"
 
 
@@ -131,7 +131,7 @@ Senator HANSON-YOUNG
 Senator JACINTA COLLINS
  (Victoria—Parliamentary Secretary for School Education and Workplace Relations) (12:43):  In response to the new matter that has been raised in this discussion, I can indicate to the senator that it is added to the accumulated HELP debt.
 
-",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1
+",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1,speech
 "Williams, Sen John",Nats,2011-10-11,"
 
 
@@ -181,7 +181,7 @@ Question agreed to.
 The CHAIRMAN:
   The question now is that the bill stand as printed.
 
-",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1
+",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1,speech
 "Mason, Sen Brett",LP,2011-10-11,"
 
 
@@ -213,7 +213,7 @@ In a few years 40 per cent of young Australians will be going to university. Tha
 
 This is an issue I know many people find arcane and perhaps even slightly overbearing at times. But this is such an important issue to the coalition. I want to make this point and I will make it again shortly. This is such a critical issue because none of us on this side of the chamber believe that any student, any young Australian, should have money compulsorily exacted from them and used for purposes they cannot or will not use. As Senator Cormann, Senator Humphries, Senator Fifield and many of my friends have said in the course of this debate, 'We have no problem—students can spend their money on any political cause they want.' None of us have any objection to that. But they will not spend the money of young Australians on political causes we find distasteful or, in my case, as you will remember, Temporary Chairman, abhorrent. Any of us that went to university over the last 20 or 30 years are so attuned to the potential horrors of this legislation that we cannot allow this bill to go through without a fight. Let me say this, because the government have not answered the legitimate questions that coalition senators have raised: we will be doing everything to monitor how this legislation is implemented and how it is monitored.
 
-",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1
+",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1,speech
 "Xenophon, Sen Nick",Ind.,2011-10-11,"
 
 
@@ -233,7 +233,7 @@ Senator Cormann:
 Senator XENOPHON:
   No, Senator Cormann. I want to make it clear that my true voting intention was not to support that the question be put in relation to the division, but the outcome would not have been differ­ent. Having said that, I still support the government's legislation, for the reasons I outlined in my contribution to the second reading debate. I think it is important to point out that the Howard government, when it introduced this legislation, did set aside a specific fund—I think it was about $100 million—to make up for the loss of facilities and loss of services. Also, vice-chancellors across the country have expressed dismay about the impact VSU has had on campus facilities. To me, this is a pragmatic way to deal with those problems. It is legislation that I do support. I believe there are sufficient safeguards in it to ensure that it is not abused and that universities have control over it. For those reasons I still support the legislation, but I do want to make it clear that it was not my intention to support a guillotining of the further debate of this bill.
 
-",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1
+",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1,speech
 "Collins, Sen Jacinta",ALP,2011-10-11,"
 
 
@@ -274,7 +274,7 @@ Bill agreed to.
 
 Bill reported without amendments; report adopted.
 
-",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1
+",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1,speech
 "Collins, Sen Jacinta",ALP,2011-10-11,"
 
 
@@ -285,7 +285,7 @@ Senator JACINTA COLLINS:
 
 That this bill be now read a third time.
 
-",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1
+",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1,speech
 "Mason, Sen Brett",LP,2011-10-11,"
 
 
@@ -428,7 +428,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1
+",Senate,<title>BILLS</title>,<title>Higher Education Legislation Amendment (Student Services and Amenities) Bill 2010</title>,BILLS,1,1,speech
 "Parry, Sen Stephen",LP,2011-10-11,"
 
 
@@ -436,7 +436,7 @@ Bill read a third time.
 The CHAIRMAN:
   The question before the committee is that subclause 19-67(3) on schedule 1 stand as printed. 
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2,speech
 "Mason, Sen Brett",LP,2011-10-11,"
 
 
@@ -444,7 +444,7 @@ The CHAIRMAN:
 Senator MASON
  (Queensland) (12:32): I will draw the committee's attention to where we are up to. I had asked the Parliamentary Secretary for School Education and Work­place Relations a question in relation to subclause 19-38(4)(f). To remind the parlia­mentary secretary, my question was whether the phrase 'promoting the health or welfare of students' would prohibit student clubs or organisations from promoting a political cause. For example, it might be argued that the promotion of a carbon tax or a campaign such as Your Rights at Work might be for the welfare of students. So my question is: will subclause 19-38(4)(f), on the promotion of the welfare of students, prohibit the use of student moneys for that purpose?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2,speech
 "Collins, Sen Jacinta",ALP,2011-10-11,"
 
 
@@ -473,7 +473,7 @@ Senator Mason:
 Senator JACINTA COLLINS:
   I would encourage Senator Mason and other senators to consider not frustrating this matter any further.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2,speech
 "Ryan, Sen Scott",LP,2011-10-11,"
 
 
@@ -505,7 +505,7 @@ Senator RYAN:
 
 But I do have a specific question which I am interested in. It is about the operation of the levy to pay back the deferred component of this fee. In my day it was called HECS. We would have a tax component levied essentially at a flat rate upon your taxable income. If a student accumulates a debt for the student assistance component of this fee, is that levied as a separate tax or is it simply added to what I would call a HECS debt? Is it a single levy put on someone's taxable income? My question is: are there two income levies or is it a single income levy?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2,speech
 "Hanson-Young, Sen Sarah",AG,2011-10-11,"
 
 
@@ -513,7 +513,7 @@ But I do have a specific question which I am interested in. It is about the oper
 Senator HANSON-YOUNG
  (South Australia) (12:43):  We are currently still debating Greens amendment (3). I wanted to foreshadow that I will be withdrawing Greens amendments (4) and (5), so if we make a decision on amendment (3) we can then move on.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2,speech
 "Collins, Sen Jacinta",ALP,2011-10-11,"
 
 
@@ -521,7 +521,7 @@ Senator HANSON-YOUNG
 Senator JACINTA COLLINS
  (Victoria—Parliamentary Secretary for School Education and Workplace Relations) (12:43):  In response to the new matter that has been raised in this discussion, I can indicate to the senator that it is added to the accumulated HELP debt.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2,speech
 "Williams, Sen John",Nats,2011-10-11,"
 
 
@@ -571,7 +571,7 @@ Question agreed to.
 The CHAIRMAN:
   The question now is that the bill stand as printed.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2,speech
 "Mason, Sen Brett",LP,2011-10-11,"
 
 
@@ -603,7 +603,7 @@ In a few years 40 per cent of young Australians will be going to university. Tha
 
 This is an issue I know many people find arcane and perhaps even slightly overbearing at times. But this is such an important issue to the coalition. I want to make this point and I will make it again shortly. This is such a critical issue because none of us on this side of the chamber believe that any student, any young Australian, should have money compulsorily exacted from them and used for purposes they cannot or will not use. As Senator Cormann, Senator Humphries, Senator Fifield and many of my friends have said in the course of this debate, 'We have no problem—students can spend their money on any political cause they want.' None of us have any objection to that. But they will not spend the money of young Australians on political causes we find distasteful or, in my case, as you will remember, Temporary Chairman, abhorrent. Any of us that went to university over the last 20 or 30 years are so attuned to the potential horrors of this legislation that we cannot allow this bill to go through without a fight. Let me say this, because the government have not answered the legitimate questions that coalition senators have raised: we will be doing everything to monitor how this legislation is implemented and how it is monitored.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2,speech
 "Xenophon, Sen Nick",Ind.,2011-10-11,"
 
 
@@ -623,7 +623,7 @@ Senator Cormann:
 Senator XENOPHON:
   No, Senator Cormann. I want to make it clear that my true voting intention was not to support that the question be put in relation to the division, but the outcome would not have been differ­ent. Having said that, I still support the government's legislation, for the reasons I outlined in my contribution to the second reading debate. I think it is important to point out that the Howard government, when it introduced this legislation, did set aside a specific fund—I think it was about $100 million—to make up for the loss of facilities and loss of services. Also, vice-chancellors across the country have expressed dismay about the impact VSU has had on campus facilities. To me, this is a pragmatic way to deal with those problems. It is legislation that I do support. I believe there are sufficient safeguards in it to ensure that it is not abused and that universities have control over it. For those reasons I still support the legislation, but I do want to make it clear that it was not my intention to support a guillotining of the further debate of this bill.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2,speech
 "Collins, Sen Jacinta",ALP,2011-10-11,"
 
 
@@ -664,7 +664,7 @@ Bill agreed to.
 
 Bill reported without amendments; report adopted.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,1,2,speech
 "Fierravanti-Wells, Sen Concetta",LP,2011-10-11,"
 
 
@@ -759,7 +759,7 @@ There are also issues with counterfeit, illicit tobacco. While Australia is gene
 
 Debate interrupted.
 
-",Senate,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,3,1
+",Senate,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,3,1,speech
 "Fierravanti-Wells, Sen Concetta",LP,2011-10-11,"
 
 
@@ -854,7 +854,168 @@ There are also issues with counterfeit, illicit tobacco. While Australia is gene
 
 Debate interrupted.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
+"Abetz, Sen Eric",LP,2011-10-11,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Opposition in the Senate) (14:00):  My question is to the Minister representing the Minister for Climate Change and Energy Efficiency, Senator Wong. I refer to recent statements from the Prime Minister and the Treasurer pointing out the risks facing the international economy, the significant challenges faced by so many Australian businesses in areas such as manufacturing and retailing and also the need to improve productivity. Given the government's own stated concerns, isn't this the worst possible time to be introducing the world's biggest carbon tax? Can the minister name any other country that has introduced a carbon tax as expensive and far-reaching as the one proposed by this government?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Abetz, Sen Eric",LP,2011-10-11,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Opposition in the Senate) (14:03):  Mr President, I ask a supplementary question. Given that the Treasury assumes that more than half of the foreign carbon credits Australian businesses will be forced to buy will come from Russia and Asia and given that the Australian Crime Commission has just told an international conference on organised fraud that the carbon market is already the subject of organised crime activity, what safeguards is the government putting in place to ensure that these carbon credits are genuine and not fraudulent?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Abetz, Sen Eric",LP,2011-10-11,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Opposition in the Senate) (14:05):  Mr President, I ask a further supplementary question. Can the minister name any other nation that has introduced a carbon tax after its Prime Minister and every one of the governing party's members of parliament went to an election promising not to do so?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Wong, Sen Penny",ALP,2011-10-11,"
+
+
+
+Senator WONG
+ (South Australia—Minister for Finance and Deregulation) (14:01):  First, on the issue of why now, I make this point: the opposition will always say that, because they have said that before. The reality is that it will never be the right time according to Senator Abetz and those on that side of the chamber. It does not matter what is occurring in the global economy, those on the other side have a very clear position: they do not wish to deal with this economic reform. They do not wish to start to shift the Australian economy towards the clean energy economy of the future; they do not wish to take that responsibility. They do not wish to take responsibility for acting on climate change. They would rather turn their faces away from reform. They would rather run a scare campaign. They would rather simply throw bombs. That is the approach of the opposition. That is the reality.
+
+
+We on this side of the chamber are very cognisant also of the advice that was provided to Prime Minister Howard and that has consistently been provided to govern­ments by experts, including the Treasury. That advice is simply that the longer we delay the higher will be the costs. We know that, when you are making an economic transition, if you make that transition later rather than earlier you lock more investment in the old economy, which then has to be unwound, rather than direct investment to the new economy, to the clean energy jobs of the future. We know that the coalition will not be responsible on this; they would rather increase costs. They have, in addition to their $70 billion black hole, a policy which is all about slugging Australian taxpayers, Australian households, to fund a reduction in Australia's carbon pollution. It is a policy without economic weight, without any grounding, without any— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Wong, Sen Penny",ALP,2011-10-11,"
+
+
+
+Senator WONG
+ (South Australia—Minister for Finance and Deregulation) (14:03):  We have previously made very clear that we will ensure that any international offsets which are purchased under our scheme will meet the appropriate standards as provided. We will ensure that there are proper regulatory mechanisms in place. I have to say that the attitude of the opposition on this issue is one of the most economically irresponsible aspects of their policies at this time. This is an opposition which are seriously saying to Australian business, 'We want to increase the costs of reducing your pollution, because we want to run a scare campaign about international permits.' It is extraordinary. Those liberals on the other side, who believe in trade and open economy, should hang their heads in shame at the sort of rhetoric that is coming out of Mr Abbott's mouth and Senator Abetz— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Wong, Sen Penny",ALP,2011-10-11,"
+
+
+
+Senator WONG
+ (South Australia—Minister for Finance and Deregulation) (14:05):  A carbon price has been in place for some time, as the opposition would know, in Europe. The opposition would also know they went to an election previously promis­ing to put in place a price on carbon, a commitment that was reneged upon by Mr Abbott, Senator Abetz and many others as a result of the leadership change in the Liberal Party. The facts are these: climate change is with us, climate change will worsen, the world will increasingly—
+
+
+
+
+Senator Abetz:
+  Mr President, a point of order on relevance: sessional orders require that the minister be directly relevant to the question asked. The question related to whether the minister could name any other nation that had introduced a carbon tax after its Prime Minister and every one of the governing party's members had gone to an election promising not to do so. Nothing in the minister's answer relates to the question which was asked.
+
+
+
+
+Senator Ludwig:
+  Mr President, Senator Abetz tries to make the point that the minister is not answering the question. In fact, the minister is answering the question and is being directly relevant. That the minister is not answering the question in the way the opposition wants her to answer the question is not a point of order. The minister is being directly relevant to the question being asked.
+
+
+
+
+The PRESIDENT:
+  The minister has 31 seconds remaining to answer the question. There is no point of order at this stage.
+
+
+
+
+Senator WONG:
+  I was asked about international action. I would make the point that Australia's top five trading partners—China, Japan, the US, Korea and India—are implementing or piloting emissions trading schemes, carbon taxes and coal taxes at various governmental levels. China has indicated it will introduce pilot emissions trading schemes in a number of provinces, including the industrial centres of Beijing, Shanghai and Guangdong. The reality is the world is moving and we need to keep up.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Conroy, Sen Stephen",ALP,2011-10-11,"
+
+
+
+Senator CONROY
+ (Victoria—Minister for Broadband, Communications and the Digital Economy, Deputy Leader of the Government in the Senate and Minister Assisting the Prime Minister on Digital Productivity) (15:02):  On 22 September 2011, Senator Waters asked me a question about coal seam gas regulation. I seek leave to incorporate further information in Hansard.
+
+
+Leave granted.
+
+
+
+
+The answer read as follows:
+
+
+
+Senator Waters: Given the minister's view that the regulation of coal seam gas mining is primarily a matter for state governments, is the minister alarmed at admissions made by the Queensland government's head of LNG enforce­ment last week that the coal seam gas industry will have aquifer and regional scale impacts, and that the Queensland government is only monitor­ing 10 per cent of coal seam gas wells for leaking methane and aquifer connectivity?
+
+
+The Minister for Sustainability, Environment, Water, Population and Communities has provided the following answer to the honourable Senator's questions.
+
+
+The separate roles and responsibilities of state and Commonwealth governments in regulating the coal seam gas industry are determined by legislation. The Commonwealth government is responsible for managing compliance with the Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act).
+
+
+Compliance with the Queensland regulatory regime is a matter for the Queensland govern­ment. The statement the honourable senator refers to relates to matters of state responsibility and concerns wells that have been approved under state laws. None of the three coal seam gas projects approved under Commonwealth legisla­tion has yet reached production.
+
+
+In deciding to approve three coal seam gas projects, proposed respectively by Queensland Gas Company, Santos, and Australia Pacific LNG, the minister received detailed advice from Geoscience Australia and another independent expert on groundwater issues, including aquifer connectivity. That advice, and the conditions attached to the approval of those projects, addressed the question of regional impacts. The conditions require the companies to each submit detailed plans for the management of aquifers, groundwater and surface water for the minister's approval, and to undertake aquifer connectivity studies, and carry out ongoing monitoring and reporting of their activities throughout the life of their project. The conditions provide for precau­tionary drawdown thresholds, to provide an early indication of any unacceptable groundwater-related impacts. If those thresholds are exceeded, the companies must restore pressure, for example, by reinjection or other approved means.
+
+
+The conditions also require the companies to contribute data to a regional groundwater model that will inform the adaptive management of these projects at both the project scale and the regional scale. The regional groundwater model is being developed by the Queensland Water Commission, with the involvement of the coal seam gas companies, independent experts and officers from the Commonwealth and Queensland governments.
+
+
+Senator Waters: Mr President, I have a further supplementary question. Given the mounting scientific and community concern, and the inade­quate state regulation of coal seam gas, will the government now adequately resource depart­mental monitoring and enforcement of those federal conditions, reconsider its refusal to add a water trigger to our environmental laws, and reconsider its refusal to impose a moratorium until the full impacts of coal seam gas are understood?
+
+
+The Minister for Sustainability, Environment, Water, Population and Communities has provided the following answer to the honourable Senator's questions.
+
+
+The Department of Sustainability, Environ­ment, Water, Population and Communities includes a dedicated compliance and enforcement branch for enforcement of federal conditions under the EPBC Act. Since the federal approval of three Queensland coal seam gas projects, the department has established an additional section dedicated specifically to monitoring compliance with the conditions attached to the minister's approval of coal seam gas projects.
+
+
+The independent review of the EPBC Act, led by Dr Allan Hawke AC, considered but did not recommend a water trigger. Dr Hawke concluded that including water extraction or use as a matter of National Environmental Significance was not the best mechanism for managing water resources.
+
+
+Under the EPBC Act, the Australian Govern­ment considers the impacts of proposals on defined matters of national environmental significance. The EPBC Act does not include a provision for the minister to refuse to assess and decide on proposals. The possibility of a general moratorium on coal seam gas would be a matter for state and territory governments, which have wider regulatory responsibilities for exploration and mining.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Coal Seam Gas</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,5,1,answer
+"Johnston, Sen David",LP,2011-10-11,"
+
+
+
+Senator JOHNSTON
+ (Western Australia) (15:02):  Pursuant to standing order 74(5), I ask the Minister representing the Minister for Defence, Minister Evans, for an explanation as to why answers have not been provided to questions on notice numbers 503 and 504, which were asked on 21 March, 633, 637, 638, 639, 640, 641, 642, 643, 644, 645, 646 and 647 as asked on 29 April, question 712 on 23 June, and 759, 779, 780 and 789 as asked on 5 July of this year.
+
+",Senate,<title>ANSWERS TO QUESTIONS ON  NOTICE</title>,"<title>Question Nos 503, 504, 633, 637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 647, 712, 759, 779, 780, 789</title>",ANSWERS TO QUESTIONS ON  NOTICE,6,1,question
+"Johnston, Sen David",LP,2011-10-11,"
+
+
+
+Senator JOHNSTON
+ (Western Australia) (15:04):  I move:
+
+
+That the Senate take note of the explanation as provided by the minister.
+
+
+I thank the minister for using his good offices to obtain the answers to what are important questions. Very briefly, quest­ions—whether they be without notice or upon notice—are the fundamental building block upon which the Senate and, more particularly, the parliament is built. A failure to answer questions in a timely way under­mines the important rights of the Australian people though their parliament—that is, the right to know and to understand what their government is doing. I urge the minister to use his good offices to provide those answers and I thank him for his consideration in that regard.
+
+
+Question agreed to.
+
+",Senate,<title>ANSWERS TO QUESTIONS ON  NOTICE</title>,"<title>Question Nos 503, 504, 633, 637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 647, 712, 759, 779, 780, 789</title>",ANSWERS TO QUESTIONS ON  NOTICE,6,1,question
+"Evans, Sen Christopher",ALP,2011-10-11,"
+
+
+
+Senator CHRIS EVANS
+ (Western Australia—Minister for Tertiary Education, Skills, Jobs and Workplace Relations and Leader of the Government in the Senate) (15:03):  As the Senate would know, I am on top of all of those answers. I understand the senator gave prior advice to Mr Smith's office that he would be asking for a follow-up to his questions on notice. I thank him for doing us that courtesy. I am also aware that he wrote to the Minister for Defence on 22 September in relation to 32 questions he asked on notice which have not yet been answered. These are in addition to 101 questions taken on notice following the Senate Standing Committee on Foreign Affairs, Defence and Trade budget estimates hearings on 30-31 May 2011.
+
+
+Of those 101 questions, 93 answers have been provided. I can advise the Senate that of the 32 questions he referred to in his corres­pondence, 13 have been tabled and 19 remain under consideration. Some of the questions asked by the senator relate to complex and highly technical matters and others to national security issues. Accord­ingly, a number of these questions have required a significant effort to address. Obviously, it is important to ensure that answers to these questions are competent and deal with the complexity of the questions asked. I appreciate the senator's concern. The minister has indicated to me that he expects that outstanding Senate defence questions on notice are to be tabled by the end of this week.
+
+",Senate,<title>ANSWERS TO QUESTIONS ON  NOTICE</title>,"<title>Question Nos 503, 504, 633, 637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 647, 712, 759, 779, 780, 789</title>",ANSWERS TO QUESTIONS ON  NOTICE,6,1,answer
 "Joyce, Sen Barnaby",Nats,2011-10-11,"
 
 
@@ -883,7 +1044,7 @@ It is absurd that we are going down this path right now. When I last checked our
 
 The question at the essence of this tax that those opposite never answer is how much will this tax that they are about to impose on Australia cool the temperature of the globe? The answer is that it will do absolutely nothing to the temperature of the globe. It is merely a gesture. We are inflicting the privations of poverty on people who cannot afford it, all for a gesture. And this has come from the Labor Party. They used to represent the people who are doing it tough, but now they are not—they have been hijacked by a very particular group in Australia, the Australian Greens, and this will destroy our nation and it will destroy the Australian Labor Party.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Bilyk, Sen Catryna",ALP,2011-10-11,"
 
 
@@ -913,7 +1074,7 @@ Yes, we are compensating people for the fact that there needs to be a carbon pri
 
 Mr Deputy President, I know you will be interested in this because you are quite concerned with people in jobs: more than 18,900 jobseekers in Tasmania will also get up to $218 extra per year for singles and $390 per year— (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Cormann, Sen Mathias",LP,2011-10-11,"
 
 
@@ -933,7 +1094,7 @@ The point here is that the carbon tax—a tax that the people of Australia do no
 
 One final observation in relation to some of the comments by Senator Carr on local content is that if the Prime Minister were serious about achieving more local content she would scrap her carbon tax, which will make locally manufactured goods more expensive. Under the carbon tax we are in a ludicrous situation where higher emitting manufacturers overseas will become more competitive than lower emitting businesses in Australia. As higher emitting businesses overseas take market share away from us emissions internationally will go up, not down. This whole carbon tax is a joke. It is a bad tax based on a lie. The Labor Party knows it, which is why it wants to ram it through the parliament.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Singh, Sen Lisa",ALP,2011-10-11,"
 
 
@@ -953,7 +1114,7 @@ These are good things that are coming out of putting a price on carbon, somethin
 
 Some of those good things include assisting households with tax cuts and raising the tax-free threshold to $18½ thousand—something that will benefit thousands upon thousands of low-income Australians. That is a really good thing that is coming out of these clean energy bills. On top of that, we are increasing family payments and raising pensions and allowances—another good thing that the Gillard Labor government are doing for people in these bills. Not only is this package good for people and for the economy but it is also— (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Boyce, Sen Sue",LP,2011-10-11,"
 
 
@@ -976,7 +1137,7 @@ There is a better way: it is to accept the coalition's direct action plan and su
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Kroger, Sen Helen",LP,2011-10-11,"
 
 
@@ -990,7 +1151,7 @@ That the Foreign Affairs, Defence and Trade References Committee be authorised t
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade References Committee</title>",COMMITTEES,11,1
+",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade References Committee</title>",COMMITTEES,11,1,speech
 "Kroger, Sen Helen",LP,2011-10-11,"
 
 
@@ -1004,7 +1165,7 @@ That the Foreign Affairs, Defence and Trade References Committee be authorised t
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,11,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,11,2,speech
 "McEwen, Sen Anne",ALP,2011-10-11,"
 
 
@@ -1018,7 +1179,7 @@ That the Joint Select Committee on Gambling Reform be authorised to hold a priva
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Gambling Reform Committee</title>,COMMITTEES,13,1
+",Senate,<title>COMMITTEES</title>,<title>Gambling Reform Committee</title>,COMMITTEES,13,1,speech
 "McEwen, Sen Anne",ALP,2011-10-11,"
 
 
@@ -1032,7 +1193,7 @@ That the Joint Select Committee on Gambling Reform be authorised to hold a priva
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,13,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,13,2,speech
 "McEwen, Sen Anne",ALP,2011-10-11,"
 
 
@@ -1046,7 +1207,7 @@ That the Joint Standing Committee on Electoral Matters be authorised to hold a p
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Electoral Matters Committee</title>,COMMITTEES,15,1
+",Senate,<title>COMMITTEES</title>,<title>Electoral Matters Committee</title>,COMMITTEES,15,1,speech
 "McEwen, Sen Anne",ALP,2011-10-11,"
 
 
@@ -1060,7 +1221,7 @@ That the Joint Standing Committee on Electoral Matters be authorised to hold a p
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,15,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,15,2,speech
 "Siewert, Sen Rachel",AG,2011-10-11,"
 
 
@@ -1083,7 +1244,7 @@ the sitting of the Senate on Wednesday, 12 October 2011, from 4 pm.
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,17,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,17,1,speech
 "Siewert, Sen Rachel",AG,2011-10-11,"
 
 
@@ -1106,7 +1267,7 @@ the sitting of the Senate on Wednesday, 12 October 2011, from 4 pm.
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,17,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,17,2,speech
 "Wright, Sen Penny",AG,2011-10-11,"
 
 
@@ -1171,7 +1332,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Mental Health</title>,MOTIONS,18,1
+",Senate,<title>MOTIONS</title>,<title>Mental Health</title>,MOTIONS,18,1,speech
 "Parry, Sen Stephen",LP,2011-10-11,"
 
 
@@ -1194,7 +1355,7 @@ Is the proposal supported?
 More than the number of senators required by the standing orders having risen in their places—
 
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Boswell, Sen Ronald",Nats,2011-10-11,"
 
 
@@ -1223,7 +1384,7 @@ Every farm that produces fruit or vegetables has a coldroom. The carbon tax will
 
 There is going to be a carbon tax on fuel. It starts off at 6c a litre and it works its way up. For vehicles that are under 4½ tonnes, it starts off at 5.52c in 2013 and in 2014 it goes to nearly 7c. That is going to add to the cost of every piece of food— (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Cameron, Sen Doug",ALP,2011-10-11,"
 
 
@@ -1287,7 +1448,7 @@ Senator Sterle:
 Senator CAMERON:
   It has gone all quiet over there. These are canegrowers, people who actually understand the economics of doing something. They said that they will contribute to Australia's renewable energy market. Their perspective is that it is not a job destroyer, that the $120 million co-generation plant was based on the 20 per cent renewable energy scheme. They say, 'The carbon tax should enhance our revenue from co-generation.' That is what is happening. 'And we are hoping it will allow us to go ahead with another co-gen plant within a couple of years. These projects typically employ about 250 people during the construction period and a dozen or so under operations.' So, hundreds of construction jobs and dozens of full-time jobs being created because we are taking an initiative to put a price on carbon. It is only those on the other side who would deny this. Not only do they deny the science, but also they deny the economics. If you accept the science then you have an obligation to put up a proposition that reduces our carbon pollution at the least cost price. That is what the government has done. We have taken advice and that advice is to put a price on carbon and let the market determine the price. You put your cap in place, you put your price in place and you allow the market to determine the process. That is what is important for this country because we are about the future, not the past. We are about science and not being unscientific. We are about ensuring that future generations have a way forward for a decent environment in this country.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Williams, Sen John",Nats,2011-10-11,"
 
 
@@ -1355,7 +1516,7 @@ This is outrageous. The cost is greatest on regional Australia. As I said, peopl
 
 Today at question time I asked about the effect of the carbon tax on abattoirs. There will be a $1.74 million cost to the Bindaree Beef abattoir, in Inverell, in the first year. That cost will not be inflicted on abattoirs in America or Brazil, who we compete against—especially America. We are battling to keep our markets in Japan and Korea et cetera, but the Americans will not face that cost. They will simply be emitting more. That is why this is so wrong. It is a cost to the very sector that provides our nation's wealth. We have heard from the Australian coal industry what effect it will have on them. As I said, last year China increased its consumption of coal in one year by more than the whole of Australia's production of coal—but somehow we are going to change the planet, change the atmosphere, lower the temperatures and the lower the sea levels. It is a farce.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Thistlethwaite, Sen Matt",ALP,2011-10-11,"
 
 
@@ -1384,7 +1545,7 @@ The government also understands that there will be impacts associated with the t
 
 Senator Boswell has raised the issue of modelling. I find this surprising, given the Liberal Party's performance when it comes to modelling on the carbon tax. I draw the Senate's attention to the modelling that was undertaken by the New South Wales government on the potential effects of carbon pricing on regions. They found through their modelling that there would be effects on employment in the Hunter Valley and the Illawarra. That is disputed and I will not go into that. But what they did not disclose to people was the fact that the modelling also showed that in other regions, including northern New South Wales, the mid-north coast and the south-east coast, there would be more job opportunities associated with the carbon pricing legislation—a clear demonstration of this misleading campaign that those opposite are running to try to hoodwink the public when it comes to this very important environmental issue.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Williams, Sen John",Nats,2011-10-11,"
 
 
@@ -2410,7 +2571,7 @@ Total YES - 549
 
 
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Colbeck, Sen Richard",LP,2011-10-11,"
 
 
@@ -2470,7 +2631,7 @@ The Carbon Farming Initiative does not achieve that and the farmers know it. The
 
 We hear rhetoric from the Labor Party, the dogma about the science and all that sort of stuff. I am not sure they actually believe it, because their policy at the end of the day does not achieve it. It certainly disadvantages regional Australia. Their modelling does not look at regional Australia; it just lumps them in with the rest of Australia and we are expected to accept this 0.7 of a per cent. Less than one per cent is what we are told time and time again, and it just will not work for regional Australia. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Marshall, Sen Gavin",ALP,2011-10-11,"
 
 
@@ -2523,7 +2684,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Boyce
 ):  Order! The time for the debate has expired.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Milne, Sen Christine",AG,2011-10-11,"
 
 
@@ -2537,7 +2698,7 @@ That the final report of the Joint Select Committee on Australia’s Immigration
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Australia's Immigration Detention Network Committee</title>,COMMITTEES,21,1
+",Senate,<title>COMMITTEES</title>,<title>Australia's Immigration Detention Network Committee</title>,COMMITTEES,21,1,speech
 "Milne, Sen Christine",AG,2011-10-11,"
 
 
@@ -2551,7 +2712,7 @@ That the final report of the Joint Select Committee on Australia’s Immigration
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,21,2
+",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,21,2,speech
 "Back, Sen Chris",LP,2011-10-11,"
 
 
@@ -2568,7 +2729,7 @@ The ACTING DEPUTY PRESIDENT (Senator Back):
 
 (c)   from the Head, ABC Audience and Consumer Affairs (Ms McLiesh) to a resolution of the Senate of 15 September 2011 concerning the broadcast of the South Australian National Football League.
 
-",Senate,<title>DOCUMENTS</title>,<title>Responses to Senate Resolutions</title>,DOCUMENTS,22,1
+",Senate,<title>DOCUMENTS</title>,<title>Responses to Senate Resolutions</title>,DOCUMENTS,22,1,speech
 "Ludlam, Sen Scott",AG,2011-10-11,"
 
 
@@ -2627,7 +2788,7 @@ Lastly, I turn to cracking down on trade with Burma, an area on which we have fo
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Responses to Senate Resolutions</title>,DOCUMENTS,22,1
+",Senate,<title>DOCUMENTS</title>,<title>Responses to Senate Resolutions</title>,DOCUMENTS,22,1,speech
 "Back, Sen Chris",LP,2011-10-11,"
 
 
@@ -2644,7 +2805,7 @@ The ACTING DEPUTY PRESIDENT (Senator Back):
 
 (c)   from the Head, ABC Audience and Consumer Affairs (Ms McLiesh) to a resolution of the Senate of 15 September 2011 concerning the broadcast of the South Australian National Football League.
 
-",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,22,2
+",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,22,2,speech
 "Ludlam, Sen Scott",AG,2011-10-11,"
 
 
@@ -2703,7 +2864,7 @@ Lastly, I turn to cracking down on trade with Burma, an area on which we have fo
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,22,2
+",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,22,2,speech
 "Bushby, Sen David",LP,2011-10-11,"
 
 
@@ -2711,7 +2872,7 @@ Question agreed to.
 Senator BUSHBY
  (Tasmania—Deputy Opposition Whip in the Senate) (17:59):  On behalf of the Chair of the Select Committee on the Scrutiny of New Taxes, Senator Cormann, I present additional information received by the committee on its inquiry into the mining tax.
 
-",Senate,<title>COMMITTEES</title>,<title>Scrutiny of New Taxes Committee</title>,COMMITTEES,23,1
+",Senate,<title>COMMITTEES</title>,<title>Scrutiny of New Taxes Committee</title>,COMMITTEES,23,1,speech
 "Bushby, Sen David",LP,2011-10-11,"
 
 
@@ -2719,7 +2880,7 @@ Senator BUSHBY
 Senator BUSHBY
  (Tasmania—Deputy Opposition Whip in the Senate) (17:59):  On behalf of the Chair of the Select Committee on the Scrutiny of New Taxes, Senator Cormann, I present additional information received by the committee on its inquiry into the mining tax.
 
-",Senate,<title>COMMITTEES</title>,<title>Additional Information</title>,COMMITTEES,23,2
+",Senate,<title>COMMITTEES</title>,<title>Additional Information</title>,COMMITTEES,23,2,speech
 "Adams, Sen Judith",LP,2011-10-11,"
 
 
@@ -2727,7 +2888,7 @@ Senator BUSHBY
 Senator ADAMS
  (Western Australia—Deputy Opposition Whip in the Senate) (18:00):  by leave—I would like to say how disappointed I was as a member of the committee that these documents, that were written on 28 January 2011 and received by the committee secretariat on 4 February 2011, were somehow mislaid by the secretariat. Unfortunately, as a result, they were not available to the committee at the stage we were writing the report. I feel very strongly about that, because one of the submissions, No. 810, which was tabled by Mr David Brooks of Goulburn in New South Wales, contained very good information that would have been very worthwhile for the committee to deliberate upon. I request that my disappointment that the secretariat unfortunately mislaid these documents be recorded.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,25,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,25,1,speech
 "Adams, Sen Judith",LP,2011-10-11,"
 
 
@@ -2735,7 +2896,7 @@ Senator ADAMS
 Senator ADAMS
  (Western Australia—Deputy Opposition Whip in the Senate) (18:00):  by leave—I would like to say how disappointed I was as a member of the committee that these documents, that were written on 28 January 2011 and received by the committee secretariat on 4 February 2011, were somehow mislaid by the secretariat. Unfortunately, as a result, they were not available to the committee at the stage we were writing the report. I feel very strongly about that, because one of the submissions, No. 810, which was tabled by Mr David Brooks of Goulburn in New South Wales, contained very good information that would have been very worthwhile for the committee to deliberate upon. I request that my disappointment that the secretariat unfortunately mislaid these documents be recorded.
 
-",Senate,<title>COMMITTEES</title>,<title>Additional Information</title>,COMMITTEES,25,2
+",Senate,<title>COMMITTEES</title>,<title>Additional Information</title>,COMMITTEES,25,2,speech
 "Siewert, Sen Rachel",AG,2011-10-11,"
 
 
@@ -2773,7 +2934,7 @@ There is also a recommendation around integrating some of the programs. There ar
 
 I will conclude there because I know there are other senators who want to speak on this matter. I commend these recommendations to the government. I for one can tell the government and put them on notice that I will be pursuing the implementation of these recommendations, and I am sure no-one would expect any less.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,27,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,27,1,speech
 "Moore, Sen Claire",ALP,2011-10-11,"
 
 
@@ -2832,7 +2993,7 @@ I commend the secretariat, who worked hard to prepare this particular report. We
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,27,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,27,1,speech
 "Siewert, Sen Rachel",AG,2011-10-11,"
 
 
@@ -2870,7 +3031,7 @@ There is also a recommendation around integrating some of the programs. There ar
 
 I will conclude there because I know there are other senators who want to speak on this matter. I commend these recommendations to the government. I for one can tell the government and put them on notice that I will be pursuing the implementation of these recommendations, and I am sure no-one would expect any less.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,27,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,27,2,speech
 "Moore, Sen Claire",ALP,2011-10-11,"
 
 
@@ -2929,7 +3090,7 @@ I commend the secretariat, who worked hard to prepare this particular report. We
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,27,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,27,2,speech
 "Polley, Sen Helen",ALP,2011-10-11,"
 
 
@@ -2979,4 +3140,1634 @@ Those genuine gentlemen are not always as obvious in our community as I think th
 
 One of my colleagues said, 'Has something happened to Ray?' I said, 'No, I am making a contribution and acknowledg­ing his contribution to our community. I can assure you he is in very good health.' Health is not a reason for him to consider retirement. He is one of those people who has come to the realisation that it is time to let someone else share some of the burden, some of the responsibility and leadership of our community. I acknowledge a job very well done and thank him for his contribution to our community. I also note his contribution in more recent years to the Australian Labor Party and its Tasmanian branch and, on a personal note, thank him for his guidance, his always very frank advice and his encouragement.
 
-",Senate,<title>ADJOURNMENT</title>,"<title>Shipp, Mr Ray</title>",ADJOURNMENT,29,1
+",Senate,<title>ADJOURNMENT</title>,"<title>Shipp, Mr Ray</title>",ADJOURNMENT,29,1,speech
+"Johnston, Sen David",LP,2011-10-11,"
+
+
+
+Senator Johnston
+  asked the Minister representing the Minister for Defence, upon notice, on 21 March 2011:
+
+
+For each portfolio/agency within the responsibility of the Minister/Parliamentary Secretary:
+
+
+(1) How many reviews are currently being undertaken in the portfolio/agency or affecting the portfolio/agency.
+
+
+(2) What was the commencement date of each review.
+
+
+(3) When will each review conclude.
+
+
+(4) (a) Which reviews were completed in the period 1 July to 31  December 2010; and 
+
+
+   (b) When will the Government respond to the each of these reviews.
+
+
+(5) As at 31 December 2010, what was the cost of each of these reviews.
+
+",Senate,<title>QUESTIONS ON NOTICE</title>,<title>Defence (Question Nos 500 to 502)</title>,QUESTIONS ON NOTICE,31,1,question
+"Evans, Sen Christopher",ALP,2011-10-11,"
+
+
+
+Senator Chris Evans:
+  The Minister for Defence has provided the following answer to the honourable senator's question:
+
+
+(1) Twenty four.
+
+
+(2) to (3) and (5) The following (Table A) reviews are currently being undertaken by Defence or contributed to by Defence.
+
+
+
+
+Table A
+
+
+
+
+
+
+
+
+No.
+
+
+
+
+
+
+
+Review
+
+
+
+
+
+
+
+Commenced
+
+
+
+
+
+
+
+Concluded
+
+
+
+
+
+
+
+Submission to Government
+
+
+
+
+
+
+
+Cost as at 17 August 2011
+
+
+
+
+
+
+
+
+
+1.
+
+
+
+
+
+
+
+Review of the Management of Incidents and Complaints 
+
+
+
+
+
+
+
+11 April 2011
+
+
+
+
+
+
+
+31 August 2011
+
+
+
+
+
+
+
+Government will respond once the reviews into aspects of Australian Defence Force (ADF) and Defence culture have been received and considered.
+
+
+
+
+
+
+
+$0.023m
+
+
+
+
+
+
+
+
+
+2.
+
+
+
+
+
+
+
+Review of Personal Conduct of ADF Personnel
+
+
+
+
+
+
+
+11 April 2011
+
+
+
+
+
+
+
+30 August 2011
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+$0.125m
+
+
+
+
+
+
+
+
+
+3.
+
+
+
+
+
+
+
+Review of Use of Alcohol in the ADF
+
+
+
+
+
+
+
+11 April 2011
+
+
+
+
+
+
+
+31 July 2011
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+$0.250m
+
+
+
+
+
+
+
+
+
+4.
+
+
+
+
+
+
+
+Review of APS Women's Leadership Pathways 
+
+
+
+
+
+
+
+11 April 2011
+
+
+
+
+
+
+
+31 July 2011
+
+
+
+
+
+
+
+Government will respond once the reviews into aspects of Australian Defence Force (ADF) and Defence culture have been received and considered.
+
+
+
+
+
+
+
+$0.210m
+
+
+
+
+
+
+
+
+
+5.
+
+
+
+
+
+
+
+Review of the Use of  Social Media in Defence
+
+
+
+
+
+
+
+11 April 2011
+
+
+
+
+
+
+
+30 July 2011
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+$0.300m
+
+
+
+
+
+
+
+
+
+6.
+
+
+
+
+
+
+
+External to Defence – 
+
+
+
+
+
+Review of Allegations of Sexual and other Abuse in Defence (DLA Piper)
+
+
+
+
+
+
+
+April 2011
+
+
+
+
+
+
+
+Due end of September 2011 
+
+
+
+
+
+
+
+Government will respond once the reviews into aspects of Australian Defence Force (ADF) and Defence culture have been received and considered.
+
+
+
+
+
+
+
+$658,733.94 (GST inclusive)
+
+
+
+
+
+
+
+
+
+7.
+
+
+
+
+
+
+
+External to Defence – 
+
+
+
+
+
+Review of the Treatment of Women at ADFA and the ADF
+
+
+
+
+
+
+
+April 2011
+
+
+
+
+
+
+
+Expected reports: 
+
+- Phase 1 no later than Dec 2011.
+
+- Phase 2 Early 2012
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+$4.7m
+
+
+
+
+
+GST exclusive
+
+
+
+
+
+(AHRC budget estimate. Any underspend will be returned to Defence)
+
+
+
+
+
+
+
+
+
+8.
+
+
+
+
+
+
+
+Independent Review of the Intelligence Community – 
+Whole of Government review led by Prime Minister and Cabinet: Defence contribution only
+
+
+
+
+
+
+
+December 2010
+
+
+
+
+
+
+
+Continuing
+
+
+
+
+
+
+
+Due in 2011
+
+
+
+
+
+
+
+Nil
+
+
+
+
+
+
+
+
+
+9.
+
+
+
+
+
+
+
+Parliamentary Joint Committee on Intelligence and Security: Review of administration and expenditure No.9 – Australian intelligence Agencies
+
+
+
+
+
+
+
+December 2010 
+
+
+
+
+
+
+
+June 2011
+
+
+
+
+
+
+
+20 June 2011
+
+
+
+
+
+
+
+Nil
+
+
+
+
+
+
+
+
+
+10.
+
+
+
+
+
+
+
+Review of Defence Recognised Supplier Scheme (DRSS)
+
+
+
+
+
+
+
+November 2010
+
+
+
+
+
+
+
+Continuing
+
+
+
+
+
+
+
+Due in 2011
+
+
+
+
+
+
+
+Nil
+
+
+
+
+
+
+
+
+
+11.
+
+
+
+
+
+
+
+Review of Unsolicited Promotional Product Offer Scheme
+
+
+
+
+
+
+
+November 2010
+
+
+
+
+
+
+
+Continuing
+
+
+
+
+
+
+
+Due in 2011
+
+
+
+
+
+
+
+Nil
+
+
+
+
+
+
+
+
+
+12.
+
+
+
+
+
+
+
+Reform of Amphibious and Afloat Support Ship Repair and Management Practices
+
+
+
+
+
+(Rizzo Review)
+
+
+
+
+
+
+
+March 2011
+
+
+
+
+
+
+
+July 2011
+
+
+
+
+
+
+
+The Report was released on 18 July 2011.
+
+
+
+
+
+Government has accepted all of the recommendations.
+
+
+
+
+ 
+
+
+
+
+
+
+Estimated at $260,000 (GST Exclusive)
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+13.
+
+
+
+
+
+
+
+ADF Posture Review
+
+
+
+
+
+
+
+22 June 2011
+
+
+
+
+
+
+
+March 2012
+
+
+
+
+
+
+
+Government will respond once it has been received and considered
+
+
+
+
+
+
+
+The full cost will be known after it completes its final report to the Government. The costs of the review will be met within Defence's overall operating Budget.
+
+
+
+
+
+
+
+
+
+14.
+
+
+
+
+
+
+
+The Commonwealth and Defence Force Ombudsman Joint review with Defence into the delays in the Redress of Grievance process at the Service Chief level
+
+
+
+
+
+
+
+November 2009
+
+
+
+
+
+
+
+Defence Force Ombudsman closed this review August 2011 without finalising a report.
+
+
+
+
+
+
+
+No report to be made
+
+
+
+
+
+
+
+Nil
+
+
+
+
+
+
+
+
+
+15.
+
+
+
+
+
+
+
+Ombudsman own motion investigation into the Factors Influencing Decisions about Conditions of Service
+
+
+
+
+
+
+
+August 2009
+
+
+
+
+
+
+
+Informal advice from Defence Force Ombudsman is that this review is complete but that no report will be made.
+
+
+
+
+
+
+
+No report to be made.
+
+
+
+
+
+
+
+Nil
+
+
+
+
+
+
+
+
+
+16.
+
+
+
+
+
+
+
+Domain name System Security extensions (DNSEC) Review – 
+Whole of Government review led by the Department of Broadband, Communications and the digital Economy
+
+
+
+
+
+
+
+August 2010
+
+
+
+
+
+
+
+Continuing
+
+
+
+
+
+
+
+Provided by Department of Broadband, Communications and Digital Economy
+
+
+
+
+
+
+
+Nil
+
+
+
+
+
+
+
+
+
+17. 
+
+
+
+
+
+
+
+Collins Class Submarine Sustainment Business- Benchmarking Study
+
+
+
+
+
+(Coles Review)
+
+
+
+
+
+
+
+August 2010
+
+
+
+
+
+
+
+Final report due March 2012
+
+
+
+
+
+
+
+For consideration by DOFD, Defence and ASC. For info to MINDEF and MINDM.
+
+
+
+
+
+
+
+Approx $420,000
+
+
+
+
+
+
+
+
+
+18.
+
+
+
+
+
+
+
+Brady Review into the  Disposition of Defence's 
+
+
+
+
+
+Non-Operational Overseas Personnel and positions. 
+
+
+
+
+
+
+
+September 2010
+
+
+
+
+
+
+
+Continuing
+
+
+
+
+
+
+
+Due in 2011
+
+
+
+
+
+
+
+$114,000 (GST inclusive)
+
+
+
+
+
+
+
+
+
+19. 
+
+
+
+
+
+
+
+Review of the Asia Pacific Civil-Military Centre of Excellence
+
+
+
+
+
+
+
+November 2010
+
+
+
+
+
+
+
+March 2011
+
+
+
+
+
+
+
+July 2011
+
+
+
+
+
+
+
+$100,080
+
+
+
+
+
+
+
+
+
+20.
+
+
+
+
+
+
+
+Shared Services Review
+
+
+
+
+
+
+
+May 2011
+
+
+
+
+
+
+
+End of July 2011
+
+
+
+
+
+
+
+Government will respond once it has been considered
+
+
+
+
+
+
+
+$2.442m
+
+
+
+
+
+
+
+
+
+21.
+
+
+
+
+
+
+
+SSCFADT Inquiry into the Procurement Procedures for Items Identified in the Defence White Paper
+
+
+
+
+
+
+
+February 2011
+
+
+
+
+
+
+
+Continuing
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Nil
+
+
+
+
+
+
+
+
+
+22.
+
+
+
+
+
+
+
+Inspector General of Intelligence and Security investigation into the Defence Security Authority security vetting process.
+
+
+
+
+
+
+
+Referred to IGIS on Monday 30th May 2011
+
+
+
+
+
+
+
+Continuing
+
+
+
+
+
+
+
+Due to August/September 2011
+
+
+
+
+
+
+
+Approx $40,000
+
+
+
+
+
+
+
+
+
+23.
+
+
+
+
+
+
+
+Independent Review of Enhanced Cruise Ship Access to Garden Island, Sydney
+
+
+
+
+
+
+
+16 June 2011 (announced by MINDEF)
+
+
+
+
+
+
+
+Conclude by end of 2011
+
+
+
+
+
+
+
+N/A.
+
+
+
+
+
+
+
+Nil (not commenced).
+
+
+
+
+
+
+
+
+
+24.
+
+
+
+
+
+
+
+Review into Civil Aviation Access to Air Force Airfields
+
+
+
+
+
+
+
+February 2010 (Commenced Public Consultation on 16 June 2011)
+
+
+
+
+
+
+
+September 2010 (Public Consultation finished on 31 October 2011)
+
+
+
+
+
+
+
+N/A
+
+
+
+
+
+
+
+Nil.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) (a) to (b) and (5) The following (Table B) reviews were completed between 1 July 2010 and 30 June 2011.
+
+
+
+
+Table B
+
+
+
+
+
+
+
+
+No.
+
+
+
+
+
+
+
+Review
+
+
+
+
+
+
+
+Commenced
+
+
+
+
+
+
+
+Concluded
+
+
+
+
+
+
+
+Government response date
+
+
+
+
+
+
+
+Cost
+
+
+
+
+
+
+
+
+
+1.
+
+
+
+
+
+
+
+Review of Policy Framework for Clothing Procurement (Lewincamp Review)
+
+
+
+
+
+
+
+February 2010
+
+
+
+
+
+
+
+September 2010
+
+
+
+
+
+
+
+November 2010
+
+
+
+
+
+
+
+$87,000
+
+
+
+
+
+
+
+
+
+2.
+
+
+
+
+
+
+
+Review of the Reporting of Defects with ADF Personal Equipment and Combat Clothing (Whalan Review)
+
+
+
+
+
+
+
+June 2010
+
+
+
+
+
+
+
+September 2010
+
+
+
+
+
+
+
+November 2010
+
+
+
+
+
+
+
+$74,800
+
+
+
+
+
+
+
+
+
+3.
+
+
+
+
+
+
+
+Review of Defence Accountability framework (Rufus Black Review)
+
+
+
+
+
+
+
+March 2011
+
+
+
+
+
+
+
+January 2011
+
+
+
+
+
+
+
+Due in 2011
+
+
+
+
+
+
+
+$103,000
+
+
+
+
+
+
+
+
+
+4.
+
+
+
+
+
+
+
+Review into Security and Economic Interest in the Woomera Prohibited Area – Whole of Government review led by Defence.
+
+
+
+
+
+
+
+May 2010
+
+
+
+
+
+
+
+February 2011
+
+
+
+
+
+
+
+May 2011
+
+
+
+
+
+
+
+$94,660
+
+
+
+
+
+
+
+
+
+
+
+
+
+",Senate,<title>QUESTIONS ON NOTICE</title>,<title>Defence (Question Nos 500 to 502)</title>,QUESTIONS ON NOTICE,31,1,answer

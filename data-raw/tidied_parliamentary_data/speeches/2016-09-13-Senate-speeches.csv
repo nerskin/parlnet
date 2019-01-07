@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2016-09-13,"
 
 
@@ -26,7 +26,7 @@ A ballot having been taken—
 
 The PRESIDENT:  There being 33 votes cast in favour of Senator Leyonhjelm and 37 votes cast in favour of Senator Rhiannon, Senator Rhiannon is elected as a member of the Joint Standing Committee on Electoral Matters nominated by a minority group or Independent senators.
 
-",Senate,<title>COMMITTEES</title>,<title>Joint Standing Committee on Electoral Matters</title>,COMMITTEES,2,1
+",Senate,<title>COMMITTEES</title>,<title>Joint Standing Committee on Electoral Matters</title>,COMMITTEES,2,1,speech
 "PRESIDENT, The",,2016-09-13,"
 
 
@@ -54,7 +54,7 @@ A ballot having been taken—
 
 The PRESIDENT:  There being 33 votes cast in favour of Senator Leyonhjelm and 37 votes cast in favour of Senator Rhiannon, Senator Rhiannon is elected as a member of the Joint Standing Committee on Electoral Matters nominated by a minority group or Independent senators.
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,2,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,2,2,speech
 "PRESIDENT, The",,2016-09-13,"
 
 
@@ -62,7 +62,7 @@ The PRESIDENT:  There being 33 votes cast in favour of Senator Leyonhjelm and 37
 The PRESIDENT
  (12:47):  Senators, I take this opportunity to remind you about the conventions for first speeches in the Senate. The time limit is 20 minutes, and the clock is usually set for 20 minutes. While some tolerance is given by the chair to senators to exceed that time limit from time to time, in acknowledgement of it being a first speech and of nervousness and other matters, we ask that senators observe the 20-minute rule where possible. Also, senators when making their first speeches are heard in silence. This is on the basis that their speeches do not contain material that is unduly provocative. If senators do not adhere to that standard they cannot expect to be heard without interjection or points of order. Finally, I urge senators to study Privilege Resolution No. 9, which encourages presidents to remind senators from time to time to exercise their great freedom of speech responsibly.
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>First Speeches</title>,STATEMENT BY THE PRESIDENT,3,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>First Speeches</title>,STATEMENT BY THE PRESIDENT,3,1,speech
 "Hinch, Sen Derryn",Hinch,2016-09-13,"
 
 
@@ -83,7 +83,289 @@ An opposition senator:  How short?
 Senator HINCH:
   I promise this will be shorter than last night! In an attempt at alliteration, I described the member for New England and Deputy Prime Minister in unparliamentary terms. I have made contact with his office so I can speak to him directly to apologise and on that basis I withdraw my comment. Thank you.
 
-",Senate,<title>STATEMENTS</title>,<title>Deputy Prime Minister</title>,STATEMENTS,4,1
+",Senate,<title>STATEMENTS</title>,<title>Deputy Prime Minister</title>,STATEMENTS,4,1,speech
+"McAllister, Sen Jenny",ALP,2016-09-13,"
+
+
+
+Senator McALLISTER
+ (New South Wales—Deputy Opposition Whip in the Senate) (14:00):  My question is to the Attorney-General, Senator Brandis. I refer to his statement reported yesterday:
+
+
+We want to keep the cost of the plebiscite as low as it can be kept …
+
+
+Is the cabinet's decision to provide public funding to the 'yes' and the 'no' plebiscite campaigns what the Attorney-General had in mind, or was this yet another concession to ensure that the conservatives in his party would agree to a plebiscite?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"McAllister, Sen Jenny",ALP,2016-09-13,"
+
+
+
+Senator McALLISTER
+ (New South Wales—Deputy Opposition Whip in the Senate) (14:03):  I refer to the managing director of the Australian Christian Lobby, Lyle Shelton, who compared the children of same-sex couples to the stolen generations. Will there be restrictions on the use of public funding, or is this the so-called civil and respectful debate the Prime Minister is telling taxpayers to fund?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"McAllister, Sen Jenny",ALP,2016-09-13,"
+
+
+
+Senator McALLISTER
+ (New South Wales—Deputy Opposition Whip in the Senate) (14:05):  I refer to Senator Paterson, who yesterday said in relation to public funding of the 'yes' and the 'no' campaigns:
+
+
+… if we cannot think of a better way to spend taxpayers' money than in a political campaign, then I think we are not doing our jobs.
+
+
+Does the Attorney-General agree the government is failing to do its job?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"Brandis, Sen George",LP,2016-09-13,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:00):  What we said, and what we have delivered, is a fair process that treats both sides equally.
+
+
+
+Senator Wong interjecting—
+
+
+
+
+Senator BRANDIS:
+  Senator Wong, I wish you would stop playing politics with this question, because the cabinet has now decided, and this morning our party room endorsed, the introduction into the parliament tomorrow of a plebiscite bill which treats both sides of the case—the 'yes' case and the 'no' case—with complete equality. 
+
+
+This is a challenge for Mr Bill Shorten, because Mr Shorten has said that he believes in marriage equality but now Mr Shorten is the one person standing between Australia and the opportunity for Australia to move to marriage equality. It is time for Mr Shorten to stop playing politics with this issue. It is time for Mr Shorten to stop playing politics with gay people's lives. It is time for Mr Shorten to get out of the way, to respect the fact that the government was re-elected committed to this course. It was adopted by the Australian people. It has been supported by the Australian people time and again. If Mr Shorten gets out of the way, we can have marriage equality within less than five months. But, if Mr Shorten decides to continue to play politics with gay people's lives, then there will not be marriage equality. While Mr Shorten says, 'I want to play politics; you can wait for years,' we will put this issue off for years.
+
+
+
+Senator Wong interjecting—
+
+
+
+
+Senator BRANDIS:
+  I can understand, Senator Wong, why you are feeling very uncomfortable about this, but the fact is that you are a member of a party that faces a choice: will you stay in the way of marriage equality or will you allow the frustrated people to have a vote?
+
+
+
+The PRESIDENT:  Senator McAllister, a supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
+"Brandis, Sen George",LP,2016-09-13,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:03):  I am not familiar with Mr Shelton's remarks, but I can tell you, Senator McAllister, that I have enormous confidence that the Australian people will have a civil and respectful debate. I have enormous confidence in that. I know that there are some in the Labor Party who are pessimistic about the Australian people. There are some in the Labor Party who believe we cannot have a decent debate about an issue of this sensitivity—
+
+
+
+Senator Wong interjecting—
+
+
+
+
+Senator BRANDIS:
+  and I can understand, Senator Wong, why you are so upset. I can understand, Senator Wong, why you are so upset. But the fact is that we have now provided an opportunity for there to be a great act of public choice, which in a democracy is only appropriate, and a clear path to marriage equality by 11 February next year. I call on you, Senator Wong, and I call on Mr Shorten, to get out of the way.
+
+
+
+The PRESIDENT:  Senator McAllister, a final supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
+"Brandis, Sen George",LP,2016-09-13,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:05):  Senator McAllister, it will not surprise you to learn that I have enormous respect for Senator Paterson's views on fiscal matters and I have enormous respect for Senator Paterson's concern to ensure that taxpayers' money is spent as frugally and as economically as possible. That being said, when it comes to the plebiscite, what we have decided to do is to adopt, as closely as possible, the funding mechanism that was adopted in 1999 for the republic referendum, when $7½ million was provided to both the 'yes' case and the 'no' case. 
+
+
+
+Now, Senator McAllister, I believe you feel quite strongly about this issue, so let me just say this to you one more time: we can do this. We can achieve this. The only party that is standing in the way of us achieving this is the Labor Party. The only person who is standing in the way of us doing this is Mr Bill Shorten. Mr Shorten should stop playing politics with gay people's lives.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
+"Hume, Sen Jane",LP,2016-09-13,"
+
+
+
+Senator HUME
+ (Victoria) (14:07):  My question is to the Minister for Finance, representing the Treasurer, Senator Cormann. Can the minister provide an update on the government's plan to repair the budget and strengthen our economy?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Hume, Sen Jane",LP,2016-09-13,"
+
+
+
+Senator HUME
+ (Victoria) (14:09):  Can the minister please explain why the timely implementation of the government's plan for budget repair is so important?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Hume, Sen Jane",LP,2016-09-13,"
+
+
+
+Senator HUME
+ (Victoria) (14:10):  Can the minister outline any other measures the government is pursuing to encourage stronger economic growth?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Cormann, Sen Mathias",LP,2016-09-13,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance and Deputy Leader of the Government in the Senate) (14:07):  I thank Senator Hume for her persistent interest in good economic and fiscal policy for Australia. I am pleased to inform the Senate that the government has reached agreement with the opposition in relation to just over $6 billion worth of savings measures captured in the Budget Savings (Omnibus) Bill. This outcome has been achieved as a result of a very positive and constructive process with the opposition, and I would like to thank in particular the shadow Treasurer, Chris Bowen, and indeed the whole Labor leadership for their engagement with the government in relation to this piece of legislation. We hope that this is only the beginning and that there will be opportunity for the government and the opposition to work together in the national interest to bring the budget back into balance as soon as possible on further measures. 
+
+
+In any such discussion, in any such negotiation to reach an outcome, obviously there is necessarily a level of give and take on both sides of the discussion, and that has been the case on this occasion. The government, as part of our compromise, has agreed to progress the government's reforms to dental services through separate legislation. We have agreed to restore $800 million worth of ARENA funding over five years as grants funding instead of making it available by way of concessional loans or equity funding. The energy supplement through this omnibus savings bill will be removed only for new recipients of family tax benefit payments and the Commonwealth Seniors Health Card. We are also—and this was a concession made by the opposition—adding a new schedule to this bill which limits access to the family tax benefit part A end-of-year supplements only to families earning less than $80,000 per annum. The government has also decided not to proceed with the so-called baby bonus. (Time expired)
+
+
+
+The PRESIDENT:  Senator Hume, a supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
+"Cormann, Sen Mathias",LP,2016-09-13,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance and Deputy Leader of the Government in the Senate) (14:09):  Right now the Australian budget continues to be in deficit. We do have an improving trajectory over the forward estimates, and we are expected to get back into balance within five years. It is very important that we deliver on the return to balance as outlined in the budget, to ensure we protect our AAA credit rating. Our AAA credit rating helps to keep interest rates low for business and for consumers. It also helps us deal with any future economic shocks that we may face from time to time as a result of developments around the world beyond our control. And, furthermore, it is of course very important that spending on funding of important social services and other services provided by government is affordable and sustainable over the medium to long term and that we do not continue to fund our expenditure today based on borrowings from our children and grandchildren, based on borrowings from future generations. That is why today's significant step is an important step—
+
+
+
+
+Senator Conroy:
+  Say, 'Thank you'!
+
+
+
+
+Senator CORMANN:
+  but it can only be one step. (Time expired)
+
+
+
+
+The PRESIDENT:  Senator Hume, a final supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
+"Cormann, Sen Mathias",LP,2016-09-13,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance and Deputy Leader of the Government in the Senate) (14:10):  For the benefit of Senator Conroy, yes, the government is very grateful for the cooperative approach that Labor has taken in relation to the omnibus savings bill, and we hope, as I said, that this is only the beginning. There is more work to be done to implement our reforms, to make our superannuation system, and the tax concessions in super, fairer and more sustainable. There is still a lot of work to do to ensure that we have a genuinely internationally competitive business tax framework, that we continue to attract more investment, that we continue to be able to boost productivity, boost growth and indeed achieve increases in real wages over time. There is of course still significant work to be done to ensure that the spending growth trajectory that is currently reflected in our forward trajectory is reduced and brought down to a more sustainable and affordable level. We hope that this example today of an agreement reached between the government and the opposition is only the beginning of more to come. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
+"Gallagher, Sen Katy",ALP,2016-09-13,"
+
+
+
+Senator GALLAGHER
+ (Australian Capital Territory) (14:12):  My question is to the Minister representing the Prime Minister, Senator Brandis. I refer to last night's reports of leaks from cabinet indicating that the Prime Minister had instructed cabinet ministers not to leak. Is the Prime Minister's authority so diminished that he has now resorted to telling cabinet ministers to do what they should do anyway?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Turnbull Government</title>,QUESTIONS WITHOUT NOTICE,13,1,question
+"Gallagher, Sen Katy",ALP,2016-09-13,"
+
+
+
+Senator GALLAGHER
+ (Australian Capital Territory) (14:13):  I refer to reports of leaks from the Prime Minister's recent attendance at a meeting of the federal executive of the Liberal Party. Aren't last night's reports just a repeat of Liberal Party chiefs ignoring the Prime Minister's challenge to make sure his frank remarks did not make the newspaper?
+
+
+
+The PRESIDENT:  Order! I will invite the Attorney-General, if he wishes, to address that question, but it does not really fit within his portfolio remit.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Turnbull Government</title>,QUESTIONS WITHOUT NOTICE,13,1,question
+"Gallagher, Sen Katy",ALP,2016-09-13,"
+
+
+
+Senator GALLAGHER
+ (Australian Capital Territory) (14:16):  Given the Prime Minister's priorities have been to station staff at doors to prevent MPs from leaving and to tell his cabinet colleagues not to leak, is it any wonder that his own party and the country have been left wondering whether this Prime Minister has any agenda or any authority at all?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Turnbull Government</title>,QUESTIONS WITHOUT NOTICE,13,1,question
+"Brandis, Sen George",LP,2016-09-13,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:12):  Honestly and truly, Senator Gallagher, there are really important issues in this country at the moment, and, relevantly to the subject of today's question time, one of the most important issues facing this country at the moment—not the most important but one of the most important issues facing this country—is whether we give equal treatment to gay people under the Marriage Act. And you want to play politics. You and your leader and your party want to play politics, to play insiders games. Really, Senator Gallagher. I know what your private views on this matter are. Why don't you come to terms with the merits of the issue rather than play silly political games?
+
+
+
+The PRESIDENT:  Senator Gallagher.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Turnbull Government</title>,QUESTIONS WITHOUT NOTICE,13,1,answer
+"Brandis, Sen George",LP,2016-09-13,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:14):  I will take the question. Senator Gallagher, there are very, very important issues for this nation. There are things to be celebrated—like the fact, for example, that Australia's economic growth is now 3.3 per cent, the highest rate of economic growth of any G20 nation; the fact that consumer confidence has risen to a three-year high, as reported as recently as this morning by the ANZ-Roy Morgan Consumer Confidence survey; the fact that there are more Australians in work today than there have ever been. These are the big issues for our country, the issues of—
+
+
+
+The PRESIDENT:  Senator Cameron, a point of order?
+
+
+
+
+Senator Cameron:
+  Mr President, this is on relevance: the Attorney-General determined he would take the question, and he has not gone near the question. He determined he would take the question. He should then answer the question.
+
+
+
+The PRESIDENT:  Thank you, Senator Cameron. There is no point of order. The question was completely about leaks from the Liberal Party, not about cabinet. I invited the Attorney-General to address that question, if he wished to. The Attorney-General is in complete order. Senator Wong, on the point of order?
+
+
+
+
+Senator Wong:
+  I am making the point, Mr President—
+
+
+
+
+Senator Brandis:
+  Is it a point of order?
+
+
+
+
+Senator Wong:
+  I have a point of order. The question goes to statements the Prime Minister has made. We are entitled to ask questions about that.
+
+
+
+The PRESIDENT:  Yes, but it was primarily directed towards the Liberal Party. I have ruled on that question. The Attorney-General has agreed to take the question, and the Attorney-General can take the question.
+
+
+
+
+Senator BRANDIS:
+  Thank you very much, indeed, Mr President. The point I am making to Senator Gallagher is: while she is asking questions about political trivia and the sort of insider gossip which the Labor Party seems to enjoy, this government is getting on with delivering real outcomes for Australians' jobs, growth and prosperity.
+
+
+
+The PRESIDENT:  Senator Gallagher, a final supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Turnbull Government</title>,QUESTIONS WITHOUT NOTICE,13,1,answer
+"Brandis, Sen George",LP,2016-09-13,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:16):  Senator Gallagher, you asked me about the government's agenda, so let me tell you about the government's agenda. The government's agenda is to deliver on the election commitments we made when we won the federal election this year—in particular, our commitments for jobs and growth.
+
+
+Now, you may not have been able to hear me over all of the interjection from your own side, Senator Gallagher, so let me remind you. The latest economic growth figures for Australia, at 3.3 per cent, are now the highest of any G20 nation. Under this government, Australia is, economically, the best performing nation in the G20. And that is apparent from the consumer confidence figures released this morning, to which I referred, which show consumer confidence at a three-year high—and going up. Those are the real issues, Senator Gallagher, not the silly insiders' games in which you and the Labor Party delight—jobs, growth, outcomes for the Australian people. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Turnbull Government</title>,QUESTIONS WITHOUT NOTICE,13,1,answer
 "Payne, Sen Marise",LP,2016-09-13,"
 
 
@@ -91,7 +373,7 @@ Senator HINCH:
 Senator PAYNE
  (New South Wales—Minister for Defence) (15:08):  For the benefit of Hansard, I just wanted to correct one word in my response to Senator Carr. When I talked about the Commonwealth procurement rules and the exemption, I referred to the 'standard dress uniform'. I meant to say the 'standard combat uniform'. 
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,14,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,14,1,speech
 "McAllister, Sen Jenny",ALP,2016-09-13,"
 
 
@@ -132,7 +414,7 @@ Question 4, which I think is the big question for this chamber and for the Austr
 
 Senator Brandis in his answer to my question said that the coalition had landed on a structure that 'treats both sides equally', which probably marks the first and the only time that the social conservatives in his party have been committed to complete equality on any matter. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,15,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,15,1,speech
 "Ruston, Sen Anne",LP,2016-09-13,"
 
 
@@ -171,7 +453,7 @@ The DEPUTY PRESIDENT:  There is a fair bit of latitude at this point of the day,
 Senator RUSTON:
   I draw the attention of the house, through you, Madam Deputy President, to the fact that I was merely trying to suggest that the questions that were asked by Senator McAllister and her response to the answers to her questions really cut to the very point of what I was saying: the real issues facing this country are not being addressed in this place. Instead, we spend our time playing around with stupid, unnecessary, unimportant things and turning things into a debacle when we should be having respectful debate about things such as same sex marriage. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,15,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,15,1,speech
 "O'Neill, Sen Deb",ALP,2016-09-13,"
 
 
@@ -191,7 +473,7 @@ But the problem is that this is a government that is completely out of touch wit
 
 The government's definition of a plebiscite is a very interesting one. What is their definition of a plebiscite? It seems to be that it is a situation where a Prime Minister, following a near-death political experience, has been returned with a majority of one, then laughably demands that he has a mandate to push through a policy forced upon him by part of his party who put him where he is and who have publicly said they will defy the outcome and vote any way they like regardless. It seems that the Prime Minister thinks that this is leadership in action. If this PM had one ounce of leadership, he would let the parliament do its job and have a free vote, decide this matter, rather than the tactic of delay, delay, and appeasing those inside his own— (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,15,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,15,1,speech
 "O'Sullivan, Sen Barry",Nats,2016-09-13,"
 
 
@@ -231,7 +513,7 @@ Senator McKim interjecting—
 Senator O'SULLIVAN:
   Well, my personal wealth! Through you, Madam Acting Deputy President, this is what is happening in this place. When you do not like what is coming into your ears, you start to revert to personal attacks, just like we saw from Senator Cameron here today. It was a disgraceful performance. It really does diminish the reputation of this chamber right across the nation when we hear contributions like we did today. It was an absolute shocker. I withdrew my comments about Senator Cameron. I would still be standing here withdrawing them if I withdrew them on every occasion I called him by that name. So I say to you: this government is leading; it is showing leadership in the nation. The country is behind us. Let us have the plebiscite and put this question to rest. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,15,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,15,1,speech
 "Brown, Sen Carol",ALP,2016-09-13,"
 
 
@@ -264,7 +546,7 @@ Who will decide who gets the $15 million, and for what purpose? It is clear that
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,15,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Marriage</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,15,1,speech
 "Bushby, Sen David",LP,2016-09-13,"
 
 
@@ -281,7 +563,7 @@ Senator BUSHBY
 
 Question agreed to. 
 
-",Senate,<title>BILLS</title>,<title>Australian Broadcasting Corporation Amendment (Rural and Regional Advocacy) Bill 2015</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Australian Broadcasting Corporation Amendment (Rural and Regional Advocacy) Bill 2015</title>,BILLS,20,1,speech
 "Leyonhjelm, Sen David",LDP,2016-09-13,"
 
 
@@ -310,7 +592,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,20,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,20,2,speech
 "Xenophon, Sen Nick",NXT,2016-09-13,"
 
 
@@ -336,7 +618,7 @@ That—
 
 Question agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Environment and Communications References Committee Report: Government Response</title>,DOCUMENTS,21,1
+",Senate,<title>DOCUMENTS</title>,<title>Environment and Communications References Committee Report: Government Response</title>,DOCUMENTS,21,1,speech
 "Xenophon, Sen Nick",NXT,2016-09-13,"
 
 
@@ -362,7 +644,7 @@ That—
 
 Question agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,21,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,21,2,speech
 "Siewert, Sen Rachel",AG,2016-09-13,"
 
 
@@ -394,7 +676,7 @@ Changes to the Aged Care Funding Instrument announced in the 2015-16 MYEFO and 2
 
 (f) any other related matters.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,22,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,22,1,speech
 "Gallagher, Sen Katy",ALP,2016-09-13,"
 
 
@@ -412,7 +694,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator GALLAGHER:
   Labor will not be supporting this motion. We remain concerned about the impact of the changes to the Aged Care Funding Instrument. We believe that the government should immediately share the full modelling and assumptions on the changes with the sector and engage in a genuine assessment of future aged-care funding. This proposed inquiry, rather than addressing concerns with aged-care funding, would just give the government an excuse to delay engaging on the issue. If appropriate, the Senate Community Affairs References Committee inquiry on the future of Australia's aged-care-sector workforce could deal with this matter if reconstituted after the government has provided the full modelling and basis for funding.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,22,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,22,1,speech
 "Siewert, Sen Rachel",AG,2016-09-13,"
 
 
@@ -434,7 +716,7 @@ Senator SIEWERT:
 
 The PRESIDENT:  The question is that the motion moved by Senator Siewert be agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,22,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,22,1,speech
 "Siewert, Sen Rachel",AG,2016-09-13,"
 
 
@@ -466,7 +748,7 @@ Changes to the Aged Care Funding Instrument announced in the 2015-16 MYEFO and 2
 
 (f) any other related matters.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,22,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,22,2,speech
 "Gallagher, Sen Katy",ALP,2016-09-13,"
 
 
@@ -484,7 +766,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator GALLAGHER:
   Labor will not be supporting this motion. We remain concerned about the impact of the changes to the Aged Care Funding Instrument. We believe that the government should immediately share the full modelling and assumptions on the changes with the sector and engage in a genuine assessment of future aged-care funding. This proposed inquiry, rather than addressing concerns with aged-care funding, would just give the government an excuse to delay engaging on the issue. If appropriate, the Senate Community Affairs References Committee inquiry on the future of Australia's aged-care-sector workforce could deal with this matter if reconstituted after the government has provided the full modelling and basis for funding.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,22,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,22,2,speech
 "Siewert, Sen Rachel",AG,2016-09-13,"
 
 
@@ -506,7 +788,7 @@ Senator SIEWERT:
 
 The PRESIDENT:  The question is that the motion moved by Senator Siewert be agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,22,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,22,2,speech
 "Watt, Sen Murray",ALP,2016-09-13,"
 
 
@@ -517,7 +799,7 @@ Senator WATT
 
 That the provisions of the National Cancer Screening Register Bill 2016 and the National Cancer Screening Register (Consequential and Transitional Provisions) Bill 2016 be referred to the Community Affairs Legislation Committee for inquiry and report by 11 October 2016.
 
-",Senate,<title>BILLS</title>,"<title>National Cancer Screening Register Bill 2016, National Cancer Screening Register (Consequential and Transitional Provisions) Bill 2016</title>",BILLS,23,1
+",Senate,<title>BILLS</title>,"<title>National Cancer Screening Register Bill 2016, National Cancer Screening Register (Consequential and Transitional Provisions) Bill 2016</title>",BILLS,23,1,speech
 "McGrath, Sen James",LP,2016-09-13,"
 
 
@@ -542,7 +824,7 @@ If the legislation enactment is delayed beyond the end of September, there will 
 
 The PRESIDENT:  The question is that the motion moved by Senator Watt be agreed to.
 
-",Senate,<title>BILLS</title>,"<title>National Cancer Screening Register Bill 2016, National Cancer Screening Register (Consequential and Transitional Provisions) Bill 2016</title>",BILLS,23,1
+",Senate,<title>BILLS</title>,"<title>National Cancer Screening Register Bill 2016, National Cancer Screening Register (Consequential and Transitional Provisions) Bill 2016</title>",BILLS,23,1,speech
 "Watt, Sen Murray",ALP,2016-09-13,"
 
 
@@ -553,7 +835,7 @@ Senator WATT
 
 That the provisions of the National Cancer Screening Register Bill 2016 and the National Cancer Screening Register (Consequential and Transitional Provisions) Bill 2016 be referred to the Community Affairs Legislation Committee for inquiry and report by 11 October 2016.
 
-",Senate,<title>BILLS</title>,<title>Reference to Committee</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>Reference to Committee</title>,BILLS,23,2,speech
 "McGrath, Sen James",LP,2016-09-13,"
 
 
@@ -578,7 +860,7 @@ If the legislation enactment is delayed beyond the end of September, there will 
 
 The PRESIDENT:  The question is that the motion moved by Senator Watt be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Reference to Committee</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>Reference to Committee</title>,BILLS,23,2,speech
 "Leyonhjelm, Sen David",LDP,2016-09-13,"
 
 
@@ -604,7 +886,7 @@ That the following interim reports of the Economics References Committee, tabled
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Economics References Committee</title>,COMMITTEES,24,1
+",Senate,<title>COMMITTEES</title>,<title>Economics References Committee</title>,COMMITTEES,24,1,speech
 "Leyonhjelm, Sen David",LDP,2016-09-13,"
 
 
@@ -630,7 +912,7 @@ That the following interim reports of the Economics References Committee, tabled
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Reports</title>,COMMITTEES,24,2
+",Senate,<title>COMMITTEES</title>,<title>Reports</title>,COMMITTEES,24,2,speech
 "Whish-Wilson, Sen Peter",AG,2016-09-13,"
 
 
@@ -656,7 +938,7 @@ That the Senate notes:
 
 (e) the unanimous recommendations of the Senate Environment and Communications References Committee outlining a plan of action for the Federal Government.
 
-",Senate,<title>MOTIONS</title>,<title>Our Ocean 2016 Conference</title>,MOTIONS,25,1
+",Senate,<title>MOTIONS</title>,<title>Our Ocean 2016 Conference</title>,MOTIONS,25,1,speech
 "McGrath, Sen James",LP,2016-09-13,"
 
 
@@ -677,7 +959,7 @@ Senator McGRATH:
 
 We are getting on with the job of protecting our oceans through a range of measures, including investing $700,000 in the last term for marine debris clean-up along the Great Barrier Reef and investing an additional $1 million over three years in organisations that build environmental awareness and take practical action, including Keep Australia Beautiful, Clean Up Australia, Banksia Foundation and Tangaroa Blue.
 
-",Senate,<title>MOTIONS</title>,<title>Our Ocean 2016 Conference</title>,MOTIONS,25,1
+",Senate,<title>MOTIONS</title>,<title>Our Ocean 2016 Conference</title>,MOTIONS,25,1,speech
 "Whish-Wilson, Sen Peter",AG,2016-09-13,"
 
 
@@ -707,7 +989,7 @@ One thing I am hoping Mr Silverwood will talk about when he is at the US confere
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Our Ocean 2016 Conference</title>,MOTIONS,25,1
+",Senate,<title>MOTIONS</title>,<title>Our Ocean 2016 Conference</title>,MOTIONS,25,1,speech
 "Gallagher, Sen Katy",ALP,2016-09-13,"
 
 
@@ -721,7 +1003,7 @@ That the resolution of the Senate of 2 November 2011, relating to the chair of t
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Environment and Communications References Committee</title>,COMMITTEES,26,1
+",Senate,<title>COMMITTEES</title>,<title>Environment and Communications References Committee</title>,COMMITTEES,26,1,speech
 "Gallagher, Sen Katy",ALP,2016-09-13,"
 
 
@@ -735,7 +1017,7 @@ That the resolution of the Senate of 2 November 2011, relating to the chair of t
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,26,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,26,2,speech
 "Rice, Sen Janet",AG,2016-09-13,"
 
 
@@ -752,7 +1034,7 @@ That there be laid on the table, no later than 4 pm on 10 October 2016, by the M
 
 (b) any correspondence or other information, including briefings, meeting and file notes, between any Australian Government Minister, department or agency.
 
-",Senate,<title>DOCUMENTS</title>,<title>Australian Pesticides and Veterinary Medicines Authority</title>,DOCUMENTS,27,1
+",Senate,<title>DOCUMENTS</title>,<title>Australian Pesticides and Veterinary Medicines Authority</title>,DOCUMENTS,27,1,speech
 "McGrath, Sen James",LP,2016-09-13,"
 
 
@@ -773,7 +1055,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Australian Pesticides and Veterinary Medicines Authority</title>,DOCUMENTS,27,1
+",Senate,<title>DOCUMENTS</title>,<title>Australian Pesticides and Veterinary Medicines Authority</title>,DOCUMENTS,27,1,speech
 "Rice, Sen Janet",AG,2016-09-13,"
 
 
@@ -790,7 +1072,7 @@ That there be laid on the table, no later than 4 pm on 10 October 2016, by the M
 
 (b) any correspondence or other information, including briefings, meeting and file notes, between any Australian Government Minister, department or agency.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,27,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,27,2,speech
 "McGrath, Sen James",LP,2016-09-13,"
 
 
@@ -811,7 +1093,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,27,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,27,2,speech
 "PRESIDENT, The",,2016-09-13,"
 
 
@@ -838,7 +1120,7 @@ More than the number of senators required by the standing orders having risen in
 
 The PRESIDENT:  I understand that informal arrangements have been made to allocate specific times to each of the speakers in today's debate. With the concurrence of the Senate, I shall ask the clerks to set the clocks accordingly.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,28,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,28,1,speech
 "Leyonhjelm, Sen David",LDP,2016-09-13,"
 
 
@@ -858,7 +1140,7 @@ On the basis that you have transparency—so you know who is donating, when they
 
 There is an answer to this whole discussion about political donations—that is, voters should not elect corruptible politicians. So how would an elector know if a politician was corruptible? I have a suggestion for electors: those politicians who do not like donations, who want to ban donations, obviously regard themselves as corruptible. If they want to ban donations, it must be because they think they would be susceptible to the donation and therefore other politicians are similarly inclined. I do not believe that donations should be banned. I do not believe corruptible politicians should be elected. So for voters, the obvious thing to do is to not vote for politicians who want to ban donations because they are the corruptible ones. All they need is transparency and it then becomes a matter for voters. Leave it up to the voters, and they will get it right.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,28,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,28,1,speech
 "Macdonald, Sen Ian",LP,2016-09-13,"
 
 
@@ -918,7 +1200,7 @@ One might then ask: why do you think it is that the Greens political party and t
 
 These sorts of donations really need to be looked at a little further, and I think Mr Turnbull's floating of the idea that donations should be only from individuals seems to be a very good one. That is something that needs to be further investigated, and it is something that I hope the Joint Standing Committee on Electoral Matters will do. So whilst I am not certain about committing to comprehensive and immediate political donations reform, I do think the JSCEM should look into this— (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,28,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,28,1,speech
 "Conroy, Sen Stephen",ALP,2016-09-13,"
 
 
@@ -1036,7 +1318,7 @@ So they are running up the barricades. They had a lot of fun at Senator Dastyari
 
 Perhaps it is okay, because the foreign minister wants to see hundreds of thousands of dollars continue to flow into the coffers of the Western Australian Liberal Party from Chinese-linked companies that do not even have any business in Western Australia. You have to ask yourself: why does a Chinese company with zero business interests in Western Australia donate nearly $600,000 to the Western Australian branch of the Liberal Party? Senator Smith, I see you smiling over there. Is it your winning smile? I am afraid I suspect not. But perhaps— (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,28,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,28,1,speech
 "Rhiannon, Sen Lee",AG,2016-09-13,"
 
 
@@ -1098,7 +1380,7 @@ The Greens Democracy for Sale project looks at these disclosures in detail. We h
 
 Our most recent research found that $3 million has gone undeclared as donations by donors since the last election. Someone searching for donations through donor returns would not find this money. We were able to find it because it was declared by one side though not the other. It is a reminder of how comprehensive reforms are needed. It is also a reminder of why all the parties in this place need to put on the table what they think the changes should be, be willing to work with each other, and listen to each other about how we can get a consensus position on far-reaching reforms to limit the private money that goes into elections so we can return to the level of integrity that is so urgently needed.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,28,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,28,1,speech
 "Paterson, Sen James",LP,2016-09-13,"
 
 
@@ -1136,7 +1418,7 @@ I want to end on a note of bipartisanship and congratulate Senator Conroy for hi
 
 I would also like to point out that the Greens often rail against some industries, such as the fossil fuel industry, for making donations to political parties. I am yet to hear them complaining about a new, emerging player in the donations space—that is, the renewable energy industry, which also now makes very generous donations to all sides of politics. It is an industry whose profitability and viability is inextricably linked to the regulations applied to it by government. During the debate about the renewable energy target, we saw that the whole viability of renewable energy companies would be threatened if that favourable regulation and the subsidies they receive did not exist. If there were ever a better example of an industry which uses political donations to curry favour with governments, oppositions and, yes, even minor parties, you could look much further than the renewable energy industry.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,28,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,28,1,speech
 "McAllister, Sen Jenny",ALP,2016-09-13,"
 
 
@@ -1176,7 +1458,7 @@ I say this: if we are serious about protecting the integrity of our politics, we
 
 The PRESIDENT:  It being just past 5 pm, pursuant to order, we will now move to first speeches.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,28,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,28,1,speech
 "Brown, Sen Carol",ALP,2016-09-13,"
 
 
@@ -1199,7 +1481,7 @@ Mr Turnbull and his government have a very different view. Mr Turnbull has himse
 
 There is room for more reform. Australians have a right to know who has donated to their political parties. Labor is quite clear that the threshold for anonymous donations should be $1,000. There is no reasonable argument as to why the identity of people who want to donate more than $1,000 should be withheld. The law now states that donations above $13,200 have to be made public. So people can contribute tens of thousands of dollars to their political parties and the Australian people will not have a clue who has donated to which party. We need to move on donations reform. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,31,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,31,1,speech
 "Lambie, Sen Jacqui",JLN,2016-09-13,"
 
 
@@ -1217,7 +1499,7 @@ I would like to challenge every political party to adopt the Jacqui Lambie Netwo
 
 The DEPUTY PRESIDENT:  The time for the debate has expired.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,31,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Donations to Political Parties</title>,MATTERS OF PUBLIC IMPORTANCE,31,1,speech
 "Gallacher, Sen Alex",ALP,2016-09-13,"
 
 
@@ -1271,7 +1553,7 @@ Senator Gallacher:
 
 Leave granted.
 
-",Senate,<title>DOCUMENTS</title>,<title>Australian National Audit Office</title>,DOCUMENTS,32,1
+",Senate,<title>DOCUMENTS</title>,<title>Australian National Audit Office</title>,DOCUMENTS,32,1,speech
 "McKim, Sen Nicholas",AG,2016-09-13,"
 
 
@@ -1309,7 +1591,7 @@ In other words, the government should not have established in indecent haste reg
 
 The Audit Office, make no mistake, has come down like a tonne of bricks on the Department of Immigration and Border Protection to the extent that I genuinely believe that the minister needs to seriously consider the position he finds himself in here. I make the same argument in relation to the secretary of the department. This is a scathing, damning report the likes of which I dare say this Senate has rarely seen. There are senior people not only in government but in the department that need to have a good, long look at themselves here, because we are talking about the expenditure of billions of dollars of taxpayers' money in a way that has not been in accordance with accepted principles of proper process and probity.
 
-",Senate,<title>DOCUMENTS</title>,<title>Australian National Audit Office</title>,DOCUMENTS,32,1
+",Senate,<title>DOCUMENTS</title>,<title>Australian National Audit Office</title>,DOCUMENTS,32,1,speech
 "Macdonald, Sen Ian",LP,2016-09-13,"
 
 
@@ -1339,7 +1621,7 @@ Senator IAN MACDONALD:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>DOCUMENTS</title>,<title>Australian National Audit Office</title>,DOCUMENTS,32,1
+",Senate,<title>DOCUMENTS</title>,<title>Australian National Audit Office</title>,DOCUMENTS,32,1,speech
 "Gallacher, Sen Alex",ALP,2016-09-13,"
 
 
@@ -1393,7 +1675,7 @@ Senator Gallacher:
 
 Leave granted.
 
-",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,32,2
+",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,32,2,speech
 "McKim, Sen Nicholas",AG,2016-09-13,"
 
 
@@ -1431,7 +1713,7 @@ In other words, the government should not have established in indecent haste reg
 
 The Audit Office, make no mistake, has come down like a tonne of bricks on the Department of Immigration and Border Protection to the extent that I genuinely believe that the minister needs to seriously consider the position he finds himself in here. I make the same argument in relation to the secretary of the department. This is a scathing, damning report the likes of which I dare say this Senate has rarely seen. There are senior people not only in government but in the department that need to have a good, long look at themselves here, because we are talking about the expenditure of billions of dollars of taxpayers' money in a way that has not been in accordance with accepted principles of proper process and probity.
 
-",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,32,2
+",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,32,2,speech
 "Macdonald, Sen Ian",LP,2016-09-13,"
 
 
@@ -1461,7 +1743,7 @@ Senator IAN MACDONALD:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,32,2
+",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,32,2,speech
 "Bilyk, Sen Catryna",ALP,2016-09-13,"
 
 
@@ -1469,7 +1751,7 @@ Leave granted; debate adjourned.
 Senator BILYK
  (Tasmania—Deputy Opposition Whip in the Senate) (18:18):  by leave—I present to the Senate a nonconforming petition with 369 signatures. This is the second part of a petition that was tabled earlier today. Unfortunately we could not get some of the addresses out, so some of it had to be nonconforming. This petition is with regard to the importance of securing funding for Palliative Care Tasmania to continue the Better Access to Palliative Care Program for another four years.
 
-",Senate,<title>PETITIONS</title>,<title>Palliative Care</title>,PETITIONS,33,1
+",Senate,<title>PETITIONS</title>,<title>Palliative Care</title>,PETITIONS,33,1,speech
 "Bilyk, Sen Catryna",ALP,2016-09-13,"
 
 
@@ -1477,7 +1759,7 @@ Senator BILYK
 Senator BILYK
  (Tasmania—Deputy Opposition Whip in the Senate) (18:20):  As chair of the Committee of Senators' Interests, I present the Register of Senators' Interests, incorporating statements of registrable interests and notifications of alterations lodged between 2 December 2015 and 9 May 2016.
 
-",Senate,<title>COMMITTEES</title>,<title>Senators' Interests Committee</title>,COMMITTEES,34,1
+",Senate,<title>COMMITTEES</title>,<title>Senators' Interests Committee</title>,COMMITTEES,34,1,speech
 "DEPUTY PRESIDENT, The",,2016-09-13,"
 
 
@@ -1486,7 +1768,7 @@ Senator BILYK
 The DEPUTY PRESIDENT
  (18:20):  The President has received letters requesting changes in the membership of committees.
 
-",Senate,<title>COMMITTEES</title>,<title>Senators' Interests Committee</title>,COMMITTEES,34,1
+",Senate,<title>COMMITTEES</title>,<title>Senators' Interests Committee</title>,COMMITTEES,34,1,speech
 "Ruston, Sen Anne",LP,2016-09-13,"
 
 
@@ -1533,7 +1815,7 @@ Appointed—Senators Bushby, Fawcett, Gallagher, McKenzie and Wong, pursuant to 
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Senators' Interests Committee</title>,COMMITTEES,34,1
+",Senate,<title>COMMITTEES</title>,<title>Senators' Interests Committee</title>,COMMITTEES,34,1,speech
 "Smith, Sen Dean",LP,2016-09-13,"
 
 
@@ -1544,7 +1826,7 @@ Senator SMITH
 
 Ordered that the reports be adopted.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,34,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,34,2,speech
 "Ruston, Sen Anne",LP,2016-09-13,"
 
 
@@ -1561,7 +1843,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2016, Customs Tariff Amendment (Tobacco) Bill 2016</title>",BILLS,35,1
+",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2016, Customs Tariff Amendment (Tobacco) Bill 2016</title>",BILLS,35,1,speech
 "Ruston, Sen Anne",LP,2016-09-13,"
 
 
@@ -1623,7 +1905,7 @@ These excise increases will bolster the Government's broader tobacco strategy, w
 
 Full details of the measure are contained in the explanatory memorandum.
 
-",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2016, Customs Tariff Amendment (Tobacco) Bill 2016</title>",BILLS,35,1
+",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2016, Customs Tariff Amendment (Tobacco) Bill 2016</title>",BILLS,35,1,speech
 "Gallagher, Sen Katy",ALP,2016-09-13,"
 
 
@@ -1673,7 +1955,7 @@ Labor welcomes the government's change of position in this area. In fact, we wou
 
 Labor supports these bills. We are pleased that the government has adopted Labor's policy and we are optimistic that this legislation will continue to build on Labor's proud record of law reform when it comes to consumption of tobacco products. We also encourage the government to consider our other policies that will not only make our country fairer but also contribute to significant budget repair. I commend the bills to the chamber.
 
-",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2016, Customs Tariff Amendment (Tobacco) Bill 2016</title>",BILLS,35,1
+",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2016, Customs Tariff Amendment (Tobacco) Bill 2016</title>",BILLS,35,1,speech
 "Macdonald, Sen Ian",LP,2016-09-13,"
 
 
@@ -1708,7 +1990,7 @@ It always seems strange to me that, when it comes to controlling illicit drugs o
 
 But I digress a little bit. To go back to the Excise Tariff Amendment (Tobacco) Bill and the Customs Tariff Amendment (Tobacco) Bill that are before the chamber: they are important pieces of legislation, not only for the nation's health but also for the nation's revenue. They are part of a budget proposal and some recent legislation that will help the government address the budget deficit that this country has faced for several years now, and I congratulate Mr Morrison on that aspect of his work, in doing what he can to try to get the budget back on track, where it should be.
 
-",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2016, Customs Tariff Amendment (Tobacco) Bill 2016</title>",BILLS,35,1
+",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2016, Customs Tariff Amendment (Tobacco) Bill 2016</title>",BILLS,35,1,speech
 "Di Natale, Sen Richard",AG,2016-09-13,"
 
 
@@ -1767,7 +2049,7 @@ I will conclude by saying that I do welcome the government's acknowledgment that
 
 We Greens are very committed to the fight to drive down the rates of smoking. We also want to see the government show some leadership and follow the evidence in setting a price signal not just on tobacco but on sugary drinks and alcohol—and recognising that pricing harmful products has a very important role to play in reducing harms in our community. 
 
-",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2016, Customs Tariff Amendment (Tobacco) Bill 2016</title>",BILLS,35,1
+",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2016, Customs Tariff Amendment (Tobacco) Bill 2016</title>",BILLS,35,1,speech
 "Leyonhjelm, Sen David",LDP,2016-09-13,"
 
 
@@ -1799,7 +2081,7 @@ Another effect of the tax increase will be the continued growth of the illegal t
 
 Around 13 per cent of the adult population smokes. These two bills increase taxes on them based on nothing more than the fact that they smoke, plus the fact that the ruling class disapproves of smoking, plus the fact that they think they can get away with taxing them more. Perhaps they will get away with it, but if the art of taxation is like the art of plucking a goose, removing the most amount feathers with the least amount of hissing, they are failing. Sooner or later—and I expect it will be sooner rather than later—the hissing will turn into active resistance. I look forward to that day.
 
-",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2016, Customs Tariff Amendment (Tobacco) Bill 2016</title>",BILLS,35,1
+",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2016, Customs Tariff Amendment (Tobacco) Bill 2016</title>",BILLS,35,1,speech
 "Duniam, Sen Jonathon",LP,2016-09-13,"
 
 
@@ -1882,7 +2164,7 @@ Now, this measure alone cannot reduce smoking rates.
 
 Debate interrupted.
 
-",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2016, Customs Tariff Amendment (Tobacco) Bill 2016</title>",BILLS,35,1
+",Senate,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2016, Customs Tariff Amendment (Tobacco) Bill 2016</title>",BILLS,35,1,speech
 "Ruston, Sen Anne",LP,2016-09-13,"
 
 
@@ -1899,7 +2181,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,35,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,35,2,speech
 "Williams, Sen John",Nats,2016-09-13,"
 
 
@@ -1946,4 +2228,4 @@ Senator Sterle:
 Senator WILLIAMS:
   No; exactly! Anyway, then I have had these two trips to Samoa, one for four days and one for about 10 days. That includes travel, so you lose the first day getting there overnight, and it is just about a day to come home, by the time we get back to Inverell, for sure. But I was trying to help these people. I met with Sue Langford, the high commissioner from Australia. I met with the agriculture minister. I met with the Prime Minister. I met with the opposition leader. We are doing our best to help these people get established, to develop industries, to get them off the international drip, so the taxpayers of Australia do not have to keep forking out money for them, so they can stand on their own two feet in time to come. What happens? We get bagged in the media. Sean Parnell, next time you want to bag me out for trying to help people, at least have the decency to give me a ring first and have a chat to me about it.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Samoa: Coffee Industry</title>,ADJOURNMENT,36,1
+",Senate,<title>ADJOURNMENT</title>,<title>Samoa: Coffee Industry</title>,ADJOURNMENT,36,1,speech

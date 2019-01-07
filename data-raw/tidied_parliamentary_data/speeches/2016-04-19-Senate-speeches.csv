@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2016-04-19,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (12:31):  Does any senator wish to have the question put on any of those committee meetings? There being none, we will proceed to business.
 
-",Senate,<title>COMMITTEES</title>,"<title>Community Affairs References Committee, Treaties Committee</title>",COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,"<title>Community Affairs References Committee, Treaties Committee</title>",COMMITTEES,1,1,speech
 "PRESIDENT, The",,2016-04-19,"
 
 
@@ -14,7 +14,55 @@ The PRESIDENT
 The PRESIDENT
  (12:31):  Does any senator wish to have the question put on any of those committee meetings? There being none, we will proceed to business.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
+"Gallagher, Sen Katy",ALP,2016-04-19,"
+
+
+
+Senator GALLAGHER
+ (Australian Capital Territory) (14:00):  My question is to the Minister representing the Prime Minister, Senator Brandis. I refer to the scripts of taxpayer funded budget advertisements leaked to Paul Murray at Sky News. Can the minister confirm that television and radio advertisements have already been recorded? When did the minister first see or hear the advertisements?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Government Advertising</title>,QUESTIONS WITHOUT NOTICE,3,1,question
+"Gallagher, Sen Katy",ALP,2016-04-19,"
+
+
+
+Senator GALLAGHER
+ (Australian Capital Territory) (14:00):  Mr President, I ask a supplementary question. Have the taxpayer funded budget advertisements been approved by the Independent Communications Committee and what would they cost?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Government Advertising</title>,QUESTIONS WITHOUT NOTICE,3,1,question
+"Gallagher, Sen Katy",ALP,2016-04-19,"
+
+
+
+Senator GALLAGHER
+ (Australian Capital Territory) (14:01):  Mr President, I ask a further supplementary question. Will the Abbott-Turnbull government observe the caretaker conventions and not run taxpayer funded budget advertisements during the election campaign?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Government Advertising</title>,QUESTIONS WITHOUT NOTICE,3,1,question
+"Brandis, Sen George",LP,2016-04-19,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:00):  I am aware of the reports, but I cannot confirm them. I can tell you that the government has made no decision on any advertising campaign around the budget and that I have seen no such advertisements.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Government Advertising</title>,QUESTIONS WITHOUT NOTICE,3,1,answer
+"Brandis, Sen George",LP,2016-04-19,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:01):  I do not think I can add to my previous answer.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Government Advertising</title>,QUESTIONS WITHOUT NOTICE,3,1,answer
+"Brandis, Sen George",LP,2016-04-19,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:01):  I can absolutely confirm that the government will observe the caretaker conventions. We will observe the caretaker conventions to the letter—unlike the previous Labor government, whose Attorney-General and special minister of state, as well as violating the caretaker conventions, described the caretaker conventions as 'merely a matter of political practice', while the previous Labor government shamelessly and conceitedly violated those conventions. So, Senator, please do not come into this chamber and suggest that this government does not take the caretaker conventions seriously—we do—when the last Labor special minister of state, who had custodianship and responsibility for these conventions, openly and flagrantly violated them and made no excuse for doing so.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Government Advertising</title>,QUESTIONS WITHOUT NOTICE,3,1,answer
 "Carr, Sen Kim",ALP,2016-04-19,"
 
 
@@ -44,7 +92,7 @@ What we are talking about now is that the minister claims he is continuing to co
 
 The DEPUTY PRESIDENT:  I remind senators that it is disorderly and against the standing orders to walk between the chair and the speaker.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Higher Education, Taxation</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Higher Education, Taxation</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "Smith, Sen Dean",LP,2016-04-19,"
 
 
@@ -68,7 +116,7 @@ I asked him rather innocently about the caretaker conventions and whether they h
 
 It is no accident that Senator Gallagher asked one question and not three. She realised that she had trod on a landmine. I will give this to Senator Gallagher: she was not in the Australian Senate when that matter was revealed at Senate estimates. She can be forgiven for that, but she cannot be forgiven for her poor research skills. She should not forgive the people on that side who gave her the question and set her up. It was a lazy allegation this morning from Labor that the coalition would breach its caretaker conventions . The Leader of the Government in the Senate made it very clear today that we will not. Why should Labor senators care so much? Because they were the people who actively breached the caretaker conventions and instructed, directed, David Tune to breach the caretaker conventions. It is not an allegation and it is not a rumour; it was revealed at Senate estimates. Yesterday was a bad day for the Labor Party in the Australian Senate. Today has turned out to be a worse day. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Higher Education, Taxation</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Higher Education, Taxation</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "Polley, Sen Helen",ALP,2016-04-19,"
 
 
@@ -109,7 +157,7 @@ This Prime Minister may say that he is nimble and agile, but we know he is not a
 
 I would not get too self-assured if I were sitting on that side of the chamber, because we know the Australian people are smart. They will make their judgement. Of course those on the other side go into this election as frontrunners—they certainly do—but just be prepared. You will have to explain your policies in far more detail than you did at the last election. You will not get away with the hollow promises that you made that there will be no new taxes, no cuts to education and no cuts to health. You ran away from Gonski funding in years 5 and 6. You have betrayed the Australian people, and I think it may well be once too often. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Higher Education, Taxation</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Higher Education, Taxation</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "Back, Sen Chris",LP,2016-04-19,"
 
 
@@ -135,7 +183,7 @@ In the few minutes left to me, I do want to comment on issues associated with hi
 
 Let me also tell you what this coalition government, through Andrew Robb, the then trade minister, has achieved: free trade agreements with three of our major trading partner countries—Japan, China and Korea—and also, of course, the Trans-Pacific Partnership. As one who has had a keen interest in the higher education sector, and one who was an academic at Curtin University in Western Australia and at the University of California and at the University of Kentucky, I can say to you: the value to the university sector of the free trade agreements and the TPP will be measured in billions for years to come.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Higher Education, Taxation</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Higher Education, Taxation</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "McEwen, Sen Anne",ALP,2016-04-19,"
 
 
@@ -155,7 +203,7 @@ We know that it is true because overseas experience—including in the UK, where
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Higher Education, Taxation</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Higher Education, Taxation</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "Wong, Sen Penny",ALP,2016-04-19,"
 
 
@@ -184,7 +232,7 @@ The outcomes of the 42nd meeting of the Council of Australian Governments held o
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Finance and Public Administration References Committee</title>,COMMITTEES,7,1
+",Senate,<title>COMMITTEES</title>,<title>Finance and Public Administration References Committee</title>,COMMITTEES,7,1,speech
 "Wong, Sen Penny",ALP,2016-04-19,"
 
 
@@ -256,7 +304,7 @@ Senator Xenophon:
 
 The PRESIDENT:  We will so determine to do that. Senator Brandis, do you still seek leave in relation to your request?
 
-",Senate,<title>COMMITTEES</title>,<title>Finance and Public Administration References Committee</title>,COMMITTEES,7,1
+",Senate,<title>COMMITTEES</title>,<title>Finance and Public Administration References Committee</title>,COMMITTEES,7,1,speech
 "Brandis, Sen George",LP,2016-04-19,"
 
 
@@ -295,7 +343,7 @@ Question agreed to.
 
 The PRESIDENT:  The question is that business of the Senate notice of motion No. 3, part 2, be agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Finance and Public Administration References Committee</title>,COMMITTEES,7,1
+",Senate,<title>COMMITTEES</title>,<title>Finance and Public Administration References Committee</title>,COMMITTEES,7,1,speech
 "Wong, Sen Penny",ALP,2016-04-19,"
 
 
@@ -324,7 +372,7 @@ The outcomes of the 42nd meeting of the Council of Australian Governments held o
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,7,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,7,2,speech
 "Leyonhjelm, Sen David",LDP,2016-04-19,"
 
 
@@ -347,7 +395,7 @@ That the Senate notes:
 
 Question negatived. 
 
-",Senate,<title>MOTIONS</title>,<title>Tobacco Taxation</title>,MOTIONS,11,1
+",Senate,<title>MOTIONS</title>,<title>Tobacco Taxation</title>,MOTIONS,11,1,speech
 "Carr, Sen Kim",ALP,2016-04-19,"
 
 
@@ -361,7 +409,7 @@ That there be laid on the table by the Minister for Education and Training, no l
 
 Question agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Research Infrastructure Review</title>,DOCUMENTS,13,1
+",Senate,<title>DOCUMENTS</title>,<title>Research Infrastructure Review</title>,DOCUMENTS,13,1,speech
 "Carr, Sen Kim",ALP,2016-04-19,"
 
 
@@ -375,7 +423,7 @@ That there be laid on the table by the Minister for Education and Training, no l
 
 Question agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,13,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,13,2,speech
 "Siewert, Sen Rachel",AG,2016-04-19,"
 
 
@@ -413,7 +461,7 @@ That the Senate—
 
 (ii) adopt justice targets in order to close the gap and to change the record on the rates of incarceration of Aboriginal and Torres Strait Islander peoples.
 
-",Senate,<title>MOTIONS</title>,<title>Indigenous Incarceration and Deaths in Custody</title>,MOTIONS,15,1
+",Senate,<title>MOTIONS</title>,<title>Indigenous Incarceration and Deaths in Custody</title>,MOTIONS,15,1,speech
 "Ryan, Sen Scott",LP,2016-04-19,"
 
 
@@ -434,7 +482,7 @@ Senator RYAN:
 
 Question agreed to. 
 
-",Senate,<title>MOTIONS</title>,<title>Indigenous Incarceration and Deaths in Custody</title>,MOTIONS,15,1
+",Senate,<title>MOTIONS</title>,<title>Indigenous Incarceration and Deaths in Custody</title>,MOTIONS,15,1,speech
 "Smith, Sen Dean",LP,2016-04-19,"
 
 
@@ -469,7 +517,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Myanmar</title>,MOTIONS,18,1
+",Senate,<title>MOTIONS</title>,<title>Myanmar</title>,MOTIONS,18,1,speech
 "Ludlam, Sen Scott",AG,2016-04-19,"
 
 
@@ -513,7 +561,7 @@ That:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Perth Freight Link</title>,DOCUMENTS,19,1
+",Senate,<title>DOCUMENTS</title>,<title>Perth Freight Link</title>,DOCUMENTS,19,1,speech
 "Ludlam, Sen Scott",AG,2016-04-19,"
 
 
@@ -557,7 +605,7 @@ That:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,19,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,19,2,speech
 "Smith, Sen Dean",LP,2016-04-19,"
 
 
@@ -586,7 +634,7 @@ That the Joint Committee of Public Accounts and Audit be authorised to hold priv
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Joint Committee of Public Accounts and Audit</title>,COMMITTEES,20,1
+",Senate,<title>COMMITTEES</title>,<title>Joint Committee of Public Accounts and Audit</title>,COMMITTEES,20,1,speech
 "Smith, Sen Dean",LP,2016-04-19,"
 
 
@@ -615,7 +663,7 @@ That the Joint Committee of Public Accounts and Audit be authorised to hold priv
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,20,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,20,2,speech
 "Lambie, Sen Jacqui",Ind.,2016-04-19,"
 
 
@@ -670,7 +718,7 @@ That the Senate calls on the Government to:
 
 (h) develop and implement, in consultation with industry, union and community stakeholders, an Australian steel industry sustainability plan to incorporate a holistic suite of reforms and measures such as the ones listed above to ensure the survival of this industry.
 
-",Senate,<title>MOTIONS</title>,<title>Steel Industry</title>,MOTIONS,21,1
+",Senate,<title>MOTIONS</title>,<title>Steel Industry</title>,MOTIONS,21,1,speech
 "Ryan, Sen Scott",LP,2016-04-19,"
 
 
@@ -691,7 +739,7 @@ Senator RYAN:
 
 Mandating the use of Australian steel, as proposed by Labor, the Greens and others, threatens our international trade obligations and puts at risk the livelihoods of small and medium enterprises and all the jobs of those who rely on the opportunities that these agreements provide every day. The government is committed to setting the right economic environment by reducing red tape and equipping businesses with key market information and the opportunities to expand and/or export.
 
-",Senate,<title>MOTIONS</title>,<title>Steel Industry</title>,MOTIONS,21,1
+",Senate,<title>MOTIONS</title>,<title>Steel Industry</title>,MOTIONS,21,1,speech
 "Carr, Sen Kim",ALP,2016-04-19,"
 
 
@@ -713,7 +761,7 @@ Senator KIM CARR:
 
 The PRESIDENT:  The question is that the motion moved by Senator Lambie be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Steel Industry</title>,MOTIONS,21,1
+",Senate,<title>MOTIONS</title>,<title>Steel Industry</title>,MOTIONS,21,1,speech
 "Xenophon, Sen Nick",Ind.,2016-04-19,"
 
 
@@ -752,7 +800,7 @@ The PRESIDENT:  The question is that the motion be agreed to.
 
  
 
-",Senate,<title>DOCUMENTS</title>,<title>Macroeconomics.com.au Pty Ltd</title>,DOCUMENTS,23,1
+",Senate,<title>DOCUMENTS</title>,<title>Macroeconomics.com.au Pty Ltd</title>,DOCUMENTS,23,1,speech
 "Xenophon, Sen Nick",Ind.,2016-04-19,"
 
 
@@ -791,7 +839,7 @@ The PRESIDENT:  The question is that the motion be agreed to.
 
  
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,23,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,23,2,speech
 "Carr, Sen Kim",ALP,2016-04-19,"
 
 
@@ -841,7 +889,7 @@ That the Senate—
 
 (f) calls on the Government to take serious action to support Australia's strategically-significant manufacturing industries, particularly the steel industry.
 
-",Senate,<title>MOTIONS</title>,<title>Steel Industry</title>,MOTIONS,25,1
+",Senate,<title>MOTIONS</title>,<title>Steel Industry</title>,MOTIONS,25,1,speech
 "Ryan, Sen Scott",LP,2016-04-19,"
 
 
@@ -859,7 +907,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator RYAN:
   Labor's six-point steel plan is a thought bubble. Labor hit manufacturing with a carbon tax bill of $1.1 billion, hit the car industry with a fringe benefits tax of $1.8 billion, provided a last-minute $215 million to GM Holden and granted Alcoa $40 million in pre-closure as they forced their carbon tax on them. Under Labor, one manufacturing job was lost every 19 minutes. The Turnbull government is bringing forward large construction projects such as the Adelaide to Tarcoola rail line. To ensure a consistent and rigorous application of the Australian Industry Participation National Framework with the states and territories, the minister has placed this on the forthcoming COAG ISC agenda. The minister has also written to state and territory colleagues to secure the sustainable delivery of the Industry Capability Network services that assist projects to identify capable and competitive Australian suppliers. While Labor created an overlapping plethora of grants and entitlements, we are setting the right economic environment by reducing red tape and equipping businesses with key market information and the opportunity to expand or export competitively.
 
-",Senate,<title>MOTIONS</title>,<title>Steel Industry</title>,MOTIONS,25,1
+",Senate,<title>MOTIONS</title>,<title>Steel Industry</title>,MOTIONS,25,1,speech
 "Lambie, Sen Jacqui",Ind.,2016-04-19,"
 
 
@@ -880,7 +928,7 @@ Senator LAMBIE:
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Steel Industry</title>,MOTIONS,25,1
+",Senate,<title>MOTIONS</title>,<title>Steel Industry</title>,MOTIONS,25,1,speech
 "Hanson-Young, Sen Sarah",AG,2016-04-19,"
 
 
@@ -919,7 +967,7 @@ That there be laid on the table by the Minister representing the Prime Minister,
 
 The PRESIDENT:  The question is that the motion be agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Asylum Seekers</title>,DOCUMENTS,26,1
+",Senate,<title>DOCUMENTS</title>,<title>Asylum Seekers</title>,DOCUMENTS,26,1,speech
 "Hanson-Young, Sen Sarah",AG,2016-04-19,"
 
 
@@ -958,7 +1006,7 @@ That there be laid on the table by the Minister representing the Prime Minister,
 
 The PRESIDENT:  The question is that the motion be agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,26,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,26,2,speech
 "Waters, Sen Larissa",AG,2016-04-19,"
 
 
@@ -1000,7 +1048,7 @@ That the Senate—
 
 The PRESIDENT:  The question is that notice of motion No. 1147 by Senator Waters be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Climate Change</title>,MOTIONS,27,1
+",Senate,<title>MOTIONS</title>,<title>Climate Change</title>,MOTIONS,27,1,speech
 "McEwen, Sen Anne",ALP,2016-04-19,"
 
 
@@ -1014,7 +1062,7 @@ That Senator Peris replace Senator Ludwig on the Legal and Constitutional Affair
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,30,1
+",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,30,1,speech
 "PRESIDENT, The",,2016-04-19,"
 
 
@@ -1022,7 +1070,7 @@ Question agreed to.
 The PRESIDENT
  (19:51):  I have received letters requesting changes in the membership of committees.
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,30,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,30,2,speech
 "Ryan, Sen Scott",LP,2016-04-19,"
 
 
@@ -1069,7 +1117,7 @@ Participating members: Senators McAllister and Moore.
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,30,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,30,2,speech
 "Ryan, Sen Scott",LP,2016-04-19,"
 
 
@@ -1086,7 +1134,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,"<title>Northern Australia Infrastructure Facility Bill 2016, Northern Australia Infrastructure Facility (Consequential Amendments) Bill 2016</title>",BILLS,31,1
+",Senate,<title>BILLS</title>,"<title>Northern Australia Infrastructure Facility Bill 2016, Northern Australia Infrastructure Facility (Consequential Amendments) Bill 2016</title>",BILLS,31,1,speech
 "Ryan, Sen Scott",LP,2016-04-19,"
 
 
@@ -1229,7 +1277,7 @@ I commend this bill to the House.
 
 Debate adjourned. 
 
-",Senate,<title>BILLS</title>,"<title>Northern Australia Infrastructure Facility Bill 2016, Northern Australia Infrastructure Facility (Consequential Amendments) Bill 2016</title>",BILLS,31,1
+",Senate,<title>BILLS</title>,"<title>Northern Australia Infrastructure Facility Bill 2016, Northern Australia Infrastructure Facility (Consequential Amendments) Bill 2016</title>",BILLS,31,1,speech
 "Ryan, Sen Scott",LP,2016-04-19,"
 
 
@@ -1246,7 +1294,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,31,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,31,2,speech
 "Paterson, Sen James",LP,2016-04-19,"
 
 
@@ -1272,4 +1320,4 @@ The best thing for Europe would be for the United Kingdom to leave the EU and to
 
 I urge the people of the United Kingdom to consider very carefully their vote on 23 June. It is up to you to decide whether you remain or whether you leave, but rest assured that your friends around the world—including in Australia—would welcome you back into the international community outside the European Union and that you would have a strong, prosperous and stable relationship with us if you chose to do so.
 
-",Senate,<title>ADJOURNMENT</title>,<title>United Kingdom</title>,ADJOURNMENT,33,1
+",Senate,<title>ADJOURNMENT</title>,<title>United Kingdom</title>,ADJOURNMENT,33,1,speech

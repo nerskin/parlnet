@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2015-05-14,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (09:31):  Does anyone wish to have that matter put before the Senate? There being no such request, we will proceed.
 
-",Senate,<title>COMMITTEES</title>,<title>Select Committee on the Regional Processing Centre in Nauru</title>,COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,<title>Select Committee on the Regional Processing Centre in Nauru</title>,COMMITTEES,1,1,speech
 "PRESIDENT, The",,2015-05-14,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (09:31):  Does anyone wish to have that matter put before the Senate? There being no such request, we will proceed.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "Xenophon, Sen Nick",Ind.,2015-05-14,"
 
 
@@ -52,7 +52,7 @@ In short, the measures in this bill are straightforward. There is no reasonable 
 
 They are relatively simple measures, but their impact would be immeasurable. In short, I cannot see the downside to these changes. I call respectfully on the government and the opposition to either support this bill or make their own legislative and policy changes as a matter of urgency. We will have an opportunity to vote on this on 12 August. Let us not let down the Australian seafood industry and every consumer in Australia who desperately wants these changes.
 
-",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1,speech
 "Back, Sen Chris",LP,2015-05-14,"
 
 
@@ -96,7 +96,7 @@ Nevertheless, if we then translate that to the incoming or inbound visitor to Au
 
 So, I say to Senator Xenophon and to his co-movers in this area that there is a great expectation. But let us work together, let us make sure that we do comply with all the requirements in terms of the consultation process. Let us reach agreement in this place so that we can send a message loudly to the states and territories that this is where we stand federally and this is where we encourage them at their state jurisdictional levels to actually proceed.
 
-",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1,speech
 "Carr, Sen Kim",ALP,2015-05-14,"
 
 
@@ -196,7 +196,7 @@ A government senator interjecting—
 Senator KIM CARR:
   Your rhetoric is: 'This is all business welfare.' Not another penny,' they said, as they saw the automotive industry march offshore. There is no more money for 'buy Australian' measures, not one more cent. There is nothing to reverse the $3 billion in savage cuts to science, research and innovation in last year's budget. Mr Hockey's second budget shows that this government has learnt nothing. If there were a prize for missing the big picture, first place would have to go to Joe Hockey.
 
-",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1,speech
 "Williams, Sen John",Nats,2015-05-14,"
 
 
@@ -283,7 +283,7 @@ The ACTING DEPUTY PRESIDENT:  A very wise move.
 Senator WILLIAMS:
   Thank you for the good advice, Madam Acting Deputy President. That is the situation. But I know progress will be made on this issue. I know that in time we will achieve our aims. We will achieve transparency and get people out there the information they want to have and need to have. I am sure we will get there in the end. 
 
-",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1,speech
 "Whish-Wilson, Sen Peter",AG,2015-05-14,"
 
 
@@ -390,7 +390,7 @@ If you think this is going to be too much for pubs and clubs, and fish and chip 
 
 Let us take the time we need to for education, but let us not find nitpicking points in the legislation to knock this back. The Australian people would support this—I know the Tasmanian people would support it. The Australian people will just scratch their heads and say, 'Why not? Why can't I have that information when I buy seafood?' It is a no-brainer. Let us do it. I look forward to moving my amendment at some stage and having everybody look at it and at least having that debated, followed by a long-term process being put in place where we can use the seafood industry to lead on country-of-origin labelling in this country.
 
-",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1,speech
 "Sterle, Sen Glenn",ALP,2015-05-14,"
 
 
@@ -470,7 +470,7 @@ When I said the Northern Territorians have done it, someone—and I just wish I 
 
 There is also another little thing. I did not hear Hungry Jack's or Kentucky Fried Chicken complain. Does Kentucky Fried do fish? Anyway, you know what I mean. All them mobs out there—they all do it. Every single piece of seafood in the Northern Territory is labelled either Australian or imported. So let's hope we can get our act together. Let's hope we can fall in a space that does the right thing by the Australian consumer and the aquaculture and seafood industry of Australia. On that, I cannot support the bill with its current contents.
 
-",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1,speech
 "Lambie, Sen Jacqui",Ind.,2015-05-14,"
 
 
@@ -487,7 +487,7 @@ The bill gives 12 months for a standard to be developed and implemented to inclu
 
 In closing, I would like to remind all Australians that Tasmania has the best seafood in the world. I understand that, in some fancy American and European restaurants, one of the normal kitchen appliances and cooking tools is a machine which checks the radiation levels in fish, because some fish, because of the distances they can swim, can be radioactive after swimming in polluted water. If you eat Australian and Tasmanian fish, you will not have to worry about that threat to your health. Our waters are pristine and our seafood is pristine and the best in the world.
 
-",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1,speech
 "Seselja, Sen Zed",LP,2015-05-14,"
 
 
@@ -534,7 +534,7 @@ While we oppose this bill, I reiterate that the government is determined to act 
 
 The government, like Senator Xenophon, acknowledges that the system is not perfect and that there is a need for a new country-of-origin labelling system that is clear and easy to understand. We are undertaking a thorough, methodical process to ensure that this new system is good for consumers and does not add any unnecessary red tape. We are consulting with the states and territories, the industry and the public while ensuring we adhere to our food standards agreements with New Zealand. That is how we get good policy and that is what we are doing. While we do not support this bill, I acknowledge the good work being done in this area and look forward to seeing the end result of the government's process, so that we can introduce soon a new and robust food labelling system for the benefit of all Australians.
 
-",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1,speech
 "Peris, Sen Nova",ALP,2015-05-14,"
 
 
@@ -629,7 +629,7 @@ For several years in the NT, all fresh fish sold in delicatessens or supermarket
 
 After months of inaction by the government, Labor wait with interest the details of their plan, following their announcement of proposed changes to country-of-origin labelling. Unfortunately, we cannot support the Xenophon bill at this time, but we do support the principle. We need to find a bipartisan if not multipartisan solution on this issue—an issue that is vitally important to Australian consumers and producers. As always, Labor stand ready to constructively consider any positive policy proposals from the government. Hopefully, they can show the same leadership that we have shown in the Northern Territory.
 
-",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1,speech
 "Lazarus, Sen Glenn",Ind.,2015-05-14,"
 
 
@@ -658,7 +658,7 @@ We have heard a lot of talk from both sides of the chamber about the benefits of
 
 They support the bill in principle, yes. It is a great bill. But, as I have said before, there has been no effort in coming up with amendments from either side of the House so this bill could be passed. That is certainly a very concerning issue for me because everyone agrees that this would be beneficial to everybody in this country. I call on all senators to support the needs of Australians and I call on all senators to vote for this bill.
 
-",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1,speech
 "Scullion, Sen Nigel",CLP,2015-05-14,"
 
 
@@ -773,7 +773,7 @@ Senator Moore:
 
 The DEPUTY PRESIDENT:  Then, as we are close enough to 11.52, the time for this debate has expired.
 
-",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Food Standards Amendment (Fish Labelling) Bill 2015</title>,BILLS,2,1,speech
 "Xenophon, Sen Nick",Ind.,2015-05-14,"
 
 
@@ -811,7 +811,7 @@ In short, the measures in this bill are straightforward. There is no reasonable 
 
 They are relatively simple measures, but their impact would be immeasurable. In short, I cannot see the downside to these changes. I call respectfully on the government and the opposition to either support this bill or make their own legislative and policy changes as a matter of urgency. We will have an opportunity to vote on this on 12 August. Let us not let down the Australian seafood industry and every consumer in Australia who desperately wants these changes.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Back, Sen Chris",LP,2015-05-14,"
 
 
@@ -855,7 +855,7 @@ Nevertheless, if we then translate that to the incoming or inbound visitor to Au
 
 So, I say to Senator Xenophon and to his co-movers in this area that there is a great expectation. But let us work together, let us make sure that we do comply with all the requirements in terms of the consultation process. Let us reach agreement in this place so that we can send a message loudly to the states and territories that this is where we stand federally and this is where we encourage them at their state jurisdictional levels to actually proceed.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Carr, Sen Kim",ALP,2015-05-14,"
 
 
@@ -955,7 +955,7 @@ A government senator interjecting—
 Senator KIM CARR:
   Your rhetoric is: 'This is all business welfare.' Not another penny,' they said, as they saw the automotive industry march offshore. There is no more money for 'buy Australian' measures, not one more cent. There is nothing to reverse the $3 billion in savage cuts to science, research and innovation in last year's budget. Mr Hockey's second budget shows that this government has learnt nothing. If there were a prize for missing the big picture, first place would have to go to Joe Hockey.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Williams, Sen John",Nats,2015-05-14,"
 
 
@@ -1042,7 +1042,7 @@ The ACTING DEPUTY PRESIDENT:  A very wise move.
 Senator WILLIAMS:
   Thank you for the good advice, Madam Acting Deputy President. That is the situation. But I know progress will be made on this issue. I know that in time we will achieve our aims. We will achieve transparency and get people out there the information they want to have and need to have. I am sure we will get there in the end. 
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Whish-Wilson, Sen Peter",AG,2015-05-14,"
 
 
@@ -1149,7 +1149,7 @@ If you think this is going to be too much for pubs and clubs, and fish and chip 
 
 Let us take the time we need to for education, but let us not find nitpicking points in the legislation to knock this back. The Australian people would support this—I know the Tasmanian people would support it. The Australian people will just scratch their heads and say, 'Why not? Why can't I have that information when I buy seafood?' It is a no-brainer. Let us do it. I look forward to moving my amendment at some stage and having everybody look at it and at least having that debated, followed by a long-term process being put in place where we can use the seafood industry to lead on country-of-origin labelling in this country.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Sterle, Sen Glenn",ALP,2015-05-14,"
 
 
@@ -1229,7 +1229,7 @@ When I said the Northern Territorians have done it, someone—and I just wish I 
 
 There is also another little thing. I did not hear Hungry Jack's or Kentucky Fried Chicken complain. Does Kentucky Fried do fish? Anyway, you know what I mean. All them mobs out there—they all do it. Every single piece of seafood in the Northern Territory is labelled either Australian or imported. So let's hope we can get our act together. Let's hope we can fall in a space that does the right thing by the Australian consumer and the aquaculture and seafood industry of Australia. On that, I cannot support the bill with its current contents.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Lambie, Sen Jacqui",Ind.,2015-05-14,"
 
 
@@ -1246,7 +1246,7 @@ The bill gives 12 months for a standard to be developed and implemented to inclu
 
 In closing, I would like to remind all Australians that Tasmania has the best seafood in the world. I understand that, in some fancy American and European restaurants, one of the normal kitchen appliances and cooking tools is a machine which checks the radiation levels in fish, because some fish, because of the distances they can swim, can be radioactive after swimming in polluted water. If you eat Australian and Tasmanian fish, you will not have to worry about that threat to your health. Our waters are pristine and our seafood is pristine and the best in the world.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Seselja, Sen Zed",LP,2015-05-14,"
 
 
@@ -1293,7 +1293,7 @@ While we oppose this bill, I reiterate that the government is determined to act 
 
 The government, like Senator Xenophon, acknowledges that the system is not perfect and that there is a need for a new country-of-origin labelling system that is clear and easy to understand. We are undertaking a thorough, methodical process to ensure that this new system is good for consumers and does not add any unnecessary red tape. We are consulting with the states and territories, the industry and the public while ensuring we adhere to our food standards agreements with New Zealand. That is how we get good policy and that is what we are doing. While we do not support this bill, I acknowledge the good work being done in this area and look forward to seeing the end result of the government's process, so that we can introduce soon a new and robust food labelling system for the benefit of all Australians.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Peris, Sen Nova",ALP,2015-05-14,"
 
 
@@ -1388,7 +1388,7 @@ For several years in the NT, all fresh fish sold in delicatessens or supermarket
 
 After months of inaction by the government, Labor wait with interest the details of their plan, following their announcement of proposed changes to country-of-origin labelling. Unfortunately, we cannot support the Xenophon bill at this time, but we do support the principle. We need to find a bipartisan if not multipartisan solution on this issue—an issue that is vitally important to Australian consumers and producers. As always, Labor stand ready to constructively consider any positive policy proposals from the government. Hopefully, they can show the same leadership that we have shown in the Northern Territory.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Lazarus, Sen Glenn",Ind.,2015-05-14,"
 
 
@@ -1417,7 +1417,7 @@ We have heard a lot of talk from both sides of the chamber about the benefits of
 
 They support the bill in principle, yes. It is a great bill. But, as I have said before, there has been no effort in coming up with amendments from either side of the House so this bill could be passed. That is certainly a very concerning issue for me because everyone agrees that this would be beneficial to everybody in this country. I call on all senators to support the needs of Australians and I call on all senators to vote for this bill.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Scullion, Sen Nigel",CLP,2015-05-14,"
 
 
@@ -1532,7 +1532,7 @@ Senator Moore:
 
 The DEPUTY PRESIDENT:  Then, as we are close enough to 11.52, the time for this debate has expired.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Bushby, Sen David",LP,2015-05-14,"
 
 
@@ -1907,7 +1907,7 @@ That the report be adopted.
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,4,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,4,1,speech
 "Bushby, Sen David",LP,2015-05-14,"
 
 
@@ -2282,7 +2282,7 @@ That the report be adopted.
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2,speech
 "PRESIDENT, The",,2015-05-14,"
 
 
@@ -2290,7 +2290,7 @@ Question agreed to.
 The PRESIDENT
  (11:56):  I remind senators that the question may be put on any of those proposals at the request of any senator. There being none, we will move on.
 
-",Senate,<title>COMMITTEES</title>,"<title>Education and Employment References Committee, Rural and Regional Affairs and Transport References Committee</title>",COMMITTEES,7,1
+",Senate,<title>COMMITTEES</title>,"<title>Education and Employment References Committee, Rural and Regional Affairs and Transport References Committee</title>",COMMITTEES,7,1,speech
 "PRESIDENT, The",,2015-05-14,"
 
 
@@ -2298,7 +2298,7 @@ The PRESIDENT
 The PRESIDENT
  (11:56):  I remind senators that the question may be put on any of those proposals at the request of any senator. There being none, we will move on.
 
-",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,7,2
+",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,7,2,speech
 "McEwen, Sen Anne",ALP,2015-05-14,"
 
 
@@ -2375,7 +2375,7 @@ After paragraph (9), insert:
 
 Question agreed to.
 
-",Senate,<title>BUSINESS</title>,<title>Orders of the Senate</title>,BUSINESS,9,1
+",Senate,<title>BUSINESS</title>,<title>Orders of the Senate</title>,BUSINESS,9,1,speech
 "McEwen, Sen Anne",ALP,2015-05-14,"
 
 
@@ -2398,7 +2398,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>National Palliative Care Week</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>National Palliative Care Week</title>,MOTIONS,10,1,speech
 "Cameron, Sen Doug",ALP,2015-05-14,"
 
 
@@ -2421,7 +2421,7 @@ In government, Labor was deeply serious about reforming Commonwealth legal servi
 
 In response to this considered, thorough work, the Labor government introduced important reforms to the way the Commonwealth procures legal services. Most notably, we replaced the old panels system with the legal services multi-use list. This change cut down on duplication and inefficiencies for both government clients and the providers competing for their work. We also took a number of steps to build knowledge and expertise among all categories of lawyers servicing the government, whether at the AGS, in-house, in government departments, or working in private firms bidding for government work. This is the sort of thoughtful, productive work that Commonwealth governments of both political persuasions should undertake. I hope that the government continues in this vein. We are certainly very glad to see the government abandon the foolhardy ideas entertained by its Commission of Audit last year and instead move forward with the minor machinery changes made by this bill.
 
-",Senate,<title>BILLS</title>,<title>Judiciary Amendment Bill 2015</title>,BILLS,13,1
+",Senate,<title>BILLS</title>,<title>Judiciary Amendment Bill 2015</title>,BILLS,13,1,speech
 "Ryan, Sen Scott",LP,2015-05-14,"
 
 
@@ -2435,7 +2435,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Judiciary Amendment Bill 2015</title>,BILLS,13,1
+",Senate,<title>BILLS</title>,<title>Judiciary Amendment Bill 2015</title>,BILLS,13,1,speech
 "Whish-Wilson, Sen Peter (The ACTING DEPUTY PRESIDENT)",AG,2015-05-14,"
 
 
@@ -2446,7 +2446,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Whish-Wilson
 ) (13:12):  As no amendments to the bill have been circulated, I shall call the minister to move the third reading unless any senator requires that the bill be considered in Committee of the Whole.
 
-",Senate,<title>BILLS</title>,<title>Judiciary Amendment Bill 2015</title>,BILLS,13,1
+",Senate,<title>BILLS</title>,<title>Judiciary Amendment Bill 2015</title>,BILLS,13,1,speech
 "Ryan, Sen Scott",LP,2015-05-14,"
 
 
@@ -2463,7 +2463,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Judiciary Amendment Bill 2015</title>,BILLS,13,1
+",Senate,<title>BILLS</title>,<title>Judiciary Amendment Bill 2015</title>,BILLS,13,1,speech
 "Cameron, Sen Doug",ALP,2015-05-14,"
 
 
@@ -2486,7 +2486,7 @@ In government, Labor was deeply serious about reforming Commonwealth legal servi
 
 In response to this considered, thorough work, the Labor government introduced important reforms to the way the Commonwealth procures legal services. Most notably, we replaced the old panels system with the legal services multi-use list. This change cut down on duplication and inefficiencies for both government clients and the providers competing for their work. We also took a number of steps to build knowledge and expertise among all categories of lawyers servicing the government, whether at the AGS, in-house, in government departments, or working in private firms bidding for government work. This is the sort of thoughtful, productive work that Commonwealth governments of both political persuasions should undertake. I hope that the government continues in this vein. We are certainly very glad to see the government abandon the foolhardy ideas entertained by its Commission of Audit last year and instead move forward with the minor machinery changes made by this bill.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
 "Ryan, Sen Scott",LP,2015-05-14,"
 
 
@@ -2500,7 +2500,122 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,13,2,speech
+"Ketter, Sen Christopher",ALP,2015-05-14,"
+
+
+
+Senator KETTER
+ (Queensland) (14:04):  My question is to the Minister for Finance, Senator Cormann. I refer the minister to Peter Costello, the man the minister calls 'a great Australian'. Does the minister agree with this great Australian, who says the Abbott government's tax slogan, 'Lower, simpler, fairer', is 'a morbid joke'?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,15,1,question
+"Ketter, Sen Christopher",ALP,2015-05-14,"
+
+
+
+Senator KETTER
+ (Queensland) (14:05):  Does the minister agree with this great Australian, who says the Abbott government's tax slogan, 'Lower, simpler, fairer', is 'a morbid joke'?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,15,1,question
+"Ketter, Sen Christopher",ALP,2015-05-14,"
+
+
+
+Senator KETTER
+ (Queensland) (14:08):  Mr President, I ask a supplementary question. Can the minister confirm that net government debt will escalate to 18 per cent of GDP in 2016-17 and total $325.5 billion in 2018-19?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,15,1,question
+"Ketter, Sen Christopher",ALP,2015-05-14,"
+
+
+
+Senator KETTER
+ (Queensland) (14:09):  Mr President, I ask a further supplementary question. Can the minister confirm that under him government debt is higher than at any point in Australia's history including under the Whitlam government?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,15,1,question
+"Cormann, Sen Mathias",LP,2015-05-14,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance) (14:05):  I absolutely agree with the senator that Peter Costello is a great Australian, and I have to say: the overwhelming support across the chamber—the overwhelming noise across the chamber—after the senator referred to Peter Costello as a great Australian was so loud I could not really hear the rest of the question. But let me just say—
+
+
+
+The PRESIDENT:  Pause the clock.
+
+
+
+
+Senator Wong:
+  Mr President, on a point of order, given that the minister, out of his own mouth, said he did not hear the question, perhaps the senator could repeat the question.
+
+
+
+The PRESIDENT:  That is a fair request, Senator Wong. Senator Ketter, would you repeat the question. We will reset the clock for both the question and the answer.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,15,1,answer
+"Cormann, Sen Mathias",LP,2015-05-14,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance) (14:06):  Peter Costello is indeed a great Australian. He was a fine Treasurer for Australia over nearly 12 years. But let me just say that I disagree with him on this, because, of course, this is a government which is committed to lower, simpler, fairer taxes. This is a government which has brought taxes down over the forward estimates compared to what they would have been under Labor. There is absolutely no doubt that, under this government, taxes are now lower than they would have been under Labor. We got rid of the carbon tax. We got rid of the mining tax. On Tuesday, we delivered a small business tax cut. We delivered immediate asset write-offs for small business up to $20,000. This is a government that does tax lower than Labor any day.
+
+
+Would we like to do more? Of course we would. Of course we would like to bring down taxes by more. We have brought down a budget which is measured, which is responsible, which is fair, and which puts the budget back onto a credible path to surplus on the same timetable as last year's budget. Our budget repair effort is predominantly focused on the spending side of the budget. We have kept spending growth under control, much better than the previous government. We inherited spending growth of 3.6 per cent above inflation, on average, per annum, from the previous government. We have brought that down to 1.5 per cent spending growth, on average, over the forward estimates.
+
+
+
+Senator Conroy interjecting—
+
+
+
+The PRESIDENT:  Senator Conroy.
+
+
+
+
+Senator CORMANN:
+  Let me just pause here for a moment to say that in the whole period that Mr Shorten has been the Leader of the Labor Party, how many savings do you think he has identified? Tell us how many spending reductions Mr Shorten has identified? It is a big, fat zero. There is not a single dollar that Mr Shorten has suggested should be saved. And guess what? Tonight, Mr Shorten will have the opportunity to fix that. Tonight, Mr Shorten will have the opportunity to tell us where he is going to save.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,15,1,answer
+"Cormann, Sen Mathias",LP,2015-05-14,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance) (14:08):  I am pleased to see that the senator is able to read our budget papers where everything is laid out, openly and transparently, for everyone to see. What I can confirm is that net debt under this government will peak in 2016-17 at 18 per cent before coming down. Of course, over the medium term, it is going to come down to seven per cent as a share of the economy, or about $201 billion by 2025-26. The crocodile tears from this Labor Party over there are quite extraordinary, because we are the only ones who are actually trying to get the budget back under control. We are the only ones who are making an effort. You are the ones who are working to a huge expenditure growth. The Labor Party is not helping. If you are so concerned about bringing spending growth down, if you are so concerned about bringing debt down, come and join us in the national interest. Come and work with us in the national interest. Come and work with us in a bipartisan fashion to put Australia on a stronger foundation. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,15,1,answer
+"Cormann, Sen Mathias",LP,2015-05-14,"
+
+
+
+Senator CORMANN
+ (Western Australia—Minister for Finance) (14:10):  What I can confirm is that we inherited a budget in a mess from the worst finance minister in Australia's history. We inherited a budget position that was rapidly deteriorating. We inherited a debt growth trajectory that was rapidly deteriorating. What I can confirm is that the position that we are in now is much better than what it would have been if the Labor Party had been re-elected to government in 2013. What I can confirm is that this side of the parliament is working hard to strengthen growth, to create more jobs and to get the budget back to surplus.
+
+
+
+The PRESIDENT:  Pause the clock. Minister. Senator Moore on a point of order.
+
+
+
+
+Senator Moore:
+  I was on my feet before the minister sat down, Mr President. I wanted to know, on direct relevance, whether we would get any answer to the issue about debt and whether that was coming into the minister's answer.
+
+
+
+The PRESIDENT:  Thank you, Senator Moore, I will remind the minister of the question. Minister, you have 28 seconds.
+
+
+
+
+Senator CORMANN:
+  Thank you very much, Mr President. The spending growth trajectory that we inherited from the worst finance minister in Australia's history was taking us to 26.5 per cent spending as a share of the economy by 2023-24. We are actually now heading down. Under Labor, spending as a share of the economy was heading up, debt was heading up. We have now turned that situation around and debt is now heading down, and government spending as a share of the economy is heading down. It will peak in 2016-17 and it will— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,15,1,answer
 "Collins, Sen Jacinta",ALP,2015-05-14,"
 
 
@@ -2530,7 +2645,7 @@ Senator Cormann tells us today that we, the Labor Party, focus on politics over 
 
 The DEPUTY PRESIDENT:  Order! Senator, your time expired sometime ago. I am sorry I was somewhat distracted.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,16,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,16,1,speech
 "Williams, Sen John",Nats,2015-05-14,"
 
 
@@ -2562,7 +2677,7 @@ People who are having a good financial year will face a tax bill. It is always g
 
 During question time, those opposite criticised our budget. It showed that they do not understand small business, that they do not understand rural Australia and that they do not realise that every big business actually started as a small business. That is why I think we had done such a really good job with this year's budget.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,16,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,16,1,speech
 "Peris, Sen Nova",ALP,2015-05-14,"
 
 
@@ -2582,7 +2697,7 @@ Last year's budget papers show that the federal government gave the Northern Ter
 
 The federal government has failed the families of Palmerston. The Northern Territory government has failed the people of Palmerston and the Darwin region. They both need to explain themselves.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,16,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,16,1,speech
 "Fierravanti-Wells, Sen Concetta",LP,2015-05-14,"
 
 
@@ -2612,7 +2727,7 @@ Senator Cash interjecting—
 Senator FIERRAVANTI-WELLS:
   That is right, Senator Cash! There was waste and mismanagement. They delivered higher taxes. There were record boat arrivals that came at $12 billion cost, which Senator Cash has repeatedly told us about, there was debt and deficit damage as far as the eye can see.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,16,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,16,1,speech
 "Brown, Sen Carol",ALP,2015-05-14,"
 
 
@@ -2641,7 +2756,7 @@ In his contribution Senator Williams talked in part about paid parental leave—
 
 Their budget is short-sighted. There is nothing in it for Australia's future. We know that Mr Abbott was fighting for his own political survival, and we know that the inherent unfairness of the previous budget is there. As has already been stated in other contributions, there were the other $80 billion cuts to hospitals and schools. We know that the higher education policies are still there. We know that there are cuts to family payments. And we know that even on Mr Hockey's own numbers he has doubled the deficit in one year. That is on Mr Hockey's own numbers. This government should be ashamed of bringing down a budget that is for Mr Abbott's future and not Australia's.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,16,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,16,1,speech
 "Lambie, Sen Jacqui",Ind.,2015-05-14,"
 
 
@@ -2673,7 +2788,7 @@ In closing, the government must come clean. We can protect witnesses by de-ident
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,16,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,16,1,speech
 "Cash, Sen Michaelia",LP,2015-05-14,"
 
 
@@ -2688,7 +2803,7 @@ That these bills be now read a third time.
 
 The DEPUTY PRESIDENT:  The question is that these bills be now read a third time.
 
-",Senate,<title>BILLS</title>,"<title>Australian Border Force Bill 2015, Customs and Other Legislation Amendment (Australian Border Force) Bill 2015</title>",BILLS,18,1
+",Senate,<title>BILLS</title>,"<title>Australian Border Force Bill 2015, Customs and Other Legislation Amendment (Australian Border Force) Bill 2015</title>",BILLS,18,1,speech
 "Ruston, Sen Anne",LP,2015-05-14,"
 
 
@@ -2761,7 +2876,7 @@ I encourage my fellow Members and others to examine the committee's report to be
 
 With these comments I commend the committee's Twenty-second Report of the 44th Parliament to the House.
 
-",Senate,<title>COMMITTEES</title>,<title>Parliamentary Joint Committee on Human Rights</title>,COMMITTEES,19,1
+",Senate,<title>COMMITTEES</title>,<title>Parliamentary Joint Committee on Human Rights</title>,COMMITTEES,19,1,speech
 "Ruston, Sen Anne",LP,2015-05-14,"
 
 
@@ -2834,7 +2949,7 @@ I encourage my fellow Members and others to examine the committee's report to be
 
 With these comments I commend the committee's Twenty-second Report of the 44th Parliament to the House.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,19,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,19,2,speech
 "Ruston, Sen Anne",LP,2015-05-14,"
 
 
@@ -2860,7 +2975,7 @@ I seek leave to continue my remarks later.
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Economics Legislation Committee</title>,COMMITTEES,21,1
+",Senate,<title>COMMITTEES</title>,<title>Economics Legislation Committee</title>,COMMITTEES,21,1,speech
 "Ruston, Sen Anne",LP,2015-05-14,"
 
 
@@ -2886,7 +3001,7 @@ I seek leave to continue my remarks later.
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2,speech
 "Payne, Sen Marise",LP,2015-05-14,"
 
 
@@ -2894,7 +3009,7 @@ Leave granted; debate adjourned.
 Senator PAYNE
  (New South Wales—Minister for Human Services) (15:47):  I table a document relating to the order for production of documents concerning genetically modified foods.
 
-",Senate,<title>DOCUMENTS</title>,<title>Office of the Gene Technology Regulator</title>,DOCUMENTS,22,1
+",Senate,<title>DOCUMENTS</title>,<title>Office of the Gene Technology Regulator</title>,DOCUMENTS,22,1,speech
 "Payne, Sen Marise",LP,2015-05-14,"
 
 
@@ -2902,7 +3017,7 @@ Senator PAYNE
 Senator PAYNE
  (New South Wales—Minister for Human Services) (15:47):  I table a document relating to the order for production of documents concerning genetically modified foods.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,22,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,22,2,speech
 "Payne, Sen Marise",LP,2015-05-14,"
 
 
@@ -3006,7 +3121,7 @@ Enough is enough.
 
 Until discrimination, gendered violence and inequality truly become the relics of history, Australia will continue to campaign at the forefront of the global fight for gender equality.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>United Nations Commission on the Status of Women</title>,MINISTERIAL STATEMENTS,23,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>United Nations Commission on the Status of Women</title>,MINISTERIAL STATEMENTS,23,1,speech
 "Moore, Sen Claire",ALP,2015-05-14,"
 
 
@@ -3032,7 +3147,7 @@ I am using the opportunity of a report on CSW because it was an immediate link. 
 
 I also wish to note my concern about changes to things like paid parental leave. I know that at the G20 recently, which was reported on at the CSW, there was a commitment led by Australia to ensure that we would increase the engagement of women in the workplace. This is something of which we can duly be proud. However, now in post-budget, which is just after our statement in New York, we are pulling back in these areas. Whilst I admire the statement that we made, whilst I admire the contributions that were made and the strength that was put by the Australian delegation in New York, I believe that subsequently our position—not just in Australia, but internationally—has been significantly weakened. I believe there will be more speakers on this point.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>United Nations Commission on the Status of Women</title>,MINISTERIAL STATEMENTS,23,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>United Nations Commission on the Status of Women</title>,MINISTERIAL STATEMENTS,23,1,speech
 "McEwen, Sen Anne",ALP,2015-05-14,"
 
 
@@ -3058,7 +3173,7 @@ I also think that it is appalling that the minister who just had this statement 
 
 We have a Prime Minister, who is a man, who is the minister for women. That is part the embarrassing reason why, this week, we have seen attacks on women who access the legal international entitlement to paid parental leave.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>United Nations Commission on the Status of Women</title>,MINISTERIAL STATEMENTS,23,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>United Nations Commission on the Status of Women</title>,MINISTERIAL STATEMENTS,23,1,speech
 "Ruston, Sen Anne",LP,2015-05-14,"
 
 
@@ -3081,7 +3196,7 @@ In conclusion, I would like to stay that today a report has been tabled—an imp
 
 Question agreed to. 
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>United Nations Commission on the Status of Women</title>,MINISTERIAL STATEMENTS,23,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>United Nations Commission on the Status of Women</title>,MINISTERIAL STATEMENTS,23,1,speech
 "Payne, Sen Marise",LP,2015-05-14,"
 
 
@@ -3098,7 +3213,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Personal Property Securities Amendment (Deregulatory Measures) Bill 2014</title>,BILLS,25,1
+",Senate,<title>BILLS</title>,<title>Personal Property Securities Amendment (Deregulatory Measures) Bill 2014</title>,BILLS,25,1,speech
 "Payne, Sen Marise",LP,2015-05-14,"
 
 
@@ -3163,7 +3278,7 @@ The regulatory burden imposed on the sector, by the Act in its current form, is 
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Personal Property Securities Amendment (Deregulatory Measures) Bill 2014</title>,BILLS,25,1
+",Senate,<title>BILLS</title>,<title>Personal Property Securities Amendment (Deregulatory Measures) Bill 2014</title>,BILLS,25,1,speech
 "Payne, Sen Marise",LP,2015-05-14,"
 
 
@@ -3228,7 +3343,7 @@ The regulatory burden imposed on the sector, by the Act in its current form, is 
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Polley, Sen Helen",ALP,2015-05-14,"
 
 
@@ -3304,7 +3419,7 @@ What else did the 2015-16 budget offer aged care? As if it were not bad enough, 
 
 The government have quite clearly failed the Australian people when it comes to aged care. For those suffering with dementia and their families, this is such a disappointing, harsh and callous budget. Not only did they attack those with dementia, but the outrageous attack on young mothers in this country is a disgrace, and I am embarrassed to be sitting opposite— (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,26,1
+",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,26,1,speech
 "McGrath, Sen James",LP,2015-05-14,"
 
 
@@ -3392,7 +3507,7 @@ We have also committed $1 billion towards the upgrade of the Gateway Motorway No
 
 In closing, this is a budget that will allow people to sleep at night rather than the raw terror of Labor's proposals which will keep people awake at night. (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,26,1
+",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,26,1,speech
 "Leyonhjelm, Sen David",LDP,2015-05-14,"
 
 
@@ -3403,7 +3518,7 @@ Senator LEYONHJELM
 
 This guy is called Joe. He is the federal Treasurer, and if you add seven zeros to each of the numbers I mentioned you have got the federal budget for the coming year. His revenue will be around $400 billion, his spending around $430 billion, and despite this parlous imbalance he added a couple of billion dollars in new spending on Tuesday night. The Treasurer's net debt next year will be around $285 billion and his interest bill will be $12 billion. Anyone who does not think this is a problem needs their head read, and they need their head read if they think that the Treasurer should just ask his boss, the taxpayers of Australia, for more money. The taxpayers of Australia are already paying the government more than it is worth, and they should not pay any more. The Treasurer should not have announced additional billions of spending on Tuesday night. He needs to rein in government spending, start paying off his debts and start living within his means.
 
-",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,26,1
+",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,26,1,speech
 "Cameron, Sen Doug",ALP,2015-05-14,"
 
 
@@ -3566,7 +3681,7 @@ Senator Birmingham:
 Senator CAMERON:
   Thank you, Senator Birmingham. Thank you for withdrawing. You know what? They are really, really worried about what is happening in South Australia, where there will not be a coalition MP safe at the next election, because they have abandoned their electorate in South Australia. They have abandoned people in South Australia. They will pay a price for this budget and the last budget. This is a budget that is bad for Australia. It is good for the big end of town. And that is all this lot want to look after—the big end of town. (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,26,1
+",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,26,1,speech
 "Back, Sen Chris",LP,2015-05-14,"
 
 
@@ -3644,7 +3759,7 @@ Finally, all of us who know about agriculture, and the vagaries of the problems,
 
 Some of the small business tax cuts that I mentioned earlier in my contribution will assist many of the 110,000 farm businesses around Australia who have receipts of $2 million cash or less. So we have had the $38 million that was pre-announced for drought funding. I say again how proud I am to be a member of a coalition government that will have small business leading this country back to a sound economy.
 
-",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,26,1
+",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,26,1,speech
 "Bullock, Sen Joesph",ALP,2015-05-14,"
 
 
@@ -3685,7 +3800,7 @@ And why wouldn't they—the money taken out of employer funded schemes will be m
 
 Another significant budget measure affecting SDA members is the proposal with respect to child care. Child care is an important service for working families. While I do not personally believe—as the government apparently does—that lifting the workforce participation rate is the highest goal to which to aspire, or that the only work of value performed by a mother is in the paid workforce, I nevertheless applaud measures to improve the availability of child care. Many SDA members cannot afford formal childcare arrangements and rely on the support of family and friends. What they cannot afford to be without, however, is family tax benefit B. This benefit is critical to a large number of families struggling to get by where mum is a second income earner with a part-time job in retail. Linking the provision of additional childcare funding to cuts to family tax benefit B is an extraordinarily callous move by the government which shows an utter disregard for families who place a priority on one parent spending as much time as possible at home with the children. I, for one, will stand up for the unpaid work of mothers. I will stand up for working women struggling to balance family commitments with part-time work. Higher taxes for low-income workers, incentives for employers to cut paid parental leave schemes and cuts to the family tax benefit show this big-spending, high-taxing government for what it is: a government with no regard for ordinary workers or for Australian families.
 
-",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,26,1
+",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,26,1,speech
 "McEwen, Sen Anne",ALP,2015-05-14,"
 
 
@@ -3720,7 +3835,7 @@ In a year where, shockingly, 36 women have been killed in domestic violence inci
 
 I ask: how can this Prime Minister be believed by anyone in this country ever again? He has no shred of credibility when it comes to supporting women, students, pensioners or Australian families. He has not been transparent and he has again broken his promises to Australians. Spending is up, taxes are up, deficits are up and unemployment is up. This is yet another bad budget for Australia and the Prime Minister needs to stop focusing on his own job and start focusing on what is best for the people of Australia.
 
-",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,26,1
+",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,26,1,speech
 "Singh, Sen Lisa",ALP,2015-05-14,"
 
 
@@ -3746,7 +3861,7 @@ That is why Labor do not support the unfair measures of this budget because, unl
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,26,1
+",Senate,<title>MOTIONS</title>,<title>Budget</title>,MOTIONS,26,1,speech
 "Back, Sen Chris",LP,2015-05-14,"
 
 
@@ -3772,4 +3887,4 @@ How short-sighted that the eastern-state premiers and first ministers would star
 
 If we do not get rid of this Grants Commission formula and if we do not go back to the drawing board the future of Australia's federation, for me, is at risk.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Western Australia: Budget</title>,ADJOURNMENT,29,1
+",Senate,<title>ADJOURNMENT</title>,<title>Western Australia: Budget</title>,ADJOURNMENT,29,1,speech

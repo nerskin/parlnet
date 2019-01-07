@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2014-11-19,"
 
 
@@ -9,7 +9,7 @@ The PRESIDENT
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,"<title>Legal and Constitutional Affairs Legislation Committee, Public Works Committee</title>",COMMITTEES,0,1
+",Senate,<title>COMMITTEES</title>,"<title>Legal and Constitutional Affairs Legislation Committee, Public Works Committee</title>",COMMITTEES,0,1,speech
 "PRESIDENT, The",,2014-11-19,"
 
 
@@ -20,7 +20,7 @@ The PRESIDENT
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,0,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,0,2,speech
 "PRESIDENT, The",,2014-11-19,"
 
 
@@ -28,7 +28,7 @@ Question agreed to.
 The PRESIDENT
  (10:25):  Before I call Senator Moore to move her next motion, could I invite Senator Lazarus to make an announcement to the chamber.
 
-",Senate,<title>PARTY OFFICE HOLDERS</title>,<title>Palmer United Party</title>,PARTY OFFICE HOLDERS,2,1
+",Senate,<title>PARTY OFFICE HOLDERS</title>,<title>Palmer United Party</title>,PARTY OFFICE HOLDERS,2,1,speech
 "Lazarus, Sen Glenn",PUP,2014-11-19,"
 
 
@@ -45,7 +45,7 @@ Leave granted.
 Senator LAZARUS:
   I rise to advise the chamber that the Palmer United Party has removed Senator Jacqui Lambie from the position of deputy leader and deputy whip.
 
-",Senate,<title>PARTY OFFICE HOLDERS</title>,<title>Palmer United Party</title>,PARTY OFFICE HOLDERS,2,1
+",Senate,<title>PARTY OFFICE HOLDERS</title>,<title>Palmer United Party</title>,PARTY OFFICE HOLDERS,2,1,speech
 "McKenzie, Sen Bridget",Nats,2014-11-19,"
 
 
@@ -107,7 +107,134 @@ At the 2013 Labor state conference, Mr Andrews shared centre stage with Mr Setka
 
 Victorian Labor has no moral compass when it comes to union rorts, rackets and rip-offs, even when they extend to clear criminal behaviour. Once upon a time Labor leaders knew where to draw the line. John Cain got a lot of things wrong as Premier. But he had the political integrity to deregister the BLF when it was clearly involved in corrupt behaviour. Mr Cain famously said that he 'removed this rogue organisation from the Victorian industrial scene'. And we thank him. But Mr Andrews would give this union the keys to No. 1 Treasury Place. If Dan really is the man, he needs to man up. No glossy photo-shoot can whitewash the dirty stain of union slush funds from him; and no new haircut or pair of new, hipster glasses can distract Victorians from Dan's 'Dirty Half Dozen'.
 
-",Senate,<title>STATEMENTS BY SENATORS</title>,<title>Victorian State Election</title>,STATEMENTS BY SENATORS,4,1
+",Senate,<title>STATEMENTS BY SENATORS</title>,<title>Victorian State Election</title>,STATEMENTS BY SENATORS,4,1,speech
+"Carr, Sen Kim",ALP,2014-11-19,"
+
+
+
+Senator KIM CARR
+ (Victoria) (14:00):  My question is to the Minister representing the Prime Minister. I refer to the Prime Minister's comments at the G20 over the weekend that:
+
+
+… we have tried to deregulate higher education, universities, and that's going to mean less central government spending and effectively more fees that students will have to pay.
+
+
+In light of this belated admission, can the minister advise the Senate how much more the government will force students to pay?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Carr, Sen Kim",ALP,2014-11-19,"
+
+
+
+Senator KIM CARR
+ (Victoria) (14:03):  Mr President, I ask a supplementary question. I refer the minister to the Treasurer's comments as reported in the Australian Financial Review on 4 November. He said, 'We will find any way we can to take the money out of universities.' Can the minister outline exactly how much more the government plans to rip out of universities and how the Treasurer proposes to do that?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Carr, Sen Kim",ALP,2014-11-19,"
+
+
+
+Senator KIM CARR
+ (Victoria) (14:05):  Mr President, I have a further supplementary question. Can the minister explain how the Prime Minister's and the Treasurer's comments are consistent with the Prime Minister's pre-election commitment that there would be no cuts to education?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Abetz, Sen Eric",LP,2014-11-19,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:01):  The Australian people understand that what the government is on about in this space is getting the best possible value for every single dollar contributed by the Australian taxpayer. The Australian people also understand that, if one has the privilege of a tertiary education, over their lifetime that person is likely to earn an extra $1 million. It therefore stands to reason that the truck drivers and other people in our community who pay taxes on a regular basis should not be subsidising from their lower wages the opportunity for others to learn so much more than they do.
+
+
+This is about equity. This is about securing the future of our universities. This is about ensuring that they will be internationally competitive in the years ahead. What Minister Pyne has been able to achieve is a mechanism whereby the Australian taxpayer can make a lesser contribution but which will still increase the overall funding pool available to universities through opening up spaces and, as a result, making universities even more viable with even more money.
+
+
+With the free trade agreement and growing relationship between Australia and China, I hope that there will be even more international students coming to Australia, making an even greater contribution to the total pool of money available to tertiary institutions in this country. This is about guaranteeing the future of our universities. That is why organisations after organisations have come out to support us.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Abetz, Sen Eric",LP,2014-11-19,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:03):  Senator Carr is a great master of giving us quotes in this place. He has done it now for a couple of decades. The quotes are nearly always out of context. So I will look very carefully at the full quote above that which the honourable senator put to us just then.
+
+
+We have been regaled with examples from Minister Pyne, day after day, in question time telling the Australian people that this university organisation or that university organisation, including regional universities, support this proposal. Why do you think that is? Is it because they are going to get less money overall? Absolutely not. Will there be less money via the long-suffering Australian taxpayer? Possibly so. Will the total haul of money available increase? Yes, it will. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Abetz, Sen Eric",LP,2014-11-19,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:05):  I am delighted to talk about consistency. In the 2013-14 budget of the Labor Party, $902.7 million was taken by an efficiency dividend from most grants to universities. There was the removal of the 10 per cent HECS-HELP discount and the five per cent HELP repayment bonus from 1 January 2014—$276 million. There was the conversion of student start-up scholarships to student loans.
+
+
+
+The PRESIDENT:  Pause the clock.
+
+
+
+
+Senator Moore:
+  Mr President, I have a point of order on direct relevance. Senator Carr's question was specifically about the Prime Minister and this government's promises for no cuts to education. That was the question.
+
+
+
+The PRESIDENT:  I remind the minister of the question. He has 29 seconds left to answer the question.
+
+
+
+
+Senator ABETZ:
+  Thank you, Mr President, but I am sure you noted that the question was prefaced with the concern for consistency by the honourable senator. That is why I am pointing out to the honourable senator his and the Labor Party's inconsistency—
+
+
+
+Opposition senators interjecting—
+
+
+
+The PRESIDENT:  Pause the clock. 
+
+
+
+
+Senator Kim Carr:
+  On a point of order, Mr President: I asked an explicit question about the consistency of the Prime Minister's statements before and after the election. While you are at it, you can tell us how it was that we increased funding for universities by nearly 100 per cent.
+
+
+
+Government senators interjecting—
+
+
+
+The PRESIDENT:  Order, on my right! Senator Carr, on the first part of your point of order—I take note that the second part was not in order; it was debating and adding new material—I did remind the minister of the question that was asked. I remind the minister again that he has 15 seconds left to answer the question.
+
+
+
+
+Senator ABETZ:
+  Seeing that I cannot quote the whole list, it does total $6.655 billion over five Labor budgets. So please do not come in here—
+
+
+
+The PRESIDENT:  Pause the clock. 
+
+
+
+
+Senator MOORE:
+  Mr President, on a point of order: again it is on direct relevance. We drew the attention of the minister to the question, and he just ignored that direction.
+
+
+
+
+Senator ABETZ:
+  So there is no inconsistency with that which the Prime Minister and the Treasurer— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
 "Dastyari, Sen Sam",ALP,2014-11-19,"
 
 
@@ -241,7 +368,7 @@ This is bad law. There has been a bad process and it is bad policy. Frankly, the
 
 Yes, Minister, people like myself and others on this side of the chamber very reasonably respect the fact that there will have to be a facilitative approach to allow for the implementation of the law that we will be returning to. I think that is a reasonable and sensible thing to do, and it is how things have operated in the past. If the minister and ASIC were prepared to bring forward a reasonable facilitative approach and process, I think you would find that there would be a lot of support—though I do not want to speak on behalf of other senators—for that form of implementation process. These are bad laws. This has been a bad process. I urge the Senate and all senators to support this disallowance motion.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1,speech
 "Ronaldson, Sen Michael",LP,2014-11-19,"
 
 
@@ -300,7 +427,7 @@ Senator RONALDSON:
 
 When an opposition are given at least six months, and probably 12 months, to have some constructive input into a policy and they refuse, then they have abrogated their right to be included in the debate. But they should not, through their duplicitous language and handwringing, have abrogated the right of those on the crossbench to discuss this matter further. This is a really sad day for this place. I intend reminding each and every one of you who have destroyed some of our fundamental rights, such as the right to ask questions during question time, about this for as long as I am in this place. The Australian Greens and the Labor Party cannot ever come into this place bleating about due process again, because today they denied themselves the right to a place at the discussion table in relation to due process. They destroyed that right and today they have collectively destroyed the good governance of the Senate of Australia.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1,speech
 "Lambie, Sen Jacqui",Ind.,2014-11-19,"
 
 
@@ -353,7 +480,7 @@ Tasmanians care about a fair pay deal for the men and women of the Australian De
 
 I will vote for the disallowance of the FoFA regulations. This action will protect the weak—ordinary Australian investors—against the powerful—Australia's big banks and large investment companies, who have a proven record of recklessness and irresponsible behaviour. I will not allow the Liberal Party and their supporters to wind back consumer protection when it has been shown that the financial advice industry currently acts in a scandalous manner.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1,speech
 "Cameron, Sen Doug",ALP,2014-11-19,"
 
 
@@ -427,7 +554,7 @@ We decided to do something about it, and the Senate is now determined to overcom
 
 So this is not about small business; it is about ensuring that, if people invest their hard-earned savings after years of work and toil, it is protected to the best we can provide, that the government protects it and that we make sure the rip-off merchants are not in there carving up these poor people and leaving them destitute, with mental health problems, sick, with no home and having their family broken up. This is not good and this is why the coalition are more and more on the nose in this country—because they put their ideology and they put their financial backers before what is good policy in this country. It is reprehensible.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1,speech
 "Seselja, Sen Zed",LP,2014-11-19,"
 
 
@@ -735,7 +862,7 @@ I go back to the issue of the flip-flopping from some on the crossbench and the 
 
 The 'coalition of common sense' that Jacqui Lambie now claims to be leading is going to lead us to outcomes where important legislation like this gets chopped and changed. What is to stop it being different in two or three months time, if Senator Lambie and Clive Palmer kiss and make up? What is to stop it changing again? This is the farce it will become if we go down this path. This disallowance motion should not be supported.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1,speech
 "Williams, Sen John",Nats,2014-11-19,"
 
 
@@ -909,7 +1036,7 @@ We brought in these FoFA regulations, under Senator Cormann, to save the costs, 
 
 As time goes on, I hope that we can also clean up the standards of the financial planners—and I do respect those financial planners. Many of them have done the right thing and put their clients first, and they have given them the best products—safe products. I do apologise if we have damaged their reputations—because some in that field have been terrible; some of them at Commonwealth Financial Planning; some of them at Macquarie Private Wealth. They have all been highlighted and put out there in the media, but those bad eggs have destroyed the reputations of many good people in this profession. It is a most important industry. We have some $600 billion now in self-managed super funds. We want to grow that super. We want those people to retire with a good nest egg, so they are not a burden on the taxpayer of Australia. You know how the population of baby boomers is coming on and how big the population of elderly people is going to grow in the next 10 years. This is a very important issue. I repeat: Labor's FoFA and our amendments have never addressed the big issue, and the big issue is vertical integration. When we fix that problem, people will get put into the best financial products in their interest. At that, I once again call on those crossbench senators to make sure that they do not destroy the financial value and the livelihood of those small financial planning businesses who have worked so hard.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1,speech
 "Back, Sen Chris",LP,2014-11-19,"
 
 
@@ -1001,7 +1128,7 @@ Secondly, we explicitly supported the introduction of a statutory best-interest 
 
 So I ask you to give some thought and consideration to what are the obvious motives, in my belief, of Senator Dastyari in moving this disallowance motion. Through you Acting Deputy President, if it was a level playing field, Senator Madigan, Senator Xenophon, Senator Whish-Wilson, Senator Lambie and Senator Muir, if all of them were on the same level playing field, I would have a little bit of interest in it. But when one player, representing a third of the size of the oval, has a significant advantage—they do not have to comply with opt-in, or worry about advising fees, and do not have to comply with corporate law in relation to a majority of independent directors, and have only just recently had to declare what fees are paid to their directors and executives, only as a result of a few weeks ago—I am saying to you that this is not a level playing field. I am saying to you that there are players in this game who are getting an advantage, and I have to say that, unfortunately, I think you have been taken advantage of. You need to give that some careful thought. We can debate this with the full Senate by next Thursday.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1,speech
 "Muir, Sen Ricky",AMEP,2014-11-19,"
 
 
@@ -1027,7 +1154,7 @@ I am also of the understanding that the government can work with ASIC to create 
 
 I have heard both sides of the story about the changes to FoFA, but I would like to be clear about one thing. I am not interested in hearing about whether the government thinks this is all about the industry super funds and the union movement, nor am I interested in hearing about whether the opposition think this all about keeping the big banks happy. What I am interested in is protecting consumers and protecting my constituents. This disallowance motion ensures that any proposed changes to financial advice laws that impact on consumers are properly scrutinised by the parliament.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1,speech
 "Whish-Wilson, Sen Peter",AG,2014-11-19,"
 
 
@@ -1132,7 +1259,7 @@ I hope the Murray financial services inquiry will be looking at these types of i
 
 I will finish with this. If we want to look after the small businesses and Australians who need financial advice, and even the reputation of the big banks—and let us not doubt that ANZ is under the pump with what we are discovering at the moment around the Timbercorp collapse; and there is a lot more stuff to come out, particularly if we get a royal commission up on banks—and if they want to do the right thing by their reputation, they should accept a strong set of laws and put their own self-interest, with unfounded estimates of cost blow-outs, aside and give it a chance to work. Give the Australian people the confidence they need to get financial planning advice and let's see if it works. Let's assess how many more people get financial planning advice, assess what it costs and do that properly. Let's not just take the word of the big banks that somehow this is going to blow out their costs or kill small business. Let's give it a go. We cannot do that until we disallow these regulations and get a proper set of legislative measures in place that satisfy all stakeholders. That reputational damage will not be removed till the key consumer groups in this country and the key stakeholders are satisfied. That is what we need to be doing as parliamentarians and that is what the Australian people expect.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1,speech
 "Canavan, Sen Matthew",Nats,2014-11-19,"
 
 
@@ -1247,7 +1374,7 @@ I want to finish by commending the work that Minister Cormann has done in the la
 
 Who have they got to help them? Who have they got to help them provide their advice? I know that we complain that we do not have enough advisers. It is hard for us. Who do they have? Who do they have to provide advice for them on the changes that we are going to make now? They are going to have to do it all themselves. They are going to have to stay back this weekend and get across it in more detail. They are going to have to spend less time with their kids because of the things we have done in this place. I know that I am not going to change what is going to happen tonight, but I want to put on record that what we are doing is hurting small businesses in this nation. It has to stop and we have to have a different approach.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1,speech
 "Macdonald, Sen Ian",LP,2014-11-19,"
 
 
@@ -1316,7 +1443,7 @@ Finally, can I indicate to all of those literally hundreds of small businessmen 
 
 I am still hopeful that honourable senators may rethink the position they have taken so far in the debate and stick by the deal done. Those two senators will be here for another 5½ years at least, and they need to ensure they do not get a reputation for not being able to stand by their commitments. These are not just commitments that they have made; they are commitments that they almost bought by asking the government to do certain things, which the government then went out and did. The government did them. The government did what you wanted. The government did not want to do those things but they did, on the basis that you would support them and maintain certainty in the industry. That is why they did it, only to find that, having played their part in the deal, suddenly you, for reasons best known to yourselves, reneged. That is very, very, very unfortunate and I appeal to the senators involved to stick by the arrangements they made, which would provide a better regime that is fair to consumers and fair to the small businesses involved.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1,speech
 "Cormann, Sen Mathias",LP,2014-11-19,"
 
 
@@ -1402,7 +1529,7 @@ Senator Dastyari and Senator Muir have both suggested that there is no problem w
 
 In the meantime, the parliament will have the opportunity to deal with the substantive legislation. In practice, nothing will actually change as a result of that. Particular issues will, of course, arise which will need to be addressed, in particular in relation to retrospective fee disclosure for statements for the period pre 1 July 2013, which were not required under the law that was in place for the last five months, so it would not be appropriate to now expect companies to comply with that sort of requirement as of tomorrow. So there will be a transitional period to 1 July 2015 in effect to which ASIC has agreed. I see Senator Dastyari nodding, indicating his agreement. Hansard does not pick up Senator Dastyari nods, so I will just put it in.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1,speech
 "Madigan, Sen John",Ind.,2014-11-19,"
 
 
@@ -1441,7 +1568,7 @@ I note many of the issues which have been raised here tonight by the minister, b
 
 I also acknowledge the government's frustration with where we are at, but to be fair, if we are going to play the blame game, we are never going to sort this mess out and I, for one, want to sort this out, as I said in the best interests of all Australians in a fair, equitable and transparent manner.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1,speech
 "Xenophon, Sen Nick",Ind.,2014-11-19,"
 
 
@@ -1635,7 +1762,7 @@ I want to thank Naomi, John, Bernard and Meredith for sharing their stories and 
 
 Mr President, I am supporting this disallowance because I believe it is the right thing to do. There are far more arguments against supporting these regulations than there are arguments for supporting them, and the cost of allowing them to remain in place is simply too great. I hope the government will take this opportunity to rework the relevant legislation, in consultation with the relevant interest groups and opposition and crossbench representatives. There is a genuine opportunity here to work in good faith to create a better scheme that provides appropriate protections for consumers and that requires financial advisers to live up to the trust we place in them. Many already do that, but we need to ensure that those 'bad eggs' in the financial services sector are subject to the safeguards that are essential to protecting consumers.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1,speech
 "Dastyari, Sen Sam",ALP,2014-11-19,"
 
 
@@ -1668,7 +1795,7 @@ I want to thank everybody who has participated in this debate. I want to thank t
 
 The PRESIDENT:  The question now is that the Corporations Amendment (Streamlining Future of Financial Advice) Regulations 2014 be disallowed.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1,speech
 "PRESIDENT, The",,2014-11-19,"
 
 
@@ -1676,7 +1803,7 @@ The PRESIDENT:  The question now is that the Corporations Amendment (Streamlinin
 The PRESIDENT
  (19:39):  This means that the Corporations Amendment (Streamlining Future of Financial Advice) Regulations 2014 have been disallowed and cease to have effect immediately. 
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014</title>,REGULATIONS AND DETERMINATIONS,8,1,speech
 "Dastyari, Sen Sam",ALP,2014-11-19,"
 
 
@@ -1810,7 +1937,7 @@ This is bad law. There has been a bad process and it is bad policy. Frankly, the
 
 Yes, Minister, people like myself and others on this side of the chamber very reasonably respect the fact that there will have to be a facilitative approach to allow for the implementation of the law that we will be returning to. I think that is a reasonable and sensible thing to do, and it is how things have operated in the past. If the minister and ASIC were prepared to bring forward a reasonable facilitative approach and process, I think you would find that there would be a lot of support—though I do not want to speak on behalf of other senators—for that form of implementation process. These are bad laws. This has been a bad process. I urge the Senate and all senators to support this disallowance motion.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2,speech
 "Ronaldson, Sen Michael",LP,2014-11-19,"
 
 
@@ -1869,7 +1996,7 @@ Senator RONALDSON:
 
 When an opposition are given at least six months, and probably 12 months, to have some constructive input into a policy and they refuse, then they have abrogated their right to be included in the debate. But they should not, through their duplicitous language and handwringing, have abrogated the right of those on the crossbench to discuss this matter further. This is a really sad day for this place. I intend reminding each and every one of you who have destroyed some of our fundamental rights, such as the right to ask questions during question time, about this for as long as I am in this place. The Australian Greens and the Labor Party cannot ever come into this place bleating about due process again, because today they denied themselves the right to a place at the discussion table in relation to due process. They destroyed that right and today they have collectively destroyed the good governance of the Senate of Australia.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2,speech
 "Lambie, Sen Jacqui",Ind.,2014-11-19,"
 
 
@@ -1922,7 +2049,7 @@ Tasmanians care about a fair pay deal for the men and women of the Australian De
 
 I will vote for the disallowance of the FoFA regulations. This action will protect the weak—ordinary Australian investors—against the powerful—Australia's big banks and large investment companies, who have a proven record of recklessness and irresponsible behaviour. I will not allow the Liberal Party and their supporters to wind back consumer protection when it has been shown that the financial advice industry currently acts in a scandalous manner.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2,speech
 "Cameron, Sen Doug",ALP,2014-11-19,"
 
 
@@ -1996,7 +2123,7 @@ We decided to do something about it, and the Senate is now determined to overcom
 
 So this is not about small business; it is about ensuring that, if people invest their hard-earned savings after years of work and toil, it is protected to the best we can provide, that the government protects it and that we make sure the rip-off merchants are not in there carving up these poor people and leaving them destitute, with mental health problems, sick, with no home and having their family broken up. This is not good and this is why the coalition are more and more on the nose in this country—because they put their ideology and they put their financial backers before what is good policy in this country. It is reprehensible.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2,speech
 "Seselja, Sen Zed",LP,2014-11-19,"
 
 
@@ -2304,7 +2431,7 @@ I go back to the issue of the flip-flopping from some on the crossbench and the 
 
 The 'coalition of common sense' that Jacqui Lambie now claims to be leading is going to lead us to outcomes where important legislation like this gets chopped and changed. What is to stop it being different in two or three months time, if Senator Lambie and Clive Palmer kiss and make up? What is to stop it changing again? This is the farce it will become if we go down this path. This disallowance motion should not be supported.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2,speech
 "Williams, Sen John",Nats,2014-11-19,"
 
 
@@ -2478,7 +2605,7 @@ We brought in these FoFA regulations, under Senator Cormann, to save the costs, 
 
 As time goes on, I hope that we can also clean up the standards of the financial planners—and I do respect those financial planners. Many of them have done the right thing and put their clients first, and they have given them the best products—safe products. I do apologise if we have damaged their reputations—because some in that field have been terrible; some of them at Commonwealth Financial Planning; some of them at Macquarie Private Wealth. They have all been highlighted and put out there in the media, but those bad eggs have destroyed the reputations of many good people in this profession. It is a most important industry. We have some $600 billion now in self-managed super funds. We want to grow that super. We want those people to retire with a good nest egg, so they are not a burden on the taxpayer of Australia. You know how the population of baby boomers is coming on and how big the population of elderly people is going to grow in the next 10 years. This is a very important issue. I repeat: Labor's FoFA and our amendments have never addressed the big issue, and the big issue is vertical integration. When we fix that problem, people will get put into the best financial products in their interest. At that, I once again call on those crossbench senators to make sure that they do not destroy the financial value and the livelihood of those small financial planning businesses who have worked so hard.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2,speech
 "Back, Sen Chris",LP,2014-11-19,"
 
 
@@ -2570,7 +2697,7 @@ Secondly, we explicitly supported the introduction of a statutory best-interest 
 
 So I ask you to give some thought and consideration to what are the obvious motives, in my belief, of Senator Dastyari in moving this disallowance motion. Through you Acting Deputy President, if it was a level playing field, Senator Madigan, Senator Xenophon, Senator Whish-Wilson, Senator Lambie and Senator Muir, if all of them were on the same level playing field, I would have a little bit of interest in it. But when one player, representing a third of the size of the oval, has a significant advantage—they do not have to comply with opt-in, or worry about advising fees, and do not have to comply with corporate law in relation to a majority of independent directors, and have only just recently had to declare what fees are paid to their directors and executives, only as a result of a few weeks ago—I am saying to you that this is not a level playing field. I am saying to you that there are players in this game who are getting an advantage, and I have to say that, unfortunately, I think you have been taken advantage of. You need to give that some careful thought. We can debate this with the full Senate by next Thursday.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2,speech
 "Muir, Sen Ricky",AMEP,2014-11-19,"
 
 
@@ -2596,7 +2723,7 @@ I am also of the understanding that the government can work with ASIC to create 
 
 I have heard both sides of the story about the changes to FoFA, but I would like to be clear about one thing. I am not interested in hearing about whether the government thinks this is all about the industry super funds and the union movement, nor am I interested in hearing about whether the opposition think this all about keeping the big banks happy. What I am interested in is protecting consumers and protecting my constituents. This disallowance motion ensures that any proposed changes to financial advice laws that impact on consumers are properly scrutinised by the parliament.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2,speech
 "Whish-Wilson, Sen Peter",AG,2014-11-19,"
 
 
@@ -2701,7 +2828,7 @@ I hope the Murray financial services inquiry will be looking at these types of i
 
 I will finish with this. If we want to look after the small businesses and Australians who need financial advice, and even the reputation of the big banks—and let us not doubt that ANZ is under the pump with what we are discovering at the moment around the Timbercorp collapse; and there is a lot more stuff to come out, particularly if we get a royal commission up on banks—and if they want to do the right thing by their reputation, they should accept a strong set of laws and put their own self-interest, with unfounded estimates of cost blow-outs, aside and give it a chance to work. Give the Australian people the confidence they need to get financial planning advice and let's see if it works. Let's assess how many more people get financial planning advice, assess what it costs and do that properly. Let's not just take the word of the big banks that somehow this is going to blow out their costs or kill small business. Let's give it a go. We cannot do that until we disallow these regulations and get a proper set of legislative measures in place that satisfy all stakeholders. That reputational damage will not be removed till the key consumer groups in this country and the key stakeholders are satisfied. That is what we need to be doing as parliamentarians and that is what the Australian people expect.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2,speech
 "Canavan, Sen Matthew",Nats,2014-11-19,"
 
 
@@ -2816,7 +2943,7 @@ I want to finish by commending the work that Minister Cormann has done in the la
 
 Who have they got to help them? Who have they got to help them provide their advice? I know that we complain that we do not have enough advisers. It is hard for us. Who do they have? Who do they have to provide advice for them on the changes that we are going to make now? They are going to have to do it all themselves. They are going to have to stay back this weekend and get across it in more detail. They are going to have to spend less time with their kids because of the things we have done in this place. I know that I am not going to change what is going to happen tonight, but I want to put on record that what we are doing is hurting small businesses in this nation. It has to stop and we have to have a different approach.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2,speech
 "Macdonald, Sen Ian",LP,2014-11-19,"
 
 
@@ -2885,7 +3012,7 @@ Finally, can I indicate to all of those literally hundreds of small businessmen 
 
 I am still hopeful that honourable senators may rethink the position they have taken so far in the debate and stick by the deal done. Those two senators will be here for another 5½ years at least, and they need to ensure they do not get a reputation for not being able to stand by their commitments. These are not just commitments that they have made; they are commitments that they almost bought by asking the government to do certain things, which the government then went out and did. The government did them. The government did what you wanted. The government did not want to do those things but they did, on the basis that you would support them and maintain certainty in the industry. That is why they did it, only to find that, having played their part in the deal, suddenly you, for reasons best known to yourselves, reneged. That is very, very, very unfortunate and I appeal to the senators involved to stick by the arrangements they made, which would provide a better regime that is fair to consumers and fair to the small businesses involved.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2,speech
 "Cormann, Sen Mathias",LP,2014-11-19,"
 
 
@@ -2971,7 +3098,7 @@ Senator Dastyari and Senator Muir have both suggested that there is no problem w
 
 In the meantime, the parliament will have the opportunity to deal with the substantive legislation. In practice, nothing will actually change as a result of that. Particular issues will, of course, arise which will need to be addressed, in particular in relation to retrospective fee disclosure for statements for the period pre 1 July 2013, which were not required under the law that was in place for the last five months, so it would not be appropriate to now expect companies to comply with that sort of requirement as of tomorrow. So there will be a transitional period to 1 July 2015 in effect to which ASIC has agreed. I see Senator Dastyari nodding, indicating his agreement. Hansard does not pick up Senator Dastyari nods, so I will just put it in.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2,speech
 "Madigan, Sen John",Ind.,2014-11-19,"
 
 
@@ -3010,7 +3137,7 @@ I note many of the issues which have been raised here tonight by the minister, b
 
 I also acknowledge the government's frustration with where we are at, but to be fair, if we are going to play the blame game, we are never going to sort this mess out and I, for one, want to sort this out, as I said in the best interests of all Australians in a fair, equitable and transparent manner.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2,speech
 "Xenophon, Sen Nick",Ind.,2014-11-19,"
 
 
@@ -3204,7 +3331,7 @@ I want to thank Naomi, John, Bernard and Meredith for sharing their stories and 
 
 Mr President, I am supporting this disallowance because I believe it is the right thing to do. There are far more arguments against supporting these regulations than there are arguments for supporting them, and the cost of allowing them to remain in place is simply too great. I hope the government will take this opportunity to rework the relevant legislation, in consultation with the relevant interest groups and opposition and crossbench representatives. There is a genuine opportunity here to work in good faith to create a better scheme that provides appropriate protections for consumers and that requires financial advisers to live up to the trust we place in them. Many already do that, but we need to ensure that those 'bad eggs' in the financial services sector are subject to the safeguards that are essential to protecting consumers.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2,speech
 "Dastyari, Sen Sam",ALP,2014-11-19,"
 
 
@@ -3237,7 +3364,7 @@ I want to thank everybody who has participated in this debate. I want to thank t
 
 The PRESIDENT:  The question now is that the Corporations Amendment (Streamlining Future of Financial Advice) Regulations 2014 be disallowed.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2,speech
 "PRESIDENT, The",,2014-11-19,"
 
 
@@ -3245,7 +3372,7 @@ The PRESIDENT:  The question now is that the Corporations Amendment (Streamlinin
 The PRESIDENT
  (19:39):  This means that the Corporations Amendment (Streamlining Future of Financial Advice) Regulations 2014 have been disallowed and cease to have effect immediately. 
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,8,2,speech
 "Bushby, Sen David",LP,2014-11-19,"
 
 
@@ -3253,7 +3380,7 @@ The PRESIDENT
 Senator BUSHBY
  (Tasmania—Chief Government Whip in the Senate) (19:41):  On behalf of the Chair of the Senate Standing Committee on Regulations and Ordinances, I present the Delegated Legislation Monitor No. 15 for 2014.
 
-",Senate,<title>COMMITTEES</title>,<title>Regulations and Ordinances Committee</title>,COMMITTEES,11,1
+",Senate,<title>COMMITTEES</title>,<title>Regulations and Ordinances Committee</title>,COMMITTEES,11,1,speech
 "Bushby, Sen David",LP,2014-11-19,"
 
 
@@ -3261,7 +3388,7 @@ Senator BUSHBY
 Senator BUSHBY
  (Tasmania—Chief Government Whip in the Senate) (19:41):  On behalf of the Chair of the Senate Standing Committee on Regulations and Ordinances, I present the Delegated Legislation Monitor No. 15 for 2014.
 
-",Senate,<title>COMMITTEES</title>,<title>Delegated Legislation Monitor</title>,COMMITTEES,11,2
+",Senate,<title>COMMITTEES</title>,<title>Delegated Legislation Monitor</title>,COMMITTEES,11,2,speech
 "Fawcett, Sen David",LP,2014-11-19,"
 
 
@@ -3293,4 +3420,4 @@ I welcome the fact that people from the parliaments of so many diverse nations h
 
 As we become more aware of those situations overseas, I think it is important not only that we advocate where we can to support them and to bring that civil society, that civility, to all nations, but also, more importantly, that this spurs us on every day to look for those things that are the important elements of the freedoms we enjoy here in Australia that underpin our plural, liberal, secular form of government that gives all Australians the freedoms to belong and to participate and to make sure that we defend those.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Religious Freedom</title>,ADJOURNMENT,12,1
+",Senate,<title>ADJOURNMENT</title>,<title>Religious Freedom</title>,ADJOURNMENT,12,1,speech

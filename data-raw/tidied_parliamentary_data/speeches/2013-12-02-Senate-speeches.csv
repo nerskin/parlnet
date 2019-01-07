@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2013-12-02,"
 
 
@@ -9,7 +9,64 @@ The PRESIDENT
 
 I table the document.
 
-",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>New South Wales</title>,PARLIAMENTARY REPRESENTATION,0,1
+",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>New South Wales</title>,PARLIAMENTARY REPRESENTATION,0,1,speech
+"Wong, Sen Penny",ALP,2013-12-02,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:00):  My question is to the Minister representing the Minister for Education, Senator Payne. I refer the minister to the school funding promise made by the Prime Minister on 2 August when he said:
+
+
+We will honour the agreements that Labor has entered into.
+
+
+Will the government keep this promise?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE,3,1,question
+"Wong, Sen Penny",ALP,2013-12-02,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:00):  Mr President, I ask a supplementary question. In relation to the school funding commitments and arrangements that are being made with the New South Wales, Victorian, South Australian, ACT and Tasmanian governments, will the government honour those agreements in full as promised by the Prime Minister in August?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE,3,1,question
+"Wong, Sen Penny",ALP,2013-12-02,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:01):  I ask a further supplementary question. Prior to the press conference which was held just before question time in which the Prime Minister had to rescue the floundering Minister for Education, can the minister advise what contact or communication was had between the Premier of New South Wales or any member of the New South Wales government, the Minister for Education or herself?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE,3,1,question
+"Payne, Sen Marise",LP,2013-12-02,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Human Services) (14:00):  Yes.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE,3,1,answer
+"Payne, Sen Marise",LP,2013-12-02,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Human Services) (14:01):  Again, I respond by indicating that the answer is yes.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE,3,1,answer
+"Payne, Sen Marise",LP,2013-12-02,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Human Services) (14:01):  I will take it on notice in relation to the minister. I can advise in relation to myself: absolutely none. Let me make it absolutely clear that what we are talking about here is an education system which Labor purported to support and then in the economic statements just before the election happily ripped $1.2 billion of funding out of that funding. We know that. The Australian people know that, but you are not prepared to admit to that and that is the big difference.
+
+
+We did not take $1.2 billion out of the model but we have to put it back in, though, to clean up Labor's mess. We promised a national model and a fair model. We have delivered it. We have honoured the agreements and we have matched funding. We now have in principle funding agreements with Queensland, Western Australia and Northern Territory of which the previous government— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE,3,1,answer
 "Wong, Sen Penny",ALP,2013-12-02,"
 
 
@@ -73,7 +130,7 @@ The DEPUTY PRESIDENT:  There is no point of order.
 Senator WONG:
   Today we heard the latest round of weasel words, 'No school need be worse off.' The guarantee has changed. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1,speech
 "Fawcett, Sen David",LP,2013-12-02,"
 
 
@@ -114,7 +171,7 @@ Senator FAWCETT:
 
 One of this government's early achievements from getting those states on board is that we are now on the path to a national system where we will be putting back into the system $1.2 billion of funding that Labor ripped out of the system.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1,speech
 "Carr, Sen Kim",ALP,2013-12-02,"
 
 
@@ -162,7 +219,7 @@ Senator Conroy:
 Senator KIM CARR:
   Three separate plans inside a week, when we are getting coalition education minister after coalition education minister in Victoria and New South Wales and Labor ministers in South Australia and Tasmania saying they want to see the agreements they have struck honoured. But you are not getting that from this government. Now we have a position from Senator Abetz where he says there is no need for schools to lose money. What a rock-solid commitment that is! No need! We know the answer and the minister in New South Wales has belled the cat. The cuts will be to government schools and that is the result of the sectarian policies that the government is seeking to reintroduce into the education debate in this country. But I come back to a simple proposition: why is it that the Western Australia Premier rejected $920 million from the Commonwealth Labor government, yet he accepts a far less amount from the Liberal government under Tony Abbott? Why is it? What is the deal? What is the special arrangement? And what does it mean for the Queensland government? Similar sorts of offers have been made to them and repudiated by them. What does it mean for the Northern Territory government, with similar sets of arrangements offered by Labor, rejected by conservative premiers and chief ministers? (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1,speech
 "Seselja, Sen Zed",LP,2013-12-02,"
 
 
@@ -200,7 +257,7 @@ Minister Payne, I believe, could not have been any clearer in answering these qu
 
 The coalition will not be lectured to by the Labor Party, whose record on trust is below par and whose record on education funding is below par, given they wanted to rip $1.2 billion from the Northern Territory, Queensland and WA. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1,speech
 "Marshall, Sen Gavin",ALP,2013-12-02,"
 
 
@@ -274,7 +331,7 @@ You found $1.2 billion and you have not funded education for six years. What did
 
 The PRESIDENT:  Before I call Senator Wright, I remind senators to address their remarks to the chair and not across the chamber.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1,speech
 "Wright, Sen Penny",AG,2013-12-02,"
 
 
@@ -318,7 +375,7 @@ This government committed to both the money and the model and now they are tryin
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1,speech
 "Milne, Sen Christine",AG,2013-12-02,"
 
 
@@ -353,7 +410,7 @@ That the Senate—
 
 (c) urges the Prime Minister (Mr Abbott) and Minister for Foreign Affairs (Ms Bishop) to be in continuous, direct contact with the Russian Government to urge it to abide by the tribunal's ruling and help ensure that Australian citizen Colin Russell and the other 29 individuals no longer face these disproportionate charges and are permitted to return to their homes.
 
-",Senate,<title>MOTIONS</title>,<title>Arctic 30</title>,MOTIONS,9,1
+",Senate,<title>MOTIONS</title>,<title>Arctic 30</title>,MOTIONS,9,1,speech
 "Fifield, Sen Mitch",LP,2013-12-02,"
 
 
@@ -367,7 +424,7 @@ The Australian ambassador to Russia raised the case with a senior Russian foreig
 
 Question agreed to. 
 
-",Senate,<title>MOTIONS</title>,<title>Arctic 30</title>,MOTIONS,9,1
+",Senate,<title>MOTIONS</title>,<title>Arctic 30</title>,MOTIONS,9,1,speech
 "Milne, Sen Christine",AG,2013-12-02,"
 
 
@@ -391,7 +448,7 @@ That standing order 18 establishing the Committee of Privileges be amended as fo
 
 The DEPUTY PRESIDENT:  The question is that the motion moved by Senator Milne be agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Committee of Privileges</title>,COMMITTEES,10,1
+",Senate,<title>COMMITTEES</title>,<title>Committee of Privileges</title>,COMMITTEES,10,1,speech
 "Milne, Sen Christine",AG,2013-12-02,"
 
 
@@ -415,7 +472,7 @@ That standing order 18 establishing the Committee of Privileges be amended as fo
 
 The DEPUTY PRESIDENT:  The question is that the motion moved by Senator Milne be agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,10,2
+",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,10,2,speech
 "DEPUTY PRESIDENT, The",,2013-12-02,"
 
 
@@ -445,7 +502,7 @@ More than the number of senators required by the standing orders having risen in
 
 The DEPUTY PRESIDENT:  I understand that informal arrangements have been made to allocate specific times to each of the speakers in today's debate. With the concurrence of the Senate, I shall ask the clerks to set the clock accordingly.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Education Funding</title>,MATTERS OF URGENCY,11,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Education Funding</title>,MATTERS OF URGENCY,11,1,speech
 "Carr, Sen Kim",ALP,2013-12-02,"
 
 
@@ -498,7 +555,7 @@ There is the nonsense that it is just about the money. Of course it is not just 
 
 According to the Leader of the Government in the Senate today, there is no need for people to be worse off. What a firm commitment! What rock-solid guarantee is there? We know that this government treats everything as a political exercise. There is no commitment to the fundamental principles of equity. There is no commitment to the fundamental principles of ensuring prosperity for all the people of this country. It is about developing the partisan politics that we have seen in the past—the sectarian politics of the past. A government that did no work in opposition is now relying upon the failed and discredited policies of the Howard government. It is a government that has no commitment to the future of Australia but is all about trying to get past the next opinion poll, and on the basis of what? On the basis of some shoddy arrangements it made prior to the election. (Time expired)
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Education Funding</title>,MATTERS OF URGENCY,11,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Education Funding</title>,MATTERS OF URGENCY,11,1,speech
 "Ryan, Sen Scott",LP,2013-12-02,"
 
 
@@ -530,7 +587,7 @@ Labor has also complained about some other aspects of our agenda. We do want to 
 
 In 1964 the Menzies government started funding science labs. It started guaranteeing parents and families in Australia choice in education for their children. It is a core role of the Commonwealth parliament to guarantee that choice. It is something that those opposite have not been comfortable with. To hear complaints about how much the Catholic school system is getting takes me back to the days of Joan Kirner, takes me back to the days of Gough Whitlam—but that is Labor's agenda. It is about envy. It is about not liking choice. Today the Commonwealth government, Prime Minister Abbott and Minister Pyne, have guaranteed that the money that was promised to Australian students and families is going to be delivered, despite Labor's best attempts to take it off them.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Education Funding</title>,MATTERS OF URGENCY,11,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Education Funding</title>,MATTERS OF URGENCY,11,1,speech
 "Wright, Sen Penny",AG,2013-12-02,"
 
 
@@ -580,7 +637,7 @@ It is not just that the minister needs to uphold his pre-election commitment to 
 
 The Australian Greens are calling on the government to match what the previous government committed to, because we have to ensure that we invest in our students and all students in Australia so that no child's performance at school is dependent on wealth, power, income or possessions. We have to have a system in Australia so that every single kid can achieve their potential no matter where they live and whatever their background.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Education Funding</title>,MATTERS OF URGENCY,11,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Education Funding</title>,MATTERS OF URGENCY,11,1,speech
 "Stephens, Sen Ursula",ALP,2013-12-02,"
 
 
@@ -603,7 +660,7 @@ We have no idea of the details. When is an agreement an agreement? Mr Pyne last 
 
 I was quite taken with Senator Wright's contribution, because she really got to the nub of the issue of the problem that we have had with the SES funding model which Minister Pyne on Friday was quite wedded to—he has perhaps been a product of that system more generally and is most familiar with it—but it is not the view of his colleagues. In particular, I want to congratulate the Minister for Education in New South Wales, Adrian Piccoli, who really got to the nub of the issue when he said: 'We've got to invest in our children's education. We've got to invest in our education system. We've got to invest in bringing on new teachers. We have a retirement age cohort of teachers. We're going to be left with a significant gap, and the Gonski reforms, which were systemic reforms, are the ones that are going to deliver the issue.' I think we all want a guarantee that, regardless of this dodgy deal that was announced before question time, there will be equity, access and affordability in our education system in the future.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Education Funding</title>,MATTERS OF URGENCY,11,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Education Funding</title>,MATTERS OF URGENCY,11,1,speech
 "McKenzie, Sen Bridget",Nats,2013-12-02,"
 
 
@@ -675,7 +732,7 @@ In terms of the coalition's promises, we do want a system where we will put more
 
 We want a needs based model, we want it to be truly national and we want it to be fair. As a National Party senator I understand that geography does matter. Lines on a map, Senator Carr, do matter, and under your government our youth suffered too much— (Time expired)
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Education Funding</title>,MATTERS OF URGENCY,11,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Education Funding</title>,MATTERS OF URGENCY,11,1,speech
 "Lines, Sen Susan",ALP,2013-12-02,"
 
 
@@ -713,7 +770,7 @@ So where do we get to? We have now seen three different models over the last wee
 
 Perhaps the biggest criticism of this government comes from one of their own. I was at a meeting earlier this year with Adrian Piccoli where he proudly said to an audience of parents and students and others interested in public education, 'I've got three words to say: I got Gonski.' That is what he said in the Town Hall in Sydney in about March of this year. I heard him too decry this government as acting immorally. So carp at us all you like, but the critics of the government on what it is doing to the school system are not just Labor, it is the community, it is your own people, it is the education minister in New South Wales, Adrian Piccoli, who was proud to sign up to Gonski, who knew it would deliver well. He is your biggest critic.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Education Funding</title>,MATTERS OF URGENCY,11,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Education Funding</title>,MATTERS OF URGENCY,11,1,speech
 "Ruston, Sen Anne",LP,2013-12-02,"
 
 
@@ -739,7 +796,7 @@ In closing, what we are seeing here, with the changes that are being proposed by
 
 Question agreed to.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Education Funding</title>,MATTERS OF URGENCY,11,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Education Funding</title>,MATTERS OF URGENCY,11,1,speech
 "Fifield, Sen Mitch",LP,2013-12-02,"
 
 
@@ -747,7 +804,7 @@ Question agreed to.
 Senator FIFIELD
  (Victoria—Manager of Government Business in the Senate and Assistant Minister for Social Services) (16:48):  On behalf of the Minister for Infrastructure and Regional Development, Mr Truss, I table a ministerial statement on the Australian government's aviation safety regulation review.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Aviation Safety Regulation Review</title>,MINISTERIAL STATEMENTS,12,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Aviation Safety Regulation Review</title>,MINISTERIAL STATEMENTS,12,1,speech
 "Sterle, Sen Glenn",ALP,2013-12-02,"
 
 
@@ -785,7 +842,7 @@ Other challenges facing the industry include the proliferation of low-cost carri
 
 As I have said before, I welcome the minister's acknowledgement today that Australia's safety performance is among the best in the world, that it is built on a strong regulatory system and that we should do everything needed to maintain that. The opposition will follow the review and carefully consider its recommendations when they come forth in May next year. We hope that the minister will keep us updated on the progress of the review during the coming months.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Aviation Safety Regulation Review</title>,MINISTERIAL STATEMENTS,12,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Aviation Safety Regulation Review</title>,MINISTERIAL STATEMENTS,12,1,speech
 "Macdonald, Sen Ian",LP,2013-12-02,"
 
 
@@ -826,7 +883,7 @@ I was told often that one particular inspector would call upon a general aviatio
 
 I am not saying for a moment that everything complained of to me was accurate. I am not saying that the director and his staff were not good, professional people. All I am saying is that there were sufficient concerns raised with me by many, many constituents that did require the government to look seriously at the administration of safety in our country. Unfortunately, the previous government did not bite the bullet as far as this was concerned but I am pleased to see that Mr Truss, the current minister, has implemented this very wide-ranging aviation safety regulation review that can only work to the benefit of all Australians who use the airways to move around. As a result of this review, and hopefully further action by government, we will get an even better system of aviation safety regulation in Australia.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Aviation Safety Regulation Review</title>,MINISTERIAL STATEMENTS,12,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Aviation Safety Regulation Review</title>,MINISTERIAL STATEMENTS,12,1,speech
 "Moore, Sen Claire",ALP,2013-12-02,"
 
 
@@ -870,7 +927,7 @@ I know the purpose of the review is to look over the whole area and that is welc
 
 We welcome the review. We know that there will be regular reports back to this place so there will be the opportunity to talk about it and, of course, for the committee structure, Senator Sterle, to be engaged at every stage. I think that is an important aspect, we welcome it and we congratulate the new minister.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Aviation Safety Regulation Review</title>,MINISTERIAL STATEMENTS,12,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Aviation Safety Regulation Review</title>,MINISTERIAL STATEMENTS,12,1,speech
 "Ludwig, Sen Joe",ALP,2013-12-02,"
 
 
@@ -884,7 +941,7 @@ I will only take a moment of the Senate's time to reflect upon some of the more 
 
 Leave granted.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Aviation Safety Regulation Review</title>,MINISTERIAL STATEMENTS,12,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Aviation Safety Regulation Review</title>,MINISTERIAL STATEMENTS,12,1,speech
 "Moore, Sen Claire",ALP,2013-12-02,"
 
 
@@ -892,7 +949,7 @@ Leave granted.
 Senator MOORE
  (Queensland) (17:18):  by leave—I want to make a comment about documents that were presented in the chamber this morning by Senator Cash in response to the Senate order for the production of documents. We have had a short time to look at the documents and we have found that they are all available on the public record. They are transcripts that are on the public record. We point out that we do not believe this is in the spirit of the presentation of a response to a Senate order for the production of documents. We expected something more than we can get on the internet or in some other way. We are also concerned that we had no warning that these documents were to be presented this morning. I understand it is standard practice that when documents come into the chamber in response to an order that we are advised of that. It is an important thing to put on the record. Senator Cash, you moved very quickly out of the chamber this morning so I had no time to catch you at that time. I thank the indulgence of the Senate for allowing me to make that statement.
 
-",Senate,<title>DOCUMENTS</title>,<title>Asylum Seekers</title>,DOCUMENTS,13,1
+",Senate,<title>DOCUMENTS</title>,<title>Asylum Seekers</title>,DOCUMENTS,13,1,speech
 "Stephens, Sen Ursula (The ACTING DEPUTY PRESIDENT)",ALP,2013-12-02,"
 
 
@@ -983,7 +1040,7 @@ Foreign Affairs and Trade portfolio (received 21 November 2013).
 
 Prime Minister and Cabinet portfolio (received 21 November 2013).
 
-",Senate,<title>DOCUMENTS</title>,<title>Asylum Seekers</title>,DOCUMENTS,13,1
+",Senate,<title>DOCUMENTS</title>,<title>Asylum Seekers</title>,DOCUMENTS,13,1,speech
 "Moore, Sen Claire",ALP,2013-12-02,"
 
 
@@ -991,7 +1048,7 @@ Prime Minister and Cabinet portfolio (received 21 November 2013).
 Senator MOORE
  (Queensland) (17:18):  by leave—I want to make a comment about documents that were presented in the chamber this morning by Senator Cash in response to the Senate order for the production of documents. We have had a short time to look at the documents and we have found that they are all available on the public record. They are transcripts that are on the public record. We point out that we do not believe this is in the spirit of the presentation of a response to a Senate order for the production of documents. We expected something more than we can get on the internet or in some other way. We are also concerned that we had no warning that these documents were to be presented this morning. I understand it is standard practice that when documents come into the chamber in response to an order that we are advised of that. It is an important thing to put on the record. Senator Cash, you moved very quickly out of the chamber this morning so I had no time to catch you at that time. I thank the indulgence of the Senate for allowing me to make that statement.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,13,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,13,2,speech
 "Stephens, Sen Ursula (The ACTING DEPUTY PRESIDENT)",ALP,2013-12-02,"
 
 
@@ -1002,7 +1059,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Stephens
 ) (17:20):  I present a report on access to documents of the Joint Select Committee on an Australia Card.
 
-",Senate,<title>DOCUMENTS</title>,<title>Joint Select Committee on an Australia Card</title>,DOCUMENTS,15,1
+",Senate,<title>DOCUMENTS</title>,<title>Joint Select Committee on an Australia Card</title>,DOCUMENTS,15,1,speech
 "Lines, Sen Susan",ALP,2013-12-02,"
 
 
@@ -1043,7 +1100,7 @@ Safeguards and protocols exist, but, as the committee did not give many organisa
 
 I certainly would recommend the report to the parliament. Our work on that committee is not finished and we are seeking the opportunity to continue that work. I will leave those comments for later.
 
-",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,16,1
+",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,16,1,speech
 "Marshall, Sen Gavin",ALP,2013-12-02,"
 
 
@@ -1081,7 +1138,7 @@ So, if there are flaws with NAPLAN, what we seriously need to be doing is lookin
 
 I do recommend some of the issues that the committee recommended. I commend ACARA for working very well in trying to get the online marking process so that what results there are can be used by schools in a more useful way. But what the committee did conclude is that, given the time constraints in the last parliament, we did not have enough time to really do this issue justice. There is concern in the community, and I would encourage the Senate at some point to commence another inquiry to finish the work that the committee started in the last parliament. We want to hear from parents, we want to hear from the public, we want to hear from educators; we want to hear how we can make it better for policymakers. After all, we invest an enormous amount of money in our future and in our kids. We have an obligation and a responsibility to ensure that we get best value for that. That is so crucial to where we sit in a globalised world. Whether we maintain our prosperity or whether we do not, it all starts with education.
 
-",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,16,1
+",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,16,1,speech
 "Bilyk, Sen Catryna",ALP,2013-12-02,"
 
 
@@ -1147,7 +1204,7 @@ The DEPUTY PRESIDENT:  Order! The time for debate on the motion has expired.
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,16,1
+",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,16,1,speech
 "Lines, Sen Susan",ALP,2013-12-02,"
 
 
@@ -1188,7 +1245,7 @@ Safeguards and protocols exist, but, as the committee did not give many organisa
 
 I certainly would recommend the report to the parliament. Our work on that committee is not finished and we are seeking the opportunity to continue that work. I will leave those comments for later.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,16,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,16,2,speech
 "Marshall, Sen Gavin",ALP,2013-12-02,"
 
 
@@ -1226,7 +1283,7 @@ So, if there are flaws with NAPLAN, what we seriously need to be doing is lookin
 
 I do recommend some of the issues that the committee recommended. I commend ACARA for working very well in trying to get the online marking process so that what results there are can be used by schools in a more useful way. But what the committee did conclude is that, given the time constraints in the last parliament, we did not have enough time to really do this issue justice. There is concern in the community, and I would encourage the Senate at some point to commence another inquiry to finish the work that the committee started in the last parliament. We want to hear from parents, we want to hear from the public, we want to hear from educators; we want to hear how we can make it better for policymakers. After all, we invest an enormous amount of money in our future and in our kids. We have an obligation and a responsibility to ensure that we get best value for that. That is so crucial to where we sit in a globalised world. Whether we maintain our prosperity or whether we do not, it all starts with education.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,16,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,16,2,speech
 "Bilyk, Sen Catryna",ALP,2013-12-02,"
 
 
@@ -1292,7 +1349,7 @@ The DEPUTY PRESIDENT:  Order! The time for debate on the motion has expired.
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,16,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,16,2,speech
 "Bushby, Sen David",LP,2013-12-02,"
 
 
@@ -1303,7 +1360,7 @@ Senator BUSHBY
 
 Ordered that the reports be printed.
 
-",Senate,<title>COMMITTEES</title>,"<title>Education and Employment Legislation Committee, Environment and Communications Legislation Committee, Economics Legislation Committee</title>",COMMITTEES,22,1
+",Senate,<title>COMMITTEES</title>,"<title>Education and Employment Legislation Committee, Environment and Communications Legislation Committee, Economics Legislation Committee</title>",COMMITTEES,22,1,speech
 "Bushby, Sen David",LP,2013-12-02,"
 
 
@@ -1314,7 +1371,7 @@ Senator BUSHBY
 
 Ordered that the reports be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2,speech
 "Birmingham, Sen Simon",LP,2013-12-02,"
 
 
@@ -1355,4 +1412,4 @@ I want to work cooperatively with the South Australian government. I want to ens
 
 All of that said, I am pleased that the money is now going to flow. I will be holding the South Australian government to account from here on in as we make payments to them to ensure that they get it out the door quickly to support the irrigation communities of South Australia and that they get on with the job of ensuring that they get maximum value for it, communities get maximum benefit from it and it makes the necessary contributions to see the Basin Plan implemented and irrigation communities have a healthy and vibrant future.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Murray-Darling Basin</title>,ADJOURNMENT,24,1
+",Senate,<title>ADJOURNMENT</title>,<title>Murray-Darling Basin</title>,ADJOURNMENT,24,1,speech

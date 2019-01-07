@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Jenkins, Harry, MP",ALP,2011-09-12,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER:
   In accordance with standing order 41(g), and the determinations of the Selection Committee, I present copies of the terms of motions for which notice has been given by the members for Banks, Fowler and Oxley. These matters will be considered in the Main Committee later today.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Private Members' Motions</title>,PRIVATE MEMBERS' BUSINESS,0,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Private Members' Motions</title>,PRIVATE MEMBERS' BUSINESS,0,1,speech
 "Jenkins, Harry, MP",ALP,2011-09-12,"
 
 
@@ -14,7 +14,7 @@ The SPEAKER:
 The SPEAKER:
   In accordance with standing order 41(g), and the determinations of the Selection Committee, I present copies of the terms of motions for which notice has been given by the members for Banks, Fowler and Oxley. These matters will be considered in the Main Committee later today.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Reference to Main Committee</title>,PRIVATE MEMBERS' BUSINESS,0,2
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Reference to Main Committee</title>,PRIVATE MEMBERS' BUSINESS,0,2,speech
 "Fitzgibbon, Joel, MP",ALP,2011-09-12,"
 
 
@@ -46,7 +46,7 @@ Business Names Registration (Fees) Bill 2011.
 
 Question agreed to.
 
-",HoR,<title>BILLS</title>,"<title>Parliamentary Budget Office Bill 2011, Charter of Budget Honesty Amendment Bill 2011, Auditor-General Amendment Bill 2011, Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,1,1
+",HoR,<title>BILLS</title>,"<title>Parliamentary Budget Office Bill 2011, Charter of Budget Honesty Amendment Bill 2011, Auditor-General Amendment Bill 2011, Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,1,1,speech
 "Fitzgibbon, Joel, MP",ALP,2011-09-12,"
 
 
@@ -78,7 +78,7 @@ Business Names Registration (Fees) Bill 2011.
 
 Question agreed to.
 
-",HoR,<title>BILLS</title>,<title>Reference to Main Committee</title>,BILLS,1,2
+",HoR,<title>BILLS</title>,<title>Reference to Main Committee</title>,BILLS,1,2,speech
 "Murphy, John, MP",ALP,2011-09-12,"
 
 
@@ -86,7 +86,7 @@ Question agreed to.
 Mr MURPHY:
   Ministerial responses to petitions previously presented to the House have been received as follows:
 
-",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,2,2
+",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,2,2,speech
 "Perrett, Graham, MP",ALP,2011-09-12,"
 
 
@@ -121,7 +121,7 @@ The issues that the committee has raised are designed to enhance the reforms pro
 
 In closing, I thank all of the members of the Social Policy and Legal Affairs Committee, particularly the deputy chair, for their thorough approach to this inquiry, and thank all contributors to the inquiry and the wonderful secretariat under Dr Anna Dacre's leadership—especially Mei-Lin Wang, who provided specialist advice on the bill and who is here in the chamber today.
 
-",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,3,1
+",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,3,1,speech
 "Stone, Dr Sharman, MP",LP,2011-09-12,"
 
 
@@ -156,7 +156,7 @@ We also believe that, since these are significant changes to the current law, we
 
 Again let me stress that there was bipartisan supported approval of this bill, and we certainly commend it to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,3,1
+",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,3,1,speech
 "Perrett, Graham, MP",ALP,2011-09-12,"
 
 
@@ -191,7 +191,7 @@ The issues that the committee has raised are designed to enhance the reforms pro
 
 In closing, I thank all of the members of the Social Policy and Legal Affairs Committee, particularly the deputy chair, for their thorough approach to this inquiry, and thank all contributors to the inquiry and the wonderful secretariat under Dr Anna Dacre's leadership—especially Mei-Lin Wang, who provided specialist advice on the bill and who is here in the chamber today.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,3,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,3,2,speech
 "Stone, Dr Sharman, MP",LP,2011-09-12,"
 
 
@@ -226,7 +226,7 @@ We also believe that, since these are significant changes to the current law, we
 
 Again let me stress that there was bipartisan supported approval of this bill, and we certainly commend it to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,3,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,3,2,speech
 "Windsor, Tony, MP",Ind.,2011-09-12,"
 
 
@@ -273,7 +273,7 @@ Bill read a first time.
 The SPEAKER:
   In accordance with standing order 41(c), the second reading will be made an order of the day for the next sitting. 
 
-",HoR,<title>BILLS</title>,"<title>Environment Protection and Biodiversity Conservation Amendment (Mining, Petroleum and Water Resources) Bill 2011</title>",BILLS,4,1
+",HoR,<title>BILLS</title>,"<title>Environment Protection and Biodiversity Conservation Amendment (Mining, Petroleum and Water Resources) Bill 2011</title>",BILLS,4,1,speech
 "Windsor, Tony, MP",Ind.,2011-09-12,"
 
 
@@ -320,7 +320,7 @@ Bill read a first time.
 The SPEAKER:
   In accordance with standing order 41(c), the second reading will be made an order of the day for the next sitting. 
 
-",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>First Reading</title>,BILLS,4,2,speech
 "Zappia, Tony, MP",ALP,2011-09-12,"
 
 
@@ -400,7 +400,7 @@ Hon. BC Scott
 Ms Saffin:
   I second the motion.
 
-",HoR,<title>MOTIONS</title>,<title>Heavy Vehicle Regulation</title>,MOTIONS,5,1
+",HoR,<title>MOTIONS</title>,<title>Heavy Vehicle Regulation</title>,MOTIONS,5,1,speech
 "Chester, Darren, MP",Nats,2011-09-12,"
 
 
@@ -447,7 +447,7 @@ It is an important bit of feedback from the industry and something the governmen
 
 In conclusion, I briefly mention that I had a recent meeting in Lakes Entrance, in my electorate, with representatives from the South East Australian Transport Strategy. I commend the SEATS members for their ongoing advocacy work on behalf of their respective communities. They are taking very much a holistic view of the transport needs of their region. One of the key focuses of their work is the need to upgrade the Princes Highway in south-east Australia. This, as a policy position, is very close to my heart; it is also close to the hearts of many thousands of Gippslanders who have signed petitions, written letters and supported my efforts in this place. It is an issue that I have raised with the current Minister for Infrastructure and Transport and will continue to raise in the interests of road safety for all road users.
 
-",HoR,<title>MOTIONS</title>,<title>Heavy Vehicle Regulation</title>,MOTIONS,5,1
+",HoR,<title>MOTIONS</title>,<title>Heavy Vehicle Regulation</title>,MOTIONS,5,1,speech
 "Saffin, Janelle, MP",ALP,2011-09-12,"
 
 
@@ -467,7 +467,7 @@ I know what this means in New South Wales and Queensland because of the agricult
 
 There are a whole range of areas, but in the few seconds I have left I cannot go through them all. Heavy vehicle driver fatigue, counting time, access, oversize loads, log books, multiple dealings and one-stop shops will all be dealt with. (Time expired)
 
-",HoR,<title>MOTIONS</title>,<title>Heavy Vehicle Regulation</title>,MOTIONS,5,1
+",HoR,<title>MOTIONS</title>,<title>Heavy Vehicle Regulation</title>,MOTIONS,5,1,speech
 "Marino, Nola, MP",LP,2011-09-12,"
 
 
@@ -523,7 +523,7 @@ The DEPUTY SPEAKER
 Ms AE Burke
 ):  As the member's amendment is not in writing, signed and on the table, she leaves me in a precarious situation. I will advise that for an amendment to be considered it should be before the House so that everyone can actually read it. You cannot just spring it; it actually has to be in writing, signed and on the table. I will leave it with the clerks to determine how to go forward, but the common courtesy and the procedure is that it is on the table at the time.
 
-",HoR,<title>MOTIONS</title>,<title>Heavy Vehicle Regulation</title>,MOTIONS,5,1
+",HoR,<title>MOTIONS</title>,<title>Heavy Vehicle Regulation</title>,MOTIONS,5,1,speech
 "Neumann, Shayne, MP",ALP,2011-09-12,"
 
 
@@ -546,7 +546,7 @@ One of the things about this motion moved by the member for Makin is how he has 
 
 We are making a big difference here, and this will boost the national economy by $30 billion in the next 20 years. Cutting red tape will make a difference, and those opposite have constantly frustrated us. Even today, with a historic agreement made between Labor and Liberal governments at different levels, those opposite still have to politicise this. They cannot accept that Labor governments have a legitimate right to exist and to reform. We are reforming the economy. This is a very, very important measure that will improve efficiency, effectiveness and productivity in the economy. It will make a big difference to safety. It will also make a big difference to time, taking people off the road. It will make a big difference when people cross borders, because sitting there at the borders doing paperwork and red tape and dealing with those issues makes a difference to the lives of people. I support the motion. (Time expired)
 
-",HoR,<title>MOTIONS</title>,<title>Heavy Vehicle Regulation</title>,MOTIONS,5,1
+",HoR,<title>MOTIONS</title>,<title>Heavy Vehicle Regulation</title>,MOTIONS,5,1,speech
 "Tehan, Dan, MP",LP,2011-09-12,"
 
 
@@ -581,7 +581,7 @@ So, while the states and the COAG process have delivered some regulatory reform,
 
 Debate adjourned.
 
-",HoR,<title>MOTIONS</title>,<title>Heavy Vehicle Regulation</title>,MOTIONS,5,1
+",HoR,<title>MOTIONS</title>,<title>Heavy Vehicle Regulation</title>,MOTIONS,5,1,speech
 "Wilkie, Andrew, MP",Ind.,2011-09-12,"
 
 
@@ -598,7 +598,7 @@ In accordance with standing order 39(f) the report was made a parliamentary pape
 Mr WILKIE:
   by leave—In regard to the Poker Machine (Reduced Losses—Interim Measures) Bill 2010, the committee has decided to discharge this inquiry given the work undertaken in this area for the committee's first inquiry into the design and implementation of a mandatory precommitment system for electronic gaming machines. In regard to the Poker Machine Harm Reduction Tax (Administration) Bill 2008, the committee has decided to discharge this inquiry given the previous inquiry conducted by the Senate Standing Committee on Community Affairs and the bill's dependence on further legislation which has not yet been introduced.
 
-",HoR,<title>COMMITTEES</title>,<title>Gambling Reform Committee</title>,COMMITTEES,7,1
+",HoR,<title>COMMITTEES</title>,<title>Gambling Reform Committee</title>,COMMITTEES,7,1,speech
 "Wilkie, Andrew, MP",Ind.,2011-09-12,"
 
 
@@ -615,7 +615,7 @@ In accordance with standing order 39(f) the report was made a parliamentary pape
 Mr WILKIE:
   by leave—In regard to the Poker Machine (Reduced Losses—Interim Measures) Bill 2010, the committee has decided to discharge this inquiry given the work undertaken in this area for the committee's first inquiry into the design and implementation of a mandatory precommitment system for electronic gaming machines. In regard to the Poker Machine Harm Reduction Tax (Administration) Bill 2008, the committee has decided to discharge this inquiry given the previous inquiry conducted by the Senate Standing Committee on Community Affairs and the bill's dependence on further legislation which has not yet been introduced.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,7,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,7,2,speech
 "Hockey, Joe, MP",LP,2011-09-12,"
 
 
@@ -710,7 +710,7 @@ This range of issues leave the government's bill deeply flawed. The coalition be
 
 The establishment and management of a PBO is a key step in the enhancement of the quality of fiscal management and discussion. It is important that we get it right. The government's bill misses the mark in establishing a truly independent PBO which would have the powers that it needs to do its job. We are offering this House the chance to have truly landmark legislation in relation to a parliamentary budget office. Members should not assume that this will be a continuing, ongoing commitment. We offer this in good faith. Should the government, in partnership with the Independents, reject our submission, then I say again: we will not be party to a process that does not allow for a fair-dinkum discussion in relation to fiscal management. Should we be elected into government, we reserve our right to take a different approach to the Parliamentary Budget Office. Under our bill, the Parliamentary Budget Office would be powerful, it would be critical of governments—and, should we go into government, it would be critical of us. We are not afraid of economic scrutiny, we are not afraid of fiscal scrutiny and we are not afraid of criticism. But we are not going to set up a white elephant that simply duplicates the existing unsatisfactory arrangements. Therefore, this is a unique opportunity to get it right. I hope the Independents understand that and support our bill in preference to that of the government.
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,8,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,8,1,speech
 "Brodtmann, Gai, MP",ALP,2011-09-12,"
 
 
@@ -772,7 +772,7 @@ He also raised concerns about access to information. The government bill does al
 
 This bill does enhance the transparency and accountability of parliament. It does best reflect the needs of parliament. It does best reflect the needs of the Australian people. It does best serve the needs of the Australian people. It gives every member of this chamber and of the Senate access to appropriate analysis to ensure that everyone is properly informed and can debate the issues of this country correctly and truthfully. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,8,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,8,1,speech
 "Robb, Andrew, MP",LP,2011-09-12,"
 
 
@@ -870,7 +870,7 @@ Today it is revealed that they have plans to raid the Future Fund to the tune of
 
 This is $250 million, or whatever it is—a serious sum of money—and it is the thin edge of the wedge. If the PBO as structured in the opposition's bill, or as amended in this bill according to our amendments, were up and running, there would be a 'please explain'. Under this proposed PBO the office would not dare contradict the government of the day. This is structured to intimidate and politicise the process. It will effectively be an arm of Treasury unless the amendments that we have put up are accepted by the government. This bill is deeply flawed. It will perpetuate the political process. It needs to be amended or else we will not present our material at the next election. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,8,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,8,1,speech
 "Leigh, Andrew, MP",ALP,2011-09-12,"
 
 
@@ -929,7 +929,7 @@ A parliamentary budget office will be an important new institution. It will brin
 
 The Australian people put their trust in us. They expect us to be honest with them about the policies we intend to implement that impact on their lives. Our respect for them means they deserve nothing less than a government that is accountable and transparent in presenting what Alfred Deakin called 'its wise control of the economy'. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,8,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,8,1,speech
 "Billson, Bruce, MP",LP,2011-09-12,"
 
 
@@ -991,7 +991,7 @@ There are even some issues around the work that can be carried out. The irony he
 
 I think this is a great idea turned into a mess and a sham by an incompetent government—and haven't we seen that before? The best thing this parliament can do is make sure it has a genuine parliamentary budget office modelled on the successful and universally acclaimed Congressional Budget Office, with all the powers and opportunities to contribute to the good governance of the country, not a nobbled-down parliamentary budget office that is only there for the best interests and good governance of a bad Labor government. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,8,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,8,1,speech
 "Mitchell, Rob, MP",ALP,2011-09-12,"
 
 
@@ -1053,7 +1053,7 @@ That is why it is important to ensure that we are fiscally responsible. That is 
 
 We have put more than 185 bills through this place—more than the previous government could ever have managed. All of these Gillard Labor government achievements, policies and plans have been fully costed, unlike those of the opposite side, who are now running scared of any independent scrutiny of their financial management. Plagued with self-interest, the Leader of the Opposition is a risk to all Australians and a risk to the Liberal Party. No-one can take him seriously; no-one ever will take him seriously. That is why it is important this bill has a speedy passage so that by the next election those opposite will be forced to stand up and account for all the dollars they commit in their promises.
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,8,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,8,1,speech
 "Laming, Andrew, MP",LP,2011-09-12,"
 
 
@@ -1070,7 +1070,7 @@ The DEPUTY SPEAKER
 Hon. Peter Slipper
 ):  Order! It being 1.45, the debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour.
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,8,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,8,1,speech
 "Hockey, Joe, MP",LP,2011-09-12,"
 
 
@@ -1165,7 +1165,7 @@ This range of issues leave the government's bill deeply flawed. The coalition be
 
 The establishment and management of a PBO is a key step in the enhancement of the quality of fiscal management and discussion. It is important that we get it right. The government's bill misses the mark in establishing a truly independent PBO which would have the powers that it needs to do its job. We are offering this House the chance to have truly landmark legislation in relation to a parliamentary budget office. Members should not assume that this will be a continuing, ongoing commitment. We offer this in good faith. Should the government, in partnership with the Independents, reject our submission, then I say again: we will not be party to a process that does not allow for a fair-dinkum discussion in relation to fiscal management. Should we be elected into government, we reserve our right to take a different approach to the Parliamentary Budget Office. Under our bill, the Parliamentary Budget Office would be powerful, it would be critical of governments—and, should we go into government, it would be critical of us. We are not afraid of economic scrutiny, we are not afraid of fiscal scrutiny and we are not afraid of criticism. But we are not going to set up a white elephant that simply duplicates the existing unsatisfactory arrangements. Therefore, this is a unique opportunity to get it right. I hope the Independents understand that and support our bill in preference to that of the government.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2,speech
 "Brodtmann, Gai, MP",ALP,2011-09-12,"
 
 
@@ -1227,7 +1227,7 @@ He also raised concerns about access to information. The government bill does al
 
 This bill does enhance the transparency and accountability of parliament. It does best reflect the needs of parliament. It does best reflect the needs of the Australian people. It does best serve the needs of the Australian people. It gives every member of this chamber and of the Senate access to appropriate analysis to ensure that everyone is properly informed and can debate the issues of this country correctly and truthfully. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2,speech
 "Robb, Andrew, MP",LP,2011-09-12,"
 
 
@@ -1325,7 +1325,7 @@ Today it is revealed that they have plans to raid the Future Fund to the tune of
 
 This is $250 million, or whatever it is—a serious sum of money—and it is the thin edge of the wedge. If the PBO as structured in the opposition's bill, or as amended in this bill according to our amendments, were up and running, there would be a 'please explain'. Under this proposed PBO the office would not dare contradict the government of the day. This is structured to intimidate and politicise the process. It will effectively be an arm of Treasury unless the amendments that we have put up are accepted by the government. This bill is deeply flawed. It will perpetuate the political process. It needs to be amended or else we will not present our material at the next election. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2,speech
 "Leigh, Andrew, MP",ALP,2011-09-12,"
 
 
@@ -1384,7 +1384,7 @@ A parliamentary budget office will be an important new institution. It will brin
 
 The Australian people put their trust in us. They expect us to be honest with them about the policies we intend to implement that impact on their lives. Our respect for them means they deserve nothing less than a government that is accountable and transparent in presenting what Alfred Deakin called 'its wise control of the economy'. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2,speech
 "Billson, Bruce, MP",LP,2011-09-12,"
 
 
@@ -1446,7 +1446,7 @@ There are even some issues around the work that can be carried out. The irony he
 
 I think this is a great idea turned into a mess and a sham by an incompetent government—and haven't we seen that before? The best thing this parliament can do is make sure it has a genuine parliamentary budget office modelled on the successful and universally acclaimed Congressional Budget Office, with all the powers and opportunities to contribute to the good governance of the country, not a nobbled-down parliamentary budget office that is only there for the best interests and good governance of a bad Labor government. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2,speech
 "Mitchell, Rob, MP",ALP,2011-09-12,"
 
 
@@ -1508,7 +1508,7 @@ That is why it is important to ensure that we are fiscally responsible. That is 
 
 We have put more than 185 bills through this place—more than the previous government could ever have managed. All of these Gillard Labor government achievements, policies and plans have been fully costed, unlike those of the opposite side, who are now running scared of any independent scrutiny of their financial management. Plagued with self-interest, the Leader of the Opposition is a risk to all Australians and a risk to the Liberal Party. No-one can take him seriously; no-one ever will take him seriously. That is why it is important this bill has a speedy passage so that by the next election those opposite will be forced to stand up and account for all the dollars they commit in their promises.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2,speech
 "Laming, Andrew, MP",LP,2011-09-12,"
 
 
@@ -1525,7 +1525,7 @@ The DEPUTY SPEAKER
 Hon. Peter Slipper
 ):  Order! It being 1.45, the debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,8,2,speech
 "Frydenberg, Josh, MP",LP,2011-09-12,"
 
 
@@ -1539,7 +1539,7 @@ While the BDS seeks to damage cultural, economic and political ties with the Jew
 
 Israel is a beacon of democracy in the troubled Middle East. Its security is under threat from a radicalised Egypt, an irredentist Turkey and an emboldened Iran. Israel needs the support of its enduring allies and friends like Australia more than ever. So it is time the Greens stood up against the BDS and the Labor Party stopped vacillating over the upcoming vote at the United Nations on the Palestinian unilateral declaration of independence. Israel will survive these trying times and, when it does, it will no doubt remember who was there when it counted.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Middle East</title>,STATEMENTS BY MEMBERS,9,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Middle East</title>,STATEMENTS BY MEMBERS,9,1,speech
 "Gillard, Julia, MP",ALP,2011-09-12,"
 
 
@@ -1562,7 +1562,7 @@ In the decade since the attacks, we have had no more steadfast partner than Aust
 
 I bring those words to the House because I believe they are important words of reflection on the bond between us and our friends in the United States of America. They are also important words of reflection on our shared resolve to keep combating terrorism in Afghanistan, ensuring that it is no longer a safe haven for terrorists and doing what we need to do in this country to keep our people safe and secure. I table the letter.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>United States of America: Terrorist Attacks</title>,STATEMENTS ON INDULGENCE,10,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>United States of America: Terrorist Attacks</title>,STATEMENTS ON INDULGENCE,10,1,speech
 "Abbott, Tony, MP",LP,2011-09-12,"
 
 
@@ -1614,7 +1614,182 @@ That further statements on indulgence on the 10th anniversary of terrorist attac
 
 Question agreed to. 
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>United States of America: Terrorist Attacks</title>,STATEMENTS ON INDULGENCE,10,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>United States of America: Terrorist Attacks</title>,STATEMENTS ON INDULGENCE,10,1,speech
+"Abbott, Tony, MP",LP,2011-09-12,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:13):  My question is to the Prime Minister. Does the Prime Minister stand by her pre-election commitment that she would never send boat people to any country that had not signed the UN convention on refugees?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,12,1,question
+"Abbott, Tony, MP",LP,2011-09-12,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:18):  Mr Speaker, I have a supplementary question for the Prime Minister. Given that Nauru has signed the refugee convention and Malaysia has not, why is the Prime Minister persisting with a policy that has been rejected by the High Court—and many in her own party—and which offends every principle that she has ever espoused? Further, why didn't the Prime Minister talk to the President of Nauru, when she sat next to him last week, about re-opening the Nauru detention centre that is the one proven success in the fight to stop the boats?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,12,1,question
+"Gillard, Julia, MP",ALP,2011-09-12,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:13):  To the Leader of the Opposition's question I say that, as usual, he has missed the point. The point before this parliament today, and what the Leader of the Opposition needs to answer as a test of leadership, is whether he will join with the government in amending the Migration Act so that the government can pursue its determined arrangement with Malaysia to transfer asylum seekers. That is the question before the parliament today. 
+
+
+Coming into the parliament today, I did expect to see these kinds of tactics from the opposition, because the Leader of the Opposition has to face up to a test—whether or not he is just full of slogans and sound bites or whether he will take seriously questions of Australia's national security. That is the key question after the High Court case: whether or not the Leader of the Opposition will pursue a strategy to wreck in his political interest or whether he will seek to work in the national interest. That is before the parliament for consideration and something the Leader of the Opposition needs to answer.
+
+
+On the question of refugee signatory countries, as the Leader of the Opposition is well aware, the government has entered into an arrangement with Malaysia. And in entering into that arrangement we have negotiated—
+
+
+
+
+Mr Pyne:
+  Mr Speaker, on a point of order: on three occasions in this answer the Prime Minister has tried to redefine the question she was asked. It was a very straightforward question: does she stand by the commitment she made before the last election not to send boat people to any other country that had not signed the refugee convention? That is the question that the whole parliament and the country wants an answer to.
+
+
+
+
+The SPEAKER:
+  Order! The Prime Minister must directly relate her response to the question.
+
+
+
+
+Ms GILLARD:
+  Thank you very much, Mr Speaker. In direct answer to the question: as the Leader of the Opposition is well aware, the government has negotiated an arrangement with Malaysia where the refugee convention obligations this nation has freely assumed will be honoured in respect of the people that we transfer. This is the arrangement, which we have the most clear advice from experts within the Public Service, that will act as the clearest possible deterrent for people smugglers.
+
+
+I say to the Leader of the Opposition who asked this question: I detect hypocrisy here. This is the Leader of the Opposition who, during the election campaign, said his policy, if he were Prime Minister, would be a 'boat phone'—that is, he would make calls to patrol boats as he sat at the Lodge or Kirribilli requiring them to turn boats around. He knew that was not possible, but he was pretending to the Australian people that he would tow those boats back to Indonesia, which is not signatory to the refugee convention. As to the outcome for the people on those boats, he was never going to worry himself about that.
+
+
+So the Leader of the Opposition in the last election campaign marketed a sham policy behind a three-word slogan. If he had been able to implement it, it would have taken asylum seekers to a non-refugee convention signatory country with no protections. The issue now, post the High Court case, is: will the Leader of the Opposition finally deal with the facts of this policy debate and will he ensure, by working with the government to amend the Migration Act, that the government of the day can make the decisions it needs to make to have asylum seekers processed offshore or will he just go on wrecking? This is the test for the Leader of the Opposition.
+
+
+
+Mr Randall interjecting—
+
+
+
+
+Mr Albanese:
+  Mr Speaker, on a point of order: I ask that the member for Canning withdraw his interjections. 
+
+
+
+
+The SPEAKER:
+  Order! I am unaware of what the member for Canning has said, but usually when somebody has risen to their feet with an objection, it is an indication to me that something may have been said that deserves withdrawal, and it may assist the House if the member for Canning withdraws.
+
+
+
+
+Mr Randall:
+  I withdraw.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,12,1,answer
+"Gillard, Julia, MP",ALP,2011-09-12,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:19):  To the Leader of the Opposition I say this: we made available to him a briefing so he could get the facts. He has the facts now. He has the facts from the experts who also served the Howard government. Coming into this parliament and trying to twist the truth just will not cut it. Those experts who sat with the Leader of the Opposition advised him that Nauru will not work. That is what they told him and he screams, 'Give it a go!' He has been told by the best advice available to government that Nauru will not work. He has been told by the best advice available to government that it will cost hundreds and hundreds of millions of dollars. So the policy proposition he is now putting before the Australian people is that he will rip money off Australian taxpayers to fund a solution that experts have told him will not work. Those same experts told him that Malaysia will send a hard-hitting deterrence message. You cannot have it more simply than that. It is clear that Malaysia will send a powerful message to smash the people-smugglers' business model. It is clear that Nauru will not work. 
+
+
+I say to the Leader of the Opposition that, just as he does when he is dealing with climate change, it may be that he wants to go before the Australian people and argue in the face of expert advice. He does that with climate change, where he says, 'Don't listen to the scientists.' He does it with climate change where he says, 'Don't listen to the economists.' And now in this area of policy he may well be saying to the Australian people that he rejects out-of-hand the advice of the Ambassador for People Smuggling Issues, the advice of the secretary of the department of immigration. That is a matter for him. He can go and argue that in the Australian community. What he ought not to do is to come to this parliament and not support legislation which would put executive government in the position of being able to make its best decisions about offshore processing.
+
+
+I freely accept that there is a difference between me and the Leader of the Opposition. I have absorbed the facts and the advice and I am acting on them. Those facts and that advice spell out to me that we must do the Malaysia arrangement. The Leader of the Opposition, in denial of the facts, in denial of the advice, insists on Nauru. That is as it may be, but the proposition that will come before this parliament will be a proposition that will put executive government in the position to implement the policy that it wants to implement. We will implement Malaysia; we will implement a complementary centre in PNG. If the Leader of the Opposition is ever Prime Minister of this country then he can implement Nauru. But what he should not do, and this is the test for him, is to deny executive government the legislative authority to make that decision. Ironically, if he goes down that path of wrecking and denying the national interest, he is actually going down a path which would deny any future Liberal government, if it were ever elected, the ability to implement the solution it argues for. It is this point of national interest that the Leader of the Opposition must answer.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,12,1,answer
+"Neumann, Shayne, MP",ALP,2011-09-12,"
+
+
+
+Mr NEUMANN
+ (Blair) (14:24):  My question is to the Prime Minister. Will the Prime Minister outline for the House what steps the government is taking to combat people smuggling?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,14,1,question
+"Gillard, Julia, MP",ALP,2011-09-12,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:25):  I thank the member for Blair for his question. As the House is aware and the member for Blair is aware, the government determined a number of months ago to commence negotiations with Malaysia. We did that because we wanted to have a policy with the maximum deterrence effect. We wanted to have a policy that would work to smash the people smugglers' business model—a policy that would work to deter people from getting on leaky boats and potentially losing their lives at sea; a policy that would build on what was achieved in the regional forum at Bali; a policy that would make possible bringing 4,000 more genuine refugees to this country from Malaysia, many of them people who would have waited years and years for an opportunity for a new start and a new life; a policy so that we would not see people losing their lives, but we would smash the people smugglers' business model and take more genuine refugees. That was the right policy then and it is the right policy now.
+
+
+In order to implement that policy, given the view taken by the High Court, we are determined to come to this parliament and seek to amend the Migration Act. The amendment that we bring to this parliament will be a broad amendment. It will enable this government, as it will enable any government in the future, to implement the policies and plans it believes best in relation to offshore processing. I understand that there is a difference between the government and the opposition on which policy and plan is the best one. The opposition has determined to support as its primary policy a processing centre in Nauru. That is despite the fact that we have clear advice that a centre in Nauru will not work. That is despite the fact that we have clear advice about the hundreds of millions of dollars of cost. That is in defiance of the advice that says people smugglers now know, because of processing on Nauru in the past, that people come from Nauru to this country. People smugglers now know that, of the people who were processed and resettled from Nauru, more than 90 per cent of them came to Australia, and so they are able to say to asylum seekers, whom they seek to prey upon and whose money they want to take, 'If you go to Nauru, you will get to Australia.' I want to send a very different message. I want to send a message which says, 'If you get on a boat then you will go to Malaysia.'
+
+
+We have made a different decision from the opposition, based on facts, based on advice and based on reality. We are not out there trying to pretend that black is white the way that the Leader of the Opposition is. That debate can continue but what is vitally needed in the national interest is putting the Migration Act in a form that puts executive government in the position it believed itself to be prior to the High Court case—that is, that it can implement decisions as it sees fit about offshore processing. We await to hear from the Leader of the Opposition, in this vital area of national interest, whether he will continue with sound bites and slogans or whether he will stump up and work with the government on a solution to the legislative issues that we face as a nation following the High Court case. We await the answer.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,14,1,answer
+"O'Neill, Deb, MP",ALP,2011-09-12,"
+
+
+
+Ms O'NEILL
+ (Robertson) (14:31):  My question is to the Minister for Immigration and Citizenship. What is the most effective deterrent the government can put in place to deter people smuggling and irregular migration to Australia? What other options have been put forward and what would their impact be?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,16,1,question
+"Bowen, Chris, MP",ALP,2011-09-12,"
+
+
+
+Mr BOWEN
+ (McMahon—Minister for Immigration and Citizenship) (14:31):  I thank the honourable member for Robertson for her question. The answer to the question is that the most effective deterrent for people smuggling is the arrangement negotiated between Australia and Malaysia.
+
+
+The advice received by this government has been made available to the opposition. That advice is clear. The advice is that to break the people smugglers' business model you have to take away the product they sell. That advice says—
+
+
+
+Opposition members interjecting—
+
+
+
+
+The SPEAKER:
+  Order! The Minister for Immigration and Citizenship is not necessarily the hardest person to hear in this chamber, but on this occasion there was so much other noise it was difficult to hear even his voice. The chamber will remain silent. The minister has the call; he will be heard in silence.
+
+
+
+
+Mr BOWEN:
+  The advice is clear. The advice has been made available to the opposition. That advice is that to break the people smugglers' business model it is necessary to remove the product they sell. The product they sell is a better chance of resettlement in Australia. Well over 80 per cent of the people who arrive in Australia by boat begin that boat journey from Malaysia. The most important and clearest message we can send is to return them to where they began that boat journey—not to Nauru, where they will be processed and the vast majority resettled in Australia. This is an arrangement which was been negotiated with Malaysia in consultation with the UNHCR. It involves an increase in our refugee intake and improved protection outcomes across the region.
+
+
+The very clear advice has now been made available to the Leader of the Opposition. We know the Leader of the Opposition is not big on experts. He does not like climate change experts, he does not like legal experts, he does not like experts when it comes to people smuggling. But the advice has been made clear: an outcome which involves Nauru alone, which would involve over 90 per cent of the people who are resettled from Nauru being resettled in Australia or New Zealand, is no disincentive at all.
+
+
+We know Nauru will not work. We also know that it is an expensive option. The member for Cook said earlier this year that Nauru would cost 'significantly less' than the Malaysia arrangement. The opposition leader said that Nauru could be up and running 'at a relatively low cost'. We know costings are not their strong point but they got this one particularly wrong, because advice released by me on the weekend shows my department's estimate of the cost of a detention facility at Nauru over four years at just under $1 billion.
+
+
+
+Mr Simpkins interjecting—
+
+
+
+
+The SPEAKER:
+  The member for Cowan is warned!
+
+
+
+
+Mr BOWEN:
+  If you disagree with that, release your own costings. If the opposition do not agree with that they are free to release their own costings, but I doubt we will see that. This is just the operational cost, not the capital cost. Here is a test for the Leader of the Opposition. Last week the Leader of the Opposition said: 
+
+
+I think that our country should have the best border protection policy that the government of the day thinks that it needs and I’m prepared to work constructively to give the Government, to restore to the Government, the option of third country offshore processing which it says the High Court and the Solicitor-General have denied to it.
+
+
+The situation is clear. The government believes that it needs the Malaysia arrangement. If the Leader of the Opposition is good to his word and is prepared to work for the national interest he will support legislation to enable the government to break the people smugglers' business model by the arrangement with Malaysia. 
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,16,1,answer
 "McClelland, Robert, MP",ALP,2011-09-12,"
 
 
@@ -1734,7 +1909,7 @@ That so much of the standing and sessional orders be suspended as would prevent 
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>United States of America: Terrorist Attacks</title>,MINISTERIAL STATEMENTS,21,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>United States of America: Terrorist Attacks</title>,MINISTERIAL STATEMENTS,21,1,speech
 "Keenan, Michael, MP",LP,2011-09-12,"
 
 
@@ -1781,7 +1956,7 @@ It is important that we remember that no terrorist act large or small will weake
 (Quorum formed)
 
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>United States of America: Terrorist Attacks</title>,MINISTERIAL STATEMENTS,21,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>United States of America: Terrorist Attacks</title>,MINISTERIAL STATEMENTS,21,1,speech
 "D'Ath, Yvette, MP",ALP,2011-09-12,"
 
 
@@ -1873,7 +2048,7 @@ The fact is the bill makes provision, consistent with the recommendations, for c
 
 They do not ever again want to have their black holes shown up in relation to budget shortfalls or anything else. The fact is that the public have a right to know. The government is more than happy to put its costings up in relation to its publicly announced policies, as should the opposition. They should stop trying to use this bill, and their private member's bill, as a way of getting around that. This is not an opportunity. They should stand by what Mr Costello said when he introduced the Charter of Budget Honesty and looked at this area. He said that it is important to have this part of public policy be transparent. It should go on indefinitely. It does not matter who is in government it should be the practice that these costings are publicly released.
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,22,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,22,1,speech
 "Briggs, Jamie, MP",LP,2011-09-12,"
 
 
@@ -1947,7 +2122,7 @@ The third area where we seek to improve this bill in a substantial way is by res
 
 This is a good idea. This is an idea which is well over its time. The former Leader of the Opposition, the member for Wentworth, first proposed this. It is not a new idea. It happens in the United States with the Congressional Budget Office. I am pleased that the Independents in their negotiations put emphasis on this idea, and I think it is something we should be putting in place. But this is flawed in three significant ways, and we can improve this bill. We can improve it not just for those of us who are currently occupying the seats that we do in the parliament but for all the Australian people and for the benefit of decent economic reform for our country for the future. I urge the government to think about, to take on board and to consider the amendments we have put in place, because they are good amendments to what is a good piece of legislation.
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,22,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,22,1,speech
 "Oakeshott, Robert, MP",Ind.,2011-09-12,"
 
 
@@ -2009,7 +2184,7 @@ Mr Hunt:
 Mr OAKESHOTT:
   I will finish. We seem to be hearing the suggestion that this is some sort of sleight of hand by the government to stitch up the opposition in election time. That is not the case. This has been through a thorough process with coalition members, crossbenchers, the Greens and the government. I hope that is now reflected by broad support for this bill, with amendments being withdrawn and the private member's bill also being withdrawn, and that we allow this office to have the gravitas that it deserves to do the job on behalf of all of us so that we get the best possible policy with the best possible advice from the PBO that we seek.
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,22,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,22,1,speech
 "Fletcher, Paul, MP",LP,2011-09-12,"
 
 
@@ -2053,7 +2228,7 @@ The third point I wish to make in the time remaining to me is that the approach 
 
 The issue before the House is not the principle; we are all in support of the principle of a parliamentary budget office. The issue is the specific deficiencies in the bill before the House. The coalition has brought forward changes to correct those deficiencies. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,22,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,22,1,speech
 "Stone, Dr Sharman, MP",LP,2011-09-12,"
 
 
@@ -2085,7 +2260,7 @@ I have to say that this particular PBO—parliamentary budget office—is an exc
 
 We believe that a good PBO is part of good government, and we feel that this is an incredible example of how this government fails to understand the basics of proper budgeting, of proper ethical behaviour in the Westminster system and of the opposition's right and democracy's need to have a strong, well-informed opposition. I strongly recommend the government consider very carefully the amendments which we will be putting and also the private member's bill which now may be rushed out of the way by the government's bill. The PBO as proposed is just not good enough for a country like Australia.
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,22,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,22,1,speech
 "O'Dwyer, Kelly, MP",LP,2011-09-12,"
 
 
@@ -2156,7 +2331,7 @@ These are a number of aspects of key differences between the proposal that has b
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,22,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,22,1,speech
 "D'Ath, Yvette, MP",ALP,2011-09-12,"
 
 
@@ -2248,7 +2423,7 @@ The fact is the bill makes provision, consistent with the recommendations, for c
 
 They do not ever again want to have their black holes shown up in relation to budget shortfalls or anything else. The fact is that the public have a right to know. The government is more than happy to put its costings up in relation to its publicly announced policies, as should the opposition. They should stop trying to use this bill, and their private member's bill, as a way of getting around that. This is not an opportunity. They should stand by what Mr Costello said when he introduced the Charter of Budget Honesty and looked at this area. He said that it is important to have this part of public policy be transparent. It should go on indefinitely. It does not matter who is in government it should be the practice that these costings are publicly released.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Briggs, Jamie, MP",LP,2011-09-12,"
 
 
@@ -2322,7 +2497,7 @@ The third area where we seek to improve this bill in a substantial way is by res
 
 This is a good idea. This is an idea which is well over its time. The former Leader of the Opposition, the member for Wentworth, first proposed this. It is not a new idea. It happens in the United States with the Congressional Budget Office. I am pleased that the Independents in their negotiations put emphasis on this idea, and I think it is something we should be putting in place. But this is flawed in three significant ways, and we can improve this bill. We can improve it not just for those of us who are currently occupying the seats that we do in the parliament but for all the Australian people and for the benefit of decent economic reform for our country for the future. I urge the government to think about, to take on board and to consider the amendments we have put in place, because they are good amendments to what is a good piece of legislation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Oakeshott, Robert, MP",Ind.,2011-09-12,"
 
 
@@ -2384,7 +2559,7 @@ Mr Hunt:
 Mr OAKESHOTT:
   I will finish. We seem to be hearing the suggestion that this is some sort of sleight of hand by the government to stitch up the opposition in election time. That is not the case. This has been through a thorough process with coalition members, crossbenchers, the Greens and the government. I hope that is now reflected by broad support for this bill, with amendments being withdrawn and the private member's bill also being withdrawn, and that we allow this office to have the gravitas that it deserves to do the job on behalf of all of us so that we get the best possible policy with the best possible advice from the PBO that we seek.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Fletcher, Paul, MP",LP,2011-09-12,"
 
 
@@ -2428,7 +2603,7 @@ The third point I wish to make in the time remaining to me is that the approach 
 
 The issue before the House is not the principle; we are all in support of the principle of a parliamentary budget office. The issue is the specific deficiencies in the bill before the House. The coalition has brought forward changes to correct those deficiencies. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Stone, Dr Sharman, MP",LP,2011-09-12,"
 
 
@@ -2460,7 +2635,7 @@ I have to say that this particular PBO—parliamentary budget office—is an exc
 
 We believe that a good PBO is part of good government, and we feel that this is an incredible example of how this government fails to understand the basics of proper budgeting, of proper ethical behaviour in the Westminster system and of the opposition's right and democracy's need to have a strong, well-informed opposition. I strongly recommend the government consider very carefully the amendments which we will be putting and also the private member's bill which now may be rushed out of the way by the government's bill. The PBO as proposed is just not good enough for a country like Australia.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "O'Dwyer, Kelly, MP",LP,2011-09-12,"
 
 
@@ -2531,7 +2706,7 @@ These are a number of aspects of key differences between the proposal that has b
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Albanese, Anthony, MP",ALP,2011-09-12,"
 
 
@@ -2701,7 +2876,7 @@ That so much of the standing orders be suspended as would prevent Mr Truss speak
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Shipping</title>,MINISTERIAL STATEMENTS,23,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Shipping</title>,MINISTERIAL STATEMENTS,23,1,speech
 "Truss, Warren, MP",Nats,2011-09-12,"
 
 
@@ -2751,7 +2926,7 @@ The coalition is committed to reform which will revitalise the Australian shippi
 
 I welcome the fact that the minister has reported on this issue to the parliament but we look forward to hearing much more about the detail of the various proposals so that they can be assessed fairly on the basis of all of the facts.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Shipping</title>,MINISTERIAL STATEMENTS,23,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Shipping</title>,MINISTERIAL STATEMENTS,23,1,speech
 "Secker, Patrick, MP",LP,2011-09-12,"
 
 
@@ -2825,7 +3000,7 @@ The last difference I would like to highlight relates to the confidentiality of 
 
 The government has certainly made it a lot harder for oppositions. It is providing less information and, frankly, it is a sham compared to what the coalition is putting forward for a parliamentary budget officer. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,24,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,24,1,speech
 "Turnbull, Malcolm, MP",LP,2011-09-12,"
 
 
@@ -2887,7 +3062,7 @@ Another issue that I know the shadow Treasurer spoke about earlier today at grea
 
 After all, the objective here is not political game playing; the objective here is to give greater financial and economic resources to the parliament, which in large measure means the opposition, Independents and minor parties, so that the parliament can do a better job of holding the government to account. This is a vital reform to our democracy and what the government is proposing is simply not good enough. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,24,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,24,1,speech
 "Tehan, Dan, MP",LP,2011-09-12,"
 
 
@@ -2943,7 +3118,7 @@ I make one last point before concluding. Sadly, the Charter of Budget Honesty ha
 
 We need a parliamentary budget office to hold this government's rapid expenditure to account. That is what we have proposed in the bill that we have put forward. It is a better bill because of its confidential and independent nature. I would ask the Treasurer to eat humble pie and do what is in the best interests of the Australian nation by going for the type of parliamentary budget office that we have put forward, which will be confidential and independent in nature.
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,24,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,24,1,speech
 "Morrison, Scott, MP",LP,2011-09-12,"
 
 
@@ -3020,7 +3195,7 @@ The American Congressional Budget Office employs about 250 people. It operates a
 
 It is true that Australia's democratic traditions and history have taken a different path to those of the United States, but quite clearly the Congressional Budget Office provides the benchmark which we would seek to emulate, and that is what the coalition's amendments are geared towards. So I would implore the government to get serious about having a fair dinkum parliamentary budget office and not go along with this corruption of the process, which they seem to wallow in on so many occasions, and so happily, to avoid the transparency and scrutiny that is proper for a democracy of our standing. I urge the government to reconsider and live up to at least one expectation of this parliament and deliver a fair dinkum, independent Commonwealth parliamentary budget office.
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,24,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,24,1,speech
 "Kelly, Craig, MP",LP,2011-09-12,"
 
 
@@ -3067,7 +3242,7 @@ The coalition's model is in line with global moves towards greater transparency 
 
 I call on members of the government and the Independents to look beyond the next election. Rather than think about short-term political objectives, think about what is best for the future of this country and this parliament. Do that by either supporting the coalition's alternative bill or at least supporting the amendments, as these are the only ways we can ensure that this parliament has a truly independent and effective parliamentary budget office.
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,24,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,24,1,speech
 "Swan, Wayne, MP",ALP,2011-09-12,"
 
 
@@ -3111,7 +3286,7 @@ Mr S Sidebottom
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,24,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,24,1,speech
 "Secker, Patrick, MP",LP,2011-09-12,"
 
 
@@ -3185,7 +3360,7 @@ The last difference I would like to highlight relates to the confidentiality of 
 
 The government has certainly made it a lot harder for oppositions. It is providing less information and, frankly, it is a sham compared to what the coalition is putting forward for a parliamentary budget officer. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Turnbull, Malcolm, MP",LP,2011-09-12,"
 
 
@@ -3247,7 +3422,7 @@ Another issue that I know the shadow Treasurer spoke about earlier today at grea
 
 After all, the objective here is not political game playing; the objective here is to give greater financial and economic resources to the parliament, which in large measure means the opposition, Independents and minor parties, so that the parliament can do a better job of holding the government to account. This is a vital reform to our democracy and what the government is proposing is simply not good enough. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Tehan, Dan, MP",LP,2011-09-12,"
 
 
@@ -3303,7 +3478,7 @@ I make one last point before concluding. Sadly, the Charter of Budget Honesty ha
 
 We need a parliamentary budget office to hold this government's rapid expenditure to account. That is what we have proposed in the bill that we have put forward. It is a better bill because of its confidential and independent nature. I would ask the Treasurer to eat humble pie and do what is in the best interests of the Australian nation by going for the type of parliamentary budget office that we have put forward, which will be confidential and independent in nature.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Morrison, Scott, MP",LP,2011-09-12,"
 
 
@@ -3380,7 +3555,7 @@ The American Congressional Budget Office employs about 250 people. It operates a
 
 It is true that Australia's democratic traditions and history have taken a different path to those of the United States, but quite clearly the Congressional Budget Office provides the benchmark which we would seek to emulate, and that is what the coalition's amendments are geared towards. So I would implore the government to get serious about having a fair dinkum parliamentary budget office and not go along with this corruption of the process, which they seem to wallow in on so many occasions, and so happily, to avoid the transparency and scrutiny that is proper for a democracy of our standing. I urge the government to reconsider and live up to at least one expectation of this parliament and deliver a fair dinkum, independent Commonwealth parliamentary budget office.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Kelly, Craig, MP",LP,2011-09-12,"
 
 
@@ -3427,7 +3602,7 @@ The coalition's model is in line with global moves towards greater transparency 
 
 I call on members of the government and the Independents to look beyond the next election. Rather than think about short-term political objectives, think about what is best for the future of this country and this parliament. Do that by either supporting the coalition's alternative bill or at least supporting the amendments, as these are the only ways we can ensure that this parliament has a truly independent and effective parliamentary budget office.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Swan, Wayne, MP",ALP,2011-09-12,"
 
 
@@ -3471,7 +3646,7 @@ Mr S Sidebottom
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Crook, Tony, MP",NatsWA,2011-09-12,"
 
 
@@ -3631,7 +3806,7 @@ The DEPUTY SPEAKER:  Is the motion seconded?
 Mr Katter:
   I second the motion, I support the Queensland government—probably the only time on record that I will be supporting the current Queensland government—on this issue and I reserve my right to speak in due course.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Goods and Services Tax</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Goods and Services Tax</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Neumann, Shayne, MP",ALP,2011-09-12,"
 
 
@@ -3666,7 +3841,7 @@ The Federation is not static and economic relativity changes. We know that. That
 
 I cannot support the motion because it pre-empts the review. With the nation's interests at heart I look forward to the review findings getting a fairer share for Queensland and, indeed, for Western Australia. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Goods and Services Tax</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Goods and Services Tax</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Washer, Dr Mal, MP",LP,2011-09-12,"
 
 
@@ -3711,7 +3886,7 @@ The DEPUTY SPEAKER:  Is the amendment seconded?
 Mr Hockey:
   I second the amendment.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Goods and Services Tax</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Goods and Services Tax</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Oakeshott, Robert, MP",Ind.,2011-09-12,"
 
 
@@ -3734,7 +3909,7 @@ I think the Henry review process made some simple recommendations. There are 125
 
 Debate adjourned.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Goods and Services Tax</title>,PRIVATE MEMBERS' BUSINESS,25,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Goods and Services Tax</title>,PRIVATE MEMBERS' BUSINESS,25,1,speech
 "Gash, Joanna, MP",LP,2011-09-12,"
 
 
@@ -3766,7 +3941,7 @@ A third of the regional and rural electorates are held by Labor and the Independ
 
 The only practical option is a change of government, a case being well made by this government itself. When we are re-elected, the Shell Cove marina project will go ahead as was promised prior to the last election by the coalition.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Gilmore Electorate: Economy</title>,ADJOURNMENT,27,1
+",HoR,<title>ADJOURNMENT</title>,<title>Gilmore Electorate: Economy</title>,ADJOURNMENT,27,1,speech
 "Marino, Nola, MP",LP,2011-09-12,"
 
 
@@ -3805,7 +3980,7 @@ Last year I attended the south-west district Police Remembrance Day ceremony in 
 Since 1834, 90 Western Australian police officers and aides have fallen, of whom 10 were killed in the course of duty. I welcome every measure that will assist the effectiveness of WA Police, and benefit the WA population, as well as our national police. But no measure can help the officers who have died or the families of officers who have already given their lives in the name of law and order and for the protection of our communities. I offer my most sincere respect to their memories and my sympathy to the families whose loved ones were lost while dedicating their lives to keeping our communities safe.
 
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>National Police Remembrance Day</title>,CONSTITUENCY STATEMENTS,29,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>National Police Remembrance Day</title>,CONSTITUENCY STATEMENTS,29,1,speech
 "Bishop, Bronwyn, MP",LP,2011-09-12,"
 
 
@@ -3849,7 +4024,7 @@ The DEPUTY SPEAKER
 Hon. Peter Slipper
 ):  In accordance with the wish of the Main Committee, the question that amendments (1) to (3) moved by the honourable member for Mackellar be agreed to is deferred until after a debate has occurred on all amendments. 
 
-",HoR,<title>BILLS</title>,<title>Auditor-General Amendment Bill 2011</title>,BILLS,30,1
+",HoR,<title>BILLS</title>,<title>Auditor-General Amendment Bill 2011</title>,BILLS,30,1,speech
 "D'Ath, Yvette, MP",ALP,2011-09-12,"
 
 
@@ -4280,7 +4455,7 @@ These amendments will ensure that the Auditor-General has the tools to respond t
 
 In conclusion, I would like to thank the members of the Joint Standing Committee of Public Accounts and Audit for the report, and the Chair, the Member for Lyne, who originally introduced the bill, for his cooperation in the development of the government amendments to ensure that the amendments to the Auditor-General Act operate as intended.
 
-",HoR,<title>BILLS</title>,<title>Auditor-General Amendment Bill 2011</title>,BILLS,30,1
+",HoR,<title>BILLS</title>,<title>Auditor-General Amendment Bill 2011</title>,BILLS,30,1,speech
 "Bishop, Bronwyn, MP",LP,2011-09-12,"
 
 
@@ -4337,7 +4512,7 @@ Mrs BRONWYN BISHOP:
 
 The DEPUTY SPEAKER:  Before calling the honourable member for Lyne I advise honourable members that unfortunately the clock is not showing the correct time. I understand that the Serjeant-at-Arms is endeavouring to correct not only this clock but others that are currently defective.
 
-",HoR,<title>BILLS</title>,<title>Auditor-General Amendment Bill 2011</title>,BILLS,30,1
+",HoR,<title>BILLS</title>,<title>Auditor-General Amendment Bill 2011</title>,BILLS,30,1,speech
 "Oakeshott, Robert, MP",Ind.,2011-09-12,"
 
 
@@ -4357,7 +4532,7 @@ The one point I take away from this morning is about the amendments from the coa
 
 In a sweet irony that we are seeing this morning, the coalition amendment is arguably knocking out the opportunity for the coalition itself to find the truth of whether taxpayers' money was being misused, or otherwise, by the trade union movement in the building of Parliament House or in any other form. It is disappointing that the opportunity to follow the money trail, whether it is in the public or the private sector, is being knocked out. The work schedule of the Auditor-General and the public interest test involved in the work of the Auditor-General will not allow every small business to be chased. These are billions of dollars that are being put at stake here; I hope you reconsider. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Auditor-General Amendment Bill 2011</title>,BILLS,30,1
+",HoR,<title>BILLS</title>,<title>Auditor-General Amendment Bill 2011</title>,BILLS,30,1,speech
 "Briggs, Jamie, MP",LP,2011-09-12,"
 
 
@@ -4377,7 +4552,7 @@ It has been estimated that, even if you are taking the Orgill review, of a small
 
 We need that power. I agree with the member for Mackellar's amendments. I cannot speak on the government's amendments because it is so late in the day—they tabled them today—and I expect some answers now from the government member involved.
 
-",HoR,<title>BILLS</title>,<title>Auditor-General Amendment Bill 2011</title>,BILLS,30,1
+",HoR,<title>BILLS</title>,<title>Auditor-General Amendment Bill 2011</title>,BILLS,30,1,speech
 "Hall, Jill, MP",ALP,2011-09-12,"
 
 
@@ -4418,7 +4593,7 @@ The DEPUTY SPEAKER:  The honourable member will focus on the amendments. The hon
 Ms HALL:
   As I pointed out, I am entitled to speak to the amendments moved by the member for Mackellar. I apologise; I was somewhat distracted by the previous speaker, the member for Mayo, and his attack on the Building the Education Revolution. I admit to the House that I slightly strayed from the contents of the government amendments. These government amendments deal with the function and the power of the Auditor-General, and they are very significant, as opposed to the amendments moved by the member for Mackellar. I endorse and I urge the House to support the amendments that have been moved by the government.
 
-",HoR,<title>BILLS</title>,<title>Auditor-General Amendment Bill 2011</title>,BILLS,30,1
+",HoR,<title>BILLS</title>,<title>Auditor-General Amendment Bill 2011</title>,BILLS,30,1,speech
 "Bishop, Bronwyn, MP",LP,2011-09-12,"
 
 
@@ -4430,7 +4605,7 @@ Mrs BRONWYN BISHOP
 
 The DEPUTY SPEAKER:  The question is that the amendments be agreed to. If no honourable member is seeking the call—
 
-",HoR,<title>BILLS</title>,<title>Auditor-General Amendment Bill 2011</title>,BILLS,30,1
+",HoR,<title>BILLS</title>,<title>Auditor-General Amendment Bill 2011</title>,BILLS,30,1,speech
 "Bishop, Bronwyn, MP",LP,2011-09-12,"
 
 
@@ -4492,7 +4667,7 @@ The DEPUTY SPEAKER
 Hon. Peter Slipper
 ):   The debate on the amendments moved by the honourable member for Mackellar and the honourable member for Petrie is adjourned and is made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Auditor-General Amendment Bill 2011</title>,BILLS,30,1
+",HoR,<title>BILLS</title>,<title>Auditor-General Amendment Bill 2011</title>,BILLS,30,1,speech
 "Bishop, Bronwyn, MP",LP,2011-09-12,"
 
 
@@ -4536,7 +4711,7 @@ The DEPUTY SPEAKER
 Hon. Peter Slipper
 ):  In accordance with the wish of the Main Committee, the question that amendments (1) to (3) moved by the honourable member for Mackellar be agreed to is deferred until after a debate has occurred on all amendments. 
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,30,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,30,2,speech
 "D'Ath, Yvette, MP",ALP,2011-09-12,"
 
 
@@ -4967,7 +5142,7 @@ These amendments will ensure that the Auditor-General has the tools to respond t
 
 In conclusion, I would like to thank the members of the Joint Standing Committee of Public Accounts and Audit for the report, and the Chair, the Member for Lyne, who originally introduced the bill, for his cooperation in the development of the government amendments to ensure that the amendments to the Auditor-General Act operate as intended.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,30,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,30,2,speech
 "Bishop, Bronwyn, MP",LP,2011-09-12,"
 
 
@@ -5024,7 +5199,7 @@ Mrs BRONWYN BISHOP:
 
 The DEPUTY SPEAKER:  Before calling the honourable member for Lyne I advise honourable members that unfortunately the clock is not showing the correct time. I understand that the Serjeant-at-Arms is endeavouring to correct not only this clock but others that are currently defective.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,30,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,30,2,speech
 "Oakeshott, Robert, MP",Ind.,2011-09-12,"
 
 
@@ -5044,7 +5219,7 @@ The one point I take away from this morning is about the amendments from the coa
 
 In a sweet irony that we are seeing this morning, the coalition amendment is arguably knocking out the opportunity for the coalition itself to find the truth of whether taxpayers' money was being misused, or otherwise, by the trade union movement in the building of Parliament House or in any other form. It is disappointing that the opportunity to follow the money trail, whether it is in the public or the private sector, is being knocked out. The work schedule of the Auditor-General and the public interest test involved in the work of the Auditor-General will not allow every small business to be chased. These are billions of dollars that are being put at stake here; I hope you reconsider. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,30,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,30,2,speech
 "Briggs, Jamie, MP",LP,2011-09-12,"
 
 
@@ -5064,7 +5239,7 @@ It has been estimated that, even if you are taking the Orgill review, of a small
 
 We need that power. I agree with the member for Mackellar's amendments. I cannot speak on the government's amendments because it is so late in the day—they tabled them today—and I expect some answers now from the government member involved.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,30,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,30,2,speech
 "Hall, Jill, MP",ALP,2011-09-12,"
 
 
@@ -5105,7 +5280,7 @@ The DEPUTY SPEAKER:  The honourable member will focus on the amendments. The hon
 Ms HALL:
   As I pointed out, I am entitled to speak to the amendments moved by the member for Mackellar. I apologise; I was somewhat distracted by the previous speaker, the member for Mayo, and his attack on the Building the Education Revolution. I admit to the House that I slightly strayed from the contents of the government amendments. These government amendments deal with the function and the power of the Auditor-General, and they are very significant, as opposed to the amendments moved by the member for Mackellar. I endorse and I urge the House to support the amendments that have been moved by the government.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,30,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,30,2,speech
 "Bishop, Bronwyn, MP",LP,2011-09-12,"
 
 
@@ -5117,7 +5292,7 @@ Mrs BRONWYN BISHOP
 
 The DEPUTY SPEAKER:  The question is that the amendments be agreed to. If no honourable member is seeking the call—
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,30,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,30,2,speech
 "Bishop, Bronwyn, MP",LP,2011-09-12,"
 
 
@@ -5179,7 +5354,7 @@ The DEPUTY SPEAKER
 Hon. Peter Slipper
 ):   The debate on the amendments moved by the honourable member for Mackellar and the honourable member for Petrie is adjourned and is made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,30,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,30,2,speech
 "Melham, Daryl, MP",ALP,2011-09-12,"
 
 
@@ -5223,7 +5398,7 @@ These community organisations in my electorate are the glue that hold our commun
 
 I am formally moving this motion as it appears in my name to recognise the outstanding contribution of these community organisations and to ensure that the House confirms its ongoing commitment to assisting these organisations in achieving their goals. It is one of those areas in which, as I said, there is bipartisan support. Everyone in the parliament, I think, supports the sentiment of the motion that is before us.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "Gambaro, Teresa, MP",LP,2011-09-12,"
 
 
@@ -5249,7 +5424,7 @@ OzHarvest were founded in Sydney in November 2004. They began with one van. They
 
 I commend the fantastic work that Ronni Kahn has done in this area. OzHarvest is in its early stages of partnering with the Wesley Mission. I was really pleased to be there. I will lend whatever support I can in getting the restaurant and catering community involved with this fantastic project. I again commend the member for Banks for this wonderful motion. I commend the many thousands of hours that volunteers, young and old, put in. They are the wonderful and rich fabric of our society. I applaud and recognise their incredible efforts. Their contribution every day makes Australia a better place.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "Hall, Jill, MP",ALP,2011-09-12,"
 
 
@@ -5272,7 +5447,7 @@ The final area the member for Banks touched on in point (2) of his motion was sp
 
 Where would we be without volunteers? Community groups provide strength to the communities that we represent in this parliament. Every member of parliament recognises and appreciates the fine work that is done by community groups in their electorate. The government recognises that by providing community grants, volunteer grants and the Community Investment Program. I would like to conclude by thanking, yet again, the member for Banks for bringing this motion to the House. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "Andrews, Karen, MP",LP,2011-09-12,"
 
 
@@ -5304,7 +5479,7 @@ I am certainly aware that scouts throughout Queensland have participated in some
 
 In concluding today, I would like to congratulate all the community groups that we have, not just the two that I have mentioned today—surf lifesaving and the scouts—particularly in my electorate of McPherson. I would like to congratulate all the volunteers for the contributions that they make, because, without them, these community groups would not be able to continue and provide the support that is so desperately needed in the community.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "Leigh, Andrew, MP",ALP,2011-09-12,"
 
 
@@ -5348,7 +5523,7 @@ In closing, I would like to acknowledge Jessica Woodhall, an intern in my office
 
 Yesterday I enjoyed competing in the Canberra Times Fun Run to raise money for the Heart Foundation. My staffers Gus Little, Louise Crossman, Damien Hickman, Lyndell Tutty, Ruth Stanfield and Claire Daly all joined me, and they were willing to put their pride aside and all wear an 'Andrew Leigh—Supporting Our Community' t-shirt for the run. I thank them for being part of a terrific community event and for their role in raising money for the Heart Foundation. On a gorgeous Canberra spring day we ran down Adelaide Avenue, looking up at Parliament House and recognising what a wonderful city this is, how lucky we are to live in it and how terrific our community organisations are in building the social fabric of Canberra.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "Wyatt, Ken, MP",LP,2011-09-12,"
 
 
@@ -5407,7 +5582,7 @@ The DEPUTY SPEAKER
 Hon. Peter Slipper
 ):  Thank you very much for your contribution.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "Ferguson, Laurie, MP",ALP,2011-09-12,"
 
 
@@ -5468,7 +5643,7 @@ Mr S Sidebottom
 
 Before I call the member for Bennelong, I think everyone in this chamber would join the member for Bennelong in his elegant congratulation of Sam Stosur on her fantastic victory earlier today. We join you and thank you for that very, very good speech.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "Alexander, John, MP",LP,2011-09-12,"
 
 
@@ -5491,7 +5666,7 @@ In 2008, dementia care was estimated to carry an economic cost of $5.4 billion p
 
 Caring for a person with dementia is an incredible challenge. The progressive degeneration of a person's cognitive ability will often lead to a reduced ability to communicate and to complete regular daily activities. Alzheimer's Australia plays a great role and is a beacon of hope in our local community. John Watkins, the former member for Ryde, is a valuable and effective CEO and his organisation is just one example of an inspiring community based organisation that performs an incredible task both in the electorate of Bennelong and in our broader nation. All these volunteer and not-for-profit organisations deserve the recognition of this parliament and are to be commended on the contributions they make to our nation.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "Hayes, Chris, MP",ALP,2011-09-12,"
 
 
@@ -5517,7 +5692,7 @@ In the brief time I have available I also acknowledge the Victory in the Pacific
 
 I also acknowledge the work of the Lions Club that operates in the area and particularly, at both the Canley Vale High School and the Cabramatta High School, the Leo clubs that operate to encourage young people to put providing service above self. I pay particular respect to and acknowledge the Cabramatta Lions Club president, Jenny Tew, for the invaluable work she does throughout our school based community as well as the broader community as a whole. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "Chester, Darren, MP",Nats,2011-09-12,"
 
 
@@ -5537,7 +5712,7 @@ The people of Gippsland have benefited for several years now from that work of t
 
 These are just a couple of examples of some great Australians, some great Gippslanders, who are setting an extraordinary example for our community. I think it further highlights the importance of volunteering to help others. I encourage Gippslanders who are interested in getting involved in community groups to join up and help make a difference in our community. I thank the House for this opportunity to speak on behalf of the volunteers throughout the Gippsland region.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "Husic, Ed, MP",ALP,2011-09-12,"
 
 
@@ -5557,7 +5732,7 @@ Computer Pals is not just a facility for senior Australians; it is also a group 
 
 Computer Pals is a community group that is opening up the eyes of people in a way that, as I said at the start of my contribution, maximises their engagement and participation in the community. They do it through a lot of support from other community groups, but an enormous voluntary contribution is made to ensure that a group like that is successful. It is building meaningful links within the broader community for people who, rightly, as senior Australians, have contributed to the development of our nation, to the development of the communities in which they live and who also have a right to be able to participate through technology in decisions that are being made in the future for them, their children and their grandchildren. I want to commend this motion and commend all the work of the community groups that will be mentioned through the course of this debate and salute them for what they are doing to help our nation prosper and grow.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "Prentice, Jane, MP",LP,2011-09-12,"
 
 
@@ -5592,7 +5767,7 @@ to
 16:00
 
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Community Organisations</title>,PRIVATE MEMBERS' BUSINESS,31,1,speech
 "Snowdon, Warren, MP",ALP,2011-09-12,"
 
 
@@ -5662,7 +5837,7 @@ That further proceedings be conducted in the House.
 
 Question agreed to. 
 
-",HoR,<title>CONDOLENCES</title>,"<title>Lambert, Private Matthew</title>",CONDOLENCES,32,1
+",HoR,<title>CONDOLENCES</title>,"<title>Lambert, Private Matthew</title>",CONDOLENCES,32,1,speech
 "Billson, Bruce, MP",LP,2011-09-12,"
 
 
@@ -5803,7 +5978,7 @@ What those independent contractors do not need is yet another coordinated assaul
 
 In supporting this bill, I have outlined a number of areas where we will maintain a watching brief. There are some opportunities to improve the mechanics, but we should not lose sight of these interconnections between other areas that impact on small business viability and their chance to trade and to participate in the Australian economy because the record of the government in this is not flash, with 300,000 thousand jobs lost in small business since Labor was elected. There is no sign of relief on the radar screen and you can understand the considerable suspicion about what else might be going on as relates to the ABN process of registering a business name.
 
-",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1
+",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1,speech
 "Neumann, Shayne, MP",ALP,2011-09-12,"
 
 
@@ -5874,7 +6049,7 @@ This legislation is important, like consumer credit, the Australian Consumer Law
 
 Those opposite do not understand that. They do not understand that partnership and cooperation is important. They only understand a monetarist Friedman style market economy, which does not do anything. The economy is about partnerships and we support this legislation. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1
+",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1,speech
 "Tehan, Dan, MP",LP,2011-09-12,"
 
 
@@ -5936,7 +6111,7 @@ The DEPUTY SPEAKER
 Ms K Livermore
 ):  I thank the member for Wannon. He showed great restraint.
 
-",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1
+",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1,speech
 "Brodtmann, Gai, MP",ALP,2011-09-12,"
 
 
@@ -5983,7 +6158,7 @@ This kind of legislation may not appear on its surface to be of great importance
 
 I strongly support the measures in this legislation and encourage the government to continue its great reforms in making sure that the vision of one national economic framework dreamt about so long ago at Federation is finally made possible.
 
-",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1
+",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1,speech
 "Baldwin, Bob, MP",LP,2011-09-12,"
 
 
@@ -6009,7 +6184,7 @@ There is an issue that will arise. For example, if John's Diving Services is reg
 
 I say to the government that there are also a number of other regulatory burdens placed upon small businesses that need to be addressed urgently. Small business is suffering very much. It is incumbent on a government that declares that it supports workers, for workers can only ever be employed by employers, to take a positive and proactive step to address further regulatory concerns held by business, and it needs to do it as a matter of urgency. Given that the coalition support the bill, there is not much point in taking up more time in the debate, but I did want to highlight the number of people who are involved in small business, in particular those who are involved in the tourism industry. We support the legislation.
 
-",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1
+",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1,speech
 "Owens, Julie, MP",ALP,2011-09-12,"
 
 
@@ -6050,7 +6225,7 @@ So this reform on business names registration is in very good company when it co
 
 The Business Names Registration (Fees) Bill 2011 defines the term 'chargeable matters' in the context of the registration of business names and imposes a fee for chargeable matters related to the registration or renewal of a business name as part of the national business names registration system. At present the cost of registering a business name differs between the states and territories. A business may also be required to register a business name in two or more states depending on the number of states that the business operates in. The Business Names Registration Bill and its cognate bills, through a national system, will make it no longer necessary to register a business name in each state and territory. I commend the bill to the House. It is a very important part of our move towards a national seamless economy and it will make significant reductions in the regulation of small businesses around the country.
 
-",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1
+",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1,speech
 "Neville, Paul, MP",Nats,2011-09-12,"
 
 
@@ -6097,7 +6272,7 @@ The member for Parramatta was describing how it will be possible to use the same
 
 I support the legislation. The bill has a lot of potential. I understand the intentions behind it. But I think a lot of vigilance will be required as we implement the legislation, for two reasons, as I said: firstly, to make sure we escape bureaucracy as it is introduced; and, secondly, to try to close up some of these loopholes further down the track.
 
-",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1
+",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1,speech
 "Slipper, Peter, MP",Ind.,2011-09-12,"
 
 
@@ -6129,7 +6304,7 @@ We also visited Advanced Aquarium Technologies. This is a revolutionary and awe-
 
 The bills currently before the House are important. They are incremental bills. They are bills that indicate that as a country we are operating more as an entity than as eight or nine jurisdictions. They indicate that as a community we are prepared to make it easier for business to operate in a cost-effective way. I am particularly pleased to see that there has been cooperation around the country in the introduction of these bills, which will improve outcomes for small business, which will encourage employment in this important sector and which, of course, will be to the long-term benefit of the Australian economy.
 
-",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1
+",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1,speech
 "Bradbury, David, MP",ALP,2011-09-12,"
 
 
@@ -6167,7 +6342,7 @@ Bill read a second time.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1
+",HoR,<title>BILLS</title>,"<title>Business Names Registration Bill 2011, Business Names Registration (Transitional and Consequential Provisions) Bill 2011, Business Names Registration (Fees) Bill 2011</title>",BILLS,33,1,speech
 "Billson, Bruce, MP",LP,2011-09-12,"
 
 
@@ -6308,7 +6483,7 @@ What those independent contractors do not need is yet another coordinated assaul
 
 In supporting this bill, I have outlined a number of areas where we will maintain a watching brief. There are some opportunities to improve the mechanics, but we should not lose sight of these interconnections between other areas that impact on small business viability and their chance to trade and to participate in the Australian economy because the record of the government in this is not flash, with 300,000 thousand jobs lost in small business since Labor was elected. There is no sign of relief on the radar screen and you can understand the considerable suspicion about what else might be going on as relates to the ABN process of registering a business name.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2,speech
 "Neumann, Shayne, MP",ALP,2011-09-12,"
 
 
@@ -6379,7 +6554,7 @@ This legislation is important, like consumer credit, the Australian Consumer Law
 
 Those opposite do not understand that. They do not understand that partnership and cooperation is important. They only understand a monetarist Friedman style market economy, which does not do anything. The economy is about partnerships and we support this legislation. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2,speech
 "Tehan, Dan, MP",LP,2011-09-12,"
 
 
@@ -6441,7 +6616,7 @@ The DEPUTY SPEAKER
 Ms K Livermore
 ):  I thank the member for Wannon. He showed great restraint.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2,speech
 "Brodtmann, Gai, MP",ALP,2011-09-12,"
 
 
@@ -6488,7 +6663,7 @@ This kind of legislation may not appear on its surface to be of great importance
 
 I strongly support the measures in this legislation and encourage the government to continue its great reforms in making sure that the vision of one national economic framework dreamt about so long ago at Federation is finally made possible.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2,speech
 "Baldwin, Bob, MP",LP,2011-09-12,"
 
 
@@ -6514,7 +6689,7 @@ There is an issue that will arise. For example, if John's Diving Services is reg
 
 I say to the government that there are also a number of other regulatory burdens placed upon small businesses that need to be addressed urgently. Small business is suffering very much. It is incumbent on a government that declares that it supports workers, for workers can only ever be employed by employers, to take a positive and proactive step to address further regulatory concerns held by business, and it needs to do it as a matter of urgency. Given that the coalition support the bill, there is not much point in taking up more time in the debate, but I did want to highlight the number of people who are involved in small business, in particular those who are involved in the tourism industry. We support the legislation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2,speech
 "Owens, Julie, MP",ALP,2011-09-12,"
 
 
@@ -6555,7 +6730,7 @@ So this reform on business names registration is in very good company when it co
 
 The Business Names Registration (Fees) Bill 2011 defines the term 'chargeable matters' in the context of the registration of business names and imposes a fee for chargeable matters related to the registration or renewal of a business name as part of the national business names registration system. At present the cost of registering a business name differs between the states and territories. A business may also be required to register a business name in two or more states depending on the number of states that the business operates in. The Business Names Registration Bill and its cognate bills, through a national system, will make it no longer necessary to register a business name in each state and territory. I commend the bill to the House. It is a very important part of our move towards a national seamless economy and it will make significant reductions in the regulation of small businesses around the country.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2,speech
 "Neville, Paul, MP",Nats,2011-09-12,"
 
 
@@ -6602,7 +6777,7 @@ The member for Parramatta was describing how it will be possible to use the same
 
 I support the legislation. The bill has a lot of potential. I understand the intentions behind it. But I think a lot of vigilance will be required as we implement the legislation, for two reasons, as I said: firstly, to make sure we escape bureaucracy as it is introduced; and, secondly, to try to close up some of these loopholes further down the track.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2,speech
 "Slipper, Peter, MP",Ind.,2011-09-12,"
 
 
@@ -6634,7 +6809,7 @@ We also visited Advanced Aquarium Technologies. This is a revolutionary and awe-
 
 The bills currently before the House are important. They are incremental bills. They are bills that indicate that as a country we are operating more as an entity than as eight or nine jurisdictions. They indicate that as a community we are prepared to make it easier for business to operate in a cost-effective way. I am particularly pleased to see that there has been cooperation around the country in the introduction of these bills, which will improve outcomes for small business, which will encourage employment in this important sector and which, of course, will be to the long-term benefit of the Australian economy.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2,speech
 "Bradbury, David, MP",ALP,2011-09-12,"
 
 
@@ -6672,7 +6847,7 @@ Bill read a second time.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,33,2,speech
 "Bishop, Julie, MP",LP,2011-09-12,"
 
 
@@ -6758,7 +6933,7 @@ In the absence of gains through the WTO, bilateral and regional free trade agree
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,35,1
+",HoR,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,35,1,speech
 "Bishop, Julie, MP",LP,2011-09-12,"
 
 
@@ -6844,7 +7019,7 @@ In the absence of gains through the WTO, bilateral and regional free trade agree
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,35,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,35,2,speech
 "O'Dwyer, Kelly, MP",LP,2011-09-12,"
 
 
@@ -6882,7 +7057,7 @@ These are the fundamental differences between our bill and the government's bill
 
 It is critical that the government get the detail right on this bill, which is why we encourage and commend them to resolve to implement the bill that has been brought forward today by the shadow Treasurer, the Parliamentary Budget Office Bill 2011. We commend that bill to the chamber and we ask the Independent members and the government members to join with us in implementing that bill.
 
-",HoR,<title>BILLS</title>,"<title>Charter of Budget Honesty Amendment Bill 2011, Parliamentary Budget Office Bill 2011</title>",BILLS,36,1
+",HoR,<title>BILLS</title>,"<title>Charter of Budget Honesty Amendment Bill 2011, Parliamentary Budget Office Bill 2011</title>",BILLS,36,1,speech
 "Roy, Wyatt, MP",LP,2011-09-12,"
 
 
@@ -6918,7 +7093,7 @@ Again I ask: why did the government drag its heels on a reform designed to ensur
 
 The coalition, unlike the government, would establish a new body accountable to the parliament not beholden to government departments. The Labor government, for example, does not offer a confidential costing service for all members and senators who are not members of the government during the election caretaker period, something the coalition would do. This is an essential component in ensuring that members of parliament and senators can have private discussions with the PBO about the financial implications of policy proposals, and this is a non-negotiable aspect of the coalition's bill. We fear that this Labor government is playing politics with the Independents on the Parliamentary Budget Office. The coalition provides an independent statutory body that has strong powers to request information in order to provide comprehensive advice. We look forward to the support of the Independents and the Greens for an office that will be able to provide truly independent advice and policy analysis.
 
-",HoR,<title>BILLS</title>,"<title>Charter of Budget Honesty Amendment Bill 2011, Parliamentary Budget Office Bill 2011</title>",BILLS,36,1
+",HoR,<title>BILLS</title>,"<title>Charter of Budget Honesty Amendment Bill 2011, Parliamentary Budget Office Bill 2011</title>",BILLS,36,1,speech
 "Tehan, Dan, MP",LP,2011-09-12,"
 
 
@@ -6941,7 +7116,7 @@ The shadow Treasurer has put forward a model which is based on the US congress's
 
 Debate adjourned. 
 
-",HoR,<title>BILLS</title>,"<title>Charter of Budget Honesty Amendment Bill 2011, Parliamentary Budget Office Bill 2011</title>",BILLS,36,1
+",HoR,<title>BILLS</title>,"<title>Charter of Budget Honesty Amendment Bill 2011, Parliamentary Budget Office Bill 2011</title>",BILLS,36,1,speech
 "O'Dwyer, Kelly, MP",LP,2011-09-12,"
 
 
@@ -6979,7 +7154,7 @@ These are the fundamental differences between our bill and the government's bill
 
 It is critical that the government get the detail right on this bill, which is why we encourage and commend them to resolve to implement the bill that has been brought forward today by the shadow Treasurer, the Parliamentary Budget Office Bill 2011. We commend that bill to the chamber and we ask the Independent members and the government members to join with us in implementing that bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,36,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,36,2,speech
 "Roy, Wyatt, MP",LP,2011-09-12,"
 
 
@@ -7015,7 +7190,7 @@ Again I ask: why did the government drag its heels on a reform designed to ensur
 
 The coalition, unlike the government, would establish a new body accountable to the parliament not beholden to government departments. The Labor government, for example, does not offer a confidential costing service for all members and senators who are not members of the government during the election caretaker period, something the coalition would do. This is an essential component in ensuring that members of parliament and senators can have private discussions with the PBO about the financial implications of policy proposals, and this is a non-negotiable aspect of the coalition's bill. We fear that this Labor government is playing politics with the Independents on the Parliamentary Budget Office. The coalition provides an independent statutory body that has strong powers to request information in order to provide comprehensive advice. We look forward to the support of the Independents and the Greens for an office that will be able to provide truly independent advice and policy analysis.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,36,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,36,2,speech
 "Tehan, Dan, MP",LP,2011-09-12,"
 
 
@@ -7038,7 +7213,7 @@ The shadow Treasurer has put forward a model which is based on the US congress's
 
 Debate adjourned. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,36,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,36,2,speech
 "Secker, Patrick, MP",LP,2011-09-12,"
 
 
@@ -7070,7 +7245,7 @@ The application for the Australian funding was unsuccessful, and the researchers
 
 SMA is generally overlooked, along with other rare diseases, perhaps because the affected children are only here for such a short time. SMA Australia are seeking to raise awareness of the disease, but they cannot do it alone. SMA marketing trainee Elvira Alic, an SMA type 2 sufferer herself, and Julie Cini have come up with a unique marketing idea to raise awareness of SMA. They have used Australia's love affair with coffee to spread the message 'Take away SMA' by printing it on takeaway coffee cups. These cups are now used all over Canberra and Melbourne, and SMA hopes to raise money to purchase cough assist machines, which SMA has 15 of currently on loan to sufferers such as Elvira around Australia. I think we should thank the member for Fowler for bringing this cause to the parliament. I hope that we can sincerely as a parliament decide to ensure that that funding continues into the future.
 
-",HoR,<title>MOTIONS</title>,<title>Spinal Muscular Atrophy</title>,MOTIONS,37,1
+",HoR,<title>MOTIONS</title>,<title>Spinal Muscular Atrophy</title>,MOTIONS,37,1,speech
 "Hayes, Chris, MP",ALP,2011-09-12,"
 
 
@@ -7105,7 +7280,7 @@ In addition to these practical initiatives, the association is calling for spina
 
 I urge members of the House to take the opportunity to meet with members of the SMA Association to understand this debilitating disease and to be able to make a difference by being able to speak up about it. I welcome the opportunity to speak here tonight. (Time expired)
 
-",HoR,<title>MOTIONS</title>,<title>Spinal Muscular Atrophy</title>,MOTIONS,37,1
+",HoR,<title>MOTIONS</title>,<title>Spinal Muscular Atrophy</title>,MOTIONS,37,1,speech
 "Griffin, Alan, MP",ALP,2011-09-12,"
 
 
@@ -7131,7 +7306,7 @@ Jan Hill.
 
 I did recently meet with representatives of SMA, both today and last week, in my electorate. Jan mentioned Elvira Alic, a young lady I met with who is struggling with SMA type 2, who is an example of courage in the face of absolutely horrific adversity. It was an honour and a privilege to meet her and to hear her story and those of others who are suffering from this debilitating disease. Others have made the point that it is often at a very young age that these children are tragically taken from their families. But in the case of Elvira—and the daughters of my constituent—the circumstances where it is clearly type 2 have resulted in debilitating conditions being experienced over many years. Elvira has exceeded the life expectancy for her circumstances and remains an example to all of the terrible conditions that we can face and of how to handle that in a stoic manner and with great courage. I urge the parliament: this is a matter which the government needs to look at. The sorts of conditions that we are dealing with here, and the sorts of examples about the future of policy here, I think are matters we should be endeavouring to take forward. (Time expired)
 
-",HoR,<title>MOTIONS</title>,<title>Spinal Muscular Atrophy</title>,MOTIONS,37,1
+",HoR,<title>MOTIONS</title>,<title>Spinal Muscular Atrophy</title>,MOTIONS,37,1,speech
 "McCormack, Michael, MP",Nats,2011-09-12,"
 
 
@@ -7169,7 +7344,7 @@ Awareness of this disease is important as it is an inherited genetic disorder wh
 
 I commend the member for Fowler for bringing this particular motion to this chamber and for his moving speech earlier this evening. I also acknowledge the members for Barker and Bruce for their words. Australia's Muscular Dystrophy Association has more information on its website about spinal muscular atrophy and neuromuscular disorders, and I encourage all those interested, particularly members of parliament, to find out more about this important medical matter. Spinal muscular atrophy is a silent killer. The more we know about it, the more awareness we have, the greater our chances will be to combat it.
 
-",HoR,<title>MOTIONS</title>,<title>Spinal Muscular Atrophy</title>,MOTIONS,37,1
+",HoR,<title>MOTIONS</title>,<title>Spinal Muscular Atrophy</title>,MOTIONS,37,1,speech
 "Hall, Jill, MP",ALP,2011-09-12,"
 
 
@@ -7186,7 +7361,7 @@ In my role as a member of parliament I actually had a constituent at one time wh
 
 Congratulations, Julie, on the wonderful work and all those people who are here with you tonight on all the effort that you have put in to addressing this important issue. Thank you.
 
-",HoR,<title>MOTIONS</title>,<title>Spinal Muscular Atrophy</title>,MOTIONS,37,1
+",HoR,<title>MOTIONS</title>,<title>Spinal Muscular Atrophy</title>,MOTIONS,37,1,speech
 "Kelly, Craig, MP",LP,2011-09-12,"
 
 
@@ -7209,7 +7384,7 @@ Genetic testing for SMA is available but it is not widely used and it is not eli
 
 I appreciate this opportunity to play a role in expanding the understanding of this disorder in this place and hope that this filters through to the public at large. We must all play our part in this. Finally, to Julie: congratulations. You are an inspiration to us all. No-one deserves the tragedy and hardships you have been through in your life. Keep going; you will eventually get there.
 
-",HoR,<title>MOTIONS</title>,<title>Spinal Muscular Atrophy</title>,MOTIONS,37,1
+",HoR,<title>MOTIONS</title>,<title>Spinal Muscular Atrophy</title>,MOTIONS,37,1,speech
 "Oakeshott, Robert, MP",Ind.,2011-09-12,"
 
 
@@ -7226,7 +7401,7 @@ There is a need to have SMA listed as an NHMRC keyword. Even though the governme
 
 It is fantastic that this is being debated. I congratulate the network on pushing the member for Fowler and all of us to get this issue up the public policy pile and I hope that SMA is now starting to find its place and that the health department responds accordingly. (Time expired)
 
-",HoR,<title>MOTIONS</title>,<title>Spinal Muscular Atrophy</title>,MOTIONS,37,1
+",HoR,<title>MOTIONS</title>,<title>Spinal Muscular Atrophy</title>,MOTIONS,37,1,speech
 "Matheson, Russell, MP",LP,2011-09-12,"
 
 
@@ -7258,7 +7433,7 @@ The DEPUTY SPEAKER
 Ms Vamvakinou
 ):  Order! The time allotted for this debate has expired. The debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>MOTIONS</title>,<title>Spinal Muscular Atrophy</title>,MOTIONS,37,1
+",HoR,<title>MOTIONS</title>,<title>Spinal Muscular Atrophy</title>,MOTIONS,37,1,speech
 "Mirabella, Sophie, MP",LP,2011-09-12,"
 
 
@@ -7311,4 +7486,29 @@ We saw the government waste $12 million on advertising the carbon tax, before th
 
 One of my favourite examples of a waste of money is this. At a time when the government wants to introduce a carbon tax—the only one of its type in the world—to impose yet another cost on Australian manufacturers, they find the time and inclination to allocate $24.25 million to the establishment of the ARC Centre of Excellence for the History of Emotions. When it comes to priorities and when so many Australians are doing it so hard to make ends meet and to make sure that they have a household budget that pays for life's essentials and makes sure they can get through to the next payday, it is a serious neglect of responsibility to see this government not only waste and mismanage basic programs and flagship programs but also deliberately waste money on such things as the ARC Centre of Excellence for the History of Emotions. This is at the same time as they cannot find the energy or the inclination to have an inquiry into the state of manufacturing in this country and when the trade union movement is telling them that this is the worst crisis in manufacturing since the Depression. These are dark days for the Australian people and for the Australian economy. Now is not the time to introduce a carbon tax. (Time expired)
 
-",HoR,<title>GRIEVANCE DEBATE</title>,<title>Economy</title>,GRIEVANCE DEBATE,38,1
+",HoR,<title>GRIEVANCE DEBATE</title>,<title>Economy</title>,GRIEVANCE DEBATE,38,1,speech
+"Southcott, Dr Andrew, MP",LP,2011-09-12,"
+
+
+
+Dr Southcott
+  asked the Minister for Health and Ageing, in writing, on 28 February 2011:
+
+
+
+Of the $253.2 million allocated to GP Super Clinics under the 2010-11 GP Super Clinics Program, what sum has already been paid to funding recipients.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Superclinics (Question No. 213)</title>,QUESTIONS IN WRITING,39,1,question
+"Roxon, Nicola, MP",ALP,2011-09-12,"
+
+
+
+
+Ms Roxon:
+  The answer to the honourable member's question is as follows:
+
+
+
+The 2010-11 Budget allocated a total of $248 million for new GP Super Clinic projects. Of this funding, $31.7 million was allocated in 2010-11 and $31.7 million was paid to GP Super Clinic funding recipients. 
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Superclinics (Question No. 213)</title>,QUESTIONS IN WRITING,39,1,answer

@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2018-02-14,"
 
 
@@ -868,7 +868,7 @@ The Committee determined that consideration
 of this matter should continue on a future day.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,0,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,0,1,speech
 "Smith, Tony, MP",LP,2018-02-14,"
 
 
@@ -1738,7 +1738,7 @@ The Committee determined that consideration
 of this matter should continue on a future day.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,0,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,0,2,speech
 "Frydenberg, Josh, MP",LP,2018-02-14,"
 
 
@@ -1755,7 +1755,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Putting Consumers First—Establishment of the Australian Financial Complaints Authority) Bill 2017</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Putting Consumers First—Establishment of the Australian Financial Complaints Authority) Bill 2017</title>,BILLS,1,1,speech
 "Porter, Christian, MP",LP,2018-02-14,"
 
 
@@ -1874,7 +1874,7 @@ These long-awaited reforms will revitalise the debt agreement system, providing 
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Bankruptcy Amendment (Debt Agreement Reform) Bill 2018</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Bankruptcy Amendment (Debt Agreement Reform) Bill 2018</title>,BILLS,3,1,speech
 "King, Catherine, MP",ALP,2018-02-14,"
 
 
@@ -1885,7 +1885,76 @@ Ms CATHERINE KING
 
 IPad technology provides the opportunity for young people with these learning challenges to engage more fully in learning. For those children and adults who are nonverbal, iPads allow them to communicate without words, enabling them to express their opinions and feelings when previously they may have been left more isolated. Where young people are not able to access these aids through the NDIS, Keeley works with local businesses and community organisations—in particular, the Ballan Lions Clubs—to get these children the tools that can help them to achieve at the highest level. Into the future, Keeley's Cause is looking to expand state wide, nationally and even internationally through the Lyons club. I commend Keeley and her family for a terrific local initiative. It's inspiring to see a 13 year old doing so much. Imagine what she is going to be doing at 20!
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Ballarat Electorate: Keeley's Cause</title>,STATEMENTS BY MEMBERS,4,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Ballarat Electorate: Keeley's Cause</title>,STATEMENTS BY MEMBERS,4,1,speech
+"Shorten, Bill, MP",ALP,2018-02-14,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:00):  My question is to the Prime Minister. Yesterday, the Prime Minister told parliament that the 'apology to the stolen generation will never be forgotten'. Yet John Howard's government, the government the Prime Minister was a member of, spent years opposed to an apology to the stolen generations. Will the Prime Minister avoid the mistakes of the past, proudly stand on the right side of history and reconsider his opposition to the Uluru Statement from the Heart and an Indigenous voice to parliament?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Constitution</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Turnbull, Malcolm, MP",LP,2018-02-14,"
+
+
+
+Mr TURNBULL
+ (Wentworth—Prime Minister) (14:01):  The position that the government has taken and that I've expressed is that we do not support entrenching in the Constitution a national representative assembly that only Indigenous Australians can vote for or be elected to. We take the view that every one of our national elected representative institutions should be open to every Australian citizen. We believe that is a fundamental part of our democracy and the rule of law. 
+
+
+The reality is that if the policy that the opposition has now adopted were to be carried out, if that referendum proposal were to be put up and if it were to succeed—and I have no doubt that it would fail—that national representative assembly, elected by and composed only of Indigenous Australians as an advisor to this parliament on matters affecting Indigenous Australians, would constitute, in effect, a third chamber of this parliament. 
+
+
+
+Opposition members interjecting—
+
+
+
+The SPEAKER:  Members on my left!
+
+
+
+
+Mr TURNBULL:
+  The opposition can shout as much as they like, but the reality is: there is not one bill that goes through this parliament that does not impact on and affect Indigenous Australians. The scope of that third chamber would get wider and wider, and a fundamental principle of our democracy would have been abrogated. The coalition will not support it. If the Labor Party want to advocate that at the election—and it appears they do—we will let the Australian people decide.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Constitution</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Sharkie, Rebekha, MP",NXT,2018-02-14,"
+
+
+
+Ms SHARKIE
+ (Mayo) (14:13):  My question is to the Minister for Infrastructure and Transport. The Victor Harbor-Goolwa region is the third largest significant urban area in South Australia. Victor Harbor Road, which has one of the highest rates of vehicle crashes, is in urgent need of an upgrade to double lanes. According to the RAA, between 2012 and 2016 there was a 34 per cent increase in traffic and 43 people were killed or seriously injured—one casualty every year for every five kilometres of road. SA Best is committed to upgrading this road. Regardless of who forms government at the next SA election, will the federal government commit to contributing funding to the much-needed upgrade of the Victor Harbor Road?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Roads</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Joyce, Barnaby, MP",Nats,2018-02-14,"
+
+
+
+Mr JOYCE
+ (New England—Deputy Prime Minister, Minister for Infrastructure and Transport and Leader of The Nationals) (14:13):  I thank the honourable member for her question and note that, on the cessation of the Labor Party's Road Safety Remuneration Tribunal, we took the money from that to place into further monitoring, especially, of heavy vehicles that you can see at crossroads. 
+
+
+I also remind the honourable member that the coalition government has spent more on infrastructure than any Labor government—
+
+
+
+Mr Champion interjecting—
+
+
+
+The SPEAKER:  The member for Wakefield is warned!
+
+
+
+
+Mr JOYCE:
+  billions of dollars more than what the Labor government has spent. I understand, as we all do, the issues of road safety. Our road toll has been reducing. One would hope that we can reduce it more. I admit that we are not quite on target to what we set for the reduction of the toll, but it continues to come down. 
+
+
+I also acknowledge that there was a substantial truck accident in Brisbane today—we still have to get the details on that. With regard to Victor Harbor, we'll have to take that on notice and get back to you.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Roads</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
 "Andrews, Kevin, MP",LP,2018-02-14,"
 
 
@@ -1893,7 +1962,7 @@ IPad technology provides the opportunity for young people with these learning ch
 Mr ANDREWS
  (Menzies) (15:15):  I take this opportunity briefly to congratulate a resident in my local suburb of Warrandyte, Scotty James, on winning the bronze medal in the snowboard halfpipe at the Olympics just an hour or so ago.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Pyeongchang Winter Olympic Games</title>,STATEMENTS ON INDULGENCE,9,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Pyeongchang Winter Olympic Games</title>,STATEMENTS ON INDULGENCE,9,1,speech
 "Smith, Tony, MP",LP,2018-02-14,"
 
 
@@ -1913,7 +1982,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Fitzgibbon, Joel, MP",ALP,2018-02-14,"
 
 
@@ -1957,7 +2026,7 @@ When the Murray-Goulburn fell over, I offered to help him—nothing! He did noth
 
 The member for New England is hopeless. He was a failed minister. As a result of many government failures across those four years, rural and regional Australia is struggling. There is no doubt it is time for a change of government.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "McVeigh, John, MP",LP,2018-02-14,"
 
 
@@ -2004,7 +2073,7 @@ If the member for Whitlam, as shadow minister, is the closest thing that Labor h
 
 Regional Australia needs more than a weak opposition leader's weasel words—crab walking, if you like, from one position to another. They want jobs. They want opportunities. They, like the rest of us, want a standard of living that is appropriate for families. It's the coalition that has focused on regional and rural Australia. It's the coalition that is driving jobs growth and opportunity growth in regional Australia. Those opposite simply have no idea.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Jones, Stephen, MP",ALP,2018-02-14,"
 
 
@@ -2046,7 +2115,7 @@ Mr STEPHEN JONES:
 
 On the Regional Jobs and Investment Packages that the minister mentioned: $220 million worth of funds earmarked to kickstart jobs investment projects in regional Australia. Eight of the 10 projects have not yet even started, because these guys are so tied up with their own internal problems that they can't get around to the job that they're paid to do. He mentioned decentralisation—well, there is a fraud if ever Australians have seen one. They talk about decentralisation at the same time as they are axing public sector jobs from regional Australia. I present Townsville as one example, but we also know that it is happening in Tasmania, and I'm sure the Tasmanian representatives will talk about that. Jobs were cut from CSIRO, jobs were cut from the tax office and jobs were cut from the Department of Defence—40 from Townsville in the last week alone, and over 400 since this government came to power. The people of Australia know a fraud when they see one. As I said before, it is time for the Prime Minister to end the farce. The battle between the Hatfields and the McCoys has to stop. The people of regional Australia need something better than this. The Prime Minister needs to step in. The Deputy Prime Minister needs to be axed. If the National Party can't do it, the Prime Minister should. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Hartsuyker, Luke, MP",Nats,2018-02-14,"
 
 
@@ -2089,7 +2158,7 @@ An opposition member:  Neither did yours.
 
 The DEPUTY SPEAKER:  Before the member for Wakefield starts, I remind members present that this is not a team sport. It's only one at a time.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Champion, Nick, MP",ALP,2018-02-14,"
 
 
@@ -2153,7 +2222,7 @@ The DEPUTY SPEAKER:  The member of Wakefield will refer things through the chair
 Mr CHAMPION:
   Thank you, Mr Deputy Speaker. I will talk about infrastructure in South Australia. Over the next four years, federal infrastructure funding in the state will plummet by 90 per cent. It will fall from $921 million to $95 million over four years. You have to remember what will happen and where that won't get spent, and that's on South Australian country roads. That's where it's not going to get spent—that's South Australian infrastructure. Yet you have the temerity to come in here and joke about it and laugh about it; you think it's a big joke. The National Party slings insults all over the place, but anybody who has lived in regional Australia knows they need the NBN, jobs, roads, hospitals and schools—the exact same things that Australians need across the country.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Ley, Sussan, MP",LP,2018-02-14,"
 
 
@@ -2193,7 +2262,7 @@ I know that, privately, the member for Watson, the opposition spokesperson, has 
 
 I must focus on the NBN because the member for Whitlam has raised that, and he and I are both on the committee. Remember, this was a government that prioritised access to the NBN for people who weren't disadvantaged, and they are people in rural and regional Australia. So we're getting the NBN in rural and regional Australia before many people are in the cities. The entire rollout will be completed by 2020, but we're getting it first because this is a government that understands where the needs are. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Keay, Justine, MP",ALP,2018-02-14,"
 
 
@@ -2216,7 +2285,7 @@ But it gets worse. This government and Tasmania's Hodgman Liberal government hav
 
 I could go on, but I have run out of time. I'll probably need another 10 hours to keep going on about how this government has failed not only people in regional Australia but in my whole state of Tasmania. The people of all electorates in Tasmania voted them out last time, and there is a good reason why. Labor here will make sure that regional communities in Tasmania will have the best result possible, and we need a Labor government to do that.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "O'Brien, Llew, MP",Nats,2018-02-14,"
 
 
@@ -2240,7 +2309,7 @@ So what are we doing to have this great success in the regions? I'll tell you wh
 
 I will tell you what else we're doing to support regional Australians and regional business. Decentralisation is a wonderful concept—one I and the National Party fully support—but it's more than moving jobs out there; it's also building the infrastructure that encourages people to go to regional Australia. That's why we have a $75 billion infrastructure program that will deliver for regional Australia—like the $6.7 billion we're spending on the Bruce Highway to save lives. That's what we do. Recently I stood on the side of the highway with my leader, Barnaby Joyce, and spoke to him about saving lives. That's what he's interested in. He is interested in regional Australia. He is not interested in issues like the waste-of-time issues that the Labor Party are carrying on with at the moment—issues that Australians are not interested in. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Mitchell, Brian, MP",ALP,2018-02-14,"
 
 
@@ -2269,7 +2338,7 @@ The list just goes on, as the member for Braddon said. We could spend hours here
 
 They are failing on industrial relations—kids not being paid properly for work, the PaTH rip-off for young people. It just goes on. What about biosecurity and the fruit fly incursion in Tasmania? What a massive failure of government it is to allow fruit flies to emerge in our state for the first time ever.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Wilson, Rick, MP",LP,2018-02-14,"
 
 
@@ -2305,7 +2374,7 @@ The DEPUTY SPEAKER
 Mr Coulton
 ):  This debate has concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Rural and Regional Australia</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "O'Neil, Clare, MP",ALP,2018-02-14,"
 
 
@@ -2358,7 +2427,7 @@ But, returning to the Proceeds of Crime Act amendment, Labor's very proud to sup
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Proceeds of Crime Amendment (Proceeds and Other Matters) Bill 2017</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Proceeds of Crime Amendment (Proceeds and Other Matters) Bill 2017</title>,BILLS,14,1,speech
 "Sukkar, Michael, MP",LP,2018-02-14,"
 
 
@@ -2372,7 +2441,7 @@ That the Proceeds of Crime Amendment (Proceeds and Other Matters) Bill 2017 be r
 
 Question agreed to.
 
-",HoR,<title>BILLS</title>,<title>Proceeds of Crime Amendment (Proceeds and Other Matters) Bill 2017</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Proceeds of Crime Amendment (Proceeds and Other Matters) Bill 2017</title>,BILLS,14,1,speech
 "O'Neil, Clare, MP",ALP,2018-02-14,"
 
 
@@ -2425,7 +2494,7 @@ But, returning to the Proceeds of Crime Act amendment, Labor's very proud to sup
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Smith, Tony, MP",LP,2018-02-14,"
 
 
@@ -3292,7 +3361,7 @@ The Committee determined that consideration
 of this matter should continue on a future day.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,15,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,15,1,speech
 "Smith, Tony, MP",LP,2018-02-14,"
 
 
@@ -4159,7 +4228,7 @@ The Committee determined that consideration
 of this matter should continue on a future day.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2,speech
 "Burney, Linda, MP",ALP,2018-02-14,"
 
 
@@ -4182,7 +4251,7 @@ I strongly recommend that members of this House make the time to watch the film.
 
 I also want to use this time to briefly respond to the Prime Minister's comments about an Indigenous voice to the parliament. I am concerned that the description by many of this voice has been as a third chamber for the parliament. This is simply not true. The body would be advisory and would also have no veto powers. I'm concerned by the Prime Minister's threat to turn this into an election issue. I caution the Prime Minister—and therefore the government—to be very careful in using these kinds of threats. We are committed to bipartisanship, but the highest bar needs to be set. It is not a race to the bottom.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Apology to Australia's Indigenous Peoples: 10th Anniversary</title>,ADJOURNMENT,16,1
+",HoR,<title>ADJOURNMENT</title>,<title>Apology to Australia's Indigenous Peoples: 10th Anniversary</title>,ADJOURNMENT,16,1,speech
 "King, Madeleine, MP",ALP,2018-02-14,"
 
 
@@ -4199,7 +4268,7 @@ On the day, 62 electric vehicle owners from around Perth gathered to try and set
 
 On the Australia Day weekend, I was very fortunate to go out to the Sandgropers Land Yacht Club to sail on a land yacht on a 430-hectare dried out salt lake known as Lake Walyungup in my electorate. The lake is between Warnbro, Waikiki and Baldivis. The Sandgropers club meet on Sunday afternoons when the lake is dry in the summer. People from all ages come from around the state to sail or pilot their land yachts on this lake. People even came from Kalgoorlie for this Regatta. I'd really like to thank Jay, who took me out on a double-seater land yacht for the first time. I've driven past this salt lake and witnessed the sailing for years—since I was a child growing up in Baldivis—but I had never taken the journey out to where they sail and I had certainly never sailed on that wonderful salt lake. So I was very pleased to do it. It was a little bit frightening and a little bit thrilling. I really hope the members of that club continue to enjoy it. They've been there since 1979, and they get many new members to enjoy the speeds of up to 100 kays an hour that these land yachts can travel at.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Brand Electorate: Tesla Owners Club of Western Australia, Brand Electorate: Sandgropers Land Yacht Club</title>",CONSTITUENCY STATEMENTS,18,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Brand Electorate: Tesla Owners Club of Western Australia, Brand Electorate: Sandgropers Land Yacht Club</title>",CONSTITUENCY STATEMENTS,18,1,speech
 "Sudmalis, Ann, MP",LP,2018-02-14,"
 
 
@@ -4252,7 +4321,7 @@ Around 14,700 Aboriginal and Torres Strait Islander children are enrolled in ear
 
 We are closing the gap in Gilmore, and I believe we can upscale all the different and successful programs, not only in my region but across the nation, so that in the next 10 years we'll have six out of seven of the targets met and only the last one to work on. As we know, it will probably take a couple of decades to bring us closer in lifespan, because there are some entrenched health issues that have arisen in the past that we need to address in the future. I think we're doing well, but we can do better.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1,speech
 "Chesters, Lisa, MP",ALP,2018-02-14,"
 
 
@@ -4314,7 +4383,7 @@ But, for all the successes, there is still a lot of work to do. Incarceration ra
 
 We must do more as a society. We must do more as a community. We must do more as parliamentarians to help close the gap. It's not enough just to have rhetoric saying that we will work with them. We need to demonstrate it through funding. We need to demonstrate it through empowerment. We need to make sure that we're doing all we can to help close the gap.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1,speech
 "Gee, Andrew, MP",Nats,2018-02-14,"
 
 
@@ -4340,7 +4409,7 @@ I think it's a point well made.
 
 The overall findings contained in the Closing the gap report are unsatisfactory. The gaps in key areas still exist and, in some cases, they're getting wider. In the Australia of 2018, it's not good enough. It's not good enough by a long shot, and all of us here need to recommit ourselves to closing those gaps. I thank and acknowledge all in Calare who are working so hard to do just that.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1,speech
 "Husic, Ed, MP",ALP,2018-02-14,"
 
 
@@ -4396,7 +4465,7 @@ I want to make these closing remarks. Closing the gap is not a statistical ambit
 
 The other thing—and I think the Prime Minister's well aware of this—is that his failure to attend the national breakfast yesterday recognising the 10-year anniversary of the apology was something that saddened a lot of the participants there and was reflected upon publicly. Again, it doesn't matter what your politics are. The Prime Minister and the coalition are doing some good things to address closing the gap. There are other things we can do better. But it doesn't matter about your politics. This is a sense of national purpose, that something that had been done badly in the past will be committed to by all of us to be corrected in the future. That's all I'd say on that, but, again, we look forward to better outcomes down the track. (Time expired)
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1,speech
 "Claydon, Sharon, MP",ALP,2018-02-14,"
 
 
@@ -4425,7 +4494,7 @@ So, when this government decides to backflip on a commitment around a national p
 
 The Leader of the Opposition, Bill Shorten, made very clear in his comments around the Closing the gap report in parliament on Monday that, whilst we are very keen to work with the government to deliver better outcomes, this bipartisanship cannot be used as an alibi for inaction by this government. I join with the Leader of the Opposition to say that we wish to work with you to deliver better outcomes, but we are not going to sit by and wait for you guys to catch up. We don't have time for that. So I absolutely applaud Labor's initiatives in taking seriously the Uluru Statement from the Heart and those very real issues that were raised there before us. I am absolutely supportive of the idea of adding some additional targets around incarceration and out-of-home care to the list. I think the compensation packages in the Commonwealth jurisdiction for the stolen generations are critical, with money to the Healing Foundation. All of these are necessary— (Time expired)
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1,speech
 "Butler, Terri, MP",ALP,2018-02-14,"
 
 
@@ -4466,7 +4535,7 @@ The Uluru Statement from the Heart was too readily dismissed by this Prime Minis
 
 The apology was so crucial. It was such a watershed moment for our nation. It was absolutely fundamental and necessary for healing and for progress. But it's not enough of itself, because we need to continue to push. Let's never stop seeking to make progress, and let's place Aboriginal and Islander led organisations and voices at the centre of the progress that we seek to make.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1,speech
 "Husar, Emma, MP",ALP,2018-02-14,"
 
 
@@ -4552,7 +4621,7 @@ The DEPUTY SPEAKER
 Mrs Wicks
 ):  Before I call on the next speaker, I would request that members refer to members by their correct title. The question is that the document be noted. 
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1,speech
 "Giles, Andrew, MP",ALP,2018-02-14,"
 
 
@@ -4590,7 +4659,7 @@ I also want to acknowledge a conversation I had with another amazing Aboriginal 
 
 I am pleased to make a contribution to this debate. It is a really important debate. It forces all of us to look not only at what we say about our responsibilities towards Aboriginal people but how they can be realised. We have not done enough. We must all recommit ourselves to work hard; not just to use this as an exercise to mark off a date in the parliamentary calendar but as a reminder of the obligation that weighs so heavily on every non-Indigenous Australian to accept that we are responsible for dispossession and that we are responsible with Aboriginal people, with our first nation Australians, for ensuring the gap is closed.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1,speech
 "McGowan, Cathy, MP",IND,2018-02-14,"
 
 
@@ -4643,7 +4712,7 @@ So, colleagues, what a strong and powerful call! And how proud I am to say that 
 
 I finish my comments like many others today, by making a commitment to work with the leaders in the community, to do everything we can do within my community and within this nation to close the gap. I'd like to particularly acknowledge you and thank you, Catherine, and wish you well in your leadership journey.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1,speech
 "Snowdon, Warren, MP",ALP,2018-02-14,"
 
 
@@ -4706,7 +4775,7 @@ The truth is that the Statement from the Heart calls for what both sides of the 
 
 As someone who's been here all but three decades, I say to this government and I say to the Prime Minister: instead of listening to selected voices, it's time you actually sat down and talked to Aboriginal people in a fair dinkum way, listened to what they have to say, understood the messages they're giving and did not interpret them in a way that is politically convenient to you. It's time to act truly and to properly represent the interests of Aboriginal and Torres Strait Islander people across this nation.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1,speech
 "Leigh, Andrew, MP",ALP,2018-02-14,"
 
 
@@ -5541,7 +5610,7 @@ The fund will be administered by the Healing Foundation—an Indigenous-run orga
 
 I have covered a range of topics in this speech, but closing the gap must remain a core focus for any Australian government. It is a vital performance metric, and the Closing the Gap targets must never be weakened.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1,speech
 "Jones, Stephen, MP",ALP,2018-02-14,"
 
 
@@ -5576,7 +5645,7 @@ I said a moment ago that, if we could just focus on one area for a moment to ach
 
 I want to say one final thing about the relationship between this government and the Aboriginal and Torres Strait Islander community. I have no doubt that, in his heart, the Prime Minister wants to do the right thing, but, when you commission a process that resulted in the Uluru Statement from the Heart and had significant support right across the Aboriginal and Torres Strait Islander community about a way forward on reconciliation between Aboriginal and Torres Strait Islander communities and the rest of the country, and you reject that statement out of hand, by way of press release, and do not even have the courage to stand up and explain to the community why you did that, is it any wonder that the community is deeply sceptical of this government's commitment to the project ahead?
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1,speech
 "Gosling, Luke, MP",ALP,2018-02-14,"
 
 
@@ -5599,7 +5668,7 @@ I'll say this in a spirit of bipartisanship, but the Prime Minister must underst
 
 Debate adjourned.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Closing the Gap</title>,MINISTERIAL STATEMENTS,19,1,speech
 "King, Madeleine, MP",ALP,2018-02-14,"
 
 
@@ -5661,7 +5730,7 @@ That's the get-out-of-jail-free card for the banks. Then and only then is it pos
 
 Once again, I'd like to thank the secretariat of the House Standing Committee on Economics for the extraordinary work they do and for the preparation they do to help all members of the committee in preparing for all the reviews that we do. And thank you very much for the support of members who were on the committee with me. I thank the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Economics</title>,COMMITTEES,21,1
+",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Economics</title>,COMMITTEES,21,1,speech
 "Kelly, Craig, MP",LP,2018-02-14,"
 
 
@@ -5729,7 +5798,7 @@ But it didn't finish there. We also had the same thing from the other banks. We 
 
 Our inquiries into the banking sector will continue with a House committee. There are still many issues we need to resolve, but, most importantly, we need to get the tribunal right. We need to ensure that if someone has a dispute with their bank they can take that dispute to a competent tribunal without the risk of being run over by legal costs and time, because that is the current system that we have. When a bank has had a dispute with someone and the person has said, 'I'll take you to the Supreme Court,' the bank would just laugh at them. It is that mismatch of power in our legal system that has caused the problems in our banking sector. I hope that with the policies of this government on our tribunal, and with the input of the royal commission, that this is something we can address so Australian entrepreneurs can go out there, risk their capital and try new business ideas, knowing that if something goes wrong with their bank they have the right to a fair hearing in a dispute.
 
-",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Economics</title>,COMMITTEES,21,1
+",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Economics</title>,COMMITTEES,21,1,speech
 "Keogh, Matt, MP",ALP,2018-02-14,"
 
 
@@ -5785,7 +5854,7 @@ Sitting suspended from
 02
 
 
-",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Economics</title>,COMMITTEES,21,1
+",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Economics</title>,COMMITTEES,21,1,speech
 "King, Madeleine, MP",ALP,2018-02-14,"
 
 
@@ -5847,7 +5916,7 @@ That's the get-out-of-jail-free card for the banks. Then and only then is it pos
 
 Once again, I'd like to thank the secretariat of the House Standing Committee on Economics for the extraordinary work they do and for the preparation they do to help all members of the committee in preparing for all the reviews that we do. And thank you very much for the support of members who were on the committee with me. I thank the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2,speech
 "Kelly, Craig, MP",LP,2018-02-14,"
 
 
@@ -5915,7 +5984,7 @@ But it didn't finish there. We also had the same thing from the other banks. We 
 
 Our inquiries into the banking sector will continue with a House committee. There are still many issues we need to resolve, but, most importantly, we need to get the tribunal right. We need to ensure that if someone has a dispute with their bank they can take that dispute to a competent tribunal without the risk of being run over by legal costs and time, because that is the current system that we have. When a bank has had a dispute with someone and the person has said, 'I'll take you to the Supreme Court,' the bank would just laugh at them. It is that mismatch of power in our legal system that has caused the problems in our banking sector. I hope that with the policies of this government on our tribunal, and with the input of the royal commission, that this is something we can address so Australian entrepreneurs can go out there, risk their capital and try new business ideas, knowing that if something goes wrong with their bank they have the right to a fair hearing in a dispute.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2,speech
 "Keogh, Matt, MP",ALP,2018-02-14,"
 
 
@@ -5971,7 +6040,7 @@ Sitting suspended from
 02
 
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2,speech
 "Pyne, Christopher, MP",LP,2018-02-14,"
 
 
@@ -6022,7 +6091,7 @@ I thank the House.
 
 Debate adjourned.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Walker, Mr Ronald Joseph, AC, CBE</title>",CONDOLENCES,22,1
+",HoR,<title>CONDOLENCES</title>,"<title>Walker, Mr Ronald Joseph, AC, CBE</title>",CONDOLENCES,22,1,speech
 "Butler, Terri, MP",ALP,2018-02-14,"
 
 
@@ -6069,7 +6138,7 @@ The last point I want to make is that this report does contain a recommendation 
 
 This should just be a case-by-case assessment by the court. The court should look at each situation, particularly if there's family violence involved, and ask: what's in the best interests of the child? The best interests of the child must primarily be about safety for the child. We have all heard the stories. We had Our Watch in here talking about family violence yesterday. We all know how serious a problem family violence is in this country. This is an important recommendation. I congratulate the bravery of the committee, and particularly the chair and the deputy chair, for including it in the report.
 
-",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,23,1
+",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,23,1,speech
 "Banks, Julia, MP",LP,2018-02-14,"
 
 
@@ -6107,7 +6176,7 @@ In addition, the report recommends improving the capacity of family law professi
 
 In conclusion, I thank the former Attorney-General, Mr George Brandis, for requesting that the Social Policy and Legal Affairs Committee inquire into how Australia's family law system can better support and protect those affected by family violence. As the inquiry has determined, the family law system can be incredibly difficult and prohibitive for victims of family violence to navigate. I'm pleased that our report recommends tangible and, indeed, measurable improvements so that the scourge of family violence may be dealt with through the family law system in a person-focused, timely and efficient manner. I commend the committee's report.
 
-",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,23,1
+",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,23,1,speech
 "Husar, Emma, MP",ALP,2018-02-14,"
 
 
@@ -6157,7 +6226,7 @@ We will await the commission's review and recommendations to allow any reform pr
 
 Before I finish, I'd like to acknowledge the tremendous effort of the committee secretariat, who did an extraordinary amount of work and took on incredibly heavy evidence on behalf of the committee.
 
-",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,23,1
+",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,23,1,speech
 "Wilson, Tim, MP",LP,2018-02-14,"
 
 
@@ -6237,7 +6306,7 @@ I recommend the report to the parliament. I congratulate the chair and everybody
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,23,1
+",HoR,<title>COMMITTEES</title>,<title>Social Policy and Legal Affairs Committee</title>,COMMITTEES,23,1,speech
 "Butler, Terri, MP",ALP,2018-02-14,"
 
 
@@ -6284,7 +6353,7 @@ The last point I want to make is that this report does contain a recommendation 
 
 This should just be a case-by-case assessment by the court. The court should look at each situation, particularly if there's family violence involved, and ask: what's in the best interests of the child? The best interests of the child must primarily be about safety for the child. We have all heard the stories. We had Our Watch in here talking about family violence yesterday. We all know how serious a problem family violence is in this country. This is an important recommendation. I congratulate the bravery of the committee, and particularly the chair and the deputy chair, for including it in the report.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2,speech
 "Banks, Julia, MP",LP,2018-02-14,"
 
 
@@ -6322,7 +6391,7 @@ In addition, the report recommends improving the capacity of family law professi
 
 In conclusion, I thank the former Attorney-General, Mr George Brandis, for requesting that the Social Policy and Legal Affairs Committee inquire into how Australia's family law system can better support and protect those affected by family violence. As the inquiry has determined, the family law system can be incredibly difficult and prohibitive for victims of family violence to navigate. I'm pleased that our report recommends tangible and, indeed, measurable improvements so that the scourge of family violence may be dealt with through the family law system in a person-focused, timely and efficient manner. I commend the committee's report.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2,speech
 "Husar, Emma, MP",ALP,2018-02-14,"
 
 
@@ -6372,7 +6441,7 @@ We will await the commission's review and recommendations to allow any reform pr
 
 Before I finish, I'd like to acknowledge the tremendous effort of the committee secretariat, who did an extraordinary amount of work and took on incredibly heavy evidence on behalf of the committee.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2,speech
 "Wilson, Tim, MP",LP,2018-02-14,"
 
 
@@ -6452,4 +6521,4 @@ I recommend the report to the parliament. I congratulate the chair and everybody
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2,speech

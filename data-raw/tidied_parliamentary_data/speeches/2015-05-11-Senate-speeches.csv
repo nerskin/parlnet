@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2015-05-11,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (10:01):  I remind senators that the question may be put on any proposal at the request of any senator.
 
-",Senate,<title>COMMITTEES</title>,"<title>Environment and Communications Legislation Committee, Foreign Affairs, Defence and Trade Joint Committee, Public Works Committee, Treaties Committee</title>",COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,"<title>Environment and Communications Legislation Committee, Foreign Affairs, Defence and Trade Joint Committee, Public Works Committee, Treaties Committee</title>",COMMITTEES,1,1,speech
 "PRESIDENT, The",,2015-05-11,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (10:01):  I remind senators that the question may be put on any proposal at the request of any senator.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "PRESIDENT, The",,2015-05-11,"
 
 
@@ -22,7 +22,7 @@ The PRESIDENT
 The PRESIDENT
  (10:02):  I have received through the Governor-General from the Governor of New South Wales a copy of the certificate of the choice by the houses of parliament of New South Wales of Jennifer McAllister to fill the vacancy caused by the resignation of Senator Faulkner. I table the document.
 
-",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>New South Wales</title>,PARLIAMENTARY REPRESENTATION,2,1
+",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>New South Wales</title>,PARLIAMENTARY REPRESENTATION,2,1,speech
 "PRESIDENT, The",,2015-05-11,"
 
 
@@ -30,7 +30,7 @@ The PRESIDENT
 The PRESIDENT
  (10:07):  I inform the Senate that I have received a letter from Senator Mason resigning his place as a senator for the state of Queensland. Pursuant to the provision of section 21 of the Constitution, I have notified the Governor of Queensland of the vacancy in the representation of that state caused by his resignation. I table the letter and a copy of my letter to the Governor of Queensland.
 
-",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Queensland</title>,PARLIAMENTARY REPRESENTATION,3,1
+",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Queensland</title>,PARLIAMENTARY REPRESENTATION,3,1,speech
 "Di Natale, Sen Richard",AG,2015-05-11,"
 
 
@@ -38,7 +38,7 @@ The PRESIDENT
 Senator DI NATALE
  (Victoria—Leader of the Australian Greens) (10:08):  by leave—I wish to inform the chamber that following Senator Milne's resignation as leader, I am now Leader of the Australian Greens. Senators Ludlam and Waters are co-deputy leaders, and Senator Rachel Siewert continues as the whip.
 
-",Senate,<title>PARTY OFFICE HOLDERS</title>,<title>Australian Greens</title>,PARTY OFFICE HOLDERS,4,1
+",Senate,<title>PARTY OFFICE HOLDERS</title>,<title>Australian Greens</title>,PARTY OFFICE HOLDERS,4,1,speech
 "Cameron, Sen Doug",ALP,2015-05-11,"
 
 
@@ -170,7 +170,7 @@ You are not familiar?
 
 Mr Hadgkiss said no. This is a regulator with immense power overseeing an industry where employers have significant power and control over their employees. This is an industry that has captured the regulator. The regulator has absolutely no clue about the serious implications of this failure of leadership. For a regulator to have no understanding of regulatory capture is beyond belief. This simply demonstrates that Mr Hadgkiss is unfit for office. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1,speech
 "Rice, Sen Janet",AG,2015-05-11,"
 
 
@@ -217,7 +217,7 @@ There is no good reason to extend these coercive powers for a further two years.
 
 The proper objective should be to do away with these extraordinary powers and return the regulation of the construction industry to the same regime as applies to all other Australian employees and employers. There should be no separate agency and no separate powers in the form outlined in this legislation; therefore, the Australian Greens will absolutely be opposing this bill.
 
-",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1,speech
 "McKenzie, Sen Bridget",Nats,2015-05-11,"
 
 
@@ -285,7 +285,7 @@ If Labor and its senators have not lost all credibility on this issue by suggest
 
 The honourable thing for Labor senators to do today would be to vote for the extension of powers given to the FWBC by their own former Prime Minister—to stand by their own legacy. But I guess, when construction unions are the Labor Party's loan sharks, there has to be a payoff. You have to pay the piper, even if it results in witnesses and whistleblowers in the construction industry not having protection from reprisal by Labor's favourite union thugs for daring to speak out.
 
-",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1,speech
 "Xenophon, Sen Nick",Ind.,2015-05-11,"
 
 
@@ -308,7 +308,7 @@ I acknowledge the concerns that have been raised in the context of the building 
 
 The final point I wish to make is this: when this debate came up under the former government, under the Gillard government, it was acknowledged that these powers should exist. These powers of compelling witnesses to give evidence are not unusual in other pieces of legislation. ASIC, our corporate regulator, has them and the ACCC, our consumer and competition watchdog, has those powers. I think it is appropriate that similar powers exist in this sector. So with those comments it seems to me to be illogical not to allow the sunset clause to be extended pending further consideration of other measures for the construction industry. I think that if this bill is defeated it will be an issue of real concern in terms of those minority elements in the sector that are not doing the right thing, and I include a number of rogue employers who are involved in agreements and conduct that would be improper. I think these powers need to be maintained. That is why I strongly support this bill.
 
-",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1,speech
 "Bernardi, Sen Cory",LP,2015-05-11,"
 
 
@@ -376,7 +376,7 @@ It is a shame on the CFMEU to pursue this sort of activity in this country. It i
 
 That is why the compulsory powers are so necessary to protect witnesses. As a first step, we have to pass this stopgap protecting witnesses bill. As a necessary second step, we must re-establish the ABCC and return the rule of law to this industry. I will be supporting this bill.
 
-",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1,speech
 "Lines, Sen Susan",ALP,2015-05-11,"
 
 
@@ -426,7 +426,7 @@ The coercive powers have been used just four times. Of late, we have also seen w
 
 The government should look at some of the programs the CFMEU has in place. FIFO suicides are a big problem in Western Australia, but they are not even regarded as deaths in the workplace. The CFMEU have done some fabulous work on putting mentors in place to ask their workmates if they are okay—good programs. They have good programs in place concerning domestic violence, but you will not hear about that from the Abbott government. They have good programs on health and safety, but the Abbott government would rather say they are abusing their powers when they enter the workplace to talk about health and safety. So let us hear about some of the good things that are going on. If the law is being broken, yes, let us pursue that, but let us stop demonising and pretending.
 
-",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1,speech
 "Muir, Sen Ricky",AMEP,2015-05-11,"
 
 
@@ -464,7 +464,7 @@ My vote today does not represent supporting the government on changes to workpla
 
 I want to finish by making it clear that my support for this bill does not mean that I will support the reintroduction of the ABCC, and I look forward to contributing to that debate.
 
-",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1,speech
 "Abetz, Sen Eric",LP,2015-05-11,"
 
 
@@ -553,7 +553,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Whish-Wilson
 ):  Thank you for pre-empting that, Senator Abetz. Senator Lambie did approach the chair and ask to speak, so, with permission of the chamber, Senator Lambie, please go ahead and speak.
 
-",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1,speech
 "Lambie, Sen Jacqui",Ind.,2015-05-11,"
 
 
@@ -706,7 +706,7 @@ Perhaps we should look at the high-rise building approvals granted to developers
 
 The PRESIDENT:  The question is that the bill be now read a second time.
 
-",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1,speech
 "PRESIDENT, The",,2015-05-11,"
 
 
@@ -714,7 +714,7 @@ The PRESIDENT:  The question is that the bill be now read a second time.
 The PRESIDENT
  (12:11):  As no amendments to the bill have been circulated, I shall call the minister to move the third reading unless any senator requires that the bill be considered in Committee of the Whole.
 
-",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1,speech
 "Abetz, Sen Eric",LP,2015-05-11,"
 
 
@@ -731,7 +731,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Construction Industry Amendment (Protecting Witnesses) Bill 2015</title>,BILLS,5,1,speech
 "Cameron, Sen Doug",ALP,2015-05-11,"
 
 
@@ -863,7 +863,7 @@ You are not familiar?
 
 Mr Hadgkiss said no. This is a regulator with immense power overseeing an industry where employers have significant power and control over their employees. This is an industry that has captured the regulator. The regulator has absolutely no clue about the serious implications of this failure of leadership. For a regulator to have no understanding of regulatory capture is beyond belief. This simply demonstrates that Mr Hadgkiss is unfit for office. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Rice, Sen Janet",AG,2015-05-11,"
 
 
@@ -910,7 +910,7 @@ There is no good reason to extend these coercive powers for a further two years.
 
 The proper objective should be to do away with these extraordinary powers and return the regulation of the construction industry to the same regime as applies to all other Australian employees and employers. There should be no separate agency and no separate powers in the form outlined in this legislation; therefore, the Australian Greens will absolutely be opposing this bill.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "McKenzie, Sen Bridget",Nats,2015-05-11,"
 
 
@@ -978,7 +978,7 @@ If Labor and its senators have not lost all credibility on this issue by suggest
 
 The honourable thing for Labor senators to do today would be to vote for the extension of powers given to the FWBC by their own former Prime Minister—to stand by their own legacy. But I guess, when construction unions are the Labor Party's loan sharks, there has to be a payoff. You have to pay the piper, even if it results in witnesses and whistleblowers in the construction industry not having protection from reprisal by Labor's favourite union thugs for daring to speak out.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Xenophon, Sen Nick",Ind.,2015-05-11,"
 
 
@@ -1001,7 +1001,7 @@ I acknowledge the concerns that have been raised in the context of the building 
 
 The final point I wish to make is this: when this debate came up under the former government, under the Gillard government, it was acknowledged that these powers should exist. These powers of compelling witnesses to give evidence are not unusual in other pieces of legislation. ASIC, our corporate regulator, has them and the ACCC, our consumer and competition watchdog, has those powers. I think it is appropriate that similar powers exist in this sector. So with those comments it seems to me to be illogical not to allow the sunset clause to be extended pending further consideration of other measures for the construction industry. I think that if this bill is defeated it will be an issue of real concern in terms of those minority elements in the sector that are not doing the right thing, and I include a number of rogue employers who are involved in agreements and conduct that would be improper. I think these powers need to be maintained. That is why I strongly support this bill.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Bernardi, Sen Cory",LP,2015-05-11,"
 
 
@@ -1069,7 +1069,7 @@ It is a shame on the CFMEU to pursue this sort of activity in this country. It i
 
 That is why the compulsory powers are so necessary to protect witnesses. As a first step, we have to pass this stopgap protecting witnesses bill. As a necessary second step, we must re-establish the ABCC and return the rule of law to this industry. I will be supporting this bill.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Lines, Sen Susan",ALP,2015-05-11,"
 
 
@@ -1119,7 +1119,7 @@ The coercive powers have been used just four times. Of late, we have also seen w
 
 The government should look at some of the programs the CFMEU has in place. FIFO suicides are a big problem in Western Australia, but they are not even regarded as deaths in the workplace. The CFMEU have done some fabulous work on putting mentors in place to ask their workmates if they are okay—good programs. They have good programs in place concerning domestic violence, but you will not hear about that from the Abbott government. They have good programs on health and safety, but the Abbott government would rather say they are abusing their powers when they enter the workplace to talk about health and safety. So let us hear about some of the good things that are going on. If the law is being broken, yes, let us pursue that, but let us stop demonising and pretending.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Muir, Sen Ricky",AMEP,2015-05-11,"
 
 
@@ -1157,7 +1157,7 @@ My vote today does not represent supporting the government on changes to workpla
 
 I want to finish by making it clear that my support for this bill does not mean that I will support the reintroduction of the ABCC, and I look forward to contributing to that debate.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Abetz, Sen Eric",LP,2015-05-11,"
 
 
@@ -1246,7 +1246,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Whish-Wilson
 ):  Thank you for pre-empting that, Senator Abetz. Senator Lambie did approach the chair and ask to speak, so, with permission of the chamber, Senator Lambie, please go ahead and speak.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Lambie, Sen Jacqui",Ind.,2015-05-11,"
 
 
@@ -1399,7 +1399,84 @@ Perhaps we should look at the high-rise building approvals granted to developers
 
 The PRESIDENT:  The question is that the bill be now read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
+"Wong, Sen Penny",ALP,2015-05-11,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:01):  My question is to the Minister representing the Prime Minister, Senator Abetz. I refer to the Prime Minister's pre-election pledge that there would be no change to pensions under a coalition government. Will tomorrow's budget break that promise, just like last year's budget?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Wong, Sen Penny",ALP,2015-05-11,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:03):  Mr President, I ask a supplementary question. Given the minister is unable to confirm the Prime Minister's pre-election pledge on pensions, is he now able to confirm that the Prime Minister also pledged there would be no cuts to education under a coalition government? Will tomorrow's budget break that promise, just like last year's budget?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Wong, Sen Penny",ALP,2015-05-11,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:05):  Mr President, I ask a further supplementary question. I refer to another pre-election pledge by the Prime Minister: 'There will be no cuts to health under a coalition government.' Will tomorrow's budget break that promise, just like last year's budget?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Abetz, Sen Eric",LP,2015-05-11,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:01):  Senator Wong has, to a large extent, answered her own question, by confirming that the budget will be brought down tomorrow night. I would invite Senator Wong to wait and see what is in the budget.
+
+
+What we have said to the Australian people is very, very clear, and that is that there is a task in front of us as a nation to ensure that budget parameters are brought into line. We as a government, we as a coalition, do not want to leave a legacy of debt and deficit around the necks of the next generation. The Australian Labor Party had us on a trajectory which would have seen this nation descend into $667,000 million worth of debt.
+
+
+And, Mr President, do you know who the architect was of that policy? None other than Australia's worst finance minister ever, Senator Wong. Australia's failed finance minister, Senator Wong, has the audacity to come into this place and ask budget questions as though somehow she was the author of all expenditure rectitude. We know what Senator Wong left this nation. The Australian people understand what Senator Wong and the Labor Party left this nation, and we as a government are determined to fix that for the benefit of the next generation. What we also want to do is to ensure that there is fairness for those most in need, such as the pensioners of Australia—and they will be very well looked after in tomorrow's announcements.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Abetz, Sen Eric",LP,2015-05-11,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:03):  I am not exactly sure I heard the senator correctly. I am not sure whether she asked about 'no carbon tax', something which she would be very well acquainted with and which she, as a government minister in this place, promised and then introduced and ran through this place—something which attacked the cost of living of every single Australian, including pensioners.
+
+
+
+The PRESIDENT:  Pause the clock. Senator Moore on a point of order.
+
+
+
+
+Senator Moore:
+  Mr President, my point of order is on direct relevance. The question was specifically about the issue of education. I do believe the minister did mention the word as he sat down, but we would like to have an answer to the question, which was about education.
+
+
+
+The PRESIDENT:  I remind the minister of the question. Minister, you have 35 seconds in which to answer.
+
+
+
+
+Senator ABETZ:
+  Of course, the carbon tax impacted every educational institution in this country—a tax which has now been removed. But, what is more, I can inform the honourable senator that education in fact got a boost in last year's budget, and we will have to wait and see what happens tomorrow night. But the sort of unfunded trajectory that the Australian Labor Party had a lot of expenditures on was completely unachievable, and they know it. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Abetz, Sen Eric",LP,2015-05-11,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:05):  Last year's budget did not breach that promise in any way, shape or form. What we did do, quite rightly, was reallocate funding within the Health portfolio to deliver better services to where they were needed. What we have with the Australian Labor Party is: when you see a dollar of health expenditure here that could be spent better over there for better value for the taxpayer, the Labor Party has the audacity to say that somehow that is a broken election promise. The health budget envelope remained, but we reallocated within it. Of course, I refer to the very good work of the Assistant Minister for Health in this place, Senator Nash, who did a very good job in that area.
+
+
+In relation to health announcements tomorrow night, I remind Senator Wong again that she will have to wait until tomorrow night for any announcements in relation to health.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
 "Cameron, Sen Doug",ALP,2015-05-11,"
 
 
@@ -1422,7 +1499,7 @@ This is a dysfunctional government which cannot be trusted—they continually mi
 
 This is a government that has no credibility when it comes to economic matters. This is a government that said it would reduce the budget deficit—and what do we have? We have an increase in the budget deficit of $68 billion under this dysfunctional government—a government that is now split between the National Party and the Liberal Party. Let us see how the National Party stands up for those families on $65,000 a year who will lose $6,000 a year because of the blackmail that this government is going to try and impose on this Senate. They say there will be no improvements to their budget bottom line unless we give in to their blackmail. We will not be giving in to the coalition's blackmail. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1,speech
 "Sinodinos, Sen Arthur",LP,2015-05-11,"
 
 
@@ -1474,7 +1551,7 @@ But what there will not be under this government is a denial of our responsibili
 
 There is no point spending billions and billions on public debt interest which could ultimately go on better health, education and welfare. We cannot live in a fool's paradise. Labor want the fool's paradise to roll on. They think something will always bail us out. We are taking control of and managing our destiny so it does not fall into the hands of ratings agencies and others who would dictate much harsher terms. That is the point of what the government is doing—taking control of our destiny.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1,speech
 "Polley, Sen Helen",ALP,2015-05-11,"
 
 
@@ -1560,7 +1637,7 @@ Senator POLLEY:
 
 Mr Hockey—I think he is still the Treasurer today and at least for a few more weeks—has been described by a cabinet colleague as a 'hole in the heart of the government.' I would have to say that I do not believe this government has a heart, because last year's budget was a totally unfair budget. It was unfair, and I have no doubt tomorrow's budget will be nothing different. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1,speech
 "Reynolds, Sen Linda",LP,2015-05-11,"
 
 
@@ -1630,7 +1707,7 @@ Senator REYNOLDS:
 
 We have been doing our role, and it is time at this budget for the opposition to stump up. Instead of taking great pride in destroying the budget and not playing your part in the team, you have got to start playing your role as an opposition and as elected representatives of the people of Australia and of your states. You have just as much a role in passing a budget that is good for Australia and good for the economy. Instead, you pick off individuals because you have absolutely no policies with which to contribute. Taking pride in destroying the economy is nothing to be proud of, Senator Conroy. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1,speech
 "Lines, Sen Susan",ALP,2015-05-11,"
 
 
@@ -1689,7 +1766,7 @@ And what about the dishonesty about superannuation in this country, where the em
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1,speech
 "Xenophon, Sen Nick",Ind.,2015-05-11,"
 
 
@@ -1775,7 +1852,7 @@ Senator XENOPHON:
 
 The DEPUTY PRESIDENT:  Thank you, Senator Xenophon.
 
-",Senate,<title>BILLS</title>,"<title>Biosecurity Bill 2014, Quarantine Charges (Imposition—General) Amendment Bill 2014, Quarantine Charges (Imposition—Customs) Amendment Bill 2014, Quarantine Charges (Imposition—Excise) Amendment Bill 2014</title>",BILLS,10,1
+",Senate,<title>BILLS</title>,"<title>Biosecurity Bill 2014, Quarantine Charges (Imposition—General) Amendment Bill 2014, Quarantine Charges (Imposition—Customs) Amendment Bill 2014, Quarantine Charges (Imposition—Excise) Amendment Bill 2014</title>",BILLS,10,1,speech
 "Colbeck, Sen Richard",LP,2015-05-11,"
 
 
@@ -1838,7 +1915,7 @@ The DEPUTY PRESIDENT:  I can advise senators that the earlier advice I gave abou
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,"<title>Biosecurity Bill 2014, Quarantine Charges (Imposition—General) Amendment Bill 2014, Quarantine Charges (Imposition—Customs) Amendment Bill 2014, Quarantine Charges (Imposition—Excise) Amendment Bill 2014</title>",BILLS,10,1
+",Senate,<title>BILLS</title>,"<title>Biosecurity Bill 2014, Quarantine Charges (Imposition—General) Amendment Bill 2014, Quarantine Charges (Imposition—Customs) Amendment Bill 2014, Quarantine Charges (Imposition—Excise) Amendment Bill 2014</title>",BILLS,10,1,speech
 "Xenophon, Sen Nick",Ind.,2015-05-11,"
 
 
@@ -1924,7 +2001,7 @@ Senator XENOPHON:
 
 The DEPUTY PRESIDENT:  Thank you, Senator Xenophon.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Colbeck, Sen Richard",LP,2015-05-11,"
 
 
@@ -1987,4 +2064,4 @@ The DEPUTY PRESIDENT:  I can advise senators that the earlier advice I gave abou
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech

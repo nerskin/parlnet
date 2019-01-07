@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Burke, Anna (The DEPUTY SPEAKER)",ALP,2012-09-13,"
 
 
@@ -9,7 +9,7 @@ The DEPUTY SPEAKER
 Ms AE Burke
 ) (09:01):  I have received messages from the Senate acquainting the House of the appointment of Senators Ruston and Sinodinos as participating members of the Joint Standing Committee on the National Broadband Network; the appointment of Senator Ruston to the Joint Committee of Public Accounts and Audit in place of Senator Kroger, discharged; the appointment of Senator McKenzie to the Joint Standing Committee on Treaties in place of Senator Birmingham, discharged.
 
-",HoR,<title>COMMITTEES</title>,"<title>National Broadband Network Committee, Public Accounts and Audit Committee, Treaties Committee</title>",COMMITTEES,1,1
+",HoR,<title>COMMITTEES</title>,"<title>National Broadband Network Committee, Public Accounts and Audit Committee, Treaties Committee</title>",COMMITTEES,1,1,speech
 "Burke, Anna (The DEPUTY SPEAKER)",ALP,2012-09-13,"
 
 
@@ -20,7 +20,7 @@ The DEPUTY SPEAKER
 Ms AE Burke
 ) (09:01):  I have received messages from the Senate acquainting the House of the appointment of Senators Ruston and Sinodinos as participating members of the Joint Standing Committee on the National Broadband Network; the appointment of Senator Ruston to the Joint Committee of Public Accounts and Audit in place of Senator Kroger, discharged; the appointment of Senator McKenzie to the Joint Standing Committee on Treaties in place of Senator Birmingham, discharged.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,1,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,1,2,speech
 "Marles, Richard, MP",ALP,2012-09-13,"
 
 
@@ -247,7 +247,7 @@ I commend this bill to the House.
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>International Fund for Agricultural Development Amendment Bill 2012</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>International Fund for Agricultural Development Amendment Bill 2012</title>,BILLS,2,1,speech
 "Billson, Bruce, MP",LP,2012-09-13,"
 
 
@@ -261,7 +261,7 @@ What we tried to do, after saving the government from itself where consequential
 
 We were particularly assured for home based businesses that their privacy would be protected—that there would be measures put in place to make sure that their place of work, which was also their private home, would not be disclosed to the full world. We have now found that that assurance has not been met. I met yesterday with ASIC to work through a number of issues. This was one of them, and there were also issues in relation to the transfer of businesses and concerns about like names and the use of locator descriptors. There is much work to be done there, but it is sad that the small business community could not count on the government's word. We will try to work effectively to deal with the concerns— (Time expired)
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>National Business Names Registration System</title>,STATEMENTS BY MEMBERS,3,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>National Business Names Registration System</title>,STATEMENTS BY MEMBERS,3,1,speech
 "Swan, Wayne, MP",ALP,2012-09-13,"
 
 
@@ -269,7 +269,7 @@ We were particularly assured for home based businesses that their privacy would 
 Mr SWAN
  (Lilley—Deputy Prime Minister and Treasurer) (14:00):  I want to make some remarks on the Paralympians, who returned from London just this morning. I had the pleasure, along with the Leader of the Opposition, the Minister for Disability Reform and a number of other MPs, to be there this morning to welcome the team. It was a great honour. It was great to see so many of their family and friends there and to see how excited they were, because the success of the Paralympians in these games was truly spectacular—85 medals in the games, fifth overall in the medal tally, and, of course, we beat the USA when it came to gold medals. This team was particularly excited. The swimming team in particular did very well. There were some absolutely remarkable individual achievements. They wowed the crowds in London, but here the ratings were the highest the Paralympic Games have ever had in domestic Australian television. So this was one of the best teams ever. There were a record number of countries taking part in the games, and for us to come fifth in the medal count means that these Paralympians are well and truly Australia's golden team. They left these shores a few weeks ago with high hopes. They did not just realise those hopes; they exceeded them by far. They blew them right out of the water. It was just so pleasing to see all of the Paralympians there today, the years of hard work and discipline and dedication paying off for so many of those athletes this morning. On behalf of everyone in this House, I think, I can truly say we are proud of each and every one of them.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>London Paralympic Games</title>,STATEMENTS ON INDULGENCE,4,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>London Paralympic Games</title>,STATEMENTS ON INDULGENCE,4,1,speech
 "Bishop, Julie, MP",LP,2012-09-13,"
 
 
@@ -280,7 +280,7 @@ Ms JULIE BISHOP
 
 The Paralympic Games are among the most inspiring sporting events in the world. Our Paralympians are outstanding athletes who have overcome additional challenges to those that confront all elite athletes. Many of us spent hours watching our Paralympians compete against the best in the world. We cheered, whether they won gold and set world records or not. We are all equally proud of all our athletes, as we know they have given their all. Australians watching the games were taken on the same roller-coaster ride of emotions that we saw so clearly on the faces of our Paralympians. We shared their hopes and expectations, their triumphs and disappointments, but most of all we were overjoyed at their efforts. This is a triumph of the human spirit. Australians are united in our pride at the efforts of our wonderful athletes. We welcome them home.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>London Paralympic Games</title>,STATEMENTS ON INDULGENCE,4,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>London Paralympic Games</title>,STATEMENTS ON INDULGENCE,4,1,speech
 "Albanese, Anthony, MP",ALP,2012-09-13,"
 
 
@@ -294,7 +294,7 @@ That further statements on indulgence in relation to the London Paralympic Games
 
 Question agreed to. 
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>London Paralympic Games</title>,STATEMENTS ON INDULGENCE,4,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>London Paralympic Games</title>,STATEMENTS ON INDULGENCE,4,1,speech
 "Albanese, Anthony, MP",ALP,2012-09-13,"
 
 
@@ -308,7 +308,127 @@ That further statements on indulgence in relation to the London Paralympic Games
 
 Question agreed to. 
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Reference to Federation Chamber</title>,STATEMENTS ON INDULGENCE,4,2
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Reference to Federation Chamber</title>,STATEMENTS ON INDULGENCE,4,2,speech
+"Bishop, Julie, MP",LP,2012-09-13,"
+
+
+
+Ms JULIE BISHOP
+ (Curtin—Deputy Leader of the Opposition) (14:04):  My question is to the Acting Prime Minister. I remind the Acting Prime Minister that there have been seven changes to the carbon tax it was promised would never be introduced, five versions of the mining tax, live cattle exports that have been allowed and then banned and then allowed again, and, in the last 24 hours, three versions of the legislation banning fishing. How can Australian businesses plan for the future when this government flips and flops, chops and changes and just makes it up as it goes along?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Gillard Government</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Swan, Wayne, MP",ALP,2012-09-13,"
+
+
+
+Mr SWAN
+ (Lilley—Deputy Prime Minister and Treasurer) (14:04):  I thank the Deputy Leader of the Opposition for that question, because it is not a bad attempt to deflect attention away from the savage cuts that are being made to health and education right across Queensland, the absolutely savage cuts—14,000 public sector workers getting the axe in Queensland.
+
+
+
+
+Mr Pyne:
+  Madam Deputy Speaker, I rise on a point of order. If the relevance rule is to mean anything at all, the Treasurer must be brought back to the actual question he was asked and not this extraordinary attempt to avoid his own incompetence.
+
+
+
+
+The DEPUTY SPEAKER 
+
+(
+Ms AE Burke
+):  When questions are asked with so much detail, applying a direct relevance rule becomes quite difficult. I will ask the Acting Prime Minister to return to the question before the chair.
+
+
+
+
+Mr SWAN:
+  Certainly. First of all, I was asked about the carbon price. The government has put in place a carbon price to make sure we reduce carbon pollution and to drive investment in renewable energy. Nothing could be more important to the prosperity of an economy in the 21st century than being driven by renewable energy and making your economy more energy efficient. We have devoted a lot of time to that over the past 12 to 18 months, and we have been opposed, tooth and nail, every day of the week, by those opposite. But we have got that done, and that will be good for our economy in the long term. It will be good for prosperity in this country and it will increase the investment in renewable energy. So everyone on this side of the House is proud of that achievement.
+
+
+And, of course, we have put in place new taxation arrangements in the mining industry to make sure Australians get the fair share from the resources they own—100 per cent.
+
+
+But of course what those opposite have done there, once again, is to be entirely negative, to oppose everything, because they would rather see our economy fail than see this country succeed, and that is the approach that they take on every issue.
+
+
+Now let us go to the issue of the supertrawler. What the government wants to see is a sustainable fishing industry in this country. The supertrawler poses new challenges to our current regulatory framework, so the government is coming to the table in good faith, understanding the concern of all Australians about the activity of the supertrawler. As someone who grew up on the Queensland coast, I have spent a lot of time in the water and I have spent a lot of time out there fishing along the Queensland coast. What I want to see for my children and what I want to see for my grandchildren is the capacity to throw a line in and catch a fish. That is what we want to see, and anyone who wants their children and grandchildren to see that will be for sustainable practices in fisheries.
+
+
+But, as is the case with the carbon price, what we have on the other side of the House is a mob of environmental vandals who do not understand the importance of sustainability—sustainability when it comes to the need to invest in renewable energy, sustainability when it comes to the need to make sure we have adequate stocks— (Time expired)
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Gillard Government</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Hockey, Joe, MP",LP,2012-09-13,"
+
+
+
+Mr HOCKEY
+ (North Sydney) (14:36):  My question is to the Treasurer. If the Treasurer disagrees with the $120 billion figure for his black hole, does he also disagree with the Director of Budget Policy and Forecasting at Macroeconomics, Stephen Anthony, a former senior figure in the Treasury and the department of finance who says, regarding your $120 billion black hole:
+
+
+There is a hole—fill it—and by the way, stop raising spending promises you cannot keep.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Swan, Wayne, MP",ALP,2012-09-13,"
+
+
+
+Mr SWAN
+ (Lilley—Deputy Prime Minister and Treasurer) (14:36):  I thank the shadow Treasurer for that question. I would like to go back to basics here because I think it is very important. We have put in place a responsible fiscal policy. We have set ourselves the objective to come back to surplus in 2012-13 and we are committed to doing that because our economy is growing around trend. That is precisely what we ought to do, given the strength and fundamentals of our economy, and that is what we have been working on for a number of years since the global financial crisis when we took the essential steps to support our economy, to support our communities, to keep people in work and to keep the doors of small business open.
+
+
+ Of course, we have always been able to find room for our Labor priorities. In some of the most dreadful conditions in 80 years we found room to put in place the most significant increase in the pension and we are very proud of that. We have tripled the tax-free threshold, a fundamental reform, which really delivers to many people on low and fixed incomes. We have done all those things because we have found responsible savings. It has been hard. We have worked very much in the budget to find those savings—$33 billion in our last budget, $100 billion before that. That has been the methodical, careful approach of the government, which stands in stark contrast to the approach of those opposite who simply want to slash and burn. 
+
+
+Their agenda is to slash and burn, like they are slashing and burning in Queensland and in New South Wales. We hear this afternoon that the Liberals in South Australia also have a new plan which is that, if elected to government, they will cut the public sector by—
+
+
+
+
+Mr Hockey:
+  Madam Deputy Speaker, I rise on a point of order. Labor just lost its AAA rating in South Australia, mate! So you should be pretty thankful. 
+
+
+
+
+The DEPUTY SPEAKER 
+
+(
+Ms AE Burke
+):  The member for North Sydney will raise the point of order.
+
+
+
+
+Mr Hockey:
+  Madam Deputy Speaker, my point of order goes to relevance. I would hope the Treasurer would be relevant to the question.
+
+
+
+
+Mr SWAN:
+  The shadow Treasurer has confirmed yet again that he has given a big tick to all of the cuts in Queensland and New South Wales and, if they are to come, in South Australia, because that is the federal Liberal agenda. What we have here is the Liberal 'Horror show'. It is produced by Barry O'Farrell and Campbell Newman and it is authorised by Tony Abbott, Leader of the Opposition.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Andrews, Kevin, MP",LP,2012-09-13,"
+
+
+
+Mr ANDREWS
+ (Menzies) (15:14):  Madam Deputy Speaker, can I also ask you to refer to the Speaker the practice of the Leader of the House when an opposition member seeks leave to table a document relevant to the question and is denied such leave he then proceeds—and has done continuously for the last few days—to then table a document which is unrelated to any current question or business before the House? In my recollection, this is a novel practice and I would ask you to refer the question to the Speaker and get his advice as to whether or not this actually constitutes an abuse of the proceedings.
+
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,<title>House of Representatives Practice</title>,QUESTIONS TO THE SPEAKER,9,1,question
+"Burke, Anna (The DEPUTY SPEAKER)",ALP,2012-09-13,"
+
+
+
+The DEPUTY SPEAKER 
+
+(
+Ms AE Burke
+) (15:56):  I will refer the issue to the Speaker.
+
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,<title>House of Representatives Practice</title>,QUESTIONS TO THE SPEAKER,9,1,answer
 "Burke, Anna (The DEPUTY SPEAKER)",ALP,2012-09-13,"
 
 
@@ -390,7 +510,7 @@ REASONS FOR REFERRAL/PRINCIPAL ISSUES FOR CONSIDERATION:
 
 Examination of drafting changes regarding schoolkids bonus, child support legislation and the Social Security Appeals Tribunal.
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,11,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,11,1,speech
 "Burke, Anna (The DEPUTY SPEAKER)",ALP,2012-09-13,"
 
 
@@ -472,7 +592,7 @@ REASONS FOR REFERRAL/PRINCIPAL ISSUES FOR CONSIDERATION:
 
 Examination of drafting changes regarding schoolkids bonus, child support legislation and the Social Security Appeals Tribunal.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,11,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,11,2,speech
 "Burke, Anna (The DEPUTY SPEAKER)",ALP,2012-09-13,"
 
 
@@ -495,7 +615,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "Hockey, Joe, MP",LP,2012-09-13,"
 
 
@@ -612,7 +732,7 @@ The Labor Party have a $120 billion black hole, in an attempt to make the Prime 
 
 What does the Labor Party do? In response to the general malaise across the Australian community, the Labor Party says: 'Don't worry. We're going on a big-spending, big-taxing binge.' You know what? The Labor Party are hypocrites for this. They criticise for Campbell Newman for job cuts. They are cutting 3,000 jobs this year out of the Public Service in Canberra, and they are trying to give us a sanctimonious lecture about who cares about jobs. Typical Labor—all hypocrisy.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "O'Connor, Brendan, MP",ALP,2012-09-13,"
 
 
@@ -720,7 +840,7 @@ We do not need any lecturing from those opposite .We do not need any pretence th
 
 What we do need before the next election—and we need it soon—is a direct explanation to the Australian people from the Leader of the Opposition of what he is looking to do. We know he supports Campbell Newman's approach, we know he supports Premier Barry O'Farrell's approach, we know he supports the cuts in Victoria and I am sure he will support the Leader of the Opposition in South Australia, but we need to know—and the people of Australia deserve to know—what Tony Abbott is going to do in relation to cutting essential services if he gets elected. He needs to tell people the truth. In the last week he has said nothing. He owes the Australian people an explanation. He needs to tell them the truth.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "Truss, Warren, MP",Nats,2012-09-13,"
 
 
@@ -764,7 +884,7 @@ Labor's $120 billion black hole is not just on paper—it has a direct effect on
 
 The Treasurer has been asked over recent days about what he proposes to do about this debt and what new taxes are going to be introduced. There are 26 new ones already and another 20 at least are being talked about, including the horrors of death duties, which the Treasurer was not willing to rule out yesterday. The reality is that Labor continues to deliver record deficits, record expenditure and record incompetence. Australians are paying for this at the rate of $20 million a day in interest and they will keep paying for it for generations. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "Leigh, Andrew, MP",ALP,2012-09-13,"
 
 
@@ -852,7 +972,7 @@ The DEPUTY SPEAKER:  The member for Casey will resume his seat. He knows that an
 Dr LEIGH:
   The destructive politics on debt are characteristic of the way in which this opposition does business. In a piece entitled 'Small target, big letdown' Peter Hartcher, writing in the Sydney Morning Herald, talked about the opposition's strategy as being in the vein of Achilles: they rage against everything in front of them. My friend Macgregor Duncan has noted, similarly, that the opposition seem to be behaving like an Achilles rather than like a Hector. The opposition are out there to attack, to criticise to condemn. They are not there to build and to create. I will end there.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "Albanese, Anthony, MP",ALP,2012-09-13,"
 
 
@@ -866,7 +986,7 @@ That government business be brought on.
 
  
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "Burke, Tony, MP",ALP,2012-09-13,"
 
 
@@ -910,7 +1030,7 @@ Ms AE Burke
 
  
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,14,1,speech
 "Burke, Tony, MP",ALP,2012-09-13,"
 
 
@@ -954,7 +1074,7 @@ Ms AE Burke
 
  
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Bandt, Adam, MP",AG,2012-09-13,"
 
 
@@ -1071,7 +1191,7 @@ I spoke to the rationale for these amendments during the substantive debate so I
 
 If there is a reason for banning this supertrawler, as has now been accepted there is, there is a reason for banning supertrawlers permanently. That is especially so if, as appears to be the case, as a result of further amendments this bill is going to be weakened even further. There is a very strong argument for preventing a situation where we have one supertrawler coming in in a short period of time and then another one after that and then another one after that. We do not want to be coming back here having these kinds of debates every time one of these industrial sized fishing vessels comes in, so the simplest solution is to accept these amendments and ban supertrawlers altogether.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1,speech
 "Oakeshott, Robert, MP",Ind.,2012-09-13,"
 
 
@@ -1085,7 +1205,7 @@ Secondly, there will be a short time line for a review of the Fisheries Manageme
 
 The third part is that the powers that have been given to the minister today will not last. The legislation will include a sunset clause when it is passed today. I have had great concerns about the unintended consequences there would have been, with two ministers having full discretion over social, economic and environmental concerns at the end of the process. We either beef up the process and make it matter and give the minister for fisheries those powers or we do not. I am pleased that we are now going to tidy up the science and make it and the process matter so that in the future we do have happen weeks like the one we have had this week.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1,speech
 "Burke, Tony, MP",ALP,2012-09-13,"
 
 
@@ -1112,7 +1232,7 @@ Ms AE Burke
 Mr BURKE:
   We regard these particular amendments as abandoning a science based process and we will not be supporting them.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1,speech
 "Hunt, Greg, MP",LP,2012-09-13,"
 
 
@@ -1137,7 +1257,7 @@ The DEPUTY SPEAKER:  As there are fewer than five members on the side for the ay
 
 Question negatived, Mr Bandt and Mr Wilkie voting aye.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1,speech
 "Burke, Tony, MP",ALP,2012-09-13,"
 
 
@@ -1172,7 +1292,7 @@ Division 4—Sunsetting of this Part
 
 Of the two amendments in front of us, one relates to an outcome which was sought by the opposition during debate, which was that 'social' and 'economic' be removed and that we simply deal with environmental considerations only. Since the Water Act I have constantly been asked: why can't social and economic always be included when environmental is? We thought the opposition would like it; they did not. We are taking it out. The second amendment, referred to by the member for Lyne, is that new declarations under the amendment we are dealing with today will not occur after 12 months time. By that time the root-and-branch review of the fisheries management processes should be in place, but we will have this legislation to be able to fill that gap in the interim.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1,speech
 "Hunt, Greg, MP",LP,2012-09-13,"
 
 
@@ -1180,7 +1300,7 @@ Of the two amendments in front of us, one relates to an outcome which was sought
 Mr HUNT
  (Flinders) (16:48):  Yesterday the minister introduced a new power based on social uncertainty. Today the minister takes away the power based on social uncertainty. This is a government that was born of uncertainty.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1,speech
 "Bandt, Adam, MP",AG,2012-09-13,"
 
 
@@ -1219,7 +1339,7 @@ The DEPUTY SPEAKER:  As there are fewer than five members on the side for the no
 
 Question agreed to, Mr Bandt and Mr Wilkie voting no.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1,speech
 "Burke, Tony, MP",ALP,2012-09-13,"
 
 
@@ -1375,7 +1495,7 @@ commercial fishing activity has the meaning given by subsection 390SC(1A).
 
 As I referred to in my closing remarks in the second reading debate, these are the amendments that guarantee that all existing commercial fishing activity which had been engaged in before 11 September, when this bill was introduced, remains not subject to interim declarations, and that recreational fishing, whether it be purely recreational or whether it be charter recreational activity, is clearly not part of the bill before the House.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1,speech
 "Hunt, Greg, MP",LP,2012-09-13,"
 
 
@@ -1395,7 +1515,7 @@ The DEPUTY SPEAKER
 Ms AE Burke
 ):  The question now is that this bill, as amended, be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1,speech
 "Burke, Tony, MP",ALP,2012-09-13,"
 
 
@@ -1412,7 +1532,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Environment Protection and Biodiversity Conservation Amendment (Declared Fishing Activities) Bill 2012</title>,BILLS,16,1,speech
 "Bandt, Adam, MP",AG,2012-09-13,"
 
 
@@ -1529,7 +1649,7 @@ I spoke to the rationale for these amendments during the substantive debate so I
 
 If there is a reason for banning this supertrawler, as has now been accepted there is, there is a reason for banning supertrawlers permanently. That is especially so if, as appears to be the case, as a result of further amendments this bill is going to be weakened even further. There is a very strong argument for preventing a situation where we have one supertrawler coming in in a short period of time and then another one after that and then another one after that. We do not want to be coming back here having these kinds of debates every time one of these industrial sized fishing vessels comes in, so the simplest solution is to accept these amendments and ban supertrawlers altogether.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Oakeshott, Robert, MP",Ind.,2012-09-13,"
 
 
@@ -1543,7 +1663,7 @@ Secondly, there will be a short time line for a review of the Fisheries Manageme
 
 The third part is that the powers that have been given to the minister today will not last. The legislation will include a sunset clause when it is passed today. I have had great concerns about the unintended consequences there would have been, with two ministers having full discretion over social, economic and environmental concerns at the end of the process. We either beef up the process and make it matter and give the minister for fisheries those powers or we do not. I am pleased that we are now going to tidy up the science and make it and the process matter so that in the future we do have happen weeks like the one we have had this week.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Burke, Tony, MP",ALP,2012-09-13,"
 
 
@@ -1570,7 +1690,7 @@ Ms AE Burke
 Mr BURKE:
   We regard these particular amendments as abandoning a science based process and we will not be supporting them.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Hunt, Greg, MP",LP,2012-09-13,"
 
 
@@ -1595,7 +1715,7 @@ The DEPUTY SPEAKER:  As there are fewer than five members on the side for the ay
 
 Question negatived, Mr Bandt and Mr Wilkie voting aye.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Burke, Tony, MP",ALP,2012-09-13,"
 
 
@@ -1630,7 +1750,7 @@ Division 4—Sunsetting of this Part
 
 Of the two amendments in front of us, one relates to an outcome which was sought by the opposition during debate, which was that 'social' and 'economic' be removed and that we simply deal with environmental considerations only. Since the Water Act I have constantly been asked: why can't social and economic always be included when environmental is? We thought the opposition would like it; they did not. We are taking it out. The second amendment, referred to by the member for Lyne, is that new declarations under the amendment we are dealing with today will not occur after 12 months time. By that time the root-and-branch review of the fisheries management processes should be in place, but we will have this legislation to be able to fill that gap in the interim.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Hunt, Greg, MP",LP,2012-09-13,"
 
 
@@ -1638,7 +1758,7 @@ Of the two amendments in front of us, one relates to an outcome which was sought
 Mr HUNT
  (Flinders) (16:48):  Yesterday the minister introduced a new power based on social uncertainty. Today the minister takes away the power based on social uncertainty. This is a government that was born of uncertainty.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Bandt, Adam, MP",AG,2012-09-13,"
 
 
@@ -1677,7 +1797,7 @@ The DEPUTY SPEAKER:  As there are fewer than five members on the side for the no
 
 Question agreed to, Mr Bandt and Mr Wilkie voting no.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Burke, Tony, MP",ALP,2012-09-13,"
 
 
@@ -1833,7 +1953,7 @@ commercial fishing activity has the meaning given by subsection 390SC(1A).
 
 As I referred to in my closing remarks in the second reading debate, these are the amendments that guarantee that all existing commercial fishing activity which had been engaged in before 11 September, when this bill was introduced, remains not subject to interim declarations, and that recreational fishing, whether it be purely recreational or whether it be charter recreational activity, is clearly not part of the bill before the House.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Hunt, Greg, MP",LP,2012-09-13,"
 
 
@@ -1853,7 +1973,7 @@ The DEPUTY SPEAKER
 Ms AE Burke
 ):  The question now is that this bill, as amended, be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Consideration in Detail</title>,BILLS,16,2,speech
 "Randall, Don, MP",LP,2012-09-13,"
 
 
@@ -1882,7 +2002,7 @@ I do not seek to criticise the excellent work of Centrelink staff, and I can con
 
 Leave granted.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Centrelink</title>,CONSTITUENCY STATEMENTS,20,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Centrelink</title>,CONSTITUENCY STATEMENTS,20,1,speech
 "Prentice, Jane, MP",LP,2012-09-13,"
 
 
@@ -1914,7 +2034,7 @@ During the parliamentary recess I spent 10 days in Afghanistan with our troops a
 
 We have lost two very special soldiers—two men trained to an exceptionally high level, both physically and mentally; two quick-thinking and innovative men who could keep a cool head in difficult and complex situations all over the world. Their commitment to their chosen career as soldiers and to our mission in Afghanistan was unwavering, as was their loyalty to their mates and their love for their own families and their Army family. On behalf of the Ryan electorate, I offer my sincere condolences to Lance Corporal McDonald's and Private Galagher's families, friends, colleagues and loved ones. Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>McDonald, Lance Corporal Mervyn John, Galagher, Private Nathanael John Aubrey</title>",CONDOLENCES,21,1
+",HoR,<title>CONDOLENCES</title>,"<title>McDonald, Lance Corporal Mervyn John, Galagher, Private Nathanael John Aubrey</title>",CONDOLENCES,21,1,speech
 "McCormack, Michael, MP",Nats,2012-09-13,"
 
 
@@ -1955,7 +2075,7 @@ Nate and Merv were real Aussie blokes, but they were much more as well. They wer
 
 Their grieving families will remember their love each and every day. May they rest in peace. Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>McDonald, Lance Corporal Mervyn John, Galagher, Private Nathanael John Aubrey</title>",CONDOLENCES,21,1
+",HoR,<title>CONDOLENCES</title>,"<title>McDonald, Lance Corporal Mervyn John, Galagher, Private Nathanael John Aubrey</title>",CONDOLENCES,21,1,speech
 "Kelly, Craig, MP",LP,2012-09-13,"
 
 
@@ -1996,7 +2116,7 @@ This is a group so evil that it has planted improvised explosive devices in girl
 
 We should never forget the words of Edmund Burke, who once famously said, 'The only thing necessary for the triumph of evil is that good men do nothing.' Lance Corporal Mervyn McDonald and Private Nathanael Galagher were good men. They were prepared to stand up and to fight evil to ensure that it will not triumph. Australia, and the world, is a better place for their sacrifice and their service, and their efforts should never be forgotten. Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>McDonald, Lance Corporal Mervyn John, Galagher, Private Nathanael John Aubrey</title>",CONDOLENCES,21,1
+",HoR,<title>CONDOLENCES</title>,"<title>McDonald, Lance Corporal Mervyn John, Galagher, Private Nathanael John Aubrey</title>",CONDOLENCES,21,1,speech
 "Brodtmann, Gai, MP",ALP,2012-09-13,"
 
 
@@ -2025,7 +2145,7 @@ Lance Corporal McDonald and Private Galagher were bravely serving their country 
 
 Debate adjourned.
 
-",HoR,<title>CONDOLENCES</title>,"<title>McDonald, Lance Corporal Mervyn John, Galagher, Private Nathanael John Aubrey</title>",CONDOLENCES,21,1
+",HoR,<title>CONDOLENCES</title>,"<title>McDonald, Lance Corporal Mervyn John, Galagher, Private Nathanael John Aubrey</title>",CONDOLENCES,21,1,speech
 "Broadbent, Russell, MP",LP,2012-09-13,"
 
 
@@ -2067,4 +2187,47 @@ Dave is a special personality, and I want to pay tribute—from Maranoa to McMil
 
 Honourable members:  Hear, hear!
 
-",HoR,<title>ADJOURNMENT</title>,"<title>Rackett, Mr David</title>",ADJOURNMENT,22,1
+",HoR,<title>ADJOURNMENT</title>,"<title>Rackett, Mr David</title>",ADJOURNMENT,22,1,speech
+"Oakeshott, Robert, MP",Ind.,2012-09-13,"
+
+
+
+Mr Oakeshott
+  asked the Minister for Health, in writing, on 14 August 2012:
+
+
+How is the Government responding to calls for post-polio syndrome clinics to be established within the Australian health network?
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Post-polio Syndrome Clinics (Question No. 1133)</title>,QUESTIONS IN WRITING,23,1,question
+"Plibersek, Tanya, MP",ALP,2012-09-13,"
+
+
+
+Ms Plibersek:
+  The answer to the honourable member's question is as follows:
+
+
+I note the Discussion paper on the late effects of polio/post-polio syndrome prepared by the House of Representatives Standing Committee on Health and Ageing, and its recommendations. I would like to acknowledge the work of the Committee in highlighting this important health issue. 
+
+
+Recommendation 3 of the paper calls on Medicare Locals to engage with Polio Australia and other stakeholders to help raise awareness of the late effects of polio / post-polio syndrome. 
+
+
+Medicare Locals are a nation-wide network of 61 primary health care organisations, and operate as health system planners at the regional level. They have primary responsibility for identifying the health care needs of their local populations, based on a comprehensive needs assessment process involving public and stakeholder consultation, and coordinating activities to address identified service gaps. Medicare Locals are also responsible for ensuring that primary health care works for the whole of the local community, including through addressing the needs of people affected by the late effects of polio/ post-polio syndrome.
+
+
+Community members, including post-polio syndrome patients, their families and their carers, are encouraged to engage with their Medicare Local to ensure that their specific health care needs can be better understood, and appropriately addressed, by the Medicare Local.
+
+
+The Medicare Local network is well placed to support clinicians, service providers and peak bodies in improving patient care. An example of how this can be achieved is through Medicare Locals supporting local primary health care providers to participate in continuing professional development activities.
+
+
+The Government urges peak stakeholder groups such as Polio Australia to engage with the Australian Medicare Local Alliance (AML Alliance), as the national body for Medicare Locals, to jointly consider options for how the Medicare Local network can help to address the impacts of the late effects of polio / post-polio syndrome, in collaboration with local primary health care service providers and practitioners.
+
+
+ 
+
+
+ 
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Post-polio Syndrome Clinics (Question No. 1133)</title>,QUESTIONS IN WRITING,23,1,answer

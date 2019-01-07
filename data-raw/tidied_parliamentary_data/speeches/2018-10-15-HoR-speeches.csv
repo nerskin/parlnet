@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Wicks, Lucy, MP",LP,2018-10-15,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 Mrs WICKS
  (Robertson) (10:01):  Today I present the 30th report of the Petitions Committee for the 45th Parliament, together with 19 petitions and three ministerial responses to petitions previously presented.
 
-",HoR,<title>COMMITTEES</title>,<title>Petitions Committee</title>,COMMITTEES,1,1
+",HoR,<title>COMMITTEES</title>,<title>Petitions Committee</title>,COMMITTEES,1,1,speech
 "Wicks, Lucy, MP",LP,2018-10-15,"
 
 
@@ -14,7 +14,7 @@ Mrs WICKS
 Mrs WICKS
  (Robertson) (10:01):  Today I present the 30th report of the Petitions Committee for the 45th Parliament, together with 19 petitions and three ministerial responses to petitions previously presented.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,1,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,1,2,speech
 "Wicks, Lucy, MP",LP,2018-10-15,"
 
 
@@ -22,7 +22,7 @@ Mrs WICKS
 Mrs WICKS
  (Robertson) (10:01):  I present the following ministerial responses to petitions previously presented:
 
-",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,3,2
+",HoR,<title>PETITIONS</title>,<title>Responses</title>,PETITIONS,3,2,speech
 "Albanese, Anthony, MP",ALP,2018-10-15,"
 
 
@@ -149,7 +149,7 @@ Ms Claydon:
 
 The SPEAKER:  The time allotted for this debate has expired. The debate is adjourned, and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>BILLS</title>,<title>High Speed Rail Planning Authority Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>High Speed Rail Planning Authority Bill 2018</title>,BILLS,5,1,speech
 "O'Brien, Ted, MP",LP,2018-10-15,"
 
 
@@ -212,7 +212,7 @@ The SPEAKER:  Is the motion seconded?
 Mrs Marino:
   I second the motion and reserve my right to speak. 
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1,speech
 "O'Toole, Cathy, MP",ALP,2018-10-15,"
 
 
@@ -232,7 +232,7 @@ Labor fully supports the royal commission, but the royal commission must take a 
 
 The Herbert electorate has an ageing population, and the issues associated with respectful care of our older persons from a human rights perspective are absolutely critical. We are an ageing population. In my electorate of Herbert, we have so many people who are in desperate need of aged-care services, particularly in-home care services. Our older persons are in desperate need of services and facilities in our community that help them live safely in their own homes for as long as is humanly possible. Older Australians cannot wait until after the royal commission; they need action right now. The government could start right now by reversing the billions of dollars that have been cut from the aged-care sector across the board, because this would make a significant difference to those people who are ageing in our communities as I speak. 
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1,speech
 "Marino, Nola, MP",LP,2018-10-15,"
 
 
@@ -252,7 +252,7 @@ We know that, as a result of recent inspections and some very well-publicised in
 
 I know, having had to make the decision myself with my family, that one of the hardest decisions any of us make is when we are entrusted with the complete care of a family member, because they need a level of care that we cannot provide in their home or in another home. It's the complete type of care that is needed when high-level residential care is required. Whether it's your parents, your partner, your husband or wife, a dad, an aunty, an uncle or even a young person—whomever it is—they are very, very hard decisions. These decisions need to be made with confidence in the care that they will receive. That's what we want to know. When people we love go into care, we want to know they have the right level of care, which is why the government has called the royal commission. I commend the minister for this action.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1,speech
 "Collins, Julie, MP",ALP,2018-10-15,"
 
 
@@ -272,7 +272,7 @@ We know that, today, there are 121,000 older Australians waiting for home care. 
 
 We are a wealthy nation. We can and should do better when it comes to older Australians. There are so many issues that should be fixed today—that need to be fixed today. And, whilst supporting the royal commission, I implore the government: please, fix it today!
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1,speech
 "Crewther, Chris, MP",LP,2018-10-15,"
 
 
@@ -295,7 +295,7 @@ As I said before, I know, from my own family's experience, some of the issues ac
 
 I should acknowledge and commend the students from Mount Erin College, which is the neighbouring school nearby, who were involved on Saturday, which is normally their day off from school. I thank the minister also for coming down on a number of occasions to speak about aged care in aged-care forums and for visiting a number of villages within my electorate. I am proud of the government's actions we have taken not only to improve the aged care sector but also with respect to the royal commission. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1,speech
 "Ryan, Joanne, MP",ALP,2018-10-15,"
 
 
@@ -318,7 +318,7 @@ In contrast, in 2012, Labor went with Living Longer Living Better, an evidence-b
 
 Rather than put itself in a positive position, this government has failed to act for five years now across the entire space. The royal commission is necessary, but we know already that there are areas that could be fixed today if this government so chose. I join the member for Franklin and call on this government to take the actions we know will assist today, to increase the number of home care packages, to get this system out of crisis as quickly as possible. Yes, we need a royal commission, but we already know some of the faults and we already know some of the solutions. This government needs to act today.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1,speech
 "Wilson, Tim, MP",LP,2018-10-15,"
 
 
@@ -344,7 +344,7 @@ But of course what people want, what Australians want, is action. They don't jus
 
 But, despite what may be revealed by the royal commission, one of the most critical things is that we do not beat up on the sector and diminish the standing of it when there are so many good people doing so much good work every day. We need to back them and to celebrate their achievements as much as we need to shine a very bright light into dark places. I was very privileged recently to be part of launching Fairway Aged Care, Bayside Aged Care's new facilities in Sandringham—only a week or so ago. It was a topic of great concern to the board and to the management there, including people like the president, Michael Scully, and the CEO and DON, Sandy May. Most critically, I was left with advice from the mayor and also Fairway's board member, Laurie Evans, who said, 'Tim, take it back to Canberra that there are so many of us in the aged-care and community space doing so much good work.' You heard Laurie. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1,speech
 "Hart, Ross, MP",ALP,2018-10-15,"
 
 
@@ -367,7 +367,7 @@ Aged care has been a policy area which has attracted a significant level of bipa
 
 This government has not addressed this policy area with any success, which is evident from the significant level of public concern around the aged-care sector. More than a dozen reviews and reports, including hundreds of recommendations, still sit within government. They sit on the minister's desk without being actioned, even though this royal commission has been called. The royal commission is to be welcomed, but we need action. We need something to be done now, not waiting for the results of the royal commission. (Time expired)
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1,speech
 "Pitt, Keith, MP",Nats,2018-10-15,"
 
 
@@ -384,7 +384,7 @@ Once again, I want to point out the work of the Minister for Senior Australians 
 
 The aged-care royal commission has been called. It will be about facts; it will not be about people out there politicising this very difficult issue. It will be about an individual with the resources and the facilities to investigate the facts, make determinations and make further recommendations. It is a difficult sector. As I've said, these are people who demand our respect and who deserve our respect. They have lived through changes in technology, like you wouldn't believe, from the donkey hot water system and the combustion stove. They've been through World War II, Korea, Vietnam, Iraq and Afghanistan. They have lost children and grandchildren on their way through life. When they find themselves at the tail end and not the beginning, it is up to us to ensure the facilities and services that they need and deserve are provided. I look forward to the results of the aged-care royal commission, and certainly to getting to the facts and establishing what we can do to improve those services for them.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1,speech
 "Albanese, Anthony, MP",ALP,2018-10-15,"
 
 
@@ -404,7 +404,7 @@ Funding is critical. It does matter. That's why the government's changes to fund
 
 In the remaining time, I want to say that the issue of people from non-English-speaking backgrounds particularly has to be addressed. Elderly people from these backgrounds lose their English in many cases and go back to their first language, and they need specific support arising out of this. We need, too, as the Prime Minister has said, a culture of respect for older Australians. That's something the parliament should unite on.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1,speech
 "Falinski, Jason, MP",LP,2018-10-15,"
 
 
@@ -430,7 +430,7 @@ But we should not ignore the failures. The artificial cap on bed places has mean
 
 If the royal commission achieves nothing else, it should be this: that whatever government strictures there are on choice of our tribal elders are removed, when it comes to their final home, especially if this allows more investment; and that no government should care more about the vested interests of those working in aged care over those that they are meant to be caring for.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1,speech
 "Lamb, Susan, MP",ALP,2018-10-15,"
 
 
@@ -462,7 +462,7 @@ The DEPUTY SPEAKER
 Mr S Georganas
 ):  I thank the member for Longman. There being no further speakers, the debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Royal Commission into Aged Care Quality and Safety</title>,PRIVATE MEMBERS' BUSINESS,6,1,speech
 "Albanese, Anthony, MP",ALP,2018-10-15,"
 
 
@@ -494,7 +494,7 @@ Indeed, it's a fact that the Liberal member for Farrer, Sussan Ley, introduced h
 
 Our animals need support and our agricultural sector needs strong and sustainable regulation. Both of these measures can be achieved by supporting this legislation. And the parliament needs to wake up to how angry the Australian population are about these issues not being addressed. Anyone who looks at that footage can't possibly say that this is okay to just continue. This should not be a partisan issue; we should be bringing on this bill for a vote and we should be carrying it through both houses of parliament. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Inspector-General of Animal Welfare and Live Animal Exports Bill 2018</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Inspector-General of Animal Welfare and Live Animal Exports Bill 2018</title>,BILLS,7,1,speech
 "Joyce, Barnaby, MP",Nats,2018-10-15,"
 
 
@@ -520,7 +520,7 @@ We also have to note that we're living in a global economy and note the cultural
 
 We're expanding. I think the biggest manufacturing industry in Australia is the meat processing industry. That's where the jobs are, and it's worked hand in glove with the revitalisation of the ag sector because of the returns that are there. The Labor Party represent a closure of the live export industry. They represent a reduction in income to regional towns. They want you to go back to being poor. That's what they believe you should be. If you're in a regional town, away from an urban capital, the Labor Party have no policy for you but that you should be poor again.
 
-",HoR,<title>BILLS</title>,<title>Inspector-General of Animal Welfare and Live Animal Exports Bill 2018</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Inspector-General of Animal Welfare and Live Animal Exports Bill 2018</title>,BILLS,7,1,speech
 "Swanson, Meryl, MP",ALP,2018-10-15,"
 
 
@@ -543,7 +543,7 @@ True to form, in October 2013, that same year, when in government, the former Pr
 
 This private member's bill calls on members to support the re-establishment of the independent statutory officer, and I recommend it strongly to this House. This do-nothing government should do something about this. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Inspector-General of Animal Welfare and Live Animal Exports Bill 2018</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Inspector-General of Animal Welfare and Live Animal Exports Bill 2018</title>,BILLS,7,1,speech
 "Ramsey, Rowan, MP",LP,2018-10-15,"
 
 
@@ -569,7 +569,7 @@ The export industry is largely based on wether sales and ewes that are deemed to
 
 Whilst they are prepared to accept some chilled beef, it is worth reflecting on the market of Bahrain, for instance. Up until about 2015, Australia was supplying around 11,800 tonnes of chilled meat into the Bahrain market. We lost our pre-eminence there as the live sheep provider, and we lost 40 per cent of the chilled meat market along with it, because these companies—these countries—actually trade as an entity. They are looking for trusted trading partners, which is why we need to be steady and careful about the things that we do in this place that disrupt those long-term trade arrangements we have made with other countries. With all things, I urge caution around the live sheep trade. It is very important to the farmers, particularly of WA and certainly of my electorate of Grey as well.
 
-",HoR,<title>BILLS</title>,<title>Inspector-General of Animal Welfare and Live Animal Exports Bill 2018</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Inspector-General of Animal Welfare and Live Animal Exports Bill 2018</title>,BILLS,7,1,speech
 "McBride, Emma, MP",ALP,2018-10-15,"
 
 
@@ -589,7 +589,7 @@ Labor's proposed five-year transition period will give the industry time to adju
 
 But Labor will not stand by and do nothing. Many of my constituents have written to me. Christie from Wyoming said, 'It's so difficult to see no action being taken on such an important issue.' Labor will act. We won't stand by and do nothing, like this government has done on such a critical issue as animal welfare. It's time the government started listening to the community and hearing the concerns that they have voiced. I call on those opposite to support this private member's bill. Currently, as I and many others in this House have said, the system is cruel and unfair. The government should stop doing nothing. It should listen to the community's concerns and support this private member's bill.
 
-",HoR,<title>BILLS</title>,<title>Inspector-General of Animal Welfare and Live Animal Exports Bill 2018</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Inspector-General of Animal Welfare and Live Animal Exports Bill 2018</title>,BILLS,7,1,speech
 "Landry, Michelle, MP",Nats,2018-10-15,"
 
 
@@ -609,7 +609,7 @@ The only option those opposite are content with, though, is to shut down the who
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Inspector-General of Animal Welfare and Live Animal Exports Bill 2018</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Inspector-General of Animal Welfare and Live Animal Exports Bill 2018</title>,BILLS,7,1,speech
 "Albanese, Anthony, MP",ALP,2018-10-15,"
 
 
@@ -641,7 +641,7 @@ Indeed, it's a fact that the Liberal member for Farrer, Sussan Ley, introduced h
 
 Our animals need support and our agricultural sector needs strong and sustainable regulation. Both of these measures can be achieved by supporting this legislation. And the parliament needs to wake up to how angry the Australian population are about these issues not being addressed. Anyone who looks at that footage can't possibly say that this is okay to just continue. This should not be a partisan issue; we should be bringing on this bill for a vote and we should be carrying it through both houses of parliament. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Joyce, Barnaby, MP",Nats,2018-10-15,"
 
 
@@ -667,7 +667,7 @@ We also have to note that we're living in a global economy and note the cultural
 
 We're expanding. I think the biggest manufacturing industry in Australia is the meat processing industry. That's where the jobs are, and it's worked hand in glove with the revitalisation of the ag sector because of the returns that are there. The Labor Party represent a closure of the live export industry. They represent a reduction in income to regional towns. They want you to go back to being poor. That's what they believe you should be. If you're in a regional town, away from an urban capital, the Labor Party have no policy for you but that you should be poor again.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Swanson, Meryl, MP",ALP,2018-10-15,"
 
 
@@ -690,7 +690,7 @@ True to form, in October 2013, that same year, when in government, the former Pr
 
 This private member's bill calls on members to support the re-establishment of the independent statutory officer, and I recommend it strongly to this House. This do-nothing government should do something about this. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Ramsey, Rowan, MP",LP,2018-10-15,"
 
 
@@ -716,7 +716,7 @@ The export industry is largely based on wether sales and ewes that are deemed to
 
 Whilst they are prepared to accept some chilled beef, it is worth reflecting on the market of Bahrain, for instance. Up until about 2015, Australia was supplying around 11,800 tonnes of chilled meat into the Bahrain market. We lost our pre-eminence there as the live sheep provider, and we lost 40 per cent of the chilled meat market along with it, because these companies—these countries—actually trade as an entity. They are looking for trusted trading partners, which is why we need to be steady and careful about the things that we do in this place that disrupt those long-term trade arrangements we have made with other countries. With all things, I urge caution around the live sheep trade. It is very important to the farmers, particularly of WA and certainly of my electorate of Grey as well.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "McBride, Emma, MP",ALP,2018-10-15,"
 
 
@@ -736,7 +736,7 @@ Labor's proposed five-year transition period will give the industry time to adju
 
 But Labor will not stand by and do nothing. Many of my constituents have written to me. Christie from Wyoming said, 'It's so difficult to see no action being taken on such an important issue.' Labor will act. We won't stand by and do nothing, like this government has done on such a critical issue as animal welfare. It's time the government started listening to the community and hearing the concerns that they have voiced. I call on those opposite to support this private member's bill. Currently, as I and many others in this House have said, the system is cruel and unfair. The government should stop doing nothing. It should listen to the community's concerns and support this private member's bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Landry, Michelle, MP",Nats,2018-10-15,"
 
 
@@ -756,7 +756,7 @@ The only option those opposite are content with, though, is to shut down the who
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Wilson, Tim, MP",LP,2018-10-15,"
 
 
@@ -821,7 +821,7 @@ Australia's labour market has continued to strengthen, with the labour force par
 
 On behalf of the committee, I thank the Governor of the Reserve Bank, Dr Philip Lowe, and other representatives of the RBA for appearing at the hearing on 17 August 2018. I would also like to thank the former chair of the economics committee, Ms Sarah Henderson MP, for her contribution. On that note, I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,9,1
+",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,9,1,speech
 "Thistlethwaite, Matt, MP",ALP,2018-10-15,"
 
 
@@ -862,7 +862,7 @@ It's a shame that Labor has had to act on this when the government's had many, m
 
 Once again, I thank the members of the ACCC who appeared before us and I thank the committee secretariat for their work in preparing both of the reports.
 
-",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,9,1
+",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,9,1,speech
 "Wilson, Tim, MP",LP,2018-10-15,"
 
 
@@ -873,7 +873,7 @@ Mr TIM WILSON
 
 That the House take note of each of the reports.
 
-",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,9,1
+",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,9,1,speech
 "Bird, Sharon (The DEPUTY SPEAKER)",ALP,2018-10-15,"
 
 
@@ -884,7 +884,7 @@ The DEPUTY SPEAKER
 Ms Bird
 ) (12:13):  The debate is adjourned. The resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,9,1
+",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,9,1,speech
 "Wilson, Tim, MP",LP,2018-10-15,"
 
 
@@ -898,7 +898,7 @@ That the order of the day be referred to the Federation Chamber for debate.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,9,1
+",HoR,<title>COMMITTEES</title>,<title>Economics Committee</title>,COMMITTEES,9,1,speech
 "Wilson, Tim, MP",LP,2018-10-15,"
 
 
@@ -963,7 +963,7 @@ Australia's labour market has continued to strengthen, with the labour force par
 
 On behalf of the committee, I thank the Governor of the Reserve Bank, Dr Philip Lowe, and other representatives of the RBA for appearing at the hearing on 17 August 2018. I would also like to thank the former chair of the economics committee, Ms Sarah Henderson MP, for her contribution. On that note, I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,9,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,9,2,speech
 "Thistlethwaite, Matt, MP",ALP,2018-10-15,"
 
 
@@ -1004,7 +1004,7 @@ It's a shame that Labor has had to act on this when the government's had many, m
 
 Once again, I thank the members of the ACCC who appeared before us and I thank the committee secretariat for their work in preparing both of the reports.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,9,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,9,2,speech
 "Wilson, Tim, MP",LP,2018-10-15,"
 
 
@@ -1015,7 +1015,7 @@ Mr TIM WILSON
 
 That the House take note of each of the reports.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,9,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,9,2,speech
 "Bird, Sharon (The DEPUTY SPEAKER)",ALP,2018-10-15,"
 
 
@@ -1026,7 +1026,7 @@ The DEPUTY SPEAKER
 Ms Bird
 ) (12:13):  The debate is adjourned. The resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,9,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,9,2,speech
 "Giles, Andrew, MP",ALP,2018-10-15,"
 
 
@@ -1064,7 +1064,7 @@ That the House take note of the report.
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,10,1
+",HoR,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,10,1,speech
 "Giles, Andrew, MP",ALP,2018-10-15,"
 
 
@@ -1078,7 +1078,7 @@ That the order of the day be referred to the Federation Chamber for debate.
 
 Question agreed to.
 
-",HoR,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,10,1
+",HoR,<title>BILLS</title>,<title>Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Bill 2017</title>,BILLS,10,1,speech
 "Giles, Andrew, MP",ALP,2018-10-15,"
 
 
@@ -1116,7 +1116,7 @@ That the House take note of the report.
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Report from Committee</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Report from Committee</title>,BILLS,10,2,speech
 "Brodtmann, Gai, MP",ALP,2018-10-15,"
 
 
@@ -1124,7 +1124,7 @@ Debate adjourned.
 Ms BRODTMANN
  (Canberra) (13:30):  The drone delivery trial in Bonython is still going and residents are getting increasingly fed up. Since I did a callout last month, feedback about the drone trial has not slowed down. In fact, it has increased dramatically. While some reactions have been positive, the feedback is overwhelmingly negative. Over the past week, I've had a number of comments coming in from residents—a bit of a surge in comments from Bonython residents. Judy, a Bonython resident of 24 years, says, 'It's like having a permanent mosquito every weekend. Initially the drones seemed to follow road routes, but lately they've been flying directly over my house and the volume has increased.' Sue: 'They are driving me crazy. I enjoy having my lunch in the sun and listening to an audio book, but this is impossible as the drones are too loud and drown out the book.' Kris: 'The noise echoes across the valley and it flies over my house continuously. The serenity of a peaceful suburb has deteriorated.' Briana: 'Every weekend for the last month or so I have had drones flying around and over my property. As a result I no longer feel I have privacy in the outdoor spaces around my home.' And from today: 'This morning, starting just after eight o'clock, there have been five drones passes—10 including the return trip—by 8.35.' That's on a Sunday. 'The weekends are by far the worst. In a period of just one hour one Sunday 11 passes, 22 including the return, were made until I lost count.' (Time expired)
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Canberra Electorate: Drones</title>,STATEMENTS BY MEMBERS,11,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Canberra Electorate: Drones</title>,STATEMENTS BY MEMBERS,11,1,speech
 "Smith, Tony, MP",LP,2018-10-15,"
 
 
@@ -1142,7 +1142,7 @@ Honourable members having stood in their places—
 
 The SPEAKER:  I thank the House.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Cunningham, Mr Barry Thomas</title>",CONDOLENCES,12,1
+",HoR,<title>CONDOLENCES</title>,"<title>Cunningham, Mr Barry Thomas</title>",CONDOLENCES,12,1,speech
 "Morrison, Scott, MP",LP,2018-10-15,"
 
 
@@ -1166,7 +1166,7 @@ As a lesson for today, the mistakes that are made are not supposed to bind us fo
 
 Honourable members:  Hear, hear!
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>West Gate Bridge</title>,STATEMENTS ON INDULGENCE,13,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>West Gate Bridge</title>,STATEMENTS ON INDULGENCE,13,1,speech
 "Shorten, Bill, MP",ALP,2018-10-15,"
 
 
@@ -1186,7 +1186,7 @@ It should also be noted that a generation of union organisers rose out of that t
 
 Most of us who use the bridge day by day rarely stop to reflect on Australia's worst industrial disaster. But today in the House of the Australian people we honour the memory of all those who have died. We acknowledge and remember the trauma and the guilt inflicted on families and loved ones and on survivors—many of whom lived with the nightmares for years. But in doing so we remind ourselves that we sit in the relative comfort and security of this place—that workplace deaths and injuries are not just a tragedy confined to the history books and black-and-white photos. It's been about three weeks since the parliament last met, but, in the three weeks since parliament last met, around 10 Australians have died at work, whether that be falling from heights or crushed by heavy machinery or falling material. Thousands more right now live and will die from industrial diseases incurred at work. Until every Australian workplace is safe and until every Australian has the right to come home to the people they love, then there is more for all of us to do.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>West Gate Bridge</title>,STATEMENTS ON INDULGENCE,13,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>West Gate Bridge</title>,STATEMENTS ON INDULGENCE,13,1,speech
 "Pyne, Christopher, MP",LP,2018-10-15,"
 
 
@@ -1200,7 +1200,48 @@ That further statements in relation to the 48th anniversary of the Westgate Brid
 
 Question agreed to, honourable members standing in their places.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>West Gate Bridge</title>,STATEMENTS ON INDULGENCE,13,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>West Gate Bridge</title>,STATEMENTS ON INDULGENCE,13,1,speech
+"Shorten, Bill, MP",ALP,2018-10-15,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:11):  My question is to the Prime Minister. The Prime Minister has complained that voting for anybody but the Liberals in Wentworth will destabilise his government. But didn't this Prime Minister destabilise the government in the first place when he and his colleagues deposed Mr Turnbull? Isn't government instability the only reason we are having the Wentworth by-election? And will the Prime Minister explain to the people of Wentworth why Malcolm Turnbull is no longer the Prime Minister of Australia?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Morrison Government</title>,QUESTIONS WITHOUT NOTICE,14,1,question
+"Morrison, Scott, MP",LP,2018-10-15,"
+
+
+
+Mr MORRISON
+ (Cook—Prime Minister) (14:12):  I know who the Australian people don't want to be Prime Minister: the leader of the Labor Party! They don't want him. They've had five years to have a good look at him and they've rendered their verdict on him when they make their judgement about who they think should be the Prime Minister of this country, who they think should be managing the economy of this country, who should be looking out for Australian families about their cost of living and who they can trust to get taxes down. That's what the Australian people are making their judgements about. They have made their judgement on this Leader of the Opposition and they know that after five years of looking at him hard and looking at everything he's said and at every flip flop he's ever made: he's for small business, he's against small business, he's for small business, he's against small business. And he wonders why the Australian people don't trust him and why small businesses, in particular, don't trust him.
+
+
+I'll tell you why we're cutting taxes for small businesses, Mr Speaker. It's because those on this side of the House know that small and family businesses are the backbone of our economy. That's why we do it. We believe in it. We don't have to be dragged into it; we initiate it. We bring the bills into this parliament and we say that Australians deserve to keep more of what they earn.
+
+
+Our government is committed to a strong economy—a strong economy that guarantees the essential services that Australians rely on, that keeps Australians safe and brings and keeps Australians together. In this Wentworth by-election, what I know people in Wentworth will be considering is: 'How do you keep the economy strong? How can you ensure that you have the certainty in this parliament to ensure that the policies that are going to continue to grow our economy can be passed and can be pursued?' They can't trust the Labor Party to do it. As a majority party in this parliament, a majority coalition, the Liberals, together with the Nationals, are bringing forward policies week after week that are driving our economy forward. We need to continue to do that as a majority government in this parliament. A vote for anyone other than Dave Sharma, the Liberal candidate in Wentworth, is a vote that would undermine that certainty and the strong economy that our government is delivering.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Morrison Government</title>,QUESTIONS WITHOUT NOTICE,14,1,answer
+"Evans, Trevor, MP",LP,2018-10-15,"
+
+
+
+Mr EVANS
+ (Brisbane) (14:32):  My question is to the Treasurer. Will the Treasurer outline to the House how our government is delivering strong economic growth for all Australians, including in my electorate of Brisbane? What are the risks, and what's at stake if our plan to lower taxes, particularly for small and family businesses, is not observed? 
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,16,1,question
+"Frydenberg, Josh, MP",LP,2018-10-15,"
+
+
+
+Mr FRYDENBERG
+ (Kooyong—The Treasurer) (14:33):  I thank the member for Brisbane for his question, knowing that he has supported our efforts to provide legislated tax relief for 32,000 small- and medium-sized businesses in his electorate. That is a result of our policy. He knows, and the people of Brisbane know, that our economic plan is working. It is an economic plan that has created more than one million new jobs—around a thousand jobs a day; an economic plan that has delivered economic growth at 3.4 per cent through the year, at the fastest rate since the height of the mining boom and higher than any G7 country; an economic plan that has delivered the smallest budget deficit in a decade and put us on track to come back to balance a year earlier, in 2019-20; and an economic plan that has seen Australia rewarded with a AAA credit rating from the three leading agencies. On the weekend, I was in Indonesia for a meeting of G20 treasurers, the IMF and the World Bank, and Australia was lauded for its economic performance. The Secretary-General of the OECD praised Australia's strong economic growth and our sound macroeconomic policies. 
+
+
+Now, we're not complacent. We know the Australian economy doesn't run on autopilot and that the biggest threat to the Australian economy comes from those who are sitting opposite, because they have $200 billion of new taxes—taxes on your income, taxes on your savings, taxes on your property, taxes on your business, higher taxes on your electricity. But most punishing of all is the retirees' tax, because not only is it bad economic policy; it's philosophically flawed, punishing those who take responsibility for their own retirement. It is going to impact on 900,000 individuals, 200,000 self-managed super funds and 2,000 super funds, and the perverse income will see fewer people invest in Australian stocks, in Australian companies. It will see more people go on the pension and, of course, it will see higher income earners rewarded with their franking credits, but not low-income earners. Only the coalition will continue to grow the economy, only the coalition will continue to deliver jobs, and the Labor Party will continue to increase everyone's taxes.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,16,1,answer
 "Morrison, Scott, MP",LP,2018-10-15,"
 
 
@@ -1208,7 +1249,7 @@ Question agreed to, honourable members standing in their places.
 Mr MORRISON
  (Cook—Prime Minister) (15:14):  On indulgence, can I issue, on behalf of all of the House, a very warm welcome to the Duke and Duchess of Sussex. It's tremendous to have Prince Harry and Meghan here. We hope they have a very pleasant stay in Australia and we also commend them on the reason for why they are here and that is for the Invictus Games. We welcome all of those athletes coming to the Invictus Games. I'm sure they will have an absolutely tremendous time here in Australia. I want to particularly commend Prince Harry for his tremendous initiative in lifting the spirits of every single service man and woman all around the globe.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Invictus Games</title>,STATEMENTS ON INDULGENCE,17,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Invictus Games</title>,STATEMENTS ON INDULGENCE,17,1,speech
 "Shorten, Bill, MP",ALP,2018-10-15,"
 
 
@@ -1220,7 +1261,7 @@ Mr SHORTEN
 
 Honourable members:  Hear, hear!
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Invictus Games</title>,STATEMENTS ON INDULGENCE,17,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Invictus Games</title>,STATEMENTS ON INDULGENCE,17,1,speech
 "Smith, Tony, MP",LP,2018-10-15,"
 
 
@@ -1231,7 +1272,7 @@ The SPEAKER
 
 Documents made parliamentary papers in accordance with the resolution agreed to on 28 March 2018.
 
-",HoR,<title>DOCUMENTS</title>,"<title>Department of Parliamentary Services, Parliamentary Budget Office</title>",DOCUMENTS,18,1
+",HoR,<title>DOCUMENTS</title>,"<title>Department of Parliamentary Services, Parliamentary Budget Office</title>",DOCUMENTS,18,1,speech
 "Smith, Tony, MP",LP,2018-10-15,"
 
 
@@ -1242,7 +1283,7 @@ The SPEAKER
 
 Documents made parliamentary papers in accordance with the resolution agreed to on 28 March 2018.
 
-",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,18,2
+",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,18,2,speech
 "Smith, Tony, MP",LP,2018-10-15,"
 
 
@@ -1253,7 +1294,7 @@ The SPEAKER
 
 Documents made parliamentary papers in accordance with the resolution agreed to on 28 March 2018.
 
-",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,"<title>Report No. 7 of 2018-19, Report No. 8 of 2018-19, Report No. 9 of 2018-19</title>",AUDITOR-GENERAL'S REPORTS,19,1
+",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,"<title>Report No. 7 of 2018-19, Report No. 8 of 2018-19, Report No. 9 of 2018-19</title>",AUDITOR-GENERAL'S REPORTS,19,1,speech
 "Smith, Tony, MP",LP,2018-10-15,"
 
 
@@ -1261,7 +1302,7 @@ Documents made parliamentary papers in accordance with the resolution agreed to 
 The SPEAKER
  (15:16):  I have received a message from the Senate informing the House that Senator Steele-John has been discharged from the Joint Standing Committee on Electoral Matters and that Senator Waters has been appointed a member of the committee.
 
-",HoR,<title>COMMITTEES</title>,<title>Electoral Matters Committee</title>,COMMITTEES,22,1
+",HoR,<title>COMMITTEES</title>,<title>Electoral Matters Committee</title>,COMMITTEES,22,1,speech
 "Smith, Tony, MP",LP,2018-10-15,"
 
 
@@ -1269,7 +1310,7 @@ The SPEAKER
 The SPEAKER
  (15:16):  I have received a message from the Senate informing the House that Senator Steele-John has been discharged from the Joint Standing Committee on Electoral Matters and that Senator Waters has been appointed a member of the committee.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,22,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,22,2,speech
 "Van Manen, Bert, MP",LP,2018-10-15,"
 
 
@@ -1304,7 +1345,7 @@ It's disappointing, in some respects, that we seem regularly in this place to ha
 
 I commend the government for its work in this space and for its ongoing work to ensure that we provide the safety, security and level of care necessary for older Australians, who have contributed so much over the years to our community. The work we're doing both with this legislation and with the royal commission will go a long way, I hope, to dealing with the issues that we have seen articulated in the public arena. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "McBride, Emma, MP",ALP,2018-10-15,"
 
 
@@ -1366,7 +1407,7 @@ In February this year, I lost my father, who had lived with younger onset dement
 
 We know that one of the largest groups of people waiting for higher-level packages is people living with dementia. I particularly want to say to those in my community that we on this side of the House are working as hard as we can to make sure that you get the care that you need when you need it. Carers often need help, particularly in crisis, and there is an urgency that this government doesn't seem to understand or hasn't really heard. I call on everybody in this House to work towards better-quality aged care so that people and families seeking care or in care have the confidence and assurance to know that their grandparent, their parent, their loved one is receiving the care that any of us would ask for for someone that we love and care for. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Wilson, Tim, MP",LP,2018-10-15,"
 
 
@@ -1404,7 +1445,7 @@ More critically, what we can't allow this royal commission to do is cast a dark 
 
 As I said earlier today, I recently went to the launch of the renovated facilities at Fairway Bayside Aged Care in Sandringham, just like I recently visited Vasey RSL Care Brighton East. These services provide the most incredible facilities for people seeking to age with dignity, support services that are highly attentive to their needs and that not only fully recognise the expectations the community has of them but also recognises the expectations of their clients and their families, and what they deliver is a service that we should be proud of. They should be held up as exemplars. While there are wrongs, there are so many rights, and the same is true of so many other facilities across Goldstein—and, I'm quite sure, across the whole of the country. Our task, as parliamentarians, and as part of the national conversation, is to celebrate their work, to thank them enduringly for what they do, and to uphold the integrity and the dignity of their profession, at the same time as scrutinising those who have not met that standard. Our task is to thank them every day for the incredible work they do to care, to love and to show compassion for this nation's most vulnerable.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Georganas, Steve, MP",ALP,2018-10-15,"
 
 
@@ -1457,7 +1498,7 @@ As I've said, as the representative for an area that has one of the highest agei
 
 I've always said that we should judge ourselves as a nation by how we treat our elderly—the people who have worked hard, the people who can no longer look after themselves, the people who have brought up children, grandchildren and in some cases great-grandchildren. They have kept family units together and have done everything for Australia as workers and as contributors, and now it's our time to look after them. I think it's an absolute disgrace that we don't have confidence in our aged-care systems in place. We should do everything we can to absolutely fix this because these people deserve better.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Gillespie, David, MP",Nats,2018-10-15,"
 
 
@@ -1504,7 +1545,7 @@ What Australian communities and families can do to improve aged-care services, a
 
 I thoroughly support this cluster of bills which will develop a one-stop shop so that both people working in the industry and people consuming the care in the industry will have a clear and transparent process for maintaining standards and for complaining when they aren't met. Aged care should be high quality. It should be accessible, particularly in rural and regional Australia and in electorates like Lyne. But please be reassured that I have fought long and hard over the five years I've been representing and caring for the Lyne electorate that we have delivered the goods in Lyne. There has been a massive growth and it is really well deserved because we have so many good institutions, but we need more physical places.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Gorman, Patrick, MP",ALP,2018-10-15,"
 
 
@@ -1579,7 +1620,7 @@ The Aged Care Quality and Safety Commission will, fortunately, provide a single 
 
 There are problems that this commission won't fix: quality standards in the sector are dropping; the reporting system is not working; there aren't enough aged-care workers and they aren't given enough pay; and we have had cuts in the sector. With the sector in crisis, I welcome this piece of legislation, but I will finish my remarks by saying there is much, much, much more to do.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Falinski, Jason, MP",LP,2018-10-15,"
 
 
@@ -1626,7 +1667,7 @@ When people have dementia, one of the side effects of the dementia is that peopl
 
 In the minute that I have left, I would also like to mention that we have enormous challenges coming up. Those in the cohort of baby boomers are about to find themselves in that age category where they may consider putting themselves into their last home, being a residential aged-care home. We have challenges around workforce planning and we have challenges around the number of beds that are available. Ask any nursing home provider and they will tell you that the biggest challenge they face is planning and development. But we have created a system in this country that has ensured Australians get a superior level of care in their last few years. It is the job of this House and of this bill to make sure that we give them an even better experience than those who came before them.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Keay, Justine, MP",ALP,2018-10-15,"
 
 
@@ -1751,7 +1792,7 @@ Regarding the workforce issues, I had a tremendous opportunity to go to one of t
 
 I say to every member of this place: do it. Ring up the residential aged care in your electorate, put on your soft shoes and walk around with them, get your hands dirty and meet some of these wonderful residents and wonderful carers who this government has completely neglected. See exactly what it's like to provide that level of care to those residents, but also see what those people receiving that care are going through. I think it would open your eyes and I think it would make members opposite actually stand up and tell the stories of the people in their electorates who are suffering under a system that is severely underfunded. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Ramsey, Rowan, MP",LP,2018-10-15,"
 
 
@@ -1810,7 +1851,7 @@ The DEPUTY SPEAKER
 Mr Howarth
 ):  I thank the member for Grey. I just remind him too: you have to call the minister by his correct title here. You can't call him 'Kenny'. It has to be the Minister for Senior Australians and Aged Care. That's just a reminder. Thank you.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "McGowan, Cathy, MP",IND,2018-10-15,"
 
 
@@ -1860,7 +1901,7 @@ My final call-out that I would really like to bring to the parliament is the rol
 
 Tonight, as I bring my comments to a close, I think we've got an enormous amount to offer in the future as we design healthcare services that particularly meet our needs in rural and regional Australia. We must know that rural and regional Australia are different. It often costs more to deliver services there. Our particular communities have often got a lot to be involved with, and we can do so much if we make better use of them. I would like to encourage all my existing networks to link into the scoping, skills and training needs in rural aged care. To the members of the network providers in north-east Victoria, great work. La Trobe has a centre for rural health, and they're doing some fantastic research work around aged care. So good work, north-east Victoria. I'm really looking forward to being your advocate as we move forward. I hope we can get some action before the end of the royal commission. I hope we can find a way of getting change on the ground now and not wait until 2020 before we actually get the results out of that. I look forward to working with the minister and the opposition as we progress this and come up with some really strong plans for aged care in rural and regional Australia.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Howarth, Luke, MP",LP,2018-10-15,"
 
 
@@ -1926,7 +1967,7 @@ The message is clear: Any person or organisation doing the wrong thing will be f
 
 We want to provide more choice for older Australians so that they can live healthier, more independent and safer lives. The establishment of the Aged Care Quality and Safety Commission is an essential step towards streamlining regulations and ensuring that the quality of aged care is upheld across the country. The bill will, hopefully—and I use that word, 'hopefully'—restore some peace of mind for the families of those in aged care. The commission will be a single point of contact for questions, concerns and complaints. All Australians can be assured that this independent commission will not just shuffle paperwork but will work tirelessly to improve and uphold quality care standards across the country. This reform has been shaped solely around those who rely on aged-care services and their families. This bill is for them, to ensure that the health, safety and wellbeing of the consumer is the No. 1 priority in the residences they choose to call home. Our older Australians have made a remarkable contribution to our country. Without their sacrifice, bravery and leadership our country could have been a very different place. It is imperative we support them as we age. That's why I'm proud to support this bill. When I say 'we' I mean all Australians. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Hart, Ross, MP",ALP,2018-10-15,"
 
 
@@ -1979,7 +2020,7 @@ I've previously brought to the attention of the House concerns raised by Diana, 
 
 Clearly, there are real concerns with respect to safety and quality within the aged-care sector. There are many services that are doing very, very well, but we need to ensure that there's not just the rhetoric of being a tough cop on the beat and that the government actually follows through.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Sharkie, Rebekha, MP",CA,2018-10-15,"
 
 
@@ -2020,7 +2061,7 @@ I acknowledge the government's efforts in recent months, including the recent co
 
 What is needed now is greater transparency and accountability. As I stated previously, this is the aim of my private member's bill. And I believe now, more than ever, this parliament should put aside the finger pointing, put aside playing politics with this and work together to deliver the outcomes that Australian families expect and deserve. I cannot see how transparency in nursing homes and in our aged-care facilities is anything but a good thing.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Chesters, Lisa, MP",ALP,2018-10-15,"
 
 
@@ -2097,7 +2138,7 @@ It's one of the hardest things at a listening post: to meet a family member when
 
 People have a right to be concerned about what's happening in our aged-care institutions, and whilst this commission, which has been a long time coming, has been established, it's a little bit of work in a lot of work that needs to be done.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Ryan, Joanne, MP",ALP,2018-10-15,"
 
 
@@ -2147,7 +2188,7 @@ I know how often members on this side, and those opposite, are being contacted b
 
 Elderly Australians deserve to spend their twilight years in a dignified way. They deserve to have care in the institutions in which they are living. They deserve to have people working with them who care for them, who have time in their day, who are receiving a decent rate of pay and who have high-quality training. We need to increase the expectations for every—every!—facility to ensure that the quality of care that we would want for our own parents is being provided for every elderly Australian.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Khalil, Peter, MP",ALP,2018-10-15,"
 
 
@@ -2243,7 +2284,7 @@ The government, frankly, has a lot of work to do to get this right—to get the 
 
 Under Labor, there was a clear plan within our reform package. That was achieved largely through a bipartisan approach, and we're proud of that. So we hope that we can work together again to ensure that these issues in the aged-care sector are addressed, because these older Australians are so important, given the commitment to and the sacrifices they have made in this country, to help build it and to give us the wonderful future that we have before us.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Bird, Sharon, MP",ALP,2018-10-15,"
 
 
@@ -2290,7 +2331,7 @@ I want to acknowledge that I attended a forum with many of those workers in Woll
 
 Many of the people I have spoken about are carers, and in my final 20 seconds I want to acknowledge it is National Carers Week. The website's up and running, and I encourage people to support a carer. Go and have a look at the website and support National Carers Week.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "O'Toole, Cathy, MP",ALP,2018-10-15,"
 
 
@@ -2355,7 +2396,7 @@ That brings me to the bill at hand. The Carnell-Paterson review recommended brin
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Freelander, Mike, MP",ALP,2018-10-15,"
 
 
@@ -2379,7 +2420,7 @@ Immigration has been good for our community in many ways, but state and federal 
 
 It's not sufficient for our state and federal governments to say they're doing the right thing when they're clearly not. I've made many, many representations, as have my state colleagues, to the federal and state governments, highlighting the concerns of my constituents and the need for urgent action. Time and time again my concerns have fallen on deaf ears, with the Morrison government and the Berejiklian government now treating the Macarthur region with contempt. I've written to the minister to come and see the core infrastructure— (Time expired)
 
-",HoR,<title>ADJOURNMENT</title>,<title>Macarthur Electorate: Infrastructure</title>,ADJOURNMENT,24,1
+",HoR,<title>ADJOURNMENT</title>,<title>Macarthur Electorate: Infrastructure</title>,ADJOURNMENT,24,1,speech
 "Marles, Richard, MP",ALP,2018-10-15,"
 
 
@@ -2396,7 +2437,7 @@ The member for Corangamite has a role here. She is yet to advocate for and win a
 
 On the question of the NDIA, the member for Corangamite has no excuses. There is no state Labor government or federal colleagues to shift blame to. I know that she's part of a government which has failed to recognise that our community exists but, in this instance, she has ministerial responsibility for this—no fudging, no-one else to blame. It's time that she made sure that the NDIA leadership are based in Geelong.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Geelong: National Disability Insurance Agency</title>,CONSTITUENCY STATEMENTS,26,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Geelong: National Disability Insurance Agency</title>,CONSTITUENCY STATEMENTS,26,1,speech
 "Brodtmann, Gai, MP",ALP,2018-10-15,"
 
 
@@ -2479,7 +2520,7 @@ Ms Vamvakinou
 Ms O'Toole:
   I second the motion.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Pregnancy and Infant Loss Remembrance Day</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Pregnancy and Infant Loss Remembrance Day</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Flint, Nicolle, MP",LP,2018-10-15,"
 
 
@@ -2505,7 +2546,7 @@ Here in Australia we haven't seen these sorts of declines in stillbirth rates, a
 
 The government is committed to supporting those affected by pregnancy and infant loss and to improving infant and maternal health outcomes. In this year's budget, we announced nearly $18 million for the Maternal Health and First 2000 Days research program. I note the opposition's announcement yesterday on stillbirth and I will look very carefully at their proposal. I will continue to work with the Minister for Health on behalf of all women and families so that we can reduce the rate of babies born still here in Australia.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Pregnancy and Infant Loss Remembrance Day</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Pregnancy and Infant Loss Remembrance Day</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
 "O'Toole, Cathy, MP",ALP,2018-10-15,"
 
 
@@ -2541,7 +2582,7 @@ This ceremony provided a healing experience for the parents, siblings, families 
 
 I commend Labor for its announcement on the weekend. We will invest in research to assist in reducing the number of babies that are lost in infancy, at birth or in pregnancy. In 2018 we certainly should not be losing the children that we are currently losing. It is a journey that you would not wish on any person. I am very pleased, I must say, after 34 years, to be with people who are speaking very openly about their experiences and are supporting each other.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Pregnancy and Infant Loss Remembrance Day</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Pregnancy and Infant Loss Remembrance Day</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Stanley, Anne, MP",ALP,2018-10-15,"
 
 
@@ -2573,7 +2614,7 @@ The DEPUTY SPEAKER
 Ms Vamvakinou
 ):  There being no further speakers, the debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Pregnancy and Infant Loss Remembrance Day</title>,PRIVATE MEMBERS' BUSINESS,27,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>International Pregnancy and Infant Loss Remembrance Day</title>,PRIVATE MEMBERS' BUSINESS,27,1,speech
 "Dick, Milton, MP",ALP,2018-10-15,"
 
 
@@ -2599,7 +2640,7 @@ Whereas, on the other hand, we have seen members of the government who are livin
 
 The Leader of the Opposition and Labor have not given up on workers. I will not give up on workers in my electorate and I will continue to fight these pay cuts every single day until the election. Today I call on the government to do the right thing. Stop looking at yourselves, stop fighting amongst yourselves and start looking after the workers of this country and making sure that their penalty rates are restored.
 
-",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,28,1,speech
 "Husar, Emma, MP",ALP,2018-10-15,"
 
 
@@ -2645,7 +2686,7 @@ Sitting suspended from
 16:00
 
 
-",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,28,1
+",HoR,<title>BILLS</title>,<title>Fair Work Amendment (Restoring Penalty Rates) Bill 2018</title>,BILLS,28,1,speech
 "Dick, Milton, MP",ALP,2018-10-15,"
 
 
@@ -2671,7 +2712,7 @@ Whereas, on the other hand, we have seen members of the government who are livin
 
 The Leader of the Opposition and Labor have not given up on workers. I will not give up on workers in my electorate and I will continue to fight these pay cuts every single day until the election. Today I call on the government to do the right thing. Stop looking at yourselves, stop fighting amongst yourselves and start looking after the workers of this country and making sure that their penalty rates are restored.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Husar, Emma, MP",ALP,2018-10-15,"
 
 
@@ -2717,7 +2758,7 @@ Sitting suspended from
 16:00
 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,28,2,speech
 "Sharkie, Rebekha, MP",CA,2018-10-15,"
 
 
@@ -2728,7 +2769,7 @@ Ms SHARKIE
 
 Unfortunately, this year breast cancer has overtaken prostate cancer as the most diagnosed cancer in Australia, with more than 18,000 Australian women diagnosed every year. It is a sad statistic to reflect on. While it's encouraging that incidences of prostate cancer have declined in recent years, I look forward to a time when advances in medical care lead to significant declines in all cancers, and particularly breast cancer. We need a cure for breast cancer, and I commend all women and men for their courage going through that journey.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Breast Cancer Awareness Month</title>,STATEMENTS BY MEMBERS,29,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Breast Cancer Awareness Month</title>,STATEMENTS BY MEMBERS,29,1,speech
 "Collins, Julie, MP",ALP,2018-10-15,"
 
 
@@ -2796,7 +2837,7 @@ The DEPUTY SPEAKER
 Ms Claydon
 ):  Do we have a seconder for the motion?
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>World Osteoporosis Day</title>,PRIVATE MEMBERS' BUSINESS,30,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>World Osteoporosis Day</title>,PRIVATE MEMBERS' BUSINESS,30,1,speech
 "O'Toole, Cathy, MP",ALP,2018-10-15,"
 
 
@@ -2816,7 +2857,7 @@ In 2017, the total direct cost of osteoporosis and osteopenia in Queensland adul
 
 But early action can be taken through regular exercise, a bone-healthy diet and consultation with a doctor about osteoporosis risk factors, with diagnosis and treatment of osteoporosis halving the fracture risk. On 20 October, it will be World Osteoporosis Day. I urge people in the Herbert electorate to take at least one preventative measure—that is, exercise, see your doctor, drink a glass of milk—and together let's work to prevent osteoporosis.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>World Osteoporosis Day</title>,PRIVATE MEMBERS' BUSINESS,30,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>World Osteoporosis Day</title>,PRIVATE MEMBERS' BUSINESS,30,1,speech
 "Pitt, Keith, MP",Nats,2018-10-15,"
 
 
@@ -2830,7 +2871,7 @@ But I do want to relate one very brief story, and that's about the toughness of 
 
 So I just want to say thanks to those opposite for giving me an opportunity to make a brief contribution. It is an important matter that we are discussing, and I would urge all of those in my electorate to do what you need to do, take the advice of your medical practitioner. I also want to give a shout-out to all who are in there, doing this work—I can't use their full names obviously, for reasons that everyone here knows—including Alison, Nat and Tracey, who do a lot of the bone-D work in those local facilities.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>World Osteoporosis Day</title>,PRIVATE MEMBERS' BUSINESS,30,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>World Osteoporosis Day</title>,PRIVATE MEMBERS' BUSINESS,30,1,speech
 "Freelander, Mike, MP",ALP,2018-10-15,"
 
 
@@ -2862,4 +2903,35 @@ The DEPUTY SPEAKER
 Dr McVeigh
 ):  I thank the honourable member. There being no further speakers, the debate is adjourned and the resumption of the debate will be made in order of the day for the next sitting.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>World Osteoporosis Day</title>,PRIVATE MEMBERS' BUSINESS,30,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>World Osteoporosis Day</title>,PRIVATE MEMBERS' BUSINESS,30,1,speech
+"Keay, Justine, MP",ALP,2018-10-15,"
+
+
+
+Ms Keay
+ asked the Minister for Health, in writing, on 16 August 2018:
+
+
+In respect of the Prime Minister's announcement during the campaign for the by-election in the electoral division of Braddon on 15 June 2018 to provide $2.4 million to the University of Tasmania's Centre for Excellence in Rural and Regional Health in Burnie for research, aimed at preventing health issues in regional and remote Australia, will this be honored; if not, why not; if so, (a) when will the funding be delivered, and (b) what focus will this research have on regional Tasmania.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>University of Tasmania (Question No 1037)</title>,QUESTIONS IN WRITING,31,1,question
+"Hunt, Greg, MP",LP,2018-10-15,"
+
+
+
+Mr Hunt:
+  The answer to the honourable member's question is as follows:
+
+
+(a)– (b)
+
+
+Under the Medical Research Future Fund's Keeping Australian's out of Hospital Program $2.4 million will be provided over three years from 2018-19 ($0.8 million per annum) to the University of Tasmania for research focusing on preventive health in rural and remote locations and in indigenous communities, the burden of chronic disease and translation of research knowledge into practice to reduce avoidable hospitalisations.
+
+
+My department is actively engaging with the University of Tasmania to identify a range of research projects to be progressed with this funding, the first instalment of which will be provided by the end of the 2018 calendar year. 
+
+
+The provision of this funding will provide opportunities to trial new ways to better support informed choices by both consumers and service providers and to scale up proven evidence-based interventions and local prevention activities to larger populations. The outputs from this research will ultimately reduce the burden on the hospital system.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>University of Tasmania (Question No 1037)</title>,QUESTIONS IN WRITING,31,1,answer

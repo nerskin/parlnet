@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Jenkins, Harry, MP",ALP,2011-07-06,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER:
   I have received a message from the Senate informing the House that Senator B Brown has been disch­arged from the Joint Standing Committee on Electoral Matters and that Senator Rhiannon has been appointed a member of the committee, and that Senator Bilyk has been discharged from the Joint Standing Comm­ittee on Migration and that Senator Gallacher has been appointed a member of the committee.
 
-",HoR,<title>COMMITTEES</title>,"<title>Electoral Matters Committee, Migration Committee</title>",COMMITTEES,0,1
+",HoR,<title>COMMITTEES</title>,"<title>Electoral Matters Committee, Migration Committee</title>",COMMITTEES,0,1,speech
 "Jenkins, Harry, MP",ALP,2011-07-06,"
 
 
@@ -14,7 +14,7 @@ The SPEAKER:
 The SPEAKER:
   I have received a message from the Senate informing the House that Senator B Brown has been disch­arged from the Joint Standing Committee on Electoral Matters and that Senator Rhiannon has been appointed a member of the committee, and that Senator Bilyk has been discharged from the Joint Standing Comm­ittee on Migration and that Senator Gallacher has been appointed a member of the committee.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,0,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,0,2,speech
 "Macklin, Jenny, MP",ALP,2011-07-06,"
 
 
@@ -150,7 +150,7 @@ I commend the bill to the House.
 
 Debate adjourned. 
 
-",HoR,<title>BILLS</title>,<title>Social Security and Other Legislation Amendment Bill 2011</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Social Security and Other Legislation Amendment Bill 2011</title>,BILLS,1,1,speech
 "Thomson, Kelvin, MP",ALP,2011-07-06,"
 
 
@@ -170,7 +170,7 @@ That Mr Hayes be discharged from the Selection Committee and that, in his place,
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,2,1,speech
 "Thomson, Kelvin, MP",ALP,2011-07-06,"
 
 
@@ -190,7 +190,7 @@ That Mr Hayes be discharged from the Selection Committee and that, in his place,
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,2,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,2,2,speech
 "Thomson, Kelvin, MP",ALP,2011-07-06,"
 
 
@@ -198,7 +198,7 @@ Question agreed to.
 The DEPUTY SPEAKER (Mr KJ Thomson):
   I remind the House that it has been agreed that a general debate be allowed covering this bill, the Offshore Petroleum and Greenhouse Gas Storage (Registration Fees) Amendment Bill 2011, the Offshore Petroleum (Royalty) Amendment Bill 2011, the Offshore Resources Legislation Amend­ment (Personal Property Securities) Bill 2011 and the Offshore Petroleum and Greenhouse Gas Storage Regulatory Levies Legislation Amendment (2011 Measures No 2) Bill 2011.
 
-",HoR,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Bill 2011</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Bill 2011</title>,BILLS,3,1,speech
 "Adams, Dick, MP",ALP,2011-07-06,"
 
 
@@ -242,7 +242,7 @@ These bills endorse the formation of NOPTA and NOPSEMA to replace the current re
 
 I thank the Minister for Resources and Energy, the member for Batman, Martin Ferguson, for his assistance in bringing these issues to the attention of the House of Representatives Standing Committee on Agriculture, Resources, Fisheries and Forest­ry. As I have said, it is heartening to see that more and more legislation is coming before House committees for consideration. I am sure that we end up with much better bills as a result of that consideration. I commend the bills to the House.
 
-",HoR,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Bill 2011</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Bill 2011</title>,BILLS,3,1,speech
 "Ferguson, Martin, MP",ALP,2011-07-06,"
 
 
@@ -295,7 +295,7 @@ Bill read a second time.
 
 Message from the Governor-General recommending appropriation announced.
 
-",HoR,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Bill 2011</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Bill 2011</title>,BILLS,3,1,speech
 "Ferguson, Martin, MP",ALP,2011-07-06,"
 
 
@@ -454,7 +454,7 @@ Question agreed to.
 
 Bill, as amended, agreed to.
 
-",HoR,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Bill 2011</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Bill 2011</title>,BILLS,3,1,speech
 "Ferguson, Martin, MP",ALP,2011-07-06,"
 
 
@@ -471,7 +471,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Bill 2011</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Bill 2011</title>,BILLS,3,1,speech
 "Thomson, Kelvin, MP",ALP,2011-07-06,"
 
 
@@ -479,7 +479,7 @@ Bill read a third time.
 The DEPUTY SPEAKER (Mr KJ Thomson):
   I remind the House that it has been agreed that a general debate be allowed covering this bill, the Offshore Petroleum and Greenhouse Gas Storage (Registration Fees) Amendment Bill 2011, the Offshore Petroleum (Royalty) Amendment Bill 2011, the Offshore Resources Legislation Amend­ment (Personal Property Securities) Bill 2011 and the Offshore Petroleum and Greenhouse Gas Storage Regulatory Levies Legislation Amendment (2011 Measures No 2) Bill 2011.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Adams, Dick, MP",ALP,2011-07-06,"
 
 
@@ -523,7 +523,7 @@ These bills endorse the formation of NOPTA and NOPSEMA to replace the current re
 
 I thank the Minister for Resources and Energy, the member for Batman, Martin Ferguson, for his assistance in bringing these issues to the attention of the House of Representatives Standing Committee on Agriculture, Resources, Fisheries and Forest­ry. As I have said, it is heartening to see that more and more legislation is coming before House committees for consideration. I am sure that we end up with much better bills as a result of that consideration. I commend the bills to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Ferguson, Martin, MP",ALP,2011-07-06,"
 
 
@@ -576,7 +576,7 @@ Bill read a second time.
 
 Message from the Governor-General recommending appropriation announced.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Andrews, Karen, MP",LP,2011-07-06,"
 
 
@@ -590,7 +590,288 @@ Mudgeeraba is a beautiful part of the Gold Coast within my electorate of McPhers
 
 From its humble beginnings, the Mudgeeraba Show has now grown into a two-day weekend event, labelled as the 'little Ekka' with more than 15,000 Gold Coasters turning up on the first day this year, giving a welcome boost the local economy. The event hosts horse events, handicrafts, horticultural exhibits, cooking and preserves, a pet parade, wood chopping, ring events and a showgirl pageant, to name but a few. The show would not be a success without the force of the community supporting it. The volunteers and the public ensure the event continues. I look forward to attending it next year and I encourage everyone to join me.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Mudgeeraba Agricultural Show</title>,STATEMENTS BY MEMBERS,4,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Mudgeeraba Agricultural Show</title>,STATEMENTS BY MEMBERS,4,1,speech
+"Abbott, Tony, MP",LP,2011-07-06,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:00):  My question is to the Prime Minister. Will the Prime Minister wear out her shoe leather next week visiting car workers at Geelong, steelworkers at Port Kembla, coalminers in the Hunter and the Illawarra, and transport workers in Queanbeyan, as I have? Why won't the Prime Minister talk to the workers—
+
+
+
+Government members interjecting—
+
+
+
+
+The SPEAKER:
+  Order! Those on my right will come to order.
+
+
+
+Dr Emerson interjecting—
+
+
+
+
+The SPEAKER:
+  Order! The Minister for Trade!
+
+
+
+
+Mr McCORMACK:
+  Throw him out!
+
+
+
+
+The SPEAKER:
+  I do not need the member for Riverina to give me assistance. The Leader of the Opposition has the call and he will be heard in silence.
+
+
+
+
+Mr ABBOTT:
+  Why won't this Prime Minister talk to the workers whose jobs her carbon tax will kill?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Abbott, Tony, MP",LP,2011-07-06,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:04):  I ask a supplementary question of the Prime Minister. While the Prime Minister is wearing out her shoe leather, will she apologise to the Australian people for saying, six days before the last election, 'There will be no carbon tax under the government I lead'? And, Mr Speaker, she will not face the workers, she will not face the people, she will not face the parliament.
+
+
+
+Honourable members interjecting—
+
+
+
+
+The SPEAKER:
+  Order!
+
+
+
+Honourable members interjecting—
+
+
+
+
+Mr ABBOTT:
+  Isn't it true that she has stopped listening to—
+
+
+
+Honourable members interjecting—
+
+
+
+
+The SPEAKER:
+  Order! The Leader of the Opposition will resume his seat.
+
+
+
+Honourable members interjecting—
+
+
+
+
+Mr ALBANESE:
+  Mr Speaker, I rise on a point of order. The last two-thirds of that alleged question from the Leader of the Opposition was nothing like a question. It was just a rant from the Leader of the Opposition.
+
+
+
+Honourable members interjecting—
+
+
+
+
+The SPEAKER:
+  Order! I declare a general warning and I am very serious about it. The first question from the Leader of the Opposition was met with great noise from my right and, equally, the response from the Prime Minister was met with great noise from my left. I have a sense that members in this chamber are really ignoring how we are perceived from outside. I do not need people's assistance about naming people; you are now all under a warning. I will simply respond to the Leader of the House's point of order by saying, yes, there is a limit to my tolerance about argument in questions but there was such uproar that, whilst I had a feeling where the question was going, I did not hear it. But I say to the Leader of the Opposition that there is a limit even to the licence that is given to leaders of parties. 
+
+
+
+
+Mr ABBOTT:
+  My supplementary question to the Prime Minister is: while she is wearing out her shoe leather next week will she apologise to the Australian people for saying, six days before the last election, 'There will be no carbon tax under the government I lead'? I further ask the Prime Minister on this supplementary: is it not true that she has stopped listening to the people and the people have stopped listening to her?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Gillard, Julia, MP",ALP,2011-07-06,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:02):  I certainly will be out speaking to Australians next week about the facts about carbon pricing, and I trust the Leader of the Opposition is out apologising to people for the false claims he has made.
+
+
+
+Opposition members interjecting—
+
+
+
+
+Ms GILLARD:
+  He can start by apologising to everybody that he told about a 6.5c a litre increase in the price of petrol—wholly untrue and something that the Leader of the Opposition has been around the country trying to raise fear about. As I am around the country talking to Australian workers and Australian families about the facts on carbon pricing, I hope the Leader of the Opposition is out telling them the facts about his 'subsidy for polluters' plan and, most particularly, the entry on page 14 that records his plan to penalise businesses, to put penalties on them. I hope he is out and about telling Australian workers whether it is their business that he is going to put a penalty on. I hope he is out and about telling Australian families about the cost impacts which will flow through to them because of those penalties and I hope he tells those families that he is not proposing to give them any assistance at all, that what he wants to do is take $720 off them and give it to big polluters. I hope he is out and about with those facts. 
+
+
+I will be out and about talking to people about the truth about carbon pricing; about the science and the need to act; about the imposition of a price on the biggest polluters in this country, on big businesses; about the way that will enable them to innovate and cut carbon pollution; about the jobs that our clean energy future will promise this country; about the tax cuts and increases in pensions and payments for Australian families; about the measures to protect Australian jobs and the measures to tackle climate change. I will certainly be very proud to be out and about talking about those facts.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Gillard, Julia, MP",ALP,2011-07-06,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:07):  I say to the Leader of the Opposition: anger is no substitute for leadership and personal insults are no substitute for policy. I will be out and about around the nation next week, talking to Australians about a strong future for this country. I will be out and about talking about the challenge that climate change poses to the future of our nation. I accept the science. I will be out and about talking to Australians about the most efficient way of tackling carbon pollution. I accept the expert advice of economists. I will be talking to them—
+
+
+
+
+Mr Abbott:
+  Mr Speaker, I raise a point of order on direct relevance. What about that word 'sorry', Prime Minister?
+
+
+
+
+The SPEAKER:
+  The Leader of the Opposition knows that was not a point of order. He knows that there was a general warning.
+
+
+
+Mr Symon interjecting—
+
+
+
+
+The SPEAKER:
+  He was a saved species already, member for Deakin, but I think that somebody might tell you what a general warning means. I simply say to the Leader of the Opposition that he is very lucky. I want to operate a chamber that can work and I am not sure that, if I were to take the appropriate action against him, we would have the chamber. My tolerance is at its complete limit. That was not a point of order, and I think that these types of actions should be quietened down. The Prime Minister has the call; she will be heard in silence.
+
+
+
+
+Ms GILLARD:
+  I will be talking about the most efficient way of cutting carbon pollution, which is to put a price on carbon. I will be talking about how Prime Minister Howard believed that. I will be talking to Australian families about the cost-of-living pressures on their shoulders and, consequ­ently, I will be explaining to them our plan to assist nine out of ten households through tax cuts and payment increases. I will be talking to Australian families about their rightful concern about job security. There is nothing more important to Australian families than having the benefits of—
+
+
+
+
+The SPEAKER:
+  The Prime Minister will resume her seat. I am not running a commentary, but read the second part of the question and then come back to me at some stage and tell me why this response is not relevant or even directly relevant to that part. I am indicating to the Leader of the Opposition that the line has well and truly been met. The Prime Minister has the call and she will be heard in silence.
+
+
+
+
+Ms GILLARD:
+  I understand that Australian families have legitimate concerns about job security. There is nothing more important to people than having the benefits of work. Consequently, I will be explaining to them how the carbon pricing package will protect Australian jobs today and ensure that our nation is prosperous and has the benefits of a clean-energy future.
+
+
+I will of course be speaking to Australians about any issue they want to raise with me. I suspect that they will want to raise issues with me about what was said during the election campaign, and I will be happy to answer their questions. I will be happy to explain to them that the carbon tax is temporary and that the emissions trading scheme is permanent. I will be happy to explain to them that I always wanted to achieve an emissions trading scheme for this nation, and we will. I will be happy to explain to them that we have got there via a different route than the one I foresaw at the election campaign, but we will seize that clean-energy future.
+
+
+I will be explaining to them that the Leader of the Opposition was a member of the Howard cabinet that authorised an emissions trading scheme. I will be explaining to them that the Leader of the Opposition has been in favour of an emissions trading scheme and in favour of a carbon tax. I will be explaining to them that he is now opposed to a carbon tax and he is now opposed to an emissions trading scheme. I will be explaining to them that that is not leadership. Leadership is about saying to the country that we have to chart the best course for the future. Leadership is about saying to the country that there are difficult things we need to do in order to do the right thing by our environment and by our economy for the future.
+
+
+I will be saying to the country that, as a nation, as a people we are up to doing this together. The time to do it is now. Our economy is strong, and while our economy is strong is the right time to be addressing a major reform. Nothing hard gets easier because you leave it in the too-hard basket, so I will be explaining to them that, as Prime Minister, I intend to lead this nation through this difficult reform. It will strengthen us for the future and we will get it done.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Irons, Steve, MP",LP,2011-07-06,"
+
+
+
+Mr IRONS
+ (Swan) (14:19):  My question is to the Prime Minister. I refer the Prime Minister to the statement by the Parliamentary Secretary for Climate Change and Energy Efficiency that, 'The introduction of a carbon price in Australia will not reduce global temperatures over the next five, 10 or 50 years.' With the forgotten families of Australia already struggling with the rising cost of living, why is the Prime Minister introducing a carbon tax that, for them, is all pain and no gain?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Gillard, Julia, MP",ALP,2011-07-06,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:19):  I thank the member for his quest­ion. I think it is very important that there is a shared and respectful understanding of the science of climate change. Where that shared and respectful understanding of the science of climate change leads us is that we live in a world where, as a result of human activity and the way we live today—the industr­ialised high-energy way we live today—we generate more carbon pollution than at any other time in human history. What that means is that there is a level of damage already done which we cannot unthink or undo. There is a level of damage that lies in front of us and we can make a difference to that—that is, we can act to cut carbon pollution. Rather than saying, as a nation, that we are prepared to just allow whatever the future gives us in terms of levels of carbon pollution with all of the danger that that would create for our nation, we can act to reduce those levels of carbon pollution. I believe in doing that. I believe as a nation which is amongst the 20 biggest polluters in our world, we should be acting to cut carbon pollution.
+
+
+I am a little bit surprised about this question because I would have to say that, unless there has been a big change in opposition policy, I thought members of the opposition said that they supported cutting carbon pollution too. Maybe I am wrong about that. I know, of course, that climate change scepticism has swept through the Liberal Party and claimed the Leader of the Opposition, so now maybe they reject the need to do anything about carbon pollution and simply deny its existence.
+
+
+
+
+The SPEAKER:
+  Order! The Prime Minister will resume her seat. The member for Swan on a point of order.
+
+
+
+
+Mr Irons:
+  Mr Speaker, my question was about the cost of living in introducing a carbon tax, and relevance.
+
+
+
+
+The SPEAKER:
+  The member for Swan would also acknowledge that there are other elements to the question as well. The Prime Minister is responding.
+
+
+
+
+Ms GILLARD:
+  There may have been a change in the opposition because I note that yesterday the Leader of the Opposition in this place referred to so-called carbon pollution, so maybe climate change sceptic­ism is now ruling entirely. They reject the science out of hand and they reject the existence of carbon pollution out of hand. But we, on this side of the parliament, accept the science. We believe we should act to reduce carbon pollution. We accept the economic advice that the best way to do that is by pricing carbon. Then, of course, because we want as a Labor government to look after those in our community who need the most assistance, we will ensure that the money polluters pay funds tax cuts and payment increases for nine out of 10 households.
+
+
+The member in his point of order said that he was concerned about cost of living. He needs to make a comparison between tax cuts and payment increases for nine out of 10 households versus the plan of the Leader of the Opposition to charge households an extra $720 per year in tax, something that would impact on people's cost of living.
+
+
+
+
+Mr Hunt:
+  That is simply untrue. 
+
+
+
+
+The SPEAKER:
+  Order!I simply say to the member for Flinders I have two options in dealing with him. He will leave the chamber for one hour under 94(a), the lesser of the two evils.
+
+
+
+
+The member for Flinders then left the chamber
+.
+
+
+
+
+
+Ms GILLARD:
+  On the question of cost of living, the member who asked the question may want to refer to the policy of his own political party, particularly page 14—that is the plan to put penalties on businesses, businesses in his electorate. I do not know how many businesses in his electorate would get which size penalty. He may have to ask the Leader of the Opposition about that and how many of them it would drive out of business. I cannot help him with that; it is the plan of the Leader of the Opposition. But, of course, the penalty put on businesses would flow through presumably to the prices that they charge and into cost of living pressures. He may ask the Leader of the Opposition to come clean about that as well because the Leader of the Opposition wants to make a charge of $720 per family. He has this plan for penalties, rising cost-of-living pressures and he is planning no assistance. In fact he is planning to take back the tax cuts and pension increases that this government will provide.
+
+
+
+
+Mr Irons:
+  Mr Speaker, I seek leave to table a letter from the Parliamentary Secretary for Climate Change and Energy Efficiency which states, 'The introduction of a carbon price in Australia will not reduce global temperatures.'
+
+
+
+
+The SPEAKER:
+  Leave is not granted.
+
+
+
+Opposition members interjecting—
+
+
+
+
+The SPEAKER:
+  Order! The member for Flinders might feel aggrieved if I allow this to go on for too long.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
 "Gillard, Julia, MP",ALP,2011-07-06,"
 
 
@@ -601,7 +882,7 @@ Ms GILLARD
 
 To lead the way, I am pleased to inform the House that the government will create a new Anzac centenary advisory board which will work closely with Minister Snowdon to develop a commemorative program covering the period 2014 to 2018. Naturally, the focus of all of this will be the events of Gallipoli but it will also ensure that the whole scope of World War I is appropriately honoured from beginning to end, including efforts here on the home front. The board will also oversee the commemoration of various other significant military anniversaries that fall during the period 2014 to 2018 including the 70th anniversary of the end of World War II, in 2015, and the 50th anniversary of the Battle of Long Tan, in 2016. Board and committee members will be announced in coming months but, of course, the role of chair of the Anzac Centenary Advisory Board is a crucial one because it will set the tone and direction for the whole period of commemoration. I am therefore delighted to be able to advise the House that it will be filled by a very distinguished Australian, Air Chief Marshal Angus Houston. Angus Houston handed over command of the Australian Defence Force on Sunday night and he will bring to this new role his wisdom, his love of history, his deep sense of dignity and his integrity. I thank Air Chief Marshal Houston for agreeing to continue his journey of public service in another capacity. I am sure the full parliament knows that he will do an outstanding job.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Commemoration of the Anzac Centenary</title>,MINISTERIAL STATEMENTS,9,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Commemoration of the Anzac Centenary</title>,MINISTERIAL STATEMENTS,9,1,speech
 "Abbott, Tony, MP",LP,2011-07-06,"
 
 
@@ -609,7 +890,7 @@ To lead the way, I am pleased to inform the House that the government will creat
 Mr ABBOTT
  (Warringah—Leader of the Opposition) (15:33):  I rise to welcome the appointment of Air Chief Marshal Houston to this important role. It is very important that we never forget the example of the original Anzacs, of whom Charles Bean said, 'Their story rises as it will always rise above the mists of ages, an example of great-hearted men.' Charles Bean said it very well, and we should remember them and Angus Houston will help us to do that.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Commemoration of the Anzac Centenary</title>,MINISTERIAL STATEMENTS,9,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Commemoration of the Anzac Centenary</title>,MINISTERIAL STATEMENTS,9,1,speech
 "Jenkins, Harry, MP",ALP,2011-07-06,"
 
 
@@ -629,7 +910,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Tax</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Tax</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Truss, Warren, MP",Nats,2011-07-06,"
 
 
@@ -745,7 +1026,7 @@ I ask the government: on Sunday do not tell us how much you are going to tax us 
 
 I have never seen a tax in my life that changes the climate. Sometimes it makes people get hot under the collar, but to suggest that a new tax is actually going to make our planet cooler is clearly a nonsense. If taxes made the country cooler, under a Labor government we would be frozen over from west to east. There are plenty of taxes already. The government have no mandate for a carbon tax. They have no legitimacy for government. They said they will not have a plebiscite. If you will not have a plebiscite then you must have an election to decide this issue. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Tax</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Tax</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Crean, Simon, MP",ALP,2011-07-06,"
 
 
@@ -789,7 +1070,7 @@ I say to the member who spoke: do not just go out and run the negative argument.
 
 Members opposite should support their regions in meeting the challenge. They should support their regions in grasping the opportunity. They should stop the fear campaign. By the way, once the full details are out on Sunday, they will be looking like very hollow people indeed. The fear campaign can only work for a certain distance. The truth of the matter is that the detail out there, the compensation measures, the industry support measures, the commit­ment to actually leading on this, the understanding of our intrinsic strength, the understanding that we do need to diversify the economic base and actually prepare the regions and support them in doing it, will win through. In the end, as I said at the beginning, the only party that has ever had this commitment to regional development is Labor. Labor will again do it and we will also ensure that the structural adjustment is done in such a way that people are helped to make the adjustment, not be threatened by it.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Tax</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Tax</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Baldwin, Bob, MP",LP,2011-07-06,"
 
 
@@ -876,7 +1157,7 @@ Hon. Peter Slipper
 Mr BALDWIN:
   Here we have another member of parliament who refuses to listen to people just like the good people here in the gallery. He refuses to listen to people—like all Labor members, it is all tell and no listen. What you have to do, if you want to embark on the process, is take people on the journey with you, and they have not done that. (Time expired) 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Tax</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Tax</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Dreyfus, Mark, MP",ALP,2011-07-06,"
 
 
@@ -920,7 +1201,7 @@ There was an extraordinary statement made today by the Leader of the Opposition,
 
 I would have thought that today, in this debate raised by the Leader of the Nationals, we might have heard something about the government's Carbon Farming Initiative, which provides opportunities for revenue and jobs in rural and regional Australia, arising from people in the land sector, farmers across Australia, participating in reducing Australia's emissions and, in doing so, to earn income. It is supported by the National Farmers Federation, but of course the National Party in this place and their colleagues in the Liberal Party have decided to oppose this opportunity for farmers across Australia to participate in reducing Aust­ralia's emissions and, for that matter, to earn revenue for themselves. We have had months of them talking down the Australian economy, talking down our skills. We are a clever, creative nation, and it is about time those opposite recognised that and assisted us in designing an appropriate carbon price for Australia. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Tax</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Tax</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Broadbent, Russell, MP",LP,2011-07-06,"
 
 
@@ -1010,7 +1291,7 @@ Mr BROADBENT:
 
 Take it from my experience: it is not a good feeling to go down once, it is not a good feeling to go down twice, it is not a good feeling to go down three times and it is not a good feeling to lose four times, two of them on tax. Just remember that. It is taxation: you will have to know every detail of it. I have lived it; I have worked it. It is very, very hard and it is near impossible to win. I challenge you that you will not be able to win this argument. The member for McEwen has just come in. Mate, I have been there once or twice in this place and the rest of the people do not think much of you when you come back. Coming back is hard.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Tax</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Tax</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Fitzgibbon, Joel, MP",ALP,2011-07-06,"
 
 
@@ -1051,7 +1332,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ):  Order! The discussion is now concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Tax</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Tax</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Swan, Wayne, MP",ALP,2011-07-06,"
 
 
@@ -1188,7 +1469,7 @@ That so much of the standing and sessional orders be suspended as would prevent 
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Global Economy</title>,MINISTERIAL STATEMENTS,13,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Global Economy</title>,MINISTERIAL STATEMENTS,13,1,speech
 "Hockey, Joe, MP",LP,2011-07-06,"
 
 
@@ -1251,7 +1532,7 @@ The key issue is that Australian economic and taxation policy remains unpredicta
 
 What Australia needs right now is a government that is consistent, capable and able to deliver on what it promises. It needs a government which keeps one eye on the international environment but which streng­thens and inoculates the Australian economy against almost any eventuality. We need a government that will restore the trust and confidence of Australians and restore Austr­alia as an attractive place to do business. What this country now needs is a coalition government.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Global Economy</title>,MINISTERIAL STATEMENTS,13,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Global Economy</title>,MINISTERIAL STATEMENTS,13,1,speech
 "Plibersek, Tanya, MP",ALP,2011-07-06,"
 
 
@@ -1325,7 +1606,7 @@ The bill is necessary to protect the integrity of the social security system. It
 
 Leave granted for second reading debate to continue immediately.
 
-",HoR,<title>BILLS</title>,<title>Social Security and Other Legislation Amendment (Miscellaneous Measures) Bill 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Social Security and Other Legislation Amendment (Miscellaneous Measures) Bill 2011</title>,BILLS,14,1,speech
 "Andrews, Kevin, MP",LP,2011-07-06,"
 
 
@@ -1369,7 +1650,7 @@ The third case is one where, over two separate periods totalling eight years, a 
 
 I will give the House one more example. Over almost seven years, a person received over $70,000 in social security payments to which they were not entitled through failing to inform Centrelink of their earnings from full-time employment. The fraud was discovered as a result of a data-matching exercise between Centrelink and the Aust­ralian Taxation Office. Again, this person was prosecuted, convicted and sentenced to a period of imprisonment. I do not believe that any reasonable Australian would regard a circumstance where, because of what is largely a legal technicality, people who had been convicted in those circumstances would have the possibility opened up to them to quash those convictions and, more than that, possibly even claim compensation from the Commonwealth. To use a colloquial expres­sion, it fails the front pub test. It fails the common-sense test of ordinary Australians. That common-sense test is based on this notion that, yes, we are generous, but there is a concomitant duty or responsibility to those who are generous in relation to these payments. It is on the basis of that principle that we will not be opposing this legislation.
 
-",HoR,<title>BILLS</title>,<title>Social Security and Other Legislation Amendment (Miscellaneous Measures) Bill 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Social Security and Other Legislation Amendment (Miscellaneous Measures) Bill 2011</title>,BILLS,14,1,speech
 "Rishworth, Amanda, MP",ALP,2011-07-06,"
 
 
@@ -1389,7 +1670,7 @@ I want to use this opportunity to talk about the hardworking people at Centrelin
 
 There have been many other opportunities where Centrelink staff from Noarlunga have done outreach work. Whether it be youth or Indigenous people, they go into those comm­unities to talk to those people in need who may benefit from a number of services and payments. I would like to take this opportunity to congratulate Centrelink staff, specifically at Noarlunga but also right around the country, who work in this area. They also need to have confidence that, when they assess someone and they are getting information, they can be confident to act on that information. This legislation ensures that there is that mutual responsib­ility for people to acknowledge when their income changes—and as the previous speaker said, it can be by quite a lot. People know that their income changes. While it might be only a few people, it is important that this legislation is supported. We have an obligation to support it and pass it through the House now because the Australian people, while very generous in their nature and willing to help people in need, do not want to be defrauded. This legislation is really important to ensure that we can have confidence in the integrity of our social security system, that we continue to support those people in need and that those people who defraud the Commonwealth face the consequences of doing so. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Social Security and Other Legislation Amendment (Miscellaneous Measures) Bill 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Social Security and Other Legislation Amendment (Miscellaneous Measures) Bill 2011</title>,BILLS,14,1,speech
 "Laming, Andrew, MP",LP,2011-07-06,"
 
 
@@ -1421,7 +1702,7 @@ These sorts of changes are, I think, completely in line with what the average pe
 
 Finally, there are some changes which make it very clear that people currently making a claim for social security or access to a concession card, people currently receiving social security or who hold those concession privileges and people not currently receiving social security payments or holding a concession card but who have at one time been paid social security or received such concessions will also be subject to these new rules. I think it is completely reasonable that we should support these changes and I think it is very important that Centrelink fraud is never considered a legitimate activity in this country. That is the important reason both sides should be supporting these changes.
 
-",HoR,<title>BILLS</title>,<title>Social Security and Other Legislation Amendment (Miscellaneous Measures) Bill 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Social Security and Other Legislation Amendment (Miscellaneous Measures) Bill 2011</title>,BILLS,14,1,speech
 "Plibersek, Tanya, MP",ALP,2011-07-06,"
 
 
@@ -1435,7 +1716,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Social Security and Other Legislation Amendment (Miscellaneous Measures) Bill 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Social Security and Other Legislation Amendment (Miscellaneous Measures) Bill 2011</title>,BILLS,14,1,speech
 "Plibersek, Tanya, MP",ALP,2011-07-06,"
 
 
@@ -1452,7 +1733,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Social Security and Other Legislation Amendment (Miscellaneous Measures) Bill 2011</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Social Security and Other Legislation Amendment (Miscellaneous Measures) Bill 2011</title>,BILLS,14,1,speech
 "Billson, Bruce, MP",LP,2011-07-06,"
 
 
@@ -1524,7 +1805,7 @@ Ms Gambaro:
 
 The DEPUTY SPEAKER:  The original question was that this bill be now read a second time. To this the honourable member for Dunkley has moved as an amendment that all words after 'that' be omitted with the view to substituting other words. The question now is that the amendment be agreed to. 
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,16,1,speech
 "Perrett, Graham, MP",ALP,2011-07-06,"
 
 
@@ -1556,7 +1837,7 @@ There will also be occasions when banks need legitimately to discuss pricing wit
 
 It is important that we close this loophole in competition law. It brings Australian law into line with those of the United States, the United Kingdom and the European Union. These laws strike the right balance by enabling banks to get on with their legitimate business while providing the necessary protections for consumers by eliminating anticompetitive price signalling. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,16,1,speech
 "Fletcher, Paul, MP",LP,2011-07-06,"
 
 
@@ -1627,7 +1908,7 @@ The fourth point I wish to make in the brief time available to me is that there 
 
 This is a poor piece of legislation which is based upon bad policy, selective policy, and driven largely by political motives. We on this side of the House certainly think that very substantial amendment is needed before it can be supported.
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,16,1,speech
 "O'Neill, Deb, MP",ALP,2011-07-06,"
 
 
@@ -1647,7 +1928,7 @@ I understand that regulation of the financial industry needs to be appropriate a
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Competition and Consumer Amendment Bill (No. 1) 2011</title>,BILLS,16,1,speech
 "Billson, Bruce, MP",LP,2011-07-06,"
 
 
@@ -1719,7 +2000,7 @@ Ms Gambaro:
 
 The DEPUTY SPEAKER:  The original question was that this bill be now read a second time. To this the honourable member for Dunkley has moved as an amendment that all words after 'that' be omitted with the view to substituting other words. The question now is that the amendment be agreed to. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "Perrett, Graham, MP",ALP,2011-07-06,"
 
 
@@ -1751,7 +2032,7 @@ There will also be occasions when banks need legitimately to discuss pricing wit
 
 It is important that we close this loophole in competition law. It brings Australian law into line with those of the United States, the United Kingdom and the European Union. These laws strike the right balance by enabling banks to get on with their legitimate business while providing the necessary protections for consumers by eliminating anticompetitive price signalling. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "Fletcher, Paul, MP",LP,2011-07-06,"
 
 
@@ -1822,7 +2103,7 @@ The fourth point I wish to make in the brief time available to me is that there 
 
 This is a poor piece of legislation which is based upon bad policy, selective policy, and driven largely by political motives. We on this side of the House certainly think that very substantial amendment is needed before it can be supported.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "O'Neill, Deb, MP",ALP,2011-07-06,"
 
 
@@ -1842,7 +2123,7 @@ I understand that regulation of the financial industry needs to be appropriate a
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "Gambaro, Teresa, MP",LP,2011-07-06,"
 
 
@@ -1871,7 +2152,7 @@ It was a coalition government that established the Office of Development Effec­
 
 Our focus should be on the Asia-Pacific region, but there is no question that we should continue to assist other areas of the world where the need arises. We recognise that foreign aid spending in other parts of the world is essential. We support the recommendations, and the major focus of the foreign aid budget should primarily be within our region and continue to grow there. The coalition welcome the report and its recommendations, particularly those that support our view, encourage greater transp­arency and describe steps and performance indicators that should be implemented to provide a further safeguard for Australia's aid program.
 
-",HoR,<title>ADJOURNMENT</title>,<title>International Development Assistance</title>,ADJOURNMENT,17,1
+",HoR,<title>ADJOURNMENT</title>,<title>International Development Assistance</title>,ADJOURNMENT,17,1,speech
 "Broadbent, Russell, MP",LP,2011-07-06,"
 
 
@@ -1912,7 +2193,7 @@ Such a time is not wasted.
 
 This was very important at the time because I believed that there was a threat in this parliament, and I believe there could be a threat today, to the recognition and moment of the Lord's Prayer. There are those who would like it removed from this House or both houses. That is not something we agree with and it is why many thousands of people signed this petition during the last parliament to cement this act of faith and quietness and, as John Wilson said, for those who do not pray, this time of reflection. It is something we can give back to the nation and ourselves, and I hope and pray that this parliament, the House and the Senate, will continue with the practice of using the Lord's Prayer every day that we come together to meet.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>The Lord's Prayer</title>,CONSTITUENCY STATEMENTS,19,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>The Lord's Prayer</title>,CONSTITUENCY STATEMENTS,19,1,speech
 "Slipper, Peter, MP",Ind.,2011-07-06,"
 
 
@@ -1935,7 +2216,7 @@ Like other honourable members I was enormously proud when the member for Hasluck
 
 That is why the Indigenous Education (Targeted Assistance) Amendment Bill 2011, which continues funding, at least for the time being, for these programs, is a very important bill. It is a bill that I commend and support, but I ask the government to cease reviewing these programs and give them a tick of permanence. They deserve it, they have got outcomes and they are achieving what they seek to achieve. The result is that young Indigenous Australians have a better chance of taking their place as people who are able to be successful Australians in every sphere of endeavour. So this is a good bill and these are good programs with which good outcomes are being achieved. I think, though, that the community and the parliament need reassurance from the government that these programs are going to be permanently funded and permanently supported, because they are doing such a wonderful job for those Australians who for too long have been disadvantaged. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Indigenous Education (Targeted Assistance) Amendment Bill 2011</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Indigenous Education (Targeted Assistance) Amendment Bill 2011</title>,BILLS,20,1,speech
 "McCormack, Michael, MP",Nats,2011-07-06,"
 
 
@@ -1985,7 +2266,7 @@ In recent times, this has been evident with the suspension of the live cattle tr
 
 More programs such as the Aboriginal Environmental Education Centre in Brungle in New South Wales in the Riverina in my electorate need to be operated. This is an area in my electorate where education on Aboriginal tradition is threaded into the curriculum. Brungle Public School, which is close to Gundagai and Tumut, has developed programs and the grounds to provide a better understanding of Aboriginal culture. I commend them for the work that they are doing. Students will experience traditional greetings and meet Aboriginal elders in the dreaming room. They will also learn traditional skills, history, Dreamtime legends, implement making and the Wiradjuri language. They will learn about scar trees, bush tucker and plant and animal usage. Aboriginal activist and lawyer Noel Pearson once said that there is no self-esteem and self-worth without capability and there is no road to capability without education.
 
-",HoR,<title>BILLS</title>,<title>Indigenous Education (Targeted Assistance) Amendment Bill 2011</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Indigenous Education (Targeted Assistance) Amendment Bill 2011</title>,BILLS,20,1,speech
 "Stone, Dr Sharman, MP",LP,2011-07-06,"
 
 
@@ -2026,7 +2307,7 @@ The coalition supports any measures that will assist Indigenous Australians to h
 
 Along with my coalition colleagues I support this bill, but we have to look much harder at the situation in Australia for Indigenous people. We cannot go on having Indigenous Australians being out of sight and out of mind because of where they live. We need an integrated approach to what we do with the states and territories and non-government agencies. We need to collect a lot more data and monitor the outcomes of a program if it appears to be successful, because too often we do not properly monitor outcomes. The program has short-term funding. The staff who are working with that program become disenchanted when they are on a six-month or 12-month program lifecycle. And, if it succeeds, then maybe in five or 20 years time there will be another program echoing almost exactly the parameters of the first—reinventing the wheel. Meanwhile, Indigenous communities become despairing of a churn of people coming to assist them. They have no sense that there is any continuity of care or understanding of their issues and problems. And we go on having children in Australia who are more likely to be blind through, for example, the instance of cataract conditions; more likely to be deaf; more likely to have brain damage due to foetal alcohol syndrome; more likely to be incarcerated and more likely to suffer death and injury through road trauma—all in all, in every way not able to fully enjoy the opportunities of this great country of ours.
 
-",HoR,<title>BILLS</title>,<title>Indigenous Education (Targeted Assistance) Amendment Bill 2011</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Indigenous Education (Targeted Assistance) Amendment Bill 2011</title>,BILLS,20,1,speech
 "Haase, Barry, MP",LP,2011-07-06,"
 
 
@@ -2098,7 +2379,7 @@ The actions and initiatives of this Labor government are not working in any area
 
 I am a member of the Standing Committee on Aboriginal and Torres Strait Islander Affairs, which recently tabled Doing time—time for doing, the report of its inquiry into the high level of involvement of Indigenous juveniles and young adults in the criminal justice system. The inquiry showed that not only are Indigenous youth 28 times more likely to be incarcerated than non-Indigenous youth, but if you are an Indigenous woman you are 35 times more likely to be hospitalised by partner abuse than a non-Indigenous woman. Those figures are atrocious, yet the Greens have the audacity to demonstrate their ignorance by introducing to parliament bills condemning the intervention on the basis of human rights. Basic human rights, proclaimed and agreed upon, say that everyone is entitled to all the rights and freedoms without distinction of any kind—such as those of race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status. These rights recognise that a child, for the full and harmonious development of his or her personality, should grow up in a family environment—in an atmosphere of happiness, love and understanding. A child should be fully prepared to live an individual life in society. To deny children an education is to deny them basic human rights. So long as we continue to accept a culture that says, 'We will pay welfare with no expectation of something in return'—that is, the right of children to be educated—we are denying those children their natural human rights.
 
-",HoR,<title>BILLS</title>,<title>Indigenous Education (Targeted Assistance) Amendment Bill 2011</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Indigenous Education (Targeted Assistance) Amendment Bill 2011</title>,BILLS,20,1,speech
 "Garrett, Peter, MP",ALP,2011-07-06,"
 
 
@@ -2145,7 +2426,7 @@ Message from the Governor-General recommending appropriation announced.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,<title>Indigenous Education (Targeted Assistance) Amendment Bill 2011</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Indigenous Education (Targeted Assistance) Amendment Bill 2011</title>,BILLS,20,1,speech
 "Slipper, Peter, MP",Ind.,2011-07-06,"
 
 
@@ -2168,7 +2449,7 @@ Like other honourable members I was enormously proud when the member for Hasluck
 
 That is why the Indigenous Education (Targeted Assistance) Amendment Bill 2011, which continues funding, at least for the time being, for these programs, is a very important bill. It is a bill that I commend and support, but I ask the government to cease reviewing these programs and give them a tick of permanence. They deserve it, they have got outcomes and they are achieving what they seek to achieve. The result is that young Indigenous Australians have a better chance of taking their place as people who are able to be successful Australians in every sphere of endeavour. So this is a good bill and these are good programs with which good outcomes are being achieved. I think, though, that the community and the parliament need reassurance from the government that these programs are going to be permanently funded and permanently supported, because they are doing such a wonderful job for those Australians who for too long have been disadvantaged. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "McCormack, Michael, MP",Nats,2011-07-06,"
 
 
@@ -2218,7 +2499,7 @@ In recent times, this has been evident with the suspension of the live cattle tr
 
 More programs such as the Aboriginal Environmental Education Centre in Brungle in New South Wales in the Riverina in my electorate need to be operated. This is an area in my electorate where education on Aboriginal tradition is threaded into the curriculum. Brungle Public School, which is close to Gundagai and Tumut, has developed programs and the grounds to provide a better understanding of Aboriginal culture. I commend them for the work that they are doing. Students will experience traditional greetings and meet Aboriginal elders in the dreaming room. They will also learn traditional skills, history, Dreamtime legends, implement making and the Wiradjuri language. They will learn about scar trees, bush tucker and plant and animal usage. Aboriginal activist and lawyer Noel Pearson once said that there is no self-esteem and self-worth without capability and there is no road to capability without education.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Stone, Dr Sharman, MP",LP,2011-07-06,"
 
 
@@ -2259,7 +2540,7 @@ The coalition supports any measures that will assist Indigenous Australians to h
 
 Along with my coalition colleagues I support this bill, but we have to look much harder at the situation in Australia for Indigenous people. We cannot go on having Indigenous Australians being out of sight and out of mind because of where they live. We need an integrated approach to what we do with the states and territories and non-government agencies. We need to collect a lot more data and monitor the outcomes of a program if it appears to be successful, because too often we do not properly monitor outcomes. The program has short-term funding. The staff who are working with that program become disenchanted when they are on a six-month or 12-month program lifecycle. And, if it succeeds, then maybe in five or 20 years time there will be another program echoing almost exactly the parameters of the first—reinventing the wheel. Meanwhile, Indigenous communities become despairing of a churn of people coming to assist them. They have no sense that there is any continuity of care or understanding of their issues and problems. And we go on having children in Australia who are more likely to be blind through, for example, the instance of cataract conditions; more likely to be deaf; more likely to have brain damage due to foetal alcohol syndrome; more likely to be incarcerated and more likely to suffer death and injury through road trauma—all in all, in every way not able to fully enjoy the opportunities of this great country of ours.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Haase, Barry, MP",LP,2011-07-06,"
 
 
@@ -2331,7 +2612,7 @@ The actions and initiatives of this Labor government are not working in any area
 
 I am a member of the Standing Committee on Aboriginal and Torres Strait Islander Affairs, which recently tabled Doing time—time for doing, the report of its inquiry into the high level of involvement of Indigenous juveniles and young adults in the criminal justice system. The inquiry showed that not only are Indigenous youth 28 times more likely to be incarcerated than non-Indigenous youth, but if you are an Indigenous woman you are 35 times more likely to be hospitalised by partner abuse than a non-Indigenous woman. Those figures are atrocious, yet the Greens have the audacity to demonstrate their ignorance by introducing to parliament bills condemning the intervention on the basis of human rights. Basic human rights, proclaimed and agreed upon, say that everyone is entitled to all the rights and freedoms without distinction of any kind—such as those of race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status. These rights recognise that a child, for the full and harmonious development of his or her personality, should grow up in a family environment—in an atmosphere of happiness, love and understanding. A child should be fully prepared to live an individual life in society. To deny children an education is to deny them basic human rights. So long as we continue to accept a culture that says, 'We will pay welfare with no expectation of something in return'—that is, the right of children to be educated—we are denying those children their natural human rights.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Garrett, Peter, MP",ALP,2011-07-06,"
 
 
@@ -2378,7 +2659,7 @@ Message from the Governor-General recommending appropriation announced.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "O'Dwyer, Kelly, MP",LP,2011-07-06,"
 
 
@@ -2431,7 +2712,7 @@ It is very clear that an integrated approach to Indigenous policy is required. W
 
 We in the coalition have been particularly strong on these issues. While we might not always have been perfect in the response that we provided, we have made and will continue to make the hard decisions, such as the Northern Territory intervention, to tackle problems that we know exist, such as alcohol abuse and gambling. We will also continue to provide support to parents to get children to school and work with families and communities to remove hurdles that prevent school attendance. It is incumbent upon us as members in this place to break the cycle of expectation that young Indigenous people end up in detention and jail. We need to do this by attacking the problems at their core. We must do this together and as a matter of urgency.
 
-",HoR,<title>COMMITTEES</title>,<title>Aboriginal and Torres Strait Islander Affairs Committee</title>,COMMITTEES,22,1
+",HoR,<title>COMMITTEES</title>,<title>Aboriginal and Torres Strait Islander Affairs Committee</title>,COMMITTEES,22,1,speech
 "Bird, Sharon, MP",ALP,2011-07-06,"
 
 
@@ -2490,7 +2771,7 @@ In the few minutes I have left, I will make some observations about a recommenda
 
 I want to acknowledge Project Murra in my own area of the Illawarra. This project is conducted through Warrigal Employment and began in 2008 as a partnership between the local commander of the police service in Lake Illawarra, the local TAFE and Warrigal employment. It is a particularly successful two-year program of school based traineeships with the police service which has now been extended to other emergency services and been done in conjunction with the HSC. It keeps young Indigenous people engaged in school and provides some real connections to the police and emergency services. It contributes to crime prevention because the community is connected to the police service. It also contributes to school retention and is an important employment strategy. The program has been going so well that the police service have continued with it and, indeed, it has been extended to other emergency services. The program has been supported and funded by the federal Department of Employment, Education and Workplace Relations and by New South Wales TAFEs as well as by the services. It is creating a much stronger relationship between those services and the local Indigenous community, and in the class of 2009 there were 12 students—three with the Wollongong police, three with Lake Illawarra police, two with Nowra police, three with the New South Wales ambulance service and one with the state emergency service. That is the current cohort, which is going through to completion now. Overall, it is a really good program which has multiple benefits: it is well regarded by the community, it is a great asset to the broader community and it increases the capacity for young people to be connected. I understand that one of the young people is at the police academy completing the degree, continuing their enrolment and engagement with the police service. That is a good local story, but a small one. We all need to be focused on doing far more to address the issues that have been raised in this very important report.
 
-",HoR,<title>COMMITTEES</title>,<title>Aboriginal and Torres Strait Islander Affairs Committee</title>,COMMITTEES,22,1
+",HoR,<title>COMMITTEES</title>,<title>Aboriginal and Torres Strait Islander Affairs Committee</title>,COMMITTEES,22,1,speech
 "Haase, Barry, MP",LP,2011-07-06,"
 
 
@@ -2531,7 +2812,7 @@ We need tough love in our communities. We need to remove our focus on political 
 
 Having believed that I would speak a few moments only on this, I find that there is just so much to say. In these closing seconds, let me implore my colleagues on both sides of the House: something needs to be done. The stats are all there. The knowledge has been collected. We know that what has happened in the past is not solving the problem. Fifty-three per cent of the juvenile prison population are Indigenous, although they make up just 2.5 per cent of the general population. The worst possible result of this report would be that we once again do nothing.
 
-",HoR,<title>COMMITTEES</title>,<title>Aboriginal and Torres Strait Islander Affairs Committee</title>,COMMITTEES,22,1
+",HoR,<title>COMMITTEES</title>,<title>Aboriginal and Torres Strait Islander Affairs Committee</title>,COMMITTEES,22,1,speech
 "Frydenberg, Josh, MP",LP,2011-07-06,"
 
 
@@ -2566,7 +2847,7 @@ Noel Pearson has written about a speech that a young 15-year-old Aboriginal woma
 
 In conclusion, we must do better. We need to be innovative. We need to focus, as Noel Pearson and others have talked about, on the issue of personal responsibility. But we cannot leave people behind if they cannot help themselves. If Australians want to know what the true moral challenge for our time is it is Indigenous disadvantage and particularly, as we have learned from this report, the disproportionate and tragic numbers of Indigenous youth who are incarcerated in our jails today.
 
-",HoR,<title>COMMITTEES</title>,<title>Aboriginal and Torres Strait Islander Affairs Committee</title>,COMMITTEES,22,1
+",HoR,<title>COMMITTEES</title>,<title>Aboriginal and Torres Strait Islander Affairs Committee</title>,COMMITTEES,22,1,speech
 "Gambaro, Teresa, MP",LP,2011-07-06,"
 
 
@@ -2607,7 +2888,7 @@ I commend this report and its recommendations. It highlights that an incredible 
 
 Debate adjourned. 
 
-",HoR,<title>COMMITTEES</title>,<title>Aboriginal and Torres Strait Islander Affairs Committee</title>,COMMITTEES,22,1
+",HoR,<title>COMMITTEES</title>,<title>Aboriginal and Torres Strait Islander Affairs Committee</title>,COMMITTEES,22,1,speech
 "O'Dwyer, Kelly, MP",LP,2011-07-06,"
 
 
@@ -2660,7 +2941,7 @@ It is very clear that an integrated approach to Indigenous policy is required. W
 
 We in the coalition have been particularly strong on these issues. While we might not always have been perfect in the response that we provided, we have made and will continue to make the hard decisions, such as the Northern Territory intervention, to tackle problems that we know exist, such as alcohol abuse and gambling. We will also continue to provide support to parents to get children to school and work with families and communities to remove hurdles that prevent school attendance. It is incumbent upon us as members in this place to break the cycle of expectation that young Indigenous people end up in detention and jail. We need to do this by attacking the problems at their core. We must do this together and as a matter of urgency.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2,speech
 "Bird, Sharon, MP",ALP,2011-07-06,"
 
 
@@ -2719,7 +3000,7 @@ In the few minutes I have left, I will make some observations about a recommenda
 
 I want to acknowledge Project Murra in my own area of the Illawarra. This project is conducted through Warrigal Employment and began in 2008 as a partnership between the local commander of the police service in Lake Illawarra, the local TAFE and Warrigal employment. It is a particularly successful two-year program of school based traineeships with the police service which has now been extended to other emergency services and been done in conjunction with the HSC. It keeps young Indigenous people engaged in school and provides some real connections to the police and emergency services. It contributes to crime prevention because the community is connected to the police service. It also contributes to school retention and is an important employment strategy. The program has been going so well that the police service have continued with it and, indeed, it has been extended to other emergency services. The program has been supported and funded by the federal Department of Employment, Education and Workplace Relations and by New South Wales TAFEs as well as by the services. It is creating a much stronger relationship between those services and the local Indigenous community, and in the class of 2009 there were 12 students—three with the Wollongong police, three with Lake Illawarra police, two with Nowra police, three with the New South Wales ambulance service and one with the state emergency service. That is the current cohort, which is going through to completion now. Overall, it is a really good program which has multiple benefits: it is well regarded by the community, it is a great asset to the broader community and it increases the capacity for young people to be connected. I understand that one of the young people is at the police academy completing the degree, continuing their enrolment and engagement with the police service. That is a good local story, but a small one. We all need to be focused on doing far more to address the issues that have been raised in this very important report.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2,speech
 "Haase, Barry, MP",LP,2011-07-06,"
 
 
@@ -2760,7 +3041,7 @@ We need tough love in our communities. We need to remove our focus on political 
 
 Having believed that I would speak a few moments only on this, I find that there is just so much to say. In these closing seconds, let me implore my colleagues on both sides of the House: something needs to be done. The stats are all there. The knowledge has been collected. We know that what has happened in the past is not solving the problem. Fifty-three per cent of the juvenile prison population are Indigenous, although they make up just 2.5 per cent of the general population. The worst possible result of this report would be that we once again do nothing.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2,speech
 "Frydenberg, Josh, MP",LP,2011-07-06,"
 
 
@@ -2795,7 +3076,7 @@ Noel Pearson has written about a speech that a young 15-year-old Aboriginal woma
 
 In conclusion, we must do better. We need to be innovative. We need to focus, as Noel Pearson and others have talked about, on the issue of personal responsibility. But we cannot leave people behind if they cannot help themselves. If Australians want to know what the true moral challenge for our time is it is Indigenous disadvantage and particularly, as we have learned from this report, the disproportionate and tragic numbers of Indigenous youth who are incarcerated in our jails today.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2,speech
 "Gambaro, Teresa, MP",LP,2011-07-06,"
 
 
@@ -2836,4 +3117,32 @@ I commend this report and its recommendations. It highlights that an incredible 
 
 Debate adjourned. 
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2,speech
+"Briggs, Jamie, MP",LP,2011-07-06,"
+
+
+
+Mr Briggs
+  asked the Minister for Infrastructure and Transport, in writing, on 3 March 2011:
+
+
+(1) How many personal staff are employed by the Minister.
+
+
+(2) What is the (a) total cost, and (b) breakdown of costs, of all capital works and acquisitions in the Minister's private office since 3 December 2007.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,"<title>Ministers: Staff, Capital Works and Acquisitions (Question No. 244)</title>",QUESTIONS IN WRITING,23,1,question
+"Albanese, Anthony, MP",ALP,2011-07-06,"
+
+
+
+Mr Albanese:
+  The answer to the honourable member's question is as follows:
+
+
+(1) The employment of staff under the Members of Parliament (Staff) Act 1984 is administered by the Department of Finance and Deregulation. On 22 February 2011, the Department tabled with the Senate Finance and Public Administration Committee a list of Government Personal Staff Positions as at 1 February 2011.
+
+
+(2) The cost of capital works and acquisitions for ministers' offices is shared by the Department of Parliamentary Services (DPS), Department of Finance and Deregulation (DoFD) and home departments in line with Appendix 2 of Supporting Ministers, Upholding the Values.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,"<title>Ministers: Staff, Capital Works and Acquisitions (Question No. 244)</title>",QUESTIONS IN WRITING,23,1,answer

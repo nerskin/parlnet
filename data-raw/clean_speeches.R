@@ -4,7 +4,7 @@ library(purrr)
 library(furrr)
 library(stringr)
 library(tidytext)
-
+library(lubridate)
 
 speeches <- dir('tidied_parliamentary_data/speeches/',full.names=TRUE) %>%
 	map_dfr(~read_csv(.x,col_types = cols())) 
@@ -30,6 +30,13 @@ speeches_post_change <- speeches_post_change %>%
 
 speeches <- bind_rows(speeches_pre_change,speeches_post_change)
 
+## Tidy up chamber identifiers
+## REPS --> HoR
+## SENATE --> Senate
+
+speeches <- speeches %>%
+	mutate(chamber = if_else(chamber == 'REPS','HoR',chamber)) %>%
+	mutate(chamber = if_else(chamber == 'SENATE','Senate',chamber))
 
 ## tidy up names
 
@@ -39,37 +46,29 @@ speeches <- speeches %>%
 	mutate(name = str_trim(name)) %>%
         mutate(debate_title = str_remove(debate_title,'<title>'),subdebate_title = str_remove(subdebate_title,'<title>')) %>%
         mutate(debate_title = str_remove(debate_title,'</title>'),subdebate_title = str_remove(subdebate_title,'</title>')) %>%
-        mutate(name = str_remove(name,' Sen')) %>% #redundant information because the chamber is given elsewhere
-	mutate(name = str_remove(name,' MP')) %>%
-	mutate(name_abbreviated = str_split(name,' ')) #is the correct? - what about e.g. Albertus Johannes van Manen
+        mutate(name = str_remove(name,'Senator')) %>% #sometimes given as "Senator" rather than "Sen"
+        mutate(name = str_remove(name,'Sen')) %>% #redundant information because the chamber is given elsewhere
+	mutate(name_abbreviated = str_split(name,' ')) %>% #is the correct? - what about e.g. Albertus Johannes van Manen 
+	mutate(name = str_remove(name,'MP$')) %>%
+	mutate(name = str_remove(name,',$')) %>%
+	mutate(name = str_remove(name,'^Mr ')) %>%
+	mutate(name = str_trim(name)) %>%
+	mutate(name = str_squish(name))
 
+procedural_roles_regex <- '(President)|(Speaker)|(Chair)|(Clerk)'#make sure to ignore case
 speeches <- speeches %>%
-  mutate(role = if_else(grepl('(President)|(Speaker)|(Chair)',name),name
+  mutate(role = if_else(grepl(procedural_roles_regex,name),name
                         ,role)) %>%
-  mutate(name = if_else(grepl('(President)|(Speaker)|(Chair)',name,ignore.case=TRUE),NA_character_,name))
-
-
-
-## Lemmatise
-
-library(textstem)
-
-progressively <- function(.f, .n, ...) {
-  pb <- progress::progress_bar$new(total = .n, ...)
-  function(...) {
-    pb$tick()
-    .f(...)
-  }
-}
-
-progress_fn <- progressively(function(text){lemmatize_strings(text)},nrow(speeches))
-
-#speeches_lemmatised <- mutate(speeches,text_lemmatised = map_chr(text,progress_fn)) %>%
-	#select(-text)
-
+  mutate(name = if_else(grepl(procedural_roles_regex,name,ignore.case=TRUE),NA_character_,name))
+ 
 
 ## Write data
 
 usethis::use_data(speeches,overwrite=TRUE)
-#usethis::use_data(speeches_lemmatised,overwrite=TRUE)
 
+
+## Stop words
+
+parliamentary_stop_words <- read_csv('parliamentary_stop_words.csv',col_names=c('word'))
+
+usethis::use_data(parliamentary_stop_words,overwrite=TRUE)

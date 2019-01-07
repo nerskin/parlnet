@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2018-06-20,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (09:31):  I remind senators that the question may be put on any proposal at the request of any senator. There being none, we will move on.
 
-",Senate,<title>COMMITTEES</title>,<title>Law Enforcement Committee</title>,COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,<title>Law Enforcement Committee</title>,COMMITTEES,1,1,speech
 "PRESIDENT, The",,2018-06-20,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (09:31):  I remind senators that the question may be put on any proposal at the request of any senator. There being none, we will move on.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "Hinch, Sen Derryn",DHJP,2018-06-20,"
 
 
@@ -34,7 +34,7 @@ A senator shall vote in a division in accordance with that senator's vote by voi
 
 That did not happen yesterday. Mr President, I hope you'll make a ruling as to the validity of that division, given that one of the voices calling for the division, that being the voice of Senator Burston, was not present during the division. I also hope that you will remind senators of the Senate rules governing divisions.
 
-",Senate,<title>MOTIONS</title>,<title>Death Penalty</title>,MOTIONS,2,1
+",Senate,<title>MOTIONS</title>,<title>Death Penalty</title>,MOTIONS,2,1,speech
 "PRESIDENT, The",,2018-06-20,"
 
 
@@ -42,7 +42,7 @@ That did not happen yesterday. Mr President, I hope you'll make a ruling as to t
 The PRESIDENT
  (09:32):  Thank you, Senator Hinch. This matter was brought to my attention this morning. You correctly point out the requirements of standing order 100, subclauses (2) and (3). With respect to the vote held yesterday, yes, senators should remain in the chamber and are required to when they call for a division, and their vote is required to reflect their voice when the question was put. However, upon taking advice, I believe the result of the division would not have been any different. It is not an invalid division, but you correctly give us the opportunity to remind all senators that, when they call for a division, they must remain in the chamber, and their vote must reflect their voice call when the matter was first put. To do otherwise is a breach of standing orders. But the division is not invalidated by that, given the result would have been no different.
 
-",Senate,<title>MOTIONS</title>,<title>Death Penalty</title>,MOTIONS,2,1
+",Senate,<title>MOTIONS</title>,<title>Death Penalty</title>,MOTIONS,2,1,speech
 "Siewert, Sen Rachel",AG,2018-06-20,"
 
 
@@ -86,7 +86,7 @@ How about we have a redress scheme for those children who were in institutional 
 
 When you ask Australians if they want public services or tax cuts, they'll tell you they want public services. They want to make sure that they and their children can access a top-quality education system. They want to make sure that they can get health services when they need it. They want to be able to ring Centrelink and the Department of Human Services and get the information they want without having to keep dialling and dialling. They want a social security net for when they fall on hard times. I want to be able to look in the faces of people with disability and say that our country can provide them with the support and services they need, instead of demonising them and making them jump through all sorts of hoops, trying to find work for 18 months before they can access the disability support pension. That's not the country I want to live in. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Pratt, Sen Louise",ALP,2018-06-20,"
 
 
@@ -130,7 +130,7 @@ The Turnbull government's priority is for tax cuts for big business and high inc
 
 Labor, on the other hand, because we're not giving millionaires another tax cut and we're not giving big business an $80 billion tax handout, can put more money into the pockets of working Australians while funding better schools and hospitals and paying down debt quicker. This bill will make our tax system in Australia less progressive and it will continue to erode our tax base. It doesn't deserve the paper it's written on.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Hanson-Young, Sen Sarah",AG,2018-06-20,"
 
 
@@ -224,7 +224,7 @@ Senator HANSON-YOUNG:
 
 This tax cut will do nothing to lift wages. We know we have a wage-growth issue in this country. This tax cut will do nothing to help people on Newstart or, indeed, the minimum wage. What this proves, and what Senator Pauline Hanson and One Nation's deal with the government proves, is that they're all about feathering their own nests and doing nothing to help regular Australians!
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "O'Neill, Sen Deb",ALP,2018-06-20,"
 
 
@@ -253,7 +253,7 @@ I want to have a little bit of a look at a distributional analysis. If we look a
 
 I can tell you from this morning, when I was at the Kids' Cancer Project breakfast, that no-one in that room thinks there's adequate funding going into the prevention and treatment of cancer for young people. They were there asking the government, the opposition and anybody who would listen to hear their pleas for further investment in proper research capacity. The reality that we face right at this moment in our country is a choice between Labor and a Liberal government who have no commitment to decency, to fairness or to equity. The attempt to force this inequitable piece of legislation through the chamber should be abandoned.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Di Natale, Sen Richard",AG,2018-06-20,"
 
 
@@ -294,7 +294,7 @@ We in the Greens believe unashamedly that now is not the time for income tax cut
 
 We oppose this retrograde package in its entirety because we believe this is going to fundamentally reshape Australian society. This is a nation founded on the notion of egalitarianism, of a fair go, and there's nothing fair about this tax package. When economic inequality is already at dire levels, this is a prescription for turbocharging inequality in Australia. It will leave our schools, our hospitals and our public infrastructure to wither on the vine and it will make Australia a less equal society. It's not a future for this country that I want to see. It's not a future for this country that my colleagues want to see. That's why when this bill comes before this Senate we will be opposing each and every element of it.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Hanson, Sen Pauline",PHON,2018-06-20,"
 
 
@@ -408,7 +408,7 @@ My dilemma is this: yes, we have a black hole, but are we going to fill that bla
 
 My job in the Senate is to represent the Australian people to the best of my ability. I will make my vote clear on the floor of the parliament. I will listen to all the amendments that are going to be put up and I will make a decision based on what I think is right for the Australian people.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Patrick, Sen Rex",CA,2018-06-20,"
 
 
@@ -425,7 +425,7 @@ As stated, our amendment knocks out stage 3 of the income tax cuts. Stage 3, whi
 
 Having said that, we do reserve our position in regard to the third stage if our amendments are not successful or if an amended bill is rejected in the House, because we do think that low-income and medium-income earners deserve some tax relief.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Bernardi, Sen Cory",AC,2018-06-20,"
 
 
@@ -442,7 +442,7 @@ I also want to make the point, for the class warriors on the other side of the c
 
 We don't need more government. We don't need to give more money to government. We need to get government the heck out of people's lives and let them take some responsibility for themselves. This tax package goes some way to doing that. I endorse it. I wholeheartedly support it. I hope the Senate will do that as well. If they want to have an election based upon one side of parliament putting up taxes and the other side reducing them, I say bring it on, because you will then have a commitment from the Australian people that they endorse low taxes and they think government is not worthy of taking more of their own money.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "McKim, Sen Nicholas",AG,2018-06-20,"
 
 
@@ -462,7 +462,7 @@ I want to say something to the people of Braddon, who are facing this choice in 
 
 Of course, that would provide a significant economic benefit to Braddon, which sorely needs it. With an increase in Newstart and with an increase in the minimum wage, you would see cash starting to flow more freely through the economy of Braddon, which would help businesses in Braddon—everything from small businesses in the corner shops to small businesses in the manufacturing sector, to people on farms and right through the economy of the north-west coast of Tasmania. The choice for the people of Braddon is very clear. You can vote for Jarrod Edwards and the Australian Greens for an increase in the minimum wage and an increase in Newstart, or you can vote for your Labor or Liberal candidates and vote to give tax cuts to people on $120,000 a year.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Cormann, Sen Mathias",LP,2018-06-20,"
 
 
@@ -483,7 +483,7 @@ Senator O'Sullivan
 
 The PRESIDENT:  The question is that the second reading amendment moved by Senator Whish-Wilson, on sheet 8464, be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Di Natale, Sen Richard",AG,2018-06-20,"
 
 
@@ -504,7 +504,7 @@ At the end of the motion, add ""but the Senate is of the opinion that:
 
 The DEPUTY PRESIDENT:  The question is that the second reading amendment moved by Senator Di Natale on sheet 8466 be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "PRESIDENT, The",,2018-06-20,"
 
 
@@ -518,7 +518,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Wong, Sen Penny",ALP,2018-06-20,"
 
 
@@ -565,7 +565,7 @@ The opposition opposes schedule 2 in the following terms:
 
 [tax rates]
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Cormann, Sen Mathias",LP,2018-06-20,"
 
 
@@ -612,7 +612,7 @@ It's interesting that Senator Wong in her first amendment hasn't even tried to i
 
 In fact, as the Labor caucus finished and the Leader of the Opposition and the shadow Treasurer gave a press conference yesterday, the indication that the Australian people were given was that Labor would move to remove both phase 2 and phase 3 from this income tax bill. That is not what Senator Wong is doing in her move now. Senator Wong, essentially, has now accepted stages 1 and 2. I congratulate the Labor Party that you've moved along from one to two. There's only one more step to go! Now that you support the first two phases of our income tax relief plan, which is in three parts, I encourage you strongly to reflect on the fact it is very much in our national interests and in the interests of working families around Australia for us to, yes, provide cost-of-living-pressure relief for low- and middle-income earners but also to address bracket creep so that all working families around Australia have the right incentive, the right encouragement and the right reward for effort so the Australian economy can continue to grow as strongly as possible and as many jobs as possible can be created.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Whish-Wilson, Sen Peter",AG,2018-06-20,"
 
 
@@ -652,7 +652,7 @@ We've had a very consistent position that we won't be supporting any of these ta
 
 So, while we don't support tax cuts at this point in time, we do want to make sure that what we do in this committee stage at least improves the bill in any way, shape or form so that, when it gets to the final vote, we can at least try to get a better outcome for the Australian people. This tax package is not a good outcome. It is a total con. We'll have a lot more to say about this during the continuing committee stage.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Patrick, Sen Rex",CA,2018-06-20,"
 
 
@@ -660,7 +660,7 @@ So, while we don't support tax cuts at this point in time, we do want to make su
 Senator PATRICK
  (South Australia) (12:07):  As foreshadowed in my second reading speech, Centre Alliance will be supporting this Labor amendment which achieves the same effect as the Centre Alliance amendment—that is, that stage 3 tax cuts will not occur. If this amendment is successful, I will just state that we will not proceed with our amendment on sheet 8463.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Hanson, Sen Pauline",PHON,2018-06-20,"
 
 
@@ -671,7 +671,7 @@ Senator HANSON
 
 As I said earlier, the Australian people are doing it tough because of extra costs due to the Greens pushing for renewables. That has escalated the cost of living for every Australian. The cost of electricity is out of control. I was just over in England with a delegation. An average family is charged 500 pounds to 600 pounds a year for electricity. An average household here is looking at around $2,000 a year. This is due to the Greens and the Labor Party wanting to raise the cost of renewables and the billions that will be paid to foreign companies. No-one is really addressing this. So stop tinkering around the edges. Be up-front and honest with the Australian people. Give the Australian people some assistance, because that's what they're crying out for. You are obviously not listening to them.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Wong, Sen Penny",ALP,2018-06-20,"
 
 
@@ -698,7 +698,7 @@ And he said that they're fair. The ANU's Ben Phillips has estimated that the eff
 
 The CHAIR:  We are dealing with amendments (4), (6) and (8) on sheet 8450, as opposed by the opposition. The question is that the tables dealing with tax rates for resident taxpayers, non-resident taxpayers and working holiday-makers for the 2024-25 year of income or a later year of income stand as printed.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Storer, Sen Timothy",IND,2018-06-20,"
 
 
@@ -820,7 +820,7 @@ Given our substantial debt challenge—$341 billion net debt in 2017-18, and gro
 
 History tells us that tax cuts, once legislated, are very difficult to wind back; therefore, we cannot rely on an assumption that these cuts could be repealed or amended if unforeseen economic developments materialised. In the context of a recent uplift in government revenue, the measures set to commence from 1 July 2018 are affordable. Given rising cost-of-living pressures and wage stagnation, the new low- and middle-income tax offset is particularly warranted and should be locked in to provide lasting targeted support to low- and middle-income earners beyond the forward estimates. With that extension, information received from the Parliamentary Budget Office indicates that the amended plan I am putting forward would cost $46.75 billion compared with the $143.95 billion for steps 1, 2 and 3 of the government's plan as it stands, and $102.35 billion for steps 1 and 2. The amended proposal I am putting forward of $46.75 billion generates savings that would help us return to surplus sooner, pay down debt quicker and free up money to spend on critical social and infrastructure programs, and I hope that it meets with the approval of the chamber.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Cormann, Sen Mathias",LP,2018-06-20,"
 
 
@@ -843,7 +843,7 @@ Because a stronger economy delivers more revenue to the budget, we are able to a
 
 In relation to the observations on the fiscal position of the budget, the return to surplus in 2019-20 and continuing projected surpluses over the medium term will, of course, enable a reduction in debt. As a result of living within our means, the government has turned the corner on debt. We're no longer borrowing for our day-to-day living expenses as a government. Net debt, as a share of GDP, is expected to peak at 18.6 per cent of GDP in this 2017-18 financial year. It's projected to fall to 14.7 per cent by 2021-22 and to 3.6 per cent at the end of the medium term. The gross debt will also peak in 2019-20 at below 30 per cent of GDP. Over the medium term gross debt will fall and be $126 billion less in 2027-28 than was estimated in the MYEFO last December, six or seven months ago. I should also say that government net debt is forecast and projected to reduce by $30 billion over the current forward estimates and $232 billion over the medium term. This reduction in debt has been achieved through careful management of the nation's budget, with the average annual real expenditure remaining below two per cent, which is the lowest of any government in the last 50 years, while delivering much needed tax relief to hardworking families and investing to further strengthen our economy and deliver a more prosperous future for all Australians.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Hanson-Young, Sen Sarah",AG,2018-06-20,"
 
 
@@ -971,7 +971,7 @@ Senator O'Sullivan:
 Senator HANSON-YOUNG:
   That is what Senator Hanson put to this chamber earlier today. So either Senator Pauline Hanson and One Nation have no idea what on earth they're voting on today or they want to cover it up and keep the Australian people and their voters in the dark. It'll be up to the voters to decide whether they think they're being misled or whether, in fact, Senator Pauline Hanson just has no idea what on earth is going on in this place.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Whish-Wilson, Sen Peter",AG,2018-06-20,"
 
 
@@ -991,7 +991,7 @@ Senator Hanson-Young:
 Senator WHISH-WILSON:
   It's negligent. We haven't heard the end of this.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Cormann, Sen Mathias",LP,2018-06-20,"
 
 
@@ -1045,7 +1045,7 @@ Senator CORMANN:
 
 Progress reported.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,3,1,speech
 "Siewert, Sen Rachel",AG,2018-06-20,"
 
 
@@ -1089,7 +1089,7 @@ How about we have a redress scheme for those children who were in institutional 
 
 When you ask Australians if they want public services or tax cuts, they'll tell you they want public services. They want to make sure that they and their children can access a top-quality education system. They want to make sure that they can get health services when they need it. They want to be able to ring Centrelink and the Department of Human Services and get the information they want without having to keep dialling and dialling. They want a social security net for when they fall on hard times. I want to be able to look in the faces of people with disability and say that our country can provide them with the support and services they need, instead of demonising them and making them jump through all sorts of hoops, trying to find work for 18 months before they can access the disability support pension. That's not the country I want to live in. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Pratt, Sen Louise",ALP,2018-06-20,"
 
 
@@ -1133,7 +1133,7 @@ The Turnbull government's priority is for tax cuts for big business and high inc
 
 Labor, on the other hand, because we're not giving millionaires another tax cut and we're not giving big business an $80 billion tax handout, can put more money into the pockets of working Australians while funding better schools and hospitals and paying down debt quicker. This bill will make our tax system in Australia less progressive and it will continue to erode our tax base. It doesn't deserve the paper it's written on.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Hanson-Young, Sen Sarah",AG,2018-06-20,"
 
 
@@ -1227,7 +1227,7 @@ Senator HANSON-YOUNG:
 
 This tax cut will do nothing to lift wages. We know we have a wage-growth issue in this country. This tax cut will do nothing to help people on Newstart or, indeed, the minimum wage. What this proves, and what Senator Pauline Hanson and One Nation's deal with the government proves, is that they're all about feathering their own nests and doing nothing to help regular Australians!
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "O'Neill, Sen Deb",ALP,2018-06-20,"
 
 
@@ -1256,7 +1256,7 @@ I want to have a little bit of a look at a distributional analysis. If we look a
 
 I can tell you from this morning, when I was at the Kids' Cancer Project breakfast, that no-one in that room thinks there's adequate funding going into the prevention and treatment of cancer for young people. They were there asking the government, the opposition and anybody who would listen to hear their pleas for further investment in proper research capacity. The reality that we face right at this moment in our country is a choice between Labor and a Liberal government who have no commitment to decency, to fairness or to equity. The attempt to force this inequitable piece of legislation through the chamber should be abandoned.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Di Natale, Sen Richard",AG,2018-06-20,"
 
 
@@ -1297,7 +1297,7 @@ We in the Greens believe unashamedly that now is not the time for income tax cut
 
 We oppose this retrograde package in its entirety because we believe this is going to fundamentally reshape Australian society. This is a nation founded on the notion of egalitarianism, of a fair go, and there's nothing fair about this tax package. When economic inequality is already at dire levels, this is a prescription for turbocharging inequality in Australia. It will leave our schools, our hospitals and our public infrastructure to wither on the vine and it will make Australia a less equal society. It's not a future for this country that I want to see. It's not a future for this country that my colleagues want to see. That's why when this bill comes before this Senate we will be opposing each and every element of it.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Hanson, Sen Pauline",PHON,2018-06-20,"
 
 
@@ -1411,7 +1411,7 @@ My dilemma is this: yes, we have a black hole, but are we going to fill that bla
 
 My job in the Senate is to represent the Australian people to the best of my ability. I will make my vote clear on the floor of the parliament. I will listen to all the amendments that are going to be put up and I will make a decision based on what I think is right for the Australian people.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Patrick, Sen Rex",CA,2018-06-20,"
 
 
@@ -1428,7 +1428,7 @@ As stated, our amendment knocks out stage 3 of the income tax cuts. Stage 3, whi
 
 Having said that, we do reserve our position in regard to the third stage if our amendments are not successful or if an amended bill is rejected in the House, because we do think that low-income and medium-income earners deserve some tax relief.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Bernardi, Sen Cory",AC,2018-06-20,"
 
 
@@ -1445,7 +1445,7 @@ I also want to make the point, for the class warriors on the other side of the c
 
 We don't need more government. We don't need to give more money to government. We need to get government the heck out of people's lives and let them take some responsibility for themselves. This tax package goes some way to doing that. I endorse it. I wholeheartedly support it. I hope the Senate will do that as well. If they want to have an election based upon one side of parliament putting up taxes and the other side reducing them, I say bring it on, because you will then have a commitment from the Australian people that they endorse low taxes and they think government is not worthy of taking more of their own money.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "McKim, Sen Nicholas",AG,2018-06-20,"
 
 
@@ -1465,7 +1465,7 @@ I want to say something to the people of Braddon, who are facing this choice in 
 
 Of course, that would provide a significant economic benefit to Braddon, which sorely needs it. With an increase in Newstart and with an increase in the minimum wage, you would see cash starting to flow more freely through the economy of Braddon, which would help businesses in Braddon—everything from small businesses in the corner shops to small businesses in the manufacturing sector, to people on farms and right through the economy of the north-west coast of Tasmania. The choice for the people of Braddon is very clear. You can vote for Jarrod Edwards and the Australian Greens for an increase in the minimum wage and an increase in Newstart, or you can vote for your Labor or Liberal candidates and vote to give tax cuts to people on $120,000 a year.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Cormann, Sen Mathias",LP,2018-06-20,"
 
 
@@ -1486,7 +1486,7 @@ Senator O'Sullivan
 
 The PRESIDENT:  The question is that the second reading amendment moved by Senator Whish-Wilson, on sheet 8464, be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Di Natale, Sen Richard",AG,2018-06-20,"
 
 
@@ -1507,7 +1507,7 @@ At the end of the motion, add ""but the Senate is of the opinion that:
 
 The DEPUTY PRESIDENT:  The question is that the second reading amendment moved by Senator Di Natale on sheet 8466 be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "PRESIDENT, The",,2018-06-20,"
 
 
@@ -1521,7 +1521,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "O'Sullivan, Sen Barry",Nats,2018-06-20,"
 
 
@@ -1553,7 +1553,73 @@ But I want us to consider something again. I want to, for a moment, pretend that
 
 I have so many more facts, and at my very next opportunity I'll finish with respect to my presentation on this point. This is critical. This is a natural phenomenon, if we accept all of the arguments, and it's a disaster. This is a natural disaster in the same way that cyclones, floods, fires and other catastrophes are. I urge all senators, at least for a part of their day, to turn their minds to the struggle that people of the west are having and reflect on it as they make decisions in this place.
 
-",Senate,<title>STATEMENTS BY SENATORS</title>,"<title>Royal Flying Doctor Service, Drought</title>",STATEMENTS BY SENATORS,4,1
+",Senate,<title>STATEMENTS BY SENATORS</title>,"<title>Royal Flying Doctor Service, Drought</title>",STATEMENTS BY SENATORS,4,1,speech
+"Carr, Sen Kim",ALP,2018-06-20,"
+
+
+
+Senator KIM CARR
+ (Victoria) (14:00):  My question without notice is to the Minister for Jobs and Innovation, Senator Cash. Today, Telstra workers and their families have been devastated by the announcement that Telstra will shed 8,000 jobs over the next three years. When did the government first become aware of Telstra's plan to cut 8,000 jobs, and what measures is the government putting in place to assist the 8,000 workers and their families?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Telstra</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Carr, Sen Kim",ALP,2018-06-20,"
+
+
+
+Senator KIM CARR
+ (Victoria) (14:02):  Given that the government's cut all those social service measures, why is this government more focused on giving a banker from Rose Bay a $5,000-a-year tax cut in six years time than protecting the jobs of Australian workers?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Telstra</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Carr, Sen Kim",ALP,2018-06-20,"
+
+
+
+Senator KIM CARR
+ (Victoria) (14:04):  Minister, you speak of the uncertainty of the future facing workers. I'd ask you this: why is the coalition government making it harder for Australians to look to education and train themselves for the jobs of the future by cutting $2.2 billion from Australian universities and around $3 billion from vocational education? Doesn't it just show how arrogant and out of touch this government is when the best the Prime Minister can do is tell us to go and get a better job? (Time expired)
+
+
+
+The PRESIDENT:  I will ask the minister to address that part of the question you got through.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Telstra</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Cash, Sen Michaelia",LP,2018-06-20,"
+
+
+
+Senator CASH
+ (Western Australia—Minister for Jobs and Innovation) (14:00):  Senator Carr, it is an absolute delight to hear from you! I can only speak as to when I was informed, and it was late last night. The decision by Telstra to restructure its workforce over the next three years is a disappointing one for those affected by it, but ultimately it is a commercial decision for Telstra. The government recognises the imperative of helping individuals and communities adapt to change. When job losses occur, our first concern is for the workers and their families who are affected by the job losses. I have spoken to Telstra, as I understand has the Prime Minister and the Minister for Communications, and I understand that a number of the job losses will be through voluntary redundancies. The government is pleased to see that Telstra will establish a $50 million transition program to assist its workers who will lose their jobs, or need to reskill, over the next three years as part of Telstra's restructure. Telstra recognises the importance of supporting its skilled and knowledgeable workforce as they transition to new jobs. 
+
+
+The government has a number of measures to assist displaced workers to transition and return to the workplace. These include employment assistance through jobactive for eligible displaced workers, including funds to assist with retraining, wage subsidies and, if needed, relocation assistance. We also have support through our vocational education and training system. We also have income support and financial counselling services provided by the Department of Human Services. Australia's healthy economy, social safety nets and strength in education and skills training gives us— (Time expired)
+
+
+
+The PRESIDENT:  Senator Carr, a supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Telstra</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Cash, Sen Michaelia",LP,2018-06-20,"
+
+
+
+Senator CASH
+ (Western Australia—Minister for Jobs and Innovation) (14:03):  Senator Carr, we're not. What this side of the chamber is focused on is building a stronger economy. This side of the chamber is focused on building a stronger economy. We are focused on ensuring that our businesses have the best possible policy environment in which to prosper and grow. Those of us on this side of the chamber know that, when a business is able to prosper and grow, that business will create jobs for Australians.
+
+
+But I will also put on the record the words of the Prime Minister. He has stated: 'While this news is disappointing, it once again highlights that Australian businesses are facing intense competition. That's why it is absolutely critical that the government continues to back business to invest and create jobs. It's why lower business taxes are vital to ensuring Australian businesses remain competitive on the global stage.' We will back business to grow and create more jobs.
+
+
+
+The PRESIDENT:  Senator Carr, final supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Telstra</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Cash, Sen Michaelia",LP,2018-06-20,"
+
+
+
+Senator CASH
+ (Western Australia—Minister for Jobs and Innovation) (14:04):  Thank you, Senator Carr. To quote a phrase, 'Yet another lot of Labor lies.' Senator Carr, you are completely wrong in what you have stated. This government is focused on backing our businesses, because, as we know, when we back our businesses—and we can do that through tax cuts—our businesses will reinvest that money back into themselves, and they will prosper and they will grow. This government has a good record of job creation. If we look at just over the last 12 months, in excess of 178,000 full-time jobs were created because of the policy settings of the Turnbull government. Compare that to the final 12 months of the former Labor government. You'd never know, would you, colleagues, that the economy shed almost 17,000 full-time jobs under the policies that those on the other side put in place.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Telstra</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
 "Carr, Sen Kim",ALP,2018-06-20,"
 
 
@@ -1573,7 +1639,7 @@ I am particularly disappointed by those senators from Centre Alliance, who, in m
 
 It is $140 billion worth of expenditure, over what are now going to be several election cycles, in which we'll see some people get a minimal tax arrangement whereby the very wealthy get a $7,000 tax benefit, which the government think is going to provide them with an electoral advantage, because of the circumstances of two elections hence. Frankly, I don't believe the people of this country are going to buy that argument. They're not going to buy it, because they know that this government is out of touch. They understand just how incredibly arrogant this government is. This is the merchant banker's view of politics. This is the view of Australian society from the foreshores of Sydney Harbour. This is not the view that protects the health services of this country, protects the schools of this country, protects the universities of this country, ensures that our pensioners have the necessary wherewithal to enjoy a decent standard of living. This is the sort of government that rends the social fabric of this country asunder. This is the sort of government we're seeing, which is actually driving deep hostility into the Australian people by making it clear to the Australian people that the politics and economics of this country do not work for ordinary people. They work for the very wealthy. They work for those with power and privilege. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Telstra</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Telstra</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Macdonald, Sen Ian",LP,2018-06-20,"
 
 
@@ -1631,7 +1697,7 @@ Senator O'Sullivan:
 
 The DEPUTY PRESIDENT:  Thank you, Senator O'Sullivan. Senator Macdonald has concluded.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Telstra</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Telstra</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Bilyk, Sen Catryna",ALP,2018-06-20,"
 
 
@@ -1706,7 +1772,7 @@ The PRESIDENT:  Senator Bilyk, please resume your seat.
 
 Debate interrupted.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Telstra</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Telstra</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Fawcett, Sen David",LP,2018-06-20,"
 
 
@@ -1726,7 +1792,7 @@ If you then also take into account that the majority of low-income earners in Au
 
 As Senator Stoker said, in an ideal world the government would do only what people are unable to do for themselves. But where we do need to provide services we need to be able to afford it, and under the policies of this government we have finally got back to the point where we are no longer borrowing to pay for those daily costs of government. Because of the debt run up by the Labor government under Prime Ministers Rudd and Gillard, for years now Australia has been borrowing money to pay its daily living costs. It's only the good financial management of the coalition government, under Prime Minister Turnbull and Treasurer Morrison, that has returned us to the point where we are no longer borrowing money. This package is for lower, fairer and simpler taxes to benefit Australia's future.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Telstra</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Telstra</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Watt, Sen Murray",ALP,2018-06-20,"
 
 
@@ -1752,7 +1818,7 @@ The government spend a lot of time crowing about jobs growth, but they never wan
 Question agreed to.
 
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Telstra</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Telstra</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Patrick, Sen Rex",CA,2018-06-20,"
 
 
@@ -1790,7 +1856,7 @@ Possible regulatory approaches to ensure the safety of pet food, including both 
 
 (h) any other related matters.
 
-",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport References Committee</title>,COMMITTEES,13,1
+",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport References Committee</title>,COMMITTEES,13,1,speech
 "McGrath, Sen James",LP,2018-06-20,"
 
 
@@ -1811,7 +1877,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport References Committee</title>,COMMITTEES,13,1
+",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport References Committee</title>,COMMITTEES,13,1,speech
 "PRESIDENT, The",,2018-06-20,"
 
 
@@ -1819,7 +1885,7 @@ Question agreed to.
 The PRESIDENT
  (17:46):  Order! I have received letters requesting changes in the membership of various committees.
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,13,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,13,2,speech
 "McGrath, Sen James",LP,2018-06-20,"
 
 
@@ -1884,7 +1950,7 @@ Appointed—Senator Collins
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,13,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,13,2,speech
 "Urquhart, Sen Anne",ALP,2018-06-20,"
 
 
@@ -1916,7 +1982,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>World Haemochromatosis Week</title>,MOTIONS,14,1
+",Senate,<title>MOTIONS</title>,<title>World Haemochromatosis Week</title>,MOTIONS,14,1,speech
 "Carr, Sen Kim",ALP,2018-06-20,"
 
 
@@ -1936,7 +2002,7 @@ That there be laid on the table by the Minister for Jobs and Innovation, by no l
 
 Question agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Great Barrier Reef</title>,DOCUMENTS,15,1
+",Senate,<title>DOCUMENTS</title>,<title>Great Barrier Reef</title>,DOCUMENTS,15,1,speech
 "Carr, Sen Kim",ALP,2018-06-20,"
 
 
@@ -1956,7 +2022,7 @@ That there be laid on the table by the Minister for Jobs and Innovation, by no l
 
 Question agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,15,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,15,2,speech
 "Pratt, Sen Louise",ALP,2018-06-20,"
 
 
@@ -2000,7 +2066,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>World Refugee Day</title>,MOTIONS,16,1
+",Senate,<title>MOTIONS</title>,<title>World Refugee Day</title>,MOTIONS,16,1,speech
 "Patrick, Sen Rex",CA,2018-06-20,"
 
 
@@ -2053,7 +2119,7 @@ That—
 
    (ii) the total sustainment cost from year 1 to year 40 including labour, material and other costs.
 
-",Senate,<title>DOCUMENTS</title>,<title>Future Submarine Project</title>,DOCUMENTS,17,1
+",Senate,<title>DOCUMENTS</title>,<title>Future Submarine Project</title>,DOCUMENTS,17,1,speech
 "McGrath, Sen James",LP,2018-06-20,"
 
 
@@ -2074,7 +2140,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Future Submarine Project</title>,DOCUMENTS,17,1
+",Senate,<title>DOCUMENTS</title>,<title>Future Submarine Project</title>,DOCUMENTS,17,1,speech
 "Patrick, Sen Rex",CA,2018-06-20,"
 
 
@@ -2127,7 +2193,7 @@ That—
 
    (ii) the total sustainment cost from year 1 to year 40 including labour, material and other costs.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,17,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,17,2,speech
 "McGrath, Sen James",LP,2018-06-20,"
 
 
@@ -2148,7 +2214,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,17,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,17,2,speech
 "Rhiannon, Sen Lee",AG,2018-06-20,"
 
 
@@ -2183,7 +2249,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Funde, Mr Eddie</title>",CONDOLENCES,18,1
+",Senate,<title>CONDOLENCES</title>,"<title>Funde, Mr Eddie</title>",CONDOLENCES,18,1,speech
 "Griff, Sen Stirling",CA,2018-06-20,"
 
 
@@ -2239,7 +2305,7 @@ That the Senate—
 
    (ii) support prominent mandatory alcohol pregnancy warning labels and task Food Standards Australia New Zealand to undertake the necessary regulatory process.
 
-",Senate,<title>MOTIONS</title>,<title>Fetal Alcohol Spectrum Disorder</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>Fetal Alcohol Spectrum Disorder</title>,MOTIONS,19,1,speech
 "McGrath, Sen James",LP,2018-06-20,"
 
 
@@ -2260,7 +2326,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Fetal Alcohol Spectrum Disorder</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>Fetal Alcohol Spectrum Disorder</title>,MOTIONS,19,1,speech
 "PRESIDENT, The",,2018-06-20,"
 
 
@@ -2269,7 +2335,7 @@ The PRESIDENT
 
  (18:37):  In accordance with the order agreed to earlier, it being past 6.30 pm, the debate is interrupted for consideration of the Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018. The time allotted for consideration of this bill has expired and the questions will now be put. I will first put the outstanding questions that were before the committee prior to senators' statements. I will put the question on the amendments that were before the chair earlier today. I will then work through the questions on the other amendments circulated in respect of the bill. If any senator wishes to withdraw amendments they have circulated, they may do so by leave. Senator Collins?
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1,speech
 "Collins, Sen Jacinta",ALP,2018-06-20,"
 
 
@@ -2341,7 +2407,7 @@ Senator JACINTA COLLINS:
 
 The PRESIDENT:  I will restate it and I'll make it very clear. The first set of amendments are the ones that were moved by Senator Storer earlier today and were before the chair at the time. Then we will proceed through other matters. But I'm going to put that question now. I'm not going to read them out four times every time. I'll do it again now. The question is that amendment numbers (3) to (8), (10) and (12) to (15) on sheet 8441, moved by Senator Storer, be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1,speech
 "PRESIDENT, The",,2018-06-20,"
 
 
@@ -2349,7 +2415,7 @@ The PRESIDENT:  I will restate it and I'll make it very clear. The first set of 
 The PRESIDENT
  (18:52):  The question is that sections 61-110 and 61-115 in item 1; item 5; and part 3 of schedule 1 stand as printed.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1,speech
 "PRESIDENT, The",,2018-06-20,"
 
 
@@ -3473,7 +3539,7 @@ exceeds $180,000
 [consequential—tax rates]
 
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1,speech
 "Wong, Sen Penny",ALP,2018-06-20,"
 
 
@@ -3488,7 +3554,7 @@ In light of that, what I'd also say to you, Mr President, is that there is a dis
 
 The PRESIDENT:  If any senator requests that any item be put separately, I will put them separately, but they must vote differently on the item they requested to be put separately to other items. Are there any requests from any senators who wish to vote on items differently?
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1,speech
 "Whish-Wilson, Sen Peter",AG,2018-06-20,"
 
 
@@ -3500,7 +3566,7 @@ Senator WHISH-WILSON
 
 The PRESIDENT:  Okay. What I will do is read it out again so that we are clear on the amendments that are being put. The question now is that amendments (1), (3), (4), (6) and (8) to (11) on sheet 8449, amendments (2), (13), (15), (17) and (19) on sheet 8449, and amendments (1) to (3), (5), (7), (9) and (10) on sheet 8450 circulated by the opposition be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1,speech
 "Collins, Sen Jacinta",ALP,2018-06-20,"
 
 
@@ -3512,7 +3578,7 @@ Senator JACINTA COLLINS
 
 The PRESIDENT:  Senator Collins, I have offered senators the opportunity. Senator Whish-Wilson has indicated he would like some matters dealt with separately because he would like to vote differently on that to the others. No-one else has taken advantage of that opportunity, so I'm going to put it as I read it out just then. The question now is that amendments (1), (3), (4), (6) and (8) to (11) on sheet 8449, amendments (2), (13), (15), (17) and (19) on sheet 8449 and amendments (1) to (3), (5), (7), (9) and (10) on sheet 8450, circulated by the opposition, be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1,speech
 "PRESIDENT, The",,2018-06-20,"
 
 
@@ -3827,7 +3893,7 @@ $928, less an amount equal to 2.625% of the excess
 [consequential—Low and Middle Income tax offset]
 
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1,speech
 "PRESIDENT, The",,2018-06-20,"
 
 
@@ -3879,7 +3945,7 @@ in the following terms—
 [tax rates]
 
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1,speech
 "PRESIDENT, The",,2018-06-20,"
 
 
@@ -4128,7 +4194,7 @@ The amendments made by this Part apply to the 2018‑19 year of income and later
 
 (19) Schedule 2, items 15 and 16, page 18 (line 22) to page 19 (line 3), omit the items.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1,speech
 "PRESIDENT, The",,2018-06-20,"
 
 
@@ -4148,7 +4214,7 @@ Senator Storer opposed schedule 2 in the following terms—
 
 Question agreed to.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1,speech
 "PRESIDENT, The",,2018-06-20,"
 
 
@@ -4316,7 +4382,7 @@ Senator Jacinta Collins interjecting—
 
 The PRESIDENT:  Senator Collins, you should reflect on your opportunity to save face, given the accusations you have just made. The question now is that the remaining stages of this bill be agreed to and the bill be now passed with amendments.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1,speech
 "Whish-Wilson, Sen Peter",AG,2018-06-20,"
 
 
@@ -4328,7 +4394,7 @@ Senator WHISH-WILSON
 
 The PRESIDENT:  Thank you. That is noted on the record. Senator Collins?
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1,speech
 "Collins, Sen Jacinta",ALP,2018-06-20,"
 
 
@@ -4340,7 +4406,7 @@ Senator JACINTA COLLINS
 
 The PRESIDENT:  I don't have a request for that from Senator Whish-Wilson. He has asked to put the matter on the record. He's been granted the courtesy to do that. The question now is that the remaining stages of this bill be agreed to and the bill be now passed with amendments.
 
-",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,20,1,speech
 "PRESIDENT, The",,2018-06-20,"
 
 
@@ -4508,7 +4574,7 @@ Senator Jacinta Collins interjecting—
 
 The PRESIDENT:  Senator Collins, you should reflect on your opportunity to save face, given the accusations you have just made. The question now is that the remaining stages of this bill be agreed to and the bill be now passed with amendments.
 
-",Senate,<title>BILLS</title>,<title>Third Reading</title>,BILLS,20,2
+",Senate,<title>BILLS</title>,<title>Third Reading</title>,BILLS,20,2,speech
 "Whish-Wilson, Sen Peter",AG,2018-06-20,"
 
 
@@ -4520,7 +4586,7 @@ Senator WHISH-WILSON
 
 The PRESIDENT:  Thank you. That is noted on the record. Senator Collins?
 
-",Senate,<title>BILLS</title>,<title>Third Reading</title>,BILLS,20,2
+",Senate,<title>BILLS</title>,<title>Third Reading</title>,BILLS,20,2,speech
 "Collins, Sen Jacinta",ALP,2018-06-20,"
 
 
@@ -4532,7 +4598,7 @@ Senator JACINTA COLLINS
 
 The PRESIDENT:  I don't have a request for that from Senator Whish-Wilson. He has asked to put the matter on the record. He's been granted the courtesy to do that. The question now is that the remaining stages of this bill be agreed to and the bill be now passed with amendments.
 
-",Senate,<title>BILLS</title>,<title>Third Reading</title>,BILLS,20,2
+",Senate,<title>BILLS</title>,<title>Third Reading</title>,BILLS,20,2,speech
 "Smith, Sen Dean",LP,2018-06-20,"
 
 
@@ -4558,4 +4624,4 @@ To increase service provider capacity, and to assist peer support groups to func
 
 Since the government's response, grandparent carers have gained a number of protections and positive financial changes following a number of reforms to social security and childcare legislation. I acknowledge Senator Claire Moore and Senator Carol Brown, who also participated on the Senate Community Affairs References Committee inquiry some years ago. Specifically, grandparent carers have been exempted under the family tax benefit part B changes. The family tax benefit part B continues to be available, as per the current rate structure, to grandparent and great-grandparent carers. Grandparent carers have been given access to a new subsidy under the coalition's new Childcare Assistance Package, which begins on 2 July 2018. This grandparent-specific top-up subsidy is available in addition to the standard childcare subsidy and will provide income support for those grandparents who are the primary carers of their grandchildren. We've also exempted grandparent carers from the childcare subsidy activity test. This means grandparent carers will be eligible to access up to 100 hours of approved child care fortnightly. I'm sure everyone in the Senate would agree that grandparent carers deserve our continued support and advocacy. While this is progress, there is always much more that can and should be done for these unsung heroes who live in our community.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Grandparent Carers</title>,ADJOURNMENT,21,1
+",Senate,<title>ADJOURNMENT</title>,<title>Grandparent Carers</title>,ADJOURNMENT,21,1,speech

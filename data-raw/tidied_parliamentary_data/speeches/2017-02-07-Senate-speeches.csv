@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2017-02-07,"
 
 
@@ -18,7 +18,7 @@ The PRESIDENT:  Let's hope they are still clapping in a year's time, Richard! Am
 
 Honourable senators:  Hear, hear!
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Clerk of the Senate</title>,STATEMENT BY THE PRESIDENT,2,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Clerk of the Senate</title>,STATEMENT BY THE PRESIDENT,2,1,speech
 "PRESIDENT, The",,2017-02-07,"
 
 
@@ -86,7 +86,7 @@ On the second matter I am advised that in previous cases opinions were provided 
 
 For the information of senators I have tabled, with the usual start of day documents, each of the statements I made on this matter in January, together with the published reasons for each of the judgements I have referred to. I thank senators for bearing with me on that long statement.
 
-",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Qualifications of Senators</title>,PARLIAMENTARY REPRESENTATION,3,1
+",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>Qualifications of Senators</title>,PARLIAMENTARY REPRESENTATION,3,1,speech
 "Wong, Sen Penny",ALP,2017-02-07,"
 
 
@@ -94,7 +94,7 @@ For the information of senators I have tabled, with the usual start of day docum
 Senator WONG
  (South Australia—Leader of the Opposition in the Senate) (12:39):  by leave—I advise the Senate that, following the resignation of Senator Bilyk from the position, at the meeting of the federal parliamentary Labor Party yesterday, Senator Dastyari has been elected unopposed as Deputy Opposition Whip in the Senate, with effect from the meeting of the Senate this afternoon. I thank members of the media for their interest in his ascension to this position. I congratulate Senator Dastyari on his election. Both personally and as leader, I thank Senator Bilyk for her work over the last 3½ years as Deputy Opposition Whip. I know she will continue to make an outstanding contribution to this chamber as a fine senator for Tasmania.
 
-",Senate,<title>PARTY OFFICE HOLDERS</title>,<title>Australian Labor Party</title>,PARTY OFFICE HOLDERS,4,1
+",Senate,<title>PARTY OFFICE HOLDERS</title>,<title>Australian Labor Party</title>,PARTY OFFICE HOLDERS,4,1,speech
 "Bernardi, Sen Cory",AC,2017-02-07,"
 
 
@@ -127,7 +127,7 @@ The journey ahead will not be for the faint of heart, but worthwhile ventures ra
 
 The PRESIDENT:  Thank you, Senator Bernardi. Yes, I will consider the seating arrangements and discuss that with you later.
 
-",Senate,<title>STATEMENTS</title>,<title>Liberal Party of Australia</title>,STATEMENTS,5,1
+",Senate,<title>STATEMENTS</title>,<title>Liberal Party of Australia</title>,STATEMENTS,5,1,speech
 "Wong, Sen Penny",ALP,2017-02-07,"
 
 
@@ -156,7 +156,7 @@ But there is another lesson here for the Prime Minister: it is never enough. No 
 
 So I say to those opposite and I say to the Prime Minister: time to call time on this farce. Why don't you do a little of what Senator Bernardi suggested? He said, 'Put principle back into politics.' Well, Australians await this from Malcolm Turnbull.
 
-",Senate,<title>STATEMENTS</title>,<title>Liberal Party of Australia</title>,STATEMENTS,5,1
+",Senate,<title>STATEMENTS</title>,<title>Liberal Party of Australia</title>,STATEMENTS,5,1,speech
 "Brandis, Sen George",LP,2017-02-07,"
 
 
@@ -196,7 +196,7 @@ Senator Wong, you observed cheaply, if I may say so, that there is division on m
 
 So, Mr President, this is a sad day for the Liberal Party. It is a sad day when somebody leaves the family. Senator Bernardi will have to account to the Australian people and to his own conscience about how he can continue to sit in this parliament, having been elected as a Liberal—but that is a matter for him. We in the government will proceed with the important business of making Australia secure and prosperous. We have a very busy agenda in 2017, and we look forward to working with every senator for the best interests of our country. 
 
-",Senate,<title>STATEMENTS</title>,<title>Liberal Party of Australia</title>,STATEMENTS,5,1
+",Senate,<title>STATEMENTS</title>,<title>Liberal Party of Australia</title>,STATEMENTS,5,1,speech
 "Di Natale, Sen Richard",AG,2017-02-07,"
 
 
@@ -219,7 +219,7 @@ I say to Senator Bernardi: what is the point? How much further can the coalition
 
 The lesson here is very, very clear. Senator Bernardi is 6½ foot of ego and not an inch of integrity. If he had had the guts to do it a year ago he might have got some grudging respect, but to do it just after he has been given a six-year term shows the sort of person that he is. As for the Prime Minister, hopefully he will take stock now and recognise that in capitulating to the views of the far right he is not just selling out the Australian people but selling his soul, and the Australian people know a sellout when they see one.
 
-",Senate,<title>STATEMENTS</title>,<title>Liberal Party of Australia</title>,STATEMENTS,5,1
+",Senate,<title>STATEMENTS</title>,<title>Liberal Party of Australia</title>,STATEMENTS,5,1,speech
 "Hinch, Sen Derryn",Hinch,2017-02-07,"
 
 
@@ -248,7 +248,7 @@ Senator HINCH:
 
 I want to go on record to say: I find it appalling that this happened. What should happen in the lower House is if somebody changes their opinion, does not like their party anymore or wants to get rid of it they should resign their seat in the lower House. They should then go to the people and stand and say, 'This is who I am. This is what I stand for now' and stand for re-election. Unfortunately, of course, in the Senate you cannot do that and that is not the best democratic way to do things.
 
-",Senate,<title>STATEMENTS</title>,<title>Liberal Party of Australia</title>,STATEMENTS,5,1
+",Senate,<title>STATEMENTS</title>,<title>Liberal Party of Australia</title>,STATEMENTS,5,1,speech
 "Roberts, Sen Malcolm",PHON,2017-02-07,"
 
 
@@ -259,7 +259,7 @@ Senator ROBERTS
 
 Question agreed to.
 
-",Senate,<title>STATEMENTS</title>,<title>Liberal Party of Australia</title>,STATEMENTS,5,1
+",Senate,<title>STATEMENTS</title>,<title>Liberal Party of Australia</title>,STATEMENTS,5,1,speech
 "Di Natale, Sen Richard",AG,2017-02-07,"
 
 
@@ -270,7 +270,7 @@ Senator DI NATALE
 
 Leave not granted.
 
-",Senate,<title>MOTIONS</title>,<title>Australia-United States Relationship</title>,MOTIONS,6,1
+",Senate,<title>MOTIONS</title>,<title>Australia-United States Relationship</title>,MOTIONS,6,1,speech
 "Moore, Sen Claire",ALP,2017-02-07,"
 
 
@@ -290,7 +290,7 @@ In contrast, what Western Australian Nationals leader Brendon Grylls is doing at
 
 This proposal has also been criticised by the Premier of Western Australia, the Western Australian opposition leader—and we will probably hear them speaking a lot in the next couple of weeks—the Prime Minister, the federal Leader of the Opposition and, although it has taken him a while, last but not least the Deputy Prime Minister Barnaby Joyce. Last week he urged the WA Nationals leader to dump the plan. That earned him a bit of touch-up from Brendon Grylls, who called him a lackey from the Pyne-Xenophon government. It will be interesting to see what happens from here. It was only a few weeks ago that the Deputy Prime Minister was telling the New South Wales National Party to dump their plan to ban greyhound racing. He got his way there, and we have seen what has happened. It will be interesting to see if he can roll the Western Australian National Party as well. I hope that he succeeds sooner rather than later. What is important here—generally and in this legislation—is certainty. That is what this legislation is about: providing certainty for the oil and gas industry. It is also needed in the iron ore industry. I commend this bill to the House.
 
-",Senate,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Petroleum Pools and Other Measures) Bill 2016</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Petroleum Pools and Other Measures) Bill 2016</title>,BILLS,7,1,speech
 "Hanson-Young, Sen Sarah",AG,2017-02-07,"
 
 
@@ -313,7 +313,7 @@ Well, it is time that this parliament started standing up for these precious mar
 
 Chevron wants to put our spectacular marine park at risk, and if they are given approval there will be several other companies lining up behind them. What is the point of having a marine protected area, a Commonwealth marine park, if you are just going to let big oil come in and drill willy-nilly? The bight is an essential sanctuary for our southern right whales and a feeding ground for threatened sea lions, sharks, tuna and migratory sperm whales we cannot afford to put that at risk. South Australians do not support opening up the Great Australian Bight to big foreign oil companies, and it is time this parliament stood up for the area and for our local communities. That is why, when we get to the committee stage of this bill, I will be moving an amendment to say that we cannot allow the drilling of oil to occur in what is meant to be a marine protected area, a Commonwealth marine park, a whale sanctuary. It is too precious to put at risk. Our tourism jobs in South Australia, our fishing jobs in South Australia are too precious and too important to our state's economy to be put at risk so that a foreign oil company can rack up some more profit. We know that the South Australian community will miss out. It is time that South Australian MPs and senators in this place do the right thing and tell big oil to bugger off.
 
-",Senate,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Petroleum Pools and Other Measures) Bill 2016</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Petroleum Pools and Other Measures) Bill 2016</title>,BILLS,7,1,speech
 "Back, Sen Chris",LP,2017-02-07,"
 
 
@@ -335,7 +335,7 @@ Senator BACK:
 
 The PRESIDENT:  Order! It being 2 pm, we will move to questions without notice. You will be in continuation, Senator Back.
 
-",Senate,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Petroleum Pools and Other Measures) Bill 2016</title>,BILLS,7,1
+",Senate,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Petroleum Pools and Other Measures) Bill 2016</title>,BILLS,7,1,speech
 "Moore, Sen Claire",ALP,2017-02-07,"
 
 
@@ -355,7 +355,7 @@ In contrast, what Western Australian Nationals leader Brendon Grylls is doing at
 
 This proposal has also been criticised by the Premier of Western Australia, the Western Australian opposition leader—and we will probably hear them speaking a lot in the next couple of weeks—the Prime Minister, the federal Leader of the Opposition and, although it has taken him a while, last but not least the Deputy Prime Minister Barnaby Joyce. Last week he urged the WA Nationals leader to dump the plan. That earned him a bit of touch-up from Brendon Grylls, who called him a lackey from the Pyne-Xenophon government. It will be interesting to see what happens from here. It was only a few weeks ago that the Deputy Prime Minister was telling the New South Wales National Party to dump their plan to ban greyhound racing. He got his way there, and we have seen what has happened. It will be interesting to see if he can roll the Western Australian National Party as well. I hope that he succeeds sooner rather than later. What is important here—generally and in this legislation—is certainty. That is what this legislation is about: providing certainty for the oil and gas industry. It is also needed in the iron ore industry. I commend this bill to the House.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Hanson-Young, Sen Sarah",AG,2017-02-07,"
 
 
@@ -378,7 +378,7 @@ Well, it is time that this parliament started standing up for these precious mar
 
 Chevron wants to put our spectacular marine park at risk, and if they are given approval there will be several other companies lining up behind them. What is the point of having a marine protected area, a Commonwealth marine park, if you are just going to let big oil come in and drill willy-nilly? The bight is an essential sanctuary for our southern right whales and a feeding ground for threatened sea lions, sharks, tuna and migratory sperm whales we cannot afford to put that at risk. South Australians do not support opening up the Great Australian Bight to big foreign oil companies, and it is time this parliament stood up for the area and for our local communities. That is why, when we get to the committee stage of this bill, I will be moving an amendment to say that we cannot allow the drilling of oil to occur in what is meant to be a marine protected area, a Commonwealth marine park, a whale sanctuary. It is too precious to put at risk. Our tourism jobs in South Australia, our fishing jobs in South Australia are too precious and too important to our state's economy to be put at risk so that a foreign oil company can rack up some more profit. We know that the South Australian community will miss out. It is time that South Australian MPs and senators in this place do the right thing and tell big oil to bugger off.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Back, Sen Chris",LP,2017-02-07,"
 
 
@@ -400,7 +400,72 @@ Senator BACK:
 
 The PRESIDENT:  Order! It being 2 pm, we will move to questions without notice. You will be in continuation, Senator Back.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
+"Wong, Sen Penny",ALP,2017-02-07,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:00):  My question is to the Minister representing the Prime Minister, Senator Brandis. Last week the Prime Minister told the National Press Club:
+
+
+… that's what we're about, more jobs and more opportunity.
+
+
+With 34,000 full-time jobs lost in 2016 and 19,800 more people in the unemployment queue than when the Abbott-Turnbull government was elected, is it not clear that the coalition government is delivering fewer jobs and fewer opportunities?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Employment</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Wong, Sen Penny",ALP,2017-02-07,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:02):  I refer the minister to what he told this chamber in November—that the key indicator of the health of the labour market is the unemployment rate. Is the minister aware that the unemployment rate to which he referred was in fact an increase to 5.8 per cent? What does he say to the 741,100 Australians who are unemployed about the health of the labour market?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Employment</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Wong, Sen Penny",ALP,2017-02-07,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:04):  Is the minister aware that the rate of annual job creation has more than halved since the 2016 election? Is it not clear that the Turnbull government's division and dysfunction is in fact delivering fewer jobs and fewer opportunities to Australians? When will this government start fighting for Australian jobs as hard as it fights amongst itself?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Employment</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Brandis, Sen George",LP,2017-02-07,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:00):  Senator Wong, happy new year to you, too. It is as clear as anything could be that there is only one side of Australian politics with any plan for Australia's future prosperity, and that is this side of politics; that is the Turnbull government. Senator Wong asks about the state of the economy. Let me remind Senator Wong that Australia's annual economic growth rate is now 1.8 per cent. That is faster than five of the G7 countries. Non-mining activity grew by 2.64 per cent over the year to September. When Mr Bowen was Treasurer in the Labor government, he left us with growth of 1.78 per cent in non-mining activity. That is the magnitude of the ramp-up under this government.  
+
+
+Senator Wong asks about unemployment. Unemployment is currently 5.8 per cent. Over half a million additional jobs have been created since September 2013, when the government was elected. There were 95,000 additional full-time jobs created in the last quarter of last year—95,000 additional full-time jobs. Jobs growth in the last quarter of 2016 was the strongest quarterly growth in jobs in six years. That is the fruit of this government's economic policies. Compare that to the position under the Labor government, when the number of unemployed increased by 43.9 per cent over the six years of the Labor government. The number of underemployed workers increased by 39 per cent under the six years of the Labor government.
+
+
+
+The PRESIDENT:  Senator Wong, a supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Employment</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
+"Brandis, Sen George",LP,2017-02-07,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:03):  What I say to those people is that the conditions of the labour market are so buoyant that 95,000—as I said to you before, Senator Wong—additional full-time jobs were created in the last quarter of 2016 alone. Under this government, employment grew by 0.9 per cent over the calendar year 2016, and, since the government came to office, 519,300 jobs have been created, with employment standing at a record high today of 11,985,900. That is the story of the labour market under this government. By comparison, the only plan that the Labor Party has under Mr Shorten is for job losses. (Time expired)
+
+
+
+The PRESIDENT:  Senator Wong, a final supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Employment</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
+"Brandis, Sen George",LP,2017-02-07,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:04):  Spare us the rhetorical flourishes, Senator Wong, please. We know what the Labor Party's position in relation to jobs is. It is to have fewer jobs and a poorer people, because the Labor Party, by standing in the way of the government's enterprise tax plan, will make it harder for businesses to expand and create new jobs. The Labor Party, by driving up the price of electricity, in particular, will make it harder to do business, harder for businesses to grow and employ more people and harder for poorer people to afford their fuel bills. That is what the Labor Party wants. This is the Labor Party, every one of whose senators is here at the behest of and as the hireling of trade union officials, who are not interested in creating new jobs, but in protecting the position of the officials— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Employment</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
 "Ludlam, Sen Scott",AG,2017-02-07,"
 
 
@@ -408,7 +473,7 @@ The PRESIDENT:  Order! It being 2 pm, we will move to questions without notice. 
 Senator LUDLAM
  (Western Australia—Co-Deputy Leader of the Australian Greens) (15:04):  Pursuant to standing order 74(5) I ask the minister representing the Minister for the Environment and Energy, Senator Birmingham, for an explanation as to why answers have not yet been provided to question on notice 196. These questions were asked more than 90 days ago, which makes them two months overdue. I understand Senator Birmingham's office has been contacted by mine, and we seek some understanding as to why they are so vastly overdue.
 
-",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,<title>Question No. 196</title>,ANSWERS TO QUESTIONS ON NOTICE,10,1
+",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,<title>Question No. 196</title>,ANSWERS TO QUESTIONS ON NOTICE,10,1,speech
 "Birmingham, Sen Simon",LP,2017-02-07,"
 
 
@@ -416,7 +481,7 @@ Senator LUDLAM
 Senator BIRMINGHAM
  (South Australia—Minister for Education and Training) (15:04):  I have received in the last few minutes notice of your question. This is a question that was directed in my representational capacity to the Minister for the Environment and Energy. I am afraid I will have to come back to the chamber with information in terms of reply to that question and the time line that the reply should have been provided within. My apologies to the senator that that has not been met in accordance with the usual customs.
 
-",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,<title>Question No. 196</title>,ANSWERS TO QUESTIONS ON NOTICE,10,1
+",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,<title>Question No. 196</title>,ANSWERS TO QUESTIONS ON NOTICE,10,1,speech
 "Ludlam, Sen Scott",AG,2017-02-07,"
 
 
@@ -454,7 +519,7 @@ We have evidence to believe that the surveys of the black cockatoos were never e
 
 Before the minister provides an answer though, I would like the government senators and members to be absolutely crystal clear: this is that an election-defining issue back in Perth. This costly debacle is going to cost Premier Barnett government; that is the way the polls are running. There are a lot of people working across Western Australia and across political divides—the Greens, the Australian Labor Party—and this project is so reckless and pathetic that even One Nation have come out and said they oppose it. The project is a disaster but it is somehow fitting that the final legacy of eight empty and pointless years of the Barnett government will be a five-kilometre stretch of complete ruination that will take many years to repair.
 
-",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,<title>Question No. 196</title>,ANSWERS TO QUESTIONS ON NOTICE,10,1
+",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,<title>Question No. 196</title>,ANSWERS TO QUESTIONS ON NOTICE,10,1,speech
 "Back, Sen Chris",LP,2017-02-07,"
 
 
@@ -498,7 +563,7 @@ But let me say this as I wind up my contribution: the city of Cockburn, with who
 
 It was not my intention to speak today on this matter, but I do want to correct the record. I want people to know that this is and has been a democratic process. The courts at state and federal level have been involved. The people have known for years what is going to happen. And I simply say that it does not do any good at all for small amounts of information to be presented in this place that give the suggestion that it will not be challenged.
 
-",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,<title>Question No. 196</title>,ANSWERS TO QUESTIONS ON NOTICE,10,1
+",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,<title>Question No. 196</title>,ANSWERS TO QUESTIONS ON NOTICE,10,1,speech
 "Siewert, Sen Rachel",AG,2017-02-07,"
 
 
@@ -518,7 +583,7 @@ When I was asking questions in estimates, the department confirmed that unless t
 
 That is not to say that everyone has endorsed it yet, but they are very encouraging plans. So, when we are having the debate, let's actually get all those facts on the table. People in Perth do not want Roe 8. They do not want to see Beeliar Regional Park and the Beeliar wetlands affected. It is tragic to see that vegetation that is being lost. We do not need to lose any more of our banksia woodland, all for a road that people do not want, that is going to be out of date—it is out of date; it is out-of-date planning. Move to the future. Support an alternative approach and let's stop Roe 8 right now.
 
-",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,<title>Question No. 196</title>,ANSWERS TO QUESTIONS ON NOTICE,10,1
+",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,<title>Question No. 196</title>,ANSWERS TO QUESTIONS ON NOTICE,10,1,speech
 "Macdonald, Sen Ian",LP,2017-02-07,"
 
 
@@ -573,7 +638,7 @@ I cannot comment on the same aspects of the Western Australian issue; I do not k
 
 Question agreed to.
 
-",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,<title>Question No. 196</title>,ANSWERS TO QUESTIONS ON NOTICE,10,1
+",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,<title>Question No. 196</title>,ANSWERS TO QUESTIONS ON NOTICE,10,1,speech
 "Carr, Sen Kim",ALP,2017-02-07,"
 
 
@@ -605,7 +670,7 @@ Are you seeing this question time attack on Holden? Taunting [Holden] to leave? 
 
 So there is nothing natural about a proposition where this government has sought to destroy an industry, nothing natural about a political decision to drive the automotive manufacturers Holden and Toyota out of this country, nothing natural about the enormous social and economic cost that that decision will have for this country. There is absolutely no doubt in my mind that the cost to this country will be measured as far greater than any level of assistance provided to those industries—the cost in terms of health, the cost in terms of social disruption and of course the cost in terms of the dole queues. This is a government that says it is interested in investment but it drives away international companies that provide support for up to 200,000 jobs in this country, provide support for what is a key element of manufacturing in this country. At the time General Motors reminded us that for every dollar spent by the automotive industry $30 was generated throughout the economy—200,000 high-skill, high-wage, important jobs, the backbone of our manufacturing sector. This government made a decision to destroy manufacturing in this country in the automotive industry, and now they face the consequences of that. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Employment, Automotive Industry</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Employment, Automotive Industry</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1,speech
 "Macdonald, Sen Ian",LP,2017-02-07,"
 
 
@@ -631,7 +696,7 @@ I mentioned previously on another topic the proposal for the Adani coalmine and 
 
 So on that I agree with Senator Carr. I am desperate, as is the government I am part of, to make sure that we do whatever we can to provide real jobs for the unemployed and to help struggling small businesses. Small businesses are mums and dads who put their life savings into their business. Through no fault of their own, with the downturn of the mining industry, a lot of them are struggling to stay afloat. The Adani project and the Singapore deal, which will require expansion for Australia of Australia's training bases, will provide those jobs, that support and that lifeline for small business in the north. We as a government will do everything we can to continue to grow employment opportunities in Australia.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Employment, Automotive Industry</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Employment, Automotive Industry</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1,speech
 "Ketter, Sen Christopher",ALP,2017-02-07,"
 
 
@@ -648,7 +713,7 @@ In terms of creation of jobs, we know that this government has a centrepiece of 
 
 I want to use my remaining time to talk about another example of this government's wanton disregard for the creation of jobs, particularly in relation to its attitude to the Brisbane Cross River Rail project—a $5.5 billion project which has the support of Infrastructure Australia and Building Queensland, the independent bodies which assess infrastructure projects. This is a project in Brisbane which would cater for future growth, unlock economic growth opportunities for the state and make Queensland more internationally competitive. It has been estimated that it would add $3.3 billion to gross state product. Some consider this to be in fact the number one infrastructure project in Australia, but we have a government which is failing to invest in Queensland. It is failing to invest in what can be objectively seen as a very, very worthwhile project. We know that Infrastructure Australia deemed this project ready to go in 2012. We know that the previous Prime Minister had a somewhat strange propensity to fail to invest in public transport. We now have a Prime Minister who seems to like taking selfies on trains and claims to be an advocate for public transport, but it is reprehensible that the government has not come forward with the necessary investment to bring this project to fruition. The coalition government has done nothing on Cross River Rail for more than three years. I think this is contributing to the damaging of the Queensland economy, and the government needs to reconsider its position in respect of this matter.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Employment, Automotive Industry</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Employment, Automotive Industry</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1,speech
 "Back, Sen Chris",LP,2017-02-07,"
 
 
@@ -674,7 +739,7 @@ I look at the seasonal worker situation. At this moment there is fruit on vines 
 
 We cannot talk about electricity prices because it is going to be adversarial. And yet I learned the other day in South Australia that next to labour costs the highest costs on business is electricity, so they are putting workers off. I have been bleating away for five years in this place about electricity prices. I was the first person to say that power costs were going to go up dramatically in South Australia and they were going to have a state-wide blackout. I look at the issues associated with tourism: 80,000 jobs desperately needed, 80,000 long-term unemployed. Why can't we have a reasonable collegial discussion instead of this adversarial nonsense. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Employment, Automotive Industry</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Employment, Automotive Industry</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1,speech
 "Gallacher, Sen Alex",ALP,2017-02-07,"
 
 
@@ -700,7 +765,7 @@ I will go back to my central theme: you have to own the work you have done. As w
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Employment, Automotive Industry</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Employment, Automotive Industry</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,11,1,speech
 "PRESIDENT, The",,2017-02-07,"
 
 
@@ -708,7 +773,7 @@ Question agreed to.
 The PRESIDENT
  (16:07):  It is with deep regret that I inform the Senate of the death, on 9 January this year, of Emeritus Professor Russell Brunell Trood, a senator for the state of Queensland from 2005 to 2011. I call the Leader of the Government in the Senate.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1
+",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1,speech
 "Brandis, Sen George",LP,2017-02-07,"
 
 
@@ -806,7 +871,7 @@ For him to be taken from his family, his friends and his colleagues at the acade
 
 I thank the patience of the Senate for allowing me to express, at slightly longer length than is customary on these occasions, my esteem for a dear friend, a great senator, a person who made this institution better, who graced public life in an exemplary manner and for whose friendship and collegiality we are all the better and for whose passing we are grievously poorer. I extend my deepest sympathy to his widow Dale, his son James, his daughter Phoebe, his brother Arty. I thank the Senate for their expression of appreciation for the life and contribution of this wonderful man.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1
+",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1,speech
 "Wong, Sen Penny",ALP,2017-02-07,"
 
 
@@ -868,7 +933,7 @@ I noted earlier that a number of people in this chamber served as senators along
 
 Russell Trood may have only served one term as a senator but his contribution to Australian and international public policy was much broader. With his untimely and sad passing, the nation is deprived of the continuing contribution of a servant who sought to expand our understanding of the region and our nation's place in the world. I again extend the opposition's deepest sympathies to his family and friends.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1
+",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1,speech
 "Scullion, Sen Nigel",CLP,2017-02-07,"
 
 
@@ -903,7 +968,7 @@ But in that room, part of what I thought about was not only the laughter—every
 
 When we lost him to this place, which was very sad, it was a great loss to public affairs. He continued in public affairs when he finished here. In 2012 he completed an appointment as the Special Envoy of the Prime Minister of Australia for Eastern Europe. During this time he also became the United Nations Association of Australia National President, and Director of the Griffith Asia Institute, where he encouraged better relations between Australia and Asia-Pacific countries. He will be remembered as a senator, a scholar, a diplomat who served this country and made a lasting and distinguished contribution to public affairs, particularly in his specialist field of international relations. We in parliament, and the wider community, have all lost a valued friend and esteemed colleague, and Australia is better for his public service. So on behalf of the Nationals, and this place more broadly, I pass on our condolences and thoughts to Professor Trood's family, his devoted wife, Dale, his children, James and Phoebe, and to his many friends. We will miss you. Vale Russell Trood.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1
+",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1,speech
 "Siewert, Sen Rachel",AG,2017-02-07,"
 
 
@@ -920,7 +985,7 @@ Senator Brandis in particular, but also Senator Wong, outlined his enormous life
 
 While I did not always agree with the comments he made, I did genuinely listen and appreciate his contribution. It made you sit and think about what he was saying. He did it in a dignified, courteous—as has been said—manner. And I think he was what my mother would say was a true gentleman. He made very significant contributions to this place in a way that many others do not. Some of us are louder, more raucous, myself included. But he had his own way of getting his point across very effectively. It was a sad loss when he left the Senate. It is now a sad loss that he has passed on at such a young age. Vale Russell Trood. On behalf of the Greens, I also would like to express our condolences.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1
+",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1,speech
 "Birmingham, Sen Simon",LP,2017-02-07,"
 
 
@@ -955,7 +1020,7 @@ Russell is perhaps not a song unfinished so much as a book unfinished—a great 
 
 Sadly, Russell left this place all too soon for somebody who could have made a much greater contribution, and he passed away all too soon for somebody who was still, through his work, making a significant contribution to public policy, to public life, to life in Queensland in particular and to life around the world. I was saddened greatly by his loss. I treasured the last few conversations I had with him over the last six months. I was terribly sorry not to be able to be at the recent service that commemorated Russell's life, but in this place, as I have also done personally, I add my condolences to his family, Dale, James and Phoebe, and record the enormous contribution made by a very significant person. I will always treasure his contribution not only here but also to my work in this place.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1
+",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1,speech
 "Hanson, Sen Pauline",PHON,2017-02-07,"
 
 
@@ -966,7 +1031,7 @@ Senator HANSON
 
 From the words that have been said today, Mr Trood was very highly regarded and respected. Maybe we would have agreed on quite a bit, maybe we would have been at loggerheads and maybe he would have given me very good advice on the role that I now hold today. On behalf of Pauline Hanson's One Nation and my fellow colleagues, I would like to pass on my thoughts and prayers to his family and to his close friends and colleagues. It is a difficult time for you all.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1
+",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1,speech
 "Macdonald, Sen Ian",LP,2017-02-07,"
 
 
@@ -986,7 +1051,7 @@ Others have related stories and made comments that I will not even try to repeat
 
 To Russell, I say rest in peace, and to Dale, Phoebe and James, I extend to you my condolences and those of my wife, Lesley.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1
+",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1,speech
 "Fifield, Sen Mitch",LP,2017-02-07,"
 
 
@@ -1003,7 +1068,7 @@ When I spoke in the valedictory address in 2011 when Russell was leaving us I sa
 
 The longer we spend in this place and the more we work with colleagues, and particularly those with whom we have become close and have an affection, when they leave this place a little part of you leaves with them. It is comforting to ponder that hopefully they have appreciated taking a little bit of each of us with them, and I hope that was the case with Russell. We miss him; he should be remembered as one of the substantial figures of the Australian Senate. Russell and Russell's family are very much in my thoughts and in the thought of all of us at this time.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1
+",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1,speech
 "Canavan, Sen Matthew",Nats,2017-02-07,"
 
 
@@ -1023,7 +1088,7 @@ I was looking forward to catching up with former senator Trood last year, when I
 
 We could also use Russell in other ways. As Senator Hanson mentioned, he did actually beat Pauline Hanson and One Nation. We could certainly use those talents as well, but we will have to persist without his experience, his guidance and his good nature. My deep condolences go to Russell's family and I pass on all our sympathy to them and hope that they get some solace from the contribution that he has made in this place and the number of lives he has touched through the work he has done here and elsewhere.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1
+",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1,speech
 "McGrath, Sen James",LP,2017-02-07,"
 
 
@@ -1049,7 +1114,7 @@ Senator McGRATH:
 
 He was a liberal with the moderate views of the broad church that is the Liberal National Party. He was decent, he was honest, he had an evil sense of humour and a twinkle in his eye when he was trying to tell a story or listening to someone tell an even better story. His departure from this place in 2011 was a loss to parliament, but his death last month is a loss to all of us, whether family, friend or foe.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1
+",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1,speech
 "Sterle, Sen Glenn",ALP,2017-02-07,"
 
 
@@ -1057,7 +1122,7 @@ He was a liberal with the moderate views of the broad church that is the Liberal
 Senator STERLE
  (Western Australia) (17:21):  I would like to be very brief and pass on my condolences to Russell's family. Like your good self, Mr President, Senator Siewert and myself are the class of 2004, that dynamic bunch of new entrants back then. Russell was in our gang. Russell was an absolute gentleman. We can have some argy-bargy across this chamber and we can really get stuck into each other, but Russell was the sort of senator who never had a bad word to say about anyone—not to our faces anyway; I do not know what he said about us while having a beer with George or Brett. It is good to see you too, Brett. From my own personal feelings towards Russell, I miss you, mate. You were exemplary in your behaviour in this chamber. I have to say that if the other 75 of us conducted ourselves like you did, Russell, there would be nothing to talk about in question time. All the very best to his family.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1
+",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1,speech
 "PRESIDENT, The",,2017-02-07,"
 
 
@@ -1077,7 +1142,7 @@ Colleagues, it is a sad day when you lose a Senator who you have served with, an
 
 Question agreed to, honourable senators standing in their places. 
 
-",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1
+",Senate,<title>CONDOLENCES</title>,"<title>Trood, Professor Russell Brunell</title>",CONDOLENCES,12,1,speech
 "Burston, Sen Brian",PHON,2017-02-07,"
 
 
@@ -1118,7 +1183,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Australian Human Rights Commission Amendment (Preliminary Assessment Process) Bill 2017</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Human Rights Commission Amendment (Preliminary Assessment Process) Bill 2017</title>,BILLS,17,1,speech
 "Burston, Sen Brian",PHON,2017-02-07,"
 
 
@@ -1198,7 +1263,7 @@ Senator BURSTON:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Australian Human Rights Commission Amendment (Preliminary Assessment Process) Bill 2017</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Human Rights Commission Amendment (Preliminary Assessment Process) Bill 2017</title>,BILLS,17,1,speech
 "Burston, Sen Brian",PHON,2017-02-07,"
 
 
@@ -1239,7 +1304,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,17,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,17,2,speech
 "PRESIDENT, The",,2017-02-07,"
 
 
@@ -1266,7 +1331,7 @@ More than the number of senators required by the standing orders having risen in
 
 The PRESIDENT:  I understand that informal arrangements have been made to allocate specific times to each of the speakers in today's debate. With the concurrence of the Senate, I shall ask the clerks to set the clock accordingly.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Centrelink</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Centrelink</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Siewert, Sen Rachel",AG,2017-02-07,"
 
 
@@ -1301,7 +1366,7 @@ Some of the so-called overpayments are a result of system or administrative erro
 
 Government senators are trying to stand here in this place today and defend a flawed system which is having a direct impact on people's lives. The system ruined people's Christmas. People are stressed. It has resulted in mental health. We are getting phone calls into my office with people that talk about taking their own lives as a result of this process. We of course have been referring them on to the appropriate advice, such as through Lifeline. But when you get to a situation where people are talking about literally taking their own lives—they are scared witless about how they are going to pay the bills; you could open a bill and see a debt for $10,000—this system is broken. It needs to be abandoned. They need to scrap it now.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Centrelink</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Centrelink</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Brown, Sen Carol",ALP,2017-02-07,"
 
 
@@ -1321,7 +1386,7 @@ In Hobart a rally was organised by a northern suburbs community action group, an
 
 There are consequences of these debt notices for people: they are being sent to debt collectors. That means they now have a bad credit rating that is not of their own making. That is what is happening. Stop pretending. Do not stand up and protect the government. It is wrong. Think about the people that you represent in your home states. It has to be suspended and it has to be suspended now. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Centrelink</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Centrelink</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Hume, Sen Jane",LP,2017-02-07,"
 
 
@@ -1365,7 +1430,7 @@ Senator Polley:
 Senator HUME:
   Heartless, you are absolutely right. Exploiting welfare recipients for political opportunism is heartless and it is indeed a matter of public importance. So thank you very much for raising this issue, Senator Siewert. Thank you very much for allowing this government to shed light on the issue. Thank you very much.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Centrelink</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Centrelink</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Burston, Sen Brian",PHON,2017-02-07,"
 
 
@@ -1391,7 +1456,7 @@ The truth of the matter is that the government simply wants more money, and it h
 
 One Nation will certainly support a Senate inquiry into this issue. If this process is as deliberate as I fear and believe, those responsible will definitely seek to hide their guilt. It is necessary for the sake of good governance and for justice that they are exposed and held to account. Thank you.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Centrelink</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Centrelink</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Paterson, Sen James",LP,2017-02-07,"
 
 
@@ -1462,7 +1527,7 @@ Labor is asking the government to scrap this successful process, which is succes
 
 The government is recovering those funds because, at the end of the day, the Australian people do not go to work, working long hours to support their family and pay a reasonable share of that income to the federal government in taxes to support the services that we all enjoy, unless they know that those dollars are going to be used wisely and fairly. They do not go to work with the expectation that we are going take more money than we need to from them in order to give it to someone who is not entitled to it. These are working people whose family budget depends in part on how much money the government takes from them each year. If we take less of it, there will be much less strain on their family budget. If we take more of it, there will be more strain on their family budget—and it is morally wrong to take more than we need to to pay someone who is not entitled to it. That is what this system addresses. That is what this system has identified. There are potentially billions of dollars of funds involved in this, and it is entirely appropriate that the government is using the latest technology and data matching to achieve this end. 
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Centrelink</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Centrelink</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Cameron, Sen Doug",ALP,2017-02-07,"
 
 
@@ -1500,7 +1565,7 @@ I can go through example after example. A solicitor with the office of the Direc
 
 This is a botched job from a botched government with ministers that do not deserve the title 'minister'. This is bad policy, bad implementation, from a bad government— (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Centrelink</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Centrelink</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Polley, Sen Helen",ALP,2017-02-07,"
 
 
@@ -1539,7 +1604,7 @@ As you all know in this chamber, if you have a bad debt name, it is very hard to
 
 The DEPUTY PRESIDENT:  Order! The time for the discussion has expired.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Centrelink</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Centrelink</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Siewert, Sen Rachel",AG,2017-02-07,"
 
 
@@ -1628,7 +1693,7 @@ Senator SIEWERT:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>DOCUMENTS</title>,<title>Indigenous Advancement Strategy</title>,DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,<title>Indigenous Advancement Strategy</title>,DOCUMENTS,20,1,speech
 "Siewert, Sen Rachel",AG,2017-02-07,"
 
 
@@ -1717,7 +1782,7 @@ Senator SIEWERT:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,20,2,speech
 "Smith, Sen Dean",LP,2017-02-07,"
 
 
@@ -1728,7 +1793,7 @@ Senator SMITH
 
 Ordered that the reports be printed.
 
-",Senate,<title>COMMITTEES</title>,"<title>Legal and Constitutional Affairs Legislation Committee, Education and Employment Legislation Committee, Foreign Affairs, Defence and Trade Legislation Committee</title>",COMMITTEES,22,1
+",Senate,<title>COMMITTEES</title>,"<title>Legal and Constitutional Affairs Legislation Committee, Education and Employment Legislation Committee, Foreign Affairs, Defence and Trade Legislation Committee</title>",COMMITTEES,22,1,speech
 "Smith, Sen Dean",LP,2017-02-07,"
 
 
@@ -1739,7 +1804,7 @@ Senator SMITH
 
 Ordered that the reports be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2,speech
 "Smith, Sen Dean",LP,2017-02-07,"
 
 
@@ -1759,4 +1824,4 @@ I declare before you all that my whole life, whether it be long or short, shall 
 
 For 65 years as our Queen she has remained faithful to that vow, and, for that, all Australians extend their heartfelt appreciation. Thy choicest gifts in store; on her be pleased to pour; long may she reign.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Her Majesty Queen Elizabeth II—Sapphire Jubilee</title>,ADJOURNMENT,25,1
+",Senate,<title>ADJOURNMENT</title>,<title>Her Majesty Queen Elizabeth II—Sapphire Jubilee</title>,ADJOURNMENT,25,1,speech

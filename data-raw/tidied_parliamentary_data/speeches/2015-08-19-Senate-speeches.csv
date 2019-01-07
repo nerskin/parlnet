@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2015-08-19,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (09:31):  Does any senator wish to have the question put on any of those motions? There being no request, we shall proceed.
 
-",Senate,<title>COMMITTEES</title>,"<title>Education and Employment References Committee, Finance and Public Administration Legislation Committee, Legal and Constitutional Affairs References Committee, Select Committee on the Regional Processing Centre in Nauru</title>",COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,"<title>Education and Employment References Committee, Finance and Public Administration Legislation Committee, Legal and Constitutional Affairs References Committee, Select Committee on the Regional Processing Centre in Nauru</title>",COMMITTEES,1,1,speech
 "PRESIDENT, The",,2015-08-19,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (09:31):  Does any senator wish to have the question put on any of those motions? There being no request, we shall proceed.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "PRESIDENT, The",,2015-08-19,"
 
 
@@ -46,7 +46,7 @@ The standing orders are rules of debate, designed to provide a rational framewor
 
 So, Senators, please consider the seat that you occupy, consider the people that you represent, consider the many observers that watch proceedings live, or those that listen or view on national broadcast and allow them to, at least, feel justified and assured that this place contains individuals, whom they elected, that will uphold the good values, standards and discipline that befits holding the office of a senator in the parliament of Australia. 
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Questions Without Notice</title>,STATEMENT BY THE PRESIDENT,2,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Questions Without Notice</title>,STATEMENT BY THE PRESIDENT,2,1,speech
 "Fifield, Sen Mitch",LP,2015-08-19,"
 
 
@@ -63,7 +63,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Acts and Instruments (Framework Reform) (Consequential Provisions) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Acts and Instruments (Framework Reform) (Consequential Provisions) Bill 2015</title>,BILLS,3,1,speech
 "Fifield, Sen Mitch",LP,2015-08-19,"
 
 
@@ -124,7 +124,7 @@ makes other minor consequential amendments to Commonwealth acts, repeals several
 
 The Acts and Instruments (Framework Reform) (Consequential Provisions) Bill supports reforms made by the acts and Instruments (Framework Reform) Act to create administrative efficiencies, reduce 'beige tape' and promote access to justice.
 
-",Senate,<title>BILLS</title>,<title>Acts and Instruments (Framework Reform) (Consequential Provisions) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Acts and Instruments (Framework Reform) (Consequential Provisions) Bill 2015</title>,BILLS,3,1,speech
 "Collins, Sen Jacinta",ALP,2015-08-19,"
 
 
@@ -141,7 +141,7 @@ This bill makes a number of consequential technical machinery and drafting chang
 
 These are minor and technical changes. As Labor indicated when the Acts and Instruments (Framework Reform) Bill came to this place, we support any measures which make Commonwealth instruments easier to locate and understand. I commend the bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Acts and Instruments (Framework Reform) (Consequential Provisions) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Acts and Instruments (Framework Reform) (Consequential Provisions) Bill 2015</title>,BILLS,3,1,speech
 "Fierravanti-Wells, Sen Concetta",LP,2015-08-19,"
 
 
@@ -176,7 +176,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Acts and Instruments (Framework Reform) (Consequential Provisions) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Acts and Instruments (Framework Reform) (Consequential Provisions) Bill 2015</title>,BILLS,3,1,speech
 "PRESIDENT, The",,2015-08-19,"
 
 
@@ -184,7 +184,7 @@ Bill read a second time.
 The PRESIDENT
  (09:43):  As no amendments to the bill have been circulated, I shall call the minister to move the third reading unless any senator requires that the bill be considered in Committee of the Whole.
 
-",Senate,<title>BILLS</title>,<title>Acts and Instruments (Framework Reform) (Consequential Provisions) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Acts and Instruments (Framework Reform) (Consequential Provisions) Bill 2015</title>,BILLS,3,1,speech
 "Fierravanti-Wells, Sen Concetta",LP,2015-08-19,"
 
 
@@ -201,7 +201,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Acts and Instruments (Framework Reform) (Consequential Provisions) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Acts and Instruments (Framework Reform) (Consequential Provisions) Bill 2015</title>,BILLS,3,1,speech
 "Fifield, Sen Mitch",LP,2015-08-19,"
 
 
@@ -218,7 +218,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,3,2,speech
 "Williams, Sen John",Nats,2015-08-19,"
 
 
@@ -271,7 +271,78 @@ But, if Samoa do not build industries and they keep relying on imports and their
 
 They have got to be helped and guided to do it properly so they can secure industries, jobs and vertical integration for coffee and cocoa. They do export some cocoa to New Zealand, which is good. There is much more potential for that. But my concern is, with that $37 million, we are helping them with health and various very important issues, but we need to help them more with industry—work with the Samoan government to see that they get established, grow their economy and save themselves from going down the road of national debt. Their tourism is going okay, but there is plenty of room there. Let us hope that in the future we can help them to establish those industries and they grow, for their own betterment.
 
-",Senate,<title>STATEMENTS BY SENATORS</title>,<title>Samoan Coffee and Cocoa Industry</title>,STATEMENTS BY SENATORS,4,1
+",Senate,<title>STATEMENTS BY SENATORS</title>,<title>Samoan Coffee and Cocoa Industry</title>,STATEMENTS BY SENATORS,4,1,speech
+"Collins, Sen Jacinta",ALP,2015-08-19,"
+
+
+
+Senator JACINTA COLLINS
+ (Victoria) (13:59):  My question is to the Attorney-General, Senator Brandis. Can the Attorney-General confirm that Commissioner Heydon's salary is more than the $3.3 million being paid to counsel assisting the royal commission, Mr Stoljar?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Collins, Sen Jacinta",ALP,2015-08-19,"
+
+
+
+Senator JACINTA COLLINS
+ (Victoria) (14:00):  Mr President, I ask a supplementary question. I ask the Attorney: why is Commissioner Heydon's salary a secret when the counsel assisting the royal commission's salary is not?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Collins, Sen Jacinta",ALP,2015-08-19,"
+
+
+
+Senator JACINTA COLLINS
+ (Victoria) (14:01):  Mr President, I ask a further supplementary question. The critical issue, and the issue I would like the Attorney-General to address, is: how many tens of millions of dollars has this partisan royal commission cost Australian taxpayers so far?
+
+
+
+
+Senator Cormann:
+  It is coming in below budget.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Brandis, Sen George",LP,2015-08-19,"
+
+
+
+Senator BRANDIS
+ (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (14:00):  No.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Brandis, Sen George",LP,2015-08-19,"
+
+
+
+Senator BRANDIS
+ (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (14:00):  Senator Collins, as you would be aware, it is not the custom of Australian governments of either political persuasion to publish commercial-in-confidence matters.
+
+
+
+Opposition senators interjecting—
+
+
+
+The PRESIDENT:  Order on my left. Senator Brandis, had you concluded your answer?
+
+
+
+
+Senator Brandis:
+  Yes.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Brandis, Sen George",LP,2015-08-19,"
+
+
+
+Senator BRANDIS
+ (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (14:01):  As the finance minister just points out to me, it is coming in below budget. The royal commission has in fact been a very efficiently run royal commission in terms of its budgeting.
+
+
+But, when we ask ourselves about the cost of the royal commission, what we have to do is look at it in the overall context. How much is this royal commission going to save the Australian economy by throwing a spotlight on corruption and rorts and racketeering by the trade unions that you seek to protect by destroying the royal commission? We know what your motive is, Senator Collins, just as we do the motive of your leader, Senator Wong. You do not want corruption in the trade union movement exposed and you will stop at nothing to tear down the royal commission that has blown the whistle. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
 "Conroy, Sen Stephen",ALP,2015-08-19,"
 
 
@@ -286,7 +357,88 @@ Senator CONROY
 
 And as a honourable person he should step aside. Why is it Senator Brandis failed to follow his cabinet instructions to say that Labor attacks on Justice Dyson Heydon reveal their true objective: to stop the royal commission into union governance? Why haven't you used that again? (Time expired).
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE,7,1,speech
+"Conroy, Sen Stephen",ALP,2015-08-19,"
+
+
+
+Senator CONROY
+ (Victoria—Deputy Leader of the Opposition in the Senate) (14:09):  My question is to the Attorney-General, Senator Brandis. I refer to the Attorney-General's confirmation that he spoke with Commissioner Heydon about his planned address to the Liberal Party fundraiser, the Sir Garfield Barwick lecture. On how many occasions has the Attorney-General picked up the phone to Commissioner Heydon since the royal commission was established? And would next time you do pick up the phone to the commissioner, will you ask him why he did not ask a single question on the brief of evidence provided to him of the $1.4 million that Kathy Jackson stole from HSU members?
+
+
+
+Senator Conroy interjecting—
+
+
+
+The PRESIDENT:  Order! Senator Conroy, you have asked your question. I am just debating as to whether the second part of that question is in order. I will allow it to stand. The Attorney-General can treat the second part of the question as he deems fit.
+
+
+
+Honourable senators interjecting—
+
+
+
+The PRESIDENT:  Order! On both sides.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Conroy, Sen Stephen",ALP,2015-08-19,"
+
+
+
+Senator CONROY
+ (Victoria—Deputy Leader of the Opposition in the Senate) (14:12):  Mr President, I ask a supplementary question. Can the Attorney-General advise if there was the shortlist for the position of royal commissioner? What criteria was applied to the appointments? Did it include political impartiality?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Brandis, Sen George",LP,2015-08-19,"
+
+
+
+Senator BRANDIS
+ (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (14:10):  They are getting a little sensitive, aren't they? Senator Conroy is now using the opportunity to wage his own vendettas in the fratricidal ugly world of Labor Party politics. In relation to the first part of the question, I would have to check but I would do recall communicating with Mr Heydon on the occasion when the government approached him to request that he extend the life of the royal commission. Obviously as a matter of courtesy it was necessary to make that request of him. I cannot immediately call to mind at any other occasions when I have spoken to Mr Heydon during the currency of the royal commission, but I will check.
+
+
+In relation to the second part of Senator Conroy's question, if I understood it correctly and I am sure I did, I am being chastised for failing to interfere with the operation of the royal commission, being chastised for not suggesting to or insisting that the commissioner pursue a certain line of inquiry in a certain way. Well, of course I would not. Anybody who sought to interfere with a royal commission would be committing a crime.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Brandis, Sen George",LP,2015-08-19,"
+
+
+
+Senator BRANDIS
+ (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (14:12):  Mr Heydon was selected by the government on my recommendation because I was looking for somebody with a reputation so stainless, so perfect that nobody could possibly criticise him without making themselves a fool, and you have fallen right into the trap, Senator Conroy. Anybody who inquired into corruption in the trade union movement was bound to have mire and dirt and sleaze thrown at them by the protectors of the organised criminals in the trade union movement on the opposition benches.
+
+
+
+
+Senator Moore:
+  Mr President, I rise on a point of order: direct relevance. I would ask you to draw the attention of the attorney to the specific questions asked about the shortlist and criteria. The attorney has talked about the fact that it was his decision and that is fine, but I would like to see whether you could draw to his attention those particular points in the questions.
+
+
+
+The PRESIDENT:  The Attorney-General has been directly relevant in relation to portions of the question. The Attorney-General has 18 seconds in which to complete his answer.
+
+
+
+
+Senator BRANDIS:
+  So what the government was looking for was the best black-letter lawyer in the country with a reputation for personal integrity and impartiality so utterly stainless that nobody who hoped to be taken seriously would dare to criticise him. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Brandis, Sen George",LP,2015-08-19,"
+
+
+
+Senator BRANDIS
+ (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (14:15):  Mr Julian Burnside, whom I know slightly, hardly approaches this as an impartial observer. Yet even Mr Burnside has made the same point that I make about the Hon. Dyson Heydon: that he is a person of utterly unimpeachable integrity, a man with no politics, appointed to the New South Wales Court of Appeal by the Labor government of Mr Bob Carr, appointed to the High Court of Australia by the coalition government of John Howard. But, rather than one individual lawyer, let us remember what the Law Council of Australia had to say yesterday:
+
+
+The public attacks on the commissioner being played out through the media are unacceptable and damage the basis on which tribunals and courts operate.
+
+
+That is the voice of the Law Council of Australia representing every constituent body of the legal profession in Australia. That is the voice of the legal profession in this country— (Time expired).
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
 "Brandis, Sen George",LP,2015-08-19,"
 
 
@@ -325,7 +477,7 @@ Senator Jacinta Collins:
 
 The DEPUTY PRESIDENT:  In any case, leave has not been granted.
 
-",Senate,<title>STATEMENTS</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,STATEMENTS,8,1
+",Senate,<title>STATEMENTS</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,STATEMENTS,8,1,speech
 "Birmingham, Sen Simon",LP,2015-08-19,"
 
 
@@ -339,7 +491,7 @@ Senator BIRMINGHAM
 Senator Payne:
   Mr Deputy President, Senator Wong has taken offence to a remark I made inaudibly in the chamber. I withdraw it.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Renewable Energy</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Renewable Energy</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,9,1,speech
 "Collins, Sen Jacinta",ALP,2015-08-19,"
 
 
@@ -416,7 +568,7 @@ Senator JACINTA COLLINS:
 
 We need to understand the full costs of this exercise. This royal commission is turning into a farce. The secrecy, the lack of transparency and the decision-making processes demonstrated by this government are the issue. I have not attacked Commissioner Heydon, but I am attacking the way this government has dealt with this matter.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Bernardi, Sen Cory",LP,2015-08-19,"
 
 
@@ -442,7 +594,7 @@ That is not what this place is meant to be about. Politics is not meant to be ab
 
 If I sound disappointed, I am—because you need a good opposition to make governments even better, and I want to see governments of all stripes made much better.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Sterle, Sen Glenn",ALP,2015-08-19,"
 
 
@@ -483,7 +635,7 @@ On 13 August journalists obtained New South Wales Liberal Party flyers, one of w
 
 It does not matter how much that side of the chamber try to cover up and not tell us what the cost is. It was clearly a very poor choice by Commissioner Heydon. What makes it looks even murkier to the public is that that side of the chamber are doing everything they can to try to defend that it was not Liberal Party, that he did not see it, that the assistant missed it, that the dog ate his homework. It reeks. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Ryan, Sen Scott",LP,2015-08-19,"
 
 
@@ -537,7 +689,7 @@ I note that Senator Collins, in her contribution during question time, referred 
 
 This is an attempt at diversion. It is an attempt at diversion from the news that the Labor Party opposite is desperate that the Australian people not know. They do not want the Australian people to know that their masters, their mistresses, those who they work for, those who control their preselections, those who control and provide their slush funds, are involved in serious activity that is being uncovered by this royal admission and has already led to activity in the justice space which I will not go into in any more detail. Before anyone mentions any other events, that is the simple point that the Labor Party is trying to hide.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "McAllister, Sen Jenny",ALP,2015-08-19,"
 
 
@@ -569,7 +721,7 @@ The royal commission into trade unions is quickly degenerating into a farce. Eve
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Xenophon, Sen Nick",Ind.,2015-08-19,"
 
 
@@ -627,7 +779,7 @@ the following recommendation:
 (b) calls on the Government to take urgent action to introduce a compulsory country of origin labelling regime for seafood sold for immediate consumption within no later than the next 12 months.
 
 
-",Senate,<title>MOTIONS</title>,<title>Country of Origin Labelling</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Country of Origin Labelling</title>,MOTIONS,13,1,speech
 "Fifield, Sen Mitch",LP,2015-08-19,"
 
 
@@ -648,7 +800,7 @@ Senator FIFIELD:
 
 The government is currently considering its response to the recommendations from the inquiry into the current requirements of the labelling of seafood and seafood products. We are continuing to consult with the industry on this issue. The government is precluded from acting unilaterally to introduce a compulsory regime. As stated previously in the chamber, the Commonwealth has limited legislative power in the area of food regulation and although standards may be developed by FSANZ, their development enforcement is undertaken in collaboration between and are reliant upon state and territory legislation in Australia and New Zealand.
 
-",Senate,<title>MOTIONS</title>,<title>Country of Origin Labelling</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Country of Origin Labelling</title>,MOTIONS,13,1,speech
 "Xenophon, Sen Nick",Ind.,2015-08-19,"
 
 
@@ -672,7 +824,7 @@ I acknowledge Senator Nigel Scullion's work in the Northern Territory. He was th
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Country of Origin Labelling</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Country of Origin Labelling</title>,MOTIONS,13,1,speech
 "Rice, Sen Janet",AG,2015-08-19,"
 
 
@@ -706,7 +858,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Marriage Equality Plebiscite Bill 2015</title>,BILLS,14,1
+",Senate,<title>BILLS</title>,<title>Marriage Equality Plebiscite Bill 2015</title>,BILLS,14,1,speech
 "Rice, Sen Janet",AG,2015-08-19,"
 
 
@@ -762,7 +914,7 @@ Senator RICE:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Marriage Equality Plebiscite Bill 2015</title>,BILLS,14,1
+",Senate,<title>BILLS</title>,<title>Marriage Equality Plebiscite Bill 2015</title>,BILLS,14,1,speech
 "Rice, Sen Janet",AG,2015-08-19,"
 
 
@@ -796,7 +948,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,14,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,14,2,speech
 "Moore, Sen Claire",ALP,2015-08-19,"
 
 
@@ -850,7 +1002,7 @@ That there be laid on the table by the Attorney-General, no later than midday on
 ‑General's Department and the Department of the Prime Minister and Cabinet.
 
 
-",Senate,<title>DOCUMENTS</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,DOCUMENTS,15,1
+",Senate,<title>DOCUMENTS</title>,<title>Royal Commission into Trade Union Governance and Corruption</title>,DOCUMENTS,15,1,speech
 "Moore, Sen Claire",ALP,2015-08-19,"
 
 
@@ -904,7 +1056,7 @@ That there be laid on the table by the Attorney-General, no later than midday on
 ‑General's Department and the Department of the Prime Minister and Cabinet.
 
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,15,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,15,2,speech
 "Whish-Wilson, Sen Peter",AG,2015-08-19,"
 
 
@@ -965,7 +1117,7 @@ An honourable senator interjecting
 Senator WHISH-WILSON:
   The same to you, Senator—the Senate will reaffirm the position the Senate took 12 months ago. (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Beef Industry</title>,MOTIONS,16,1
+",Senate,<title>MOTIONS</title>,<title>Beef Industry</title>,MOTIONS,16,1,speech
 "O'Sullivan, Sen Barry",Nats,2015-08-19,"
 
 
@@ -986,7 +1138,7 @@ Senator O'SULLIVAN:
 
 Question negatived.
 
-",Senate,<title>MOTIONS</title>,<title>Beef Industry</title>,MOTIONS,16,1
+",Senate,<title>MOTIONS</title>,<title>Beef Industry</title>,MOTIONS,16,1,speech
 "McEwen, Sen Anne",ALP,2015-08-19,"
 
 
@@ -997,7 +1149,7 @@ Senator McEWEN
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Scrutiny of Bills Committee</title>,COMMITTEES,18,1
+",Senate,<title>COMMITTEES</title>,<title>Scrutiny of Bills Committee</title>,COMMITTEES,18,1,speech
 "McEwen, Sen Anne",ALP,2015-08-19,"
 
 
@@ -1008,7 +1160,7 @@ Senator McEWEN
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,18,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,18,2,speech
 "Brandis, Sen George",LP,2015-08-19,"
 
 
@@ -1016,7 +1168,7 @@ Ordered that the report be printed.
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (16:55):  I table a document relating to the order for the production of documents concerning higher education reforms.
 
-",Senate,<title>DOCUMENTS</title>,<title>Higher Education</title>,DOCUMENTS,19,1
+",Senate,<title>DOCUMENTS</title>,<title>Higher Education</title>,DOCUMENTS,19,1,speech
 "Brandis, Sen George",LP,2015-08-19,"
 
 
@@ -1024,7 +1176,7 @@ Senator BRANDIS
 Senator BRANDIS
  (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (16:55):  I table a document relating to the order for the production of documents concerning higher education reforms.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,19,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,19,2,speech
 "Brandis, Sen George",LP,2015-08-19,"
 
 
@@ -1038,7 +1190,7 @@ That these bills may proceed without formalities, may be taken together and be n
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,"<title>Australian Defence Force Superannuation Bill 2015, Australian Defence Force Cover Bill 2015, Defence Legislation Amendment (Superannuation and ADF Cover) Bill 2015</title>",BILLS,20,1
+",Senate,<title>BILLS</title>,"<title>Australian Defence Force Superannuation Bill 2015, Australian Defence Force Cover Bill 2015, Defence Legislation Amendment (Superannuation and ADF Cover) Bill 2015</title>",BILLS,20,1,speech
 "Brandis, Sen George",LP,2015-08-19,"
 
 
@@ -1318,7 +1470,7 @@ I commend the Bill
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,"<title>Australian Defence Force Superannuation Bill 2015, Australian Defence Force Cover Bill 2015, Defence Legislation Amendment (Superannuation and ADF Cover) Bill 2015</title>",BILLS,20,1
+",Senate,<title>BILLS</title>,"<title>Australian Defence Force Superannuation Bill 2015, Australian Defence Force Cover Bill 2015, Defence Legislation Amendment (Superannuation and ADF Cover) Bill 2015</title>",BILLS,20,1,speech
 "Brandis, Sen George",LP,2015-08-19,"
 
 
@@ -1332,7 +1484,7 @@ That these bills may proceed without formalities, may be taken together and be n
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,20,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,20,2,speech
 "CHAIRMAN, The",,2015-08-19,"
 
 
@@ -1340,7 +1492,7 @@ Bills read a first time.
 The CHAIRMAN
  (17:47):  The committee is considering the Crimes Legislation Amendment (Powers, Offences and Other Measures) Bill 2015 as amended and amendment (2) on sheet 7736, moved by Senator Wright.
 
-",Senate,<title>BILLS</title>,"<title>Crimes Legislation Amendment (Powers, Offences and Other Measures) Bill 2015</title>",BILLS,22,1
+",Senate,<title>BILLS</title>,"<title>Crimes Legislation Amendment (Powers, Offences and Other Measures) Bill 2015</title>",BILLS,22,1,speech
 "Fierravanti-Wells, Sen Concetta",LP,2015-08-19,"
 
 
@@ -1364,7 +1516,7 @@ We note that the Law Council of Australia has suggested that the presence of man
 
 The CHAIRMAN:  The question is that schedule 6 stand as printed.
 
-",Senate,<title>BILLS</title>,"<title>Crimes Legislation Amendment (Powers, Offences and Other Measures) Bill 2015</title>",BILLS,22,1
+",Senate,<title>BILLS</title>,"<title>Crimes Legislation Amendment (Powers, Offences and Other Measures) Bill 2015</title>",BILLS,22,1,speech
 "Fierravanti-Wells, Sen Concetta",LP,2015-08-19,"
 
 
@@ -1381,7 +1533,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,"<title>Crimes Legislation Amendment (Powers, Offences and Other Measures) Bill 2015</title>",BILLS,22,1
+",Senate,<title>BILLS</title>,"<title>Crimes Legislation Amendment (Powers, Offences and Other Measures) Bill 2015</title>",BILLS,22,1,speech
 "CHAIRMAN, The",,2015-08-19,"
 
 
@@ -1389,7 +1541,7 @@ Bill read a third time.
 The CHAIRMAN
  (17:47):  The committee is considering the Crimes Legislation Amendment (Powers, Offences and Other Measures) Bill 2015 as amended and amendment (2) on sheet 7736, moved by Senator Wright.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,22,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,22,2,speech
 "Fierravanti-Wells, Sen Concetta",LP,2015-08-19,"
 
 
@@ -1413,7 +1565,7 @@ We note that the Law Council of Australia has suggested that the presence of man
 
 The CHAIRMAN:  The question is that schedule 6 stand as printed.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,22,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,22,2,speech
 "Payne, Sen Marise",LP,2015-08-19,"
 
 
@@ -1421,7 +1573,7 @@ The CHAIRMAN:  The question is that schedule 6 stand as printed.
 Senator PAYNE
  (New South Wales—Minister for Human Services) (19:19):  I table for the information of honourable senators the statement by the Minister for Industry and Science, the Hon. Ian Macfarlane MP, entitled Science and innovation building Australia's industries of the future, given in the House of Representatives on 17 August 2015.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Science and Innovation: Building Australia's Industries of the Future</title>,MINISTERIAL STATEMENTS,23,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Science and Innovation: Building Australia's Industries of the Future</title>,MINISTERIAL STATEMENTS,23,1,speech
 "McGrath, Sen James",LP,2015-08-19,"
 
 
@@ -1469,4 +1621,4 @@ Interestingly, another random fun fact is that Top Gear presenter Richard Hammon
 
 But now, it is all coming to an end. Tata, the current owners of Jaguar Land Rover, say that the decision to stop production is 'mainly legislation based', which is code for green-tape. Indeed, new European emission standards are making the Land Rover Defender illegal in Europe. It has become too much effort to comply with the environmental activists in Brussels. And so the Land Rover is going to be produced in Eastern Europe. The twentieth of December 2015 will be a very sad day, when the last Land Rover rolls off the production line at Solihull. We must be vigilant here in Australia that we do not allow Australian resource industries to suffer a similar fate at the hands of eco-terrorists and socialists, especially when they are trying to use the law to cut jobs and cut Australian industries. The only thing wrong with the Land Rover Defender is its parentage—it should be Australian rather than British.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Land Rover</title>,ADJOURNMENT,24,1
+",Senate,<title>ADJOURNMENT</title>,<title>Land Rover</title>,ADJOURNMENT,24,1,speech

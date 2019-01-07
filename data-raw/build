@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+# python3 process_speeches.py3
+
+Rscript clean_speeches.R
+
+Rscript write_divisions_df.R
+
+Rscript lemmatise_speeches.R
+
+Rscript misc.R

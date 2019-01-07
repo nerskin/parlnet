@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Fifield, Sen Mitch",LP,2013-12-03,"
 
 
@@ -42,7 +42,7 @@ That the Senate:
 
 Question agreed to. 
 
-",Senate,<title>MOTIONS</title>,<title>White Ribbon Day</title>,MOTIONS,1,1
+",Senate,<title>MOTIONS</title>,<title>White Ribbon Day</title>,MOTIONS,1,1,speech
 "Pratt, Sen Louise",ALP,2013-12-03,"
 
 
@@ -134,7 +134,7 @@ At the end of the motion, add:
 
 "", but the Senate expresses concern over the impact that the abolition of the Clean Energy Finance Corporation will have on investment in renewable energy projects.""
 
-",Senate,<title>BILLS</title>,<title>Clean Energy Finance Corporation (Abolition) Bill 2013</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Clean Energy Finance Corporation (Abolition) Bill 2013</title>,BILLS,2,1,speech
 "Whish-Wilson, Sen Peter",AG,2013-12-03,"
 
 
@@ -237,7 +237,7 @@ We have a vision. The Greens are the only ones who have a vision for transformin
 
 I would like to finish with a quote that is often used by my predecessor, former Senator Bob Brown. He quite simply says, 'A good policy is a policy that is good for your grandchildren'—not, in this case, what is good for your electricity bill, if in fact it even impacts your electricity bill, which I thoroughly dispute. To someone who cares about our children and future generations and taking real action on climate change, nothing is more frustrating or infuriating than this constant grind that somehow a questionable argument on cost of living is more important than looking after our kids and the future generations of this country in a way that is positive, that creates new jobs, new industries and hope, and that moves us away from traditional industries which we cannot always rely on and which in some cases are highly vulnerable. The clean energy package is a win-win for this country, producing more jobs, emissions reductions, and real, effective action on reducing global warming, the biggest threat to my future and the future of everyone in this chamber.
 
-",Senate,<title>BILLS</title>,<title>Clean Energy Finance Corporation (Abolition) Bill 2013</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Clean Energy Finance Corporation (Abolition) Bill 2013</title>,BILLS,2,1,speech
 "Abetz, Sen Eric",LP,2013-12-03,"
 
 
@@ -341,7 +341,7 @@ The coalition rejects the extreme Green-ALP proposition that to be environmental
 
 We all know the carbon tax simply is not an economic boost; it is an unnecessary handbrake that damages the environment. Having betrayed their electorates in the 43rd Parliament, will those opposite now compound that betrayal by blocking this measure in the 44th Parliament? The coalition will seek to do everything it can to obtain the passage of these bills.
 
-",Senate,<title>BILLS</title>,<title>Clean Energy Finance Corporation (Abolition) Bill 2013</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Clean Energy Finance Corporation (Abolition) Bill 2013</title>,BILLS,2,1,speech
 "Urquhart, Sen Anne",ALP,2013-12-03,"
 
 
@@ -413,7 +413,7 @@ Debate interrupted.
 
 The PRESIDENT:  Order! It being 2 pm, it is time for question time.
 
-",Senate,<title>BILLS</title>,<title>Clean Energy Finance Corporation (Abolition) Bill 2013</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Clean Energy Finance Corporation (Abolition) Bill 2013</title>,BILLS,2,1,speech
 "Pratt, Sen Louise",ALP,2013-12-03,"
 
 
@@ -505,7 +505,7 @@ At the end of the motion, add:
 
 "", but the Senate expresses concern over the impact that the abolition of the Clean Energy Finance Corporation will have on investment in renewable energy projects.""
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Whish-Wilson, Sen Peter",AG,2013-12-03,"
 
 
@@ -608,7 +608,7 @@ We have a vision. The Greens are the only ones who have a vision for transformin
 
 I would like to finish with a quote that is often used by my predecessor, former Senator Bob Brown. He quite simply says, 'A good policy is a policy that is good for your grandchildren'—not, in this case, what is good for your electricity bill, if in fact it even impacts your electricity bill, which I thoroughly dispute. To someone who cares about our children and future generations and taking real action on climate change, nothing is more frustrating or infuriating than this constant grind that somehow a questionable argument on cost of living is more important than looking after our kids and the future generations of this country in a way that is positive, that creates new jobs, new industries and hope, and that moves us away from traditional industries which we cannot always rely on and which in some cases are highly vulnerable. The clean energy package is a win-win for this country, producing more jobs, emissions reductions, and real, effective action on reducing global warming, the biggest threat to my future and the future of everyone in this chamber.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Abetz, Sen Eric",LP,2013-12-03,"
 
 
@@ -712,7 +712,7 @@ The coalition rejects the extreme Green-ALP proposition that to be environmental
 
 We all know the carbon tax simply is not an economic boost; it is an unnecessary handbrake that damages the environment. Having betrayed their electorates in the 43rd Parliament, will those opposite now compound that betrayal by blocking this measure in the 44th Parliament? The coalition will seek to do everything it can to obtain the passage of these bills.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Urquhart, Sen Anne",ALP,2013-12-03,"
 
 
@@ -784,7 +784,304 @@ Debate interrupted.
 
 The PRESIDENT:  Order! It being 2 pm, it is time for question time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
+"Carr, Sen Kim",ALP,2013-12-03,"
+
+
+
+Senator KIM CARR
+ (Victoria) (14:00):  My question without notice is to the Minister representing the Minister for Education, Senator Payne. I ask: can the minister confirm that the schools-funding agreement reached with Queensland, Western Australia and the Northern Territory will deliver Commonwealth money with 'no strings attached'?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE,3,1,question
+"Carr, Sen Kim",ALP,2013-12-03,"
+
+
+
+Senator KIM CARR
+ (Victoria) (14:02):  Mr President, I ask a supplementary question. Can the minister confirm that agreements with states under the Better Schools model, including state-funding commitments, are now up for renegotiation?
+
+
+
+
+Senator Sterle:
+  Try 'yes' or 'no'!
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE,3,1,question
+"Carr, Sen Kim",ALP,2013-12-03,"
+
+
+
+Senator KIM CARR
+ (Victoria) (14:03):  Mr President, I ask a further supplementary question. How can this government claim there is 'no need', to quote Senator Abetz, for any school to be worse off if the Commonwealth hands out money to states without ensuring it goes to students who need it most?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE,3,1,question
+"Payne, Sen Marise",LP,2013-12-03,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Human Services) (14:00):  I thank Senator Carr for his question. I can confirm that this government will be treating state governments and territory governments in Australia like adults and that we will be expecting them to deliver education services to their—
+
+
+
+
+Senator Wong:
+  Oh, really? Allowing state and territory governments to cut funding while they don't put anything in!
+
+
+
+
+Senator Cormann:
+  You just ripped money away from them, Penny!
+
+
+
+The PRESIDENT:  Order! On both sides! Senator Payne is quite entitled to be heard in silence.
+
+
+
+
+Senator PAYNE:
+  As I said, we will be treating state and territory governments in this country with respect and as adults, unlike those opposite, who chose to exercise almost a command-and-control approach over education in this country.
+
+
+But nevertheless, if the opposition are so keen to raise this issue and are so keen to talk about the sorts of concerns they have about the behaviour of state and territory governments perhaps they might want to consult with Senator Wong's colleague Mr Weatherill, who appears to have cut $230 million from the South Australian education budget, notwithstanding having an agreement with the former Commonwealth government. So if you are looking for an example, Senator Carr, that might be the one to use.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE,3,1,answer
+"Payne, Sen Marise",LP,2013-12-03,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Human Services) (14:02):  The day I take advice from Senator Sterle will be a cold day somewhere. Let me advise the Senate, Mr President—
+
+
+
+
+Senator Jacinta Collins:
+  I reckon you were doing better yesterday, Marise!
+
+
+
+
+Senator Sterle:
+  Knock yourself out, Marise!
+
+
+
+Government senators interjecting—
+
+
+
+The PRESIDENT:  Order! Senator Payne is entitled to be heard in silence. On both sides!
+
+
+
+
+Senator PAYNE:
+  As I understand Senator Carr's question, I am able to say that the funding agreements that are in place are the agreements that are continuing, and that the Commonwealth has committed to observing the funding arrangements which were discussed at some length in the chamber yesterday. If it is a matter of memory loss for the senator, perhaps he could refer to the Hansard. However, in relation to those states and territories which are, perhaps, choosing to go in a different direction, I refer again to Mr Weatherill, who I understand to be the Premier of New South Wales—
+
+
+
+
+Senator Jacinta Collins:
+  Poor Barry!
+
+
+
+
+Senator PAYNE:
+  I am sorry—South Australia. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE,3,1,answer
+"Payne, Sen Marise",LP,2013-12-03,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Human Services) (14:04):  It gives me great pleasure to once again refer to South Australian Premier Weatherill's cuts of $230 million to education in that state. As I understand it, he is the Labor Premier of the state of South Australia and, of course, the people of South Australia will have an opportunity to have their say on education cuts in that state quite soon.
+
+
+
+
+Senator Jacinta Collins:
+  Ooh—got the state right!
+
+
+
+
+Senator Lines:
+  Talk about Colin Barnett's cuts! Look at all the WA senators on the frontbench!
+
+
+
+
+Senator PAYNE:
+  Can I also say that the coalition—
+
+
+
+The PRESIDENT:  Order! Senator Payne, you are entitled to be heard in silence. There is a debate going on from both sides over the chamber, which is completely disorderly—
+
+
+
+
+Senator Bernardi:
+  There is screeching on the other side of the chamber!
+
+
+
+The PRESIDENT:  Order!
+
+
+
+
+Senator PAYNE:
+  I also say that as far as the coalition is concerned, we do regard state and territory governments as adults. We do not think we need federal inspectors in state schools. We do think we need more parental and principal involvement in the running of schools. We do think we need a stronger approach to curriculum, and not for one moment is the coalition intending to apologise for that.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE,3,1,answer
+"Tillem, Sen Mehmet",ALP,2013-12-03,"
+
+
+
+Senator TILLEM
+ (Victoria) (14:53):  My question is to the Minister representing the Minister for Industry, Senator Ronaldson. I refer the minister to the Australian Industry Group submission to the Productivity Commission inquiry on the auto sector and the comments by their CEO, Innes Willox, who said:
+
+
+… policies and funding commitments need to be predictable and, above all, stable and we believe the $500 million commitment should be honoured.
+
+
+Will the government listen to business and give the industry the certainty it needs by scrapping the disastrous cuts to auto?
+
+
+
+Government senators interjecting—
+
+
+
+The PRESIDENT:  Order! Before I call the minister, the debate going on behind him is disorderly. I remind honourable senators I am waiting for Senator Ronaldson to have the call.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Tillem, Sen Mehmet",ALP,2013-12-03,"
+
+
+
+Senator TILLEM
+ (Victoria) (14:57):  Mr President, I have a supplementary question. Will the minister admit that taking away $500 million in legislated support creates a major issue of sovereign risk when it comes to new investment in Australia? 
+
+
+
+Government senators interjecting—
+
+
+
+The PRESIDENT:  Order, on my right!
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Tillem, Sen Mehmet",ALP,2013-12-03,"
+
+
+
+Senator TILLEM
+ (Victoria) (14:58):  Mr President, I have a further supplementary—considering the size of the minister's brief. Given that we already know, thanks to many published studies and evidence reiterated at the Productivity Commission inquiry, the value of Australia's automotive industry, the comparative amount of government assistance provided against international benchmarks, the level of support Australian industry requires and the impacts of any failure in the industry, will the minister admit that the true purpose of this inquiry is to provide an alibi for government inaction?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Ronaldson, Sen Michael",LP,2013-12-03,"
+
+
+
+Senator RONALDSON
+ (Victoria—Minister for Veterans' Affairs, Minister Assisting the Prime Minister for the Centenary of ANZAC and Special Minister of State) (14:54):  I thank the honourable senator for his question. I am somewhat surprised that, having moved from the nation's great job wrecker, Senator Carr, the question has been flicked off to the new senator from Victoria.
+
+
+
+
+Senator Jacinta Collins:
+  Is the problem that you're briefless?
+
+
+
+
+Senator RONALDSON:
+  No, it is a very large brief, actually. I'm happy to give it to you in three years time!
+
+
+
+The PRESIDENT:  Senator Ronaldson, ignore the interjections and address the chair.
+
+
+
+
+Senator RONALDSON:
+  I dare say, Mr President, it is probably the largest brief here. Putting that to one side, I just want to draw to the honourable senator's attention—I know that he has recently arrived—and remind him of his party's changes to the fringe benefits tax which the Australian automotive industry said would have cost 100,000 jobs.
+
+
+
+Honourable senators interjecting—
+
+
+
+The PRESIDENT:  Senator Ronaldson, resume your seat. Senator Ronaldson is entitled to be heard in silence.
+
+
+
+
+Senator RONALDSON:
+  I do have a brief here that Senator Carr might not be quite as keen for me to read, which I am happy to talk to. What I will say to the honourable senator is that the fringe benefits changes that you proposed were going to cost 100,000 in annual production for the automotive industry. I will just go through some figures with your colleague from Victoria, the great job wrecker of the automotive industry in this country. These are some very interesting figures. Automotive industry employment averaged 45,007 people in the four quarters to August 2013, down from 50,376 in the same period in 2012. Just out of interest, Senator— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Ronaldson, Sen Michael",LP,2013-12-03,"
+
+
+
+Senator RONALDSON
+ (Victoria—Minister for Veterans' Affairs, Minister Assisting the Prime Minister for the Centenary of ANZAC and Special Minister of State) (14:57):  There are some very golden rules in here, Senator. Although you might be new, you do not have to take a dog's breakfast of a question like that. The simple fact is that when you go back and reflect on what the Australian Labor Party has done to the car industry, the carbon tax which added about $400 to $500 on the cost of a car, and when you look at what has been withdrawn by Senator Carr and others—
+
+
+
+Honourable senators interjecting—
+
+
+
+The PRESIDENT:  Order! If people wish to debate this question the time is after 3 pm. Senator Ronaldson is entitled to be heard in silence.
+
+
+
+
+Senator RONALDSON:
+  Thank you, Mr President, it is very hard to concentrate. Can I just say to the honourable senator: at close of business before Christmas, you, and those beside you, have got an opportunity to deliver to the car industry, to deliver to the mining industry, to deliver to Australian industry the best Christmas present you can give them, and that is to allow the abolition of the carbon tax. We are sick and tired of the crocodile tears from Senator Carr, the great job destroyer— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Ronaldson, Sen Michael",LP,2013-12-03,"
+
+
+
+Senator RONALDSON
+ (Victoria—Minister for Veterans' Affairs, Minister Assisting the Prime Minister for the Centenary of ANZAC and Special Minister of State) (14:59):  That is quite extraordinary, quite frankly—another wasted supplementary. I will tell you the impact that the previous government policy has had on the Australian automotive industry. I will just go through this.
+
+
+
+
+Senator Moore:
+  Mr President, I rise on a point of order. My point of order is on relevance. I know Senator Ronaldson is moving to give us a list of figures, but his premise seems to be that it is going to be passed, and he is not giving a response to the question, which was: what was the reason for the review?
+
+
+
+The PRESIDENT:  The minister has been going for 15 seconds. There is no point of order at this stage. The minister has 45 seconds remaining to address the question, and I ask the minister to now take that opportunity.
+
+
+
+
+Senator RONALDSON:
+  I will just say this to the honourable senator in relation to the Productivity Commission and the future of the Australian car industry. You may or may not be aware of this, Senator, but I will just go through the terms of the inquiry. The broad terms of reference include examination of the industry's structure, productivity, investment, profitability, international competitiveness, exports, workforce structure and practices and long-term sustainability. This government is committed to the sustainability of Australian industry. This government will not do things like impose a mining tax and a carbon tax which are going to destroy employment in this country. (Time expired)
+
+
+
+
+Senator Abetz:
+  Mr President, I ask that further questions be placed on the Notice Paper.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
 "Payne, Sen Marise",LP,2013-12-03,"
 
 
@@ -792,7 +1089,7 @@ The PRESIDENT:  Order! It being 2 pm, it is time for question time.
 Senator PAYNE
  (New South Wales—Minister for Human Services) (15:01):  Yesterday, on behalf of the Minister for Education, I took on notice a question from Senator Wong about contact with the New South Wales government. I can advise that the education minister has indicated that he has been in ongoing consultation with the New South Wales government about schools funding.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,6,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,6,1,speech
 "Carr, Sen Kim",ALP,2013-12-03,"
 
 
@@ -818,7 +1115,7 @@ We heard much about the South Australian government today. What we do not get to
 
 What we have is a coherent package of reform proposed by Labor and a gutting of that program by this government: only one-third of the money delivered, walking away from the equity provisions, walking away from the governance provisions. There is no doubt whatsoever that this is a government that cannot keep its word. This is a government that has reneged on its commitments to the Australian people. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Birmingham, Sen Simon",LP,2013-12-03,"
 
 
@@ -835,7 +1132,7 @@ Mr Shorten has history when it comes to axing things. He may have in the pre-ele
 
 Senator Carr comes in here and talks about shifting costs. The truth is that Mr Shorten shifted costs all right. In trying to claim that all money in the world was being provided to schools, he shifted costs outside of the forward estimates. It is very easy to promise things that you do not have to budget for. That is not the style of this government. We are promising what we know we can budget for and deliver over the four-year budget cycle, not what might happen beyond that. What might happen beyond that has to be the subject of future proper budgeting. Mr Shorten also then shifted costs right outside of the budget when he stripped that $1.2 billion away. So be under no illusion: this government stand proud of their education record because they are delivering the equity, the service and the money to all Australian students. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Thorp, Sen Lin",ALP,2013-12-03,"
 
 
@@ -855,7 +1152,7 @@ We are going to keep the promise that we actually made, not the promise that som
 
 Let no-one be in any doubt about this: the current government has abandoned the Better Schools Plan. They want to revert to a broken model that was examined forensically through a very thorough school review of planning, programs and funding that demonstrated that it treated schools differently and it treated well-off schools too well. They have not even made sure that the states that have most recently signed on cannot use the money that they will receive to prop up their own budgets. How appalling is that when we had this wonderful opportunity to really transform the nature of education in this country? It is absolutely appalling and an absolute waste of time and opportunity. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Ryan, Sen Scott",LP,2013-12-03,"
 
 
@@ -878,7 +1175,7 @@ Only the Labor Party would not think that there is a difference between the requ
 
 The Labor Party on this issue are shameless, but they will not be allowed to run away from their own history. Their own history is that in the dying days of their government, despite all the promises, political posturing, bumper stickers and green buses, they stripped $1.2 billion from school funding in this country. It is the coalition, as always, that cleans up Labor's mess. It is the coalition that actually delivers on the commitments that this parliament has made to the Australian people and to Australian families. The Labor Party will not be allowed to run away from that history.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Furner, Sen Mark",ALP,2013-12-03,"
 
 
@@ -941,7 +1238,7 @@ The DEPUTY PRESIDENT:  The question is that the motion moved by Senator Carr be 
 
 Question agreed to. 
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Rhiannon, Sen Lee",AG,2013-12-03,"
 
 
@@ -988,7 +1285,7 @@ That the Senate—
 
    (ii) complete its current pledge and increase investments in GAVI to at least $75 million in both 2014 and 2015.
 
-",Senate,<title>MOTIONS</title>,"<title>Global Fund to Fight AIDS, Tuberculosis and Malaria</title>",MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,"<title>Global Fund to Fight AIDS, Tuberculosis and Malaria</title>",MOTIONS,10,1,speech
 "Fifield, Sen Mitch",LP,2013-12-03,"
 
 
@@ -1009,7 +1306,7 @@ Senator FIFIELD:
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,"<title>Global Fund to Fight AIDS, Tuberculosis and Malaria</title>",MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,"<title>Global Fund to Fight AIDS, Tuberculosis and Malaria</title>",MOTIONS,10,1,speech
 "McEwen, Sen Anne",ALP,2013-12-03,"
 
 
@@ -1029,7 +1326,7 @@ That the Rural and Regional Affairs and Transport References Committee be author
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport References Committee</title>,COMMITTEES,11,1
+",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport References Committee</title>,COMMITTEES,11,1,speech
 "McEwen, Sen Anne",ALP,2013-12-03,"
 
 
@@ -1049,7 +1346,7 @@ That the Rural and Regional Affairs and Transport References Committee be author
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,11,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,11,2,speech
 "Ludlam, Sen Scott",AG,2013-12-03,"
 
 
@@ -1076,7 +1373,7 @@ Senator LUDLAM:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>National Broadband Network</title>,DOCUMENTS,12,1
+",Senate,<title>DOCUMENTS</title>,<title>National Broadband Network</title>,DOCUMENTS,12,1,speech
 "Ludlam, Sen Scott",AG,2013-12-03,"
 
 
@@ -1103,7 +1400,7 @@ Senator LUDLAM:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,12,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,12,2,speech
 "Pratt, Sen Louise",ALP,2013-12-03,"
 
 
@@ -1171,7 +1468,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>World AIDS Day</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>World AIDS Day</title>,MOTIONS,13,1,speech
 "Siewert, Sen Rachel",AG,2013-12-03,"
 
 
@@ -1233,7 +1530,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>International Day of People with Disability</title>,MOTIONS,15,1
+",Senate,<title>MOTIONS</title>,<title>International Day of People with Disability</title>,MOTIONS,15,1,speech
 "Moore, Sen Claire",ALP,2013-12-03,"
 
 
@@ -1255,7 +1552,7 @@ Senator Abetz:
 
 The DEPUTY PRESIDENT:  There has been an objection, so that motion cannot be taken as formal.
 
-",Senate,<title>MOTIONS</title>,<title>Reference</title>,MOTIONS,15,2
+",Senate,<title>MOTIONS</title>,<title>Reference</title>,MOTIONS,15,2,speech
 "Hanson-Young, Sen Sarah",AG,2013-12-03,"
 
 
@@ -1281,7 +1578,7 @@ That the Senate—
 
 (c) does not accept the claims of public interest immunity made by the Minister in respect of the documents ordered by the Senate to be tabled, or the grounds for making these claims.
 
-",Senate,<title>DOCUMENTS</title>,<title>Asylum Seekers</title>,DOCUMENTS,16,1
+",Senate,<title>DOCUMENTS</title>,<title>Asylum Seekers</title>,DOCUMENTS,16,1,speech
 "Cash, Sen Michaelia",LP,2013-12-03,"
 
 
@@ -1303,7 +1600,7 @@ Senator CASH:
 
 The DEPUTY PRESIDENT:  The question is that the motion moved by Senator Hanson-Young be agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Asylum Seekers</title>,DOCUMENTS,16,1
+",Senate,<title>DOCUMENTS</title>,<title>Asylum Seekers</title>,DOCUMENTS,16,1,speech
 "Hanson-Young, Sen Sarah",AG,2013-12-03,"
 
 
@@ -1329,7 +1626,7 @@ That the Senate—
 
 (c) does not accept the claims of public interest immunity made by the Minister in respect of the documents ordered by the Senate to be tabled, or the grounds for making these claims.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2,speech
 "Cash, Sen Michaelia",LP,2013-12-03,"
 
 
@@ -1351,7 +1648,7 @@ Senator CASH:
 
 The DEPUTY PRESIDENT:  The question is that the motion moved by Senator Hanson-Young be agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2,speech
 "Milne, Sen Christine",AG,2013-12-03,"
 
 
@@ -1384,7 +1681,7 @@ Different options for Senate voting, with particular reference to:
 
 The DEPUTY PRESIDENT:  The question is that the motion moved by Senator Milne be agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Electoral Matters Committee</title>,COMMITTEES,17,1
+",Senate,<title>COMMITTEES</title>,<title>Electoral Matters Committee</title>,COMMITTEES,17,1,speech
 "Milne, Sen Christine",AG,2013-12-03,"
 
 
@@ -1417,7 +1714,7 @@ Different options for Senate voting, with particular reference to:
 
 The DEPUTY PRESIDENT:  The question is that the motion moved by Senator Milne be agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,17,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,17,2,speech
 "Rhiannon, Sen Lee",AG,2013-12-03,"
 
 
@@ -1465,7 +1762,7 @@ That the Senate—
 
 The DEPUTY PRESIDENT:  The question is that the motion moved by Senator Rhiannon be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Political Donations</title>,MOTIONS,18,1
+",Senate,<title>MOTIONS</title>,<title>Political Donations</title>,MOTIONS,18,1,speech
 "Bernardi, Sen Cory (The ACTING DEPUTY PRESIDENT)",LP,2013-12-03,"
 
 
@@ -1498,7 +1795,7 @@ More than the number of senators required by the standing orders having risen in
 
 The ACTING DEPUTY PRESIDENT:  I understand that informal arrangements have been made to allocate specific times to each of the speakers in today’s debate. With the concurrence of the Senate, I shall ask the clerks to set the clock accordingly.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Education Funding</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Education Funding</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Carr, Sen Kim",ALP,2013-12-03,"
 
 
@@ -1536,7 +1833,7 @@ We see a sharp contrast in approach by this government as opposed to the previou
 
 Why would a state government walk away from that level of investment by the Commonwealth? The simple reason is that under Labor they were required to spend more money themselves and under this government they are able to walk away. They do not have to maintain commitment, as they say they lost the command-and-control features of the program—by which they mean that states will be able to turn their back on Australian students and they will not have to have any accountability, they will not have to maintain effort, and while the Commonwealth pours money into the bucket from the top the states can rip it out from the bottom. It is the age-old question of the way in which the education system in this country has operated. The states seek to shift their costs to the Commonwealth; the states refuse to maintain effort unless they are required to as a condition of funding. That has been the basis of the state schools grants bills in this Senate for as long as I have been here. That principle of conditionality of funding has been a principle of schools funding for a very, very long time because it was necessary. But what has happened under this government? There is a movement away—a movement to allow conservative governments around this country to walk away from any social or economic commitment to justice in any way. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Education Funding</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Education Funding</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Boyce, Sen Sue",LP,2013-12-03,"
 
 
@@ -1586,7 +1883,7 @@ are committed to revitalising front line services for families and this federal 
 
 It is a shame that there is so much spite, I think, in the opposition when they should simply be supporting this wonderful scheme.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Education Funding</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Education Funding</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Wright, Sen Penny",AG,2013-12-03,"
 
 
@@ -1633,7 +1930,7 @@ What is truly poor form is the constant politicking of this government when it c
 
 As long-term advocates of universal access to high-quality education everywhere, for every child, the Australian Greens welcomed the Gonski review of funding for schooling. We supported the Better Schools Plan, on the basis that its accountability mechanisms and other key elements that the review recommended could be implemented more robustly. We will continue to advocate for funding to be distributed on the basis of need, with a baseline amount for every student in every school in every sector. We also know there have to be loadings on the basis of factors that are known to be associated with disadvantage: low socioeconomic status, Indigenous status, remoteness, school size and disability. Sadly and dispiritingly, it is clearly impossible to trust this government on education funding, because it is delivering a system where there is no national funding model, and we will continue to have a system where some Australian kids are more equal than others.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Education Funding</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Education Funding</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Faulkner, Sen John",ALP,2013-12-03,"
 
 
@@ -1713,7 +2010,7 @@ Now we know that Commonwealth funding is to be provided to state and territory g
 
 Mr Pyne told us all that he had 'a good day in the office' yesterday. That is what he said: 'I had a good day in the office yesterday.' I have got to say, and I am sure you would agree with me, Mr Acting Deputy President, that it looked a shocker to me. This is a sorry story of incompetence, of bungling and of deceit. I finish by awarding Mr Pyne, as Australia's education minister, an emphatic fail, an emphatic F minus. Yes, he must do better, as is written on so many school report cards. But, no, I do not like our chances.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Education Funding</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Education Funding</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Fawcett, Sen David",LP,2013-12-03,"
 
 
@@ -1751,7 +2048,7 @@ Socialism is all about central government controlling everything that happens. W
 
 In South Australia, St Patrick's Technical College, which started its life as an Australian technical college under the Howard government, has a board which is run by local industry and parents so that the curriculum and the whole way it runs is targeted to the real opportunities and the educational and employment outcomes that are needed for those young people to get jobs. In April this year, they had their 500th young person get an apprenticeship with local industry. Why? Because industry and parents have a voice in how that runs. So that local control is not just educating for the sake of educating, it is educating with a focus on outcomes. It gives these young people a real opportunity in life. The coalition is about funding certainty and real outcomes.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Education Funding</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Education Funding</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Cameron, Sen Doug",ALP,2013-12-03,"
 
 
@@ -1771,7 +2068,7 @@ We have to get a position where we understand what this government is doing. It 
 
 Another headline from TheAge reads 'Going, going, Gonski: report is no longer found in online search'. The government has removed the Gonski report from government websites. The Australian Financial Review says, 'Reverse double backflip but no safe landing'. That was from Laura Tingle. I think it says it all. Actually, I don't think Laura Tingle, with all her expertise, has got it right. I think they will have to come up with a new name for this backflip, because it is the most complex, convoluted backflip you have ever seen and there will be no safe landing because the public are onto the coalition. They know that this is about ripping off from the public school system, they know this is about destroying Gonski. You will pay a price for this. You will pay a heavy price for this backflip, the lies and the awful position that you have adopted on Gonski.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Education Funding</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Education Funding</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Kroger, Sen Helen",LP,2013-12-03,"
 
 
@@ -1842,7 +2139,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Fawcett
 ):  Order! The time for the discussion has expired.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Education Funding</title>,MATTERS OF PUBLIC IMPORTANCE,19,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Education Funding</title>,MATTERS OF PUBLIC IMPORTANCE,19,1,speech
 "Kroger, Sen Helen",LP,2013-12-03,"
 
 
@@ -1853,7 +2150,7 @@ Senator KROGER
 
 Ordered that the document be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Education and Employment Legislation Committee</title>,COMMITTEES,20,1
+",Senate,<title>COMMITTEES</title>,<title>Education and Employment Legislation Committee</title>,COMMITTEES,20,1,speech
 "Kroger, Sen Helen",LP,2013-12-03,"
 
 
@@ -1864,7 +2161,7 @@ Senator KROGER
 
 Ordered that the document be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Corrigenda to Report</title>,COMMITTEES,20,2
+",Senate,<title>COMMITTEES</title>,<title>Corrigenda to Report</title>,COMMITTEES,20,2,speech
 "Fawcett, Sen David (The ACTING DEPUTY PRESIDENT)",LP,2013-12-03,"
 
 
@@ -1879,7 +2176,7 @@ Senator Fawcett
 17:04
 ):  The President has received a letter from a party leader nominating senators to be members of committees.
 
-",Senate,<title>COMMITTEES</title>,"<title>National Disability Insurance Scheme Committee, National Broadband Network Select Committee</title>",COMMITTEES,22,1
+",Senate,<title>COMMITTEES</title>,"<title>National Disability Insurance Scheme Committee, National Broadband Network Select Committee</title>",COMMITTEES,22,1,speech
 "Payne, Sen Marise",LP,2013-12-03,"
 
 
@@ -1899,7 +2196,7 @@ That—
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,"<title>National Disability Insurance Scheme Committee, National Broadband Network Select Committee</title>",COMMITTEES,22,1
+",Senate,<title>COMMITTEES</title>,"<title>National Disability Insurance Scheme Committee, National Broadband Network Select Committee</title>",COMMITTEES,22,1,speech
 "Fawcett, Sen David (The ACTING DEPUTY PRESIDENT)",LP,2013-12-03,"
 
 
@@ -1914,7 +2211,7 @@ Senator Fawcett
 17:04
 ):  The President has received a letter from a party leader nominating senators to be members of committees.
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,22,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,22,2,speech
 "Payne, Sen Marise",LP,2013-12-03,"
 
 
@@ -1934,7 +2231,7 @@ That—
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,22,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,22,2,speech
 "Payne, Sen Marise",LP,2013-12-03,"
 
 
@@ -1951,7 +2248,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,"<title>Grape and Wine Legislation Amendment (Australian Grape and Wine Authority) Bill 2013, Primary Industries (Customs) Charges Amendment (Australian Grape and Wine Authority) Bill 2013, Primary Industries (Excise) Levies Amendment (Australian Grape and Wine Authority) Bill 2013</title>",BILLS,23,1
+",Senate,<title>BILLS</title>,"<title>Grape and Wine Legislation Amendment (Australian Grape and Wine Authority) Bill 2013, Primary Industries (Customs) Charges Amendment (Australian Grape and Wine Authority) Bill 2013, Primary Industries (Excise) Levies Amendment (Australian Grape and Wine Authority) Bill 2013</title>",BILLS,23,1,speech
 "Payne, Sen Marise",LP,2013-12-03,"
 
 
@@ -2130,7 +2427,7 @@ Senator PAYNE:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>BILLS</title>,"<title>Grape and Wine Legislation Amendment (Australian Grape and Wine Authority) Bill 2013, Primary Industries (Customs) Charges Amendment (Australian Grape and Wine Authority) Bill 2013, Primary Industries (Excise) Levies Amendment (Australian Grape and Wine Authority) Bill 2013</title>",BILLS,23,1
+",Senate,<title>BILLS</title>,"<title>Grape and Wine Legislation Amendment (Australian Grape and Wine Authority) Bill 2013, Primary Industries (Customs) Charges Amendment (Australian Grape and Wine Authority) Bill 2013, Primary Industries (Excise) Levies Amendment (Australian Grape and Wine Authority) Bill 2013</title>",BILLS,23,1,speech
 "Payne, Sen Marise",LP,2013-12-03,"
 
 
@@ -2147,7 +2444,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,23,2,speech
 "Moore, Sen Claire",ALP,2013-12-03,"
 
 
@@ -2253,7 +2550,7 @@ It seems to me that we have heard the terms 'overregulation' and 'red tape' many
 
 We note that this issue is of great importance. It demands greater scrutiny by the parliament, as it demands greater engagement of the people at whom this legislation is directed. Those people must have the chance to ensure that the regulation put through does the job we expect and organisations can feel part of it, not punished and overregulated but not respected for the efforts they have already made.
 
-",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,24,1
+",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,24,1,speech
 "Abetz, Sen Eric",LP,2013-12-03,"
 
 
@@ -2352,7 +2649,7 @@ Senator ABETZ:
 
 The current national vice-president of the Australian Labor Party has been caught up in the latest slush fund allegations. It is endemic; it is corrupt. Australia deserves to be rid of it. That is what we campaigned on, that is what we got a mandate for and that is why I encourage the Labor Party to search their souls and say: 'Enough of this corruption. Let's get rid of it once and for all and clean up the mess.' (Time expired)
 
-",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,24,1
+",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,24,1,speech
 "Cameron, Sen Doug",ALP,2013-12-03,"
 
 
@@ -2470,7 +2767,7 @@ I do not have time to go through every point they raise, but they make point aft
 
 So that is the AiG, the Pharmacy Guild of Australia, the ACCI and the Master Plumbers. Let me tell you, when we have a further hearing into this the employer organisations will be queuing up to say you cannot and should not treat these registered organisations as criminal organisations, you should not treat them as organisations that do not do the right thing—because they can see that, overwhelmingly, the employee organisations in this country, the union movement, are made up of people who do the right thing. This is an ideological agenda and we should support this proposition.
 
-",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,24,1
+",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,24,1,speech
 "Siewert, Sen Rachel",AG,2013-12-03,"
 
 
@@ -2481,7 +2778,7 @@ Senator SIEWERT
 
 So the Leader of the Government in the Senate should be articulating correctly what really happened during that time. Perhaps he could go and count those bills that were referred. I have done a quick check of just one of those committees, the committee that is very close to my heart, the community affairs committee, and a large number of bills were referred to that particular committee, which was effectively functioning as a references committee as well. So, when he is laying into the Greens and the opposition, he really should make sure that he gets those facts correct.
 
-",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,24,1
+",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,24,1,speech
 "McKenzie, Sen Bridget",Nats,2013-12-03,"
 
 
@@ -2555,7 +2852,7 @@ Senator Nash:
 Senator McKENZIE:
   He cannot get on with the new paradigm, Senator Nash, that he is no longer in government. He may be on the front bench, but it is a shadow of his former position. He actually put in a new reference to do exactly what this reference seeks to do, and we will be debating that tomorrow, I am sure. The points he goes to have all been dealt with in the inquiry last week. They were fully prosecuted by Senator Cameron; I am sure if he reads the Hansard he will see that we do not need to go back. He has all the answers. Labor and Greens, this is an abuse of process and it should not happen.
 
-",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,24,1
+",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,24,1,speech
 "Lines, Sen Susan",ALP,2013-12-03,"
 
 
@@ -2605,7 +2902,7 @@ AiG, a longstanding and well-respected organisation, do not see any need for thi
 
 Given the attack that we are getting from the opposition, we should look at corporations. We have had some staggering corporation crashes in this country, but it is just: 'Oh well; it's just another corporation; let's not worry about it.' Why don't I ever hear Senator Abetz talking about One.Tel or ABC, which crashed spectacularly? That is why we need a references committee inquiry, so that we can hear from the ordinary folk managing our employer organisations and our trade unions.
 
-",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,24,1
+",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,24,1,speech
 "Kroger, Sen Helen",LP,2013-12-03,"
 
 
@@ -2625,7 +2922,7 @@ We hear—and I just heard the senator discussing it when I came into the chambe
 
 Debate interrupted. 
 
-",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,24,1
+",Senate,<title>COMMITTEES</title>,<title>Education and Employment References Committee</title>,COMMITTEES,24,1,speech
 "Moore, Sen Claire",ALP,2013-12-03,"
 
 
@@ -2731,7 +3028,7 @@ It seems to me that we have heard the terms 'overregulation' and 'red tape' many
 
 We note that this issue is of great importance. It demands greater scrutiny by the parliament, as it demands greater engagement of the people at whom this legislation is directed. Those people must have the chance to ensure that the regulation put through does the job we expect and organisations can feel part of it, not punished and overregulated but not respected for the efforts they have already made.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,24,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,24,2,speech
 "Abetz, Sen Eric",LP,2013-12-03,"
 
 
@@ -2830,7 +3127,7 @@ Senator ABETZ:
 
 The current national vice-president of the Australian Labor Party has been caught up in the latest slush fund allegations. It is endemic; it is corrupt. Australia deserves to be rid of it. That is what we campaigned on, that is what we got a mandate for and that is why I encourage the Labor Party to search their souls and say: 'Enough of this corruption. Let's get rid of it once and for all and clean up the mess.' (Time expired)
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,24,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,24,2,speech
 "Cameron, Sen Doug",ALP,2013-12-03,"
 
 
@@ -2948,7 +3245,7 @@ I do not have time to go through every point they raise, but they make point aft
 
 So that is the AiG, the Pharmacy Guild of Australia, the ACCI and the Master Plumbers. Let me tell you, when we have a further hearing into this the employer organisations will be queuing up to say you cannot and should not treat these registered organisations as criminal organisations, you should not treat them as organisations that do not do the right thing—because they can see that, overwhelmingly, the employee organisations in this country, the union movement, are made up of people who do the right thing. This is an ideological agenda and we should support this proposition.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,24,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,24,2,speech
 "Siewert, Sen Rachel",AG,2013-12-03,"
 
 
@@ -2959,7 +3256,7 @@ Senator SIEWERT
 
 So the Leader of the Government in the Senate should be articulating correctly what really happened during that time. Perhaps he could go and count those bills that were referred. I have done a quick check of just one of those committees, the committee that is very close to my heart, the community affairs committee, and a large number of bills were referred to that particular committee, which was effectively functioning as a references committee as well. So, when he is laying into the Greens and the opposition, he really should make sure that he gets those facts correct.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,24,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,24,2,speech
 "McKenzie, Sen Bridget",Nats,2013-12-03,"
 
 
@@ -3033,7 +3330,7 @@ Senator Nash:
 Senator McKENZIE:
   He cannot get on with the new paradigm, Senator Nash, that he is no longer in government. He may be on the front bench, but it is a shadow of his former position. He actually put in a new reference to do exactly what this reference seeks to do, and we will be debating that tomorrow, I am sure. The points he goes to have all been dealt with in the inquiry last week. They were fully prosecuted by Senator Cameron; I am sure if he reads the Hansard he will see that we do not need to go back. He has all the answers. Labor and Greens, this is an abuse of process and it should not happen.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,24,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,24,2,speech
 "Lines, Sen Susan",ALP,2013-12-03,"
 
 
@@ -3083,7 +3380,7 @@ AiG, a longstanding and well-respected organisation, do not see any need for thi
 
 Given the attack that we are getting from the opposition, we should look at corporations. We have had some staggering corporation crashes in this country, but it is just: 'Oh well; it's just another corporation; let's not worry about it.' Why don't I ever hear Senator Abetz talking about One.Tel or ABC, which crashed spectacularly? That is why we need a references committee inquiry, so that we can hear from the ordinary folk managing our employer organisations and our trade unions.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,24,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,24,2,speech
 "Kroger, Sen Helen",LP,2013-12-03,"
 
 
@@ -3103,7 +3400,7 @@ We hear—and I just heard the senator discussing it when I came into the chambe
 
 Debate interrupted. 
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,24,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,24,2,speech
 "Moore, Sen Claire",ALP,2013-12-03,"
 
 
@@ -3132,7 +3429,7 @@ There are so many issues in this annual report and I will come back to them in t
 
 Leave granted; debate adjourned.
 
-",Senate,<title>DOCUMENTS</title>,<title>Australian Institute of Family Studies</title>,DOCUMENTS,25,1
+",Senate,<title>DOCUMENTS</title>,<title>Australian Institute of Family Studies</title>,DOCUMENTS,25,1,speech
 "Brown, Sen Carol",ALP,2013-12-03,"
 
 
@@ -3191,4 +3488,4 @@ An extremely passionate West Hobart citizen who is making the world a more peace
 
 Joan's acceptance speech was truly humble, but she was pleased and very proud of her students for what they had been able to achieve. Together with Senator Lin Thorp, I would like to say that Joan Fitz-Nead has been an inspiration to us for over 30 years. Joan has never wavered from her determination that every child, regardless of their circumstances, is respected and supported. She has been a champion of all who need support, whether they are living with a disability, coming from a low socioeconomic background or coming here as refugees. She believes in justice and equity. She talks the talk and is a treasure with a wicked sense of humour. I would particularly like to put on record my thanks to the students from Goulburn Street Primary School year 5/6 Harrison who took Joan's words of wisdom of never giving up and used them to honour a great woman. I thank them.
 
-",Senate,<title>ADJOURNMENT</title>,"<title>Fitz-Nead, Ms Joan, AM</title>",ADJOURNMENT,27,1
+",Senate,<title>ADJOURNMENT</title>,"<title>Fitz-Nead, Ms Joan, AM</title>",ADJOURNMENT,27,1,speech

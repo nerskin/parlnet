@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Gray, Gary, MP",ALP,2014-03-04,"
 
 
@@ -33,7 +33,7 @@ Australia has been well served in the office of Governor-General over the 113 ye
 
 I of course would like again to congratulate General Cosgrove and his wife, Lynne, on this momentous appointment and to thank outgoing Governor-General Bryce—and her husband, Michael, for the role that he has played in allowing the Governor-General to perform the work that she has performed in the interests of all Australians wherever required to do so. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Governor-General Amendment (Salary) Bill 2014</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Governor-General Amendment (Salary) Bill 2014</title>,BILLS,1,1,speech
 "Irons, Steve, MP",LP,2014-03-04,"
 
 
@@ -68,7 +68,7 @@ I conclude by making some general remarks about the Governor-General designate, 
 
 In 2000, General Cosgrove was appointed Land Force Commander and then promoted to Chief of Army. In 2001, he was named Australian of the Year. In 2002, he was promoted to full General and made Chief of the Defence Force. As the Prime Minister said in his statement on the usually behind-the-scenes role of the Crown, it is 'to be consulted, to encourage and to warn'—as in Bagehot's phrase. We are certain that General Cosgrove will carry out his duties as the Queen's representative in Australia with vigour and integrity. I would like to thank the Parliamentary Library for their research on this issue and help with this speech. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Governor-General Amendment (Salary) Bill 2014</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Governor-General Amendment (Salary) Bill 2014</title>,BILLS,1,1,speech
 "Brodtmann, Gai, MP",ALP,2014-03-04,"
 
 
@@ -103,7 +103,7 @@ Across my life, I've been inspired by women's work and women's leadership.
 
 Today I would like to say to the Governor-General that we have been inspired by your work and your leadership. Thank you for all you have done for this country, especially for its women, not only in your five years as Governor-General but also throughout your life and career.
 
-",HoR,<title>BILLS</title>,<title>Governor-General Amendment (Salary) Bill 2014</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Governor-General Amendment (Salary) Bill 2014</title>,BILLS,1,1,speech
 "Briggs, Jamie, MP",LP,2014-03-04,"
 
 
@@ -135,7 +135,7 @@ Bill read a second time.
 
 Message from the Governor-General recommending appropriation announced.
 
-",HoR,<title>BILLS</title>,<title>Governor-General Amendment (Salary) Bill 2014</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Governor-General Amendment (Salary) Bill 2014</title>,BILLS,1,1,speech
 "Briggs, Jamie, MP",LP,2014-03-04,"
 
 
@@ -152,7 +152,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Governor-General Amendment (Salary) Bill 2014</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Governor-General Amendment (Salary) Bill 2014</title>,BILLS,1,1,speech
 "Gray, Gary, MP",ALP,2014-03-04,"
 
 
@@ -187,7 +187,7 @@ Australia has been well served in the office of Governor-General over the 113 ye
 
 I of course would like again to congratulate General Cosgrove and his wife, Lynne, on this momentous appointment and to thank outgoing Governor-General Bryce—and her husband, Michael, for the role that he has played in allowing the Governor-General to perform the work that she has performed in the interests of all Australians wherever required to do so. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2,speech
 "Irons, Steve, MP",LP,2014-03-04,"
 
 
@@ -222,7 +222,7 @@ I conclude by making some general remarks about the Governor-General designate, 
 
 In 2000, General Cosgrove was appointed Land Force Commander and then promoted to Chief of Army. In 2001, he was named Australian of the Year. In 2002, he was promoted to full General and made Chief of the Defence Force. As the Prime Minister said in his statement on the usually behind-the-scenes role of the Crown, it is 'to be consulted, to encourage and to warn'—as in Bagehot's phrase. We are certain that General Cosgrove will carry out his duties as the Queen's representative in Australia with vigour and integrity. I would like to thank the Parliamentary Library for their research on this issue and help with this speech. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2,speech
 "Brodtmann, Gai, MP",ALP,2014-03-04,"
 
 
@@ -257,7 +257,7 @@ Across my life, I've been inspired by women's work and women's leadership.
 
 Today I would like to say to the Governor-General that we have been inspired by your work and your leadership. Thank you for all you have done for this country, especially for its women, not only in your five years as Governor-General but also throughout your life and career.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2,speech
 "Briggs, Jamie, MP",LP,2014-03-04,"
 
 
@@ -289,7 +289,7 @@ Bill read a second time.
 
 Message from the Governor-General recommending appropriation announced.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2,speech
 "Watts, Tim, MP",ALP,2014-03-04,"
 
 
@@ -303,7 +303,72 @@ The eating habits of Melbourne's west are ready for change. And who better to ch
 
 Members of my community including representatives of Victoria University, LeadWest, Maribyrnong City Council and the Macedon Ranges and North Western Melbourne Medicare Local have started a campaign to bring that pop-up kitchen to Melbourne's west. There is nowhere in Australia that would benefit more from the expertise of the Ministry of Food. We have both the need and the community infrastructure to make the Ministry of Food a success. We have world-class facilities in Victoria University's Footscray campus, where the kitchen could be based, close to the people who need it the most. So I say to people in Melbourne's west: join the campaign, like the Facebook page, tell your friends and help bring Jamie Oliver's pop-up kitchen to our community. Jamie Oliver, we are waiting for you. (Time expired)
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Ministry of Food Pop-Up Kitchen</title>,STATEMENTS BY MEMBERS,2,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Ministry of Food Pop-Up Kitchen</title>,STATEMENTS BY MEMBERS,2,1,speech
+"Shorten, Bill, MP",ALP,2014-03-04,"
+
+
+
+Mr SHORTEN
+
+ (
+Maribyrnong
+—
+Leader of the Opposition
+) (
+14:00
+):  My question is to the Prime Minister. The Prime Minister's proposed changes to the Qantas Sale Act means there will be no requirements for thousands of Qantas jobs, including maintenance workers, cabin crew, engineers and pilots, to remain in Australia. Prime Minister, how does exporting Qantas jobs to other countries help Qantas jobs in Australia?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Qantas</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Abbott, Tony, MP",LP,2014-03-04,"
+
+
+
+Mr ABBOTT
+
+ (
+Warringah
+—
+Prime Minister
+) (
+14:00
+):  I thank the Leader of the Opposition for his question. I can inform him that Qantas will still be subject to the Air Navigation Act. The Air Navigation Act provides that to be a designated national carrier an airline has to be 51 per cent Australian owned; the chairperson has to be Australian; the majority of the board has to be Australian; and the principal base of operations has to be Australia.
+
+
+The point I want to make in addition, though, is that by continuing to want to have Qantas shackled by part 3 of the sale act, what the Leader of the Opposition is effectively doing is giving Virgin a better deal than Qantas. I am all in favour of Virgin. I think it is a fine airline, but why should Virgin be given an advantage in running its business that Qantas does not? As long as the Leader of the Opposition persists in his opposition to what the government is proposing, he is giving Virgin a better deal than Qantas.
+
+
+
+
+Mr Champion:
+  Maybe they can be the national carrier then.
+
+
+
+The SPEAKER:  The member for Wakefield.
+
+
+
+
+Mr ABBOTT:
+  Why would any Australian want to see the big flying kangaroo disadvantaged? As long as the Leader of the Opposition persists in his current position—and we know he does change his mind quite often—he is giving Virgin a better deal than Qantas and that is just not right.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Qantas</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"King, Catherine, MP",ALP,2014-03-04,"
+
+
+
+Ms KING
+ (Ballarat) (15:07):  My question is to the Prime Minister. I refer to the Prime Minister's statement during question time last Wednesday that the Assistant Minister for Health has done nothing wrong. If this is the case, will the Prime Minister release the document detailing how the minister's former chief of staff's conflict of interest was to be managed? If not, why not?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Assistant Minister for Health: Staffing</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Abbott, Tony, MP",LP,2014-03-04,"
+
+
+
+Mr ABBOTT
+ (Warringah—Prime Minister) (15:07):  This government, like all governments, respects the confidentiality of this process and it is not in the business of revealing personal information about people.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Assistant Minister for Health: Staffing</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
 "Bishop, Bronwyn, MP",LP,2014-03-04,"
 
 
@@ -323,7 +388,7 @@ I call upon those honourable members who approve of the proposed discussion to r
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Shorten, Bill, MP",ALP,2014-03-04,"
 
 
@@ -408,7 +473,7 @@ They have not fought for any jobs. When will it end?
 
 The problem with the government is that they are zealots—they are extremists. They have never seen an Aussie job they will fight for. The world is too hard. They tell us about level playing fields, but world aviation is not a level playing field. Most aviation businesses in the world have government support. We have these single-minded extremists who will never fight for a job in Australia, so will the last Abbott government minister on the last job turn the lights out? They will not fight for jobs, they will not stand up for Australian aviation, they know that they have taken too long to get to this point and they know their solution is about politics, it is not about jobs. Shame!
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Hartsuyker, Luke, MP",Nats,2014-03-04,"
 
 
@@ -507,7 +572,7 @@ Mr HARTSUYKER:
 
 We know that the Labor Party have in the past considered the issue of changing the foreign ownership restrictions; but when the idea comes from the government, what do they do? They immediately oppose it. They know the repeal of the carbon tax would be good for the aviation industry, but what do they do? They oppose the repeal of the carbon tax. They know it is costing jobs. They know it is costing the people that they purport to represent, yet still they continue with this old protectionist dogma. Protection is no substitute for an efficient airline industry run on a competitive basis. I look forward to the members opposite changing their view, seeing the light, as it were, getting behind the government and supporting our proposed change so that we can have a strong, efficient Qantas into the future, so that the aviation industry can prosper and so that the kangaroo can continue to fly. 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Albanese, Anthony, MP",ALP,2014-03-04,"
 
 
@@ -549,7 +614,7 @@ That is what he had to say at that time. So do not come here and talk to us abou
 
 The DEPUTY SPEAKER:  Before I call the next speaker I might remind both sides of the chamber to refer their comments through the chair, not at the chair. I think I have some credibility! I did not want to pull you up in full flight, member for Grayndler, but it is just a timely reminder to both sides of the chamber. It is a common habit.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Gambaro, Teresa, MP",LP,2014-03-04,"
 
 
@@ -572,7 +637,7 @@ Twelve years ago Labor said that they were on the record as having an open mind 
 
 The changes being proposed by the government are the best policy response to the difficulties that are being faced not just by Qantas but by the aviation industry in this country as a whole. We need to take an important step forward now. Now is the time to unshackle Qantas from the Qantas Sale Act. This opposition should move out of the way and help the government to make Qantas more competitive so that they can operate in a truly international market. This is the path of the future of aviation for Australia.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Ellis, Kate, MP",ALP,2014-03-04,"
 
 
@@ -592,7 +657,7 @@ This morning I had the chance to speak to someone with a long and proud history 
 
 We do not expect the government to be able to protect every job in Australia. We are not saying that. What we are saying is that we expect the government to act to support workers who are in this situation and we are expect a government who will not make this uncertainty even greater. The new member for Hindmarsh has dismally failed another test. He campaigned citing job security as the biggest issue for his community. He is not wrong about that. But he did not tell the community that he intended to make it worse by voting to jeopardise even more local jobs. We come here with an obligation to fight for our communities, not to sit here mutely and blindly follow the Prime Minister as he threatens to send more of our local jobs offshore. I say to the member for Hindmarsh: if you were so willing to tell the local community what a big issue job security was before the election, I challenge you to stand up and explain directly to the Qantas workers in your electorate why you are going to use your vote to place their jobs at even greater jeopardy. I challenge you to go and visit them and tell them that face to face. It is not enough to say before the election that you care about jobs if you then come in here and use your situation to place in jeopardy the jobs of Qantas workers at Adelaide airport. I say to all of those opposite, but particularly to the member for Hindmarsh: you need to stand up when it counts for local workers. Your opportunity to stand up for airport workers will come, and you will be judged on how you respond.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Williams, Matt, MP",LP,2014-03-04,"
 
 
@@ -612,7 +677,7 @@ Better Labor Parties in previous decades have understood the need to make someti
 
 Unfortunately, the current opposition bears very little resemblance to those previous Labor governments. When we see an opportunity for structural reform, they see an opportunity simply for a cheap headline. When you are dealing with a matter as important as the future of the Australian aviation industry, it is absolutely critical not to play politics with it but to do the right thing by the aviation industry and Qantas. Get rid of the carbon tax and get the playing field level; that is how you generate jobs.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "MacTiernan, Alannah, MP",ALP,2014-03-04,"
 
 
@@ -635,7 +700,7 @@ We understand that the Air Navigation Act requires 51 per cent ownership, but we
 
 There are in fact 138 airlines around the world that are owned by governments— (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Williams, Matt, MP",LP,2014-03-04,"
 
 
@@ -652,7 +717,7 @@ My office has had discussions with an employer in the engineering section of Qan
 
 The government call on the opposition to back our changes to help Qantas, whether it be the sales tax, sorry, the carbon tax—I have taxes on my mind when I talk about the opposition—or the changes to part 3 of the Qantas Sale Act. We want to help Qantas navigate through these challenging times. We know that the carbon tax is a $106 million hit to Qantas, just as it is a $27 million hit to Virgin and other airlines. If the member for Adelaide were really sincere about saving jobs, helping the economy and helping Qantas, she would tell her colleagues to repeal the carbon tax and give Qantas that money so they can employ people and save jobs, not lose them. If Labor are really concerned about losing jobs overseas then do not disadvantage Australian companies. Lower taxes and help the consumers who at the moment are benefiting from competitive airfares and a viable aviation industry. Axe the carbon tax, amend the Qantas Sale Act and get out of the way and help Qantas.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Thistlethwaite, Matt, MP",ALP,2014-03-04,"
 
 
@@ -672,7 +737,7 @@ Qantas is the iconic Australian business, with the world's greatest safety recor
 
 This argument that they are unshackling Qantas is complete garbage. Qantas is allowed a level of foreign ownership of 49 per cent. The current level of foreign ownership of Qantas is 38 per cent. Foreigners can invest in Qantas at the moment. There are no restrictions at the moment because the level of foreign ownership is not at the maximum. The government are also saying that Qantas should be allowed to be split up, that Qantas should be allowed to divide its domestic and international businesses. Yesterday, they worked out that Qantas international needs to remain an Australian carrier and that a level of investment above 49 per cent is not allowed, but it is allowed for the domestic business. You can split it up and sell off the domestic business. The facts are these: Qantas domestic made a $57 million profit in the first half of this year. Those opposite want to allow Qantas to be split up and the profitable side of the business sold off to foreign investors, with jobs going overseas, whilst we have to maintain an unprofitable, international business here in Australia. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "McCormack, Michael, MP",Nats,2014-03-04,"
 
 
@@ -707,7 +772,7 @@ Mr McCORMACK:
 
 Rex was established in 2002 following the collapse of Ansett in September 2001 and is a merger of the regional passenger arms of Ansett, Hazelton and Kendell. Rex does a fine job but is paying a lot of the profits in the carbon tax. I urge Labor to get on board with us and to remove this job-killing tax. 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Aviation Industry</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Neumann, Shayne, MP",ALP,2014-03-04,"
 
 
@@ -760,7 +825,7 @@ We stopped in 2004. The Greens, to their credit—and it is pretty hard for me, 
 
 The National Party, when they vote for this particular legislation, should ask themselves this question: 'Should we continue to take these donations?' If they want to take a principled and preventative health stand, if they want to stand up for the health of this country, and reduce the cost and burden of the chronic disease inflicted by this terrible product, they should do the right thing and cease to take these donations. I call on them, as they vote in favour of this legislation, to listen to their conscience, to think about doing the right thing, and to set the example, not just in their personal lives but also in their party lives, and stop taking these donations.
 
-",HoR,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2014, Customs Tariff Amendment (Tobacco) Bill 2014</title>",BILLS,11,1
+",HoR,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2014, Customs Tariff Amendment (Tobacco) Bill 2014</title>",BILLS,11,1,speech
 "Kelly, Craig, MP",LP,2014-03-04,"
 
 
@@ -837,7 +902,7 @@ The risk is that these illegal cigarettes that are coming into the country are l
 
 I support these bills. I support this parliament doing everything it can to drive down the smoking rates, and I accept that raising the price is a legitimate way of doing that; however, we must be careful. We must monitor this, we must look at it very carefully, and we must make sure that it is actually effective in the years to come in driving down the smoking rates. This legislation cannot simply be about raising revenue to pay down debt; it must truly be about driving down the smoking rate and continuing to reduce the number of Australians in this country smoking. Therefore, I support the bills and commend them to the House.
 
-",HoR,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2014, Customs Tariff Amendment (Tobacco) Bill 2014</title>",BILLS,11,1
+",HoR,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2014, Customs Tariff Amendment (Tobacco) Bill 2014</title>",BILLS,11,1,speech
 "Plibersek, Tanya, MP",ALP,2014-03-04,"
 
 
@@ -941,7 +1006,7 @@ It is terrific that the Liberal Party have finally been convinced to stop taking
 
 I have to say this is one of the things that I am proudest of in my time as health minister. This is a measure that will lead to fewer Australians smoking, and when we consider the toll, those 15½ thousand lives lost every year, 15½ thousand families who lose a loved one because of smoking-related illnesses, I cannot imagine a single other thing that was having this toll on the community, that had this death toll, being allowed to run unchecked in the way that some argue that, since tobacco is a legal product, it should be allowed to run unchecked.
 
-",HoR,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2014, Customs Tariff Amendment (Tobacco) Bill 2014</title>",BILLS,11,1
+",HoR,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2014, Customs Tariff Amendment (Tobacco) Bill 2014</title>",BILLS,11,1,speech
 "Stone, Dr Sharman, MP",LP,2014-03-04,"
 
 
@@ -988,7 +1053,7 @@ But I am asking in this debate that we now turn our spotlight on the consumption
 
 I commend this bill to the House. I think it is a very sensible way to go. We know that the costs of tobacco products do have an impact on their levels of consumption, just as they do with alcohol consumption, so I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2014, Customs Tariff Amendment (Tobacco) Bill 2014</title>",BILLS,11,1
+",HoR,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2014, Customs Tariff Amendment (Tobacco) Bill 2014</title>",BILLS,11,1,speech
 "Thistlethwaite, Matt, MP",ALP,2014-03-04,"
 
 
@@ -1026,7 +1091,7 @@ I have met very few people who have not been appreciative of the fact that they 
 
 Labor is committed to providing support for those seeking to quit smoking. In government we undertook a record investment in support programs coupled with appropriate price mechanisms when required. This staged increase in the excise and customs duty is an appropriate price mechanism to help Australians quit a deadly and addictive habit. It is an approach that is supported by the World Health Organization and by many anti-cancer campaigners. I commend the bill and the amendment to the House.
 
-",HoR,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2014, Customs Tariff Amendment (Tobacco) Bill 2014</title>",BILLS,11,1
+",HoR,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2014, Customs Tariff Amendment (Tobacco) Bill 2014</title>",BILLS,11,1,speech
 "Jones, Stephen, MP",ALP,2014-03-04,"
 
 
@@ -1055,7 +1120,7 @@ Over the last couple of weeks we have heard much in this House and the other pla
 
 This is important legislation. As I have said, it follows from policy initiatives that were brought forward by the previous, Labor, government, and we have a proud record in government of dealing with public health initiatives which are aimed at reducing the incidence of smoking. Our plain packaging legislation was another piece of legislation which originally did not enjoy the support of those opposite. It is now in place and, I hope, entrenched, having survived several legal challenges to its validity. It is this sort of action, this sort of leadership, that is needed if we are to tackle and succeed in ensuring that the scourge of the diseases caused by smoking are addressed. This parliament has a role in showing leadership on the issue. I commend the legislation to the House.
 
-",HoR,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2014, Customs Tariff Amendment (Tobacco) Bill 2014</title>",BILLS,11,1
+",HoR,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2014, Customs Tariff Amendment (Tobacco) Bill 2014</title>",BILLS,11,1,speech
 "Ciobo, Steven, MP",LP,2014-03-04,"
 
 
@@ -1099,7 +1164,7 @@ Original question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2014, Customs Tariff Amendment (Tobacco) Bill 2014</title>",BILLS,11,1
+",HoR,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2014, Customs Tariff Amendment (Tobacco) Bill 2014</title>",BILLS,11,1,speech
 "Ciobo, Steven, MP",LP,2014-03-04,"
 
 
@@ -1116,7 +1181,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2014, Customs Tariff Amendment (Tobacco) Bill 2014</title>",BILLS,11,1
+",HoR,<title>BILLS</title>,"<title>Excise Tariff Amendment (Tobacco) Bill 2014, Customs Tariff Amendment (Tobacco) Bill 2014</title>",BILLS,11,1,speech
 "Neumann, Shayne, MP",ALP,2014-03-04,"
 
 
@@ -1169,7 +1234,7 @@ We stopped in 2004. The Greens, to their credit—and it is pretty hard for me, 
 
 The National Party, when they vote for this particular legislation, should ask themselves this question: 'Should we continue to take these donations?' If they want to take a principled and preventative health stand, if they want to stand up for the health of this country, and reduce the cost and burden of the chronic disease inflicted by this terrible product, they should do the right thing and cease to take these donations. I call on them, as they vote in favour of this legislation, to listen to their conscience, to think about doing the right thing, and to set the example, not just in their personal lives but also in their party lives, and stop taking these donations.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2,speech
 "Kelly, Craig, MP",LP,2014-03-04,"
 
 
@@ -1246,7 +1311,7 @@ The risk is that these illegal cigarettes that are coming into the country are l
 
 I support these bills. I support this parliament doing everything it can to drive down the smoking rates, and I accept that raising the price is a legitimate way of doing that; however, we must be careful. We must monitor this, we must look at it very carefully, and we must make sure that it is actually effective in the years to come in driving down the smoking rates. This legislation cannot simply be about raising revenue to pay down debt; it must truly be about driving down the smoking rate and continuing to reduce the number of Australians in this country smoking. Therefore, I support the bills and commend them to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2,speech
 "Plibersek, Tanya, MP",ALP,2014-03-04,"
 
 
@@ -1350,7 +1415,7 @@ It is terrific that the Liberal Party have finally been convinced to stop taking
 
 I have to say this is one of the things that I am proudest of in my time as health minister. This is a measure that will lead to fewer Australians smoking, and when we consider the toll, those 15½ thousand lives lost every year, 15½ thousand families who lose a loved one because of smoking-related illnesses, I cannot imagine a single other thing that was having this toll on the community, that had this death toll, being allowed to run unchecked in the way that some argue that, since tobacco is a legal product, it should be allowed to run unchecked.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2,speech
 "Stone, Dr Sharman, MP",LP,2014-03-04,"
 
 
@@ -1397,7 +1462,7 @@ But I am asking in this debate that we now turn our spotlight on the consumption
 
 I commend this bill to the House. I think it is a very sensible way to go. We know that the costs of tobacco products do have an impact on their levels of consumption, just as they do with alcohol consumption, so I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2,speech
 "Thistlethwaite, Matt, MP",ALP,2014-03-04,"
 
 
@@ -1435,7 +1500,7 @@ I have met very few people who have not been appreciative of the fact that they 
 
 Labor is committed to providing support for those seeking to quit smoking. In government we undertook a record investment in support programs coupled with appropriate price mechanisms when required. This staged increase in the excise and customs duty is an appropriate price mechanism to help Australians quit a deadly and addictive habit. It is an approach that is supported by the World Health Organization and by many anti-cancer campaigners. I commend the bill and the amendment to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2,speech
 "Jones, Stephen, MP",ALP,2014-03-04,"
 
 
@@ -1464,7 +1529,7 @@ Over the last couple of weeks we have heard much in this House and the other pla
 
 This is important legislation. As I have said, it follows from policy initiatives that were brought forward by the previous, Labor, government, and we have a proud record in government of dealing with public health initiatives which are aimed at reducing the incidence of smoking. Our plain packaging legislation was another piece of legislation which originally did not enjoy the support of those opposite. It is now in place and, I hope, entrenched, having survived several legal challenges to its validity. It is this sort of action, this sort of leadership, that is needed if we are to tackle and succeed in ensuring that the scourge of the diseases caused by smoking are addressed. This parliament has a role in showing leadership on the issue. I commend the legislation to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2,speech
 "Ciobo, Steven, MP",LP,2014-03-04,"
 
 
@@ -1508,7 +1573,7 @@ Original question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2,speech
 "Dreyfus, Mark, MP",ALP,2014-03-04,"
 
 
@@ -1534,4 +1599,4 @@ ATSILSs are not the only community legal services to suffer under the Abbott gov
 
 For all his righteous bluster, the Attorney-General is to be judged on his actions. Whatever he says about the rule of law, he has shown he will not support the community legal organisations which, every day, across Australia, perform the difficult and often unglamorous but vital work of making sure that everyone in our society can access justice. Perhaps if Senator Brandis spent less time requisitioning taxpayer funded bookshelves to house his taxpayer funded personal library and more time visiting ATSILS and other community legal centres, he would understand just how much damage his cuts are doing to access to justice in our nation.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Legal Aid</title>,ADJOURNMENT,12,1
+",HoR,<title>ADJOURNMENT</title>,<title>Legal Aid</title>,ADJOURNMENT,12,1,speech

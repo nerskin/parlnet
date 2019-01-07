@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2018-03-19,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (10:01):  I remind senators that the question may be put on any proposal at the request of any senator.
 
-",Senate,<title>COMMITTEES</title>,"<title>Electoral Matters Committee, Environment and Communications References Committee, Foreign Affairs, Defence and Trade References Committee</title>",COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,"<title>Electoral Matters Committee, Environment and Communications References Committee, Foreign Affairs, Defence and Trade References Committee</title>",COMMITTEES,1,1,speech
 "PRESIDENT, The",,2018-03-19,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (10:01):  I remind senators that the question may be put on any proposal at the request of any senator.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "PRESIDENT, The",,2018-03-19,"
 
 
@@ -22,7 +22,7 @@ The PRESIDENT
 The PRESIDENT
  (10:01):  I table orders from the Court of Disputed Returns declaring Timothy Storer duly elected as a senator for South Australia.
 
-",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>South Australia</title>,PARLIAMENTARY REPRESENTATION,2,1
+",Senate,<title>PARLIAMENTARY REPRESENTATION</title>,<title>South Australia</title>,PARLIAMENTARY REPRESENTATION,2,1,speech
 "Birmingham, Sen Simon",LP,2018-03-19,"
 
 
@@ -30,7 +30,7 @@ The PRESIDENT
 Senator BIRMINGHAM
  (South Australia—Minister for Education and Training and Manager of Government Business in the Senate) (10:06):  I table documents relating to the order for the production of documents concerning the National Partnership Agreement on Remote Housing.
 
-",Senate,<title>DOCUMENTS</title>,<title>Indigenous Housing</title>,DOCUMENTS,3,1
+",Senate,<title>DOCUMENTS</title>,<title>Indigenous Housing</title>,DOCUMENTS,3,1,speech
 "Birmingham, Sen Simon",LP,2018-03-19,"
 
 
@@ -38,7 +38,7 @@ Senator BIRMINGHAM
 Senator BIRMINGHAM
  (South Australia—Minister for Education and Training and Manager of Government Business in the Senate) (10:06):  I table documents relating to the order for the production of documents concerning the National Partnership Agreement on Remote Housing.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,3,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,3,2,speech
 "Di Natale, Sen Richard",AG,2018-03-19,"
 
 
@@ -106,7 +106,7 @@ Well, we have a plan. We want Australia to run on 100 per cent renewable energy.
 
 I urge all members of this place—and, in particular, the ALP and the crossbench—to show some courage in supporting this bill. This is our opportunity to stake what it means to have a long-term future for future generations. This is our opportunity to say: 'The past is the past, and we understand what a 21st-century modern economy looks like. It's one that's powered by renewable energy. It's one that looks after people. It's one that ensures that, in any transition, no matter how difficult, those workers are looked after.' This is an opportunity for the Labor Party and the crossbench to take a stand against the dangerous Turnbull government's obsession with coal, and to ensure that we lay out a clear path for this nation.
 
-",Senate,<title>BILLS</title>,<title>Coal-Fired Power Funding Prohibition Bill 2017</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Coal-Fired Power Funding Prohibition Bill 2017</title>,BILLS,5,1,speech
 "Macdonald, Sen Ian",LP,2018-03-19,"
 
 
@@ -162,7 +162,7 @@ Do I think that perhaps today, after the flogging the Greens have received in th
 
 This bill, which seeks to prohibit forever investment in coal-fired power stations, is just another loony lefty creation of a party not only in great denial but in steep decline in voter support. I'm delighted to say that my fellow Australians have eventually woken up to the hypocrisy, the lack of truth, the outright lies of the Greens political party and I am sure that they, like a lot of their theories, will be confined to the dustbin of history, and the sooner that happens, the better for Australia.
 
-",Senate,<title>BILLS</title>,<title>Coal-Fired Power Funding Prohibition Bill 2017</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Coal-Fired Power Funding Prohibition Bill 2017</title>,BILLS,5,1,speech
 "Moore, Sen Claire",ALP,2018-03-19,"
 
 
@@ -227,7 +227,7 @@ Sustainable development goal No. 7 was the first ever universal goal on energy. 
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Coal-Fired Power Funding Prohibition Bill 2017</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Coal-Fired Power Funding Prohibition Bill 2017</title>,BILLS,5,1,speech
 "Di Natale, Sen Richard",AG,2018-03-19,"
 
 
@@ -295,7 +295,7 @@ Well, we have a plan. We want Australia to run on 100 per cent renewable energy.
 
 I urge all members of this place—and, in particular, the ALP and the crossbench—to show some courage in supporting this bill. This is our opportunity to stake what it means to have a long-term future for future generations. This is our opportunity to say: 'The past is the past, and we understand what a 21st-century modern economy looks like. It's one that's powered by renewable energy. It's one that looks after people. It's one that ensures that, in any transition, no matter how difficult, those workers are looked after.' This is an opportunity for the Labor Party and the crossbench to take a stand against the dangerous Turnbull government's obsession with coal, and to ensure that we lay out a clear path for this nation.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Macdonald, Sen Ian",LP,2018-03-19,"
 
 
@@ -351,7 +351,7 @@ Do I think that perhaps today, after the flogging the Greens have received in th
 
 This bill, which seeks to prohibit forever investment in coal-fired power stations, is just another loony lefty creation of a party not only in great denial but in steep decline in voter support. I'm delighted to say that my fellow Australians have eventually woken up to the hypocrisy, the lack of truth, the outright lies of the Greens political party and I am sure that they, like a lot of their theories, will be confined to the dustbin of history, and the sooner that happens, the better for Australia.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Moore, Sen Claire",ALP,2018-03-19,"
 
 
@@ -416,7 +416,7 @@ Sustainable development goal No. 7 was the first ever universal goal on energy. 
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Cormann, Sen Mathias",LP,2018-03-19,"
 
 
@@ -442,7 +442,7 @@ Australia's emergency services are the best in the world, and, on behalf of the 
 
 I also thank the men and women of the Australian Defence Force who are already providing clean-up assistance in the Northern Territory after Cyclone Marcus hit Darwin and the Territory on Saturday. Again, the Australian government stands ready to provide any further assistance requested to support these communities, and I'm sure all of the people of Australia join me in expressing our sorrow for those hardest hit by these natural disasters and our hope that those in the affected areas continue to be safe.
 
-",Senate,<title>STATEMENTS</title>,<title>Australian Natural Disasters</title>,STATEMENTS,7,1
+",Senate,<title>STATEMENTS</title>,<title>Australian Natural Disasters</title>,STATEMENTS,7,1,speech
 "Wong, Sen Penny",ALP,2018-03-19,"
 
 
@@ -465,7 +465,7 @@ No less devastating, of course, are the losses in the south-western part of Vict
 
 In the face of this sort of loss and shock, we offer our words of comfort and our expressions of solidarity, but, of course, more is always needed. Government and communities are stepping forward in providing financial and emotional support. I thank my colleagues in New South Wales and Victoria for their quick response with financial and material aid and their pledges to ensure that the towns, farms and communities are not forgotten when these fires are out. Federal Labor stands ready to assist this government and the community in whatever way we can.
 
-",Senate,<title>STATEMENTS</title>,<title>Australian Natural Disasters</title>,STATEMENTS,7,1
+",Senate,<title>STATEMENTS</title>,<title>Australian Natural Disasters</title>,STATEMENTS,7,1,speech
 "Di Natale, Sen Richard",AG,2018-03-19,"
 
 
@@ -488,7 +488,7 @@ I want to commend all of those people in their local communities who have been a
 
 On behalf of the Australian Greens, once again, I'd like to express my sympathies to people who have lost property and people who have suffered hardship, including the farmers who have lost their livestock. We give thanks that, at this stage, we have not seen any serious casualties.
 
-",Senate,<title>STATEMENTS</title>,<title>Australian Natural Disasters</title>,STATEMENTS,7,1
+",Senate,<title>STATEMENTS</title>,<title>Australian Natural Disasters</title>,STATEMENTS,7,1,speech
 "Hinch, Sen Derryn",DHJP,2018-03-19,"
 
 
@@ -496,7 +496,7 @@ On behalf of the Australian Greens, once again, I'd like to express my sympathie
 Senator HINCH
  (Victoria) (14:08):  by leave—I'd like to briefly add my tribute to the brave firefighters in south-west Victoria and in southern New South Wales, and to tell the people who have lost their homes and irreplaceable possessions that our thoughts are with them. Miraculously, as you've heard, in Victoria no lives were lost this time, but there are always losses in the animal world. Anybody in Victoria who has lived through Ash Wednesday and Black Saturday knows the power and the horror of bushfires. We don't and we won't forget the heroics and the community spirit in such dark times.
 
-",Senate,<title>STATEMENTS</title>,<title>Australian Natural Disasters</title>,STATEMENTS,7,1
+",Senate,<title>STATEMENTS</title>,<title>Australian Natural Disasters</title>,STATEMENTS,7,1,speech
 "Hanson, Sen Pauline",PHON,2018-03-19,"
 
 
@@ -504,7 +504,7 @@ Senator HINCH
 Senator HANSON
  (Queensland) (14:09):  by leave—To the families and communities who have been caught in the grip of this firestorm that has destroyed or damaged up to 88 homes and 42 sheds across two states, Australia is with you. If Victoria and New South Wales have proven one thing over the years, it is that your emergency service personnel in the fire brigades and Country Fire Authority have always put the safety of your communities first. I thank every one of you who have had sleepless nights defending life and property. Equally I say thank you for the preparation and training you all put in over your weekends to ensure the safety of your home states. To each of the farmers who have lost livestock, particularly around Cobden and Terang, I expect you to get every bit of help and assistance from my colleagues in this house to get back on your feet. My One Nation colleague, Senator Brian Burston, will be here for his New South Wales constituents, especially those in Tathra. It is not the first bushfire this country has had and it won't be the last. In this house we need to achieve agreement that those affected get our absolute support.
 
-",Senate,<title>STATEMENTS</title>,<title>Australian Natural Disasters</title>,STATEMENTS,7,1
+",Senate,<title>STATEMENTS</title>,<title>Australian Natural Disasters</title>,STATEMENTS,7,1,speech
 "Scullion, Sen Nigel",CLP,2018-03-19,"
 
 
@@ -518,7 +518,166 @@ As a senator for the Northern Territory I also acknowledge the impact Tropical C
 
 I acknowledge the Australian Department of Defence has also provided some emergency clean-up assistance immediately. On behalf of the Northern Territory and Darwin, please pass on my thanks to those Defence personnel. It's a very difficult time. I urge all Territorians to be patient and calm as authorities coordinate the clean-up effort. I encourage everyone to give each other a hand. As Senator Di Natale has indicated, it is wonderful that, in the worst of circumstances, the best of people come out. I acknowledge and thank the Northern Territory police, fire, ambulance and other emergency service personnel, as well as all the volunteers that have come out of the woodwork, for their work at this difficult time. It is such a huge relief that we've experienced no loss of life as a result of any of these disasters so far. I implore everyone to heed the advice of the authorities, and apart from that, go to the ABC. People can keep up to date with the latest advice from the Northern Territory government, Emergency Management Victoria and Emergency New South Wales websites.
 
-",Senate,<title>STATEMENTS</title>,<title>Australian Natural Disasters</title>,STATEMENTS,7,1
+",Senate,<title>STATEMENTS</title>,<title>Australian Natural Disasters</title>,STATEMENTS,7,1,speech
+"Keneally, Sen Kristina",ALP,2018-03-19,"
+
+
+
+Senator KENEALLY
+ (New South Wales) (14:14):  My question is to the Minister representing the Treasurer, Minister Cormann. Last week the Treasurer said that 'government has never entertained' changes to cash refunds of dividend imputation. Will the minister guarantee to the Senate that the government never has considered changes to cash refunds for dividend imputation?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Dividend Imputation</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Keneally, Sen Kristina",ALP,2018-03-19,"
+
+
+
+Senator KENEALLY
+ (New South Wales) (14:18):  I thank the minister for going back to 1998. I wasn't even a citizen then, so I appreciate the history lesson. How can the Treasurer's comments be correct, given that it has now been revealed that Treasury did in fact prepare a dossier entitled 'Tax policy: dividend imputation' in the lead-up to the last budget? Did Treasury do any work on options to limit access to cash refunds in the lead-up to last year's budget?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Dividend Imputation</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Keneally, Sen Kristina",ALP,2018-03-19,"
+
+
+
+Senator KENEALLY
+ (New South Wales) (14:19):  Why doesn't the government have any tax policy other than to give multinationals a $65 billion tax cut?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Dividend Imputation</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Cormann, Sen Mathias",LP,2018-03-19,"
+
+
+
+Senator CORMANN
+ (Western Australia—Leader of the Government in the Senate, Minister for Finance, Special Minister of State and Vice-President of the Executive Council) (14:14):  The short answer to that question is yes. What I would also say to you is that I've got in front of me a document called 'A fairer tax system with no GST.' Do you remember it? It was embargoed to 2.30 pm on 27 August 1998. These were the glorious days of Kim Beazley.
+
+
+
+
+Senator Wong:
+  Is this the best you can do? 1998! Is that the best you can do?
+
+
+
+
+Senator CORMANN:
+  No. Because we had the shadow Treasurer and the Leader of the Opposition coming out: this was a bit of handout from the Howard government. Let me quote to the Senate point No. 5 of 'A fairer tax system with no GST.' This is what it says:
+
+
+Labor Will:
+
+
+provide a cash refund for those shareholders who can't make use of their imputation credits because they do not pay income tax. This will be a significant benefit for older Australians, especially self-funded retirees—
+
+
+
+The PRESIDENT:  Senator Wong, on a point of order.
+
+
+
+
+Senator Wong:
+  Senator Cormann has a little bit of an obsession with the 1990s, it appears, Mr President. As much as that might extend to his musical taste, I raise a point of order of direct relevance, which is: this has nothing to do with the question that was asked.
+
+
+
+The PRESIDENT:  On the point of order, Senator Cormann?
+
+
+
+
+Senator CORMANN:
+  I have to say that Senator Wong is misleading the Senate: 99 Luftballons was in the 1980s, not the 1990s.
+
+
+
+The PRESIDENT:  On the point of order, I heard the minister directly answer the question at the beginning of his answer. He is allowed to add further relevant information to the question.
+
+
+
+
+Senator Wong:
+  It's not relevant to the question.
+
+
+
+The PRESIDENT:  It is relevant to the content of the question asked.
+
+
+
+
+Senator Wong:
+  Mr President, perhaps you would enlighten us as to how an opposition policy in 1998 is in any way relevant to the question asked. We would be interested in that information.
+
+
+
+The PRESIDENT:  On the point of order, the minister directly answered the question asked by Senator Keneally. He is then adding further information he considers relevant—that I consider relevant—to that answer. He directly answered the question at the commencement of it.
+
+
+
+
+Senator Wong:
+  We'd like to understand why, Mr President.
+
+
+
+The PRESIDENT:  Senator Wong, I will talk to you after question time. I've ruled that it's relevant.
+
+
+
+
+Senator CORMANN:
+  The question by Senator Keneally goes to the heart of the modern Labor Party. The reason this is relevant, Mr President, is that I'm comparing and contrasting the Labor Party under Mr Shorten with the Labor Party of old under Mr Beazley. What we can see is that Mr Shorten is all about putting his hands into the pockets of pensioners and self-funded retirees, whereas Mr Beazley understood the cost-of-living pressures that pensioners and self-funded retirees were facing. Our government has not considered such a proposal. We are not prepared to put our hands into the pockets of pensioners and self-funded retirees. Bill Shorten's two-card trick these days is to run a vested-interest-type attack against the so-called undeserving rich, to run the— (Time expired)
+
+
+
+The PRESIDENT:  Senator Keneally, a supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Dividend Imputation</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
+"Cormann, Sen Mathias",LP,2018-03-19,"
+
+
+
+Senator CORMANN
+ (Western Australia—Leader of the Government in the Senate, Minister for Finance, Special Minister of State and Vice-President of the Executive Council) (14:18):  Nothing that Senator Keneally has just put is in any way inconsistent with the answer that I gave to the primary question. We've got 167,000 public servants. From time to time some of these public servants will feel the need to do some work on certain things that—
+
+
+
+Senator Wong interjecting—
+
+
+
+
+Senator CORMANN:
+  You know what? From time to time, people consider various things, because they're part of the public debate that is pursued, including by the Labor Party. But that does not mean that at any point this was—
+
+
+
+
+Senator Wong:
+  This has nothing to do with us. This is Treasury.
+
+
+
+
+Senator CORMANN:
+  This does not mean that at any point the government either considered or asked for or made a decision to support such a policy. I can assure you, and I can assure the self-funded retirees and the pensioners of Australia, that a Turnbull-led Liberal-National party government will not put its hands into the pockets of pensioners and self-funded retirees with a policy like this of changing the— (Time expired)
+
+
+
+The PRESIDENT:  Senator Keneally, a final supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Dividend Imputation</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
+"Cormann, Sen Mathias",LP,2018-03-19,"
+
+
+
+Senator CORMANN
+ (Western Australia—Leader of the Government in the Senate, Minister for Finance, Special Minister of State and Vice-President of the Executive Council) (14:20):  We stand on the side of Australian workers. Nine out of 10 Australian workers work for private sector business, and we don't want the businesses that employ them to be disadvantaged compared to businesses in other parts of the world who pay substantially less tax. We want Australians to have the best possible opportunity to get ahead and be successful. We understand that, for that to happen, the businesses that employ them have to have the best possible opportunity to be successful and profitable in the years and decades to come.
+
+
+Now, Labor may think this is a joke. That is actually what the Labor Party used to think. That is what Bill Shorten used to say, that is what Chris Bowen used to say and, indeed, that is what Senator Wong very succinctly and eloquently argued for in years gone by. If we want Australians today and into the future to be the most successful they can be and to get ahead, we need the businesses that employ them and that pay their wages to be more profitable into the future. That is why we don't want our businesses to be disadvantaged compared to businesses in other parts of the world.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Dividend Imputation</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
 "Ketter, Sen Christopher",ALP,2018-03-19,"
 
 
@@ -544,7 +703,7 @@ If you were to listen to those opposite you would think that they were the party
 
 Pensioners are facing higher power bills and greater out-of-pocket health costs, and yet here we have the government pretending that they are concerned about the impact of this change on pensioners. They are conducting a good old-fashioned scare campaign. The foreign minister made some comments yesterday on Insiders; we've seen the Treasurer coming out with hysterical claims about the impact of these changes—in fact, he's misleading people by saying that many of those who will be impacted are on low taxable incomes. Of course low taxable income means that people can still receive quite a lot in superannuation. This is a responsible reform and needs to be supported.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Dividend Imputation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Dividend Imputation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Abetz, Sen Eric",LP,2018-03-19,"
 
 
@@ -576,7 +735,7 @@ Senator McAllister:
 Senator ABETZ:
   The current Labor leadership in the Senate seeks to scoff at that, but people in their 40s and 50s, relying on that promise, scrimped and saved and organised their retirement income and lifestyle on the basis of that promise, only to have this current Labor leadership, which is motivated by jealousy and envy and class warfare, rip this rug out from underneath them. Those retirees, on the promises made by the Labor Party 20 years ago, ordered their retirement funds and income accordingly. The Labor Party in this place will scoff, but the simple fact is that, unless we as a community and a society are willing to support and salute those who are willing to help themselves, the burden becomes much greater on everybody else. That is why Robert Menzies was so right when he said: if you don't provide encouragement and if you instead say to people, 'If you save, if you set money aside and if you invest in Australian companies in the hope of receiving a retirement income, the government will snatch it away from you,' why would they bother investing in Australian companies? Why would you bother looking after yourself in retirement? You can just rely on all your fellow Australian taxpayers. You know what happens? You can have the tax grab today, but that is like killing the goose that lays the golden eggs. You will get the extra golden egg for one day, but the cost will be quite substantial in the years to come. That is why Labor's policy is so divisive and so short-sighted and needs to be rejected. 
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Dividend Imputation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Dividend Imputation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "McAllister, Sen Jenny",ALP,2018-03-19,"
 
 
@@ -615,7 +774,7 @@ Well, I'll ask you this: where was the concern when the government was busily tr
 
 People know, when they hear this, how ridiculous it is to hear the coalition, who, at every budget, have tried to cut the pension, cry these crocodile tears. Labor's policy is fair. It is a fair way to pursue budget repair, and it's a policy that ought to have been adopted by the coalition.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Dividend Imputation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Dividend Imputation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Colbeck, Sen Richard",LP,2018-03-19,"
 
 
@@ -638,7 +797,7 @@ What is it that the Labor Party have got about people who have worked hard, have
 
 Where is the Labor Party's so-called fairness nerve when it comes to this measure? Most of the impact is on people on low incomes, not the high-flyers that the Leader of the Opposition likes to portray it as. Most of the impact of this measure is on people on low incomes. You are taking away their living expenses. That is exactly what's happening. They're ringing our offices just the way that they're ringing Labor backbenchers' offices, because their income is being drastically reduced, and it's going to affect their way of living. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Dividend Imputation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Dividend Imputation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Kitching, Sen Kimberley",ALP,2018-03-19,"
 
 
@@ -664,7 +823,7 @@ Senator Abetz says that this policy is motivated by envy. It is not motivated by
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Dividend Imputation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Dividend Imputation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Siewert, Sen Rachel",AG,2018-03-19,"
 
 
@@ -699,7 +858,7 @@ The accessibility and quality of mental health services in rural and remote Aust
 
 (g) any other related matters. 
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,12,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,12,1,speech
 "McGrath, Sen James",LP,2018-03-19,"
 
 
@@ -720,7 +879,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,12,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,12,1,speech
 "Hanson, Sen Pauline",PHON,2018-03-19,"
 
 
@@ -743,7 +902,7 @@ That the Senate notes the speech given by Dr Alberto Calderon, Chief Executive O
 
 (d) Australia needs to encourage investment through incentives and to fix the regimes regulating energy, water, transport, telecommunications and other infrastructure. 
 
-",Senate,<title>MOTIONS</title>,<title>Economy</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Economy</title>,MOTIONS,13,1,speech
 "McGrath, Sen James",LP,2018-03-19,"
 
 
@@ -764,7 +923,7 @@ Senator McGRATH:
 
 Question negatived.
 
-",Senate,<title>MOTIONS</title>,<title>Economy</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Economy</title>,MOTIONS,13,1,speech
 "Gallacher, Sen Alex",ALP,2018-03-19,"
 
 
@@ -817,7 +976,7 @@ I commend the report to the Senate.
 
 Question agreed to.
 
-",Senate,<title>DELEGATION REPORTS</title>,<title>Australian Parliamentary Delegation to the 38th General Assembly of the ASEAN Inter-Parliamentary Assembly</title>,DELEGATION REPORTS,14,1
+",Senate,<title>DELEGATION REPORTS</title>,<title>Australian Parliamentary Delegation to the 38th General Assembly of the ASEAN Inter-Parliamentary Assembly</title>,DELEGATION REPORTS,14,1,speech
 "DEPUTY PRESIDENT, The",,2018-03-19,"
 
 
@@ -844,7 +1003,7 @@ More than the number of senators required by the standing orders having risen in
 
 The DEPUTY PRESIDENT:  I understand that informal arrangements have been made to allocate specific times to each of the speakers in today's debate. With the concurrence of the Senate, I shall ask the clerks to set the clock accordingly.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Chisholm, Sen Anthony",ALP,2018-03-19,"
 
 
@@ -894,7 +1053,7 @@ They constantly attack unions and constantly attack workers. We know what they h
 
 Labor are the only party listening when it comes to responding to these challenges. The Greens are divided. We know that there are repercussions internally that they have to deal with after what happened in Batman—but, still, they haven't changed their behaviour. We know that the LNP are not listening to these people. We know that they are not taking these issues into account in determining how they are going run their government. But Labor are listening. We are spending as much time as we can on the ground in these communities and hearing directly from them. We will continue to ensure that we represent the views of all Australians in this place.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Brockman, Sen Slade",LP,2018-03-19,"
 
 
@@ -923,7 +1082,7 @@ When it comes to emissions, what does the National Energy Guarantee provide? It 
 
 As I said, I wondered why I came in here, and it was clearly so the Labor Party could try and tack back to the centre and have a whack at the Greens. I feel like making a contribution between the Labor Party and the Greens. I should let them go at it. But I will reflect again on why it is important that this government gets support from the crossbench for its enterprise tax plan. It is a very important economic reform. Growth is not an abstract number in the budget; growth is what will drive businesses to employ more people, for wages to be able to increase over time. Growth is what will give people the opportunities for the jobs for the next generation. It is certainly something that all people in this place should support, and I would encourage the crossbench to seriously consider that as they consider their position on the government's enterprise tax plan in the future.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Bartlett, Sen Andrew",AG,2018-03-19,"
 
 
@@ -961,7 +1120,7 @@ In regard to education—and it's pleasing to see this particularly specified—
 
 We have a world-class system of vocational and further education that has been deliberately destroyed purely on ideological grounds. One of the great reforms of the Whitlam era was the abolition of university fees, yet they were reintroduced in 1988 by another Labor government, which reflected just how much they and the political class as a whole had been captured by neoliberalism. People can only get a quality education, as is emphasised in this debate, if it's affordable and if it's available at all. Under the policies of both the parties of the political establishment, things have been going backwards there. The Greens will continue to turn things around with the policy suite they've been promoting proudly and strongly.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Bilyk, Sen Catryna",ALP,2018-03-19,"
 
 
@@ -999,7 +1158,7 @@ We also have comprehensively costed plans to address the other areas where this 
 
 But right now we're stuck with a government that are sleepwalking towards electoral defeat because they are gripped by policy paralysis. They have no serious policies to address the problems facing Australians. They have no serious policies around facing the rising cost of living, stagnating wage growth, the threat of climate change or the need for a quality education. The major policy platform of this government seems to be more about union-bashing— (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Hume, Sen Jane",LP,2018-03-19,"
 
 
@@ -1031,7 +1190,7 @@ Make no mistake, Mr Shorten is a clear and present danger to the future prosperi
 
 Much as I would love to, I simply haven't got the time here today to go into the importance of ensuring that children from any postcode can get a quality education. But, if the meandering words of today's MPI, let alone the dodgy maths of the policy announcements coming from the ALP, are anything to go by then, please, let that quality education include some basic economics because, if it was taught at school when Senator Collins was there, I think she must have been taking a sickie.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "McCarthy, Sen Malarndirri",ALP,2018-03-19,"
 
 
@@ -1057,7 +1216,7 @@ We know widespread child removal is not a panacea. We know culture and child saf
 
 Every child has a right to grow up healthy, happy and safe. Every child has a right to a roof over their head. Every child has a right to world-class education, no matter where they live. Kids in the Northern Territory don't deserve to have their future stifled. They don't deserve the $15 million in funding cuts from the Northern Territory's premier university, Charles Darwin University. They deserve to be more than safe; they deserve to have a roof over their heads; they deserve proper access to medical facilities— (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Paterson, Sen James",LP,2018-03-19,"
 
 
@@ -1086,7 +1245,7 @@ More than half of all the refunded franking credits are paid to individuals with
 
 This is a really important point: there are people who have planned for their retirement carefully over many years who are now in retirement and there is not much that they can do to change the plans that they put in place years ago. We in this place, on both sides—on all angles of this chamber—have put the rules in place for their retirement and they've planned accordingly. Many of these people are too old to go back to work. They don't have options to restructure their finances, and some of them have very modest means. But the rug has been well and truly pulled out from underneath them with no way for them to respond. It will mean a very real loss of income and I suspect—going back to the motion today—it will have a severe impact on the cost of living for many of these people. I urge the Labor Party to reconsider what I think has already been proven to be a disastrous policy.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Ketter, Sen Christopher",ALP,2018-03-19,"
 
 
@@ -1109,7 +1268,7 @@ Labor believe in affordable healthcare and education options and affordable insu
 
 Going back to that Retail Association submission, what added insult to injury from my perspective was that not only are the retailers asking for a zero per cent wage increase; they're also continuing to enjoy the benefits of the penalty rate cuts which are flowing through the system. Again, the government are silent on that. In fact, they have done nothing about those penalty rate cuts, which are impacting on the cost-of-living pressures for ordinary workers. It's time for the government to get on with the job and do something about this issue.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,"<title>Cost of Living, Climate Change, Employment, Education</title>",MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Bartlett, Sen Andrew",AG,2018-03-19,"
 
 
@@ -1135,7 +1294,7 @@ This Auditor-General's report explicitly goes to the so-called Threatened specie
 
 I think this Auditor-General's report, couched, as it is, in its own dry economic language, is actually good reading for people who want to get a grip on the economic irresponsibility of trying to apply a market based approach, a neoliberal approach, to a fundamental aspect of environmental management and, let's be clear, the legal obligations of this federal government, under our federal environment law, to properly manage and address threatened species. (Time expired)
 
-",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 32 of 2017-18</title>,AUDITOR-GENERAL'S REPORTS,16,1
+",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 32 of 2017-18</title>,AUDITOR-GENERAL'S REPORTS,16,1,speech
 "Rice, Sen Janet",AG,2018-03-19,"
 
 
@@ -1176,7 +1335,7 @@ Senator RICE:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 32 of 2017-18</title>,AUDITOR-GENERAL'S REPORTS,16,1
+",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 32 of 2017-18</title>,AUDITOR-GENERAL'S REPORTS,16,1,speech
 "Bartlett, Sen Andrew",AG,2018-03-19,"
 
 
@@ -1202,7 +1361,7 @@ This Auditor-General's report explicitly goes to the so-called Threatened specie
 
 I think this Auditor-General's report, couched, as it is, in its own dry economic language, is actually good reading for people who want to get a grip on the economic irresponsibility of trying to apply a market based approach, a neoliberal approach, to a fundamental aspect of environmental management and, let's be clear, the legal obligations of this federal government, under our federal environment law, to properly manage and address threatened species. (Time expired)
 
-",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Consideration</title>,AUDITOR-GENERAL'S REPORTS,16,2
+",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Consideration</title>,AUDITOR-GENERAL'S REPORTS,16,2,speech
 "Rice, Sen Janet",AG,2018-03-19,"
 
 
@@ -1243,7 +1402,7 @@ Senator RICE:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Consideration</title>,AUDITOR-GENERAL'S REPORTS,16,2
+",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Consideration</title>,AUDITOR-GENERAL'S REPORTS,16,2,speech
 "Fierravanti-Wells, Sen Concetta",LP,2018-03-19,"
 
 
@@ -1251,7 +1410,7 @@ Leave granted; debate adjourned.
 Senator FIERRAVANTI-WELLS
  (New South Wales—Minister for International Development and the Pacific) (17:20):  I table a document relating to the order for the production of documents concerning West Lorengau, Manus Island.
 
-",Senate,<title>DOCUMENTS</title>,<title>West Lorengau Haus</title>,DOCUMENTS,18,1
+",Senate,<title>DOCUMENTS</title>,<title>West Lorengau Haus</title>,DOCUMENTS,18,1,speech
 "Fierravanti-Wells, Sen Concetta",LP,2018-03-19,"
 
 
@@ -1268,7 +1427,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,"<title>National Housing Finance and Investment Corporation Bill 2018, National Housing Finance and Investment Corporation (Consequential Amendments and Transitional Provisions) Bill 2018</title>",BILLS,19,1
+",Senate,<title>BILLS</title>,"<title>National Housing Finance and Investment Corporation Bill 2018, National Housing Finance and Investment Corporation (Consequential Amendments and Transitional Provisions) Bill 2018</title>",BILLS,19,1,speech
 "Fierravanti-Wells, Sen Concetta",LP,2018-03-19,"
 
 
@@ -1411,7 +1570,7 @@ Full details of the measure are contained in the Explanatory Memorandum.
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,"<title>National Housing Finance and Investment Corporation Bill 2018, National Housing Finance and Investment Corporation (Consequential Amendments and Transitional Provisions) Bill 2018</title>",BILLS,19,1
+",Senate,<title>BILLS</title>,"<title>National Housing Finance and Investment Corporation Bill 2018, National Housing Finance and Investment Corporation (Consequential Amendments and Transitional Provisions) Bill 2018</title>",BILLS,19,1,speech
 "Fierravanti-Wells, Sen Concetta",LP,2018-03-19,"
 
 
@@ -1428,7 +1587,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,19,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,19,2,speech
 "Reynolds, Sen Linda (The ACTING DEPUTY PRESIDENT)",LP,2018-03-19,"
 
 
@@ -1558,7 +1717,7 @@ That:
 
 (18) the provisions of this resolution, so far as they are inconsistent with the standing orders, have effect notwithstanding anything contained in the standing orders.
 
-",Senate,<title>COMMITTEES</title>,<title>Committee on Constitutional Recognition Relating to Aboriginal and Torres Strait Islander Peoples</title>,COMMITTEES,20,1
+",Senate,<title>COMMITTEES</title>,<title>Committee on Constitutional Recognition Relating to Aboriginal and Torres Strait Islander Peoples</title>,COMMITTEES,20,1,speech
 "Fierravanti-Wells, Sen Concetta",LP,2018-03-19,"
 
 
@@ -1572,7 +1731,7 @@ That the Senate concurs with the resolution of the House of Representatives cont
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Committee on Constitutional Recognition Relating to Aboriginal and Torres Strait Islander Peoples</title>,COMMITTEES,20,1
+",Senate,<title>COMMITTEES</title>,<title>Committee on Constitutional Recognition Relating to Aboriginal and Torres Strait Islander Peoples</title>,COMMITTEES,20,1,speech
 "Reynolds, Sen Linda (The ACTING DEPUTY PRESIDENT)",LP,2018-03-19,"
 
 
@@ -1702,7 +1861,7 @@ That:
 
 (18) the provisions of this resolution, so far as they are inconsistent with the standing orders, have effect notwithstanding anything contained in the standing orders.
 
-",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,20,2
+",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,20,2,speech
 "Fierravanti-Wells, Sen Concetta",LP,2018-03-19,"
 
 
@@ -1716,7 +1875,7 @@ That the Senate concurs with the resolution of the House of Representatives cont
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,20,2
+",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,20,2,speech
 "Fawcett, Sen David",LP,2018-03-19,"
 
 
@@ -1724,7 +1883,7 @@ Question agreed to.
 Senator FAWCETT
  (South Australia—Deputy Government Whip in the Senate) (17:28):  Pursuant to order and at the request of the Chair of the Senate Rural and Regional Affairs and Transport Legislation Committee, Senator O'Sullivan, I present the report on provisions of the Airports Amendment Bill 2016, together with the Hansard record of proceedings and documents presented to the committee.
 
-",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport Legislation Committee</title>,COMMITTEES,22,1
+",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport Legislation Committee</title>,COMMITTEES,22,1,speech
 "Fawcett, Sen David",LP,2018-03-19,"
 
 
@@ -1732,7 +1891,7 @@ Senator FAWCETT
 Senator FAWCETT
  (South Australia—Deputy Government Whip in the Senate) (17:28):  Pursuant to order and at the request of the Chair of the Senate Rural and Regional Affairs and Transport Legislation Committee, Senator O'Sullivan, I present the report on provisions of the Airports Amendment Bill 2016, together with the Hansard record of proceedings and documents presented to the committee.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2,speech
 "Fawcett, Sen David",LP,2018-03-19,"
 
 
@@ -1740,7 +1899,7 @@ Senator FAWCETT
 Senator FAWCETT
  (South Australia—Deputy Government Whip in the Senate) (17:28):  Pursuant to order and at the request of the Chair of the Senate Environment and Communications Legislation Committee, Senator Duniam, I present the report of the committee on the Copyright Amendment (Service Providers) Bill 2017, together with the Hansard record of proceedings and documents presented to the committee.
 
-",Senate,<title>BILLS</title>,<title>Copyright Amendment (Service Providers) Bill 2017</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Copyright Amendment (Service Providers) Bill 2017</title>,BILLS,23,1,speech
 "Fawcett, Sen David",LP,2018-03-19,"
 
 
@@ -1748,7 +1907,7 @@ Senator FAWCETT
 Senator FAWCETT
  (South Australia—Deputy Government Whip in the Senate) (17:28):  Pursuant to order and at the request of the Chair of the Senate Environment and Communications Legislation Committee, Senator Duniam, I present the report of the committee on the Copyright Amendment (Service Providers) Bill 2017, together with the Hansard record of proceedings and documents presented to the committee.
 
-",Senate,<title>BILLS</title>,<title>Report of Legislation Committee</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>Report of Legislation Committee</title>,BILLS,23,2,speech
 "Bushby, Sen David",LP,2018-03-19,"
 
 
@@ -1813,4 +1972,4 @@ It appears that the sticking point is that any agreement would require the Pales
 
 It is also worth noting that this demand for the return of not only the original refugees but their descendants—treating the descendants as refugees too—is a demand made only for Palestinians and is not repeated for any of the world's many refugee populations. Since the election of the Netanyahu government in 2008, Israeli measures to encourage peace talks have included an unprecedented 10-month moratorium on building in settlements, and the release of Palestinian prisoners. As you can see, the matter is not as simple as it appears. (Time expired)
 
-",Senate,<title>ADJOURNMENT</title>,<title>Middle East</title>,ADJOURNMENT,24,1
+",Senate,<title>ADJOURNMENT</title>,<title>Middle East</title>,ADJOURNMENT,24,1,speech

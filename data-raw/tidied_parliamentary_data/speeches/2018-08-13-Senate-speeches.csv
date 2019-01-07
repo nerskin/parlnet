@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2018-08-13,"
 
 
@@ -48,7 +48,7 @@ We also work with officials and staff, and we should consider the impact of our 
 
 Finally, it is sometimes said that parliament is at its best when dealing with issues of conscience and all senators speak freely and personally on such issues. Throughout this week we will have the opportunity to again demonstrate that.
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Parliamentary Language</title>,STATEMENT BY THE PRESIDENT,2,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Parliamentary Language</title>,STATEMENT BY THE PRESIDENT,2,1,speech
 "Di Natale, Sen Richard",AG,2018-08-13,"
 
 
@@ -72,7 +72,7 @@ Last year we witnessed the spectacle of Senator Pauline Hanson entering the cham
 
 We will be putting forward a censure motion to condemn Senator Leyonhjelm's actions in the strongest possible terms, condemning his behaviour towards Senator Sarah Hanson-Young. He needs to be held to account for his actions. This parliament needs to send a very clear message about what is expected of political leaders in this place. And, of course, more than that, we need to ensure that this type of behaviour is not tolerated in the future. We have long advocated for a code of conduct in the Senate because our parliament should—and must—do better. We should set the standard. We should not be the example of what not to do. If senators cannot be trusted to act with decency and integrity in this chamber, then it's about time we all agreed on what is decent behaviour and held each other to account to that standard.
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Parliamentary Language</title>,STATEMENT BY THE PRESIDENT,2,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Parliamentary Language</title>,STATEMENT BY THE PRESIDENT,2,1,speech
 "Wong, Sen Penny",ALP,2018-08-13,"
 
 
@@ -96,7 +96,7 @@ In terms of how we in the Labor Party have sought to approach this, our approach
 
 I note that Senator Di Natale has flagged a range of processes. We'll consider them. I do indicate, given the tone of the way in which the President has dealt with this, it would have been a sensible thing to give people notice of that before indicating it.
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Parliamentary Language</title>,STATEMENT BY THE PRESIDENT,2,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Parliamentary Language</title>,STATEMENT BY THE PRESIDENT,2,1,speech
 "Hinch, Sen Derryn",DHJP,2018-08-13,"
 
 
@@ -114,7 +114,7 @@ The PRESIDENT:  Leave is granted.
 Senator HINCH:
   I support the comments made by Senator Di Natale and Senator Wong, and your own comments, Mr President. I noticed that as Senator Leyonhjelm walked out he joked to Senator Bernardi: 'I'm walking out very proudly.' He has learned nothing. His comments earlier in the session were disgusting, and he compounded them all by going on Sky News and gloating about what he'd said and why he would not apologise. He took some pride in the fact that he will not apologise for his comments. I noticed Senator Hanson-Young in her workplace—and it is a workplace—in tears down here that very morning, and I thought, 'What the hell is happening here?' I think Senator Leyonhjelm should hang his head in shame, and I'll support any censure motion that Senator Di Natale puts forward.
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Parliamentary Language</title>,STATEMENT BY THE PRESIDENT,2,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Parliamentary Language</title>,STATEMENT BY THE PRESIDENT,2,1,speech
 "Bernardi, Sen Cory",AC,2018-08-13,"
 
 
@@ -185,7 +185,7 @@ You've got to ask yourself what you are doing here. If our commitment is to the 
 
 That's why Australians are casting their eyes around the place. They're looking for alternatives—some of those alternatives are healthier than others, I will say—because they no longer believe what politicians are going to tell them. They no longer believe that what we're doing up here is acting in their interests; they think it's acting in our interests. And, unfortunately, I think they're right: political expediency is the order of the day. But we've got to change that. We've got to make the order of the day our responsibility to those that will come after us. And the greatest thing we can do is to prevent them from having to pay our debts of today. That is the great moral challenge of our time, and every member in this place needs to put their hand up and say they are committed to doing it. One way in which you can do that is to invoke a debt ceiling so that there is not a blank cheque for government, because you know that, when there is a blank cheque for government, they just keep adding zeros and zeros and zeros to the cheques that they write.
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Inscribed Stock Amendment (Debt Ceiling) Bill 2018</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Inscribed Stock Amendment (Debt Ceiling) Bill 2018</title>,BILLS,4,1,speech
 "Macdonald, Sen Ian",LP,2018-08-13,"
 
 
@@ -244,7 +244,7 @@ Whilst I understand the sentiments of Senator Bernardi's bill, the Commonwealth 
 
 We can now do the current work of government without borrowing, and that's why, of course, we have retained our AAA credit rating as a government from all three major credit-rating agencies, making Australia one of only 10 countries in the world to have that AAA credit rating. You don't get that sort of rating if the rating agencies think that the economy is mismanaged or that we need debt ceilings. They are looking at the actions of the Turnbull government. Actions always speak louder than words. We've reduced deficits in the last couple of budgets, and we're projected, easily, to return to surplus the year after next.
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Inscribed Stock Amendment (Debt Ceiling) Bill 2018</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Inscribed Stock Amendment (Debt Ceiling) Bill 2018</title>,BILLS,4,1,speech
 "Cameron, Sen Doug",ALP,2018-08-13,"
 
 
@@ -332,7 +332,7 @@ Senator CAMERON:
 
 The sooner this rabble of a government go to an election, the better. The sooner they get out and allow the Australian people to make a choice for stability and good economic management, the better. The Prime Minister went out and said that these recent by-elections in Tasmania, Queensland and Western Australia were a test of his leadership. He failed that test. Senator Cormann went out and said that the by-elections were a test of the tax cut policy. Senator Cormann, you failed that test. This government should pack their bags, go to an election and let the country become a better country, a decent country and a fairer country, not a country dominated by the supporters of big business and the banks. That's what this mob are: the supporters of big business, the supporters of the banks, the supporters of the people who would fill their own wallets at the expense of ordinary working people in this country. They are an absolute disgrace. For Senator Bernardi to get up and have this bill on here today after he took exactly the opposite position in government is an example of how crazy it's getting in this place. This is a crazy government. They don't get it. They don't understand that working people are doing it tough. All they want to do is look after the big end of town and look after the banks.
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Inscribed Stock Amendment (Debt Ceiling) Bill 2018</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Inscribed Stock Amendment (Debt Ceiling) Bill 2018</title>,BILLS,4,1,speech
 "Whish-Wilson, Sen Peter",AG,2018-08-13,"
 
 
@@ -386,7 +386,7 @@ All debt is not bad. Debt is not a dirty word. Let's go beyond this hard-Right, 
 
 Question negatived. 
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Inscribed Stock Amendment (Debt Ceiling) Bill 2018</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Inscribed Stock Amendment (Debt Ceiling) Bill 2018</title>,BILLS,4,1,speech
 "Bernardi, Sen Cory",AC,2018-08-13,"
 
 
@@ -457,7 +457,7 @@ You've got to ask yourself what you are doing here. If our commitment is to the 
 
 That's why Australians are casting their eyes around the place. They're looking for alternatives—some of those alternatives are healthier than others, I will say—because they no longer believe what politicians are going to tell them. They no longer believe that what we're doing up here is acting in their interests; they think it's acting in our interests. And, unfortunately, I think they're right: political expediency is the order of the day. But we've got to change that. We've got to make the order of the day our responsibility to those that will come after us. And the greatest thing we can do is to prevent them from having to pay our debts of today. That is the great moral challenge of our time, and every member in this place needs to put their hand up and say they are committed to doing it. One way in which you can do that is to invoke a debt ceiling so that there is not a blank cheque for government, because you know that, when there is a blank cheque for government, they just keep adding zeros and zeros and zeros to the cheques that they write.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Macdonald, Sen Ian",LP,2018-08-13,"
 
 
@@ -516,7 +516,7 @@ Whilst I understand the sentiments of Senator Bernardi's bill, the Commonwealth 
 
 We can now do the current work of government without borrowing, and that's why, of course, we have retained our AAA credit rating as a government from all three major credit-rating agencies, making Australia one of only 10 countries in the world to have that AAA credit rating. You don't get that sort of rating if the rating agencies think that the economy is mismanaged or that we need debt ceilings. They are looking at the actions of the Turnbull government. Actions always speak louder than words. We've reduced deficits in the last couple of budgets, and we're projected, easily, to return to surplus the year after next.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Cameron, Sen Doug",ALP,2018-08-13,"
 
 
@@ -604,7 +604,7 @@ Senator CAMERON:
 
 The sooner this rabble of a government go to an election, the better. The sooner they get out and allow the Australian people to make a choice for stability and good economic management, the better. The Prime Minister went out and said that these recent by-elections in Tasmania, Queensland and Western Australia were a test of his leadership. He failed that test. Senator Cormann went out and said that the by-elections were a test of the tax cut policy. Senator Cormann, you failed that test. This government should pack their bags, go to an election and let the country become a better country, a decent country and a fairer country, not a country dominated by the supporters of big business and the banks. That's what this mob are: the supporters of big business, the supporters of the banks, the supporters of the people who would fill their own wallets at the expense of ordinary working people in this country. They are an absolute disgrace. For Senator Bernardi to get up and have this bill on here today after he took exactly the opposite position in government is an example of how crazy it's getting in this place. This is a crazy government. They don't get it. They don't understand that working people are doing it tough. All they want to do is look after the big end of town and look after the banks.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Whish-Wilson, Sen Peter",AG,2018-08-13,"
 
 
@@ -658,7 +658,79 @@ All debt is not bad. Debt is not a dirty word. Let's go beyond this hard-Right, 
 
 Question negatived. 
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
+"Wong, Sen Penny",ALP,2018-08-13,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:02):  My question is to the Minister for Finance, Senator Cormann. Earlier this year, the minister said, 'We are completely and utterly committed to our business tax cuts.' However, this morning, the finance minister refused to say whether the government would abandon its Ten Year Enterprise Tax Plan if it fails to legislate it in the next fortnight. Can the minister confirm the government will take the full enterprise tax plan to the next election, as he committed to do?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Wong, Sen Penny",ALP,2018-08-13,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:03):  I again ask this minister the same question. The minister has previously committed to taking the business tax cuts—the enterprise tax plan—to the next election. I again ask this minister: can the minister confirm the government will take the full enterprise tax plan to the next election, as he has committed to do? Yes or no?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Wong, Sen Penny",ALP,2018-08-13,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:05):  When this minister was asked in Senate estimates whether the government remains committed to taking the enterprise tax plan to the next election, the minister said, 'I've already said yes. I've answered that twice now.' Will the minister keep his word to the Australian people to take the enterprise tax plan to the next election or not?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Cormann, Sen Mathias",LP,2018-08-13,"
+
+
+
+Senator CORMANN
+ (Western Australia—Leader of the Government in the Senate, Minister for Finance, Special Minister of State and Vice-President of the Executive Council) (14:02):  What I can confirm for Senator Wong and for the chamber is that the government, indeed, is fully committed to deliver a lower, globally more competitive business tax rate in order to protect jobs and to protect future wages growth, because, of course, those of us on this side of the chamber understand that the future success of working families around Australia depends on the future viability, competitiveness and profitability of businesses right around Australia. If we make it harder for businesses in Australia to be successful, we make it harder for working families around Australia to be successful. That is something that Labor used to understand. Let's see what happens this fortnight. The government certainly is focused on securing the passage of this very important economic reform and, if the Labor Party cared about working families, they would back it.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Cormann, Sen Mathias",LP,2018-08-13,"
+
+
+
+Senator CORMANN
+ (Western Australia—Leader of the Government in the Senate, Minister for Finance, Special Minister of State and Vice-President of the Executive Council) (14:04):  We are absolutely committed to taking business tax cuts to the next election, hopefully having been legislated by the Senate. The Labor Party has an opportunity to do the right thing by working families around Australia by supporting a policy that the shadow Treasurer, Chris Bowen, supported right up until the time that we put it into our budget. The shadow Treasurer, Chris Bowen, as late as September 2015, made the point that a higher company tax rate hurts workers the most. It falls hardest on workers. That's what he used to say.
+
+
+
+Senator Abetz interjecting—
+
+
+
+
+Senator CORMANN:
+  Senator Wong's said similar things, you're quite right. The Labor Party knows what the right thing to do is here for working families around Australia. I tell you what we're going to do. We're going to give you the opportunity to vote for better opportunities for working families around Australia to get ahead, by making sure that the businesses that employ them and pay their wages have the best possible opportunity to be viable, to be competitive and to be profitable into the future. (Time expired)
+
+
+
+The PRESIDENT:  Senator Wong, a final supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Cormann, Sen Mathias",LP,2018-08-13,"
+
+
+
+Senator CORMANN
+ (Western Australia—Leader of the Government in the Senate, Minister for Finance, Special Minister of State and Vice-President of the Executive Council) (14:05):  Senator Wong is quite right. My views on this are well and truly on the public record. Whatever your view on the substance of this argument, I don't think that there is anyone in this chamber that doubts my commitment to securing the passage of a lower, globally more competitive business tax rate. I think everyone in this chamber knows, or at least should know, that I passionately believe that to protect—
+
+
+
+Honourable senators interjecting—
+
+
+
+
+Senator CORMANN:
+  I think that everyone in this chamber knows very well that I'm committed to securing the best possible opportunity for working families around Australia to get ahead by making sure that the businesses that employ them have the best possible opportunity to be viable, competitive and profitable into the future. Labor is quite happy to stand up for the big end of town overseas at the expense of businesses here in Australia. They're quite happy to export Australian jobs into other parts of the world. That's fine. Labor can continue to defend that in the court of public opinion. We are standing up for working Australians.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
 "Birmingham, Sen Simon",LP,2018-08-13,"
 
 
@@ -669,7 +741,7 @@ Senator BIRMINGHAM
 
 He further asked about investment in new thermal generation. I can highlight that, for example, AGL is investing $295 million in a new 210-megawatt gas-fired power station in Barker Inlet, South Australia, to replace two of the four Torrens A turbines; that AGL has also committed to a 100-megawatt upgrade to the Bayswater Power Station and a 252-megawatt gas peaker in Newcastle; and that EnergyAustralia, for example, plans to invest $400 million in a new 400-megawatt gas plant in Tallawarra, New South Wales.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,6,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,6,1,speech
 "Di Natale, Sen Richard",AG,2018-08-13,"
 
 
@@ -686,7 +758,7 @@ Senator DI NATALE
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>National Energy Guarantee</title>,DOCUMENTS,7,1
+",Senate,<title>DOCUMENTS</title>,<title>National Energy Guarantee</title>,DOCUMENTS,7,1,speech
 "Di Natale, Sen Richard",AG,2018-08-13,"
 
 
@@ -703,7 +775,7 @@ Senator DI NATALE
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,7,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,7,2,speech
 "McAllister, Sen Jenny",ALP,2018-08-13,"
 
 
@@ -738,7 +810,7 @@ There's no mention of coal, because coal is not the cheapest form of generation 
 
 The ACCC has made it very clear that its recommendation that government underwrite some of the risk associated with investment in new generation is not in any way targeted at coal. It is time for the government to come to grips with the technological and market reality about new generation and to stop pandering to its backbench, because it comes at the cost of Australian consumers.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1,speech
 "Williams, Sen John",Nats,2018-08-13,"
 
 
@@ -833,7 +905,7 @@ Those opposite are very much against the Adani coalmine. Well, Mr Shorten is aga
 
 We're not living under a tent. When are people going to learn that we're not living under a tent in Australia? As Dr Finkel said, no matter what we do, we're going to make little or no change to the environment; just put the costs up. This NEG is about stability and bringing electricity costs down. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1,speech
 "McCarthy, Sen Malarndirri",ALP,2018-08-13,"
 
 
@@ -853,7 +925,7 @@ Federal Labor has been consistently clear there should be no taxpayers' money fo
 
 And, again, I reiterate, as of 2 pm this afternoon, Fairfax Media reported Mr Sims made it clear to the Nationals' party room that one of the 56 recommendations in the regulator's pricing report in June should not be described as 'underwriting coal' or 'favouring coal-fired power stations'. Federal Labor has been consistently supportive and constructive over energy policy, offering bipartisan support for an investment framework that would deliver investor certainty and start to bring an end to the energy crisis that has emerged under Prime Minister Turnbull—and absolutely seen power bills skyrocket for Australian households and businesses right across the country.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1,speech
 "Stoker, Sen Amanda",LP,2018-08-13,"
 
 
@@ -876,7 +948,7 @@ One has got to commend the government for being willing to tackle this difficult
 
 I commend the government for being willing to deal once and for all with the problem of energy in this country by ensuring that we put downward pressure on prices and that there is the investment required to make sure there is reliable energy available for all. And it's working. The government's action has already had positive effects. Wholesale electricity prices are down by around 25 per cent compared to last year—a whole quarter! As of 1 July, retail power bills have been reduced right across New South Wales, South Australia and, importantly, in my home state of Queensland. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1,speech
 "Smith, Sen David",ALP,2018-08-13,"
 
 
@@ -899,7 +971,7 @@ We have already seen splits in the coalition over climate policy cause a change 
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1,speech
 "Di Natale, Sen Richard",AG,2018-08-13,"
 
 
@@ -933,7 +1005,7 @@ The DEPUTY PRESIDENT:  Leave is granted for one minute.
 Senator DI NATALE:
   Once again we see the Liberal Party blocking the will of the Senate and refusing to allow us the chance to vote on an important motion. The Greens are extremely concerned about reports that Bangladeshi security forces have killed more than 100 people in the last few months. Members of Australia's Bangladeshi community have raised their fears directly with us. They want us to raise this issue in our parliament. We reiterate the call of the UN High Commissioner for Human Rights that extrajudicial killings must be halted and halted immediately. As Bangladesh's regional neighbour, I hope that the government will show come courage, encourage proper judicial processes, call for the immediate release of political prisoners and help the Bangladeshi government with the ongoing humanitarian crisis in the region.
 
-",Senate,<title>MOTIONS</title>,<title>Bangladesh</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Bangladesh</title>,MOTIONS,13,1,speech
 "McGrath, Sen James",LP,2018-08-13,"
 
 
@@ -951,7 +1023,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator McGRATH:
   In line with the longstanding view of successive governments, given that formal motions cannot be debated or amended, they should not deal with complex and contested foreign policy matters. The Senate should not consider and vote on foreign policy motions of this kind without the ability to have a full debate, given that they involve serious and substantial issues.
 
-",Senate,<title>MOTIONS</title>,<title>Bangladesh</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Bangladesh</title>,MOTIONS,13,1,speech
 "DEPUTY PRESIDENT, The",,2018-08-13,"
 
 
@@ -978,7 +1050,7 @@ More than the number of senators required by the standing orders having risen in
 
 The DEPUTY PRESIDENT:  I understand that informal arrangements have been made to allocate specific times to each of the speakers in today's debate. With the concurrence of the Senate, I shall ask the clerks to set the clock accordingly.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Rice, Sen Janet",AG,2018-08-13,"
 
 
@@ -1016,7 +1088,7 @@ Although Australia might account for a relatively small percentage of global car
 
 If Australia is to be a team player, we need to act on climate change. We need to embrace renewable energy and create the jobs and the industries of the future, not stick with last century's energy systems because the fossil fuel mates from the big end of town have donated to both the government and the Labor Party. If the Prime Minister, Barnaby Joyce and the coalition really want to protect our farmers, our agricultural sector and our nation's food security, they need to stop supporting polluting coal and the fossil fuel industry and start getting serious about reducing Australia's carbon pollution. In the words of Prime Minister Turnbull eight years ago, 'We as a human species have a deep and abiding obligation to this planet.' (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "O'Sullivan, Sen Barry",Nats,2018-08-13,"
 
 
@@ -1042,7 +1114,7 @@ I also note that not one mention has ever been made about the suspension of the 
 
 So I urge my colleagues in this place not to use the people of the bush as some sort of political stick for them to pursue their causes. I know that my friends in the Greens won't be happy until all my poddy calves are sitting on the lounge with me, taking turns with the remote control. Until we can have a big juicy burger that I see them hoeing into down at McDonald's with a wrapper that says there were no little cattle slaughtered in the process of making this juicy hamburger, you have to leave the politics out of this. We as a nation need to recognise the contribution of primary producers and people who live in provincial Australia. We are a provincial nation—less than five per cent of our land mass is under metro. The rest of the people are out there working to deliver for our national interests and deliver our clothes, our chairs, the cars we drive and the fuel that goes in the tanks. What they need is less politics and more interest in how we will assist them to do what they need to do in a country that will always have these variations in the climate.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Ketter, Sen Christopher",ALP,2018-08-13,"
 
 
@@ -1080,7 +1152,7 @@ We've also just recently come out and suggested that there should be 100 new Cen
 
 I also want to make a point about water conservation. When I visited St George recently, which I've previously spoken about in this place, I saw how farmers use government incentives to conserve water. We know that the vast majority of farmers are the best stewards of the land. They know how to make use of these precious resources. These are all factors that need to be addressed when it comes to considering climate change, but we need to help our producers to implement better irrigation and conservation methods, and we need to support them to switch to less water-intensive industries where possible. I also want to highlight the fact that I have a regional inequality hearing of the Senate Economics Committee in Emerald on 29 August.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Hinch, Sen Derryn",DHJP,2018-08-13,"
 
 
@@ -1103,7 +1175,7 @@ I want to also thank Woolies and Bunnings for what they have done for the farmer
 
 I was, as you always are, impressed by their resilience, by the backbone of the Australian farmers. I just hope that everybody in the city—and we are becoming more aware of it—gets behind it, puts some money into it and tries to help the farmers out and that we get somewhere.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Macdonald, Sen Ian",LP,2018-08-13,"
 
 
@@ -1138,7 +1210,7 @@ We need to try to drought-proof the country—you'll never do that—by getting 
 
 Australia could be much better prepared for droughts if there were some additional storage. I'm fortunate. I live in the Burdekin delta, where we have the Burdekin Falls Dam built by the Fraser government. In Emerald, we have the Fairbairn Dam, another coalition government initiative. We need more of those to try to help people through these difficult times. But, until we can get that, this government will continue to make funds available to give every assistance possible to help drought-affected families get through their days.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "McAllister, Sen Jenny",ALP,2018-08-13,"
 
 
@@ -1233,7 +1305,7 @@ Climate scepticism bleeds into the government's policies across the board. Their
 
 Proper drought relief isn't just about providing financial assistance, although that is absolutely critical. It's also about doing what we can to reduce the risk of droughts being bigger and harsher than ever before. It requires us to take climate change seriously and act in partnership with the international community. I am proud that Australian Labor have been deeply committed to this for more than a decade and demonstrated that commitment through our actions when we were last in government. And I am proud that we approach the next election with a very clear plan to take serious action on climate change. We will reform the electricity sector. We will reform the transport sector. We will reduce emissions across the board. We cannot afford to do nothing and to let our agricultural sector pay the price. We will all regret it if we continue as we are.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Hanson-Young, Sen Sarah",AG,2018-08-13,"
 
 
@@ -1250,7 +1322,7 @@ There are heartbreaking stories coming in from all over the country in relation 
 
 I want to put on the record today that I'm disgusted as a South Australian that the Liberal Party and the Liberal government in South Australia is now looking to end this royal commission as quickly as possible when, in fact, they should be fighting for the federal government and the department to front it and give evidence. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Williams, Sen John",Nats,2018-08-13,"
 
 
@@ -1279,7 +1351,7 @@ The big drought of the late 1800s and early 1900s, from 1897 to 1902, was a drou
 
 I'm amazed at the poisonous gases in the atmosphere. When you see the pollution in places like Vietnam and Hong Kong, that is not CO2. CO2 is odourless, colourless and non-toxic. But what are we doing to reduce the poisonous gases—the carbon monoxide, lead, sulphur and smoke? We don't hear any complaints about that. The poisonous gases are all right; just keep them going up and up around the world. You go to countries where you don't even see the sun and you don't see any stars. Luckily, I live out on a farm where you can see the stars, sadly too often at the moment because there's no cloud at night. But to think that you're going to change the planet—go to those countries, Greens senators. Line up with your left-wing Labor senators. Go there and protest about the building of new coal-fired generation and see how you get on. You won't get on very well at all.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Anning, Sen Fraser",KAP,2018-08-13,"
 
 
@@ -1293,7 +1365,7 @@ A country like Australia is always subject to periodic droughts. It is not clima
 
 If North Queensland were a country, it would be the wettest country on earth. The problem is that monsoonal rains just pour down rivers and run out to sea. If we turn those rivers back and capture the water, dry cattle country and deserts would suddenly be lush green fields. This would not only ensure our own food requirements are met but also provide food for many hundreds of thousands of others in other countries as well. To imagine the benefits, we only need to see what has been achieved in places like Israel and California. Both are places in which virtual deserts have been transformed into enormous food bowls which help drive their respective economies. There is a proposal to do this. It's called the Bradfield scheme, and I'll have more to say about it tomorrow.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Storer, Sen Timothy",IND,2018-08-13,"
 
 
@@ -1319,7 +1391,7 @@ The ACTING DEPUTY PRESIDENT
 Senator O'Sullivan
 ):  The discussion on the matter of public importance has concluded.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Drought</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Siewert, Sen Rachel",AG,2018-08-13,"
 
 
@@ -1369,7 +1441,7 @@ In other words, the government never set out to measure what impact the trial ha
 
 The evaluation does not support the further rollout of the card. In fact it was never set up, if you recall what I've just said around scalability of the CDC, and there was no plan in place to undertake further evaluation. The government's approach was not to further evaluate the ongoing trials. However, they have now, subsequently, put in some further evaluation process. But they never put in place the process to actually enable proper evaluation of the cashless welfare card, because they just think taking the punitive top-down approach will lead to better outcomes. What it is really about is income management—that's very clear. The cashless welfare card is further income management, and they have an ideological belief that income management will work. They've now had over 11 years worth of 'trialling' that in the Northern Territory, but of course the evaluation of that showed that it met none of its objectives. The ANAO report has further highlighted the flawed approach this government's taking. The minister representing the Minister for Social Services was in here lauding their approach to welfare today. 
 
-",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 1 of 2018-19</title>,AUDITOR-GENERAL'S REPORTS,15,1
+",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 1 of 2018-19</title>,AUDITOR-GENERAL'S REPORTS,15,1,speech
 "Bartlett, Sen Andrew",AG,2018-08-13,"
 
 
@@ -1401,7 +1473,7 @@ There was a very good submission by the mayor of Hervey Bay, George Seymour, a p
 
 Leave granted; debate adjourned.
 
-",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 1 of 2018-19</title>,AUDITOR-GENERAL'S REPORTS,15,1
+",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 1 of 2018-19</title>,AUDITOR-GENERAL'S REPORTS,15,1,speech
 "Siewert, Sen Rachel",AG,2018-08-13,"
 
 
@@ -1451,7 +1523,7 @@ In other words, the government never set out to measure what impact the trial ha
 
 The evaluation does not support the further rollout of the card. In fact it was never set up, if you recall what I've just said around scalability of the CDC, and there was no plan in place to undertake further evaluation. The government's approach was not to further evaluate the ongoing trials. However, they have now, subsequently, put in some further evaluation process. But they never put in place the process to actually enable proper evaluation of the cashless welfare card, because they just think taking the punitive top-down approach will lead to better outcomes. What it is really about is income management—that's very clear. The cashless welfare card is further income management, and they have an ideological belief that income management will work. They've now had over 11 years worth of 'trialling' that in the Northern Territory, but of course the evaluation of that showed that it met none of its objectives. The ANAO report has further highlighted the flawed approach this government's taking. The minister representing the Minister for Social Services was in here lauding their approach to welfare today. 
 
-",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Consideration</title>,AUDITOR-GENERAL'S REPORTS,15,2
+",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Consideration</title>,AUDITOR-GENERAL'S REPORTS,15,2,speech
 "Bartlett, Sen Andrew",AG,2018-08-13,"
 
 
@@ -1483,7 +1555,7 @@ There was a very good submission by the mayor of Hervey Bay, George Seymour, a p
 
 Leave granted; debate adjourned.
 
-",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Consideration</title>,AUDITOR-GENERAL'S REPORTS,15,2
+",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Consideration</title>,AUDITOR-GENERAL'S REPORTS,15,2,speech
 "Bartlett, Sen Andrew",AG,2018-08-13,"
 
 
@@ -1512,7 +1584,7 @@ This is just another example of an approach from government where the community 
 
 I should, just in case people think I'm being negative, point out that there have been some responses since the last time this document was tabled. It's tabled every six months. There's been some action, some movement, in response to a report in 2011 on the Pharmaceutical Benefits Scheme, which is good to see, and a response to a 2015 report on housing affordability finally appearing. So there is some movement there, but it really is an inadequate response from government of both persuasions and another reminder of why we need such a major overhaul of our political system. It is another example of how our politics is broken and another example of why the community needs to look for alternatives to the tired-out approach of the parties of the political establishment.
 
-",Senate,<title>DOCUMENTS</title>,<title>President's report on government responses to parliamentary committee reports</title>,DOCUMENTS,16,1
+",Senate,<title>DOCUMENTS</title>,<title>President's report on government responses to parliamentary committee reports</title>,DOCUMENTS,16,1,speech
 "Bartlett, Sen Andrew",AG,2018-08-13,"
 
 
@@ -1541,7 +1613,7 @@ This is just another example of an approach from government where the community 
 
 I should, just in case people think I'm being negative, point out that there have been some responses since the last time this document was tabled. It's tabled every six months. There's been some action, some movement, in response to a report in 2011 on the Pharmaceutical Benefits Scheme, which is good to see, and a response to a 2015 report on housing affordability finally appearing. So there is some movement there, but it really is an inadequate response from government of both persuasions and another reminder of why we need such a major overhaul of our political system. It is another example of how our politics is broken and another example of why the community needs to look for alternatives to the tired-out approach of the parties of the political establishment.
 
-",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,16,2
+",Senate,<title>DOCUMENTS</title>,<title>Consideration</title>,DOCUMENTS,16,2,speech
 "Birmingham, Sen Simon",LP,2018-08-13,"
 
 
@@ -1549,7 +1621,7 @@ I should, just in case people think I'm being negative, point out that there hav
 Senator BIRMINGHAM
  (South Australia—Minister for Education and Training and Manager of Government Business in the Senate) (17:52):  I table an addendum to the explanatory memorandum relating to the Crimes Legislation Amendment (Combatting Corporate Crime) Bill 2017.
 
-",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Combatting Corporate Crime) Bill 2017</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Crimes Legislation Amendment (Combatting Corporate Crime) Bill 2017</title>,BILLS,20,1,speech
 "Birmingham, Sen Simon",LP,2018-08-13,"
 
 
@@ -1557,7 +1629,7 @@ Senator BIRMINGHAM
 Senator BIRMINGHAM
  (South Australia—Minister for Education and Training and Manager of Government Business in the Senate) (17:52):  I table an addendum to the explanatory memorandum relating to the Crimes Legislation Amendment (Combatting Corporate Crime) Bill 2017.
 
-",Senate,<title>BILLS</title>,<title>Explanatory Memorandum</title>,BILLS,20,2
+",Senate,<title>BILLS</title>,<title>Explanatory Memorandum</title>,BILLS,20,2,speech
 "DEPUTY PRESIDENT, The",,2018-08-13,"
 
 
@@ -1565,7 +1637,7 @@ Senator BIRMINGHAM
 The DEPUTY PRESIDENT
  (17:53):  The President has received letters requesting changes in the membership of the Senate Select Committee on Electric Vehicles.
 
-",Senate,<title>COMMITTEES</title>,<title>Select Committee on Electric Vehicles</title>,COMMITTEES,21,1
+",Senate,<title>COMMITTEES</title>,<title>Select Committee on Electric Vehicles</title>,COMMITTEES,21,1,speech
 "Birmingham, Sen Simon",LP,2018-08-13,"
 
 
@@ -1579,7 +1651,7 @@ That Senator Griff be appointed as a participating member of the Select Committe
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Select Committee on Electric Vehicles</title>,COMMITTEES,21,1
+",Senate,<title>COMMITTEES</title>,<title>Select Committee on Electric Vehicles</title>,COMMITTEES,21,1,speech
 "DEPUTY PRESIDENT, The",,2018-08-13,"
 
 
@@ -1587,7 +1659,7 @@ Question agreed to.
 The DEPUTY PRESIDENT
  (17:53):  The President has received letters requesting changes in the membership of the Senate Select Committee on Electric Vehicles.
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,21,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,21,2,speech
 "Birmingham, Sen Simon",LP,2018-08-13,"
 
 
@@ -1601,7 +1673,7 @@ That Senator Griff be appointed as a participating member of the Select Committe
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,21,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,21,2,speech
 "Birmingham, Sen Simon",LP,2018-08-13,"
 
 
@@ -1618,7 +1690,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,"<title>Crimes Legislation Amendment (Powers, Offences and Other Measures) Bill 2018, Treasury Laws Amendment (Australian Consumer Law Review) Bill 2018</title>",BILLS,22,1
+",Senate,<title>BILLS</title>,"<title>Crimes Legislation Amendment (Powers, Offences and Other Measures) Bill 2018, Treasury Laws Amendment (Australian Consumer Law Review) Bill 2018</title>",BILLS,22,1,speech
 "Birmingham, Sen Simon",LP,2018-08-13,"
 
 
@@ -1890,7 +1962,7 @@ Debate adjourned.
 
 Ordered that the bills be listed on the Notice Paper as separate orders of the day.
 
-",Senate,<title>BILLS</title>,"<title>Crimes Legislation Amendment (Powers, Offences and Other Measures) Bill 2018, Treasury Laws Amendment (Australian Consumer Law Review) Bill 2018</title>",BILLS,22,1
+",Senate,<title>BILLS</title>,"<title>Crimes Legislation Amendment (Powers, Offences and Other Measures) Bill 2018, Treasury Laws Amendment (Australian Consumer Law Review) Bill 2018</title>",BILLS,22,1,speech
 "Birmingham, Sen Simon",LP,2018-08-13,"
 
 
@@ -1907,7 +1979,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,22,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,22,2,speech
 "Rice, Sen Janet",AG,2018-08-13,"
 
 
@@ -1988,7 +2060,7 @@ Senator Rice:
 
 Leave granted.
 
-",Senate,<title>COMMITTEES</title>,<title>Environment and Communications References Committee</title>,COMMITTEES,23,1
+",Senate,<title>COMMITTEES</title>,<title>Environment and Communications References Committee</title>,COMMITTEES,23,1,speech
 "Storer, Sen Timothy",IND,2018-08-13,"
 
 
@@ -2024,7 +2096,7 @@ Senator STORER:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Environment and Communications References Committee</title>,COMMITTEES,23,1
+",Senate,<title>COMMITTEES</title>,<title>Environment and Communications References Committee</title>,COMMITTEES,23,1,speech
 "Rice, Sen Janet",AG,2018-08-13,"
 
 
@@ -2105,7 +2177,7 @@ Senator Rice:
 
 Leave granted.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2,speech
 "Storer, Sen Timothy",IND,2018-08-13,"
 
 
@@ -2141,7 +2213,7 @@ Senator STORER:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2,speech
 "CHAIR, The",,2018-08-13,"
 
 
@@ -2149,7 +2221,7 @@ Leave granted; debate adjourned.
 The CHAIR
  (18:12):  The question is that the bill, as amended, be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Higher Education Support Legislation Amendment (Student Loan Sustainability) Bill 2018</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Higher Education Support Legislation Amendment (Student Loan Sustainability) Bill 2018</title>,BILLS,24,1,speech
 "Hinch, Sen Derryn",DHJP,2018-08-13,"
 
 
@@ -2163,7 +2235,7 @@ Senator HINCH
 
 I know that I voted for the losing Greens motion this afternoon, but I now want to move this amendment, which puts a new repayment point at $50,000.
 
-",Senate,<title>BILLS</title>,<title>Higher Education Support Legislation Amendment (Student Loan Sustainability) Bill 2018</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Higher Education Support Legislation Amendment (Student Loan Sustainability) Bill 2018</title>,BILLS,24,1,speech
 "O'Neill, Sen Deb",ALP,2018-08-13,"
 
 
@@ -2174,7 +2246,7 @@ Senator O'NEILL
 
 Labor believes that the HELP repayment system should be looked at as part of our national inquiry into post-secondary education, and we know from evidence at that hearing on the bill that the repayment thresholds are being lowered not for any noble purpose, but simply for the government's desire to make budget savings at the expense of young Australians, who are our future and deserve much better understanding of education as an investment instead of the monotony of the cost of education that we hear from this current government. Labor's not satisfied that the government's done enough to look at how the HELP repayment thresholds intersect with the tax and social security systems. So, with those reservations, we still oppose this proposal from you, Senator Hinch.
 
-",Senate,<title>BILLS</title>,<title>Higher Education Support Legislation Amendment (Student Loan Sustainability) Bill 2018</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Higher Education Support Legislation Amendment (Student Loan Sustainability) Bill 2018</title>,BILLS,24,1,speech
 "Hinch, Sen Derryn",DHJP,2018-08-13,"
 
 
@@ -2186,7 +2258,7 @@ Senator HINCH
 
 The CHAIR:  Senator Hinch, I remind you to refer to senators by their correct title.
 
-",Senate,<title>BILLS</title>,<title>Higher Education Support Legislation Amendment (Student Loan Sustainability) Bill 2018</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Higher Education Support Legislation Amendment (Student Loan Sustainability) Bill 2018</title>,BILLS,24,1,speech
 "Birmingham, Sen Simon",LP,2018-08-13,"
 
 
@@ -2198,7 +2270,7 @@ Senator BIRMINGHAM
 
 The CHAIR:  The question is that amendment (1) on sheet 8410, as moved by Senator Hinch, be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Higher Education Support Legislation Amendment (Student Loan Sustainability) Bill 2018</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Higher Education Support Legislation Amendment (Student Loan Sustainability) Bill 2018</title>,BILLS,24,1,speech
 "Leyonhjelm, Sen David",LDP,2018-08-13,"
 
 
@@ -2210,7 +2282,7 @@ Senator LEYONHJELM
 
 The CHAIR:  The question is that the bill, as amended, be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Higher Education Support Legislation Amendment (Student Loan Sustainability) Bill 2018</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Higher Education Support Legislation Amendment (Student Loan Sustainability) Bill 2018</title>,BILLS,24,1,speech
 "Birmingham, Sen Simon",LP,2018-08-13,"
 
 
@@ -2225,7 +2297,7 @@ That this bill be now read a third time.
 
 The PRESIDENT:  The question is that the bill be now read a third time.
 
-",Senate,<title>BILLS</title>,<title>Higher Education Support Legislation Amendment (Student Loan Sustainability) Bill 2018</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Higher Education Support Legislation Amendment (Student Loan Sustainability) Bill 2018</title>,BILLS,24,1,speech
 "CHAIR, The",,2018-08-13,"
 
 
@@ -2233,7 +2305,7 @@ The PRESIDENT:  The question is that the bill be now read a third time.
 The CHAIR
  (18:12):  The question is that the bill, as amended, be agreed to.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,24,2,speech
 "Hinch, Sen Derryn",DHJP,2018-08-13,"
 
 
@@ -2247,7 +2319,7 @@ Senator HINCH
 
 I know that I voted for the losing Greens motion this afternoon, but I now want to move this amendment, which puts a new repayment point at $50,000.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,24,2,speech
 "O'Neill, Sen Deb",ALP,2018-08-13,"
 
 
@@ -2258,7 +2330,7 @@ Senator O'NEILL
 
 Labor believes that the HELP repayment system should be looked at as part of our national inquiry into post-secondary education, and we know from evidence at that hearing on the bill that the repayment thresholds are being lowered not for any noble purpose, but simply for the government's desire to make budget savings at the expense of young Australians, who are our future and deserve much better understanding of education as an investment instead of the monotony of the cost of education that we hear from this current government. Labor's not satisfied that the government's done enough to look at how the HELP repayment thresholds intersect with the tax and social security systems. So, with those reservations, we still oppose this proposal from you, Senator Hinch.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,24,2,speech
 "Hinch, Sen Derryn",DHJP,2018-08-13,"
 
 
@@ -2270,7 +2342,7 @@ Senator HINCH
 
 The CHAIR:  Senator Hinch, I remind you to refer to senators by their correct title.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,24,2,speech
 "Birmingham, Sen Simon",LP,2018-08-13,"
 
 
@@ -2282,7 +2354,7 @@ Senator BIRMINGHAM
 
 The CHAIR:  The question is that amendment (1) on sheet 8410, as moved by Senator Hinch, be agreed to.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,24,2,speech
 "Leyonhjelm, Sen David",LDP,2018-08-13,"
 
 
@@ -2294,7 +2366,7 @@ Senator LEYONHJELM
 
 The CHAIR:  The question is that the bill, as amended, be agreed to.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,24,2,speech
 "Duniam, Sen Jonathon",LP,2018-08-13,"
 
 
@@ -2326,4 +2398,4 @@ Additionally, I was able to catch up with the team at Blue Rocket Studios, an an
 
 I also caught up with the team at Wide Angle Tasmania, which is a not-for-profit organisation supporting grassroots participation in the screen industry. I saw their plans for the future and how they intend to support those who want to make a go of things in the screen industry in our state, where we don't have the opportunities and the avenues that perhaps Victoria, New South Wales and maybe even Queensland have. This organisation has run off the smell of an oily rag for some time but does a great job in supporting those who actually do want to make a go of things in Tasmania by creating connections and providing them with opportunities that they may not have otherwise had. They provide equipment to people who are working on small projects themselves. That's part of their revenue stream. The work that they do in supporting the creative industries sector in Tasmania is something I feel very optimistic about. It gives us a great foundation with regard to the future of this industry. While we're seeing things like Rosehaven, Little J and Big Cuz, the work of Blue Rocket Productions and the work of Wide Angle Tasmania, I think we have a bright future in the creative industries sector and the cultural sector as well. It is a growing industry, as I've already said, and it's one I look forward to working with, along with my Tasmanian Liberal Senate colleagues, to grow into the future as part of our wonderful and growing economy in Tasmania.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Tasmania: Arts</title>,ADJOURNMENT,25,1
+",Senate,<title>ADJOURNMENT</title>,<title>Tasmania: Arts</title>,ADJOURNMENT,25,1,speech

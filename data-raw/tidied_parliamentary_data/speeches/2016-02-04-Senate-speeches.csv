@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2016-02-04,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (09:31):  Does any senator wish to have the question put on any of those motions? There being none, we will move on.
 
-",Senate,<title>COMMITTEES</title>,"<title>Environment and Communications Legislation Committee, Legal and Constitutional Affairs References Committee</title>",COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,"<title>Environment and Communications Legislation Committee, Legal and Constitutional Affairs References Committee</title>",COMMITTEES,1,1,speech
 "PRESIDENT, The",,2016-02-04,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (09:31):  Does any senator wish to have the question put on any of those motions? There being none, we will move on.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "Colbeck, Sen Richard",LP,2016-02-04,"
 
 
@@ -74,7 +74,7 @@ Senator COLBECK:
 
 The PRESIDENT:  I will just make the comment that, in relation to these matters, the minister has no choice. He had to come and correct the record. So, really, whether advice was given or not I consider immaterial. I take your point, Senator Moore, but it was not a regular ministerial statement; it was more a correction of the record. The minister is in order and has corrected the record. But thank you for asking, Senator Moore.
 
-",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,"<title>Question Nos 2630, 2631 and 2632</title>",ANSWERS TO QUESTIONS ON NOTICE,2,1
+",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,"<title>Question Nos 2630, 2631 and 2632</title>",ANSWERS TO QUESTIONS ON NOTICE,2,1,speech
 "Lazarus, Sen Glenn",GLT,2016-02-04,"
 
 
@@ -82,7 +82,7 @@ The PRESIDENT:  I will just make the comment that, in relation to these matters,
 Senator LAZARUS
  (Queensland) (09:34):  by leave—I wish to inform the chamber that I am the leader of the Glenn Lazarus Team.
 
-",Senate,<title>PARTY OFFICE HOLDERS</title>,<title>Glenn Lazarus Team</title>,PARTY OFFICE HOLDERS,3,1
+",Senate,<title>PARTY OFFICE HOLDERS</title>,<title>Glenn Lazarus Team</title>,PARTY OFFICE HOLDERS,3,1,speech
 "Simms, Sen Robert",AG,2016-02-04,"
 
 
@@ -144,7 +144,7 @@ I also want to make the point that it is time for Mr Turnbull to show some leade
 
 We saw earlier this year, with the appalling treatment of Mr Bulmer-Rizzi in Adelaide, the terrible human consequences, the human implications, of what can happen when there is not something like this in place. I urge this parliament to support this bill. 
 
-",Senate,<title>BILLS</title>,<title>Recognition of Foreign Marriages Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Recognition of Foreign Marriages Bill 2014</title>,BILLS,4,1,speech
 "Fawcett, Sen David",LP,2016-02-04,"
 
 
@@ -197,7 +197,7 @@ Secondly, the issue that has led to Senator Simms and others very passionately a
 
 Thirdly, there are the issues with the bill itself. As highlighted by the Senate Legal and Constitutional Affairs Legislation Committee, which, in 2014, considered this bill and recommended that it not be passed, there are issues or complications with the bill that I think mean it would not be wise for the parliament to pass it.  As stated, I will not be supporting the bill.
 
-",Senate,<title>BILLS</title>,<title>Recognition of Foreign Marriages Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Recognition of Foreign Marriages Bill 2014</title>,BILLS,4,1,speech
 "Moore, Sen Claire",ALP,2016-02-04,"
 
 
@@ -256,7 +256,7 @@ Mr Acting Deputy President, you would not be surprised that I am speaking in fav
 
 I take Senator Fawcett's point that this is an issue that can be conducted state by state but, as we all know here, federal legislation overrides that. If there were standard law in our nation, just as the legislation before us would put in place, we would not have the ridiculous situation that your marriage status is determined by which state you happen to be in. You could get married in every state. Just go from state to state and see what happens. You would probably get caught out, because your documentation would be wrong and your documentation would not work. But, nonetheless, I think that we have seen now the impact of the law on people and the hurt it causes. This should be changed. It should be openly discussed. It should be legally clear and we should be able to say that, if you are married, you are married.
 
-",Senate,<title>BILLS</title>,<title>Recognition of Foreign Marriages Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Recognition of Foreign Marriages Bill 2014</title>,BILLS,4,1,speech
 "Rice, Sen Janet",AG,2016-02-04,"
 
 
@@ -315,7 +315,7 @@ The Greens position is that we want to see equal marriage recognised as soon as 
 
 The Greens have got the courage. We have had the courage for years and years to be putting this on the agenda. Every time we have had a debate about equal marriage in any parliament in Australia, every Green—every vote, every time—we have been supporting the idea of equal marriage and having our parliaments and our legislation catch up with the community. We are very much commending this legislation to the Senate today. We see it as a small step forward that will really make a huge difference and a small step forward towards the time when we know that we will celebrating the love between two people, regardless of their gender, regardless of their sexuality, celebrating the end of discrimination against same-sex attracted people and transgendered people, and celebrating everybody being treated and valued for who they are.
 
-",Senate,<title>BILLS</title>,<title>Recognition of Foreign Marriages Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Recognition of Foreign Marriages Bill 2014</title>,BILLS,4,1,speech
 "Bernardi, Sen Cory",LP,2016-02-04,"
 
 
@@ -423,7 +423,7 @@ I would expect that many Australians would regard this bill as a tricky way of a
 
 I have outlined the reasons why am I unable to support this bill; some of them are personal. I respect that other people would have very personal investment and engagement in this but I do not think it does us any service as a nation to undermine our own national sovereignty to try and advance the homosexual marriage agenda by stealth, which this really is, because it would encourage people to go outside Australian law to engage in a solemnised union overseas and then come back here and demand a different set of standards or a different relationship status than is available to people under Australian law.
 
-",Senate,<title>BILLS</title>,<title>Recognition of Foreign Marriages Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Recognition of Foreign Marriages Bill 2014</title>,BILLS,4,1,speech
 "Lines, Sen Susan",ALP,2016-02-04,"
 
 
@@ -488,7 +488,7 @@ Of course, Senator Bernardi mentioned the plebiscite. It would seem that despite
 
 I urge the Senate to support this bill to recognise foreign marriage not on the basis of morality but simply to get rid of those inconsistencies and legal minefields that people face and to bring justice to David, quite frankly.
 
-",Senate,<title>BILLS</title>,<title>Recognition of Foreign Marriages Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Recognition of Foreign Marriages Bill 2014</title>,BILLS,4,1,speech
 "Siewert, Sen Rachel",AG,2016-02-04,"
 
 
@@ -541,7 +541,7 @@ This bill is an important bill. We should standardise recognition of foreign sam
 
 Australian Marriage Equality has written to the state Attorney-General calling for urgent change. I support that and I add my name to that call, but here today in the Commonwealth parliament we can make a change. We can make a change to recognise foreign same-sex marriages. This is a part of the step to achieve marriage equality. It is a small step, but we can take it and we must take it. I commend this bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Recognition of Foreign Marriages Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Recognition of Foreign Marriages Bill 2014</title>,BILLS,4,1,speech
 "Canavan, Sen Matthew",Nats,2016-02-04,"
 
 
@@ -598,7 +598,7 @@ Finally, I want to return to where I started. While this is somewhat of a semant
 
 The DEPUTY PRESIDENT:  The time for this debate has now expired.
 
-",Senate,<title>BILLS</title>,<title>Recognition of Foreign Marriages Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Recognition of Foreign Marriages Bill 2014</title>,BILLS,4,1,speech
 "Simms, Sen Robert",AG,2016-02-04,"
 
 
@@ -660,7 +660,7 @@ I also want to make the point that it is time for Mr Turnbull to show some leade
 
 We saw earlier this year, with the appalling treatment of Mr Bulmer-Rizzi in Adelaide, the terrible human consequences, the human implications, of what can happen when there is not something like this in place. I urge this parliament to support this bill. 
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Fawcett, Sen David",LP,2016-02-04,"
 
 
@@ -713,7 +713,7 @@ Secondly, the issue that has led to Senator Simms and others very passionately a
 
 Thirdly, there are the issues with the bill itself. As highlighted by the Senate Legal and Constitutional Affairs Legislation Committee, which, in 2014, considered this bill and recommended that it not be passed, there are issues or complications with the bill that I think mean it would not be wise for the parliament to pass it.  As stated, I will not be supporting the bill.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Moore, Sen Claire",ALP,2016-02-04,"
 
 
@@ -772,7 +772,7 @@ Mr Acting Deputy President, you would not be surprised that I am speaking in fav
 
 I take Senator Fawcett's point that this is an issue that can be conducted state by state but, as we all know here, federal legislation overrides that. If there were standard law in our nation, just as the legislation before us would put in place, we would not have the ridiculous situation that your marriage status is determined by which state you happen to be in. You could get married in every state. Just go from state to state and see what happens. You would probably get caught out, because your documentation would be wrong and your documentation would not work. But, nonetheless, I think that we have seen now the impact of the law on people and the hurt it causes. This should be changed. It should be openly discussed. It should be legally clear and we should be able to say that, if you are married, you are married.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Rice, Sen Janet",AG,2016-02-04,"
 
 
@@ -831,7 +831,7 @@ The Greens position is that we want to see equal marriage recognised as soon as 
 
 The Greens have got the courage. We have had the courage for years and years to be putting this on the agenda. Every time we have had a debate about equal marriage in any parliament in Australia, every Green—every vote, every time—we have been supporting the idea of equal marriage and having our parliaments and our legislation catch up with the community. We are very much commending this legislation to the Senate today. We see it as a small step forward that will really make a huge difference and a small step forward towards the time when we know that we will celebrating the love between two people, regardless of their gender, regardless of their sexuality, celebrating the end of discrimination against same-sex attracted people and transgendered people, and celebrating everybody being treated and valued for who they are.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Bernardi, Sen Cory",LP,2016-02-04,"
 
 
@@ -939,7 +939,7 @@ I would expect that many Australians would regard this bill as a tricky way of a
 
 I have outlined the reasons why am I unable to support this bill; some of them are personal. I respect that other people would have very personal investment and engagement in this but I do not think it does us any service as a nation to undermine our own national sovereignty to try and advance the homosexual marriage agenda by stealth, which this really is, because it would encourage people to go outside Australian law to engage in a solemnised union overseas and then come back here and demand a different set of standards or a different relationship status than is available to people under Australian law.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Lines, Sen Susan",ALP,2016-02-04,"
 
 
@@ -1004,7 +1004,7 @@ Of course, Senator Bernardi mentioned the plebiscite. It would seem that despite
 
 I urge the Senate to support this bill to recognise foreign marriage not on the basis of morality but simply to get rid of those inconsistencies and legal minefields that people face and to bring justice to David, quite frankly.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Siewert, Sen Rachel",AG,2016-02-04,"
 
 
@@ -1057,7 +1057,7 @@ This bill is an important bill. We should standardise recognition of foreign sam
 
 Australian Marriage Equality has written to the state Attorney-General calling for urgent change. I support that and I add my name to that call, but here today in the Commonwealth parliament we can make a change. We can make a change to recognise foreign same-sex marriages. This is a part of the step to achieve marriage equality. It is a small step, but we can take it and we must take it. I commend this bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Canavan, Sen Matthew",Nats,2016-02-04,"
 
 
@@ -1114,7 +1114,7 @@ Finally, I want to return to where I started. While this is somewhat of a semant
 
 The DEPUTY PRESIDENT:  The time for this debate has now expired.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Bushby, Sen David",LP,2016-02-04,"
 
 
@@ -1666,7 +1666,7 @@ Senator BUSHBY:
 
    That the report be adopted.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "Moore, Sen Claire",ALP,2016-02-04,"
 
 
@@ -1683,7 +1683,7 @@ The reason we have asked for this date is to allow fulsome debate in our process
 
 As I have said in these discussions many times, that is the role of the Senate. The role of the Senate is to scrutinise legislation. That role does not belong to anybody else. It does not belong exclusively to the royal commission, it does not belong to the media; it belongs to the Senate, and the process for Senate scrutiny is the Senate Education and Employment Legislation Committee. We have an extraordinarily busy couple of weeks in front of us. If you check the calendar, we have Senate estimates, we have two intensive periods of sitting. Arranging for effective scrutiny will take time, and we submit that a report by 15 March gives time to have that scrutiny and also bring back that report for effective debate in the Senate.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "Brandis, Sen George",LP,2016-02-04,"
 
 
@@ -1703,7 +1703,7 @@ The government, out of abundant concern to accommodate the opposition, has sugge
 
 Mr Deputy President, I think we know that an opposition are at liberty to use every parliamentary device open to them to thwart the passage of legislation that they oppose. We accept that, but at least be honest about the fact that that, Senator Moore, is what you are doing. You are engaged in excessive use of what would otherwise be appropriate and usual parliamentary procedures, using every device at your disposal to thwart the passage of this legislation. We know you are opposed to this legislation, Senator, but the legislation has already been debated in this chamber once. It has already been the subject of extensive public hearings by the very committee to which you seek to send it back. The same bills have already been considered by the same senators sitting on the same committee. The issues have not changed. Please stop standing in the way of deliberation on these bills. (Time expired)
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "Cash, Sen Michaelia",LP,2016-02-04,"
 
 
@@ -1723,7 +1723,7 @@ The Australian people have every right to expect the Senate to make decisions an
 
 Again, Labor and the Australian Greens have made their position on this bill abundantly clear. They will not support the bill. The longer this bill is delayed, the more the Australian people will be convinced that this Senate is not genuine about tackling the serious issues that have been raised in this bill. The government is seeking a process that will enable the Senate to actually consider the bill and pass judgement on it rather than engaging in delay. (Time expired)
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "Lazarus, Sen Glenn",GLT,2016-02-04,"
 
 
@@ -1747,7 +1747,7 @@ The DEPUTY PRESIDENT:  The question is that the amendment moved by Senator Moore
 
  
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "DEPUTY PRESIDENT, The",,2016-02-04,"
 
 
@@ -1755,7 +1755,7 @@ The DEPUTY PRESIDENT:  The question is that the amendment moved by Senator Moore
 The DEPUTY PRESIDENT
  (12:18):  The question now is that the motion, as amended, be agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "Fifield, Sen Mitch",LP,2016-02-04,"
 
 
@@ -1779,7 +1779,7 @@ The DEPUTY PRESIDENT:  The question is that the motion, as amended, be agreed to
 
  
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "Bushby, Sen David",LP,2016-02-04,"
 
 
@@ -2331,7 +2331,7 @@ Senator BUSHBY:
 
    That the report be adopted.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Moore, Sen Claire",ALP,2016-02-04,"
 
 
@@ -2348,7 +2348,7 @@ The reason we have asked for this date is to allow fulsome debate in our process
 
 As I have said in these discussions many times, that is the role of the Senate. The role of the Senate is to scrutinise legislation. That role does not belong to anybody else. It does not belong exclusively to the royal commission, it does not belong to the media; it belongs to the Senate, and the process for Senate scrutiny is the Senate Education and Employment Legislation Committee. We have an extraordinarily busy couple of weeks in front of us. If you check the calendar, we have Senate estimates, we have two intensive periods of sitting. Arranging for effective scrutiny will take time, and we submit that a report by 15 March gives time to have that scrutiny and also bring back that report for effective debate in the Senate.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Brandis, Sen George",LP,2016-02-04,"
 
 
@@ -2368,7 +2368,7 @@ The government, out of abundant concern to accommodate the opposition, has sugge
 
 Mr Deputy President, I think we know that an opposition are at liberty to use every parliamentary device open to them to thwart the passage of legislation that they oppose. We accept that, but at least be honest about the fact that that, Senator Moore, is what you are doing. You are engaged in excessive use of what would otherwise be appropriate and usual parliamentary procedures, using every device at your disposal to thwart the passage of this legislation. We know you are opposed to this legislation, Senator, but the legislation has already been debated in this chamber once. It has already been the subject of extensive public hearings by the very committee to which you seek to send it back. The same bills have already been considered by the same senators sitting on the same committee. The issues have not changed. Please stop standing in the way of deliberation on these bills. (Time expired)
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Cash, Sen Michaelia",LP,2016-02-04,"
 
 
@@ -2388,7 +2388,7 @@ The Australian people have every right to expect the Senate to make decisions an
 
 Again, Labor and the Australian Greens have made their position on this bill abundantly clear. They will not support the bill. The longer this bill is delayed, the more the Australian people will be convinced that this Senate is not genuine about tackling the serious issues that have been raised in this bill. The government is seeking a process that will enable the Senate to actually consider the bill and pass judgement on it rather than engaging in delay. (Time expired)
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Lazarus, Sen Glenn",GLT,2016-02-04,"
 
 
@@ -2412,7 +2412,7 @@ The DEPUTY PRESIDENT:  The question is that the amendment moved by Senator Moore
 
  
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "DEPUTY PRESIDENT, The",,2016-02-04,"
 
 
@@ -2420,7 +2420,7 @@ The DEPUTY PRESIDENT:  The question is that the amendment moved by Senator Moore
 The DEPUTY PRESIDENT
  (12:18):  The question now is that the motion, as amended, be agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Fifield, Sen Mitch",LP,2016-02-04,"
 
 
@@ -2444,7 +2444,7 @@ The DEPUTY PRESIDENT:  The question is that the motion, as amended, be agreed to
 
  
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Hanson-Young, Sen Sarah",AG,2016-02-04,"
 
 
@@ -2455,7 +2455,7 @@ Senator HANSON-YOUNG
 
 That the Senate calls on the Turnbull Government to grant amnesty to the 267 men, women and children in Australia as part of the M68 High Court challenge, and allow them to stay.
 
-",Senate,<title>MOTIONS</title>,<title>Asylum Seekers</title>,MOTIONS,9,1
+",Senate,<title>MOTIONS</title>,<title>Asylum Seekers</title>,MOTIONS,9,1,speech
 "Ryan, Sen Scott",LP,2016-02-04,"
 
 
@@ -2480,7 +2480,7 @@ The DEPUTY PRESIDENT:  The question is that the motion be agreed to.
 
  
 
-",Senate,<title>MOTIONS</title>,<title>Asylum Seekers</title>,MOTIONS,9,1
+",Senate,<title>MOTIONS</title>,<title>Asylum Seekers</title>,MOTIONS,9,1,speech
 "Dastyari, Sen Sam",ALP,2016-02-04,"
 
 
@@ -2492,7 +2492,7 @@ Senator DASTYARI
 
 The DEPUTY PRESIDENT:  Is there any objection to this motion being taken as formal? There is none.
 
-",Senate,<title>COMMITTEES</title>,<title>School Funding Investment Committee</title>,COMMITTEES,10,1
+",Senate,<title>COMMITTEES</title>,<title>School Funding Investment Committee</title>,COMMITTEES,10,1,speech
 "Ryan, Sen Scott",LP,2016-02-04,"
 
 
@@ -2524,7 +2524,7 @@ Second, there has been a previous Senate inquiry: the Senate Select Committee on
 
 The DEPUTY PRESIDENT:  Senator Dastyari, I should have asked you to formally move the motion before I went to the Assistant Cabinet Secretary, so could you do that now.
 
-",Senate,<title>COMMITTEES</title>,<title>School Funding Investment Committee</title>,COMMITTEES,10,1
+",Senate,<title>COMMITTEES</title>,<title>School Funding Investment Committee</title>,COMMITTEES,10,1,speech
 "Dastyari, Sen Sam",ALP,2016-02-04,"
 
 
@@ -2594,7 +2594,7 @@ The DEPUTY PRESIDENT:  The question is that general business notice of motion No
 
 The DEPUTY PRESIDENT:  It being past 12.45 we will now proceed to government business orders of the day.
 
-",Senate,<title>COMMITTEES</title>,<title>School Funding Investment Committee</title>,COMMITTEES,10,1
+",Senate,<title>COMMITTEES</title>,<title>School Funding Investment Committee</title>,COMMITTEES,10,1,speech
 "Dastyari, Sen Sam",ALP,2016-02-04,"
 
 
@@ -2606,7 +2606,7 @@ Senator DASTYARI
 
 The DEPUTY PRESIDENT:  Is there any objection to this motion being taken as formal? There is none.
 
-",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,10,2
+",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,10,2,speech
 "Ryan, Sen Scott",LP,2016-02-04,"
 
 
@@ -2638,7 +2638,7 @@ Second, there has been a previous Senate inquiry: the Senate Select Committee on
 
 The DEPUTY PRESIDENT:  Senator Dastyari, I should have asked you to formally move the motion before I went to the Assistant Cabinet Secretary, so could you do that now.
 
-",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,10,2
+",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,10,2,speech
 "Dastyari, Sen Sam",ALP,2016-02-04,"
 
 
@@ -2708,7 +2708,7 @@ The DEPUTY PRESIDENT:  The question is that general business notice of motion No
 
 The DEPUTY PRESIDENT:  It being past 12.45 we will now proceed to government business orders of the day.
 
-",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,10,2
+",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,10,2,speech
 "Cameron, Sen Doug",ALP,2016-02-04,"
 
 
@@ -2771,7 +2771,7 @@ In line with the change of emphasis, the research advisory committee is removed 
 
 Thus, reforms do not respond to any failure by AIATSIS; on the contrary, they are a recognition of the enormous achievement of this very important cultural institution. They are an acknowledgement that it is now time for AIATSIS to become more specialised as the research work it fostered is increasingly taken up elsewhere. The nation is finally moving towards including recognition of Indigenous peoples in the Constitution. When that goal is achieved, it will reflect the contribution of many people and institutions. The work of AIATSIS as a custodian of Indigenous cultural memory and identity will be far from the least amongst those contributions. Labor is therefore pleased to support this bill, which will allow AIATSIS to consolidate its previous work and prepare for what lies ahead.
 
-",Senate,<title>BILLS</title>,<title>Australian Institute of Aboriginal and Torres Strait Islander Studies Amendment Bill 2015</title>,BILLS,11,1
+",Senate,<title>BILLS</title>,<title>Australian Institute of Aboriginal and Torres Strait Islander Studies Amendment Bill 2015</title>,BILLS,11,1,speech
 "McGrath, Sen James",LP,2016-02-04,"
 
 
@@ -2788,7 +2788,7 @@ Question agreed to.
 
 Bill read a second time. 
 
-",Senate,<title>BILLS</title>,<title>Australian Institute of Aboriginal and Torres Strait Islander Studies Amendment Bill 2015</title>,BILLS,11,1
+",Senate,<title>BILLS</title>,<title>Australian Institute of Aboriginal and Torres Strait Islander Studies Amendment Bill 2015</title>,BILLS,11,1,speech
 "O'Neill, Sen Deb (The ACTING DEPUTY PRESIDENT)",ALP,2016-02-04,"
 
 
@@ -2799,7 +2799,7 @@ The ACTING DEPUTY PRESIDENT
 Senator O'Neill
 ) (12:59):  As no amendments to the bill have been circulated, I shall call the minister to move the third reading unless any senator requires that the bill be considered in Committee of the Whole.
 
-",Senate,<title>BILLS</title>,<title>Australian Institute of Aboriginal and Torres Strait Islander Studies Amendment Bill 2015</title>,BILLS,11,1
+",Senate,<title>BILLS</title>,<title>Australian Institute of Aboriginal and Torres Strait Islander Studies Amendment Bill 2015</title>,BILLS,11,1,speech
 "McGrath, Sen James",LP,2016-02-04,"
 
 
@@ -2810,7 +2810,7 @@ Senator McGRATH
 
 That this bill be now read a third time.
 
-",Senate,<title>BILLS</title>,<title>Australian Institute of Aboriginal and Torres Strait Islander Studies Amendment Bill 2015</title>,BILLS,11,1
+",Senate,<title>BILLS</title>,<title>Australian Institute of Aboriginal and Torres Strait Islander Studies Amendment Bill 2015</title>,BILLS,11,1,speech
 "Lambie, Sen Jacqui",Ind.,2016-02-04,"
 
 
@@ -3053,7 +3053,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Australian Institute of Aboriginal and Torres Strait Islander Studies Amendment Bill 2015</title>,BILLS,11,1
+",Senate,<title>BILLS</title>,<title>Australian Institute of Aboriginal and Torres Strait Islander Studies Amendment Bill 2015</title>,BILLS,11,1,speech
 "Cameron, Sen Doug",ALP,2016-02-04,"
 
 
@@ -3116,7 +3116,7 @@ In line with the change of emphasis, the research advisory committee is removed 
 
 Thus, reforms do not respond to any failure by AIATSIS; on the contrary, they are a recognition of the enormous achievement of this very important cultural institution. They are an acknowledgement that it is now time for AIATSIS to become more specialised as the research work it fostered is increasingly taken up elsewhere. The nation is finally moving towards including recognition of Indigenous peoples in the Constitution. When that goal is achieved, it will reflect the contribution of many people and institutions. The work of AIATSIS as a custodian of Indigenous cultural memory and identity will be far from the least amongst those contributions. Labor is therefore pleased to support this bill, which will allow AIATSIS to consolidate its previous work and prepare for what lies ahead.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2,speech
 "McGrath, Sen James",LP,2016-02-04,"
 
 
@@ -3133,7 +3133,86 @@ Question agreed to.
 
 Bill read a second time. 
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,11,2,speech
+"Singh, Sen Lisa",ALP,2016-02-04,"
+
+
+
+Senator SINGH
+ (Tasmania) (14:00):  My question is to the Minister representing the Minister for Industry, Innovation and Science, Senator Sinodinos. I refer to the Turnbull government's decision to cut around 200 positions at the CSIRO. Won't these cuts to the CSIRO strip away the organisation's remaining climate science capacity and reduce the monitoring of climate change in the southern hemisphere? Can the minister confirm that both the Prime Minister and Mr Pyne signed off on these cuts?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,QUESTIONS WITHOUT NOTICE,12,1,question
+"Singh, Sen Lisa",ALP,2016-02-04,"
+
+
+
+Senator SINGH
+ (Tasmania) (14:02):  Mr President, I ask a supplementary question. At the Paris climate conference, Mr Turnbull said:
+
+
+We do not doubt the implications of the science, or the scale of the challenge.
+
+
+So if Mr Turnbull believes in the science of climate change, why has he cut the jobs of so many Australian climate scientists?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,QUESTIONS WITHOUT NOTICE,12,1,question
+"Singh, Sen Lisa",ALP,2016-02-04,"
+
+
+
+Senator SINGH
+ (Tasmania) (14:03):  Mr President, I ask a further supplementary question. How does the Prime Minister reconcile the abolition of 200 more science jobs with his claim of support for science and innovation? Aren't these drastic cuts just another example of Prime Minister Malcolm Turnbull saying one thing and doing the exact opposite?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,QUESTIONS WITHOUT NOTICE,12,1,question
+"Sinodinos, Sen Arthur",LP,2016-02-04,"
+
+
+
+Senator SINODINOS
+ (New South Wales—Cabinet Secretary) (14:00):  I thank honourable senator for her question. The short answer to your question is 'no' and I will explain why. First and foremost, what has happened with the CSIRO in this announcement is an operational decision of the organisation. After an extensive review by the management of CSIRO, they stated the need to reorganise the organisation to better fulfil its mission as outlined in its strategic plan. Advice from the CSIRO is that the realignment will take roughly two years and that there will be no net job losses across the agency. As such, any suggestion that this is the result of changes to the CSIRO budget is incorrect. And it is not the role of the Prime Minister or of the minister for science to sign off on staffing changes of an independent agency.
+
+
+I can also add that there is a realignment of activity within the climate change division and that the stories reported in the media today, including in the Sydney Morning Herald, to which you are referring are factually wrong. First and foremost, is CSIRO will continue their relationship with the Department of the Environment on the National Environmental Science Program. It will still be spending $83 million a year on climate change research and the oceans and atmosphere division of the CSIRO will continue to employ more than 300 people. However, there will be a stronger focus on abatement and mitigation strategies. In the words of the CSIRO CEO, Larry Marshall:
+
+
+We have spent probably a decade trying to answer the question is the climate changing … After Paris that question has been answered. The next question now is what do we do about it.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,QUESTIONS WITHOUT NOTICE,12,1,answer
+"Sinodinos, Sen Arthur",LP,2016-02-04,"
+
+
+
+Senator SINODINOS
+ (New South Wales—Cabinet Secretary) (14:03):  I can only repeat: we will continue to spend about $83 million a year on climate change mitigation, adaptation and research. The excellent climate science of CSIRO has provided guidance to government and industry across a range of climate change sciences. Its collaborative work on global and national measurement and modelling of the climate has been outstanding. We are continuing to be committed to research on climate and climate modelling and we have provided $23.9 million over six years to establish the Earth Systems and Climate Change Hub under the National Environmental Sciences Program.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,QUESTIONS WITHOUT NOTICE,12,1,answer
+"Sinodinos, Sen Arthur",LP,2016-02-04,"
+
+
+
+Senator SINODINOS
+ (New South Wales—Cabinet Secretary) (14:04):  All I can say is that the Prime Minister, the foreign minister and the Minister for the Environment in Paris did Australia proud. They went there and stood up for the Australian way of dealing with climate change. That is what they did—the Australian way.
+
+
+
+
+Senator Wong:
+  Mr President, I rise on a point of order: direct relevance. The question had nothing to do with what the Prime Minister, the foreign minister and whoever else did in Paris. It was a question that said:
+
+
+How does the Prime Minister reconcile the abolition of 200 more science jobs with his claim support for science and innovation? Aren't these drastic cuts just another example of Prime Minister Turnbull saying one thing and doing the exact opposite?
+
+
+
+The PRESIDENT:  Cabinet Secretary, I will remind you of the question and inform you that you have 43 seconds in which to answer.
+
+
+
+
+Senator SINODINOS:
+  I can only repeat: the advice from the CSIRO is that there will be no net job losses within the organisation. What they are doing is realigning their resources with their priorities internally. In the case of the climate change situation, they are looking at mitigation and adaptation measures.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,QUESTIONS WITHOUT NOTICE,12,1,answer
 "Ludlam, Sen Scott",AG,2016-02-04,"
 
 
@@ -3141,7 +3220,7 @@ Bill read a second time.
 Senator LUDLAM
  (Western Australia—Co-Deputy Leader of the Australian Greens) (15:02):  Pursuant to standing order 74(5), I ask the Attorney-General and the minister representing the Minister for Justice, Senator Brandis, for an explanation as to why answers have not yet been provided to questions on notice Nos 2626, 2794 and 2795. These questions have been overdue now for quite a period of time. I understand my office was in contact with your advisers, Senator Brandis, forewarning you that I would be raising this issue now.
 
-",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,"<title>Question Nos 2626, 2794 and 2795</title>",ANSWERS TO QUESTIONS ON NOTICE,13,1
+",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,"<title>Question Nos 2626, 2794 and 2795</title>",ANSWERS TO QUESTIONS ON NOTICE,13,1,speech
 "Brandis, Sen George",LP,2016-02-04,"
 
 
@@ -3149,7 +3228,7 @@ Senator LUDLAM
 Senator BRANDIS
  (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (15:02):  I will investigate the matter for you.
 
-",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,"<title>Question Nos 2626, 2794 and 2795</title>",ANSWERS TO QUESTIONS ON NOTICE,13,1
+",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,"<title>Question Nos 2626, 2794 and 2795</title>",ANSWERS TO QUESTIONS ON NOTICE,13,1,speech
 "Ludlam, Sen Scott",AG,2016-02-04,"
 
 
@@ -3247,7 +3326,7 @@ Again we see this pattern of behaviour where the foreign policy of the Australia
 
 These are, I acknowledge, serious allegations. Not all of them are canvassed in the questions on notice that I presume are on Senator Brandis's table now. Nonetheless, if this is not a pattern of behaviour, of conscious and premeditated foreign policy decisions by the Australian government, let's see some evidence that that is the case These questions should not have remained on the Notice Paper as long as they have. We would like to see some evidence that it is not in fact the foreign policy of this very government to support and perpetuate human rights abuses, no matter how dark the record of the military units or secret police units that we support. It is unforgiveable if that is the case, and it is incumbent on the government to provide evidence to the contrary—if such evidence even exists.
 
-",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,"<title>Question Nos 2626, 2794 and 2795</title>",ANSWERS TO QUESTIONS ON NOTICE,13,1
+",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,"<title>Question Nos 2626, 2794 and 2795</title>",ANSWERS TO QUESTIONS ON NOTICE,13,1,speech
 "Brandis, Sen George",LP,2016-02-04,"
 
 
@@ -3258,7 +3337,7 @@ Senator BRANDIS
 
 Question agreed to. 
 
-",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,"<title>Question Nos 2626, 2794 and 2795</title>",ANSWERS TO QUESTIONS ON NOTICE,13,1
+",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,"<title>Question Nos 2626, 2794 and 2795</title>",ANSWERS TO QUESTIONS ON NOTICE,13,1,speech
 "Singh, Sen Lisa",ALP,2016-02-04,"
 
 
@@ -3291,7 +3370,7 @@ So here you have an incredible amount of expertise in climate research coming up
 
 We need these climate scientists to continue to do their climate research. We need them more now than ever. In doing this we are gutting a great Australian institution—the CSIRO—that has done such incredible work in the past and needs to be there for our future and our children's future to continue to do such important and credible work, especially in the oceans and atmosphere division—one division on its own where 110 jobs will be cut. It is simply not good enough to lose these jobs and lose these scientists' minds. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Goods and Services Tax</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Goods and Services Tax</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1,speech
 "Macdonald, Sen Ian",LP,2016-02-04,"
 
 
@@ -3315,7 +3394,7 @@ Here are the facts from the guy. Read the letter from the guy who actually runs 
 
 I agree with the late Professor Bob Carter. That is what we should have been doing years ago. That is what Professor Carter had been calling to do, and I am pleased to see even a few weeks after his death that now the CSIRO are actually taking that advice and looking towards that new research— (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Goods and Services Tax</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Goods and Services Tax</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1,speech
 "Sterle, Sen Glenn",ALP,2016-02-04,"
 
 
@@ -3380,7 +3459,7 @@ If it is frightening the living daylights out of you, is there going to be a GST
 
 It is a scare campaign. They cannot tell the truth. They cannot correct the figures if they are wrong. I would be scared, too, if I were that lot over there.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Goods and Services Tax</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Goods and Services Tax</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1,speech
 "Back, Sen Chris",LP,2016-02-04,"
 
 
@@ -3421,7 +3500,7 @@ I was in Taiwan only last Sunday week meeting with the equivalent of CSIRO—ITR
 
 It does no good in this place to have people pick up an article from the Sydney Morning Herald and to come in here and actually make these allegations and accusations, and in some way besmirch what I believe to be the excellence of the management of this organisation. It is the case that we now need to know what to do about it. It is the case we now need to be devoting to abatement and mitigation strategies, and that is what CSIRO is doing.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Goods and Services Tax</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Goods and Services Tax</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1,speech
 "Ketter, Sen Christopher",ALP,2016-02-04,"
 
 
@@ -3462,7 +3541,7 @@ It is no wonder that this government is divided. It is no wonder that backbenche
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Goods and Services Tax</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Goods and Services Tax</title>",QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,14,1,speech
 "Cameron, Sen Doug",ALP,2016-02-04,"
 
 
@@ -3473,7 +3552,7 @@ Senator CAMERON
 
 I restate my concerns that Mr Hadgkiss has reported an incidence of alleged corruption in a report to the Australian Public Service Commission but refuses to answer questions about the matters when appearing before a committee of this Senate. I intend to continue my questioning of Mr Hadgkiss's performance when Fair Work Building and Construction appears at estimates next week. I thank the Senate.
 
-",Senate,<title>STATEMENTS</title>,<title>Fair Work Building and Construction</title>,STATEMENTS,15,1
+",Senate,<title>STATEMENTS</title>,<title>Fair Work Building and Construction</title>,STATEMENTS,15,1,speech
 "Fawcett, Sen David",LP,2016-02-04,"
 
 
@@ -3484,7 +3563,7 @@ Senator FAWCETT
 
 Ordered that the report be adopted.
 
-",Senate,<title>COMMITTEES</title>,<title>Senate Publications Committee</title>,COMMITTEES,17,1
+",Senate,<title>COMMITTEES</title>,<title>Senate Publications Committee</title>,COMMITTEES,17,1,speech
 "Fawcett, Sen David",LP,2016-02-04,"
 
 
@@ -3495,7 +3574,7 @@ Senator FAWCETT
 
 Ordered that the report be adopted.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,17,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,17,2,speech
 "Whish-Wilson, Sen Peter",AG,2016-02-04,"
 
 
@@ -3524,7 +3603,7 @@ Some of these scientists are global leaders and global experts who are working o
 
 Leave granted.
 
-",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade References Committee</title>",COMMITTEES,20,1
+",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade References Committee</title>",COMMITTEES,20,1,speech
 "Urquhart, Sen Anne",ALP,2016-02-04,"
 
 
@@ -3544,7 +3623,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Bernardi
 ):  It being 4.30 pm we are now going to go back to the business of the Senate notices of motion that we have not dealt with before. The agreement is that after 4.30 there will be no divisions. However, if there is any call for a division, that can be held over until another sitting day.
 
-",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade References Committee</title>",COMMITTEES,20,1
+",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade References Committee</title>",COMMITTEES,20,1,speech
 "Whish-Wilson, Sen Peter",AG,2016-02-04,"
 
 
@@ -3573,7 +3652,7 @@ Some of these scientists are global leaders and global experts who are working o
 
 Leave granted.
 
-",Senate,<title>COMMITTEES</title>,<title>Government Response to Report</title>,COMMITTEES,20,2
+",Senate,<title>COMMITTEES</title>,<title>Government Response to Report</title>,COMMITTEES,20,2,speech
 "Urquhart, Sen Anne",ALP,2016-02-04,"
 
 
@@ -3593,7 +3672,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Bernardi
 ):  It being 4.30 pm we are now going to go back to the business of the Senate notices of motion that we have not dealt with before. The agreement is that after 4.30 there will be no divisions. However, if there is any call for a division, that can be held over until another sitting day.
 
-",Senate,<title>COMMITTEES</title>,<title>Government Response to Report</title>,COMMITTEES,20,2
+",Senate,<title>COMMITTEES</title>,<title>Government Response to Report</title>,COMMITTEES,20,2,speech
 "Polley, Sen Helen",ALP,2016-02-04,"
 
 
@@ -3655,7 +3734,7 @@ We have issues in this country around health. There is never enough money that w
 
 We have said time and time again that we will not support the GST increase. In opinion polls that people refer to from time to time in this place, the Australian community are voicing their concerns and saying that, no, they will not accept a GST increase. We hear those opposite in this chamber talking on a regular basis about being an innovative, adult, nimble government. Well, show that you are an adult government by coming up with some decent tax reform so that we can have a debate. Rule out, once and for all, that there is going to be an increase to the GST, on everything. Listen to your electorates. I urge the Prime Minister to listen to the Australian community, because we on this side will continue to campaign every day till we stop any notion of this government bringing legislation forward to increase the GST or putting more and more pressure on the states to agree to a GST increase because they are starving them of funds for health and education in this country. Show some vision. Show some leadership when it comes to taxation in this country. Show some compassion for those in the community who are doing it the toughest.
 
-",Senate,<title>MOTIONS</title>,<title>Goods and Services Tax</title>,MOTIONS,21,1
+",Senate,<title>MOTIONS</title>,<title>Goods and Services Tax</title>,MOTIONS,21,1,speech
 "Fawcett, Sen David",LP,2016-02-04,"
 
 
@@ -3723,7 +3802,7 @@ So the ALP can come forward with their motions and try to create fear about a pl
 
 If the Labor Party are hanging on and preventing us moving the tiller because they have the numbers in the Senate to block these sensible moves then the Australian people need to take that into account when we come to an election later this year and ask, 'Do we want a government that has a track record of growing the economy, sensible management of taxation, sensible management of expenditure and investment in the important things that count, like education and health?' If they do, they need to look not just at the lower house; they need to look at the Senate and ask, 'Who are we going to vote for so that we can make sure the government has a workable Senate?' Rather than all these measures being blocked by the Labor Party, the Greens and the crossbench—the minor parties—the Australian people need to say, 'We will vote for the party that will put the interests of Australia first and grow the size of our economy so our children have jobs.' We have a vision and a hope for the future where we do not have to be increasing the size of the taxation take because the whole pie will be bigger, there will be more people working and there will be more revenue flowing to government that can be put to use in sensible ways, not on pink batts, school halls or mining taxes that in net terms actually cost the country money. People should go to this next election asking, 'Who do we trust to run this country wisely, to make investments that will benefit not only us but, more importantly, our children and our grandchildren?' There is only one clear answer to that. That answer for the people at the election later this year is to vote for the coalition not only in the lower house but, importantly, in the Senate.
 
-",Senate,<title>MOTIONS</title>,<title>Goods and Services Tax</title>,MOTIONS,21,1
+",Senate,<title>MOTIONS</title>,<title>Goods and Services Tax</title>,MOTIONS,21,1,speech
 "Di Natale, Sen Richard",AG,2016-02-04,"
 
 
@@ -3788,7 +3867,7 @@ We would make superannuation more progressive and end the huge concessions that 
 
 We can do that. The tax take to GDP ratio in Australia is lower than in most other OECD countries; certainly much lower than it was under John Howard. By raising the tax take to GDP ratio, through ending those unfair tax concessions, we would be able to pay for services like Medicare and schools and make sure that people on income support are looked after. We would continue to build the foundations of Australian society. We would create the investment settings that drive investment in productive areas of the economy, rather than distorting our economy by further fuelling investment in areas like mining and the housing market. We would get Australia back to its core belief that as a wealthy society the gap between rich and poor needs to narrow.
 
-",Senate,<title>MOTIONS</title>,<title>Goods and Services Tax</title>,MOTIONS,21,1
+",Senate,<title>MOTIONS</title>,<title>Goods and Services Tax</title>,MOTIONS,21,1,speech
 "Ludwig, Sen Joe",ALP,2016-02-04,"
 
 
@@ -3886,7 +3965,7 @@ So what the coalition are advocating for ultimately is a less progressive tax sy
 
 I have to say that the ACOSS modelling could not find much joy in an increase in the GST no matter how hard they looked and no matter how many scenarios they went through. It would of course impact differently on many different households but there were always going to be significant losers out of this system, and those losers— (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Goods and Services Tax</title>,MOTIONS,21,1
+",Senate,<title>MOTIONS</title>,<title>Goods and Services Tax</title>,MOTIONS,21,1,speech
 "Macdonald, Sen Ian",LP,2016-02-04,"
 
 
@@ -3999,7 +4078,7 @@ Thanks to Senator Cameron taking up my time with puerile points of order, which 
 
 Debate interrupted.
 
-",Senate,<title>MOTIONS</title>,<title>Goods and Services Tax</title>,MOTIONS,21,1
+",Senate,<title>MOTIONS</title>,<title>Goods and Services Tax</title>,MOTIONS,21,1,speech
 "Colbeck, Sen Richard",LP,2016-02-04,"
 
 
@@ -4007,7 +4086,7 @@ Debate interrupted.
 Senator COLBECK
  (Tasmania—Minister for Tourism and International Education and Minister Assisting the Minister for Trade and Investment) (18:00):  by leave—I table answers to questions on notice to the Deputy Prime Minister. They are question Nos 2630, 2631 and 2632.
 
-",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,"<title>Question Nos 2630, 2631 and 2632</title>",ANSWERS TO QUESTIONS ON NOTICE,22,1
+",Senate,<title>ANSWERS TO QUESTIONS ON NOTICE</title>,"<title>Question Nos 2630, 2631 and 2632</title>",ANSWERS TO QUESTIONS ON NOTICE,22,1,speech
 "Ruston, Sen Anne",LP,2016-02-04,"
 
 
@@ -4024,7 +4103,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013 [No. 2], Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013 [No. 2]</title>",BILLS,25,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013 [No. 2], Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013 [No. 2]</title>",BILLS,25,1,speech
 "Ruston, Sen Anne",LP,2016-02-04,"
 
 
@@ -4295,7 +4374,7 @@ This Bill will ensure a smooth transition from the institutions, functions and p
 
 The PRESIDENT:  In accordance with standing order 115(3), further consideration of these bills is now adjourned to 15 March 2016.
 
-",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013 [No. 2], Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013 [No. 2]</title>",BILLS,25,1
+",Senate,<title>BILLS</title>,"<title>Building and Construction Industry (Improving Productivity) Bill 2013 [No. 2], Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013 [No. 2]</title>",BILLS,25,1,speech
 "Ruston, Sen Anne",LP,2016-02-04,"
 
 
@@ -4312,7 +4391,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,25,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,25,2,speech
 "Bilyk, Sen Catryna",ALP,2016-02-04,"
 
 
@@ -4344,7 +4423,7 @@ The committee noted witnesses' concerns that service gaps had not been fully ide
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,26,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,26,1,speech
 "Bilyk, Sen Catryna",ALP,2016-02-04,"
 
 
@@ -4376,7 +4455,7 @@ The committee noted witnesses' concerns that service gaps had not been fully ide
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Government Response to Report</title>,COMMITTEES,26,2
+",Senate,<title>COMMITTEES</title>,<title>Government Response to Report</title>,COMMITTEES,26,2,speech
 "Rice, Sen Janet",AG,2016-02-04,"
 
 
@@ -4441,7 +4520,7 @@ Transport planning must not be a captain's pick. This is what the Auditor-Genera
 
 Leave granted; debate adjourned.
 
-",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 14 of 2015-16</title>,AUDITOR-GENERAL'S REPORTS,27,1
+",Senate,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 14 of 2015-16</title>,AUDITOR-GENERAL'S REPORTS,27,1,speech
 "Gallacher, Sen Alex",ALP,2016-02-04,"
 
 
@@ -4509,7 +4588,7 @@ Finally, you can look at what happened in Auckland—or Wellington or wherever i
 
 Debate interrupted.
 
-",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade References Committee</title>",COMMITTEES,28,1
+",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade References Committee</title>",COMMITTEES,28,1,speech
 "Gallacher, Sen Alex",ALP,2016-02-04,"
 
 
@@ -4577,7 +4656,7 @@ Finally, you can look at what happened in Auckland—or Wellington or wherever i
 
 Debate interrupted.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,28,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,28,2,speech
 "Reynolds, Sen Linda",LP,2016-02-04,"
 
 
@@ -4612,4 +4691,4 @@ Overseas donors are the main funders of residential care for children in Cambodi
 
 My sincere thanks to Save the Children—who organised and delivered a wonderfully educational and eye-opening program—for inviting me to participate. Thanks to my colleagues, whose company I greatly enjoyed, and a heartfelt thanks to Bill and Melinda Gates who funded this program through the Gates Foundation. Finally, my thanks to DFAT and our wonderful ambassador Alison Burrows, who did an exceptional job. (Time expired)
 
-",Senate,<title>ADJOURNMENT</title>,<title>Cambodia</title>,ADJOURNMENT,30,1
+",Senate,<title>ADJOURNMENT</title>,<title>Cambodia</title>,ADJOURNMENT,30,1,speech

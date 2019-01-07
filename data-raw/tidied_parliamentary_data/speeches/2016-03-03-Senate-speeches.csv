@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2016-03-03,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (09:31):  I remind senators that the question may be put on any proposal at the request of any senator.
 
-",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade References Committee, Joint Standing Committee on Migration</title>",COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade References Committee, Joint Standing Committee on Migration</title>",COMMITTEES,1,1,speech
 "PRESIDENT, The",,2016-03-03,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (09:31):  I remind senators that the question may be put on any proposal at the request of any senator.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "Carr, Sen Kim",ALP,2016-03-03,"
 
 
@@ -32,7 +32,7 @@ The PRESIDENT:  I cannot answer that question, but by leave you could ask the go
 Senator KIM CARR:
   by leave—I ask the government: what has happened to the return to order?
 
-",Senate,<title>DOCUMENTS</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,DOCUMENTS,2,1
+",Senate,<title>DOCUMENTS</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,DOCUMENTS,2,1,speech
 "Fifield, Sen Mitch",LP,2016-03-03,"
 
 
@@ -40,7 +40,7 @@ Senator KIM CARR:
 Senator FIFIELD
  (Victoria—Manager of Government Business in the Senate, Minister for Communications and Minister for the Arts) (09:32):  I do not know. As you would appreciate, there are a range of returns to order and a range of questions on notice that are due from time to time. They are lodged in the ordinary course of events, and the minister at the desk would not necessarily be aware of what the status of any individual one of those is at any given point in time.
 
-",Senate,<title>DOCUMENTS</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,DOCUMENTS,2,1
+",Senate,<title>DOCUMENTS</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,DOCUMENTS,2,1,speech
 "Carr, Sen Kim",ALP,2016-03-03,"
 
 
@@ -48,7 +48,7 @@ Senator FIFIELD
 Senator KIM CARR
  (Victoria) (09:32):  by leave—I ask the minister if he could make inquiries as to why the return to order has not been complied with.
 
-",Senate,<title>DOCUMENTS</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,DOCUMENTS,2,1
+",Senate,<title>DOCUMENTS</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,DOCUMENTS,2,1,speech
 "Fifield, Sen Mitch",LP,2016-03-03,"
 
 
@@ -56,7 +56,7 @@ Senator KIM CARR
 Senator FIFIELD
  (Victoria—Manager of Government Business in the Senate, Minister for Communications and Minister for the Arts) (09:33):  As I say, I do not know what the status is, but I am very happy to check for you.
 
-",Senate,<title>DOCUMENTS</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,DOCUMENTS,2,1
+",Senate,<title>DOCUMENTS</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,DOCUMENTS,2,1,speech
 "Whish-Wilson, Sen Peter",AG,2016-03-03,"
 
 
@@ -68,7 +68,7 @@ Senator WHISH-WILSON
 
 The PRESIDENT:  Can we leave it with the minister? We might be asking the impossible to get a time from him, unless the minister can indicate a time frame.
 
-",Senate,<title>DOCUMENTS</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,DOCUMENTS,2,1
+",Senate,<title>DOCUMENTS</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,DOCUMENTS,2,1,speech
 "Fifield, Sen Mitch",LP,2016-03-03,"
 
 
@@ -76,7 +76,7 @@ The PRESIDENT:  Can we leave it with the minister? We might be asking the imposs
 Senator FIFIELD
  (Victoria—Manager of Government Business in the Senate, Minister for Communications and Minister for the Arts) (09:33):  It is not my portfolio and I have no knowledge of the status of it. As a result of those two things, it is really not possible for me to state a time that I can report back.
 
-",Senate,<title>DOCUMENTS</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,DOCUMENTS,2,1
+",Senate,<title>DOCUMENTS</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,DOCUMENTS,2,1,speech
 "Whish-Wilson, Sen Peter",AG,2016-03-03,"
 
 
@@ -88,7 +88,7 @@ Senator WHISH-WILSON
 
 The PRESIDENT:  As desirable as that may be from your perspective, it is not up to me; it is up to the government. It is the right of all senators to inquire of the government as to why the government has not completed an order, if that is the case. I think the questions have been asked quite sensibly by Senator Carr and yourself. The minister has taken those on board. The minister can report back to the Senate as and when he can.
 
-",Senate,<title>DOCUMENTS</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,DOCUMENTS,2,1
+",Senate,<title>DOCUMENTS</title>,<title>Commonwealth Scientific and Industrial Research Organisation</title>,DOCUMENTS,2,1,speech
 "Carr, Sen Kim",ALP,2016-03-03,"
 
 
@@ -106,7 +106,7 @@ The PRESIDENT:  I cannot answer that question, but by leave you could ask the go
 Senator KIM CARR:
   by leave—I ask the government: what has happened to the return to order?
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,2,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,2,2,speech
 "Fifield, Sen Mitch",LP,2016-03-03,"
 
 
@@ -114,7 +114,7 @@ Senator KIM CARR:
 Senator FIFIELD
  (Victoria—Manager of Government Business in the Senate, Minister for Communications and Minister for the Arts) (09:32):  I do not know. As you would appreciate, there are a range of returns to order and a range of questions on notice that are due from time to time. They are lodged in the ordinary course of events, and the minister at the desk would not necessarily be aware of what the status of any individual one of those is at any given point in time.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,2,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,2,2,speech
 "Carr, Sen Kim",ALP,2016-03-03,"
 
 
@@ -122,7 +122,7 @@ Senator FIFIELD
 Senator KIM CARR
  (Victoria) (09:32):  by leave—I ask the minister if he could make inquiries as to why the return to order has not been complied with.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,2,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,2,2,speech
 "Fifield, Sen Mitch",LP,2016-03-03,"
 
 
@@ -130,7 +130,7 @@ Senator KIM CARR
 Senator FIFIELD
  (Victoria—Manager of Government Business in the Senate, Minister for Communications and Minister for the Arts) (09:33):  As I say, I do not know what the status is, but I am very happy to check for you.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,2,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,2,2,speech
 "Whish-Wilson, Sen Peter",AG,2016-03-03,"
 
 
@@ -142,7 +142,7 @@ Senator WHISH-WILSON
 
 The PRESIDENT:  Can we leave it with the minister? We might be asking the impossible to get a time from him, unless the minister can indicate a time frame.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,2,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,2,2,speech
 "Fifield, Sen Mitch",LP,2016-03-03,"
 
 
@@ -150,7 +150,7 @@ The PRESIDENT:  Can we leave it with the minister? We might be asking the imposs
 Senator FIFIELD
  (Victoria—Manager of Government Business in the Senate, Minister for Communications and Minister for the Arts) (09:33):  It is not my portfolio and I have no knowledge of the status of it. As a result of those two things, it is really not possible for me to state a time that I can report back.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,2,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,2,2,speech
 "Whish-Wilson, Sen Peter",AG,2016-03-03,"
 
 
@@ -162,7 +162,7 @@ Senator WHISH-WILSON
 
 The PRESIDENT:  As desirable as that may be from your perspective, it is not up to me; it is up to the government. It is the right of all senators to inquire of the government as to why the government has not completed an order, if that is the case. I think the questions have been asked quite sensibly by Senator Carr and yourself. The minister has taken those on board. The minister can report back to the Senate as and when he can.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,2,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,2,2,speech
 "Leyonhjelm, Sen David",LDP,2016-03-03,"
 
 
@@ -272,7 +272,7 @@ Passage of my bill will set the territories free.
 
 I commend the bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Restoring Territory Rights (Assisted Suicide Legislation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Restoring Territory Rights (Assisted Suicide Legislation) Bill 2015</title>,BILLS,3,1,speech
 "Bernardi, Sen Cory",LP,2016-03-03,"
 
 
@@ -343,7 +343,7 @@ That is the problem. That is the risk with human nature. People think they are d
 
 So once again we are debating the merits of this bill. I understand that there may be these compassionate views, however they want to dress them up. They can say this is about states' rights for the territories, but the territories are not states, and the reason the states have not enacted this sort of legislation is that they know there is no protection for it. We have to protect the vulnerable people in our community.
 
-",Senate,<title>BILLS</title>,<title>Restoring Territory Rights (Assisted Suicide Legislation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Restoring Territory Rights (Assisted Suicide Legislation) Bill 2015</title>,BILLS,3,1,speech
 "Gallagher, Sen Katy",ALP,2016-03-03,"
 
 
@@ -465,7 +465,7 @@ The reason I reflected on that for a moment was to show that there was a process
 
 It was sobering to remind myself when I was thinking through the issues raised by this bill that the Northern Territory's euthanasia legislation was a world first. No wonder its passage and the subsequent reaction by opponents of this issue looked to federal parliament to block its path. What I am hoping for in this debate today, some 20 years on, is that time has helped us all to see a little clearer and better understand what was good and bad in the way our federal parliament approached the challenges thrown up by the Northern Territory parliament's groundbreaking legislation, and that we have all learned lessons about how we deal with such a matter in a way which could respect the rights of all of our citizens and that we are prepared to legislate to restore rights and act in a way which does not unduly interfere with the parliamentary processes of any other jurisdiction. I commend the bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Restoring Territory Rights (Assisted Suicide Legislation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Restoring Territory Rights (Assisted Suicide Legislation) Bill 2015</title>,BILLS,3,1,speech
 "Day, Sen Bob",FFP,2016-03-03,"
 
 
@@ -554,7 +554,7 @@ In conclusion, euthanasia is more likely to reduce health improvements in the No
 
 It is fashionable, I know, to talk of a dignified death. But death itself is a wholly undignified and tragic reality. It is a very personal reality, one that cannot be resolved by its acceleration. To burden our doctors— (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Restoring Territory Rights (Assisted Suicide Legislation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Restoring Territory Rights (Assisted Suicide Legislation) Bill 2015</title>,BILLS,3,1,speech
 "Macdonald, Sen Ian",LP,2016-03-03,"
 
 
@@ -592,7 +592,7 @@ I do think there needs to be some Commonwealth oversight over the national capit
 
 With those few words—and I am conscious other people want to speak on this debate—that is the way I see this particular bill and other bills that have been similar to this. I guess it is a debate which will continue for a long, long, period of time into the future.
 
-",Senate,<title>BILLS</title>,<title>Restoring Territory Rights (Assisted Suicide Legislation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Restoring Territory Rights (Assisted Suicide Legislation) Bill 2015</title>,BILLS,3,1,speech
 "Day, Sen Bob",FFP,2016-03-03,"
 
 
@@ -620,7 +620,7 @@ Far from trivialising the existence of pain and suffering, our institutions and 
 
 ""Think of all those ages through which men have had the courage to die, and then remember that we have actually fallen to talking about having the courage to live.""
 
-",Senate,<title>BILLS</title>,<title>Restoring Territory Rights (Assisted Suicide Legislation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Restoring Territory Rights (Assisted Suicide Legislation) Bill 2015</title>,BILLS,3,1,speech
 "Cameron, Sen Doug",ALP,2016-03-03,"
 
 
@@ -661,7 +661,7 @@ I strongly support the legislation. I will be arguing strongly in the future, if
 
 Leave granted; debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Restoring Territory Rights (Assisted Suicide Legislation) Bill 2015</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Restoring Territory Rights (Assisted Suicide Legislation) Bill 2015</title>,BILLS,3,1,speech
 "Leyonhjelm, Sen David",LDP,2016-03-03,"
 
 
@@ -771,7 +771,7 @@ Passage of my bill will set the territories free.
 
 I commend the bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Bernardi, Sen Cory",LP,2016-03-03,"
 
 
@@ -842,7 +842,7 @@ That is the problem. That is the risk with human nature. People think they are d
 
 So once again we are debating the merits of this bill. I understand that there may be these compassionate views, however they want to dress them up. They can say this is about states' rights for the territories, but the territories are not states, and the reason the states have not enacted this sort of legislation is that they know there is no protection for it. We have to protect the vulnerable people in our community.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Gallagher, Sen Katy",ALP,2016-03-03,"
 
 
@@ -964,7 +964,7 @@ The reason I reflected on that for a moment was to show that there was a process
 
 It was sobering to remind myself when I was thinking through the issues raised by this bill that the Northern Territory's euthanasia legislation was a world first. No wonder its passage and the subsequent reaction by opponents of this issue looked to federal parliament to block its path. What I am hoping for in this debate today, some 20 years on, is that time has helped us all to see a little clearer and better understand what was good and bad in the way our federal parliament approached the challenges thrown up by the Northern Territory parliament's groundbreaking legislation, and that we have all learned lessons about how we deal with such a matter in a way which could respect the rights of all of our citizens and that we are prepared to legislate to restore rights and act in a way which does not unduly interfere with the parliamentary processes of any other jurisdiction. I commend the bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Day, Sen Bob",FFP,2016-03-03,"
 
 
@@ -1053,7 +1053,7 @@ In conclusion, euthanasia is more likely to reduce health improvements in the No
 
 It is fashionable, I know, to talk of a dignified death. But death itself is a wholly undignified and tragic reality. It is a very personal reality, one that cannot be resolved by its acceleration. To burden our doctors— (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Macdonald, Sen Ian",LP,2016-03-03,"
 
 
@@ -1091,7 +1091,7 @@ I do think there needs to be some Commonwealth oversight over the national capit
 
 With those few words—and I am conscious other people want to speak on this debate—that is the way I see this particular bill and other bills that have been similar to this. I guess it is a debate which will continue for a long, long, period of time into the future.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Day, Sen Bob",FFP,2016-03-03,"
 
 
@@ -1119,7 +1119,7 @@ Far from trivialising the existence of pain and suffering, our institutions and 
 
 ""Think of all those ages through which men have had the courage to die, and then remember that we have actually fallen to talking about having the courage to live.""
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Cameron, Sen Doug",ALP,2016-03-03,"
 
 
@@ -1160,7 +1160,7 @@ I strongly support the legislation. I will be arguing strongly in the future, if
 
 Leave granted; debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Carr, Sen Kim",ALP,2016-03-03,"
 
 
@@ -1168,7 +1168,7 @@ Leave granted; debate adjourned.
 Senator KIM CARR
  (Victoria) (11:55):  by leave—Can the minister advise the Senate as to whether it is the government's intention to respond to the order regarding the CSIRO's Oceans and Atmosphere division, which was due at 9.30 this morning.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -1176,7 +1176,7 @@ Senator KIM CARR
 Senator RYAN
  (Victoria—Minister for Vocational Education and Skills) (11:55):  I will seek advice and I, or another representative of the government, will come back to the chamber on that. I have just come into the chamber for this particular session. I am not familiar with your query, off the top of my head, but I will seek advice.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1,speech
 "Carr, Sen Kim",ALP,2016-03-03,"
 
 
@@ -1184,7 +1184,7 @@ Senator RYAN
 Senator KIM CARR
  (Victoria) (11:55):  by leave—I asked the same question at 9.30 this morning, and I think it is pretty ordinary when there is still no response from the government 2½ hours later.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -1192,7 +1192,7 @@ Senator KIM CARR
 Senator RYAN
  (Victoria—Minister for Vocational Education and Skills) (11:55):  Not having been here when you asked the first question, I appreciate the point you make. I will endeavour to get you an answer as soon as I can.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1,speech
 "Carr, Sen Kim",ALP,2016-03-03,"
 
 
@@ -1200,7 +1200,7 @@ Senator RYAN
 Senator KIM CARR
  (Victoria) (11:56):  by leave—On a separate matter, there was a second order for the production of documents with regard to electoral law changes—communications and minutes—and that too appears not to have been complied with. Is it the government's intention to comply with that return to order?
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -1208,7 +1208,7 @@ Senator KIM CARR
 Senator RYAN
  (Victoria—Minister for Vocational Education and Skills) (11:56):  Senator Carr, I have just received some advice on your first query, if I may turn to that. Your query has been passed to the minister representing, who I believe is Senator Sinodinos. It has been passed on. With regard to your second query, I will seek to get advice and come back to the chamber as soon as I can.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1,speech
 "Carr, Sen Kim",ALP,2016-03-03,"
 
 
@@ -1216,7 +1216,7 @@ Senator RYAN
 Senator KIM CARR
  (Victoria) (11:57):  by leave—If the inquiry has been passed on to Minister Sinodinos, when can we have a reply?
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -1224,7 +1224,7 @@ Senator KIM CARR
 Senator RYAN
  (Victoria—Minister for Vocational Education and Skills) (11:57):  The message I just received was from the minister representing Senator Sinodinos. I am not sure if someone is representing him today, or if he, off the top of my head, represents that particular portfolio. I will endeavour to come back with further information on those queries as soon as I can.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1,speech
 "Carr, Sen Kim",ALP,2016-03-03,"
 
 
@@ -1232,7 +1232,7 @@ Senator RYAN
 Senator KIM CARR
  (Victoria) (11:57):  by leave—Senator Sinodinos represents Minister Pyne in this chamber. I would have thought we could have had a reply by now.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -1240,7 +1240,7 @@ Senator KIM CARR
 Senator RYAN
  (Victoria—Minister for Vocational Education and Skills) (11:57):  I will endeavour to get some advice and come back to the chamber as soon as I can—I will be here for the next hour. If not, I will make sure that the person coming in after me is aware of your query.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1,speech
 "Moore, Sen Claire",ALP,2016-03-03,"
 
 
@@ -1248,7 +1248,7 @@ Senator RYAN
 Senator MOORE
  (Queensland) (11:58):  by leave—I wish to make a further inquiry about the second issue that Senator Carr raised: the order for the production of documents relating to electoral law changes—communications and minutes. We are very keen to get hold of that particular set of documents and, if we do not get them, we will be raising further questions later in the day.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -1256,7 +1256,7 @@ Senator MOORE
 Senator RYAN
  (Victoria—Minister for Vocational Education and Skills) (11:58):  In response, as I said to Senator Carr, I will make inquiries as soon as I am able to. If I am not in the chamber, I will make my successors in the chamber aware of the inquiry, and I appreciate your heads up for later in the day.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1,speech
 "Waters, Sen Larissa",AG,2016-03-03,"
 
 
@@ -1264,7 +1264,7 @@ Senator RYAN
 Senator WATERS
  (Queensland—Co-Deputy Leader of the Australian Greens) (11:59):  by leave—I might just chime in and add that, given that both orders for the production of documents stand in our name, we too are very keen to get them. They are quite a few hours overdue. I apologise, Minister, that I missed the first few seconds of your contribution, but I am flagging that we too will have much more to say about this should the documents not materialise.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -1276,7 +1276,7 @@ Senator RYAN
 
 The DEPUTY PRESIDENT:  I think the points are now all well made.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,4,1,speech
 "Carr, Sen Kim",ALP,2016-03-03,"
 
 
@@ -1284,7 +1284,7 @@ The DEPUTY PRESIDENT:  I think the points are now all well made.
 Senator KIM CARR
  (Victoria) (11:55):  by leave—Can the minister advise the Senate as to whether it is the government's intention to respond to the order regarding the CSIRO's Oceans and Atmosphere division, which was due at 9.30 this morning.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -1292,7 +1292,7 @@ Senator KIM CARR
 Senator RYAN
  (Victoria—Minister for Vocational Education and Skills) (11:55):  I will seek advice and I, or another representative of the government, will come back to the chamber on that. I have just come into the chamber for this particular session. I am not familiar with your query, off the top of my head, but I will seek advice.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2,speech
 "Carr, Sen Kim",ALP,2016-03-03,"
 
 
@@ -1300,7 +1300,7 @@ Senator RYAN
 Senator KIM CARR
  (Victoria) (11:55):  by leave—I asked the same question at 9.30 this morning, and I think it is pretty ordinary when there is still no response from the government 2½ hours later.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -1308,7 +1308,7 @@ Senator KIM CARR
 Senator RYAN
  (Victoria—Minister for Vocational Education and Skills) (11:55):  Not having been here when you asked the first question, I appreciate the point you make. I will endeavour to get you an answer as soon as I can.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2,speech
 "Carr, Sen Kim",ALP,2016-03-03,"
 
 
@@ -1316,7 +1316,7 @@ Senator RYAN
 Senator KIM CARR
  (Victoria) (11:56):  by leave—On a separate matter, there was a second order for the production of documents with regard to electoral law changes—communications and minutes—and that too appears not to have been complied with. Is it the government's intention to comply with that return to order?
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -1324,7 +1324,7 @@ Senator KIM CARR
 Senator RYAN
  (Victoria—Minister for Vocational Education and Skills) (11:56):  Senator Carr, I have just received some advice on your first query, if I may turn to that. Your query has been passed to the minister representing, who I believe is Senator Sinodinos. It has been passed on. With regard to your second query, I will seek to get advice and come back to the chamber as soon as I can.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2,speech
 "Carr, Sen Kim",ALP,2016-03-03,"
 
 
@@ -1332,7 +1332,7 @@ Senator RYAN
 Senator KIM CARR
  (Victoria) (11:57):  by leave—If the inquiry has been passed on to Minister Sinodinos, when can we have a reply?
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -1340,7 +1340,7 @@ Senator KIM CARR
 Senator RYAN
  (Victoria—Minister for Vocational Education and Skills) (11:57):  The message I just received was from the minister representing Senator Sinodinos. I am not sure if someone is representing him today, or if he, off the top of my head, represents that particular portfolio. I will endeavour to come back with further information on those queries as soon as I can.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2,speech
 "Carr, Sen Kim",ALP,2016-03-03,"
 
 
@@ -1348,7 +1348,7 @@ Senator RYAN
 Senator KIM CARR
  (Victoria) (11:57):  by leave—Senator Sinodinos represents Minister Pyne in this chamber. I would have thought we could have had a reply by now.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -1356,7 +1356,7 @@ Senator KIM CARR
 Senator RYAN
  (Victoria—Minister for Vocational Education and Skills) (11:57):  I will endeavour to get some advice and come back to the chamber as soon as I can—I will be here for the next hour. If not, I will make sure that the person coming in after me is aware of your query.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2,speech
 "Moore, Sen Claire",ALP,2016-03-03,"
 
 
@@ -1364,7 +1364,7 @@ Senator RYAN
 Senator MOORE
  (Queensland) (11:58):  by leave—I wish to make a further inquiry about the second issue that Senator Carr raised: the order for the production of documents relating to electoral law changes—communications and minutes. We are very keen to get hold of that particular set of documents and, if we do not get them, we will be raising further questions later in the day.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -1372,7 +1372,7 @@ Senator MOORE
 Senator RYAN
  (Victoria—Minister for Vocational Education and Skills) (11:58):  In response, as I said to Senator Carr, I will make inquiries as soon as I am able to. If I am not in the chamber, I will make my successors in the chamber aware of the inquiry, and I appreciate your heads up for later in the day.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2,speech
 "Waters, Sen Larissa",AG,2016-03-03,"
 
 
@@ -1380,7 +1380,7 @@ Senator RYAN
 Senator WATERS
  (Queensland—Co-Deputy Leader of the Australian Greens) (11:59):  by leave—I might just chime in and add that, given that both orders for the production of documents stand in our name, we too are very keen to get them. They are quite a few hours overdue. I apologise, Minister, that I missed the first few seconds of your contribution, but I am flagging that we too will have much more to say about this should the documents not materialise.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -1392,7 +1392,7 @@ Senator RYAN
 
 The DEPUTY PRESIDENT:  I think the points are now all well made.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,4,2,speech
 "Bushby, Sen David",LP,2016-03-03,"
 
 
@@ -2118,7 +2118,7 @@ Possible reporting date:
 
 Senator Siewert
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,7,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,7,1,speech
 "Bushby, Sen David",LP,2016-03-03,"
 
 
@@ -2844,7 +2844,7 @@ Possible reporting date:
 
 Senator Siewert
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,7,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,7,2,speech
 "DEPUTY PRESIDENT, The",,2016-03-03,"
 
 
@@ -2852,7 +2852,7 @@ Senator Siewert
 The DEPUTY PRESIDENT
  (12:04):  Does any senator require the question be put on that proposal? There is no such request.
 
-",Senate,<title>COMMITTEES</title>,<title>Economics References Committee</title>,COMMITTEES,10,1
+",Senate,<title>COMMITTEES</title>,<title>Economics References Committee</title>,COMMITTEES,10,1,speech
 "DEPUTY PRESIDENT, The",,2016-03-03,"
 
 
@@ -2860,7 +2860,7 @@ The DEPUTY PRESIDENT
 The DEPUTY PRESIDENT
  (12:04):  Does any senator require the question be put on that proposal? There is no such request.
 
-",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,10,2
+",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,10,2,speech
 "McEwen, Sen Anne",ALP,2016-03-03,"
 
 
@@ -2890,7 +2890,7 @@ That—
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Defence Procurement</title>,DOCUMENTS,13,1
+",Senate,<title>DOCUMENTS</title>,<title>Defence Procurement</title>,DOCUMENTS,13,1,speech
 "McEwen, Sen Anne",ALP,2016-03-03,"
 
 
@@ -2920,7 +2920,7 @@ That—
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,13,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,13,2,speech
 "Muir, Sen Ricky",AMEP,2016-03-03,"
 
 
@@ -2950,7 +2950,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Social Security Amendment (Diabetes Support) Bill 2016</title>,BILLS,14,1
+",Senate,<title>BILLS</title>,<title>Social Security Amendment (Diabetes Support) Bill 2016</title>,BILLS,14,1,speech
 "Muir, Sen Ricky",AMEP,2016-03-03,"
 
 
@@ -3159,7 +3159,7 @@ Senator MUIR:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Social Security Amendment (Diabetes Support) Bill 2016</title>,BILLS,14,1
+",Senate,<title>BILLS</title>,<title>Social Security Amendment (Diabetes Support) Bill 2016</title>,BILLS,14,1,speech
 "Muir, Sen Ricky",AMEP,2016-03-03,"
 
 
@@ -3189,7 +3189,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,14,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,14,2,speech
 "McEwen, Sen Anne",ALP,2016-03-03,"
 
 
@@ -3209,7 +3209,7 @@ That the Senate—
 
 (c) condemns the Abbott-Turnbull Government for its inaction on homelessness and affordable housing.
 
-",Senate,<title>MOTIONS</title>,<title>Homelessness</title>,MOTIONS,15,1
+",Senate,<title>MOTIONS</title>,<title>Homelessness</title>,MOTIONS,15,1,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -3227,7 +3227,7 @@ The DEPUTY PRESIDENT:  Leave is granted for one minute.
 Senator RYAN:
   The Commonwealth currently spends around $6 billion of taxpayer funds annually on housing assistance and homelessness services. Labor pretend that housing affordability can be fixed overnight with a tax increase, but the fact is they failed to deliver on housing affordability in six years of government. Labor failed to provide funding for the National Partnership Agreement on Homelessness beyond 30 June 2014. Labor's National Rental Affordability Scheme was poorly designed and poorly managed, and has fallen well short of expectations. Economic modelling released today states that Labor's housing affordability policy would push up average rents by $2,600 a year, push 70,000 households into rental stress and increase the housing shortage.
 
-",Senate,<title>MOTIONS</title>,<title>Homelessness</title>,MOTIONS,15,1
+",Senate,<title>MOTIONS</title>,<title>Homelessness</title>,MOTIONS,15,1,speech
 "Lines, Sen Susan",ALP,2016-03-03,"
 
 
@@ -3257,7 +3257,7 @@ It is a disgrace, particularly in my home state—but right across the country. 
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Homelessness</title>,MOTIONS,15,1
+",Senate,<title>MOTIONS</title>,<title>Homelessness</title>,MOTIONS,15,1,speech
 "McEwen, Sen Anne",ALP,2016-03-03,"
 
 
@@ -3271,7 +3271,7 @@ That there be laid on the table by the Minister for Education and Training (Sena
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Education Funding</title>,DOCUMENTS,16,1
+",Senate,<title>DOCUMENTS</title>,<title>Education Funding</title>,DOCUMENTS,16,1,speech
 "McEwen, Sen Anne",ALP,2016-03-03,"
 
 
@@ -3285,7 +3285,7 @@ That there be laid on the table by the Minister for Education and Training (Sena
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -3302,7 +3302,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,"<title>Aged Care Legislation Amendment (Increasing Consumer Choice) Bill 2016, Tax Laws Amendment (Norfolk Island CGT Exemption) Bill 2016</title>",BILLS,18,1
+",Senate,<title>BILLS</title>,"<title>Aged Care Legislation Amendment (Increasing Consumer Choice) Bill 2016, Tax Laws Amendment (Norfolk Island CGT Exemption) Bill 2016</title>",BILLS,18,1,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -3695,7 +3695,7 @@ Ordered that the resumption of the debate be made an order of the day for a late
 
 Ordered that the bills be listed on the Notice Paper as separate orders of the day.
 
-",Senate,<title>BILLS</title>,"<title>Aged Care Legislation Amendment (Increasing Consumer Choice) Bill 2016, Tax Laws Amendment (Norfolk Island CGT Exemption) Bill 2016</title>",BILLS,18,1
+",Senate,<title>BILLS</title>,"<title>Aged Care Legislation Amendment (Increasing Consumer Choice) Bill 2016, Tax Laws Amendment (Norfolk Island CGT Exemption) Bill 2016</title>",BILLS,18,1,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -3712,7 +3712,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,18,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,18,2,speech
 "Collins, Sen Jacinta",ALP,2016-03-03,"
 
 
@@ -3753,7 +3753,7 @@ relating to proposed changes to the Senate voting system, including the Commonwe
 
 (b) the minutes of all 'round table' meetings that have taken place in which the AEC participated.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -3771,7 +3771,7 @@ Senator Jacinta Collins interjecting—
 Senator RYAN:
   Can I just inform the chamber about some facts. I said I would bring information back into the chamber and I have. With respect to No. 107 and No. 109, which were two queries related to the CSIRO, I do not know the content, but some documents were received by the Table Office at 12.09 pm, today. I table documents relating to the orders for the production of documents concerning the CSIRO Oceans and Atmosphere division restructure. I hope that addresses one of your concerns, Senator Carr.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1,speech
 "Waters, Sen Larissa",AG,2016-03-03,"
 
 
@@ -3779,7 +3779,7 @@ Senator RYAN:
 Senator WATERS
  (Queensland—Co-Deputy Leader of the Australian Greens) (12:27):  by leave—I ask the minister to clarify whether the documents that he has just tabled, which we look forward to receiving shortly under OPD No. 107 and No. 109, are the complete list that was requested under each of those orders or are they simply a subset?
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -3787,7 +3787,7 @@ Senator WATERS
 Senator RYAN
  (Victoria—Minister for Vocational Education and Skills) (12:27):  I honestly have just received the documents, Senator Waters, and you will receive a copy. You are probably more informed on the detail of the request than I am, to be honest. The documents are now with the attendants so we may hear more from you about that. I have also received some advice from the Office of the Special Minister of State. There has been a bit of work involved and a response will be tabled shortly.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1,speech
 "Day, Sen Bob",FFP,2016-03-03,"
 
 
@@ -3795,7 +3795,7 @@ Senator RYAN
 Senator DAY
  (South Australia) (12:28):  by leave—What was most telling was the government's refusal to allow the Department of Finance to give evidence to the inquiry when it was quite happy for its other constituent parts, the Liberal Party's national director and the National Party's federal director, to take up time giving evidence on something that they actually helped construct and clearly agreed with. The government is clearly in a rush with this legislation. I have to leave to one side, given time limitations, the amazing about face of the Greens in that they would, it seems, support gagging debate to ram this legislation through in the next sitting week. My question is: why is the government deploying the big guns, sealing the mother-of-all backroom deals built on the mother-of-all captains calls by the Greens leader, by using the mother-of-all gagging approaches for the next sitting week to ram this legislation through. Why the rush?
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1,speech
 "Collins, Sen Jacinta",ALP,2016-03-03,"
 
 
@@ -3826,7 +3826,7 @@ Senator JACINTA COLLINS:
 
 The DEPUTY PRESIDENT:  I am happy for some discussion across the chamber if it actually helps the chamber move forward, but we need to limit that.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -3843,7 +3843,7 @@ Leave granted.
 Senator RYAN:
   These queries were raised with me 40 minutes ago. In that 40 minutes we have tabled a response to two of the queries raised by Senator Carr. I have informed the chamber, Senator Collins, that with respect to this query officials are checking documents. I have said a response will be provided shortly. With respect, we were not provided notice of you seeking to move a motion. I have sought to answer you and gather as much information as I could in less than 40 minutes while I was in the chamber. I think, in that case, the government have responded to these queries particularly rapidly.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1,speech
 "Collins, Sen Jacinta",ALP,2016-03-03,"
 
 
@@ -3864,7 +3864,7 @@ Senator Ryan:
 
 The DEPUTY PRESIDENT:  I am getting an indication from the Government Whip that leave will not be granted for you, Senator Collins, to move a motion, but leave may be granted for you to make a five-minute statement. If you want to readjust your request for leave, it is a matter for you, Senator Collins. I am happy to put whatever question you want again for the government and see if leave is granted.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1,speech
 "Collins, Sen Jacinta",ALP,2016-03-03,"
 
 
@@ -3876,7 +3876,7 @@ Senator JACINTA COLLINS
 
 The DEPUTY PRESIDENT:  We will have to deal with that as it arises. You now need to make a request to do something.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1,speech
 "Collins, Sen Jacinta",ALP,2016-03-03,"
 
 
@@ -3942,7 +3942,7 @@ The DEPUTY PRESIDENT:  I think you are now debating. Senator Siewert, that is no
 Senator JACINTA COLLINS:
   Let me conclude, since I only have five minutes at this point, on the critical point here: we are being asked to consider this significant electoral reform legislation—the first of its kind in 30 years—which is based on backroom discussions between the Australian Greens, Senator Xenophon and the government, with no information. But, for the first time in my parliamentary experience, we have been shielded from the department. The committee and the government would not allow the Department of Finance to appear before the committee, and we are waiting for this information so that we can give proper consideration to what the government took into consideration. (Time expired)
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1,speech
 "Day, Sen Bob",FFP,2016-03-03,"
 
 
@@ -3969,7 +3969,7 @@ These changes to the voting laws are a sham. The minor parties and Independents 
 
 This order is about getting the facts on the table immediately as to how this legislation was put together and, more importantly, when. When was it agreed to? What were the dates that it was agreed to and, indeed, what are the steps that have led to it being amended already by the government? It has not even passed yet and there have been amendments. I support the motion.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -4005,7 +4005,7 @@ Senator BUSHBY:
 
 Debate interrupted.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,"<title>Commonwealth Scientific and Industrial Research Organisation, Election of Senators</title>",DOCUMENTS,20,1,speech
 "Collins, Sen Jacinta",ALP,2016-03-03,"
 
 
@@ -4046,7 +4046,7 @@ relating to proposed changes to the Senate voting system, including the Commonwe
 
 (b) the minutes of all 'round table' meetings that have taken place in which the AEC participated.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -4064,7 +4064,7 @@ Senator Jacinta Collins interjecting—
 Senator RYAN:
   Can I just inform the chamber about some facts. I said I would bring information back into the chamber and I have. With respect to No. 107 and No. 109, which were two queries related to the CSIRO, I do not know the content, but some documents were received by the Table Office at 12.09 pm, today. I table documents relating to the orders for the production of documents concerning the CSIRO Oceans and Atmosphere division restructure. I hope that addresses one of your concerns, Senator Carr.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "Waters, Sen Larissa",AG,2016-03-03,"
 
 
@@ -4072,7 +4072,7 @@ Senator RYAN:
 Senator WATERS
  (Queensland—Co-Deputy Leader of the Australian Greens) (12:27):  by leave—I ask the minister to clarify whether the documents that he has just tabled, which we look forward to receiving shortly under OPD No. 107 and No. 109, are the complete list that was requested under each of those orders or are they simply a subset?
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -4080,7 +4080,7 @@ Senator WATERS
 Senator RYAN
  (Victoria—Minister for Vocational Education and Skills) (12:27):  I honestly have just received the documents, Senator Waters, and you will receive a copy. You are probably more informed on the detail of the request than I am, to be honest. The documents are now with the attendants so we may hear more from you about that. I have also received some advice from the Office of the Special Minister of State. There has been a bit of work involved and a response will be tabled shortly.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "Day, Sen Bob",FFP,2016-03-03,"
 
 
@@ -4088,7 +4088,7 @@ Senator RYAN
 Senator DAY
  (South Australia) (12:28):  by leave—What was most telling was the government's refusal to allow the Department of Finance to give evidence to the inquiry when it was quite happy for its other constituent parts, the Liberal Party's national director and the National Party's federal director, to take up time giving evidence on something that they actually helped construct and clearly agreed with. The government is clearly in a rush with this legislation. I have to leave to one side, given time limitations, the amazing about face of the Greens in that they would, it seems, support gagging debate to ram this legislation through in the next sitting week. My question is: why is the government deploying the big guns, sealing the mother-of-all backroom deals built on the mother-of-all captains calls by the Greens leader, by using the mother-of-all gagging approaches for the next sitting week to ram this legislation through. Why the rush?
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "Collins, Sen Jacinta",ALP,2016-03-03,"
 
 
@@ -4119,7 +4119,7 @@ Senator JACINTA COLLINS:
 
 The DEPUTY PRESIDENT:  I am happy for some discussion across the chamber if it actually helps the chamber move forward, but we need to limit that.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -4136,7 +4136,7 @@ Leave granted.
 Senator RYAN:
   These queries were raised with me 40 minutes ago. In that 40 minutes we have tabled a response to two of the queries raised by Senator Carr. I have informed the chamber, Senator Collins, that with respect to this query officials are checking documents. I have said a response will be provided shortly. With respect, we were not provided notice of you seeking to move a motion. I have sought to answer you and gather as much information as I could in less than 40 minutes while I was in the chamber. I think, in that case, the government have responded to these queries particularly rapidly.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "Collins, Sen Jacinta",ALP,2016-03-03,"
 
 
@@ -4157,7 +4157,7 @@ Senator Ryan:
 
 The DEPUTY PRESIDENT:  I am getting an indication from the Government Whip that leave will not be granted for you, Senator Collins, to move a motion, but leave may be granted for you to make a five-minute statement. If you want to readjust your request for leave, it is a matter for you, Senator Collins. I am happy to put whatever question you want again for the government and see if leave is granted.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "Collins, Sen Jacinta",ALP,2016-03-03,"
 
 
@@ -4169,7 +4169,7 @@ Senator JACINTA COLLINS
 
 The DEPUTY PRESIDENT:  We will have to deal with that as it arises. You now need to make a request to do something.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "Collins, Sen Jacinta",ALP,2016-03-03,"
 
 
@@ -4235,7 +4235,7 @@ The DEPUTY PRESIDENT:  I think you are now debating. Senator Siewert, that is no
 Senator JACINTA COLLINS:
   Let me conclude, since I only have five minutes at this point, on the critical point here: we are being asked to consider this significant electoral reform legislation—the first of its kind in 30 years—which is based on backroom discussions between the Australian Greens, Senator Xenophon and the government, with no information. But, for the first time in my parliamentary experience, we have been shielded from the department. The committee and the government would not allow the Department of Finance to appear before the committee, and we are waiting for this information so that we can give proper consideration to what the government took into consideration. (Time expired)
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "Day, Sen Bob",FFP,2016-03-03,"
 
 
@@ -4262,7 +4262,7 @@ These changes to the voting laws are a sham. The minor parties and Independents 
 
 This order is about getting the facts on the table immediately as to how this legislation was put together and, more importantly, when. When was it agreed to? What were the dates that it was agreed to and, indeed, what are the steps that have led to it being amended already by the government? It has not even passed yet and there have been amendments. I support the motion.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "Ryan, Sen Scott",LP,2016-03-03,"
 
 
@@ -4298,7 +4298,7 @@ Senator BUSHBY:
 
 Debate interrupted.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "Moore, Sen Claire",ALP,2016-03-03,"
 
 
@@ -4354,7 +4354,7 @@ The National Disability Insurance Scheme is a big part of this. I want to acknow
 
 It is important that the wages that people with intellectual disability deserved but were deprived of will finally be received. In the final analysis, this issue is about much more than a wage. It is about respect. It is about whether we can respect the capabilities and contributions of people with intellectual disability. It is about whether we value their work and whether we recognise them as equal members of society. It is also about whether we engage with them on issues that impact on them. Again, the ongoing motto of the consumer network can be repeated: 'Nothing about us without us.' With this settlement we can go some way to restoring not just the wages but the respect that people with intellectual disability have been denied. It is a good time that we are able to say that this particular piece of legislation will be passed in this place. But, it is only a step towards the ongoing work that must be done in this space. It is a good time to pass the bill. We can say that we are willing and happy to ensure that the Business Services Wage Assessment Tool Payment Scheme Amendment Bill will be passed into law.
 
-",Senate,<title>BILLS</title>,<title>Business Services Wage Assessment Tool Payment Scheme Amendment Bill 2016</title>,BILLS,21,1
+",Senate,<title>BILLS</title>,<title>Business Services Wage Assessment Tool Payment Scheme Amendment Bill 2016</title>,BILLS,21,1,speech
 "Siewert, Sen Rachel",AG,2016-03-03,"
 
 
@@ -4401,7 +4401,7 @@ I would like to take this opportunity to congratulate the people who have pursue
 
 I share concerns about progress in developing the tools that will replace BSWAT. We need to make sure that they are there for people with an intellectual disability. We will continue to keep a close eye on the process. It is good to see that people will be getting the wages and the back pay they deserve. We strongly support this bill and commended it to the Senate
 
-",Senate,<title>BILLS</title>,<title>Business Services Wage Assessment Tool Payment Scheme Amendment Bill 2016</title>,BILLS,21,1
+",Senate,<title>BILLS</title>,<title>Business Services Wage Assessment Tool Payment Scheme Amendment Bill 2016</title>,BILLS,21,1,speech
 "McLucas, Sen Jan",ALP,2016-03-03,"
 
 
@@ -4445,7 +4445,7 @@ I agree with Senator Moore's statements about the impact on the business arrange
 
 Finally, I urge the government to continue to work, but much faster than it could be—this started back in 2013—to find another wage assessment tool that can be registered with the industrial relations commission, does not offend the Disability Discrimination Act and is fair to these 20,000 people who are working in ADEs in our country. Thank you.
 
-",Senate,<title>BILLS</title>,<title>Business Services Wage Assessment Tool Payment Scheme Amendment Bill 2016</title>,BILLS,21,1
+",Senate,<title>BILLS</title>,<title>Business Services Wage Assessment Tool Payment Scheme Amendment Bill 2016</title>,BILLS,21,1,speech
 "McGrath, Sen James",LP,2016-03-03,"
 
 
@@ -4459,7 +4459,7 @@ Question agreed to.
 
 Bill read a second time. 
 
-",Senate,<title>BILLS</title>,<title>Business Services Wage Assessment Tool Payment Scheme Amendment Bill 2016</title>,BILLS,21,1
+",Senate,<title>BILLS</title>,<title>Business Services Wage Assessment Tool Payment Scheme Amendment Bill 2016</title>,BILLS,21,1,speech
 "Back, Sen Chris (The ACTING DEPUTY PRESIDENT)",LP,2016-03-03,"
 
 
@@ -4470,7 +4470,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Back
 ) (13:18):  As no amendments to the bill have been circulated, I shall call the minister to move the third reading unless any senator requires that the bill be considered in Committee of the Whole.
 
-",Senate,<title>BILLS</title>,<title>Business Services Wage Assessment Tool Payment Scheme Amendment Bill 2016</title>,BILLS,21,1
+",Senate,<title>BILLS</title>,<title>Business Services Wage Assessment Tool Payment Scheme Amendment Bill 2016</title>,BILLS,21,1,speech
 "McGrath, Sen James",LP,2016-03-03,"
 
 
@@ -4487,7 +4487,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Business Services Wage Assessment Tool Payment Scheme Amendment Bill 2016</title>,BILLS,21,1
+",Senate,<title>BILLS</title>,<title>Business Services Wage Assessment Tool Payment Scheme Amendment Bill 2016</title>,BILLS,21,1,speech
 "Moore, Sen Claire",ALP,2016-03-03,"
 
 
@@ -4543,7 +4543,7 @@ The National Disability Insurance Scheme is a big part of this. I want to acknow
 
 It is important that the wages that people with intellectual disability deserved but were deprived of will finally be received. In the final analysis, this issue is about much more than a wage. It is about respect. It is about whether we can respect the capabilities and contributions of people with intellectual disability. It is about whether we value their work and whether we recognise them as equal members of society. It is also about whether we engage with them on issues that impact on them. Again, the ongoing motto of the consumer network can be repeated: 'Nothing about us without us.' With this settlement we can go some way to restoring not just the wages but the respect that people with intellectual disability have been denied. It is a good time that we are able to say that this particular piece of legislation will be passed in this place. But, it is only a step towards the ongoing work that must be done in this space. It is a good time to pass the bill. We can say that we are willing and happy to ensure that the Business Services Wage Assessment Tool Payment Scheme Amendment Bill will be passed into law.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Siewert, Sen Rachel",AG,2016-03-03,"
 
 
@@ -4590,7 +4590,7 @@ I would like to take this opportunity to congratulate the people who have pursue
 
 I share concerns about progress in developing the tools that will replace BSWAT. We need to make sure that they are there for people with an intellectual disability. We will continue to keep a close eye on the process. It is good to see that people will be getting the wages and the back pay they deserve. We strongly support this bill and commended it to the Senate
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "McLucas, Sen Jan",ALP,2016-03-03,"
 
 
@@ -4634,7 +4634,7 @@ I agree with Senator Moore's statements about the impact on the business arrange
 
 Finally, I urge the government to continue to work, but much faster than it could be—this started back in 2013—to find another wage assessment tool that can be registered with the industrial relations commission, does not offend the Disability Discrimination Act and is fair to these 20,000 people who are working in ADEs in our country. Thank you.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "McGrath, Sen James",LP,2016-03-03,"
 
 
@@ -4648,7 +4648,7 @@ Question agreed to.
 
 Bill read a second time. 
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Cameron, Sen Doug",ALP,2016-03-03,"
 
 
@@ -4764,7 +4764,7 @@ Anyway, I take the view, and Labor takes the view, that it is absolutely importa
 
 This is the problem we have with them: they do not understand. How could the Prime Minister, Malcolm Turnbull, ever understand what it is like for a worker to battle? How could he ever understand, in his $50 million mansion overlooking Sydney Harbour? What a joke it is—$50 million! He does not know what it is like to try to buy a house in Parramatta, and he would not care. All he is interested in is his future and no-one else's.
 
-",Senate,<title>BILLS</title>,<title>Tax Laws Amendment (Norfolk Island CGT Exemption) Bill 2016</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Tax Laws Amendment (Norfolk Island CGT Exemption) Bill 2016</title>,BILLS,23,1,speech
 "McGrath, Sen James",LP,2016-03-03,"
 
 
@@ -4778,7 +4778,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Tax Laws Amendment (Norfolk Island CGT Exemption) Bill 2016</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Tax Laws Amendment (Norfolk Island CGT Exemption) Bill 2016</title>,BILLS,23,1,speech
 "Back, Sen Chris (The ACTING DEPUTY PRESIDENT)",LP,2016-03-03,"
 
 
@@ -4789,7 +4789,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Back
 ) (13:43):  As no amendments to the bill have been circulated, I shall call the minister to move the third reading unless any senator requires that the bill be considered in the Committee of the Whole.
 
-",Senate,<title>BILLS</title>,<title>Tax Laws Amendment (Norfolk Island CGT Exemption) Bill 2016</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Tax Laws Amendment (Norfolk Island CGT Exemption) Bill 2016</title>,BILLS,23,1,speech
 "McGrath, Sen James",LP,2016-03-03,"
 
 
@@ -4806,7 +4806,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Tax Laws Amendment (Norfolk Island CGT Exemption) Bill 2016</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Tax Laws Amendment (Norfolk Island CGT Exemption) Bill 2016</title>,BILLS,23,1,speech
 "Cameron, Sen Doug",ALP,2016-03-03,"
 
 
@@ -4922,7 +4922,7 @@ Anyway, I take the view, and Labor takes the view, that it is absolutely importa
 
 This is the problem we have with them: they do not understand. How could the Prime Minister, Malcolm Turnbull, ever understand what it is like for a worker to battle? How could he ever understand, in his $50 million mansion overlooking Sydney Harbour? What a joke it is—$50 million! He does not know what it is like to try to buy a house in Parramatta, and he would not care. All he is interested in is his future and no-one else's.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "McGrath, Sen James",LP,2016-03-03,"
 
 
@@ -4936,7 +4936,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Cormann, Sen Mathias",LP,2016-03-03,"
 
 
@@ -4961,7 +4961,7 @@ This afternoon, at 12.17, the Senate also agreed to a motion that ordered the pr
 
 Opposition senators interjecting—
 
-",Senate,<title>DOCUMENTS</title>,<title>Election of Senators</title>,DOCUMENTS,24,1
+",Senate,<title>DOCUMENTS</title>,<title>Election of Senators</title>,DOCUMENTS,24,1,speech
 "Wong, Sen Penny",ALP,2016-03-03,"
 
 
@@ -4969,7 +4969,7 @@ Opposition senators interjecting—
 Senator WONG
  (South Australia—Leader of the Opposition in the Senate) (12:37):  by leave—I thank Senator Cormann for tabling, in part, some of what he ought to have tabled earlier. In the ordinary course of events, we would seek leave to take note of the documents. Given that it is question time, I have discussed with Senator Cormann that we will seek leave on the next day of sitting. He asked me to give an indication that any such taking note would not take longer than half an hour, and I give that undertaking. If we could have some cooperation on the next occasion, we would appreciate it.
 
-",Senate,<title>DOCUMENTS</title>,<title>Election of Senators</title>,DOCUMENTS,24,1
+",Senate,<title>DOCUMENTS</title>,<title>Election of Senators</title>,DOCUMENTS,24,1,speech
 "Cormann, Sen Mathias",LP,2016-03-03,"
 
 
@@ -4994,7 +4994,7 @@ This afternoon, at 12.17, the Senate also agreed to a motion that ordered the pr
 
 Opposition senators interjecting—
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,24,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,24,2,speech
 "Wong, Sen Penny",ALP,2016-03-03,"
 
 
@@ -5002,7 +5002,143 @@ Opposition senators interjecting—
 Senator WONG
  (South Australia—Leader of the Opposition in the Senate) (12:37):  by leave—I thank Senator Cormann for tabling, in part, some of what he ought to have tabled earlier. In the ordinary course of events, we would seek leave to take note of the documents. Given that it is question time, I have discussed with Senator Cormann that we will seek leave on the next day of sitting. He asked me to give an indication that any such taking note would not take longer than half an hour, and I give that undertaking. If we could have some cooperation on the next occasion, we would appreciate it.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,24,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,24,2,speech
+"Conroy, Sen Stephen",ALP,2016-03-03,"
+
+
+
+Senator CONROY
+ (Victoria—Deputy Leader of the Opposition in the Senate) (14:00):  My question is to Minister Payne. In an official press release on 20 February 2015 former defence minister Kevin Andrews said the future submarines would be delivered in the 2020s. Noting that departmental advice has not changed in the last three years, will the minister now confirm that the government's policy has changed and delivery is required in the early 2030s?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,26,1,question
+"Conroy, Sen Stephen",ALP,2016-03-03,"
+
+
+
+Senator CONROY
+ (Victoria—Deputy Leader of the Opposition in the Senate) (14:01):  I will take that as a yes. Mr President, I ask a supplementary question. Minister, do you agree with former Prime Minister Tony Abbott that the Collins class is 'a fragile capability at the best of times'?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,26,1,question
+"Conroy, Sen Stephen",ALP,2016-03-03,"
+
+
+
+Senator CONROY
+ (Victoria—Deputy Leader of the Opposition in the Senate) (14:03):  Mr President, I ask a final supplementary question. Minister, in the Senate on 23 November 2015 you stated:
+
+
+… the longer the Collins submarines are kept in service, the more their relative capability will decline as newer submarines enter service within our region.
+
+
+Minister, why were you happy to stick the boot into Collins late last year just like Mr Abbott did in the last few days?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,26,1,question
+"Payne, Sen Marise",LP,2016-03-03,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Defence) (14:01):  I can confirm that the government's policy is as represented by the recently released 2016Defence white paper.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,26,1,answer
+"Payne, Sen Marise",LP,2016-03-03,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Defence) (14:01):  In fact, what I think should be placed on the record is the capability that the Collins class submarine is currently demonstrating and the work that it has done. We have, if not five, definitely four boats currently in the water of the six boats in the fleet. In fact, there are two off South Australia. We value very much the role that the Collins class submarine plays. However, recognising that it will, as all good things, come to an end, we have commissioned through the competitive evaluation process—
+
+
+
+
+Senator Moore:
+  Mr President, I rise on a point of order on direct relevance. The quote from Mr Abbott was 'a fragile capability at the best of times'. We are asking whether the minister agrees with that. I do not believe that that particular question has been answered.
+
+
+
+The PRESIDENT:  In the context of how the minister was answering the question, I think she was being directly relevant. She has been talking about the Collins class submarines. I think we have to give her the opportunity to complete answer.
+
+
+
+
+Senator PAYNE:
+  I did indicate the capability of the Collins class submarines currently operating on behalf of the nation, with the strong support of the Chief of Navy, who I think has recently commented favourably on their activity as well. But we recognised, unlike those opposite, that decisions had to be made in relation to the acquisition of future submarines, so we commissioned a competitive evaluation process. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,26,1,answer
+"Payne, Sen Marise",LP,2016-03-03,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Defence) (14:03):  Unfortunately Senator Conroy's efforts to mischaracterise the statement I made in the Senate in 2015 are completely without foundation. It is a statement of fact that the longer you extend the life of a capability the more it involves greater sustainment costs. They become more expensive to maintain. It does mean that their relative capability declines as newer submarines enter service within our region. That is a statement of fact.
+
+
+
+
+Senator Brandis:
+  That's obvious.
+
+
+
+
+Senator PAYNE:
+  That is a statement of the obvious—indeed, Senator Brandis. The work that we are doing to commence the competitive evaluation process is something that was not done on the other side. That is what would have left Australia with a capability gap.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,26,1,answer
+"Williams, Sen John",Nats,2016-03-03,"
+
+
+
+Senator WILLIAMS
+ (New South Wales) (14:04):  My question is to the Minister for Defence, Senator Payne. Will the minister advise the Senate on what the 2016 Defence white paper delivers for Defence bases and infrastructure across the country?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence White Paper</title>,QUESTIONS WITHOUT NOTICE,28,1,question
+"Williams, Sen John",Nats,2016-03-03,"
+
+
+
+Senator WILLIAMS
+ (New South Wales) (14:07):  Mr President, I ask a supplementary question. Will the minister advise the Senate what economic benefits there will be for local communities?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence White Paper</title>,QUESTIONS WITHOUT NOTICE,28,1,question
+"Williams, Sen John",Nats,2016-03-03,"
+
+
+
+Senator WILLIAMS
+ (New South Wales) (14:08):  I thank the minister for that good news. Mr President, I ask a further supplementary question. Will the minister advise the Senate what this means for my home state of New South Wales?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence White Paper</title>,QUESTIONS WITHOUT NOTICE,28,1,question
+"Payne, Sen Marise",LP,2016-03-03,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Defence) (14:05):  I thank Senator Williams for that very important question. Reliable access to essential and contemporary facilities—whether they are military bases, wharves, port facilities, airbases, training ranges or fuel and explosive ordnance infrastructure—is absolutely vital to the ADF's ability to conduct and sustain operations in Australia and across the region. That is why the 2016 Defence white paper has examined the issue of key enablers so closely and why we will invest over the next decade about $26 billion in upgrading and expanding those Defence facilities right across the country.
+
+
+We are also going to spend over the decade on the maintenance of our existing 600 Defence sites $19 billion, which will include refurbishment and garrison support. That is very, very important to the men and women of the ADF. In fact, every state and territory in Australia will benefit from this massive investment. Much of it, by virtue of the locations of many of these sites, will be in regional and remote Australia.
+
+
+For far too long, the white paper confirms—and those who work within them would also say this—that critical Defence estate and infrastructure has been neglected. It has suffered from very significant underinvestment. In fact Labor cut almost $2.7 billion from Defence estate funding over the forward estimates period while they were in government. We recognise that to support our 21st century Defence Force they need 21st century facilities. With the white paper, the Turnbull government will absolutely revitalise the infrastructure that underpins our Australian Defence Force.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence White Paper</title>,QUESTIONS WITHOUT NOTICE,28,1,answer
+"Payne, Sen Marise",LP,2016-03-03,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Defence) (14:07):  I thank Senator Williams for that supplementary question, because those Defence facilities span our nation, whether it is in an urban environment, like the location of Fleet Base East in Sydney, or in some of our most regional and remote locations, like RAAF bases Learmonth or Curtin in Western Australia. When we are investing in these upgrades—the enhancements and refurbishments—we are actually also investing in those local communities. The purpose of the white paper in pursuing this investment is going to enable us to create local benefits and local jobs wherever there are Defence bases and wherever there are businesses that support Defence. The significant funding for Defence estate and infrastructure that I have already outlined will be spent locally and it will benefit local communities and regions.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence White Paper</title>,QUESTIONS WITHOUT NOTICE,28,1,answer
+"Payne, Sen Marise",LP,2016-03-03,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Defence) (14:08):  That would be 'our' home state, I think, Senator Williams. Over the next decade in New South Wales alone, the investment in estate and infrastructure and the upgrading of Defence facilities will come to almost $6 billion. Much of that will actually be spent in regional New South Wales. For example, we will invest around $800 million, long overdue, in the Riverina region upgrading both Kapooka and RAAF Base Wagga over the next decade. We will invest around $50 million to refurbish very important key training facilities at Singleton, with a broader redevelopment of around $200 million over the decade from 2025 to support both our land and special forces capabilities. On the South Coast we will be supporting the 24 Seahawk helicopters, which are currently be accepted into service at HMAS Albatross. To do that, the base will require an upgrade of around $100 million. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence White Paper</title>,QUESTIONS WITHOUT NOTICE,28,1,answer
 "Cash, Sen Michaelia",LP,2016-03-03,"
 
 
@@ -5010,7 +5146,7 @@ Senator WONG
 Senator CASH
  (Western Australia—Minister Assisting the Prime Minister for the Public Service, Minister for Employment and Minister for Women) (15:01):  by leave—Last week I provided the Senate with an update in relation to an inquiry into complaints related to Vice President Lawler of the Fair Work Commission. I advise the Senate that shortly before question time I received notification from the Office of the Official Secretary to the Governor-General indicating that His Excellency today received a letter from Mr Michael Lawler resigning as a presidential member of the Fair Work Commission. Mr Lawler's resignation from the Fair Work Commission commences with immediate effect.
 
-",Senate,<title>STATEMENTS</title>,<title>Fair Work Commission</title>,STATEMENTS,29,1
+",Senate,<title>STATEMENTS</title>,<title>Fair Work Commission</title>,STATEMENTS,29,1,speech
 "Moore, Sen Claire",ALP,2016-03-03,"
 
 
@@ -5039,7 +5175,7 @@ In the public sector, some departments already had this leave entitlement. I thi
 
 Our proposition is that when we have already identified, through the evidence provided to our inquiry, that work has already been done in key agencies such as Telstra, NAB and Virgin, where they have seen the need to actually put this into their core conditions of service, surely there would be an expectation that the government of the day, the government that had identified the need to respond to women's fear about losing employment and having no secure income, would say that they would lead in this area in the public sector, that they would entrench this kind of condition in entitlements. They would not wait for yet another Productivity Commission report or another round of interviews or processes that would say 'We know domestic violence leave works. We know it is an entitlement that would actually be valued.' Why doesn't the government include in their response to domestic violence issues in Australia a commitment to five days of paid domestic leave in people's national employment standards? Don't wait. Don't actually cover it with rhetoric. Take on directly the institutional, structural and cultural barriers around security and ensure that everyone, workers in the public sector—which was the direct element of my question—but also in the wider community could have this as a paid entitlement in their workplace. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,30,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,30,1,speech
 "Williams, Sen John",Nats,2016-03-03,"
 
 
@@ -5082,7 +5218,7 @@ I note that the Productivity Commission's report into the workplace relations fr
 
 How do we solve the problem? We should work with businesses and encourage them to do exactly that. The immediate and urgent priority of the government is to ensure the safety of women and their children who are at high risk of experiencing violence. The $100 million package announced by the Prime Minister in September 2015 provides essential measures and services that will improve front-line support and services. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,30,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,30,1,speech
 "Polley, Sen Helen",ALP,2016-03-03,"
 
 
@@ -5124,7 +5260,7 @@ If we want to find a solution, as Senator Williams said, to this serious issue t
 
 This is not an issue that should come in and out of vogue. This is an issue that should be on our agenda every single day. We will not sit here in this chamber and be lectured by Senator Cash and have her attack unions when we have a union that is trying to represent the best interests of government employees. The minister is going to sit back and allow that to continue without setting the agenda and intervening. Before the election Mr Abbott promised one thing and did another, and this is another example of Prime Minister Turnbull not showing leadership. After the performance here in the chamber at question time, if I were him I would be calling the minister in and asking when she is going to ensure that those provisions are included. That is what I would be doing if I were Prime Minister. I am calling on him to show some leadership and take some action, because it is unacceptable for a minister of the Crown to come in here and just wash her hands of such a serious issue. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,30,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,30,1,speech
 "Macdonald, Sen Ian",LP,2016-03-03,"
 
 
@@ -5177,7 +5313,7 @@ Like the submarine debate we had, here is a government in this area actually doi
 
 I want to also indicate that under the National Employment Standards of the Fair Work Act, employees already have a specific right to request flexible working arrangements if they are experiencing family violence or providing care or support to a member of their family or household who is experiencing family violence. The act also includes a number of other provisions that may assist employees who are experiencing domestic and family violence. This is already there in the act. These provisions include a range of general provisions, statutory minimum entitlements to personal, carer's and compassionate leave to support a family member with a serious personal illness or an injury. These things have been addressed, they are being addressed and, more than that, they are being supported with government money, as the minister indicated.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,30,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,30,1,speech
 "McEwen, Sen Anne",ALP,2016-03-03,"
 
 
@@ -5206,7 +5342,7 @@ It is a responsibility of government. We cannot wash our hands of it, as the Tur
 
 Question agreed to. 
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,30,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,30,1,speech
 "Fawcett, Sen David",LP,2016-03-03,"
 
 
@@ -5217,7 +5353,7 @@ Senator FAWCETT
 
 Ordered that the report be adopted.
 
-",Senate,<title>COMMITTEES</title>,<title>Publications Committee</title>,COMMITTEES,32,1
+",Senate,<title>COMMITTEES</title>,<title>Publications Committee</title>,COMMITTEES,32,1,speech
 "Fawcett, Sen David",LP,2016-03-03,"
 
 
@@ -5228,7 +5364,7 @@ Senator FAWCETT
 
 Ordered that the report be adopted.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,32,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,32,2,speech
 "Rhiannon, Sen Lee",AG,2016-03-03,"
 
 
@@ -5308,7 +5444,7 @@ Let's remember that these political donations are the icing on the cake in how e
 
 That is why this can be easily cleaned up. If we are committed to enhancing the democratic process, which surely is something that every parliament should regularly turn its mind to, this should be an area we give top attention. The Greens bill on political donations reform that targets those certain industries—developers and the mining, tobacco, gambling and alcohol industries—is a start. It is not the full job, but it would show there is a commitment to cleaning up the corrupting influence of political donations.
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Donations Reform) Bill 2014</title>,BILLS,34,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Donations Reform) Bill 2014</title>,BILLS,34,1,speech
 "Williams, Sen John",Nats,2016-03-03,"
 
 
@@ -5431,7 +5567,7 @@ This is so out of balance. Where is the trade union movement? In the last 21 yea
 
 Perhaps we need to look at New South Wales. I will be frank: there has been a big clean-up there, and certainly some have done the wrong thing. Perhaps we need to look at their system. But it is a burden on the taxpayer when more public funding is required for parties to run their organisations et cetera. Perhaps that is something we may need to look at in the New South Wales system, where you virtually cannot make a donation of more than $1,000 whether you are a company or whatever. It is something to keep in mind for the future.
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Donations Reform) Bill 2014</title>,BILLS,34,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Donations Reform) Bill 2014</title>,BILLS,34,1,speech
 "Ludwig, Sen Joe",ALP,2016-03-03,"
 
 
@@ -5521,7 +5657,7 @@ Senator Rhiannon interjecting
 Senator LUDWIG:
   The High Court found on that evidence that they could do that because it is a proportionate response. There is a two-step test in Lang, which they relied on. I do not have the time to go through it but, if Senator Rhiannon is encouraging me to read the legislation, I would also encourage her to read Lang and understand how you cannot put a burden on the freedom of political communication. This bill will do just that. Whether or not you agree with the principles contained within it, what you would want to ensure is that you have a bill that actually would survive a High Court challenge. The way this bill is currently drafted, as broad and as wide as it is, would not at all. The way that Senator Rhiannon is mischievously arguing—that, because you can ban political donations in New South Wales, it follows that you can then ban just about everybody you can think of—is wrong. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Donations Reform) Bill 2014</title>,BILLS,34,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Donations Reform) Bill 2014</title>,BILLS,34,1,speech
 "Di Natale, Sen Richard",AG,2016-03-03,"
 
 
@@ -5580,7 +5716,7 @@ We have introduced another bill that encompasses the terms of that agreement, an
 
 We have a revolving door in this parliament between politicians, industry and lobbyists. The revolving door is fuelled by money, power and contacts. What we need to do here is ensure that the revolving door between politicians, mining, property, gambling and industry money is slammed shut. We have to make sure that we support this bill in order to do that. 
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Donations Reform) Bill 2014</title>,BILLS,34,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Donations Reform) Bill 2014</title>,BILLS,34,1,speech
 "Cameron, Sen Doug",ALP,2016-03-03,"
 
 
@@ -5715,7 +5851,7 @@ That reminds me that Senator O'Sullivan was a trustee or a director of a company
 
 You hear Senator O'Sullivan on his feet railing against the union movement and railing against union donations to the Labor Party, but he has got a lot to answer in relation to Altum Pty Ltd, a Liberal Party front that was taking money off a company that was going bust, a company that was not paying its creditors, a company that was not paying its workers and a company that left millions of dollars of devastation around this country. Senator O'Sullivan was then with Altum Pty Ltd. Transparency is needed. The National Party and the Liberal Party need to be transparent about where their money is because Labor are.
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Donations Reform) Bill 2014</title>,BILLS,34,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Donations Reform) Bill 2014</title>,BILLS,34,1,speech
 "Waters, Sen Larissa",AG,2016-03-03,"
 
 
@@ -5801,7 +5937,7 @@ This industry is very powerful, and that is just one of the reasons why we need 
 
 I am really proud that we have brought this bill into the parliament. It has been on foot for about 2½ years now, and I am really pleased that we have the chance to debate it this evening. As people might know, we often do not get the opportunity to debate private member's bills in this place. There are just a couple of hours allocated each week, and of course the crossbench shares that time. It is really important that members of the public know that we can do better; we can clean up our democracy. That is with Australians want. We can get rid of the corrupting influence of these dirty industries, whether it is mining or alcohol, tobacco, gambling or property development. We can actually put power back in the hands of the people and restore this country to the representative democracy that we know it is meant to be.
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Donations Reform) Bill 2014</title>,BILLS,34,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Donations Reform) Bill 2014</title>,BILLS,34,1,speech
 "O'Neill, Sen Deb",ALP,2016-03-03,"
 
 
@@ -5869,7 +6005,7 @@ It has been put to me—and the people of Australia should make a decision about
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Donations Reform) Bill 2014</title>,BILLS,34,1
+",Senate,<title>BILLS</title>,<title>Commonwealth Electoral Amendment (Donations Reform) Bill 2014</title>,BILLS,34,1,speech
 "Rhiannon, Sen Lee",AG,2016-03-03,"
 
 
@@ -5949,7 +6085,7 @@ Let's remember that these political donations are the icing on the cake in how e
 
 That is why this can be easily cleaned up. If we are committed to enhancing the democratic process, which surely is something that every parliament should regularly turn its mind to, this should be an area we give top attention. The Greens bill on political donations reform that targets those certain industries—developers and the mining, tobacco, gambling and alcohol industries—is a start. It is not the full job, but it would show there is a commitment to cleaning up the corrupting influence of political donations.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2,speech
 "Williams, Sen John",Nats,2016-03-03,"
 
 
@@ -6072,7 +6208,7 @@ This is so out of balance. Where is the trade union movement? In the last 21 yea
 
 Perhaps we need to look at New South Wales. I will be frank: there has been a big clean-up there, and certainly some have done the wrong thing. Perhaps we need to look at their system. But it is a burden on the taxpayer when more public funding is required for parties to run their organisations et cetera. Perhaps that is something we may need to look at in the New South Wales system, where you virtually cannot make a donation of more than $1,000 whether you are a company or whatever. It is something to keep in mind for the future.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2,speech
 "Ludwig, Sen Joe",ALP,2016-03-03,"
 
 
@@ -6162,7 +6298,7 @@ Senator Rhiannon interjecting
 Senator LUDWIG:
   The High Court found on that evidence that they could do that because it is a proportionate response. There is a two-step test in Lang, which they relied on. I do not have the time to go through it but, if Senator Rhiannon is encouraging me to read the legislation, I would also encourage her to read Lang and understand how you cannot put a burden on the freedom of political communication. This bill will do just that. Whether or not you agree with the principles contained within it, what you would want to ensure is that you have a bill that actually would survive a High Court challenge. The way this bill is currently drafted, as broad and as wide as it is, would not at all. The way that Senator Rhiannon is mischievously arguing—that, because you can ban political donations in New South Wales, it follows that you can then ban just about everybody you can think of—is wrong. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2,speech
 "Di Natale, Sen Richard",AG,2016-03-03,"
 
 
@@ -6221,7 +6357,7 @@ We have introduced another bill that encompasses the terms of that agreement, an
 
 We have a revolving door in this parliament between politicians, industry and lobbyists. The revolving door is fuelled by money, power and contacts. What we need to do here is ensure that the revolving door between politicians, mining, property, gambling and industry money is slammed shut. We have to make sure that we support this bill in order to do that. 
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2,speech
 "Cameron, Sen Doug",ALP,2016-03-03,"
 
 
@@ -6356,7 +6492,7 @@ That reminds me that Senator O'Sullivan was a trustee or a director of a company
 
 You hear Senator O'Sullivan on his feet railing against the union movement and railing against union donations to the Labor Party, but he has got a lot to answer in relation to Altum Pty Ltd, a Liberal Party front that was taking money off a company that was going bust, a company that was not paying its creditors, a company that was not paying its workers and a company that left millions of dollars of devastation around this country. Senator O'Sullivan was then with Altum Pty Ltd. Transparency is needed. The National Party and the Liberal Party need to be transparent about where their money is because Labor are.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2,speech
 "Waters, Sen Larissa",AG,2016-03-03,"
 
 
@@ -6442,7 +6578,7 @@ This industry is very powerful, and that is just one of the reasons why we need 
 
 I am really proud that we have brought this bill into the parliament. It has been on foot for about 2½ years now, and I am really pleased that we have the chance to debate it this evening. As people might know, we often do not get the opportunity to debate private member's bills in this place. There are just a couple of hours allocated each week, and of course the crossbench shares that time. It is really important that members of the public know that we can do better; we can clean up our democracy. That is with Australians want. We can get rid of the corrupting influence of these dirty industries, whether it is mining or alcohol, tobacco, gambling or property development. We can actually put power back in the hands of the people and restore this country to the representative democracy that we know it is meant to be.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2,speech
 "O'Neill, Sen Deb",ALP,2016-03-03,"
 
 
@@ -6510,7 +6646,7 @@ It has been put to me—and the people of Australia should make a decision about
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,34,2,speech
 "Colbeck, Sen Richard",LP,2016-03-03,"
 
 
@@ -6524,7 +6660,7 @@ That Senator Lazarus be appointed as a participating member of the Select Commit
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Select Committee on Health</title>,COMMITTEES,36,1
+",Senate,<title>COMMITTEES</title>,<title>Select Committee on Health</title>,COMMITTEES,36,1,speech
 "Colbeck, Sen Richard",LP,2016-03-03,"
 
 
@@ -6538,7 +6674,7 @@ That Senator Lazarus be appointed as a participating member of the Select Commit
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,36,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,36,2,speech
 "Bushby, Sen David",LP,2016-03-03,"
 
 
@@ -6591,4 +6727,4 @@ Another promising development recently was the passing of the China free trade a
 
 I am excited at the other prospects and opportunities which tourism operators and local businesses will see in the immediate future. We have seen our best ever winter for tourism and that comes off the back of fantastic events like Dark Mofo. But we cannot rest on our laurels; we need to be imaginative and strategic to continue to see our tourism industry grow. Government has some role to play in this by ensuring the regulatory environment allows our tourism and hospitality sector the freedom to operate and flourish. Tasmania has some of the brightest, most passionate and creative minds and I am sure that the future of our tourism and hospitality industry is in good hands.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Tourism</title>,ADJOURNMENT,38,1
+",Senate,<title>ADJOURNMENT</title>,<title>Tourism</title>,ADJOURNMENT,38,1,speech

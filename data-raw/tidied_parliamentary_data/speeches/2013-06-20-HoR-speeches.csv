@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Burke, Anna, MP",ALP,2013-06-20,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER
  (09:01):  I have received a message from the Senate informing the House that Senators Fifield and McKenzie have been appointed members of the Joint Select Committee on DisabilityCare Australia.
 
-",HoR,<title>COMMITTEES</title>,<title>DisabilityCare Australia Committee</title>,COMMITTEES,0,1
+",HoR,<title>COMMITTEES</title>,<title>DisabilityCare Australia Committee</title>,COMMITTEES,0,1,speech
 "Burke, Anna, MP",ALP,2013-06-20,"
 
 
@@ -14,7 +14,7 @@ The SPEAKER
 The SPEAKER
  (09:01):  I have received a message from the Senate informing the House that Senators Fifield and McKenzie have been appointed members of the Joint Select Committee on DisabilityCare Australia.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,0,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,0,2,speech
 "Smith, Stephen, MP",ALP,2013-06-20,"
 
 
@@ -154,7 +154,7 @@ I ask leave of the House to move a motion to enable the member for Fadden to spe
 
 Leave granted.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Defence</title>,MINISTERIAL STATEMENTS,1,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Defence</title>,MINISTERIAL STATEMENTS,1,1,speech
 "Smith, Stephen, MP",ALP,2013-06-20,"
 
 
@@ -168,7 +168,7 @@ That so much of the standing orders be suspended as would prevent Mr Robert spea
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Defence</title>,MINISTERIAL STATEMENTS,1,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Defence</title>,MINISTERIAL STATEMENTS,1,1,speech
 "Robert, Stuart, MP",LP,2013-06-20,"
 
 
@@ -194,7 +194,7 @@ I share the minister's concern that allegations of abuse at training institution
 
 We accept the task force view that they are progressing the matter sensibly and as quickly now as they can, and that they do not yet believe that a royal commission is necessary or, indeed, appropriate in the circumstances. We will continue to monitor the issue with the minister and with the task force. But let me thank the minister for his update to the House. He knows he enjoys the complete bipartisan support of the coalition as he progresses this matter, and I thank him for keeping the nation informed.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Defence</title>,MINISTERIAL STATEMENTS,1,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Defence</title>,MINISTERIAL STATEMENTS,1,1,speech
 "Bradbury, David, MP",ALP,2013-06-20,"
 
 
@@ -253,7 +253,7 @@ Full details of these measure are contained in the explanatory memorandum.
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2013 Measures No. 3) Bill 2013</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2013 Measures No. 3) Bill 2013</title>,BILLS,2,1,speech
 "King, Catherine, MP",ALP,2013-06-20,"
 
 
@@ -279,7 +279,7 @@ Also in November last year approval was provided for an outdoor exhibit in a loc
 
 Question agreed to.
 
-",HoR,<title>PARLIAMENTARY ZONE</title>,<title>Approval of Proposal</title>,PARLIAMENTARY ZONE,3,1
+",HoR,<title>PARLIAMENTARY ZONE</title>,<title>Approval of Proposal</title>,PARLIAMENTARY ZONE,3,1,speech
 "Tudge, Alan, MP",LP,2013-06-20,"
 
 
@@ -315,7 +315,7 @@ That was 12 months ago. The Prime Minister herself said that. But we have had 94
 
 My final point is that this is gross hypocrisy because we all know the Prime Minister herself employs a person on a 457 visa who did not go through their proposed process. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Temporary Sponsored Visas) Bill 2013</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Temporary Sponsored Visas) Bill 2013</title>,BILLS,4,1,speech
 "Adams, Dick, MP",ALP,2013-06-20,"
 
 
@@ -356,7 +356,7 @@ Australian workers are missing out on jobs that they should have access to. Ther
 
 So I think there is a great deal of need for this bill to rectify some of the problems. It concerns me greatly that the party of Work Choices do not seem to think that this is a major issue in Australia. I believe it is and I believe it needs to be rectified. I believe that the minister responsible for this bill is endeavouring to do that so I ask the House to give full support to this bill.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Temporary Sponsored Visas) Bill 2013</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Temporary Sponsored Visas) Bill 2013</title>,BILLS,4,1,speech
 "Tehan, Dan, MP",LP,2013-06-20,"
 
 
@@ -400,7 +400,7 @@ So this is a bad bill. Once you start to join the dots, what has occurred here i
 
 So in many ways what we are here debating today is shameful, and I feel sorry for those on the other side who, in their heart of hearts, know that as well—who know that this is a bill masquerading as something else, trying to cover up a broader problem that this government has. That broader problem is that it does not know how to run a properly functioning immigration system. This bill should be strongly opposed. I hope that more people on the other side will have the courage also to call this bill for what it is.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Temporary Sponsored Visas) Bill 2013</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Temporary Sponsored Visas) Bill 2013</title>,BILLS,4,1,speech
 "Jenkins, Harry, MP",ALP,2013-06-20,"
 
 
@@ -429,7 +429,7 @@ Mr Tehan:
 Mr JENKINS:
   I thank the member for Wannon. Without getting into the debate—because you cannot debate through a question—I ask the member for Wannon whether he believes that, in the case of the abattoirs and health services that he has talked about locally, it is appropriate that those that are employed under 457 visas get the same pay and conditions as Australians and, if so, how he believes that that should be regulated.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Temporary Sponsored Visas) Bill 2013</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Temporary Sponsored Visas) Bill 2013</title>,BILLS,4,1,speech
 "Tehan, Dan, MP",LP,2013-06-20,"
 
 
@@ -443,7 +443,7 @@ There is no evidence whatsoever to support this bill being in this place. As I i
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Temporary Sponsored Visas) Bill 2013</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Temporary Sponsored Visas) Bill 2013</title>,BILLS,4,1,speech
 "Tudge, Alan, MP",LP,2013-06-20,"
 
 
@@ -479,7 +479,7 @@ That was 12 months ago. The Prime Minister herself said that. But we have had 94
 
 My final point is that this is gross hypocrisy because we all know the Prime Minister herself employs a person on a 457 visa who did not go through their proposed process. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Adams, Dick, MP",ALP,2013-06-20,"
 
 
@@ -520,7 +520,7 @@ Australian workers are missing out on jobs that they should have access to. Ther
 
 So I think there is a great deal of need for this bill to rectify some of the problems. It concerns me greatly that the party of Work Choices do not seem to think that this is a major issue in Australia. I believe it is and I believe it needs to be rectified. I believe that the minister responsible for this bill is endeavouring to do that so I ask the House to give full support to this bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Tehan, Dan, MP",LP,2013-06-20,"
 
 
@@ -564,7 +564,7 @@ So this is a bad bill. Once you start to join the dots, what has occurred here i
 
 So in many ways what we are here debating today is shameful, and I feel sorry for those on the other side who, in their heart of hearts, know that as well—who know that this is a bill masquerading as something else, trying to cover up a broader problem that this government has. That broader problem is that it does not know how to run a properly functioning immigration system. This bill should be strongly opposed. I hope that more people on the other side will have the courage also to call this bill for what it is.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Jenkins, Harry, MP",ALP,2013-06-20,"
 
 
@@ -593,7 +593,7 @@ Mr Tehan:
 Mr JENKINS:
   I thank the member for Wannon. Without getting into the debate—because you cannot debate through a question—I ask the member for Wannon whether he believes that, in the case of the abattoirs and health services that he has talked about locally, it is appropriate that those that are employed under 457 visas get the same pay and conditions as Australians and, if so, how he believes that that should be regulated.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Tehan, Dan, MP",LP,2013-06-20,"
 
 
@@ -607,7 +607,7 @@ There is no evidence whatsoever to support this bill being in this place. As I i
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Albanese, Anthony, MP",ALP,2013-06-20,"
 
 
@@ -627,7 +627,7 @@ That in respect of the Tax Laws Amendment (2013 Measures No. 3) Bill 2013:
 
 Question agreed to. 
 
-",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2013 Measures No. 3) Bill 2013</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Tax Laws Amendment (2013 Measures No. 3) Bill 2013</title>,BILLS,6,1,speech
 "Albanese, Anthony, MP",ALP,2013-06-20,"
 
 
@@ -647,7 +647,7 @@ That in respect of the Tax Laws Amendment (2013 Measures No. 3) Bill 2013:
 
 Question agreed to. 
 
-",HoR,<title>BILLS</title>,<title>Reference to Federation Chamber</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Reference to Federation Chamber</title>,BILLS,6,2,speech
 "Prentice, Jane, MP",LP,2013-06-20,"
 
 
@@ -661,7 +661,7 @@ Learning a specialised instrument like the bagpipes takes many years of practice
 
 The band won the Queensland pipe association trophy, the Donald Mackie Trophy for best pipe corps and the Best Medley Performance award in grade 4. The University of Queensland Pipe Band is under the patronage of Emmanuel College principal Professor Stewart Gill, and he says the band is excited about representing the university, the college and, indeed, the Queensland community at the world championships. I wish them the best of luck.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Ryan Electorate: University of Queensland Pipe Band</title>,STATEMENTS BY MEMBERS,9,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Ryan Electorate: University of Queensland Pipe Band</title>,STATEMENTS BY MEMBERS,9,1,speech
 "Gillard, Julia, MP",ALP,2013-06-20,"
 
 
@@ -690,7 +690,7 @@ In the end Michael Hodgman also proved to be something else: a man of courage. M
 
 Sadly, emphysema compounded with Alzheimer's finally accomplished its awful work, and Michael Hodgman's grand life came to an end yesterday in Hobart. On behalf of all Australians I extend my sincere condolences to his family, friends and colleagues. We pay tribute to Michael Hodgman's remarkable life and, in death, we remember him with gratitude and with respect.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Hodgman, Hon. William Michael, AM QC</title>",CONDOLENCES,10,1
+",HoR,<title>CONDOLENCES</title>,"<title>Hodgman, Hon. William Michael, AM QC</title>",CONDOLENCES,10,1,speech
 "Abbott, Tony, MP",LP,2013-06-20,"
 
 
@@ -742,7 +742,7 @@ The SPEAKER:  I thank the House.
 
 Debate adjourned.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Hodgman, Hon. William Michael, AM QC</title>",CONDOLENCES,10,1
+",HoR,<title>CONDOLENCES</title>,"<title>Hodgman, Hon. William Michael, AM QC</title>",CONDOLENCES,10,1,speech
 "Albanese, Anthony, MP",ALP,2013-06-20,"
 
 
@@ -756,7 +756,7 @@ That the resumption of the debate on the Prime Minister's motion of condolence i
 
 Question agreed to.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Hodgman, Hon. William Michael, AM QC</title>",CONDOLENCES,10,1
+",HoR,<title>CONDOLENCES</title>,"<title>Hodgman, Hon. William Michael, AM QC</title>",CONDOLENCES,10,1,speech
 "Albanese, Anthony, MP",ALP,2013-06-20,"
 
 
@@ -770,7 +770,153 @@ That the resumption of the debate on the Prime Minister's motion of condolence i
 
 Question agreed to.
 
-",HoR,<title>CONDOLENCES</title>,<title>Reference to Federation Chamber</title>,CONDOLENCES,10,2
+",HoR,<title>CONDOLENCES</title>,<title>Reference to Federation Chamber</title>,CONDOLENCES,10,2,speech
+"Abbott, Tony, MP",LP,2013-06-20,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:10):  My question is to the Prime Minister. Can she confirm that the carbon tax will increase to over $24 a tonne on 1 July and that, if the government is re-elected, it will increase to over $25 a tonne next year? Why is her government's carbon tax going up and up and up when the carbon tax in Europe went down again last night to $6 and New Zealand's carbon tax has just dropped to just 75c?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,12,1,question
+"Abbott, Tony, MP",LP,2013-06-20,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:14):  Madam Speaker, I have a supplementary question. If the Prime Minister is right and Australia is somehow paying the world price, does she stand by the government's budget estimate that the carbon price will rise to $38 a tonne by 2020? If she does not, what happens to the government's budget and isn't the black hole just getting bigger and bigger and bigger? (Time expired)
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,12,1,question
+"Gillard, Julia, MP",ALP,2013-06-20,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:11):  The Leader of the Opposition well knows, and so do members of this House well know, the government's design of carbon pricing. Yes, there is a fixed price for the first three years—the 'carbon tax' to use the terminology—and then it moves to an emissions trading scheme.
+
+
+When it moves to an emission trading scheme, Australian businesses will get the benefit of the international price for carbon pricing. What is remarkable about this question is that the Leader of the Opposition is quoting prices from other nations when he has spent the best part of two years telling Australians that no-one else in the world is pricing carbon other than Australia. So I thank him for acknowledging—
+
+
+
+Honourable members interjecting—
+
+
+
+The SPEAKER:  The Prime Minister will resume her seat. The Leader of the Opposition on a point of order.
+
+
+
+
+Mr Abbott:
+  Yes, Madam Speaker. It was a very simple question: why is our price going up and up and up when the price elsewhere is going down and down and down?
+
+
+
+The SPEAKER:  The Leader of the Opposition will resume his seat. The Prime Minister has the call.
+
+
+
+
+Ms GILLARD:
+  I thank the Leader of the Opposition for again confirming that he now recognises that nations around the world are putting a price on carbon.
+
+
+What he does not seem to be realising is that he is shooting down one of the principal argument he has used publicly against carbon pricing. He has been out in the Australian community saying, 'Australia shouldn't go it alone; no-one else is doing this,' and then he comes into this chamber and asks about other people's prices.
+
+
+But the hypocrisy does not end there, because, under the government scheme, as we move to an emission trading scheme Australian businesses will be paying the world price—no more, no less. That is why we are doing things like linking our scheme to the scheme in the European Union.
+
+
+Who is opposed to that? Who is opposed to international linking? Who is opposed to Australian businesses having the benefits of the world price? The Leader of the Opposition is! It is specifically ruled out in his sham statements about so-called 'direct action', because this is a policy that does not make any sense and would certainly impose more costs on the Australian nation.
+
+
+Every reputable person who has looked at the Leader of the Opposition's plan has dismissed it as nonsense. It is the kind of policy you cobble together when you have been running a fear campaign and then you are not sure what to do next. I say to the Leader of the Opposition that he would be better advised to adopt the position he clearly had when he was a minister in the Howard government—that is, a position of putting a price on carbon.
+
+
+This is weathervane politics which is not in the national interest, not in the interests of Australian businesses, not in the interests of jobs and not in the interests of a clean energy future. All of this should be abandoned by the Leader of the Opposition. He should have the decency to do what Prime Minister Howard did and endorse carbon pricing.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,12,1,answer
+"Gillard, Julia, MP",ALP,2013-06-20,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:15):  What the Leader of the Opposition's supplementary question shows is if you are going to run a fear campaign month after month after month it pays to spend just a tiny moment of your time getting to grips with the policy proposition you are running the fear campaign against. Clearly, the Leader of the Opposition has never done that. He grabbed a slogan out of the air—carbon tax going up and up and up; no more Whyalla; no more lamb roasts; and on and on it went—and he has never got to grips with the policy proposition. To the Leader of the Opposition, who has simply got no idea about this matter: let me explain it to him again.
+
+
+We put in place carbon pricing. It has a fixed price for the first three years and then you move to an emissions trading scheme which we have worked to link internationally so businesses get the benefit of the world price. Then, of course, what happens with the budget is what happens with other budget figures, and that is that experts in Treasury make forecasts for the government—and the shadow Treasurer rolls his eyes! You are sacking everybody in Treasury, are you? Every professional gone if the shadow Treasurer is ever the Treasurer? Well, of course not. The same professionals will assist the Leader of the Opposition if he is ever Prime Minister and they will give him the same advice, and that advice will be that carbon pricing is the cheapest, most effective way of tackling climate change.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,12,1,answer
+"Symon, Mike, MP",ALP,2013-06-20,"
+
+
+
+Mr SYMON
+ (Deakin) (14:23):  My question is to the Prime Minister. How will all Australian schools benefit from our plan for school improvement; and what is the choice facing schools and parents?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education</title>,QUESTIONS WITHOUT NOTICE,14,1,question
+"Gillard, Julia, MP",ALP,2013-06-20,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:23):  I thank the member for Deakin for his question. I thank him for his deep interest in his local schools. I have had the opportunity to spend some time with him in his electorate and meet with some of the schoolchildren there. I know he wants them to have the best possible future. He wants them to go to the best possible schools. I thank him for his question because it enables me to say to the House that the role and responsibility of government is to do the big things that are necessary to shape our nation's future; to make sure that our country has a stronger, smarter and fairer future; to get the big things done that invest in that future on behalf of all Australians. 
+
+
+That is why the government has time after time worked on major reforms which will strengthen us as a country—including creating a clean energy future; including investing in the National Broadband Network; including reforms in health and aged care; including building the National Disability Insurance Scheme; and, including, very importantly, so that every child and every Australian can have the best possible future, investing in those great institutions that create opportunity in our country—that is, Australian schools.
+
+
+We are investing in early childhood education because we want every child to get a flying start into the best possible life. We have created more apprenticeships and traineeships than have existed before in our country, because we want young people to have those all important skills, those trade qualifications for the future. We have created more university places than there have ever been before. We have put more into research and we have put more into innovation, because we want this country to be as smart as we know it can be. But we now want to ensure that every child in every school gets a great education so they can make the most of those opportunities for the future. 
+
+
+This is, firstly, something that you build when you recognise the current funding model is broken. I recognise that; Premier O'Farrell recognises that; unfortunately, the Leader of the Opposition defends that broken model. And then, having recognised that the model is broken, we come up with a well researched, careful plan for change, which is what we have been doing over more than five years now. Then you seek agreement for it. Once again I am calling on premiers and the Chief Minister of the Northern Territory to do the right thing, to resist the political pressure from the opposition, to put our kids first. They should be recognising in their leadership of their areas that there is something more important to them than succumbing to the political pressure of the opposition, and that is getting every child in the schools they have responsibility for a great education. 
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education</title>,QUESTIONS WITHOUT NOTICE,14,1,answer
+"Perrett, Graham, MP",ALP,2013-06-20,"
+
+
+
+Mr PERRETT
+ (Moreton—Government Whip) (14:35):  My question is to the Treasurer. How does Australia's combination of economic strengths make us the envy of the world? And how will the government's plans for jobs and growth ensure our economy remains strong for generations to come?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE,16,1,question
+"Perrett, Graham, MP",ALP,2013-06-20,"
+
+
+
+Mr PERRETT
+ (Moreton—Government Whip) (14:38):  Speaker, I ask a supplementary question. The Treasurer has spoken about what better school funding means for kids in Queensland. What would this mean for the 21,000 schoolkids in my electorate of Moreton?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE,16,1,question
+"Swan, Wayne, MP",ALP,2013-06-20,"
+
+
+
+Mr SWAN
+ (Lilley—Deputy Prime Minister and Treasurer) (14:35):  I would like to thank the member for Moreton for that very important question, because the Australian economy has emerged as one of the strongest in the developed world and we have emerged that way because we have got the big economic calls right and we will continue to get them right after the next five years as well.
+
+
+We have had a period of remarkable global uncertainty, but we have performed so much better than other developed economies. We have an economy which is 14 per cent larger than it was at the end of 2007; an absolutely outstanding job creation record—almost one million additional jobs; and, of course, low unemployment at 5.5 per cent, low interest rates, strong public finances and a AAA credit rating from the three major global rating agencies for the very first time in our history. And, of course, we have low debt.
+
+
+All of these facts are something that we in this chamber should all be very proud of. Of course, what we now need to do is to build for the future. We need to build on this strength and we need to take the resilience we have demonstrated over the last five years and make sure that we make the investments for the future. Nothing is more important there than our investment in education—our investment in A National Plan for School Improvement—because if we are going to win this economic race in the Asian century we have to win the education race.
+
+
+It is very important that we get all states to sign on to this reform. In my home state of Queensland, Premier Newman does not want to sign on because he is taking his instructions from the Leader of the Opposition. This is worth $3.8 billion over six years for Queensland schools—$2.2 million extra on average per school in Queensland. Every single school in Queensland will be better off. There will be extra resources in the classroom, extra training for teachers and more support for the kids when they need it. This will mean that every kid in Queensland will get a better start in life if only the Liberal and National parties would put the children of Queensland first and their own political interests last. They have a week to sign up. We want to see some real interest in this issue in Queensland. It is a once-in-a-generation opportunity to lift all of our students up so we can make the most of the next five years and beyond.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE,16,1,answer
+"Swan, Wayne, MP",ALP,2013-06-20,"
+
+
+
+Mr SWAN
+ (Lilley—Deputy Prime Minister and Treasurer) (14:38):  I thank him for that supplementary question. I think there are something like 21,000 students in Moreton, including Stanley, his son. They will benefit tremendously from this program. In Moreton alone that is an extra $106 million in funding on offer over six years. If you look across the state, in the electorate of Brisbane there are 25,000 students, in the electorate of Ryan there are 26,000 students and in the electorate of Dawson there are 28,000 students. Everyone on this side of the House is supporting additional resources to our schools right across the state of Queensland and right across Australia.
+
+
+How is it that the Premier of New South Wales can sign up but the Premier of Queensland cannot? The answer is: straight politics—the negative politics of the Leader of the Opposition and the Liberal Party. This government will always put our students first and politics last.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education Funding</title>,QUESTIONS WITHOUT NOTICE,16,1,answer
 "Fitzgibbon, Joel, MP",ALP,2013-06-20,"
 
 
@@ -805,7 +951,7 @@ There is another important issue in connection with this matter that I wish to r
 
 I can advise that the committee has decided not to raise a matter of privilege in relation to the member for Tangney's unauthorised disclosures, because it does not feel or consider that the conduct constitutes a substantial interference in its work. Nevertheless, the committee notes that the unauthorised disclosure of correspondence was contrary to the expressed wishes of the defence subcommittee and breaches the undertaking made to the company with which it was corresponding in good faith. This, the committee believes, is deeply regrettable. The committee is disappointed that a member has chosen to act in such a regrettable manner and expresses concern over the dangerous precedent such conduct could set.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Matter of Privilege</title>,STATEMENTS ON INDULGENCE,17,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Matter of Privilege</title>,STATEMENTS ON INDULGENCE,17,1,speech
 "Burke, Anna, MP",ALP,2013-06-20,"
 
 
@@ -816,7 +962,7 @@ The SPEAKER
 
 Ordered that the reports be made parliamentary papers.
 
-",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Reports Nos 49 and 50 of 2012-13</title>,AUDITOR-GENERAL'S REPORTS,19,1
+",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Reports Nos 49 and 50 of 2012-13</title>,AUDITOR-GENERAL'S REPORTS,19,1,speech
 "Burke, Anna, MP",ALP,2013-06-20,"
 
 
@@ -836,7 +982,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Asylum Seekers</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Asylum Seekers</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "Morrison, Scott, MP",LP,2013-06-20,"
 
 
@@ -902,7 +1048,7 @@ Mr MORRISON:
 
 There is the community-dumping policy. But Mr Deputy Speaker, know this: the coalition has the resolve and the coalition has the policies, and it will get done. We cannot afford another three years of the failures under this government; the cost, the chaos and the tragedy that has followed from their decisions. They can go and look their electors in the eye and explain to them the cost, the chaos and the tragedy. After six years, the Australian people have had enough; they want a change and they know that the coalition can deliver that change on 14 September.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Asylum Seekers</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Asylum Seekers</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "O'Connor, Brendan, MP",ALP,2013-06-20,"
 
 
@@ -959,7 +1105,7 @@ We have an opportunity to realise the Malaysian arrangement and give it a go, as
 
 This is a global problem. I agree with what the member for Cook said at the commencement of his contribution. This is a global problem and it is a regional problem, but it needs a regional solution. It is not going to work with a slogan and it is not going to work attacking Indonesia or Malaysia. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Asylum Seekers</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Asylum Seekers</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "Keenan, Michael, MP",LP,2013-06-20,"
 
 
@@ -991,7 +1137,7 @@ What we need to do of course is ensure that we return to a suite of policies tha
 
 Debate interrupted. 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Asylum Seekers</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Asylum Seekers</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "Christensen, George, MP",Nats,2013-06-20,"
 
 
@@ -1038,7 +1184,7 @@ I have here a document which is a petition, but it is not a petition in accordan
 
 Leave not granted.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Petition: Abbot Point</title>,ADJOURNMENT,22,1
+",HoR,<title>ADJOURNMENT</title>,<title>Petition: Abbot Point</title>,ADJOURNMENT,22,1,speech
 "O'Dwyer, Kelly, MP",LP,2013-06-20,"
 
 
@@ -1098,7 +1244,7 @@ from 1,151 citizens
 
 Petition received.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Petition: Level Crossings</title>,CONSTITUENCY STATEMENTS,24,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Petition: Level Crossings</title>,CONSTITUENCY STATEMENTS,24,1,speech
 "Smith, Tony, MP",LP,2013-06-20,"
 
 
@@ -1136,7 +1282,7 @@ Finally, I am advised that the minister's officers have been asked by our shadow
 
 As stated at the outset, the coalition will be supporting the passage of both of these bills.
 
-",HoR,<title>BILLS</title>,"<title>Tax Laws Amendment (Fairer Taxation of Excess Concessional Contributions) Bill 2013, Superannuation (Excess Concessional Contributions Charge) Bill 2013</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Tax Laws Amendment (Fairer Taxation of Excess Concessional Contributions) Bill 2013, Superannuation (Excess Concessional Contributions Charge) Bill 2013</title>",BILLS,25,1,speech
 "Shorten, Bill, MP",ALP,2013-06-20,"
 
 
@@ -1168,7 +1314,7 @@ Message from the Governor-General recommending appropriation announced.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,"<title>Tax Laws Amendment (Fairer Taxation of Excess Concessional Contributions) Bill 2013, Superannuation (Excess Concessional Contributions Charge) Bill 2013</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Tax Laws Amendment (Fairer Taxation of Excess Concessional Contributions) Bill 2013, Superannuation (Excess Concessional Contributions Charge) Bill 2013</title>",BILLS,25,1,speech
 "Smith, Tony, MP",LP,2013-06-20,"
 
 
@@ -1206,7 +1352,7 @@ Finally, I am advised that the minister's officers have been asked by our shadow
 
 As stated at the outset, the coalition will be supporting the passage of both of these bills.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Shorten, Bill, MP",ALP,2013-06-20,"
 
 
@@ -1238,7 +1384,7 @@ Message from the Governor-General recommending appropriation announced.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "McCormack, Michael, MP",Nats,2013-06-20,"
 
 
@@ -1255,4 +1401,4 @@ After agitation by the deceased's family and the local media, another police inv
 
 The coalition welcomes the advice and assistance of the government, including our professional consular officials. We urge the Australian government to give the matter the highest priority. The coalition will continue to monitor this case very closely and hopes that, with the assistance of the government, the matter will be satisfactorily resolved, with the Australians' names cleared and no need for them to return to Peru to face trial. I spoke this morning to Rosemary Pilat, the mother of Andrew Pilat, one of the six young Australians who have unfortunately been caught up in this dreadful situation. Obviously she is very distraught about the situation, as are the families of the other five young people. I ask the government to do everything it can to see that this situation is resolved satisfactorily. It is a very worrying situation for these six young Australians, who obviously maintain their innocence. As you heard from that letter, Harrison Geier's father is also extremely worried and distraught. It is an alarming situation and I would impress upon the Commonwealth government of Australia to do everything it can to see that it is resolved satisfactorily.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Legal Matter in Peru</title>,ADJOURNMENT,26,1
+",HoR,<title>ADJOURNMENT</title>,<title>Legal Matter in Peru</title>,ADJOURNMENT,26,1,speech

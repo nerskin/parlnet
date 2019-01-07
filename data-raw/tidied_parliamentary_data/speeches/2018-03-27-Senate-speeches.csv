@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2018-03-27,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (12:01):  I remind senators that the question may be put on any proposal at the request of any senator.
 
-",Senate,<title>COMMITTEES</title>,<title>National Broadband Network Committee</title>,COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,<title>National Broadband Network Committee</title>,COMMITTEES,1,1,speech
 "PRESIDENT, The",,2018-03-27,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (12:01):  I remind senators that the question may be put on any proposal at the request of any senator.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "CHAIR, The",,2018-03-27,"
 
 
@@ -22,7 +22,7 @@ The PRESIDENT
 The CHAIR
  (12:01):  The committee is considering the Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017 and amendments (1) to (4) on sheet 8395, moved by Senator Griff. The question is that the amendments as moved by Senator Griff be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -30,7 +30,7 @@ The CHAIR
 Senator O'NEILL
  (New South Wales) (12:09):  Minister, last night, just as we were coming to the end of this committee stage, I asked you a series of questions around Lottoland, including whether you could explain when you expected the ban to come into effect and the corresponding advertising ban to become effective. Last night, you gave us the indication that you had an opinion about this, but you didn't indicate any legislation or a timetable with regard to legislation. I have to wonder: who's got more information about what's going on, the Senate or The Australian newspaper? Would you be able to give us some indications? Does the government actually have a plan to bring a ban into effect, and what will the advertising ban with regard to Lottoland be?
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -50,7 +50,7 @@ Many Australians enjoy lotteries and keno as a recreational activity, and the go
 
 I might just cast back a little bit. A number of colleagues in this place last year—Liberal colleagues, Nationals colleagues and Pauline Hanson's One Nation, who have been very active in this area—raised the issue of the synthetic lotteries and the fact that they were causing considerable concern at that stage, particularly to newsagents. As a result, I wrote to the Northern Territory gaming minister to raise these concerns, as Lottoland is registered in the Northern Territory. Subsequent to that, it was announced by the Northern Territory that betting on lotteries in Australia would not be permitted under that licence. But there was, however, still the capacity for bets to be placed on the outcomes of overseas lotteries, and also there was the emergence of betting on the outcome of keno. This is something that was of concern to pubs and clubs, and representative bodies such as the Australian Hotels Association, so that's something that we looked at very seriously. As I say, it's something that numbers of colleagues, including Senator Hanson, raised with the government. We have taken a look at it, and, as I indicated, it is the decision of the government to introduce legislation tomorrow into the House of Representatives to ban betting on lotteries and keno games.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -58,7 +58,7 @@ I might just cast back a little bit. A number of colleagues in this place last y
 Senator O'NEILL
  (New South Wales) (12:14):  Thank you for that response. It is a little clearer than the oracle last night! Could I just get you to step through that time line quite clearly for us—the legislation in tomorrow, and six months after it becomes law, you indicate, the ban is going to come into effect. Perhaps I missed it, but I'm just wondering what your advertising ban time line is with regard to that. When does that become effective?
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -66,7 +66,7 @@ Senator O'NEILL
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (12:15):  The advertising ban we will have on gambling comes into effect at the end of the month, and that applies to synthetic lotteries, as it does to other gambling products during live sport—obviously, that will come into effect and it will apply to the synthetic lotteries. Six months from the passage of this legislation, which will ban betting on lotteries and keno games, they will no longer occur.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Hanson-Young, Sen Sarah",AG,2018-03-27,"
 
 
@@ -237,7 +237,7 @@ Number of end
 
 (16) Schedule 1, item 22, page 29 (line 5), omit ""5 minutes"", substitute ""30 minutes"".
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -269,7 +269,7 @@ Further, the regulatory policy of the Broadcasting Services Act 1992 provides:
 
 among other things. Labor appreciate that evidence of community attitudes indicates that stronger protections may well be warranted, but we are also cognisant of the regulatory policy. Labor believes that industry should be afforded the time and the flexibility needed to alter business practices and contractual arrangements to address community concerns, which is how the approach that's been adopted may be regarded at this point. Labor does not seek to permit discrete changes to the standard regulatory policy of the Broadcasting Services Act on an issue-by-issue basis. Furthermore, there are more factors than audience size that may go to considering whether a service is more or less influential. Whether a service is freely available or subscription based may also be determinative, for example. Therefore, the amendments may not even achieve any greater consistency between platforms, as intended. For those reasons, we will not be supporting these amendments.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -281,7 +281,7 @@ Senator FIFIELD
 
 The CHAIR:  The question is that the amendments as moved by Senator Hanson-Young on sheet 8367, amendments (1) to (8) and (10) to (15), be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "CHAIR, The",,2018-03-27,"
 
 
@@ -292,7 +292,7 @@ The CHAIR
 
  
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -426,7 +426,7 @@ In essence, what this bill highlights is the ongoing failure of the Liberal gove
 
 In closing, for the government to threaten that it will pull this bill if Labor's amendment gets up is pure nonsense and bluff. Both the government and Labor are committed to implementing online restrictions, but SBS should not be directly subject to the regulatory regime set out in this bill. Labor's amendment fixes this error and is 100 per cent consistent with government policy on the restriction of gambling promotions, on the independence of the SBS and in relation to best practice regulation. Overall, including restrictions on gambling advertising during live sporting events on online platforms in the SBS codes would be clearer for audiences, would enable more efficient handling of complaints by both SBS and the ACMA and would appropriately preserve the SBS's editorial independence from the government. Labor's amendment does not mean that the SBS will not be regulated or will be exempt from regulation. It will simply keep the mechanism for the regulation of the SBS the same as it is now—regulation by codes of practice. I seek your support for this amendment.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -446,7 +446,7 @@ The ACMA will be given power to grant individual or class exceptions for online 
 
 I note in conclusion that Save Our SBS, which is, I guess, the analogous organisation to the Friends of the ABC, does not support the Australian Labor Party's amendment and does support the government's proposition in this regard.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Hanson-Young, Sen Sarah",AG,2018-03-27,"
 
 
@@ -475,7 +475,7 @@ That's what this amendment is about: standing up for our public broadcasters and
 
 So this amendment is important. It's an important principle for us as a Senate to say: 'No, we're not going to put up with that biased agenda. We're not going to put up with this attack on our public broadcasters. We are going to stand up for the independence of our public broadcasters and the belief of the Australian people that their money is being spent on news and broadcasters that are the shining light of journalism in this country.' They are the most trusted, the highest rating, when it comes to integrity of institutions. This government can't stand it. One Nation can't stand it. It's important that the Senate vote for this amendment to send the message that we are not going to stand by and let our public broadcasters be a punching bag for this government, Mr Tony Abbott and Senator Abetz. And we're definitely not going to sit by and let the ABC and SBS be a punching bag for Senator Pauline Hanson and those lunatics in her One Nation party.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -483,7 +483,7 @@ So this amendment is important. It's an important principle for us as a Senate t
 Senator O'NEILL
  (New South Wales) (13:05):  In light of the minister's comments in response to my words around our amendment, I'm sure the minister's aware of and has read deeply and carefully the recent final report of the ACMA review, which has been accepted by government—at least I thought it was. It was recommended in that review that co- and self-regulation be pursued to a greater, not a lesser, extent. My question to you, Minister, is: have you changed your mind on this already?
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -491,7 +491,7 @@ Senator O'NEILL
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (13:06):  No, the government hasn't. What we are seeking to do is to legislate a consistent regime for online activities and, when it comes to gambling advertising during live sporting events on online platforms, to ensure we have the same legislative regime apply across the board. I did say in my earlier comments that to rely on a code for SBS in terms of its online activities would be weaker because there would not be the legislative penalties for SBS online activities that there are for other online operators. We want a consistent regime, and we want a strong regime.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -499,7 +499,7 @@ Senator FIFIELD
 Senator O'NEILL
  (New South Wales) (13:07):  I don't think there's any doubt that we seek a strong regime, but I made a number of points about the argument for consistency, which I think the minister's words are quite disingenuous about. You asserted just then, once again, that code regulation permits weaker regulation, and we have to say that that's complete nonsense from our point of view. Minister, if code regulation permits weaker regulation, why use code regulation for the broadcast platform?
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -507,7 +507,7 @@ Senator O'NEILL
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (13:07):  There are two different sorts of codes. There are the codes that apply to commercial broadcasters, for which there are penalties, and there are the codes that apply to the public broadcasters, for which there are not penalties. If you apply a code based regime to SBS online activities, that would mean there would be a category of online activity that would not be subject to any penalty. That is a weaker regime, whichever way you look at it.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -515,7 +515,7 @@ Senator FIFIELD
 Senator O'NEILL
  (New South Wales) (13:08):  Can I ask for the minister's view about the SBS and its independence from ACMA. Minister, do you consider the SBS to be independent from ACMA?
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -523,7 +523,7 @@ Senator O'NEILL
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (13:08):  ACMA does not have a role in editorial decisions at the moment or into the future. The whole idea of legislated independence for public broadcasters is that they are not subject to direction in editorial matters or news content by the government of the day. And the government of the day will not, under this regime, have the capacity to do that, and ACMA will not have the capacity to do that. Independence does not mean that the public broadcasters are in their own parallel universe, completely immune to the legislation passed by this parliament. They are subject to the legislation passed by this parliament, and they have legislated independence in editorial matters, and they will continue to have legislated independence in editorial matters, operational matters and news matters.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -531,7 +531,7 @@ Senator FIFIELD
 Senator O'NEILL
  (New South Wales) (13:09):  Minister, none of your comments can persuade me to think that you are absolutely supportive of the codes as they need to exist. Do you concede that this bill is inconsistent with the regulatory framework?
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -539,7 +539,7 @@ Senator O'NEILL
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (13:09):  Absolutely not. To not have this legislation apply to SBS's online activities would mean that there then would be created an inconsistency in the regulatory framework.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -547,7 +547,7 @@ Senator FIFIELD
 Senator O'NEILL
  (New South Wales) (13:09):  Minister, you say that you want a consistent regime, despite the need for different treatments for different parts of the sector, yet this bill permits all manner of exemptions for the ACMA to decide upon. Do you have a view about giving that much power to ACMA?
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -555,7 +555,7 @@ Senator O'NEILL
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (13:10):  And ACMA will still have that capacity.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -563,7 +563,7 @@ Senator FIFIELD
 Senator O'NEILL
  (New South Wales) (13:10):  The bill permits some services to be unregulated; no penalties will apply to them. So why not permit the SBS to act as a self-regulator, in alignment with the final report recommendations from the ACMA review—or has the Turnbull government abandoned its commitment to industry self-regulation?
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -578,7 +578,7 @@ The CHAIR:  The question is that amendment (1) on sheet 8380, as moved by Senato
 
  
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Siewert, Sen Rachel",AG,2018-03-27,"
 
 
@@ -600,7 +600,7 @@ Senator SIEWERT:
 
 The CHAIR:  Senator Siewert, it is really up to Senator Steele-John to provide an explanation as to why he was not in the chamber.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Steele-John, Sen Jordon",AG,2018-03-27,"
 
 
@@ -615,7 +615,7 @@ Leave granted.
 
 The CHAIR:  The question is that amendment (1) on sheet 8380, as moved by Senator O'Neill, be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Hanson-Young, Sen Sarah",AG,2018-03-27,"
 
 
@@ -716,7 +716,7 @@ Australian artists, actors, producers, scriptwriters, sound engineers and camera
 
 If that is not the will of the minister, then be prepared to put parliamentary oversight back in place so that we can have a discussion and a debate about how much we should be investing in and protecting Australian jobs and Australian stories. All this amendment does is reinstate parliamentary oversight. The minister is able to do a lot of things on his own. He shouldn't be able to write away Australian-made stories and junk hundreds of thousands of Australian jobs that depend on making sure Australian stories, and kids' stories in particular, are told here in Australia by Australians.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -730,7 +730,7 @@ Contrary to Senator Hanson-Young's, I assume, rhetorical flourish, I don't have 
 
 The rationale for this exemption is that section 128 of the Broadcasting Services Act includes the power for parliament to amend standards, which is a more comprehensive power for parliament than media disallowance. In any case, it's not correct to say that I can unilaterally amend or abolish quotas. Let me restate again that the government has made no decisions in relation to the content review, which is ongoing. The quotas are in standards that are made by ACMA, and it is ACMA that would need to make new standards to make any changes. Again, let me reiterate that the government has made no decisions in this regard. No announcements, including regarding quotas, are imminent. So there's not a basis in fact for the commentary around quotas that there has been over recent days.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -763,7 +763,7 @@ Senator Fifield:
 Senator O'NEILL:
   While you were shuffling, Minister, I was making the point that you have received the report of the content review, and I called on you to release that report. We know that it's been supplied to you, and it's the careful work of the department, the ACMA and Screen Australia, and there is considerable interest. And, seeing as this matter has been raised, everyone wants to see this report as soon as possible—certainly before the budget—so that they can participate in the discussion. In addition to the release, I'd be interested in the minister making a comment on how the government has received the report.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -771,7 +771,7 @@ Senator O'NEILL:
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (13:44):  The review is advice to government, and the work on that review continues.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -779,7 +779,7 @@ Senator FIFIELD
 Senator O'NEILL
  (New South Wales) (13:44):  I'm very heartened by that, Minister. My question is: will you release the report to allow a fuller and more public consultation in the lead-up to the budget before any announcements might be made?
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -787,7 +787,7 @@ Senator O'NEILL
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (13:45):  You're making an assumption about the timing of any government decisions that may be informed by the work of the review.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -795,7 +795,7 @@ Senator FIFIELD
 Senator O'NEILL
  (New South Wales) (13:45):  I'm happy to be freed of my assumptions and ask you to be less oracle-like today and give me a straight answer, Minister. Will you release the report, and when might you do so?
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -803,7 +803,7 @@ Senator O'NEILL
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (13:45):  I'd describe myself as being Delphic rather than 'oracle-like', but that's a professional disposition when it comes to suggestions that something may or may not be related to the consideration of the budget.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -811,7 +811,7 @@ Senator FIFIELD
 Senator O'NEILL
  (New South Wales) (13:45):  Even in a Greek tragedy, the Delphic projections allow the release of information, Minister. Once again, will you release the report?
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -828,7 +828,7 @@ The TEMPORARY CHAIR
 Senator Reynolds
 ):  The question is that amendments (1) to (3) on sheet 8406 revised be agreed to.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -845,7 +845,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017</title>,BILLS,2,1,speech
 "CHAIR, The",,2018-03-27,"
 
 
@@ -853,7 +853,7 @@ Bill read a third time.
 The CHAIR
  (12:01):  The committee is considering the Communications Legislation Amendment (Online Content Services and Other Measures) Bill 2017 and amendments (1) to (4) on sheet 8395, moved by Senator Griff. The question is that the amendments as moved by Senator Griff be agreed to.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -861,7 +861,7 @@ The CHAIR
 Senator O'NEILL
  (New South Wales) (12:09):  Minister, last night, just as we were coming to the end of this committee stage, I asked you a series of questions around Lottoland, including whether you could explain when you expected the ban to come into effect and the corresponding advertising ban to become effective. Last night, you gave us the indication that you had an opinion about this, but you didn't indicate any legislation or a timetable with regard to legislation. I have to wonder: who's got more information about what's going on, the Senate or The Australian newspaper? Would you be able to give us some indications? Does the government actually have a plan to bring a ban into effect, and what will the advertising ban with regard to Lottoland be?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -881,7 +881,7 @@ Many Australians enjoy lotteries and keno as a recreational activity, and the go
 
 I might just cast back a little bit. A number of colleagues in this place last year—Liberal colleagues, Nationals colleagues and Pauline Hanson's One Nation, who have been very active in this area—raised the issue of the synthetic lotteries and the fact that they were causing considerable concern at that stage, particularly to newsagents. As a result, I wrote to the Northern Territory gaming minister to raise these concerns, as Lottoland is registered in the Northern Territory. Subsequent to that, it was announced by the Northern Territory that betting on lotteries in Australia would not be permitted under that licence. But there was, however, still the capacity for bets to be placed on the outcomes of overseas lotteries, and also there was the emergence of betting on the outcome of keno. This is something that was of concern to pubs and clubs, and representative bodies such as the Australian Hotels Association, so that's something that we looked at very seriously. As I say, it's something that numbers of colleagues, including Senator Hanson, raised with the government. We have taken a look at it, and, as I indicated, it is the decision of the government to introduce legislation tomorrow into the House of Representatives to ban betting on lotteries and keno games.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -889,7 +889,7 @@ I might just cast back a little bit. A number of colleagues in this place last y
 Senator O'NEILL
  (New South Wales) (12:14):  Thank you for that response. It is a little clearer than the oracle last night! Could I just get you to step through that time line quite clearly for us—the legislation in tomorrow, and six months after it becomes law, you indicate, the ban is going to come into effect. Perhaps I missed it, but I'm just wondering what your advertising ban time line is with regard to that. When does that become effective?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -897,7 +897,7 @@ Senator O'NEILL
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (12:15):  The advertising ban we will have on gambling comes into effect at the end of the month, and that applies to synthetic lotteries, as it does to other gambling products during live sport—obviously, that will come into effect and it will apply to the synthetic lotteries. Six months from the passage of this legislation, which will ban betting on lotteries and keno games, they will no longer occur.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Hanson-Young, Sen Sarah",AG,2018-03-27,"
 
 
@@ -1068,7 +1068,7 @@ Number of end
 
 (16) Schedule 1, item 22, page 29 (line 5), omit ""5 minutes"", substitute ""30 minutes"".
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -1100,7 +1100,7 @@ Further, the regulatory policy of the Broadcasting Services Act 1992 provides:
 
 among other things. Labor appreciate that evidence of community attitudes indicates that stronger protections may well be warranted, but we are also cognisant of the regulatory policy. Labor believes that industry should be afforded the time and the flexibility needed to alter business practices and contractual arrangements to address community concerns, which is how the approach that's been adopted may be regarded at this point. Labor does not seek to permit discrete changes to the standard regulatory policy of the Broadcasting Services Act on an issue-by-issue basis. Furthermore, there are more factors than audience size that may go to considering whether a service is more or less influential. Whether a service is freely available or subscription based may also be determinative, for example. Therefore, the amendments may not even achieve any greater consistency between platforms, as intended. For those reasons, we will not be supporting these amendments.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -1112,7 +1112,7 @@ Senator FIFIELD
 
 The CHAIR:  The question is that the amendments as moved by Senator Hanson-Young on sheet 8367, amendments (1) to (8) and (10) to (15), be agreed to.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "CHAIR, The",,2018-03-27,"
 
 
@@ -1123,7 +1123,7 @@ The CHAIR
 
  
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -1257,7 +1257,7 @@ In essence, what this bill highlights is the ongoing failure of the Liberal gove
 
 In closing, for the government to threaten that it will pull this bill if Labor's amendment gets up is pure nonsense and bluff. Both the government and Labor are committed to implementing online restrictions, but SBS should not be directly subject to the regulatory regime set out in this bill. Labor's amendment fixes this error and is 100 per cent consistent with government policy on the restriction of gambling promotions, on the independence of the SBS and in relation to best practice regulation. Overall, including restrictions on gambling advertising during live sporting events on online platforms in the SBS codes would be clearer for audiences, would enable more efficient handling of complaints by both SBS and the ACMA and would appropriately preserve the SBS's editorial independence from the government. Labor's amendment does not mean that the SBS will not be regulated or will be exempt from regulation. It will simply keep the mechanism for the regulation of the SBS the same as it is now—regulation by codes of practice. I seek your support for this amendment.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -1277,7 +1277,7 @@ The ACMA will be given power to grant individual or class exceptions for online 
 
 I note in conclusion that Save Our SBS, which is, I guess, the analogous organisation to the Friends of the ABC, does not support the Australian Labor Party's amendment and does support the government's proposition in this regard.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Hanson-Young, Sen Sarah",AG,2018-03-27,"
 
 
@@ -1306,7 +1306,7 @@ That's what this amendment is about: standing up for our public broadcasters and
 
 So this amendment is important. It's an important principle for us as a Senate to say: 'No, we're not going to put up with that biased agenda. We're not going to put up with this attack on our public broadcasters. We are going to stand up for the independence of our public broadcasters and the belief of the Australian people that their money is being spent on news and broadcasters that are the shining light of journalism in this country.' They are the most trusted, the highest rating, when it comes to integrity of institutions. This government can't stand it. One Nation can't stand it. It's important that the Senate vote for this amendment to send the message that we are not going to stand by and let our public broadcasters be a punching bag for this government, Mr Tony Abbott and Senator Abetz. And we're definitely not going to sit by and let the ABC and SBS be a punching bag for Senator Pauline Hanson and those lunatics in her One Nation party.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -1314,7 +1314,7 @@ So this amendment is important. It's an important principle for us as a Senate t
 Senator O'NEILL
  (New South Wales) (13:05):  In light of the minister's comments in response to my words around our amendment, I'm sure the minister's aware of and has read deeply and carefully the recent final report of the ACMA review, which has been accepted by government—at least I thought it was. It was recommended in that review that co- and self-regulation be pursued to a greater, not a lesser, extent. My question to you, Minister, is: have you changed your mind on this already?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -1322,7 +1322,7 @@ Senator O'NEILL
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (13:06):  No, the government hasn't. What we are seeking to do is to legislate a consistent regime for online activities and, when it comes to gambling advertising during live sporting events on online platforms, to ensure we have the same legislative regime apply across the board. I did say in my earlier comments that to rely on a code for SBS in terms of its online activities would be weaker because there would not be the legislative penalties for SBS online activities that there are for other online operators. We want a consistent regime, and we want a strong regime.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -1330,7 +1330,7 @@ Senator FIFIELD
 Senator O'NEILL
  (New South Wales) (13:07):  I don't think there's any doubt that we seek a strong regime, but I made a number of points about the argument for consistency, which I think the minister's words are quite disingenuous about. You asserted just then, once again, that code regulation permits weaker regulation, and we have to say that that's complete nonsense from our point of view. Minister, if code regulation permits weaker regulation, why use code regulation for the broadcast platform?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -1338,7 +1338,7 @@ Senator O'NEILL
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (13:07):  There are two different sorts of codes. There are the codes that apply to commercial broadcasters, for which there are penalties, and there are the codes that apply to the public broadcasters, for which there are not penalties. If you apply a code based regime to SBS online activities, that would mean there would be a category of online activity that would not be subject to any penalty. That is a weaker regime, whichever way you look at it.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -1346,7 +1346,7 @@ Senator FIFIELD
 Senator O'NEILL
  (New South Wales) (13:08):  Can I ask for the minister's view about the SBS and its independence from ACMA. Minister, do you consider the SBS to be independent from ACMA?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -1354,7 +1354,7 @@ Senator O'NEILL
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (13:08):  ACMA does not have a role in editorial decisions at the moment or into the future. The whole idea of legislated independence for public broadcasters is that they are not subject to direction in editorial matters or news content by the government of the day. And the government of the day will not, under this regime, have the capacity to do that, and ACMA will not have the capacity to do that. Independence does not mean that the public broadcasters are in their own parallel universe, completely immune to the legislation passed by this parliament. They are subject to the legislation passed by this parliament, and they have legislated independence in editorial matters, and they will continue to have legislated independence in editorial matters, operational matters and news matters.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -1362,7 +1362,7 @@ Senator FIFIELD
 Senator O'NEILL
  (New South Wales) (13:09):  Minister, none of your comments can persuade me to think that you are absolutely supportive of the codes as they need to exist. Do you concede that this bill is inconsistent with the regulatory framework?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -1370,7 +1370,7 @@ Senator O'NEILL
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (13:09):  Absolutely not. To not have this legislation apply to SBS's online activities would mean that there then would be created an inconsistency in the regulatory framework.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -1378,7 +1378,7 @@ Senator FIFIELD
 Senator O'NEILL
  (New South Wales) (13:09):  Minister, you say that you want a consistent regime, despite the need for different treatments for different parts of the sector, yet this bill permits all manner of exemptions for the ACMA to decide upon. Do you have a view about giving that much power to ACMA?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -1386,7 +1386,7 @@ Senator O'NEILL
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (13:10):  And ACMA will still have that capacity.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -1394,7 +1394,7 @@ Senator FIFIELD
 Senator O'NEILL
  (New South Wales) (13:10):  The bill permits some services to be unregulated; no penalties will apply to them. So why not permit the SBS to act as a self-regulator, in alignment with the final report recommendations from the ACMA review—or has the Turnbull government abandoned its commitment to industry self-regulation?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -1409,7 +1409,7 @@ The CHAIR:  The question is that amendment (1) on sheet 8380, as moved by Senato
 
  
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Siewert, Sen Rachel",AG,2018-03-27,"
 
 
@@ -1431,7 +1431,7 @@ Senator SIEWERT:
 
 The CHAIR:  Senator Siewert, it is really up to Senator Steele-John to provide an explanation as to why he was not in the chamber.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Steele-John, Sen Jordon",AG,2018-03-27,"
 
 
@@ -1446,7 +1446,7 @@ Leave granted.
 
 The CHAIR:  The question is that amendment (1) on sheet 8380, as moved by Senator O'Neill, be agreed to.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Hanson-Young, Sen Sarah",AG,2018-03-27,"
 
 
@@ -1547,7 +1547,7 @@ Australian artists, actors, producers, scriptwriters, sound engineers and camera
 
 If that is not the will of the minister, then be prepared to put parliamentary oversight back in place so that we can have a discussion and a debate about how much we should be investing in and protecting Australian jobs and Australian stories. All this amendment does is reinstate parliamentary oversight. The minister is able to do a lot of things on his own. He shouldn't be able to write away Australian-made stories and junk hundreds of thousands of Australian jobs that depend on making sure Australian stories, and kids' stories in particular, are told here in Australia by Australians.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -1561,7 +1561,7 @@ Contrary to Senator Hanson-Young's, I assume, rhetorical flourish, I don't have 
 
 The rationale for this exemption is that section 128 of the Broadcasting Services Act includes the power for parliament to amend standards, which is a more comprehensive power for parliament than media disallowance. In any case, it's not correct to say that I can unilaterally amend or abolish quotas. Let me restate again that the government has made no decisions in relation to the content review, which is ongoing. The quotas are in standards that are made by ACMA, and it is ACMA that would need to make new standards to make any changes. Again, let me reiterate that the government has made no decisions in this regard. No announcements, including regarding quotas, are imminent. So there's not a basis in fact for the commentary around quotas that there has been over recent days.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -1594,7 +1594,7 @@ Senator Fifield:
 Senator O'NEILL:
   While you were shuffling, Minister, I was making the point that you have received the report of the content review, and I called on you to release that report. We know that it's been supplied to you, and it's the careful work of the department, the ACMA and Screen Australia, and there is considerable interest. And, seeing as this matter has been raised, everyone wants to see this report as soon as possible—certainly before the budget—so that they can participate in the discussion. In addition to the release, I'd be interested in the minister making a comment on how the government has received the report.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -1602,7 +1602,7 @@ Senator O'NEILL:
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (13:44):  The review is advice to government, and the work on that review continues.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -1610,7 +1610,7 @@ Senator FIFIELD
 Senator O'NEILL
  (New South Wales) (13:44):  I'm very heartened by that, Minister. My question is: will you release the report to allow a fuller and more public consultation in the lead-up to the budget before any announcements might be made?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -1618,7 +1618,7 @@ Senator O'NEILL
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (13:45):  You're making an assumption about the timing of any government decisions that may be informed by the work of the review.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -1626,7 +1626,7 @@ Senator FIFIELD
 Senator O'NEILL
  (New South Wales) (13:45):  I'm happy to be freed of my assumptions and ask you to be less oracle-like today and give me a straight answer, Minister. Will you release the report, and when might you do so?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -1634,7 +1634,7 @@ Senator O'NEILL
 Senator FIFIELD
  (Victoria—Minister for Communications, Minister for the Arts and Deputy Leader of the Government in the Senate) (13:45):  I'd describe myself as being Delphic rather than 'oracle-like', but that's a professional disposition when it comes to suggestions that something may or may not be related to the consideration of the budget.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "O'Neill, Sen Deb",ALP,2018-03-27,"
 
 
@@ -1642,7 +1642,7 @@ Senator FIFIELD
 Senator O'NEILL
  (New South Wales) (13:45):  Even in a Greek tragedy, the Delphic projections allow the release of information, Minister. Once again, will you release the report?
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
 "Fifield, Sen Mitch",LP,2018-03-27,"
 
 
@@ -1659,7 +1659,190 @@ The TEMPORARY CHAIR
 Senator Reynolds
 ):  The question is that amendments (1) to (3) on sheet 8406 revised be agreed to.
 
-",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>In Committee</title>,BILLS,2,2,speech
+"Farrell, Sen Don",ALP,2018-03-27,"
+
+
+
+Senator FARRELL
+ (South Australia—Deputy Leader of the Opposition in the Senate) (14:00):  My question is to the Minister representing the Prime Minister, Senator Cormann, regarding the recent nerve agent attack in the United Kingdom. The opposition fully supports this morning's announcement by the government. Can the minister please update the Senate on actions taken by the Australian government in response to this attack?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Russia</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Farrell, Sen Don",ALP,2018-03-27,"
+
+
+
+Senator FARRELL
+ (South Australia—Deputy Leader of the Opposition in the Senate) (14:03):  The chemical weapon attack in the United Kingdom was a horrific criminal attack which threatens the lives of many innocent people. Can the minister advise the Senate how the government is working with Australia's allies and partners to hold those responsible to account?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Russia</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Farrell, Sen Don",ALP,2018-03-27,"
+
+
+
+Senator FARRELL
+ (South Australia—Deputy Leader of the Opposition in the Senate) (14:04):  Can the minister advise the Senate how the government is working with Australia's allies and partners to ensure all countries honour the letter and the spirit of the Chemical Weapons Convention?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Russia</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Cormann, Sen Mathias",LP,2018-03-27,"
+
+
+
+Senator CORMANN
+ (Western Australia—Leader of the Government in the Senate, Minister for Finance, Special Minister of State and Vice-President of the Executive Council) (14:01):  I thank Senator Farrell for expressing the opposition's support for the government's actions. Today Australia is taking action, together with our allies and partners, in response to the recent nerve agent attack in Salisbury in the United Kingdom. Two Russian diplomats identified as undeclared intelligence officers will be expelled by the Australian government for actions inconsistent with their status, pursuant to the Vienna convention. The two officials will be directed to depart Australia within seven days.
+
+
+Australia shares the UK assessment that the Russian Federation was responsible for the attack in Salisbury. There is no plausible alternative explanation for the attack, and Russia's failure to credibly respond to the legitimate UK demand for an explanation further underscores Russian culpability. The European Council has also agreed that there is no plausible alternative explanation, that the Russian Federation was responsible. We strongly support the United Kingdom, our close friend and ally, in taking this action. Our decision reflects the shocking nature of the attack, the first offensive use of chemical weapons in Europe since World War II, involving a highly lethal substance in a populated area, endangering countless other members of the community. It takes into account advice from the UK government that the substance used on 4 March was a military-grade nerve agent of a type developed by Russia. This attack cannot be tolerated by any sovereign nation. To do nothing would only encourage further efforts to undermine the international rules based order. We strongly support the call on Russia to disclose the full extent of its chemical weapons program, in accordance with international law. Australia remains committed to acting with its allies and partners to deter Russia's actions where they are a threat to international security.
+
+
+
+The PRESIDENT:  Senator Farrell, a supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Russia</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Cormann, Sen Mathias",LP,2018-03-27,"
+
+
+
+Senator CORMANN
+ (Western Australia—Leader of the Government in the Senate, Minister for Finance, Special Minister of State and Vice-President of the Executive Council) (14:03):  I thank Senator Farrell. Australia has always stood up for the rules based order and opposed actions that violate international law. Australia's actions today have been mirrored by more than 20 countries around the world, including the United States and Canada. The Prime Minister and the Minister for Foreign Affairs are working with their counterparts in the United Kingdom and other nations to ensure that we are protecting Australia's interests and those of our international friends and partners. British Prime Minister Theresa May has emphasised in the House of Commons the solidarity between the UK and its partners in the EU, North America, NATO and her other allies, such as Australia. She said:
+
+
+If the Kremlin's goal is to divide and intimidate the western alliance, then their efforts have spectacularly backfired.
+
+
+Russia's Ministry of Foreign Affairs issued a statement strongly protesting the decision by other nations to expel diplomats, calling it unfriendly, confrontational and provocative. However, Australia remains committed to acting with its allies and partners to deter Russia's actions where they are a threat to international security.
+
+
+
+The PRESIDENT:  Senator Farrell, a final supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Russia</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Cormann, Sen Mathias",LP,2018-03-27,"
+
+
+
+Senator CORMANN
+ (Western Australia—Leader of the Government in the Senate, Minister for Finance, Special Minister of State and Vice-President of the Executive Council) (14:04):  I thank Senator Farrell for the question. The abhorrent use of chemical weapons in the UK highlights the need for more to be done to prevent or deter future use. Australia has consistently expressed its view that the use of toxic chemicals as weapons anywhere by anyone and under any circumstances is reprehensible and should not be tolerated. Australia has also consistently and vigorously supported the Organisation for the Prohibition of Chemical Weapons and the United Nations in confronting these challenges. As a current member of the Organisation for the Prohibition of Chemical Weapons executive council, we support it conducting its thorough and comprehensive investigations of alleged incidents. These efforts will be in addition to whatever other more immediate measures the government might yet decide are appropriate in responding to the outrageous nerve agent attack in the United Kingdom. Any power or any individuals using, enabling or authorising the use of chemical weapons must be brought to account. Australia supports the UN mandated international, impartial and independent mechanism that allows the OPCW to gather evidence of crimes that violate international humanitarian law with a view to prosecution.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Russia</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Reynolds, Sen Linda",LP,2018-03-27,"
+
+
+
+Senator REYNOLDS
+ (Western Australia) (14:06):  My question is to the Minister for Defence, Senator Payne. Can the minister please update the Senate on the ADF's assistance to the Northern Territory following the devastating impact of Tropical Cyclone Marcus?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Defence Force</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Reynolds, Sen Linda",LP,2018-03-27,"
+
+
+
+Senator REYNOLDS
+ (Western Australia) (14:08):  I thank the minister for the response, and I certainly commend the efforts of the ADF and also the US personnel. Would the minister update the Senate on Defence's preparations to support potential disaster relief operations?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Defence Force</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Reynolds, Sen Linda",LP,2018-03-27,"
+
+
+
+Senator REYNOLDS
+ (Western Australia) (14:10):  Can the minister also update the Senate on what other humanitarian and disaster relief support the ADF has provided recently to Australia's regional partners?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Defence Force</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Payne, Sen Marise",LP,2018-03-27,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Defence) (14:06):  I thank Senator Reynolds for her question. The ADF has made a sustained and significant contribution to the clean-up and recovery effort in Darwin following the impact of Tropical Cyclone Marcus. I understand that the cyclone was described as the most extreme weather event to have struck Darwin since Tropical Cyclone Tracy in 1974, and our thoughts are very much with the families who've been impacted by this devastating storm.
+
+
+As soon as the category 2 cyclone had cleared and the request from the Northern Territory government for assistance was received, our Defence personnel began supporting the local authorities to clear debris. On average, more than 500 Army, Air Force and Navy members have been undertaking the clean-up operations across Darwin each day since 19 March. In the last couple of days, yesterday and today, ADF support has increased to 800 personnel so that we can ensure the worst of the clean-up is finished before Easter. The men and women of the ADF have been clearing roads, schools and key buildings across the city. Under Joint Task Force 659, the ADF has cleared debris from 29 schools, from five government buildings and from other facilities, including a renal clinic and the museum and the art gallery. We have also had members of the Air Force working with civil authorities to make sure that the Darwin airport is able to reopen as soon as possible.
+
+
+As I mentioned yesterday, in a display of strong alliance relationships, 50 United States marines in Darwin also lent a hand, voluntarily, to the people of the community there, further illustrating that close bond that military forces so often build between themselves and the communities in which they are based. I'd like to acknowledge the efforts of the Australian and the US personnel who've supported that local community in Darwin when it was most needed.
+
+
+
+The PRESIDENT:  Senator Reynolds, a supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Defence Force</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Payne, Sen Marise",LP,2018-03-27,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Defence) (14:08):  It's a very good question, because it is has been a tumultuous few weeks in Australia in terms of fire, flood and cyclone. And while state and territory governments have primary responsibility for responding to national disasters, including the provision of assistance to affected communities, the ADF has well-established procedures to respond to natural disasters both at home and abroad. We monitor weather events and other natural disasters across our region, and we work closely with Emergency Management Australia and international partners to assist when requested and where it's necessary.
+
+
+We have Defence support staff based in capital cities around the country, and they work closely with disaster management authorities in each of those states and territories to ensure that defence is integrated into emergency planning and response. Following Defence assistance to the civil community requests from a state or territory government, we're able to deploy a range of capabilities, which include troops or equipment or technical support like an engineering team, or major platforms such as amphibious ships, or heavy transport aircraft and satellite imagery. (Time expired)
+
+
+
+The PRESIDENT:  Senator Reynolds, a final supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Defence Force</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Payne, Sen Marise",LP,2018-03-27,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Defence) (14:10):  I can. As Minister Fierravanti-Wells reminded us last week, the ADF has also been part of providing emergency relief to the people of Papua New Guinea following the 7.5 magnitude earthquake there on 26 February. We have had over 100 ADF members deployed as part of Operation PNG Assist. We have contributed one C-130J Hercules, three CH-47F Chinooks, a B300 King Air light aircraft and one C-17 heavy transport aircraft, which has been part of delivering supplies to the remote and very badly affected Southern Highlands region.
+
+
+In total, the ADF has delivered over 310 tonnes of emergency relief supplies and we've provided $5 million in humanitarian aid. While that immediate emergency has passed, there might be a need for follow-on relief support for affected communities in PNG from time to time. We will continue to deliver stores with the ADF efforts over the next couple of months, as required, in coordination with the government and the Australian High Commission. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Australian Defence Force</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Hinch, Sen Derryn",DHJP,2018-03-27,"
+
+
+
+Senator HINCH
+ (Victoria) (14:41):  My question is to Senator Fierravanti-Wells, standing in for Senator McKenzie, representing the Minister for Health. Dementia Australia offers a valuable in-home counselling service for people affected with dementia. This has always been a free service funded by the federal government. My question is: how come it's free in most states but, in recent months, costs $5 in Victoria? We called Dementia Australia in Melbourne and were told, 'The government makes us charge that fee.' And the DA hotline told us, 'The fee applies to Victoria but not in New South Wales.' To add insult to injury, how come the waiting time for a counsellor visit in Victoria is six weeks, which is longer than in other states where the service is free?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Dementia Australia</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Hinch, Sen Derryn",DHJP,2018-03-27,"
+
+
+
+Senator HINCH
+ (Victoria) (14:42):  Minister, could you please take this question on notice too. What happens when the person with dementia, who may not manage their own finances, doesn't have $5 in the house when visited, and what if $5 is unaffordable to a person who is on a pension and has significant health issues? Was the government even aware of the situation?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Dementia Australia</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Fierravanti-Wells, Sen Concetta",LP,2018-03-27,"
+
+
+
+Senator FIERRAVANTI-WELLS
+ (New South Wales—Minister for International Development and the Pacific) (14:41):  Senator Hinch, I don't have a brief on that, but I will take your question on notice and provide an answer as soon as I can. Thank you.
+
+
+
+The PRESIDENT:  Senator Hinch, a supplementary question?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Dementia Australia</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
+"Fierravanti-Wells, Sen Concetta",LP,2018-03-27,"
+
+
+
+Senator FIERRAVANTI-WELLS
+ (New South Wales—Minister for International Development and the Pacific) (14:42):  Again, I'll take that on notice and provide you with the information as soon as possible.
+
+
+
+The PRESIDENT:  Senator Hinch, do you have a final supplementary question?
+
+
+
+
+Senator Hinch:
+  I forfeit my final supplementary question on the grounds that secondary supplementary questions are a waste of time.
+
+
+
+The PRESIDENT:  A point you have made previously during question time, Senator Hinch.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Dementia Australia</title>,QUESTIONS WITHOUT NOTICE,8,1,answer
 "Payne, Sen Marise",LP,2018-03-27,"
 
 
@@ -1670,7 +1853,7 @@ Senator PAYNE
 
 In relation to her second question, I note that the government is strongly opposed to educational material supporting violence and extremism. Australian contributions to UNRWA, in part, support the use of textbooks assessed through the US funded curriculum review process within UNRWA. It is imperative that UNRWA maintain neutrality in all of its operations, and the Department of Foreign Affairs and Trade has reinforced this directly with UNRWA as recently as November of last year. In relation to Senator Hanson's second supplementary question—as I advised yesterday, the government and the Department of Foreign Affairs and Trade are regularly briefed by a range of organisations, including think tanks.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Middle East</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Middle East</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,9,1,speech
 "Sterle, Sen Glenn",ALP,2018-03-27,"
 
 
@@ -1693,7 +1876,7 @@ I'll explain the four options to the Senate and those listening: (1) returning f
 
 You see, I'm all for raising wages. On this side of the chamber, all we talk about is raising wages. We also talk about raising opportunity. I'm an ex-small-business man, which is more than half of that mob over there could claim. My wife and I did it hard. We reaped the rewards. We built our little business, we built our home and we raised our kids. We value the work ethic that was instilled into both of us by our parents when we were young: 'Work hard, get paid properly, keep working hard, bring up the kids and do the right thing.' But listen to the nonsense coming from over there! To think that international raiders like ExxonMobil did a filthy, dirty, grubby deal with five casuals in a different state to create an enterprise agreement so they could go back and undermine their workforce in Longford, where there were 280 people employed! I'm not from Longford; I'm from the west. There were 280 people employed in Longford. It's a community. There are sporting communities, the kids go to school together and the workers have barbecues together. They're friends and neighbours and they have been for many, many years. Meanwhile, ExxonMobil, who have enjoyed massive profits in oil and gas coming from the Bass Strait, decided they would use this grubby deal to undermine the 280 workers at the Longford plant. That mob over there, led by Senator Cormann, don't talk about this but they're happy to deliver tax cuts to ExxonMobil who will give you a job while the 280 long-suffering employees trying to negotiate an enterprise agreement are locked out. If you want to go and undermine the 280 workers you can walk straight through the gate and ExxonMobil will welcome you. Senator Cormann, I would love to hear how much taxation ExxonMobil will get back in your cuts. This is disgracefully misleading to the Australian people. It is an absolute insult, and this mob are nothing short of a disgrace.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Colbeck, Sen Richard",LP,2018-03-27,"
 
 
@@ -1770,7 +1953,7 @@ Instead we want a level playing field regardless of the size of the company.
 
 Yet we understand that the Labor Party are going to support the tax cuts for businesses that have already been passed by the parliament, which they opposed last year, and they're going to continue to oppose something that they said they didn't support last year. What do the Labor Party really believe? What does Mr Shorten really believe in? I do remember one thing: when Mr Shorten said, 'I'm not sure what the Prime Minister has said, but I agree with everything that she has said.' I think there's one question that we all want answered: what does Mr Shorten really believe in? (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Kitching, Sen Kimberley",ALP,2018-03-27,"
 
 
@@ -1810,7 +1993,7 @@ The DEPUTY PRESIDENT:  Senator Kitching, it's not appropriate to reflect on when
 Senator KITCHING:
   I apologise, Madam Deputy President. But, coming back to the fact this is a bit of a wing-and-a-prayer taxation policy, and to Senator Colbeck's suggestion that the Australian Labor Party has no idea of how to form policy: if Senator Colbeck were familiar with the Income Tax Assessment Act, he would know that that piece of legislation is full of subsection upon subsection, redrafts and amendments, and corrigenda. That act reflects the fact that taxation in this country has been a dog's breakfast, particularly in the last few years, and particularly when we saw the way that the government operated to get its last lot of corporate tax cuts through. I would say that the government is obviously— (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Smith, Sen Dean",LP,2018-03-27,"
 
 
@@ -1831,7 +2014,7 @@ If former Senator Dastyari were here, he would remind me how I like to talk abou
 
 The DEPUTY PRESIDENT:  Senator Smith, I remind you to make your remarks to the chair.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "Urquhart, Sen Anne",ALP,2018-03-27,"
 
 
@@ -1870,7 +2053,7 @@ The DEPUTY PRESIDENT:  Thank you, Senator Urquhart. I remind advisers they are n
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Taxation</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,10,1,speech
 "PRESIDENT, The",,2018-03-27,"
 
 
@@ -1878,7 +2061,7 @@ Question agreed to.
 The PRESIDENT
  (15:49):  I remind senators that the question may be put on any proposal at the request of any senator. There being none, I shall now proceed to the discovery of formal business.
 
-",Senate,<title>COMMITTEES</title>,<title>Environment and Communications References Committee</title>,COMMITTEES,15,1
+",Senate,<title>COMMITTEES</title>,<title>Environment and Communications References Committee</title>,COMMITTEES,15,1,speech
 "PRESIDENT, The",,2018-03-27,"
 
 
@@ -1886,7 +2069,7 @@ The PRESIDENT
 The PRESIDENT
  (15:49):  I remind senators that the question may be put on any proposal at the request of any senator. There being none, I shall now proceed to the discovery of formal business.
 
-",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,15,2
+",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,15,2,speech
 "Hanson-Young, Sen Sarah",AG,2018-03-27,"
 
 
@@ -1915,7 +2098,7 @@ That the Senate—
 
 (c) commends early childhood union, United Voice, for their leadership on this campaign, and encourages all childcare educators to participate in standing strong for fair pay. 
 
-",Senate,<title>MOTIONS</title>,<title>Workplace Relations</title>,MOTIONS,16,1
+",Senate,<title>MOTIONS</title>,<title>Workplace Relations</title>,MOTIONS,16,1,speech
 "McGrath, Sen James",LP,2018-03-27,"
 
 
@@ -1956,7 +2139,7 @@ The PRESIDENT:  Leave is denied for that.
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Workplace Relations</title>,MOTIONS,16,1
+",Senate,<title>MOTIONS</title>,<title>Workplace Relations</title>,MOTIONS,16,1,speech
 "Urquhart, Sen Anne",ALP,2018-03-27,"
 
 
@@ -1991,7 +2174,7 @@ That there be laid on the table by the Minister representing the Minister for He
 
 (d) documents, including briefing notes, internal memoranda, and emails disclosing evidence for the claim by government members that Queensland reduced public hospital expenditure by $63 million in the 2017-18 state budget. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Queensland: Hospitals</title>,DOCUMENTS,17,1
+",Senate,<title>DOCUMENTS</title>,<title>Queensland: Hospitals</title>,DOCUMENTS,17,1,speech
 "McGrath, Sen James",LP,2018-03-27,"
 
 
@@ -2013,7 +2196,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Queensland: Hospitals</title>,DOCUMENTS,17,1
+",Senate,<title>DOCUMENTS</title>,<title>Queensland: Hospitals</title>,DOCUMENTS,17,1,speech
 "Urquhart, Sen Anne",ALP,2018-03-27,"
 
 
@@ -2048,7 +2231,7 @@ That there be laid on the table by the Minister representing the Minister for He
 
 (d) documents, including briefing notes, internal memoranda, and emails disclosing evidence for the claim by government members that Queensland reduced public hospital expenditure by $63 million in the 2017-18 state budget. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,17,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,17,2,speech
 "McGrath, Sen James",LP,2018-03-27,"
 
 
@@ -2070,7 +2253,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,17,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,17,2,speech
 "Steele-John, Sen Jordon",AG,2018-03-27,"
 
 
@@ -2111,7 +2294,7 @@ That the Senate—
 
    (iii) work with law enforcement to develop alternative avenues to obtain information through warrants and targeted surveillance that does not put every Australian at greater risk of identity theft.
 
-",Senate,<title>MOTIONS</title>,<title>Cybersecurity</title>,MOTIONS,18,1
+",Senate,<title>MOTIONS</title>,<title>Cybersecurity</title>,MOTIONS,18,1,speech
 "McGrath, Sen James",LP,2018-03-27,"
 
 
@@ -2132,7 +2315,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Cybersecurity</title>,MOTIONS,18,1
+",Senate,<title>MOTIONS</title>,<title>Cybersecurity</title>,MOTIONS,18,1,speech
 "Griff, Sen Stirling",CA,2018-03-27,"
 
 
@@ -2176,7 +2359,7 @@ That—
 
 (iv) any motion under paragraph (c)(ii) or (iii) may be debated for no longer than 1 hour, and have precedence over all government business until determined.
 
-",Senate,<title>DOCUMENTS</title>,<title>Federal Circuit Court and Family Court of Australia</title>,DOCUMENTS,19,1
+",Senate,<title>DOCUMENTS</title>,<title>Federal Circuit Court and Family Court of Australia</title>,DOCUMENTS,19,1,speech
 "McGrath, Sen James",LP,2018-03-27,"
 
 
@@ -2197,7 +2380,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Federal Circuit Court and Family Court of Australia</title>,DOCUMENTS,19,1
+",Senate,<title>DOCUMENTS</title>,<title>Federal Circuit Court and Family Court of Australia</title>,DOCUMENTS,19,1,speech
 "Griff, Sen Stirling",CA,2018-03-27,"
 
 
@@ -2241,7 +2424,7 @@ That—
 
 (iv) any motion under paragraph (c)(ii) or (iii) may be debated for no longer than 1 hour, and have precedence over all government business until determined.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,19,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,19,2,speech
 "McGrath, Sen James",LP,2018-03-27,"
 
 
@@ -2262,7 +2445,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,19,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,19,2,speech
 "Rice, Sen Janet",AG,2018-03-27,"
 
 
@@ -2288,7 +2471,7 @@ That the Senate—
 
 (c) calls on the Government to take action to support women's participation in Australian Rules football, and to support fair pay for its professional players.
 
-",Senate,<title>MOTIONS</title>,<title>Australian Football League Women's</title>,MOTIONS,20,1
+",Senate,<title>MOTIONS</title>,<title>Australian Football League Women's</title>,MOTIONS,20,1,speech
 "McGrath, Sen James",LP,2018-03-27,"
 
 
@@ -2309,7 +2492,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Australian Football League Women's</title>,MOTIONS,20,1
+",Senate,<title>MOTIONS</title>,<title>Australian Football League Women's</title>,MOTIONS,20,1,speech
 "Rice, Sen Janet",AG,2018-03-27,"
 
 
@@ -2338,7 +2521,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Air Services Amendment Bill 2018</title>,BILLS,21,1
+",Senate,<title>BILLS</title>,<title>Air Services Amendment Bill 2018</title>,BILLS,21,1,speech
 "Rice, Sen Janet",AG,2018-03-27,"
 
 
@@ -2430,7 +2613,7 @@ Senator RICE:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Air Services Amendment Bill 2018</title>,BILLS,21,1
+",Senate,<title>BILLS</title>,<title>Air Services Amendment Bill 2018</title>,BILLS,21,1,speech
 "Rice, Sen Janet",AG,2018-03-27,"
 
 
@@ -2459,7 +2642,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,21,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,21,2,speech
 "Urquhart, Sen Anne",ALP,2018-03-27,"
 
 
@@ -2515,7 +2698,7 @@ That the Senate—
 
 (d) calls on the Australian Government to prioritise adolescent girls' human rights in Australia's foreign policy, overseas aid, development and trade. 
 
-",Senate,<title>MOTIONS</title>,<title>International Development Assistance</title>,MOTIONS,22,1
+",Senate,<title>MOTIONS</title>,<title>International Development Assistance</title>,MOTIONS,22,1,speech
 "McGrath, Sen James",LP,2018-03-27,"
 
 
@@ -2536,7 +2719,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>International Development Assistance</title>,MOTIONS,22,1
+",Senate,<title>MOTIONS</title>,<title>International Development Assistance</title>,MOTIONS,22,1,speech
 "Hanson-Young, Sen Sarah",AG,2018-03-27,"
 
 
@@ -2547,7 +2730,7 @@ Senator HANSON-YOUNG
 
 Leave granted.
 
-",Senate,<title>MOTIONS</title>,<title>Workplace Relations</title>,MOTIONS,24,1
+",Senate,<title>MOTIONS</title>,<title>Workplace Relations</title>,MOTIONS,24,1,speech
 "Patrick, Sen Rex",CA,2018-03-27,"
 
 
@@ -2635,7 +2818,7 @@ That—
 
    (3) Any senator may move a motion to take note of the Minister's statement, and any such motion may be debated for no longer than 1 hour, and have precedence over all other government business until determined. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Future Submarine Project</title>,DOCUMENTS,25,1
+",Senate,<title>DOCUMENTS</title>,<title>Future Submarine Project</title>,DOCUMENTS,25,1,speech
 "McGrath, Sen James",LP,2018-03-27,"
 
 
@@ -2653,7 +2836,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator McGRATH:
   On 14 February, the government made a public interest immunity claim and noted that the Information Commissioner is also conducting a separate review of a freedom-of-information request for the same documents. The government maintains this position and does not believe that a further statement to the Senate by the Minister representing the Minister for Defence Industry is necessary at this time.
 
-",Senate,<title>DOCUMENTS</title>,<title>Future Submarine Project</title>,DOCUMENTS,25,1
+",Senate,<title>DOCUMENTS</title>,<title>Future Submarine Project</title>,DOCUMENTS,25,1,speech
 "Patrick, Sen Rex",CA,2018-03-27,"
 
 
@@ -2671,7 +2854,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator PATRICK:
   The process of the Senate seeking to inform itself and the process of citizens to gain access to information through FOI are very different. Some of the public interest immunity and FOI exemptions are similar—I concede. I note that they do have different thresholds, but they are definitely separate processes. Refusing to table documents on the grounds that a decision on FOI is still pending is not appropriate. I also note that the public interest immunity claim of the minister—that is, damage to international relations—is in disagreement with her own department.
 
-",Senate,<title>DOCUMENTS</title>,<title>Future Submarine Project</title>,DOCUMENTS,25,1
+",Senate,<title>DOCUMENTS</title>,<title>Future Submarine Project</title>,DOCUMENTS,25,1,speech
 "Whish-Wilson, Sen Peter",AG,2018-03-27,"
 
 
@@ -2693,7 +2876,7 @@ Senator WHISH-WILSON:
 
 The PRESIDENT:  The question is that motion No. 775, as amended, be agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Future Submarine Project</title>,DOCUMENTS,25,1
+",Senate,<title>DOCUMENTS</title>,<title>Future Submarine Project</title>,DOCUMENTS,25,1,speech
 "Patrick, Sen Rex",CA,2018-03-27,"
 
 
@@ -2781,7 +2964,7 @@ That—
 
    (3) Any senator may move a motion to take note of the Minister's statement, and any such motion may be debated for no longer than 1 hour, and have precedence over all other government business until determined. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,25,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,25,2,speech
 "McGrath, Sen James",LP,2018-03-27,"
 
 
@@ -2799,7 +2982,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator McGRATH:
   On 14 February, the government made a public interest immunity claim and noted that the Information Commissioner is also conducting a separate review of a freedom-of-information request for the same documents. The government maintains this position and does not believe that a further statement to the Senate by the Minister representing the Minister for Defence Industry is necessary at this time.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,25,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,25,2,speech
 "Patrick, Sen Rex",CA,2018-03-27,"
 
 
@@ -2817,7 +3000,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator PATRICK:
   The process of the Senate seeking to inform itself and the process of citizens to gain access to information through FOI are very different. Some of the public interest immunity and FOI exemptions are similar—I concede. I note that they do have different thresholds, but they are definitely separate processes. Refusing to table documents on the grounds that a decision on FOI is still pending is not appropriate. I also note that the public interest immunity claim of the minister—that is, damage to international relations—is in disagreement with her own department.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,25,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,25,2,speech
 "Whish-Wilson, Sen Peter",AG,2018-03-27,"
 
 
@@ -2839,7 +3022,7 @@ Senator WHISH-WILSON:
 
 The PRESIDENT:  The question is that motion No. 775, as amended, be agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,25,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,25,2,speech
 "PRESIDENT, The",,2018-03-27,"
 
 
@@ -2862,7 +3045,7 @@ Is the proposal supported?
 More than the number of senators required by the standing orders having risen in their places—
 
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Economy</title>,MATTERS OF PUBLIC IMPORTANCE,26,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Economy</title>,MATTERS OF PUBLIC IMPORTANCE,26,1,speech
 "Bartlett, Sen Andrew",AG,2018-03-27,"
 
 
@@ -2879,7 +3062,7 @@ The Greens, of course, have campaigned for many years with significant success a
 
 Indeed, the parts of the climate package that the Greens were successful in having adopted under the previous government—particularly the Clean Energy Finance Corporation and ARENA, with its support and assistance for new renewable energy projects—have delivered thousands and thousands of ongoing jobs as well as construction jobs. They have delivered an expansion in reliable energy. With further investment in this area, we can effectively transition, but not until we can get a clear recognition of the need to get that basic commitment to not opening up new coalmines and instead to properly investing in industries and employment in regional communities. Those industries and opportunities are there already. Some of the existing jobs, particularly in areas like tourism, are put at risk by the continual attempt to turn a blind eye to the major environmental impacts that come from not winding back our fossil fuel emissions as quickly as possible. We're seeing this continually, in all parts of the country, and certainly in Queensland—for example, in Northern Queensland, where people have to pay massively higher insurance premiums because of the reality of more severe weather events coming down the track. We need to transition, and the sooner we do it the better it will be for the Australian people. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Economy</title>,MATTERS OF PUBLIC IMPORTANCE,26,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Economy</title>,MATTERS OF PUBLIC IMPORTANCE,26,1,speech
 "Williams, Sen John",Nats,2018-03-27,"
 
 
@@ -2996,7 +3179,7 @@ Senator Farrell:
 Senator WILLIAMS:
   We're not going there. I want to go back to New South Wales and back to this issue of coal. Buy our cleaner, inefficient coal in Australia or buy the dirty coal from overseas. There are 621 units of coal-fired power generation being constructed around the world now, and somehow the Greens, with their colleagues the Labor Party, are going to change the planet. As Senator Cormann said this week, they are dreaming—they are simply dreaming. As Dr Finkel said, you're not going to change a thing. Three humans breathing produce one tonne of CO2 in the year. The 1.5 billion people breathing in China produce as much CO2 as the nation of Australia does as a whole. No, I shouldn't say that; you'll put a breath tax on us. That'll be next, with all of your taxation going forward. This is a stupid Greens religion, and it needs to be knocked on the head.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Economy</title>,MATTERS OF PUBLIC IMPORTANCE,26,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Economy</title>,MATTERS OF PUBLIC IMPORTANCE,26,1,speech
 "Moore, Sen Claire",ALP,2018-03-27,"
 
 
@@ -3053,7 +3236,7 @@ Senator MOORE:
 
 That will be the focus of our discussion—the maintenance of respect and the need for effective communities—rather than once again taking philosophical positions, refusing to have open discussion, refusing to have any kind of communication. By blaming and labelling, we ensure that people continue to feel that they have no place in the argument, that they will not be respected and that, once again, from on high, they, their families and their futures will be ignored. Again, there'll be this growing displacement—this growing fact that parliaments and governments do not understand the needs of real communities across our whole nation.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Economy</title>,MATTERS OF PUBLIC IMPORTANCE,26,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Economy</title>,MATTERS OF PUBLIC IMPORTANCE,26,1,speech
 "Cormann, Sen Mathias",LP,2018-03-27,"
 
 
@@ -3146,7 +3329,7 @@ So it's the government's intention to bring the business tax cuts legislation ba
 
 With those few words, I say to the Senate: the government will never give up fighting for the best interests of working families across Australia; the government will never give up on making sure that businesses across Australia have the best possible opportunity to be successful and profitable into the future. That is why we will persist with this legislation and why we will bring it back to the Senate in the next sitting week.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Taxation</title>,MINISTERIAL STATEMENTS,28,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Taxation</title>,MINISTERIAL STATEMENTS,28,1,speech
 "Farrell, Sen Don",ALP,2018-03-27,"
 
 
@@ -3184,7 +3367,7 @@ Senator FARRELL:
 
 As we reflect on sacrifice and social justice principles this coming Easter, I'd say to those people who are going to determine whether this government gets this legislation: think very carefully about whether the course of action that the government is proposing is the best course of action for this country. I don't know what's going to happen in the next election—we're very close to an election, we're probably 12 months out at the most from the next election—and the Labor Party's position is very clear. Bill Shorten has said, 'We will reverse these high-income tax breaks. We will reverse them.' So whatever you decide to do with this government, this is going to be reversed by virtue of an incoming Bill Shorten Labor government. I also say to those people: we have inequality in this country and we don't improve inequality by voting for a $65 billion tax cut. Think long and hard about your decision and come back after Easter, let the government present its legislation, and reject this $65 billion tax cut. 
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Taxation</title>,MINISTERIAL STATEMENTS,28,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Taxation</title>,MINISTERIAL STATEMENTS,28,1,speech
 "Collins, Sen Jacinta",ALP,2018-03-27,"
 
 
@@ -3228,7 +3411,7 @@ Senator McAllister:
 Senator JACINTA COLLINS:
   Indeed, I'll tell them they're dreaming. We may hear that there's some other agenda that they've got happening that we're not privy to because we haven't been part of these company tax negotiations. Indeed, Senator Cormann is trying to say, 'No, Labor's really on this agenda.' No, we haven't been participating in these negotiations. We don't know what the government's agenda here is. We will not be providing leave for the government to change the program for today. We will be arguing against it strenuously because we think there are some very serious procedural matters at hand. The first point, as I said, is there are important matters on our existing program that we won't get to. The second point, as I said, is for any senator in this place to think very carefully about whether they want to allow the government to hijack business of the Senate and disallowance motions. There are set procedures for how we proceed with disallowance motions; they exist for very good reasons. If the crossbench join the government in supporting this motion, they will regret it in the future.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Taxation</title>,MINISTERIAL STATEMENTS,28,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Taxation</title>,MINISTERIAL STATEMENTS,28,1,speech
 "Leyonhjelm, Sen David",LDP,2018-03-27,"
 
 
@@ -3239,7 +3422,7 @@ Senator LEYONHJELM
 
 I want to address also the question of overseas shareholders in that context. Overseas shareholders certainly have some shares in our Australian companies, but Australian shareholders also have shares in overseas companies. Do we really want our shareholders in Australia to be investing in overseas companies because they are more profitable, more likely to become big companies? Tax cuts will simply keep the jobs we have. The tax cuts that are proposed are very small, in my opinion, and very slow to come in. They will do nothing more than keep the jobs we have, but they are absolutely essential if we are really looking at growing a bigger pie. In May, when we come back, I hope the tax cuts bill passes resoundingly—for jobs, for wage rises, to create a bigger pie and to raise the standard of living.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Taxation</title>,MINISTERIAL STATEMENTS,28,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Taxation</title>,MINISTERIAL STATEMENTS,28,1,speech
 "Whish-Wilson, Sen Peter",AG,2018-03-27,"
 
 
@@ -3271,7 +3454,7 @@ The whole logic behind Senator Cormann's push for this tax cut and behind the mo
 
 So what's at stake here is very real and it's extremely important. We need to not only celebrate the fact that these tax law changes have not got up this week but fight hard to make sure that they don't next week. Going into the next election we need to commit to reversing any tax cuts that we see coming in the Senate, if they happen at all. This needs to be campaigned on. This is critical for those of us who have a different vision for this country and for the Australian people.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Taxation</title>,MINISTERIAL STATEMENTS,28,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Taxation</title>,MINISTERIAL STATEMENTS,28,1,speech
 "Cameron, Sen Doug",ALP,2018-03-27,"
 
 
@@ -3300,7 +3483,7 @@ Senator Cormann has just not got it when it comes to economics. This government 
 
 Question agreed to.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Taxation</title>,MINISTERIAL STATEMENTS,28,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Taxation</title>,MINISTERIAL STATEMENTS,28,1,speech
 "Pratt, Sen Louise",ALP,2018-03-27,"
 
 
@@ -3415,7 +3598,7 @@ Senator PRATT:
 
 If today you get away with defeating this disallowance motion, I can tell you that Labor will not stop fighting for marine protection in this country. We will fight with campaigners and networkers right across this country—rec fishers and commercial fisheries; you name it, we will be there—because our oceans in this country will be in crisis if you are allowed to get away with this environmental vandalism.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Marine Parks Network Management Plans</title>,REGULATIONS AND DETERMINATIONS,30,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Marine Parks Network Management Plans</title>,REGULATIONS AND DETERMINATIONS,30,1,speech
 "Ruston, Sen Anne",LP,2018-03-27,"
 
 
@@ -3501,7 +3684,7 @@ I also put on the record my thanks to the independent panel of Colin Buxton, Bob
 
 So I stand here today to say that I am very proud of this set of very balanced plans that we are hoping to put in place to protect our marine environment into the future. I reject the comments that were made by those opposite that we are winding anything back. We are not. We are putting the plans in place to protect, for the first time, our marine environment. So I stand here to oppose your disallowance motion, because I believe that the plans that we have before us strike the right balance for all Australians.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Marine Parks Network Management Plans</title>,REGULATIONS AND DETERMINATIONS,30,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Marine Parks Network Management Plans</title>,REGULATIONS AND DETERMINATIONS,30,1,speech
 "Whish-Wilson, Sen Peter",AG,2018-03-27,"
 
 
@@ -3557,7 +3740,7 @@ I'm sorry to those in the environment movement who would rather see a piecemeal 
 
 Finally, I want to recognise my colleague Senator Siewert. She's been in the Senate a lot longer than I have. She was a marine campaigner for Save Our Marine Life, marine parks and marine protected areas a long time before she came into parliament. She knows a lot of stakeholders who have been involved in this for years. We are a party which is 100 per cent up for a fight on marine protection.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Marine Parks Network Management Plans</title>,REGULATIONS AND DETERMINATIONS,30,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Marine Parks Network Management Plans</title>,REGULATIONS AND DETERMINATIONS,30,1,speech
 "Anning, Sen Fraser",KAP,2018-03-27,"
 
 
@@ -3574,7 +3757,7 @@ If these plans were to be disallowed, it would mean many more years of uncertain
 
 This disallowance is the complete disregard of three years worth of consultation and independent scientific review, 130,000 written submissions and numerous public forums. It is the complete rejection of almost 650,000 Queensland recreational fishers, the complete disregard of 1,500 Queensland commercial fishing boats—boats which contribute 10 per cent of the nation's seafood production in both quantity and value—and, finally, the complete failure of many industries who rely on our marine areas for their wellbeing. As such, I'll be voting against this disallowance motion.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Marine Parks Network Management Plans</title>,REGULATIONS AND DETERMINATIONS,30,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Marine Parks Network Management Plans</title>,REGULATIONS AND DETERMINATIONS,30,1,speech
 "Patrick, Sen Rex",CA,2018-03-27,"
 
 
@@ -3607,7 +3790,7 @@ Before concluding my remarks, I will say that the coalition management plans do 
 
 The PRESIDENT:  The question is that the disallowance motion moved by Senator Pratt be agreed to.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Marine Parks Network Management Plans</title>,REGULATIONS AND DETERMINATIONS,30,1
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Marine Parks Network Management Plans</title>,REGULATIONS AND DETERMINATIONS,30,1,speech
 "Pratt, Sen Louise",ALP,2018-03-27,"
 
 
@@ -3722,7 +3905,7 @@ Senator PRATT:
 
 If today you get away with defeating this disallowance motion, I can tell you that Labor will not stop fighting for marine protection in this country. We will fight with campaigners and networkers right across this country—rec fishers and commercial fisheries; you name it, we will be there—because our oceans in this country will be in crisis if you are allowed to get away with this environmental vandalism.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,30,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,30,2,speech
 "Ruston, Sen Anne",LP,2018-03-27,"
 
 
@@ -3808,7 +3991,7 @@ I also put on the record my thanks to the independent panel of Colin Buxton, Bob
 
 So I stand here today to say that I am very proud of this set of very balanced plans that we are hoping to put in place to protect our marine environment into the future. I reject the comments that were made by those opposite that we are winding anything back. We are not. We are putting the plans in place to protect, for the first time, our marine environment. So I stand here to oppose your disallowance motion, because I believe that the plans that we have before us strike the right balance for all Australians.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,30,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,30,2,speech
 "Whish-Wilson, Sen Peter",AG,2018-03-27,"
 
 
@@ -3864,7 +4047,7 @@ I'm sorry to those in the environment movement who would rather see a piecemeal 
 
 Finally, I want to recognise my colleague Senator Siewert. She's been in the Senate a lot longer than I have. She was a marine campaigner for Save Our Marine Life, marine parks and marine protected areas a long time before she came into parliament. She knows a lot of stakeholders who have been involved in this for years. We are a party which is 100 per cent up for a fight on marine protection.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,30,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,30,2,speech
 "Anning, Sen Fraser",KAP,2018-03-27,"
 
 
@@ -3881,7 +4064,7 @@ If these plans were to be disallowed, it would mean many more years of uncertain
 
 This disallowance is the complete disregard of three years worth of consultation and independent scientific review, 130,000 written submissions and numerous public forums. It is the complete rejection of almost 650,000 Queensland recreational fishers, the complete disregard of 1,500 Queensland commercial fishing boats—boats which contribute 10 per cent of the nation's seafood production in both quantity and value—and, finally, the complete failure of many industries who rely on our marine areas for their wellbeing. As such, I'll be voting against this disallowance motion.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,30,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,30,2,speech
 "Patrick, Sen Rex",CA,2018-03-27,"
 
 
@@ -3914,4 +4097,4 @@ Before concluding my remarks, I will say that the coalition management plans do 
 
 The PRESIDENT:  The question is that the disallowance motion moved by Senator Pratt be agreed to.
 
-",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,30,2
+",Senate,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Disallowance</title>,REGULATIONS AND DETERMINATIONS,30,2,speech

@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Hogg, Sen John",ALP,2011-05-11,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (09:31):  I inform the Senate of the death, on 10 May 2011, of Herbert (Bert) Charles Nicholls, a former Deputy Clerk of the Senate from 1983 to 1987. Mr Nicholls commenced working with the Department of the Senate in 1951, and retired in 1987.
 
-",Senate,<title>CONDOLENCES</title>,<title>Mr Herbert (Bert) Charles Nicholls</title>,CONDOLENCES,0,1
+",Senate,<title>CONDOLENCES</title>,<title>Mr Herbert (Bert) Charles Nicholls</title>,CONDOLENCES,0,1,speech
 "Ludwig, Sen Joe",ALP,2011-05-11,"
 
 
@@ -59,7 +59,7 @@ That the committee consist of 12 members, 3 Members of the House of Representati
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Electoral Matters Committee</title>,COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,<title>Electoral Matters Committee</title>,COMMITTEES,1,1,speech
 "Ludwig, Sen Joe",ALP,2011-05-11,"
 
 
@@ -112,7 +112,7 @@ That the committee consist of 12 members, 3 Members of the House of Representati
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,1,2,speech
 "Fierravanti-Wells, Sen Concetta",LP,2011-05-11,"
 
 
@@ -129,7 +129,7 @@ There has been some consultation with stakeholders, and there have been concerns
 
 We believe that the amendments do not go any further than is necessary to ensure that the TGA continues to have the ability to approve product information sheets that are in similar forms for both the originator and generic brands of the same registered medicine. We will, however, continue to monitor the situation. As I said, there are some concerns, but we believe the bill does provide important exceptions to copyright to protect the timely introduction of generic medicines into the Australian pharmaceutical market. The opposition will not be opposing the bill.
 
-",Senate,<title>BILLS</title>,<title>Therapeutic Goods Legislation Amendment (Copyright) Bill 2011</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Therapeutic Goods Legislation Amendment (Copyright) Bill 2011</title>,BILLS,3,1,speech
 "Feeney, Sen David",ALP,2011-05-11,"
 
 
@@ -143,7 +143,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Therapeutic Goods Legislation Amendment (Copyright) Bill 2011</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Therapeutic Goods Legislation Amendment (Copyright) Bill 2011</title>,BILLS,3,1,speech
 "Bishop, Sen Mark",ALP,2011-05-11,"
 
 
@@ -166,7 +166,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Therapeutic Goods Legislation Amendment (Copyright) Bill 2011</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Therapeutic Goods Legislation Amendment (Copyright) Bill 2011</title>,BILLS,3,1,speech
 "Fierravanti-Wells, Sen Concetta",LP,2011-05-11,"
 
 
@@ -183,7 +183,7 @@ There has been some consultation with stakeholders, and there have been concerns
 
 We believe that the amendments do not go any further than is necessary to ensure that the TGA continues to have the ability to approve product information sheets that are in similar forms for both the originator and generic brands of the same registered medicine. We will, however, continue to monitor the situation. As I said, there are some concerns, but we believe the bill does provide important exceptions to copyright to protect the timely introduction of generic medicines into the Australian pharmaceutical market. The opposition will not be opposing the bill.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Feeney, Sen David",ALP,2011-05-11,"
 
 
@@ -197,7 +197,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 Senator McGAURAN,LP,2011-05-11,"
 
 
@@ -274,7 +274,137 @@ What was it that motivated Professor Burrows to take the stand and argue against
 
 I do not rise on this issue and make such claims lightly. Indeed, I am only too aware of how people's lives have been changed, ruined, hurt and affected by this case. It would be easier to let it drift into the mist. However I believe I am compelled to use my position on such an occasion for such a purpose so Professor Burrows may be prevented from being used as a star or eminent witness again.
 
-",Senate,<title>MATTERS OF PUBLIC INTEREST</title>,<title>R v Arthur Phillip Freeman</title>,MATTERS OF PUBLIC INTEREST,4,1
+",Senate,<title>MATTERS OF PUBLIC INTEREST</title>,<title>R v Arthur Phillip Freeman</title>,MATTERS OF PUBLIC INTEREST,4,1,speech
+"Cormann, Sen Mathias",LP,2011-05-11,"
+
+
+
+Senator CORMANN
+ (Western Australia) (14:00):  My question is to the Minister for Finance and Deregulation, Senator Wong. Minister, why is the government claiming the $1.7 billion-plus flood tax and $4.5 billion in other new taxes, tax increases and revenue measures as if they were spending cuts? Isn't it true that, without those tax increases, the government's net spending actually increases over the forward estimates rather than decreases?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Cormann, Sen Mathias",LP,2011-05-11,"
+
+
+
+Senator CORMANN
+ (Western Australia) (14:03):  Mr President, the minister clearly has no explanation as to why a tax increase is said to be a spending cut. I have a supplementary question. This was supposed to be a tough budget. Why then has the government failed to offset new spending in both 2010-11 and 2011-12 with savings, increasing the deficit by more than $7 billion? Is the minister aware of comments by respected economic commentator Alan Kohler that 'any decent chief financial officer would be embarrassed by this budget'?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Cormann, Sen Mathias",LP,2011-05-11,"
+
+
+
+Senator CORMANN
+ (Western Australia) (14:05):  Mr President, I ask a further supplementary question. Now that the minister has started talking about tight fiscal discipline and limiting spending growth, does she accept that the government's commitment to keep spending growth below two per cent in real terms is a very easy target to achieve given that government spending is coming off a highly inflated base with spending growth of more than 17 per cent over the last two years in real terms, the highest since Whitlam?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Wong, Sen Penny",ALP,2011-05-11,"
+
+
+
+Senator WONG
+ (South Australia—Minister for Finance and Deregulation) (14:00):  Isn't it extraordinary! The first question on the budget and the best the opposition can do is to question a levy which has already gone through this place which they opposed with a real amount of—
+
+
+
+Honourable senators interjecting—
+
+
+
+
+The PRESIDENT:
+  Order! Senator Wong, if I could just interrupt you for a moment: I need some silence.
+
+
+
+
+Senator WONG:
+  A levy which was the subject of an enormous amount of chest-beating on that side and went through this chamber very quietly with the opposition opposing, but not too loudly. What an extraordinary thing! This is a budget which is about bringing the budget back into the black, a budget that is about jobs, jobs, jobs—creating jobs, training people for jobs and getting more people into jobs—and the best they can come with is: 'We don't like a levy to help rebuild Queensland. 'That is the best they can come up with! It is amazing, isn't it? This is an opposition which in government was happy to have a levy to help the sugar industry and happy to have a levy to buy back guns, but they are still fighting an argument on a levy to help rebuild Queensland and other areas of Australia that were hit by a natural disaster. But the most interesting thing is this—
+
+
+
+
+Honourable
+
+
+senators
+ interjecting—
+
+
+
+
+
+The PRESIDENT:
+  Senator Wong, I will just get you to sit down for a moment. I understand that people want to debate this issue but, as I point out constantly, the time to debate these issues is at the end of question time when ample time is given for people to put their views forcefully. I need to listen to the answer. I call the minister.
+
+
+
+
+Senator WONG:
+  The most interesting aspect of the question is that Senator Cormann does not know how many additional levies and taxes were in his own supposed $50 billion worth of cuts. Remember that the opposition went to the election with a levy to fund their paid parental leave scheme. We know that the opposition have included these sorts of things in the past as savings measures. If you want to apply that rule in terms of savings, your theoretical savings— (Time expired)
+
+
+
+
+Honourable
+
+
+senators
+ interjecting—
+
+
+
+
+
+The PRESIDENT:
+  Order! I remind senators that it is disorderly to shout across the chamber. I need to listen to the answers that are given. Senator Cormann.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Wong, Sen Penny",ALP,2011-05-11,"
+
+
+
+Senator WONG
+ (South Australia—Minister for Finance and Deregulation) (14:04):  First, we have identified $22 billion worth of savings in this budget. Second, the net save/spend position in this budget is a net save in excess of $5 billion. And I should say that, in terms of restraint on expenditure, the average real growth in expenditure in the years of this budget is about one per cent per year. Under Peter Costello, in his last five budgets it was around three per cent a year—I am talking about real growth. The last time a government showed this sort of expenditure restraint was in the 1980s. This is a budget that brings the budget back to surplus and puts more Australians into jobs, trains more Australians and increases participation. If Senator Cormann wants to talk about performance, why don't we talk about Mr Hockey's performance last night and this morning? (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Wong, Sen Penny",ALP,2011-05-11,"
+
+
+
+Senator WONG
+ (South Australia—Minister for Finance and Deregulation) (14:06):  If it was so easy, why did you never achieve it?
+
+
+
+Senator Cormann interjecting—
+
+
+
+
+The PRESIDENT:
+  Senator Cormann, you have been given your chance to ask the question. I want to listen to the answer. There have been many people interjecting on both sides, which is completely disorderly, and everyone knows that.
+
+
+
+
+Senator WONG:
+ If it was so easy, why did they never achieve it? That is the first response. Why did they never achieve this amount of spending restraint? But the more important issue is this: the shadow Treasurer—
+
+
+
+
+The PRESIDENT:
+  Senator Wong, resume your seat. If you want to debate the issue, the time to debate the issue is after question time. I have just reminded the Senate that interjections are disorderly.
+
+
+
+
+Senator WONG:
+  I can understand why they want to interrupt. Their shadow Treasurer has given the most embarrassing performance that an opposition has given in a very long time. This is a shadow Treasurer who says he wants to bring the budget back to surplus earlier, who says there are not enough tough savings and now has opposed at least two or three of the saves. How is it possible that you can come back to surplus and oppose savings measures? Perhaps the opposition should have a think about that.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
 "Ronaldson, Sen Michael",LP,2011-05-11,"
 
 
@@ -325,7 +455,7 @@ I will repeat the comments that Senator Eggleston made when he said: 'Why should
 
 This government had an opportunity to do something significant for this country in last night's budget. But, instead, they have put every single egg of every single Australian family in the basket of the Chinese economy. This is a Chinese economy driven budget—and if there is a sneeze in the Chinese economy we will get a very, very serious does of the flu. Not one economic or political commentator thinks for one minute that there will not be a sneeze in the Chinese community. It beggars belief that in the next three years there will not be a shiver in the Chinese economy. No-one for one minute thinks that the Chinese economy is at risk, but no-one believes that there will not be some— (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,6,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,6,1,speech
 Senator FORSHAW,ALP,2011-05-11,"
 
 
@@ -345,7 +475,7 @@ The budget has also had to have some savings cuts in it, because we are still go
 
 When you were in government, govern­ment spending grew by an average of three per cent. Under the Rudd and Gillard governments it has been growing at one per cent, so do not lecture us about wasteful government spending and all the rest of it. This is a terrific budget for the times and for the Australian people. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,6,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,6,1,speech
 "Macdonald, Sen Ian",LP,2011-05-11,"
 
 
@@ -366,7 +496,7 @@ I note with some amusement the money allocated for the NBN rollout. I wonder whe
 
 This is a budget from a weak, indecisive government who simply cannot be trusted to manage Australia's economy. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,6,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,6,1,speech
 Senator WORTLEY,ALP,2011-05-11,"
 
 
@@ -395,7 +525,7 @@ All Australians, regardless of their background or where they live, should have 
 
 Jobs are another important issue. Training a bigger workforce is vital for the strength of the economy and the living standards of our community. The 2011-12 budget invests in education, apprenticeships, jobs and training. This government is delivering the skilled workers our economy needs while ensuring more Australians benefit from our growing prosperity. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,6,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,6,1,speech
 "Ryan, Sen Scott",LP,2011-05-11,"
 
 
@@ -421,7 +551,7 @@ This budget is going to sink without trace. This government looks at the next th
 
 Question agreed to. 
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,6,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,6,1,speech
 "Parry, Sen Stephen",LP,2011-05-11,"
 
 
@@ -435,7 +565,7 @@ That the time for the presentation of the report of the Finance and Public Admin
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Finance and Public Administration References Committee</title>,COMMITTEES,9,1
+",Senate,<title>COMMITTEES</title>,<title>Finance and Public Administration References Committee</title>,COMMITTEES,9,1,speech
 "Parry, Sen Stephen",LP,2011-05-11,"
 
 
@@ -449,7 +579,7 @@ That the time for the presentation of the report of the Finance and Public Admin
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,9,2
+",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,9,2,speech
 "Abetz, Sen Eric",LP,2011-05-11,"
 
 
@@ -502,7 +632,7 @@ That the Senate—
 
    (f)   in light of events and information available to the Senate since 23 March 2011, reaffirms its decision that Israel is a legitimate and democratic state and a good friend of Australia. 
 
-",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1,speech
 "Ludwig, Sen Joe",ALP,2011-05-11,"
 
 
@@ -525,7 +655,7 @@ Senator LUDWIG:
 
 The motion moved by the Senator Abetz does appear to be more concerned with politics than expressing support for Israel. I ask Senator Abetz if he would care to explain to the Senate why at the last federal election the Liberal Party directed preferences to Greens candidates in New South Wales, in particular why the Liberal Party directed preferences to Sam Byrne, the Greens candidate for Grayndler, which covers Marrickville council. But without turning this into the politics that Senator Abetz has expressed, the longstanding practice really highlights the issue that I have indicated—that is, they are complex foreign policy matters and on that basis it has been long practice that we do not support this motion.
 
-",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1,speech
 "Xenophon, Sen Nick",Ind.,2011-05-11,"
 
 
@@ -602,7 +732,7 @@ Senator Abetz:
 
 Leave granted.
 
-",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1,speech
 "Abetz, Sen Eric",LP,2011-05-11,"
 
 
@@ -634,7 +764,7 @@ The amendment he has moved has unfortunately shown what is actually behind this.
 
 In relation to the allocation of preferences that Senator Ludwig raised, I say to Senator Ludwig: in the New South Wales election for that seat, the Liberal Party did not allocate preferences. The Labor Party did and put Fiona Byrne at No. 2 on the how-to-vote card in the state election, so please do not come in here and try to lecture and hector us. I know it is embarrassing for certain elements in this place that the anti-Israel stance being taken by some political parties and groups, such as trade unions, does need to be opposed. (Time expired)
 
-",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1,speech
 "Ludwig, Sen Joe",ALP,2011-05-11,"
 
 
@@ -642,7 +772,7 @@ In relation to the allocation of preferences that Senator Ludwig raised, I say t
 Senator LUDWIG
  (Queensland—Minister for Agriculture, Fisheries and Forestry, Manager of Government Business in the Senate and Minister Assisting the Attorney-General on Queensland Floods Recovery) (15:55):  by leave—If I have stated a fact which is incorrect I would withdraw that. I will check that but, on the basis that Senator Abetz has raised the issue I may have misled the Senate, I would withdraw it at this stage unless I could confirm otherwise. That is the easiest and fairest thing to do.
 
-",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1,speech
 "Xenophon, Sen Nick",Ind.,2011-05-11,"
 
 
@@ -677,7 +807,7 @@ Senator XENOPHON:
 
 Leave granted.
 
-",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1,speech
 Senator FORSHAW,ALP,2011-05-11,"
 
 
@@ -724,7 +854,7 @@ The DEPUTY PRESIDENT:
 Senator FORSHAW:
   I am pointing out the reasons that I would not support this motion. I would support the sympathies that underlie opposition to a BDS. I think we are clearly on the record on that—it is our position as a party—but have a look at yourselves in the mirror for once before you start trying to attack others.
 
-",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1,speech
 "Brown, Sen Bob",AG,2011-05-11,"
 
 
@@ -747,7 +877,7 @@ Senator BOB BROWN:
 
 It is our job to think about it and to debate it. We should not merely find ourselves fighting over it. We should also find some way of actually helping more than the world has helped in the past to ensure the security of the people of Israel and their right to live in peace into the future as well as the right of the people of Palestine to have their own country with equal security to chart their own future in the same way as the rest of the world does. It is incredibly important that we try to limit in the future the violence that we have seen in the past from both sides and to give a peace dividend to the whole region by having those two peoples living in peace with each other. Maybe we should set aside a full and open debate at some stage in this chamber to talk about just that. They deserve it, and we deserve to do it in a constructive way that would end in a peace which would in turn make all of us on this planet a bit more secure and happy.
 
-",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1,speech
 "Abetz, Sen Eric",LP,2011-05-11,"
 
 
@@ -777,7 +907,7 @@ Senator Cameron interjecting—
 The DEPUTY PRESIDENT:
   Order! Senator Cameron!
 
-",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1,speech
 "Xenophon, Sen Nick",Ind.,2011-05-11,"
 
 
@@ -818,7 +948,7 @@ I feel comfortable about supporting this motion if this amendment is passed, but
 The DEPUTY PRESIDENT:
   I remind senators that we are in the process of discovering formal business. Formal business means that senators seek leave to make statements but today they have turned into debates and it is an issue that I in my position as the Deputy President may refer to the Procedure Committee. This is not the correct process of discovering formal business.
 
-",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1,speech
 "Boswell, Sen Ronald",Nats,2011-05-11,"
 
 
@@ -911,7 +1041,7 @@ The Senate divided.  [16:13]
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Israel</title>,MOTIONS,10,1,speech
 "Bushby, Sen David",LP,2011-05-11,"
 
 
@@ -1009,7 +1139,7 @@ I commend Alert Digest No. 4 of 2011 and the Fourth Report of 2011 to the Senate
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Scrutiny of Bills Committee</title>,COMMITTEES,12,1
+",Senate,<title>COMMITTEES</title>,<title>Scrutiny of Bills Committee</title>,COMMITTEES,12,1,speech
 "Bushby, Sen David",LP,2011-05-11,"
 
 
@@ -1107,7 +1237,7 @@ I commend Alert Digest No. 4 of 2011 and the Fourth Report of 2011 to the Senate
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,12,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,12,2,speech
 "Pratt, Sen Louise",ALP,2011-05-11,"
 
 
@@ -1115,7 +1245,7 @@ Question agreed to.
 The ACTING DEPUTY PRESIDENT (Senator Pratt):
   I table a response from the Assistant Treasurer, Mr Shorten, to a resolution of the Senate of 17 November 2010 concerning credit card surcharging.
 
-",Senate,<title>DOCUMENTS</title>,<title>Credit Card Surcharging</title>,DOCUMENTS,13,1
+",Senate,<title>DOCUMENTS</title>,<title>Credit Card Surcharging</title>,DOCUMENTS,13,1,speech
 "Pratt, Sen Louise",ALP,2011-05-11,"
 
 
@@ -1123,7 +1253,7 @@ The ACTING DEPUTY PRESIDENT (Senator Pratt):
 The ACTING DEPUTY PRESIDENT (Senator Pratt):
   I table a response from the Assistant Treasurer, Mr Shorten, to a resolution of the Senate of 17 November 2010 concerning credit card surcharging.
 
-",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,13,2
+",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,13,2,speech
 Senator HURLEY,ALP,2011-05-11,"
 
 
@@ -1173,7 +1303,7 @@ The delegation was very warmly received. I would like to thank the host nations 
 
 Question agreed to.
 
-",Senate,<title>DELEGATION REPORTS</title>,<title>Parliamentary Delegation to Bhutan and Mongolia</title>,DELEGATION REPORTS,14,1
+",Senate,<title>DELEGATION REPORTS</title>,<title>Parliamentary Delegation to Bhutan and Mongolia</title>,DELEGATION REPORTS,14,1,speech
 "Pratt, Sen Louise",ALP,2011-05-11,"
 
 
@@ -1181,7 +1311,7 @@ Question agreed to.
 The ACTING DEPUTY PRESIDENT (Senator Pratt):
   I have received a letter from a party leader seeking to vary the membership of a committee.
 
-",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,15,1
+",Senate,<title>DOCUMENTS</title>,<title>Tabling</title>,DOCUMENTS,15,1,speech
 "Collins, Sen Jacinta",ALP,2011-05-11,"
 
 
@@ -1204,7 +1334,7 @@ That Senator Bob Brown replace Senator Ludlam on the Environment and Communicati
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Environment and Communications References Committee</title>,COMMITTEES,16,1
+",Senate,<title>COMMITTEES</title>,<title>Environment and Communications References Committee</title>,COMMITTEES,16,1,speech
 "Collins, Sen Jacinta",ALP,2011-05-11,"
 
 
@@ -1227,7 +1357,7 @@ That Senator Bob Brown replace Senator Ludlam on the Environment and Communicati
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,16,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,16,2,speech
 "Macdonald, Sen Ian",LP,2011-05-11,"
 
 
@@ -1247,7 +1377,7 @@ This is a government that wanted to be open and accountable. It wanted to make s
 
 Question agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,"<title>Royal Australian Air Force Welfare Recreational Company, Report for 2008-09</title>",DOCUMENTS,18,1
+",Senate,<title>DOCUMENTS</title>,"<title>Royal Australian Air Force Welfare Recreational Company, Report for 2008-09</title>",DOCUMENTS,18,1,speech
 "Cameron, Sen Doug",ALP,2011-05-11,"
 
 
@@ -1288,4 +1418,35 @@ It is important also to remember that Ian was taken from his family and his frie
 
 Vale, Ian Harrington. You were a good man, a union man and a great family man. You will be sadly missed.
 
-",Senate,<title>ADJOURNMENT</title>,"<title>Harrington, Mr Ian</title>",ADJOURNMENT,19,1
+",Senate,<title>ADJOURNMENT</title>,"<title>Harrington, Mr Ian</title>",ADJOURNMENT,19,1,speech
+"Johnston, Sen David",LP,2011-05-11,"
+
+
+
+Senator Johnston
+  asked the Minister representing the Minister for Financial Services and Superannuation, upon notice, on 28 September 2010:
+
+
+If employee entitlements were to be given a higher priority in respect of any fixed and floating charge security a bank holds, would this not make a bank more proactive in monitoring loans it has and in ensuring a situation is not allowed to deteriorate to a position where only a secured creditor recovers their funds.
+
+",Senate,<title>QUESTIONS ON NOTICE</title>,<title>Banking (Question No. 61)</title>,QUESTIONS ON NOTICE,21,1,question
+"Sherry, Sen Nick",ALP,2011-05-11,"
+
+
+
+Senator Sherry:
+  The Parliamentary Secretary to the Treasurer has provided the following answer to the honourable senator's question:
+
+
+Employees would only benefit from their entitlements receiving a higher priority in the distribution to creditors to the extent that any of their entitlements are not already covered by the General Employee Entitlements Redundnacy Scheme (GEERS). To the extent that that employee entitlements are covered by GEERS, employees would receive no additional advantage by receiving a higher priority in the distribution. Almost all employee entitlements are covered by GEERS. 
+
+
+If payments of employees entitlements were made dependent on the realisation of assets, it is likely that payments to employees of their entitlements would be delayed further, than under GEERS. 
+
+
+A proposal by the former government to place claims for outstanding employee's entitlements before the interests of all secured creditors was considered by the Parliamentary Joint Committee on Corporations and Financial Services in its June 2004 report, Corporate Insolvency Laws: A Stocktake. The PJC recommended against its adoption. 
+
+
+Employees currently receive a special priority in the distribution to creditors under the Corporations Act. If employees ranking was increased to an even higher ranking, it would be expected to increase the costs of secured credit as margins were increased to reflect lower than expected asset recoveries. 
+
+",Senate,<title>QUESTIONS ON NOTICE</title>,<title>Banking (Question No. 61)</title>,QUESTIONS ON NOTICE,21,1,answer

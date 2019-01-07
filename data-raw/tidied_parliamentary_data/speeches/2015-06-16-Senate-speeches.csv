@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2015-06-16,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (12:31):  Does any senator wish to put the question on those motions? There being none, we will continue. 
 
-",Senate,<title>COMMITTEES</title>,"<title>Constitutional Recognition of ATSIP, Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,"<title>Constitutional Recognition of ATSIP, Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,1,1,speech
 "PRESIDENT, The",,2015-06-16,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (12:31):  Does any senator wish to put the question on those motions? There being none, we will continue. 
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "Conroy, Sen Stephen",ALP,2015-06-16,"
 
 
@@ -276,7 +276,7 @@ This is talking about cuts to the SBS which he claimed would not happen. He then
 
 SBS has an important role to play in Australian society. It provides an outlet for multicultural programming, news and content that showcases Australia's ethnic diversity. If this bill is passed, the scales will be tipped too far in favour of profit over the public benefit. This place should not become complicit in allowing SBS to be turned into another commercial broadcaster. The solution is simple. The Prime Minister promised on the election eve that there would be no cuts to the SBS. Everybody in this chamber on that side was elected on the promise. You should keep that promise. You should not break trust. You should vote against this legislation, and I urge you to do so.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015</title>,BILLS,2,1,speech
 "Ludlam, Sen Scott",AG,2015-06-16,"
 
 
@@ -354,7 +354,7 @@ The first step down that slope was taken 25 years ago when SBS opened up to adve
 
 Here is some advice to Liberal and National MPs on that side of the chamber, with their instinctive loathing of all things public. Whether it is public housing, public health, public education, public transport for public broadcasting, the coalition are desperate to hollow out these treasured public institutions and convert them to for-profit commercial operators. Why don't you quit your well-paid public-sector jobs and go work for the private sector? Knock yourselves out. Quit your public-sector jobs and go work in the private sector. Maybe you are just not cut out for government. Maybe it is just not for you. We will be standing up for SBS and its charter obligations and will not submit to this shallow blackmail. We oppose the bill.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015</title>,BILLS,2,1,speech
 "Macdonald, Sen Ian",LP,2015-06-16,"
 
 
@@ -525,7 +525,7 @@ I reiterate that ABC and SBS have to tighten their belts the same as everyone el
 
 I recognise and give credit to the Liberal government and Liberal prime minister who actually set up SBS, who recognised the need for a multicultural broadcasting entity. As with so many innovations in Australia's way of life and governance, this was an initiative of a Liberal government and a Liberal prime minister—something, of course, that the Greens would never recognise. With those comments, I urge the Senate to pass this bill in its entirety.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015</title>,BILLS,2,1,speech
 "Urquhart, Sen Anne",ALP,2015-06-16,"
 
 
@@ -596,7 +596,7 @@ This is hardly what you would call a glowing endorsement.
 
 Labor will never support a bill that allows the government to break its promise that there will be no cuts to the SBS. For that reason we will not be supporting this bill.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015</title>,BILLS,2,1,speech
 "Ruston, Sen Anne",LP,2015-06-16,"
 
 
@@ -646,7 +646,7 @@ The fact that this is such a small component of the overall television advertisi
 
 Another comment that was very clear in this debate was about fill rates. There is a lack of acknowledgement within this space that the SBS has a lot of difficulty with its fill rates for many of the programs that it is required to put to air. I am wholeheartedly in support of recommending that the Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015 be passed. I am supportive of that because I believe that we have an obligation in this place to make sure that we have the most efficient and effective organisations that we possibly can. I acknowledge the work that the SBS has done to make sure that their back-of-house operations are as efficient as possible. But, in doing so, I also acknowledge that the capacity for SBS to make the changes and the budget savings was more difficult and, therefore, this bill is essential.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015</title>,BILLS,2,1,speech
 "Singh, Sen Lisa",ALP,2015-06-16,"
 
 
@@ -694,7 +694,7 @@ The PRESIDENT:  Thank you for the point of order. I will just advise all senator
 Senator SINGH:
   It is plain and simple. However you want to gild the lily, Senator Canavan, it is a lie, it is a broken promise. That is what your leader has done. You have the opportunity, though, to not support it. So, why don't you do the right thing and actually not support this broken promise? Maybe then you will be able to go back to your electorates and hold your heads up high. At this point in time, all you can do is go back to your electorates and say that it has been a broken promise by this government—no cuts to the ABC and SBS. That is exactly all you have done: cut our public broadcasters to a very deep degree, to the point that SBS is turning into a commercial broadcaster. Those of us on this side of the chamber will always stand by our public broadcasters for the greater good of this country, for the telling of Australian stories, including multicultural stories. And that means that these cuts should not happen. We will not turn SBS into a commercial channel by stealth.
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015</title>,BILLS,2,1,speech
 "Canavan, Sen Matthew",Nats,2015-06-16,"
 
 
@@ -703,7 +703,7 @@ Senator SINGH:
 Senator CANAVAN
  (Queensland) (13:59):  I think the Labor Party have a lot of difficulty with the English language. They are calling this 'cuts'—it is actually an increase in revenue. It is no surprise because, in their budgets, they used to call tax increases 'saves'. Do you remember that? Tax increases were savings according to them. They have a problem with the English language. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015</title>,BILLS,2,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015</title>,BILLS,2,1,speech
 "Conroy, Sen Stephen",ALP,2015-06-16,"
 
 
@@ -965,7 +965,7 @@ This is talking about cuts to the SBS which he claimed would not happen. He then
 
 SBS has an important role to play in Australian society. It provides an outlet for multicultural programming, news and content that showcases Australia's ethnic diversity. If this bill is passed, the scales will be tipped too far in favour of profit over the public benefit. This place should not become complicit in allowing SBS to be turned into another commercial broadcaster. The solution is simple. The Prime Minister promised on the election eve that there would be no cuts to the SBS. Everybody in this chamber on that side was elected on the promise. You should keep that promise. You should not break trust. You should vote against this legislation, and I urge you to do so.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Ludlam, Sen Scott",AG,2015-06-16,"
 
 
@@ -1043,7 +1043,7 @@ The first step down that slope was taken 25 years ago when SBS opened up to adve
 
 Here is some advice to Liberal and National MPs on that side of the chamber, with their instinctive loathing of all things public. Whether it is public housing, public health, public education, public transport for public broadcasting, the coalition are desperate to hollow out these treasured public institutions and convert them to for-profit commercial operators. Why don't you quit your well-paid public-sector jobs and go work for the private sector? Knock yourselves out. Quit your public-sector jobs and go work in the private sector. Maybe you are just not cut out for government. Maybe it is just not for you. We will be standing up for SBS and its charter obligations and will not submit to this shallow blackmail. We oppose the bill.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Macdonald, Sen Ian",LP,2015-06-16,"
 
 
@@ -1214,7 +1214,7 @@ I reiterate that ABC and SBS have to tighten their belts the same as everyone el
 
 I recognise and give credit to the Liberal government and Liberal prime minister who actually set up SBS, who recognised the need for a multicultural broadcasting entity. As with so many innovations in Australia's way of life and governance, this was an initiative of a Liberal government and a Liberal prime minister—something, of course, that the Greens would never recognise. With those comments, I urge the Senate to pass this bill in its entirety.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Urquhart, Sen Anne",ALP,2015-06-16,"
 
 
@@ -1285,7 +1285,7 @@ This is hardly what you would call a glowing endorsement.
 
 Labor will never support a bill that allows the government to break its promise that there will be no cuts to the SBS. For that reason we will not be supporting this bill.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Ruston, Sen Anne",LP,2015-06-16,"
 
 
@@ -1335,7 +1335,7 @@ The fact that this is such a small component of the overall television advertisi
 
 Another comment that was very clear in this debate was about fill rates. There is a lack of acknowledgement within this space that the SBS has a lot of difficulty with its fill rates for many of the programs that it is required to put to air. I am wholeheartedly in support of recommending that the Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015 be passed. I am supportive of that because I believe that we have an obligation in this place to make sure that we have the most efficient and effective organisations that we possibly can. I acknowledge the work that the SBS has done to make sure that their back-of-house operations are as efficient as possible. But, in doing so, I also acknowledge that the capacity for SBS to make the changes and the budget savings was more difficult and, therefore, this bill is essential.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Singh, Sen Lisa",ALP,2015-06-16,"
 
 
@@ -1383,7 +1383,7 @@ The PRESIDENT:  Thank you for the point of order. I will just advise all senator
 Senator SINGH:
   It is plain and simple. However you want to gild the lily, Senator Canavan, it is a lie, it is a broken promise. That is what your leader has done. You have the opportunity, though, to not support it. So, why don't you do the right thing and actually not support this broken promise? Maybe then you will be able to go back to your electorates and hold your heads up high. At this point in time, all you can do is go back to your electorates and say that it has been a broken promise by this government—no cuts to the ABC and SBS. That is exactly all you have done: cut our public broadcasters to a very deep degree, to the point that SBS is turning into a commercial broadcaster. Those of us on this side of the chamber will always stand by our public broadcasters for the greater good of this country, for the telling of Australian stories, including multicultural stories. And that means that these cuts should not happen. We will not turn SBS into a commercial channel by stealth.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
 "Canavan, Sen Matthew",Nats,2015-06-16,"
 
 
@@ -1392,7 +1392,167 @@ Senator SINGH:
 Senator CANAVAN
  (Queensland) (13:59):  I think the Labor Party have a lot of difficulty with the English language. They are calling this 'cuts'—it is actually an increase in revenue. It is no surprise because, in their budgets, they used to call tax increases 'saves'. Do you remember that? Tax increases were savings according to them. They have a problem with the English language. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,2,2,speech
+"Wong, Sen Penny",ALP,2015-06-16,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:00):  My question is to the Minister representing the Minister for Foreign Affairs, Senator Brandis. I refer to the Indonesian Vice-President, who says, in response to allegations that the Abbott government paid people smugglers:
+
+
+It is wrong for a person to bribe, let alone a state. Such an act is definitely incorrect—
+
+
+
+Opposition senators interjecting—
+
+
+
+
+Senator WONG:
+  Those of us on this side might care what the Indonesian Vice-President has to say, but clearly the finance minister does not care.
+
+
+
+Opposition senators interjecting—
+
+
+
+The PRESIDENT:  Order! Senator Wong, you have the call.
+
+
+
+
+Senator WONG:
+  Well, the clock is now at 25.
+
+
+
+The PRESIDENT:  Senator Wong, you can finish your question.
+
+
+
+
+Senator WONG:
+  I will repeat the question. I hope the finance minister cares a little about what the Indonesian Vice-President said. The Vice-President said:
+
+
+It is wrong for a person to bribe, let alone a state. Such an act is definitely incorrect in the context of bilateral relations …
+
+
+What is the foreign minister's response?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,3,1,question
+"Wong, Sen Penny",ALP,2015-06-16,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:04):  Mr President, I ask a supplementary question. I refer to the Indonesian foreign minister, who says:
+
+
+Actually, it's not difficult for Australia to answer my question from Saturday regarding the issue of payment, and not to distract on the issue …
+
+
+That is a direct quote from the Indonesian foreign minister.
+
+
+
+Senator Cormann interjecting—
+
+
+
+
+Senator WONG:
+  I know the Minister for Finance may not think it is an important point. Has the Abbott government provided a response to the Indonesian foreign minister and, if so, what is it?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,3,1,question
+"Wong, Sen Penny",ALP,2015-06-16,"
+
+
+
+Senator WONG
+ (South Australia—Leader of the Opposition in the Senate) (14:06):  Mr President, I ask a further supplementary question. I refer to a spokesperson for Indonesia's security ministry, who says that the Australian foreign minister's call for Indonesia to enforce sovereignty over their borders was 'not an appropriate statement for her to make and she should withdraw'. How is the Prime Minister's Jakarta, not Geneva, foreign policy going?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,3,1,question
+"Brandis, Sen George",LP,2015-06-16,"
+
+
+
+Senator BRANDIS
+ (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (14:01):  Thank you very much indeed, Senator Wong, for that question. Senator Wong, we do not comment on operational matters, as you know. In fact, Senator Wong, evidently you are not familiar with Mr Shorten's train wreck of a press conference about 45 minutes ago, when he was asked this very question. He was asked this very question whether the Labor Party, when it was in government, paid people smugglers. Do you know what Mr Shorten had to say? Mr Shorten said, 'Well, we don't comment on operational matters.' So, Senator Wong, I suggest that the next time you prepare for question time, you have a glance at what your leader has said in the hour before question time.
+
+
+Of course, we know that the Labor Party paid money to people smugglers. We know $500 million worth of money went into the coffers of people smugglers, who charged a fee of approximately $10,000 per passage to 50,000 illegal entrants into Australia—
+
+
+
+The PRESIDENT:  Pause the clock! Order, Minister!
+
+
+
+
+Senator Moore:
+  Mr President, I raise a point of order on direct relevance to the question that was asked, which was about the foreign minister's response rather than a history lesson about what they believe.
+
+
+
+The PRESIDENT:  Senator Moore, in relation to the point of order, Senator Brandis did answer the question first-up, indicating that he would not be commenting on operational matters. And as has been the tradition and convention in this chamber for decades, ministers can always enhance their answers once they have answered the substantive question.
+
+
+
+
+Senator BRANDIS:
+  So we know that people smugglers in Indonesia were enriched during the period of the Labor government to the tune of tens of millions of dollars, because we know there were approximately 50,000 illegal entrants to Australia, whose average fee, as we also know, was US$10,000. That is the extent to which people smugglers were enriched during the period of the Labor government. But because the Abbott government has stopped the boats, stopped the drownings, we have also stopped the people smugglers.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,3,1,answer
+"Brandis, Sen George",LP,2015-06-16,"
+
+
+
+Senator BRANDIS
+ (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (14:05):  As I said, Senator Wong, I am familiar with the remarks attributed to the Indonesian foreign minister. What I can tell you, Senator Wong, is that unlike when you were a member of the cabinet, unlike during the period of the Labor government, the Indonesian people smugglers have gone broke. They have gone broke because they have no business. And the reason they have no business is that they have no customers, because the Abbott government stopped the boats. Senator Wong, I know you are reluctant to acknowledge that fact. I know how reluctant you are to face the shame of having made a decision that resulted directly in the deaths of 1,100 people, most of them innocent women and children. I know how that sits with your humanitarianism, Senator Wong, but you will never escape the shame of that decision. You will never escape your record and you cannot escape the fact that the Abbott government stopped the boats. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,3,1,answer
+"Brandis, Sen George",LP,2015-06-16,"
+
+
+
+Senator BRANDIS
+ (Queensland—Deputy Leader of the Government in the Senate, Vice-President of the Executive Council, Minister for Arts and Attorney-General) (14:06):  I am pleased to tell you, Senator Wong, that the relationship between Australia and Indonesia, notwithstanding that there are interruptions from time to time, most recently at the time of the executions of Chan and Sukumaran—
+
+
+
+Senator Cameron interjecting—
+
+
+
+
+Senator BRANDIS:
+  something that you might choose to laugh about, Senator Cameron, but that we regard as a human tragedy.
+
+
+
+The PRESIDENT:  Pause the clock!
+
+
+
+
+Senator Wong:
+  Mr President, I rise on a point of order. That was a false and, if I may say, malicious imputation. That was not what Senator Cameron was responding to, and the Acting Leader of the Government should withdraw it.
+
+
+
+The PRESIDENT:  If the Attorney-General deems it appropriate, it would assist if he would like to withdraw that remark in relation to Senator Cameron.
+
+
+
+
+Senator BRANDIS:
+  Mr President, if it assists you, I will. As I was saying, the relationship between Indonesia and Australia occasionally faces difficulties. That has been the case on the watch of both sides of politics, but the relationship is in extremely good shape notwithstanding. It is in much better shape, I might say, than it was during the period of the Labor government when, for example, as a result of a decision of Senator Ludwig—who now lingers there on the backbench—when he was minister for agriculture we banned the export of live cattle to Indonesia, interfering with the food chain of that nation. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,3,1,answer
 "Singh, Sen Lisa",ALP,2015-06-16,"
 
 
@@ -1421,7 +1581,7 @@ Senator Brandis, the Attorney-General of this country, today had ample opportuni
 
 On top of that, we have this issue of cash incentives to people smugglers, to return them to Indonesia, that the government will not rule out. Again, there is no transparency from this government. In doing so, the government is offering people smugglers a new business model. The government needs to be very careful here. We will get to the bottom of this. We have written to the Auditor-General's Department to ask them to investigate whether or not these payments did occur. This is serious for this country, serious for our relationship with Indonesia and serious if this government is really serious about trying to stop boats.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1,speech
 "Macdonald, Sen Ian",LP,2015-06-16,"
 
 
@@ -1447,7 +1607,7 @@ Senator Singh, criticise Senator Brandis all you like but, perhaps by implicatio
 
 Senator Singh, if you are going to criticise Senator Brandis, you are clearly—by extension—criticising your own leader. Mr Shorten, however, as with Senator Brandis, knows that under no circumstances should any Australian government official or minister comment on security matters. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1,speech
 "Gallacher, Sen Alex",ALP,2015-06-16,"
 
 
@@ -1470,7 +1630,7 @@ We do know that the member for Hindmarsh is onside on this. He wants them built 
 
 My reading of it, when I walk around and visit workplaces and social gatherings in South Australia, is that I have not seen an issue like this before. With the demise of Holden, with the loss of all of those manufacturing jobs there, with the impending loss of the ASC and the future of that building and manufacturing sector, which is so critical to add-on small businesses—the drycleaner who gets a bit of work from someone who is going to and from the ASC, the takeaway shops, the service stations—and the building of new houses and all of those things that hang off well-paid good jobs in manufacturing, this is a really critical issue that needs to be decided earlier rather than later, and not be based on a prime ministerial whim for a deal with his friend the Japanese Prime Minister. We know what a great multiplier of jobs manufacturing is and this needs to be done as a sustainable defence of an economic imperative. They should build it in South Australia.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1,speech
 "Back, Sen Chris",LP,2015-06-16,"
 
 
@@ -1499,7 +1659,7 @@ As Senator Macdonald said, if you want to pretend outrage about what the Indones
 
 What a shame that I do not have the time to comment on the so-called affordable housing outrage of Senator McLucas. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1,speech
 "Bilyk, Sen Catryna",ALP,2015-06-16,"
 
 
@@ -1537,7 +1697,7 @@ Today Senator Brandis just repeated the coalition's mantra that they will not co
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Answers to Questions</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,4,1,speech
 "Bushby, Sen David",LP,2015-06-16,"
 
 
@@ -1895,7 +2055,7 @@ Senator BUSHBY:
 
    That the report be adopted.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "Moore, Sen Claire",ALP,2015-06-16,"
 
 
@@ -1927,7 +2087,7 @@ This is an important area of discussion. We know, as parliamentarians, that we h
 
 We believe that these changes are significant enough—they certainly are complex enough, when you go through the data on the changes to the assets process and also look at the composite impact of the changes proposed in this bill—to require effective scrutiny by the Senate. We know that scrutiny will not always lead to agreement, but we do believe that the job of this place is to scrutinise legislation. Again, 10 August is not an outrageous ask and our amendment proposes that extension.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "Fifield, Sen Mitch",LP,2015-06-16,"
 
 
@@ -1938,7 +2098,7 @@ Senator FIFIELD
 
 In relation to part (b) of Senator Moore's motion, it is important for the chamber to recognise that the practice under this government and the previous government has been that budget bills which are time critical are automatically referred to legislation committees with an early reporting date. It is something that occurred under the previous government and something that we supported, and it is something that has occurred under this government for the last two budgets. In relation to the Social Services Legislation Amendment (Fair and Sustainable Pensions) Bill, the chamber actually agreed that it would be reported on on Monday of this week but with the agreement and support of the government that reporting date was extended to Monday of next week. So the government has supported an extension of time already. If the opposition had a different view at the time the extension of the reporting date was agreed in this chamber, they should have given voice to and expressed that view. The chamber has already expressed its view and taken a decision on two occasions in relation to the reporting date of this inquiry into this legislation. I thought it was important that the chamber be apprised of those particular facts.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "Moore, Sen Claire",ALP,2015-06-16,"
 
 
@@ -1950,7 +2110,7 @@ Senator MOORE
 
 The PRESIDENT:  Does anyone wish to speak to the amendment? Senator Siewert.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "Siewert, Sen Rachel",AG,2015-06-16,"
 
 
@@ -1958,7 +2118,7 @@ The PRESIDENT:  Does anyone wish to speak to the amendment? Senator Siewert.
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (15:43):  They had me on this one, but I do not know now that it has been referred to the Community Affairs Committee. We are of a mind to support this amendment. These are important bills. While we may be more favourably disposed to some of the provisions of the social services legislation, there are other provisions that we are not favourably disposed to. They could have some significant consequences, so we are of a mind to support these extensions.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "Fifield, Sen Mitch",LP,2015-06-16,"
 
 
@@ -1977,7 +2137,7 @@ Question agreed to.
 
 The PRESIDENT:  The question now is that part (b) on the amendment circulated by Senator Moore to Senator Bushby's motion be agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "PRESIDENT, The",,2015-06-16,"
 
 
@@ -1988,7 +2148,7 @@ The PRESIDENT
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1
+",Senate,<title>COMMITTEES</title>,<title>Selection of Bills Committee</title>,COMMITTEES,6,1,speech
 "Bushby, Sen David",LP,2015-06-16,"
 
 
@@ -2346,7 +2506,7 @@ Senator BUSHBY:
 
    That the report be adopted.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Moore, Sen Claire",ALP,2015-06-16,"
 
 
@@ -2378,7 +2538,7 @@ This is an important area of discussion. We know, as parliamentarians, that we h
 
 We believe that these changes are significant enough—they certainly are complex enough, when you go through the data on the changes to the assets process and also look at the composite impact of the changes proposed in this bill—to require effective scrutiny by the Senate. We know that scrutiny will not always lead to agreement, but we do believe that the job of this place is to scrutinise legislation. Again, 10 August is not an outrageous ask and our amendment proposes that extension.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Fifield, Sen Mitch",LP,2015-06-16,"
 
 
@@ -2389,7 +2549,7 @@ Senator FIFIELD
 
 In relation to part (b) of Senator Moore's motion, it is important for the chamber to recognise that the practice under this government and the previous government has been that budget bills which are time critical are automatically referred to legislation committees with an early reporting date. It is something that occurred under the previous government and something that we supported, and it is something that has occurred under this government for the last two budgets. In relation to the Social Services Legislation Amendment (Fair and Sustainable Pensions) Bill, the chamber actually agreed that it would be reported on on Monday of this week but with the agreement and support of the government that reporting date was extended to Monday of next week. So the government has supported an extension of time already. If the opposition had a different view at the time the extension of the reporting date was agreed in this chamber, they should have given voice to and expressed that view. The chamber has already expressed its view and taken a decision on two occasions in relation to the reporting date of this inquiry into this legislation. I thought it was important that the chamber be apprised of those particular facts.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Moore, Sen Claire",ALP,2015-06-16,"
 
 
@@ -2401,7 +2561,7 @@ Senator MOORE
 
 The PRESIDENT:  Does anyone wish to speak to the amendment? Senator Siewert.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Siewert, Sen Rachel",AG,2015-06-16,"
 
 
@@ -2409,7 +2569,7 @@ The PRESIDENT:  Does anyone wish to speak to the amendment? Senator Siewert.
 Senator SIEWERT
  (Western Australia—Australian Greens Whip) (15:43):  They had me on this one, but I do not know now that it has been referred to the Community Affairs Committee. We are of a mind to support this amendment. These are important bills. While we may be more favourably disposed to some of the provisions of the social services legislation, there are other provisions that we are not favourably disposed to. They could have some significant consequences, so we are of a mind to support these extensions.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Fifield, Sen Mitch",LP,2015-06-16,"
 
 
@@ -2428,7 +2588,7 @@ Question agreed to.
 
 The PRESIDENT:  The question now is that part (b) on the amendment circulated by Senator Moore to Senator Bushby's motion be agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "PRESIDENT, The",,2015-06-16,"
 
 
@@ -2439,7 +2599,7 @@ The PRESIDENT
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,6,2,speech
 "Bushby, Sen David",LP,2015-06-16,"
 
 
@@ -2477,7 +2637,7 @@ That the Joint Standing Committee on Treaties be authorised to hold private meet
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,9,1
+",Senate,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,9,1,speech
 "Bushby, Sen David",LP,2015-06-16,"
 
 
@@ -2515,7 +2675,7 @@ That the Joint Standing Committee on Treaties be authorised to hold private meet
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,9,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,9,2,speech
 "Wright, Sen Penny",AG,2015-06-16,"
 
 
@@ -2538,7 +2698,7 @@ That the Senate—
 
 (d) calls on the Federal and South Australian governments to assist the Port Augusta community in transitioning to a clean energy future, providing jobs and security for the region.
 
-",Senate,<title>MOTIONS</title>,<title>Clean Energy</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Clean Energy</title>,MOTIONS,10,1,speech
 "Day, Sen Bob",FFP,2015-06-16,"
 
 
@@ -2559,7 +2719,7 @@ Senator DAY:
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Clean Energy</title>,MOTIONS,10,1
+",Senate,<title>MOTIONS</title>,<title>Clean Energy</title>,MOTIONS,10,1,speech
 "McEwen, Sen Anne",ALP,2015-06-16,"
 
 
@@ -2582,7 +2742,7 @@ The handling of a letter sent by Mr Man Haron Monis to the Attorney-General date
 
 (c) what, if any, changes were made to procedures for the handling of incoming correspondence to the Attorney-General's Department and the Attorney-General's Office following the raising of the national terrorism public alert level to 'High' on 12 September 2014.
 
-",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,11,1
+",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,11,1,speech
 "Brandis, Sen George",LP,2015-06-16,"
 
 
@@ -2643,7 +2803,7 @@ The PRESIDENT:  Again on your point of order, Senator Macdonald, the standing or
 
  
 
-",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,11,1
+",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs References Committee</title>,COMMITTEES,11,1,speech
 "McEwen, Sen Anne",ALP,2015-06-16,"
 
 
@@ -2666,7 +2826,7 @@ The handling of a letter sent by Mr Man Haron Monis to the Attorney-General date
 
 (c) what, if any, changes were made to procedures for the handling of incoming correspondence to the Attorney-General's Department and the Attorney-General's Office following the raising of the national terrorism public alert level to 'High' on 12 September 2014.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,11,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,11,2,speech
 "Brandis, Sen George",LP,2015-06-16,"
 
 
@@ -2727,7 +2887,7 @@ The PRESIDENT:  Again on your point of order, Senator Macdonald, the standing or
 
  
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,11,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,11,2,speech
 "Hanson-Young, Sen Sarah",AG,2015-06-16,"
 
 
@@ -2781,7 +2941,7 @@ The PRESIDENT:  The question is that general business notice of motion No. 724, 
 
  
 
-",Senate,<title>DOCUMENTS</title>,<title>Australian Customs Service</title>,DOCUMENTS,12,1
+",Senate,<title>DOCUMENTS</title>,<title>Australian Customs Service</title>,DOCUMENTS,12,1,speech
 "Hanson-Young, Sen Sarah",AG,2015-06-16,"
 
 
@@ -2835,7 +2995,7 @@ The PRESIDENT:  The question is that general business notice of motion No. 724, 
 
  
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,12,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,12,2,speech
 "Waters, Sen Larissa",AG,2015-06-16,"
 
 
@@ -2850,7 +3010,7 @@ That the Renewable Energy (Electricity) Amendment Bill 2015 be referred to the E
 
 The PRESIDENT:  The question is that the motion moved by Senator Waters be agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Environment and Communications Legislation Committee</title>,COMMITTEES,13,1
+",Senate,<title>COMMITTEES</title>,<title>Environment and Communications Legislation Committee</title>,COMMITTEES,13,1,speech
 "Waters, Sen Larissa",AG,2015-06-16,"
 
 
@@ -2865,7 +3025,7 @@ That the Renewable Energy (Electricity) Amendment Bill 2015 be referred to the E
 
 The PRESIDENT:  The question is that the motion moved by Senator Waters be agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,13,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,13,2,speech
 "O'Sullivan, Sen Barry",Nats,2015-06-16,"
 
 
@@ -2882,7 +3042,7 @@ That the Senate—
 
 (b) further recognises that Australian produce and food processing is of world class standard, and that these labelling rules are an important step in making it easier for consumers to identify locally grown and processed food.
 
-",Senate,<title>MOTIONS</title>,<title>Country of Origin Labelling</title>,MOTIONS,14,1
+",Senate,<title>MOTIONS</title>,<title>Country of Origin Labelling</title>,MOTIONS,14,1,speech
 "Canavan, Sen Matthew",Nats,2015-06-16,"
 
 
@@ -2907,7 +3067,7 @@ The PRESIDENT:  The question is that the motion moved by Senator O'Sullivan be a
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Country of Origin Labelling</title>,MOTIONS,14,1
+",Senate,<title>MOTIONS</title>,<title>Country of Origin Labelling</title>,MOTIONS,14,1,speech
 "PRESIDENT, The",,2015-06-16,"
 
 
@@ -2935,7 +3095,7 @@ More than the number of senators required by the standing orders having risen in
 
 The PRESIDENT:  I understand that informal arrangements have been made to allocate specific times to each of the speakers in today's debate. With the concurrence of the Senate, I shall ask the Clerks to set the clock accordingly.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Ludlam, Sen Scott",AG,2015-06-16,"
 
 
@@ -2979,7 +3139,7 @@ Effectively, what we confirmed in the budget estimates hearing before last is th
 
 That is what housing-affordability crisis means. It is not in the real-estate pages, how much capital accumulation is, in investment properties, and how great it is that Tony Abbott's Sydney property has appreciated in value. Good on him. But homelessness kills people and it is time that we unkinked these extraordinary tax expenditures and levelled the playing field for first-home buyers and for the homeless in this country.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Canavan, Sen Matthew",Nats,2015-06-16,"
 
 
@@ -3050,7 +3210,7 @@ It is actually not clear that that change, certainly not in theory, is a change 
 
 Finally, one thing that goes unremarked in this place is something that I want to raise from this corner of the chamber—that is, if we are serious about looking for lower housing prices and more housing affordability, the one area we should be looking at is outside the city limits because there is an abundant supply of affordable housing and affordable land in our regional and remote areas. Indeed, house prices in regional Queensland, where I am from, tend to be about half what they are in our major cities—or even less than half if you are just looking at Sydney. What we can do in this chamber—we cannot release land, but we can create policies that drive growth and opportunities and jobs in those regional areas to attract people to those areas. We cannot force people, and I do not want to force people, to move to Townsville or Cairns or Mackay—although the standard of living in those places is much better than in Sydney, in my humble view—but we can encourage them by creating the jobs and the opportunities that will encourage them to move. That will do two things: it will reduce the demand for housing in our major cities and help relieve the price pressure there, and it will support construction and growth and development in our regional areas. This will improve housing affordability across the board. That is why one of the best solutions to our housing affordability problems is regional development. I believe that the Abbott-Truss government will soon release its Northern Australia white paper, which will try to supercharge development in those areas that I know are dear to Senator McLucas as well—like Cairns, Townsville, Mackay and Rockhampton—and that is one solution to our housing affordability issues.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "McLucas, Sen Jan",ALP,2015-06-16,"
 
 
@@ -3112,7 +3272,7 @@ Labor is different. Labor knows we have to do something about housing affordabil
 
 What the leader said today in this chamber was factually incorrect. ABC Fact Check will tell you that—I am sorry, but I will believe ABC Fact Check over any answer given to a question I ask in this chamber at any time. We know that first home buyers now make up around 14 per cent of all home purchases, which is well down on the historical average of 20 per cent. The median value of a Sydney property is now nearly 10 times median income in that city. By this measure, that makes Sydney the third most expensive city in the world to live in. Melbourne is not far behind, ranked sixth most expensive in the world with the median value of a property costing nearly nine times the median income in that city. So our leader has asked Chris Bowen and me to start a conversation. We had a round table earlier this year. We put out a discussion paper and we have had quite a number of considered responses to that discussion paper. Labor's next steps are to work together and work across a number of portfolios to develop our policy that will take us to the next election. The contrast could not be more stark: head in the sand, do not have the expertise, and do not want to talk about housing. Compare this to a party that is prepared to get in and do the job.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Whish-Wilson, Sen Peter",AG,2015-06-16,"
 
 
@@ -3132,7 +3292,7 @@ Meanwhile, around the country, we have a housing affordability crisis. We have a
 
 We need to have a serious debate in this place. That is why we were elected to parliament. We were elected to parliament to have open and frank debate—fearless debate—about something as important as tax reform in this country. I am proud to say that my party, the Greens, have lead on this issue and we, along with the Labor Party, look forward going to the next election with strong policies. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Sinodinos, Sen Arthur",LP,2015-06-16,"
 
 
@@ -3191,7 +3351,7 @@ In the case of capital gains tax, we also have to be careful at a time when peop
 
 What do we do about stamp duty? It is a major factor. How do you pay for things if you remove stamp duty? These are the issues. It is not just a matter of saying that certain concessions have to be removed and it is all very fine. What do we do about the balance, as I said before, between direct taxation and indirect taxation? My plea is to look at these issues in the context of more comprehensive tax reform and to isolate issues around affordability, particularly for certain social groups, like issues of social housing, and put them in the context of how we also marshal more private capital to provide social housing, as the Baird government in Sydney is seeking to do through opening up more land for housing, both private and social.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "O'Neill, Sen Deb",ALP,2015-06-16,"
 
 
@@ -3217,7 +3377,7 @@ Labor is proud of our record in government when it comes to housing policy. Labo
 
 What record does this government have to stand on? Already, in just 18 months, the National Housing Supply Council and the National Rental Affordability Scheme have been abolished. In addition, the First Home Saver Accounts scheme, set up under the Rudd government, providing assistance for saving, is about to be abolished—hardly actions that show any sympathy or understanding for young Australians struggling to purchase a home. They have constant thought bubbles and make disparaging comments that are an insult to the intelligence of young people who just want to get out there and create a home for themselves and their families. Joe Hockey says to use super to buy a home, and tells people to get a better job—that is what this government does. It is thought bubbles, it is platitudes, it is gentle conversation—all the while ripping away the vital investment that is part of building genuine affordable housing for Australians.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Day, Sen Bob",FFP,2015-06-16,"
 
 
@@ -3249,7 +3409,7 @@ This urban densification has been advanced on the back of a number of arguments:
 
 The answer to solve the housing affordability crisis is to increase supply of housing.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Cameron, Sen Doug",ALP,2015-06-16,"
 
 
@@ -3269,7 +3429,7 @@ This is a complex issue, and Senator Sinodinos has raised a number of the issues
 
 I disagree with the position that Senator Sinodinos adopts when he talks about Sydney's fringe. I have always lived on the so-called fringe of Sydney, because it is all that I have been able to afford. As a blue-collar worker and as a union official with my wages tied to the blue-collar workers that I represented, I could never afford to be in the Inner City or the Inner West; I was always in the Western Suburbs of Sydney. That fringe needs a number of things. It needs more employment, where we can build the jobs; it needs more employment, where the people live; it needs more public transport. These are all the issues that we need to deal with. To simply do what the government has done in cutting homeless services, getting rid of the National Rental Affordability Scheme, getting rid of housing help for seniors, getting rid of the first homeowners savings accounts, getting rid of the Prime Minister's Council on Homelessness—these are all negatives. We actually do need a position that is much more sophisticated than Senator Canavan's argument that, on the one hand, we cannot have big government and we must have small taxes and then, on the other hand, that we must supercharge development in the Northern Territory to fix our housing problem. How dumb, how dopey is that? I always thought there was a problem with having an economist as a member of the National Party. It just shows that you can be an economist as long as you are a bad one in the National Party. This is a real problem and there is no simple fix. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Xenophon, Sen Nick",Ind.,2015-06-16,"
 
 
@@ -3280,7 +3440,7 @@ Senator XENOPHON
 
 These are big issues and they need bipartisan support; they need all parties to work together. It is not just about the quarter-acre block, which is important; but some people do want to have inner-city living. Other issues that are fundamentally important include planning controls and urban design. We face a real issue in this country in having a generation of Australians who cannot afford to get into the housing market unless they are fortunate enough to have their parents support them. That is not a just outcome or a fair outcome. There is a whole range of issues that need to be dealt with. We do need to look at stamp duty; we do need to look at negative gearing but in a considered way. There should be some real scope for negative gearing to be altered so that there is a greater emphasis on affordable new rental accommodation—so that you still drive the housing market, because the housing industry is a key driver of jobs in this country. The housing industry needs to take up jobs growth as a result of the collapse of the mining boom and the collapse of manufacturing in this country. Above all, Australians need to have good, reliable jobs in order to afford a house in the first place. I can tell you, Mr Acting Deputy President, in South Australia and Victoria with the looming collapse in manufacturing jobs, that is a real problem that we must also address.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Housing Affordability</title>,MATTERS OF PUBLIC IMPORTANCE,15,1,speech
 "Bilyk, Sen Catryna",ALP,2015-06-16,"
 
 
@@ -3288,7 +3448,7 @@ These are big issues and they need bipartisan support; they need all parties to 
 Senator BILYK
  (Tasmania—Deputy Opposition Whip in the Senate) (17:32):  by leave—I present to the Senate a non-conforming petition, with 550 signatures, on child abuse.
 
-",Senate,<title>PETITIONS</title>,<title>Child Abuse</title>,PETITIONS,17,1
+",Senate,<title>PETITIONS</title>,<title>Child Abuse</title>,PETITIONS,17,1,speech
 "Bilyk, Sen Catryna",ALP,2015-06-16,"
 
 
@@ -3299,7 +3459,7 @@ Senator BILYK
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport Legislation Committee</title>,COMMITTEES,18,1
+",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport Legislation Committee</title>,COMMITTEES,18,1,speech
 "Bilyk, Sen Catryna",ALP,2015-06-16,"
 
 
@@ -3310,7 +3470,7 @@ Senator BILYK
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,18,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,18,2,speech
 "Smith, Sen Dean",LP,2015-06-16,"
 
 
@@ -3351,7 +3511,7 @@ The committee received a briefing and conducted hearings in Canberra. The commit
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,19,1
+",Senate,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,19,1,speech
 "Fifield, Sen Mitch",LP,2015-06-16,"
 
 
@@ -4212,7 +4372,7 @@ The Government notes that the Taskforce's Report on abuse in Defence was tabled 
 
 The Government has issued revised Terms of Reference to the Taskforce which require it to make a recommendation in relation to this matter by 30 June 2015.
 
-",Senate,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,19,1
+",Senate,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,19,1,speech
 "O'Sullivan, Sen Barry",Nats,2015-06-16,"
 
 
@@ -4223,7 +4383,7 @@ Senator O'SULLIVAN
 
 Ordered that the reports be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,19,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,19,2,speech
 "Fifield, Sen Mitch",LP,2015-06-16,"
 
 
@@ -4240,7 +4400,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,20,1,speech
 "Fifield, Sen Mitch",LP,2015-06-16,"
 
 
@@ -4508,7 +4668,7 @@ ______________
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,20,1
+",Senate,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,20,1,speech
 "Fifield, Sen Mitch",LP,2015-06-16,"
 
 
@@ -4525,7 +4685,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,20,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,20,2,speech
 "DEPUTY PRESIDENT, The",,2015-06-16,"
 
 
@@ -4533,7 +4693,7 @@ Bill read a first time.
 The DEPUTY PRESIDENT
  (18:08):  The President has received a message from the House of Representatives informing the Senate of the appointment of Mr Ruddock to the Parliamentary Joint Com ittee on Corporations and Financial Services in place of Mr Coleman.
 
-",Senate,<title>COMMITTEES</title>,<title>Corporations and Financial Services Committee</title>,COMMITTEES,21,1
+",Senate,<title>COMMITTEES</title>,<title>Corporations and Financial Services Committee</title>,COMMITTEES,21,1,speech
 "DEPUTY PRESIDENT, The",,2015-06-16,"
 
 
@@ -4541,7 +4701,7 @@ The DEPUTY PRESIDENT
 The DEPUTY PRESIDENT
  (18:08):  The President has received a message from the House of Representatives informing the Senate of the appointment of Mr Ruddock to the Parliamentary Joint Com ittee on Corporations and Financial Services in place of Mr Coleman.
 
-",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,21,2
+",Senate,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,21,2,speech
 "Fifield, Sen Mitch",LP,2015-06-16,"
 
 
@@ -4558,7 +4718,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Business Services Wage Assessment Tool Payment Scheme Bill 2014</title>,BILLS,22,1
+",Senate,<title>BILLS</title>,<title>Business Services Wage Assessment Tool Payment Scheme Bill 2014</title>,BILLS,22,1,speech
 "Rice, Sen Janet",AG,2015-06-16,"
 
 
@@ -4584,7 +4744,7 @@ It is absolutely clear on the evidence that is currently being heard by the inqu
 
 So, given this context, we believe there is no justification whatsoever for removing whole classes of employment from current levels of scrutiny. We want to disallow the minister's decision to lower the thresholds for market salary rate assessment.
 
-",Senate,<title>MOTIONS</title>,<title>Disallowance of Instrument</title>,MOTIONS,23,1
+",Senate,<title>MOTIONS</title>,<title>Disallowance of Instrument</title>,MOTIONS,23,1,speech
 "Lambie, Sen Jacqui",Ind.,2015-06-16,"
 
 
@@ -4607,7 +4767,7 @@ One area where this has the potential to have adverse consequences for Australia
 
 In closing, I again urge senators to support the disallowance motion because they will be voting to protect Australian workers' jobs. I, again, remind senators that by supporting this disallowance motion they can send a very clear message to the Liberals and the Nationals in this place, who have betrayed Australian workers at every opportunity, including those in the oil and gas industry, by making it easier to replace them with overseas workers. We will not put up with the sneaky, sly and politically motivated attack by the Liberals and Nationals on the wages and conditions of hardworking Australians.
 
-",Senate,<title>MOTIONS</title>,<title>Disallowance of Instrument</title>,MOTIONS,23,1
+",Senate,<title>MOTIONS</title>,<title>Disallowance of Instrument</title>,MOTIONS,23,1,speech
 "Cameron, Sen Doug",ALP,2015-06-16,"
 
 
@@ -4654,7 +4814,7 @@ It will be interesting to see what happens with this China free-trade agreement,
 
 Brown paper bags in the front seats cars and massive support at election time should not be used to reduce the wages and conditions of workers in this country. It is an absolute outrage and the Senate should stand firm and stand up for the workers of this country against the Liberal Party, against the National Party and against their mates who fund their election campaigns.
 
-",Senate,<title>MOTIONS</title>,<title>Disallowance of Instrument</title>,MOTIONS,23,1
+",Senate,<title>MOTIONS</title>,<title>Disallowance of Instrument</title>,MOTIONS,23,1,speech
 "Cash, Sen Michaelia",LP,2015-06-16,"
 
 
@@ -4727,7 +4887,7 @@ Although this disallowance moved for selective interests at the behest of certai
 
 The DEPUTY PRESIDENT:  As there are no other senators seeking the call, Senator Rice, you do have the right of reply, if you wish to take up that opportunity.
 
-",Senate,<title>MOTIONS</title>,<title>Disallowance of Instrument</title>,MOTIONS,23,1
+",Senate,<title>MOTIONS</title>,<title>Disallowance of Instrument</title>,MOTIONS,23,1,speech
 "Rice, Sen Janet",AG,2015-06-16,"
 
 
@@ -4757,7 +4917,7 @@ The PRESIDENT:  The question is that the disallowance motion moved by Senator Ri
 
  
 
-",Senate,<title>MOTIONS</title>,<title>Disallowance of Instrument</title>,MOTIONS,23,1
+",Senate,<title>MOTIONS</title>,<title>Disallowance of Instrument</title>,MOTIONS,23,1,speech
 "Canavan, Sen Matthew",Nats,2015-06-16,"
 
 
@@ -4822,7 +4982,7 @@ SBS at the moment is not a mainstream broadcaster. It is a niche broadcaster, by
 
 Debate interrupted. 
 
-",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Communications Legislation Amendment (SBS Advertising Flexibility and Other Measures) Bill 2015</title>,BILLS,24,1,speech
 "Canavan, Sen Matthew",Nats,2015-06-16,"
 
 
@@ -4887,7 +5047,7 @@ SBS at the moment is not a mainstream broadcaster. It is a niche broadcaster, by
 
 Debate interrupted. 
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Peris, Sen Nova",ALP,2015-06-16,"
 
 
@@ -4916,4 +5076,4 @@ It is important that we not only remember our military history but that we also 
 
 I am proud that territorians have played a key leadership role in the effort to bring the 25 Vietnam veterans home, and I am proud of our unique and close relationship with our defence and veterans communities, forged in times of war and peace. Territorians have volunteered for service in every conflict. They represent us and make us proud. Territorians today are serving in faraway lands and they are always in our thoughts and prayers. For those we have lost, we will remember them. We will pay our respects. Lest we forget.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Bring Them Home Campaign</title>,ADJOURNMENT,25,1
+",Senate,<title>ADJOURNMENT</title>,<title>Bring Them Home Campaign</title>,ADJOURNMENT,25,1,speech

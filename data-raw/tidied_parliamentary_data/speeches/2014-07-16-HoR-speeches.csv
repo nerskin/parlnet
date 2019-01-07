@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Bishop, Bronwyn, MP",LP,2014-07-16,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER
  (09:03):  I have received a message from the Senate informing the House that Senator O'Neill has been appointed a member of the Parliamentary Joint Committee on Corporations and Financial Services.
 
-",HoR,<title>COMMITTEES</title>,<title>Corporations and Financial Services Committee</title>,COMMITTEES,0,1
+",HoR,<title>COMMITTEES</title>,<title>Corporations and Financial Services Committee</title>,COMMITTEES,0,1,speech
 "Bishop, Bronwyn, MP",LP,2014-07-16,"
 
 
@@ -14,7 +14,7 @@ The SPEAKER
 The SPEAKER
  (09:03):  I have received a message from the Senate informing the House that Senator O'Neill has been appointed a member of the Parliamentary Joint Committee on Corporations and Financial Services.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,0,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,0,2,speech
 "Hockey, Joe, MP",LP,2014-07-16,"
 
 
@@ -199,7 +199,7 @@ So I would say to the Labor Party, to the Greens, to the Palmer United Party and
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Labor 2013-14 Budget Savings (Measures No. 1) Bill 2014</title>,BILLS,1,1,speech
 "McCormack, Michael, MP",Nats,2014-07-16,"
 
 
@@ -222,7 +222,7 @@ The project is valued at around $1.477 billion, excluding GST. This investment w
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,2,1,speech
 "McCormack, Michael, MP",Nats,2014-07-16,"
 
 
@@ -245,7 +245,7 @@ The project is valued at around $1.477 billion, excluding GST. This investment w
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,2,2
+",HoR,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,2,2,speech
 "Robert, Stuart, MP",LP,2014-07-16,"
 
 
@@ -409,7 +409,7 @@ protects the safety of all users in the Woomera Prohibited Area and to ensure th
 
 I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,4,1,speech
 "Feeney, David, MP",ALP,2014-07-16,"
 
 
@@ -477,7 +477,7 @@ Debate adjourned.
 
 Leave granted for second reading debate to resume at a later hour this day.
 
-",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,4,1,speech
 "Ruddock, Philip, MP",LP,2014-07-16,"
 
 
@@ -485,7 +485,7 @@ Leave granted for second reading debate to resume at a later hour this day.
 Mr RUDDOCK
  (Berowra—Chief Government Whip) (10:23):  I declare that the Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014 is referred to the Federation Chamber for further consideration forthwith.
 
-",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,4,1,speech
 "Robert, Stuart, MP",LP,2014-07-16,"
 
 
@@ -649,7 +649,7 @@ protects the safety of all users in the Woomera Prohibited Area and to ensure th
 
 I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Feeney, David, MP",ALP,2014-07-16,"
 
 
@@ -717,7 +717,7 @@ Debate adjourned.
 
 Leave granted for second reading debate to resume at a later hour this day.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Vamvakinou, Maria, MP",ALP,2014-07-16,"
 
 
@@ -731,7 +731,7 @@ The Parliamentary Friends of Palestine hosted a forum yesterday commemorating th
 
 We as a parliament should all be very concerned about this situation. I also believe that we as a parliament should be speaking up and voicing our concern about a situation in the Middle East that could have tragic and dire consequences if it does not come to some sort of end.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Middle East</title>,STATEMENTS BY MEMBERS,5,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Middle East</title>,STATEMENTS BY MEMBERS,5,1,speech
 "Bishop, Bronwyn, MP",LP,2014-07-16,"
 
 
@@ -739,7 +739,288 @@ We as a parliament should all be very concerned about this situation. I also bel
 The SPEAKER
  (14:00):  Before we go to questions without notice, I wish to inform the House that I have arranged for condolence sheets to be made available so that members will be able to signify their respects to the memory of his Excellency the Hon. Peter Underwood AC, former Governor of Tasmania, 2008 to 2014. The sheets will be available in the foyer of my office and will remain there today and tomorrow. I invite honourable members to sign the sheets at a time convenient to them.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,"<title>Underwood, His Excellency the Hon. Peter George, AC</title>",STATEMENT BY THE SPEAKER,6,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,"<title>Underwood, His Excellency the Hon. Peter George, AC</title>",STATEMENT BY THE SPEAKER,6,1,speech
+"Shorten, Bill, MP",ALP,2014-07-16,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:00):  My question is to the Prime Minister. On 20 May and many times since the Prime Minister has said about his budget, 'There is no alternative.' But the Treasurer said this morning, 'There are other alternatives that we can take.' The Australian people want to know who is running the country. Is it the Prime Minister, is it the Treasurer or is it the absent Clive Palmer?
+
+
+
+Honourable members interjecting—
+
+
+
+The SPEAKER:  I call the honourable Prime Minister, and we will have some silence on both sides of the chamber.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Abbott, Tony, MP",LP,2014-07-16,"
+
+
+
+Mr ABBOTT
+ (Warringah—Prime Minister) (14:01):  We must deal with Labor's debt and deficit disaster. It is as simple as that. We must deal with Labor's debt and deficit disaster. When members opposite were in government they gave us the six biggest deficits in Australia's history. They gave us debt and deficit stretching out as far as the eye can see—$123 billion in prospective deficits over four years, debt peaking at $667 billion.
+
+
+
+
+Ms Plibersek:
+  Why did you double the deficit? 
+
+
+
+The SPEAKER:  The deputy leader will desist.
+
+
+
+
+Mr ABBOTT:
+  As a result of this budget we get back to balance within four years and we reduce Labor's peak debt by almost $300 billion.
+
+
+
+
+Mr Burke:
+  You doubled the deficit.
+
+
+
+The SPEAKER:  The member for Watson will be outside the chamber if he does not desist.
+
+
+
+
+Mr ABBOTT:
+  Members opposite could come up with an alternative, but of course they do not. The problem with members opposite—
+
+
+
+Ms Butler interjecting—
+
+
+
+The SPEAKER:  The member for Griffith seems to be a slow learner. She will desist.
+
+
+
+
+Mr ABBOTT:
+  is that they were incompetent in government and irresponsible in opposition. The one thing about this Labor Party is that they were wreckers in government and now they are trying to wreck government, and this is why it is so important that the budget be supported.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Plibersek, Tanya, MP",ALP,2014-07-16,"
+
+
+
+Ms PLIBERSEK
+ (Sydney—Deputy Leader of the Opposition) (14:24):  I wish you a very happy 100th birthday. My question is to the Prime Minister. The Prime Minister's budget is ripping away $6,000 a year from an Australian family. Now the Treasurer has confirmed that the government is looking at further cuts. Can the Prime Minister guarantee that he will not completely scrap family tax benefit part B as recommended by the Commission of Audit?
+
+
+
+Mr Shorten interjecting—
+
+
+
+The SPEAKER:  The Leader of the Opposition will withdraw that remark.
+
+
+
+
+Mr Shorten:
+  Certainly. I withdraw.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"Abbott, Tony, MP",LP,2014-07-16,"
+
+
+
+Mr ABBOTT
+ (Warringah—Prime Minister) (14:24):  I can guarantee to the Deputy Leader of the Opposition that this government will tackle Labor's debt and deficit disaster. We were left with a legacy of debt projected to reach $667 billion on top of the six biggest deficits in our history from six Labor budgets.
+
+
+
+Ms Owens interjecting—
+
+
+
+The SPEAKER:  The member for Parramatta will desist.
+
+
+
+
+Mr ABBOTT:
+  We were left with a legacy of four further deficits, totalling $123 billion.
+
+
+
+
+Mr Burke:
+  Madam Speaker, a point of order on direct relevance: this question goes to the abolition of family tax benefit part B. The Prime Minister can rule it in or out to be relevant.
+
+
+
+The SPEAKER:  It was a wide-ranging question, I remind the Manager of Opposition Business.
+
+
+
+
+Mr ABBOTT:
+  The difficulty that this government is wrestling with is that it inherited the worst fiscal legacy in our history, thanks to members opposite, thanks to the government in which the Leader of the Opposition was  a very senior member. He was the king maker and king breaker, the queen maker and queen breaker, in the former government. Thanks to the work of that government, we were headed for 10 consecutive budget deficits. And never before in Australia's history have there been 10 consecutive budget deficits. Even recovering from the depths of the 1990-91 recession—
+
+
+
+Ms Owens interjecting—
+
+
+
+The SPEAKER:  The member for Parramatta will desist.
+
+
+
+
+Mr ABBOTT:
+  we had only seven consecutive budget deficits. So, members opposite, when they were in government, gave us the six worst budget deficits in history and projected another four budget deficits—debt and deficit stretching out as far as the eye can see. And they did this to us at a time of continued economic growth, with the biggest terms of trade in our history. That is a sign of the irresponsibility of members opposite when it comes to money and fiscal policy. They gave us the worst fiscal position in our history at a time of the best terms of trade in our history. So, there is a very clear lesson here: you just cannot trust the Labor Party with the economy of our country.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
+"Marles, Richard, MP",ALP,2014-07-16,"
+
+
+
+Mr MARLES
+ (Corio) (14:37):  My question is to the Minister for Immigration and Border Protection. I refer the minister to the Australian Customs vessel currently carrying 153 asylum seekers and the answer that he gave yesterday about that vessel, in which he spoke of the men and women who serve as part of the Australian Navy under Border Protection Command. Can the minister please inform the House what role the Australian Navy are playing in relation to this Australian Customs vessel? 
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Morrison, Scott, MP",LP,2014-07-16,"
+
+
+
+Mr MORRISON
+ (Cook—Minister for Immigration and Border Protection) (14:38):  It is a big week for the member for Corio: two questions in two days. It took him 200 days to get here, but I welcome him back to the parliament. It is nice to see you here. 
+
+
+On this matter, as the member opposite would know, the Australian Navy, with the Australian Customs and Border Protection Service, forms part of Border Protection Command. The comments I made yesterday were of a general nature and relating to the performance of those men and women who serve in the Australian Customs and Border Protection Service and the Royal Australian Navy. Members opposite should be aware of those things. I am not surprised that the member for Corio needs to come up to speed on this. 
+
+
+I can assure the member of this: any person who is in the care and protection of the Australian Customs and Border Protection Service will be in good care, and they are in good care, because I have great faith in the men and women of the Australian Customs and Border Protection Service as I have great faith in the men and women of the Australian Navy—
+
+
+
+
+Mr Marles:
+  Madam Speaker, I raise a point of order.
+
+
+
+
+Mr MORRISON:
+  I am answering your question.
+
+
+
+
+Mr Marles:
+  The point of order is relevance. The question is: what role are the Navy playing in relation to this—
+
+
+
+The SPEAKER:  The member will resume his seat. I have reminded members before that it is not acceptable, when raising the question of relevance, to simply repeat the question. I call the honourable minister. 
+
+
+
+
+Mr MORRISON:
+  I again refer the member to my earlier comments on this matter. In this very answer I have outlined the role of the Australian Navy and Customs and Border Protection Service and how they are involved in Border Protection Command. I have no intention in this place of going beyond the statements that have been made to the court—and these matters are before the court. I will not be doing that. I am surprised that those opposite would be puzzled or would need affirmation that any person who was in the care of the Australian Customs and Border Protection Service would not be well dealt with.
+
+
+
+Mr Dreyfus interjecting—
+
+
+
+The SPEAKER:  The member for Isaacs will desist.
+
+
+
+
+Mr MORRISON:
+  No, I am not surprised, because in the other place one of the Labor senators, Senator Conroy, felt fit to attack Lieutenant General Angus Campbell. They felt fit to try and give oxygen to the most outrageous claims I can recall that were levelled against the Australian Navy in the burnt hands fiasco, which they were embarrassed to have to walk away from as they stood aside those allegations. Here is last year's failure!
+
+
+
+
+Mr Burke:
+  Madam Speaker, I raise a point of order. I refer to page 516 of House of Representatives Practice and the specific objection for putting words in someone else's mouth. The minister has made an allegation about the question that bears no relation to the question that was asked.
+
+
+
+The SPEAKER:  There is no point of order.
+
+
+
+
+Mr MORRISON:
+  I am not surprised the Manager of Opposition Business would be sensitively coming to the dispatch box. I remind the House that last July, when he was minister, 4,338 people turned up on 48 illegal boats on his watch. It was the worst record of any immigration minister on our borders in our history. That is your record. The record of the member for McMahon, who sits opposite, is almost 25,000 arrivals on his watch. What a failure! What a hopeless failure! Here he comes again, last year's failure.
+
+
+
+Opposition members interjecting—
+
+
+
+The SPEAKER:  There will be silence on my left so I can hear what the Manager of Opposition Business has to say.
+
+
+
+
+Mr Burke:
+  Madam Speaker, I raise a point of order. There are many questions with preambles, tags and politics attached. This was very specific.
+
+
+
+The SPEAKER:  You have already raised the question of relevance once and you know that it can only be raised once per question. The minister has the call.
+
+
+
+
+Mr MORRISON:
+  The record of those opposite, when it comes to border protection, shows they are a field of dandelions—
+
+
+
+
+Mr Dreyfus interjecting
+—
+
+
+
+
+The SPEAKER:  The member for Isaacs will desist.
+
+
+
+
+Mr MORRISON:
+  so easily blown away by the slightest breeze. They are a swarm of jellyfish. You would not be able to find a backbone amongst any of them, whether it is the member for McMahon, the member for Watson, the member for Gorton or the member for Corio. What a bunch of jellyfish you are!
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Asylum Seekers</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
+"Rowland, Michelle, MP",ALP,2014-07-16,"
+
+
+
+Ms ROWLAND
+ (Greenway) (15:11):  In accordance with standing order 105(b), I ask that you write to the Minister for Communications, seeking reasons for the delay in answering a question in writing. The relevant question appears as No. 136 on the Notice Paper.
+
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,<title>Questions in Writing</title>,QUESTIONS TO THE SPEAKER,12,1,question
+"Bishop, Bronwyn, MP",LP,2014-07-16,"
+
+
+
+The SPEAKER
+ (15:11):  Under standing order 105(b), I will take the appropriate action.
+
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,<title>Questions in Writing</title>,QUESTIONS TO THE SPEAKER,12,1,answer
 "Baldwin, Bob, MP",LP,2014-07-16,"
 
 
@@ -756,7 +1037,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Corporations Amendment (Simple Corporate Bonds and Other Measures) Bill 2014</title>,BILLS,15,1
+",HoR,<title>BILLS</title>,<title>Corporations Amendment (Simple Corporate Bonds and Other Measures) Bill 2014</title>,BILLS,15,1,speech
 "Thistlethwaite, Matt, MP",ALP,2014-07-16,"
 
 
@@ -788,7 +1069,7 @@ These are principles that not only still exist today but have also been recognis
 
 I pay tribute to the Aboriginal people of our community whose ancestors have called our area their home for thousands of years, whose language has given us our cherished suburb names and whose heritage and customs we respect. You deserve more from our nation's Prime Minister.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Indigenous Affairs</title>,ADJOURNMENT,16,1
+",HoR,<title>ADJOURNMENT</title>,<title>Indigenous Affairs</title>,ADJOURNMENT,16,1,speech
 "Ellis, Kate, MP",ALP,2014-07-16,"
 
 
@@ -805,7 +1086,7 @@ Last year a team made up of three year 8 and four year 9 students from the gifte
 
 I would like to thank principal, Sandy Richardson, and deputy principal, Karen Fitzpatrick, for hosting Bill Shorten, myself and Tony Zappia. I note the added challenges I gave them by having a freshly broken leg at the time and hobbling around on crutches and I thank them for their kindness. But even more so, I thank them for the incredible job that they are doing educating the students of our Adelaide community. These results speak of their dedication and their passion. They should be congratulated, and I wish them all the very best for continued success into the future.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Adelaide Electorate: Roma Mitchell Secondary College</title>,CONSTITUENCY STATEMENTS,18,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Adelaide Electorate: Roma Mitchell Secondary College</title>,CONSTITUENCY STATEMENTS,18,1,speech
 "Snowdon, Warren, MP",ALP,2014-07-16,"
 
 
@@ -840,7 +1121,7 @@ Lance Corporal Chidgey was awarded: Australian Active Service Medal with Clasp I
 
 I think it is worth reflecting that as we approach the centenary of Anzac, we are now paying homage, giving our respect to and saying goodbye to another man who will join the great pantheon of those who have been lost to us while serving overseas proudly wearing an Australian uniform in the cause of peace and justice and in the knowledge that they are fighting to safeguard our national security. Todd, you have now returned to us from active service. We thank you for your service. Rest in peace.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Chidgey, Lance Corporal Todd</title>",CONDOLENCES,19,1
+",HoR,<title>CONDOLENCES</title>,"<title>Chidgey, Lance Corporal Todd</title>",CONDOLENCES,19,1,speech
 "Wicks, Lucy, MP",LP,2014-07-16,"
 
 
@@ -860,7 +1141,7 @@ We have indeed lost one of our finest. In the words of Special Operations Comman
 
 Twenty-nine-year-old Lance Corporal Chidgey was born in Gosford. The funeral took place yesterday on the Central Coast. I understand there were around 450 mourners in attendance, including the Prime Minister, Tony Abbott, and the Leader of the Opposition, Bill Shorten. These moments remind us all of the great bravery, courage and dedication of the men and women of the Australian Defence Force. All operational deaths are a tragedy. Today my deepest condolences are extended to Lance Corporal Chidgey's family, friends and fellow soldiers at this very difficult time. His colleagues in Afghanistan are also in my thoughts. Their contribution to peace and to our national security will forever be remembered. May he rest in peace.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Chidgey, Lance Corporal Todd</title>",CONDOLENCES,19,1
+",HoR,<title>CONDOLENCES</title>,"<title>Chidgey, Lance Corporal Todd</title>",CONDOLENCES,19,1,speech
 "Brodtmann, Gai, MP",ALP,2014-07-16,"
 
 
@@ -886,7 +1167,7 @@ It is the nature of commandos that aspects of their work, their actions and ofte
 
 Lance Corporal Chidgey's family have said that they will remember Todd as the consummate gentleman, a son and a brother who was well mannered, who was loyal and always there for his family. They have said he never forgot a birthday and he was extremely generous. If you were his friend, he would stick by you. He was a champion of the underdog. My deepest sympathies and respect go to Lance Corporal Todd Chidgey's mother, his father, his brothers, his partner, his extended family and friends and his fellow commandos. Australia will never forget his sacrifice. May he rest in peace.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Chidgey, Lance Corporal Todd</title>",CONDOLENCES,19,1
+",HoR,<title>CONDOLENCES</title>,"<title>Chidgey, Lance Corporal Todd</title>",CONDOLENCES,19,1,speech
 "Robert, Stuart, MP",LP,2014-07-16,"
 
 
@@ -909,7 +1190,7 @@ In terms of his service, Todd was awarded: the Australian Active Service Medal w
 
 He, and others like him, are ordinary men and ordinary women, but they rise to meet face on the extraordinary danger our nation puts them in and they rise to meet the challenge. They are ordinary men and women rising to do extraordinary things. This House will never forget that they have mothers and fathers, brothers and sisters, sons and daughters. They voluntarily leave the safety and comfort of their homes to serve on our behalf, to fight tyranny, to ensure justice and to fulfil a long-held dream of citizens of the world that a promise of safety and security is not abstract but can be tangibly real. I am sure I speak for many in this place, and so many who are within its wider walls outside of our parliamentary colleagues, when I say we are immensely proud of this young digger, Lance Corporal Chidgey. We thank his family for their sacrifice of a son and their sacrifice of a brother. Lance Corporal Chidgey died in the service of his country—be under no doubt of that. With six tours in eight years, that man knew what it meant to serve. He will be remembered as much for being a servant of our nation as a warrior for the cause of peace. We will remember him.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Chidgey, Lance Corporal Todd</title>",CONDOLENCES,19,1
+",HoR,<title>CONDOLENCES</title>,"<title>Chidgey, Lance Corporal Todd</title>",CONDOLENCES,19,1,speech
 "Kelly, Craig, MP",LP,2014-07-16,"
 
 
@@ -923,7 +1204,7 @@ Lance Corporal Chidgey lived a life dedicated to serving our nation with distinc
 
 When the final soldier departs Afghanistan we should look back at what we have achieved, and I believe the greatest achievement concerns the education of young girls. We know that in 2001 there were only one million children in Afghanistan in school, and almost none of them were girls. We know today there are over three million young girls receiving an education in Afghanistan. This not only brings benefits to those people individually; that education benefits Afghanistan's society. What those kids get from being educated will be passed on for years and years down the track. That is perhaps our greatest achievement—something we all should be proud of, just as we should be proud of the sacrifice of Lance Corporal Todd Chidgey.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Chidgey, Lance Corporal Todd</title>",CONDOLENCES,19,1
+",HoR,<title>CONDOLENCES</title>,"<title>Chidgey, Lance Corporal Todd</title>",CONDOLENCES,19,1,speech
 "Prentice, Jane, MP",LP,2014-07-16,"
 
 
@@ -943,7 +1224,7 @@ Chidgey had dedicated his life to serving Australia, and was described by his co
 
 Those who risk their lives for our nation deserve a special mention in our history books. Our greatest sympathies must go to those families who lose their loved ones to war. Lance Corporal Todd Chidgey will always be remembered and our thoughts and prayers are with his family and friends. Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Chidgey, Lance Corporal Todd</title>",CONDOLENCES,19,1
+",HoR,<title>CONDOLENCES</title>,"<title>Chidgey, Lance Corporal Todd</title>",CONDOLENCES,19,1,speech
 "Jones, Ewen, MP",LP,2014-07-16,"
 
 
@@ -960,7 +1241,7 @@ I would like to assure his family that his child will be looked after by Legacy.
 
 My condolences go to Lance Corporal Todd Chidgey's family. To all who serve: those of us in this place have seen the worst of it but we have also seen and heard the best of it. I have a nephew who has just signed up to join the Army. He is doing it with great pride and he is looking forward to it. I think to serve your nation is a great role. But we have lost one of our best. To Lance Corporal Todd Chidgey: you will not be forgotten. You will always be revered. You will have a place in our hearts forever. And to his family, again, my personal condolences and those of everyone in this House. May he rest in peace. Lest we forget.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Chidgey, Lance Corporal Todd</title>",CONDOLENCES,19,1
+",HoR,<title>CONDOLENCES</title>,"<title>Chidgey, Lance Corporal Todd</title>",CONDOLENCES,19,1,speech
 "McCormack, Michael, MP",Nats,2014-07-16,"
 
 
@@ -1032,7 +1313,7 @@ to
 10:39
 
 
-",HoR,<title>CONDOLENCES</title>,"<title>Chidgey, Lance Corporal Todd</title>",CONDOLENCES,19,1
+",HoR,<title>CONDOLENCES</title>,"<title>Chidgey, Lance Corporal Todd</title>",CONDOLENCES,19,1,speech
 "Snowdon, Warren, MP",ALP,2014-07-16,"
 
 
@@ -1067,7 +1348,7 @@ I note that the shadow minister and his contribution in the main chamber talked 
 
 That is all well and good and I hope that they are able to develop some of those resources and are able to get the value out of them. But I just want to re-emphasise the importance of this place for science and as a property to use for the development of new ways of doing business. I want to commend the work that is being done there on a continuing basis by the Defence Science and Technology Organisation. The work they do is so vital for our national interest but goes below the radar, if I might put it like that in this context. It is often and mostly unrecognised by the general community but vital to developing our national defence capacity and looking after our national security interests. This gives me an opportunity to say to those wonderful people at the Defence Science and Technology Organisation how much we value your work, how much we know that you do on our behalf through dint of your brains and by working collaboratively with people from other nations in developing new ways of doing business, exploiting new technologies and using Woomera as an integral part of that space for testing, for demonstrations and the like. I could speak on this for a long time; I know it would bore many. It does not bore me—though perhaps I could put myself to sleep, and people say I often should. Nevertheless, I do want to applaud the government for bringing forward this legislation and putting it through the parliament. It is an important piece of legislation, but I do want to make sure that we emphasise the vital national interests that we have in this Woomera Prohibited Area.
 
-",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,20,1,speech
 "Nikolic, Andrew, MP",LP,2014-07-16,"
 
 
@@ -1108,7 +1389,7 @@ Finally, when the issue of compensation is concerned under proposed section 72TK
 
 To conclude, Woomera is, and will remain, an important location that is unique in Australia—not least because of its long-standing contribution to national and regional security and stability—but Woomera is increasingly under threat of overuse by competing interest groups. This amendment bill seeks to make such access and use—and the rules, regulations and policy which underpin it—in equal parts fair, transparent and clear. Doing so will make a strong contribution to deconflicting the future use of Woomera, and make the conduct of diverse activities there inherently more productive, efficient and, above all, safe for all parties and stakeholders. On this note, I commend the Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014 to this chamber.
 
-",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,20,1,speech
 "Brodtmann, Gai, MP",ALP,2014-07-16,"
 
 
@@ -1149,7 +1430,7 @@ I also want to acknowledge that there have been many parties involved in the dev
 
 This bill is an example of how state and federal governments and opposition can work together to achieve a result. It is also a bill that demonstrates that Defence can work with other groups—with farmers, with traditional owners, with resources developers—while looking after our national interests, and I commend the bill to the chamber.
 
-",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,20,1,speech
 "Randall, Don, MP",LP,2014-07-16,"
 
 
@@ -1197,7 +1478,7 @@ As I said before the member for Grey came in and I will say it again, because th
 
 The DEPUTY SPEAKER:  I was going to add to the member for Canning that my parents met in Woomera. My grandfather was in the Army and my father was there working at Maralinga.
 
-",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,20,1,speech
 "Gray, Gary, MP",ALP,2014-07-16,"
 
 
@@ -1230,7 +1511,7 @@ It is highly likely that the minerals that will be discovered in this area will 
 
 I will conclude by making one final point. All Australians were disappointed in 2012 when BHP announced that it would not be progressing with its then scheduled expansion of Roxby Downs. It was argued at the time that the overheated construction economy and the Japanese response to Fukushima had reduced the spot price of uranium to very low levels—and the uranium price today is less than half of what it was in those days of 2012. The reasons that were given were the high cap ex, the decisions in Japan on nuclear fuels demand and the overheated resource economy. It is our fervent hope that, at a time when the resources construction economy has substantially cooled, it will be possible to seek an expansion of Roxby Downs, further extraction of copper and uranium ores, further employment and further wealth creation. The Woomera Prohibited Area, the WPA, being brought into the exploration environment is a good thing for South Australia and a good thing for our nation. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,20,1,speech
 "Ramsey, Rowan, MP",LP,2014-07-16,"
 
 
@@ -1256,7 +1537,7 @@ The review sets up three different areas, which I think is a civilised and respo
 
 The opening up of the Woomera area actually feeds into that greater possibility for South Australia. As I said right at opening, it is difficult to see where South Australia is going to expand its economy if it is not going to come from the resources sector. Certainly we will continue to grow our aquaculture and agricultural sectors and we will learn to make more money out of what we already do. In fact, we will be able to downstream process and further add value to our agricultural products, but there is no doubt that the resources sector will play a very important part in South Australia's future. It is my belief the Woomera Prohibited Area will play a very important part within that.
 
-",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,20,1,speech
 "Robert, Stuart, MP",LP,2014-07-16,"
 
 
@@ -1282,7 +1563,7 @@ Bill read a second time.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014</title>,BILLS,20,1,speech
 "Snowdon, Warren, MP",ALP,2014-07-16,"
 
 
@@ -1317,7 +1598,7 @@ I note that the shadow minister and his contribution in the main chamber talked 
 
 That is all well and good and I hope that they are able to develop some of those resources and are able to get the value out of them. But I just want to re-emphasise the importance of this place for science and as a property to use for the development of new ways of doing business. I want to commend the work that is being done there on a continuing basis by the Defence Science and Technology Organisation. The work they do is so vital for our national interest but goes below the radar, if I might put it like that in this context. It is often and mostly unrecognised by the general community but vital to developing our national defence capacity and looking after our national security interests. This gives me an opportunity to say to those wonderful people at the Defence Science and Technology Organisation how much we value your work, how much we know that you do on our behalf through dint of your brains and by working collaboratively with people from other nations in developing new ways of doing business, exploiting new technologies and using Woomera as an integral part of that space for testing, for demonstrations and the like. I could speak on this for a long time; I know it would bore many. It does not bore me—though perhaps I could put myself to sleep, and people say I often should. Nevertheless, I do want to applaud the government for bringing forward this legislation and putting it through the parliament. It is an important piece of legislation, but I do want to make sure that we emphasise the vital national interests that we have in this Woomera Prohibited Area.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Nikolic, Andrew, MP",LP,2014-07-16,"
 
 
@@ -1358,7 +1639,7 @@ Finally, when the issue of compensation is concerned under proposed section 72TK
 
 To conclude, Woomera is, and will remain, an important location that is unique in Australia—not least because of its long-standing contribution to national and regional security and stability—but Woomera is increasingly under threat of overuse by competing interest groups. This amendment bill seeks to make such access and use—and the rules, regulations and policy which underpin it—in equal parts fair, transparent and clear. Doing so will make a strong contribution to deconflicting the future use of Woomera, and make the conduct of diverse activities there inherently more productive, efficient and, above all, safe for all parties and stakeholders. On this note, I commend the Defence Legislation Amendment (Woomera Prohibited Area) Bill 2014 to this chamber.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Brodtmann, Gai, MP",ALP,2014-07-16,"
 
 
@@ -1399,7 +1680,7 @@ I also want to acknowledge that there have been many parties involved in the dev
 
 This bill is an example of how state and federal governments and opposition can work together to achieve a result. It is also a bill that demonstrates that Defence can work with other groups—with farmers, with traditional owners, with resources developers—while looking after our national interests, and I commend the bill to the chamber.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Randall, Don, MP",LP,2014-07-16,"
 
 
@@ -1447,7 +1728,7 @@ As I said before the member for Grey came in and I will say it again, because th
 
 The DEPUTY SPEAKER:  I was going to add to the member for Canning that my parents met in Woomera. My grandfather was in the Army and my father was there working at Maralinga.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Gray, Gary, MP",ALP,2014-07-16,"
 
 
@@ -1480,7 +1761,7 @@ It is highly likely that the minerals that will be discovered in this area will 
 
 I will conclude by making one final point. All Australians were disappointed in 2012 when BHP announced that it would not be progressing with its then scheduled expansion of Roxby Downs. It was argued at the time that the overheated construction economy and the Japanese response to Fukushima had reduced the spot price of uranium to very low levels—and the uranium price today is less than half of what it was in those days of 2012. The reasons that were given were the high cap ex, the decisions in Japan on nuclear fuels demand and the overheated resource economy. It is our fervent hope that, at a time when the resources construction economy has substantially cooled, it will be possible to seek an expansion of Roxby Downs, further extraction of copper and uranium ores, further employment and further wealth creation. The Woomera Prohibited Area, the WPA, being brought into the exploration environment is a good thing for South Australia and a good thing for our nation. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Ramsey, Rowan, MP",LP,2014-07-16,"
 
 
@@ -1506,7 +1787,7 @@ The review sets up three different areas, which I think is a civilised and respo
 
 The opening up of the Woomera area actually feeds into that greater possibility for South Australia. As I said right at opening, it is difficult to see where South Australia is going to expand its economy if it is not going to come from the resources sector. Certainly we will continue to grow our aquaculture and agricultural sectors and we will learn to make more money out of what we already do. In fact, we will be able to downstream process and further add value to our agricultural products, but there is no doubt that the resources sector will play a very important part in South Australia's future. It is my belief the Woomera Prohibited Area will play a very important part within that.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Robert, Stuart, MP",LP,2014-07-16,"
 
 
@@ -1532,4 +1813,4 @@ Bill read a second time.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech

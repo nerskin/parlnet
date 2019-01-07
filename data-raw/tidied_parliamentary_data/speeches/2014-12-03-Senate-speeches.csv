@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2014-12-03,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (09:31):  I remind senators that the question may be put on any proposal at the request of any senator.
 
-",Senate,<title>COMMITTEES</title>,"<title>Legal and Constitutional Affairs References Committee, Trade and Investment Growth Committee</title>",COMMITTEES,1,1
+",Senate,<title>COMMITTEES</title>,"<title>Legal and Constitutional Affairs References Committee, Trade and Investment Growth Committee</title>",COMMITTEES,1,1,speech
 "PRESIDENT, The",,2014-12-03,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (09:31):  I remind senators that the question may be put on any proposal at the request of any senator.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,1,2,speech
 "Abetz, Sen Eric",LP,2014-12-03,"
 
 
@@ -40,7 +40,7 @@ The reaction to his death has been spontaneous and heartfelt. Phillip Hughes was
 
 As has been said, in the midst of life we are in death. We express our deepest sympathy to his family on the death of their beloved son. We think of his teammates, who are grappling with the removal from their midst of a gentle, kind young Australian man who loved the country and who had prodigious natural talent. Of all the heart-rending tributes we have seen over the last few days, for me the most moving was from a lady who lives in Macksville and saw him grow up. She said, with poignant simplicity, 'He was a lovely young man.' On behalf of the government, I extend sympathy to the family of Phillip Joel Hughes. May he rest in peace.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Hughes, Mr Phillip Joel</title>",CONDOLENCES,2,1
+",Senate,<title>CONDOLENCES</title>,"<title>Hughes, Mr Phillip Joel</title>",CONDOLENCES,2,1,speech
 "Faulkner, Sen John",ALP,2014-12-03,"
 
 
@@ -90,7 +90,7 @@ You do not have to have known Phillip Hughes to have shed tears. I know of many 
 
 Death should not come to the young. We grieve for who Phillip was and we grieve for what he might have been. Cricket will never be quite the same. What happens now is in the hands of the players, the umpires, the administrators and the wider family of cricket lovers. That is surely as it should be. Cricket belongs to those who love the game. My sincere condolences and the condolences of those I speak on behalf of today go to the family and friends of Phillip Hughes and to all in Australian cricket, and beyond, who mourn his loss.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Hughes, Mr Phillip Joel</title>",CONDOLENCES,2,1
+",Senate,<title>CONDOLENCES</title>,"<title>Hughes, Mr Phillip Joel</title>",CONDOLENCES,2,1,speech
 "Milne, Sen Christine",AG,2014-12-03,"
 
 
@@ -107,7 +107,7 @@ As a mother, I dropped off my son at cricket for years, helped to unpack the bag
 
 I think that is in part why we all find it so profoundly sad—because of its randomness. This tragedy could have hit any cricketing family anywhere, anyone's son or daughter, at any time. That is why we want the Hughes family to know that we care about what has happened to them and we share their grief and send them support. We have enormous respect for Phillip Hughes as a cricketer, but we also want them to know that we recognise he was a much loved son, and we send them our condolence.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Hughes, Mr Phillip Joel</title>",CONDOLENCES,2,1
+",Senate,<title>CONDOLENCES</title>,"<title>Hughes, Mr Phillip Joel</title>",CONDOLENCES,2,1,speech
 "Scullion, Sen Nigel",CLP,2014-12-03,"
 
 
@@ -132,7 +132,7 @@ Honourable senators having stood in their places—
 
 The PRESIDENT:  I thank the Senate.
 
-",Senate,<title>CONDOLENCES</title>,"<title>Hughes, Mr Phillip Joel</title>",CONDOLENCES,2,1
+",Senate,<title>CONDOLENCES</title>,"<title>Hughes, Mr Phillip Joel</title>",CONDOLENCES,2,1,speech
 "Moore, Sen Claire",ALP,2014-12-03,"
 
 
@@ -191,7 +191,7 @@ The bill also contains a provision removing the 90-day rule for hearing of asylu
 
 For all of these reasons, Labor opposes this bill, and we will vote to deny it a second reading.
 
-",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1,speech
 "Hanson-Young, Sen Sarah",AG,2014-12-03,"
 
 
@@ -277,7 +277,7 @@ There is nothing in this piece of legislation that upholds the original deal bet
 
 The Australian Greens agree with the majority submitters to the inquiry into this bill that this is a radical deviation from Australia's longstanding commitment to international law and human rights. If this bill passes, it will seriously endanger the lives of many thousands of asylum seekers. The Greens strongly recommend that this bill be rejected by this place today. There would need to be substantial amendments made to this bill if it were to proceed. Six of the seven schedules would need to be deleted and the remaining schedule would need to have a genuine pathway to permanency, so that if people are found to be refugees—after all this time they have spent in detention, all this time they have been left dumped in the community—they should be able to stay, work, pay their taxes and send their kids to school. It is simply asking for a fair go and for people to be treated with dignity and respect. As this bill stands none of that is in here. I strongly urge this place to vote it down at the second reading.
 
-",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1,speech
 "Macdonald, Sen Ian",LP,2014-12-03,"
 
 
@@ -430,7 +430,7 @@ When people jump the queue, when they have enough money pay people smugglers and
 
 The Legal and Constitutional Affairs Legislation Committee looked at this legislation and made four recommendations. I am going to run out of time so I cannot go into those recommendations in detail, but they suggest that some amendment be made and that there be improvements made to the bill. The fourth recommendation was that, subject to the preceding three recommendations, the bill be passed. I commend the report of the Senate Legal and Constitutional Affairs Legislation Committee inquiry into this bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1,speech
 "Wright, Sen Penny",AG,2014-12-03,"
 
 
@@ -462,7 +462,7 @@ This bill also removes fundamental procedural rights to safeguard the integrity 
 
 There are so many other egregious betrayals of human rights and rule of law principles in this bill. Unfortunately I do not have the time to go into it. But there is a deep chasm between this proposed law and a principled, fair and dignified approach to providing protection to those in genuine need. The Australian Greens strenuously oppose the passage of this bill. This bill is indefensible and un-Australian.
 
-",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1,speech
 "Seselja, Sen Zed",LP,2014-12-03,"
 
 
@@ -566,7 +566,7 @@ The reintroduction of TPVs is fundamental to the government's key objectives to 
 
 There are a range of other aspects to this bill, but it fundamentally goes to continuing our job of fixing the problems that we inherited when it comes to border protection. We have made amazing strides in that area, because we no longer see the boats, we no longer see the deaths at sea and we are seeing the numbers of children in detention dramatically reduced. All of those things are great strides, which have come about through strong border protection policies. This is the next step; this is the next part of dealing with that legacy, and I would commend this bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1,speech
 "Reynolds, Sen Linda",LP,2014-12-03,"
 
 
@@ -643,7 +643,7 @@ As a consequence of the policies of those opposite, more than 14,800 have been w
 
 To me, the most compassionate and humanitarian approach is to pass this legislation to give these 30,000 human beings a decision. If they are not going to stay, it is the right thing to do to tell them so they can get on with their lives elsewhere. If they are able to stay, we should provide them with visas so that they can work, study and raise their families here. That is the humanitarian way. Do not leave them in detention for up to seven years. That would be the consequence of not passing this bill, which I commend to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1,speech
 "Back, Sen Chris",LP,2014-12-03,"
 
 
@@ -708,7 +708,7 @@ The legislation certainly requires a circumstance that people do make sure that 
 
 Just in the last few minutes I do want to go back to the humanitarian activity and I do want to return to the topic briefly associated with our own military personnel. It is and has been an enormous burden. When we were in Darwin they actually asked us to put the clothing on that the personnel wear when they get into the rubber duckies to actually go to the vessel that they will be intercepting, remembering what temperatures would be like and humidity is like this time of the year. They will be in that equipment for six to eight hours, apprehensive, tentative, not knowing what they are going to meet when they arrive at the vessel. This is a pressure that they endure day after day. I for one want to say how pleased and proud I am of those people. I also want to say that this type of legislation will limit even more quickly and even more severely those who attempt—people smugglers—to bring people to this country illegally.
 
-",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1,speech
 "Xenophon, Sen Nick",Ind.,2014-12-03,"
 
 
@@ -752,7 +752,7 @@ Further, I have advocated, as have others, for an increase in Australia's humani
 
 Extending work rights to those on bridging visas is also vitally important. Participating in the workforce, even in a small way, makes people a part of our community and society. It gives them, quite simply, a reason to get up in the morning—to feel valued and that they are making a contribution. I do not want to pretend that any of these measures is an ideal outcome or that they represent what I would see happen in the perfect world. But they will make a true difference to the people who are here right now, who are in detention right now, who are waiting to be processed right now. This may not be perfect, but it is good. It is also important to remember that this is not the end of the debate. These measures do not mean that I, as many others, will stop pushing for improvements. They are merely the next step, not the final one, and I would urge my colleagues to support this bill.
 
-",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1,speech
 "Madigan, Sen John",Ind.,2014-12-03,"
 
 
@@ -766,7 +766,7 @@ But I want people to be crystal clear that I genuinely want to find the solution
 
 We all know where we are going, so to speak. The issue of asylum seekers, the issue of dealing with compassion and dignity, the issue of addressing the concerns of people in the wider Australian community have to be treaty logically and with respect. There are many moving parts to this machine but in the end it is about people and you cannot commodify people. They are not numbers; they are people. At this point, I cannot support the government's legislation as it stands, but I acknowledge the work of Senator Xenophon. There are a lot of people in this place who are looking for a genuine and a just outcome.
 
-",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1,speech
 "Canavan, Sen Matthew",Nats,2014-12-03,"
 
 
@@ -810,7 +810,7 @@ Our review processes likewise have been blocked and unnecessarily diverted from 
 
 Debate interrupted. 
 
-",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1
+",Senate,<title>BILLS</title>,<title>Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Bill 2014</title>,BILLS,4,1,speech
 "Moore, Sen Claire",ALP,2014-12-03,"
 
 
@@ -869,7 +869,7 @@ The bill also contains a provision removing the 90-day rule for hearing of asylu
 
 For all of these reasons, Labor opposes this bill, and we will vote to deny it a second reading.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Hanson-Young, Sen Sarah",AG,2014-12-03,"
 
 
@@ -955,7 +955,7 @@ There is nothing in this piece of legislation that upholds the original deal bet
 
 The Australian Greens agree with the majority submitters to the inquiry into this bill that this is a radical deviation from Australia's longstanding commitment to international law and human rights. If this bill passes, it will seriously endanger the lives of many thousands of asylum seekers. The Greens strongly recommend that this bill be rejected by this place today. There would need to be substantial amendments made to this bill if it were to proceed. Six of the seven schedules would need to be deleted and the remaining schedule would need to have a genuine pathway to permanency, so that if people are found to be refugees—after all this time they have spent in detention, all this time they have been left dumped in the community—they should be able to stay, work, pay their taxes and send their kids to school. It is simply asking for a fair go and for people to be treated with dignity and respect. As this bill stands none of that is in here. I strongly urge this place to vote it down at the second reading.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Macdonald, Sen Ian",LP,2014-12-03,"
 
 
@@ -1108,7 +1108,7 @@ When people jump the queue, when they have enough money pay people smugglers and
 
 The Legal and Constitutional Affairs Legislation Committee looked at this legislation and made four recommendations. I am going to run out of time so I cannot go into those recommendations in detail, but they suggest that some amendment be made and that there be improvements made to the bill. The fourth recommendation was that, subject to the preceding three recommendations, the bill be passed. I commend the report of the Senate Legal and Constitutional Affairs Legislation Committee inquiry into this bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Wright, Sen Penny",AG,2014-12-03,"
 
 
@@ -1140,7 +1140,7 @@ This bill also removes fundamental procedural rights to safeguard the integrity 
 
 There are so many other egregious betrayals of human rights and rule of law principles in this bill. Unfortunately I do not have the time to go into it. But there is a deep chasm between this proposed law and a principled, fair and dignified approach to providing protection to those in genuine need. The Australian Greens strenuously oppose the passage of this bill. This bill is indefensible and un-Australian.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Seselja, Sen Zed",LP,2014-12-03,"
 
 
@@ -1244,7 +1244,7 @@ The reintroduction of TPVs is fundamental to the government's key objectives to 
 
 There are a range of other aspects to this bill, but it fundamentally goes to continuing our job of fixing the problems that we inherited when it comes to border protection. We have made amazing strides in that area, because we no longer see the boats, we no longer see the deaths at sea and we are seeing the numbers of children in detention dramatically reduced. All of those things are great strides, which have come about through strong border protection policies. This is the next step; this is the next part of dealing with that legacy, and I would commend this bill to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Reynolds, Sen Linda",LP,2014-12-03,"
 
 
@@ -1321,7 +1321,7 @@ As a consequence of the policies of those opposite, more than 14,800 have been w
 
 To me, the most compassionate and humanitarian approach is to pass this legislation to give these 30,000 human beings a decision. If they are not going to stay, it is the right thing to do to tell them so they can get on with their lives elsewhere. If they are able to stay, we should provide them with visas so that they can work, study and raise their families here. That is the humanitarian way. Do not leave them in detention for up to seven years. That would be the consequence of not passing this bill, which I commend to the Senate.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Back, Sen Chris",LP,2014-12-03,"
 
 
@@ -1386,7 +1386,7 @@ The legislation certainly requires a circumstance that people do make sure that 
 
 Just in the last few minutes I do want to go back to the humanitarian activity and I do want to return to the topic briefly associated with our own military personnel. It is and has been an enormous burden. When we were in Darwin they actually asked us to put the clothing on that the personnel wear when they get into the rubber duckies to actually go to the vessel that they will be intercepting, remembering what temperatures would be like and humidity is like this time of the year. They will be in that equipment for six to eight hours, apprehensive, tentative, not knowing what they are going to meet when they arrive at the vessel. This is a pressure that they endure day after day. I for one want to say how pleased and proud I am of those people. I also want to say that this type of legislation will limit even more quickly and even more severely those who attempt—people smugglers—to bring people to this country illegally.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Xenophon, Sen Nick",Ind.,2014-12-03,"
 
 
@@ -1430,7 +1430,7 @@ Further, I have advocated, as have others, for an increase in Australia's humani
 
 Extending work rights to those on bridging visas is also vitally important. Participating in the workforce, even in a small way, makes people a part of our community and society. It gives them, quite simply, a reason to get up in the morning—to feel valued and that they are making a contribution. I do not want to pretend that any of these measures is an ideal outcome or that they represent what I would see happen in the perfect world. But they will make a true difference to the people who are here right now, who are in detention right now, who are waiting to be processed right now. This may not be perfect, but it is good. It is also important to remember that this is not the end of the debate. These measures do not mean that I, as many others, will stop pushing for improvements. They are merely the next step, not the final one, and I would urge my colleagues to support this bill.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Madigan, Sen John",Ind.,2014-12-03,"
 
 
@@ -1444,7 +1444,7 @@ But I want people to be crystal clear that I genuinely want to find the solution
 
 We all know where we are going, so to speak. The issue of asylum seekers, the issue of dealing with compassion and dignity, the issue of addressing the concerns of people in the wider Australian community have to be treaty logically and with respect. There are many moving parts to this machine but in the end it is about people and you cannot commodify people. They are not numbers; they are people. At this point, I cannot support the government's legislation as it stands, but I acknowledge the work of Senator Xenophon. There are a lot of people in this place who are looking for a genuine and a just outcome.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Canavan, Sen Matthew",Nats,2014-12-03,"
 
 
@@ -1488,7 +1488,7 @@ Our review processes likewise have been blocked and unnecessarily diverted from 
 
 Debate interrupted. 
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Heffernan, Sen Bill",LP,2014-12-03,"
 
 
@@ -1562,7 +1562,119 @@ Last year, the World Bank said there was about $1 trillion involved in bribes. Y
 
 The average punter and certainly people listening to this—if there is anyone—would not know the derivative swap market. The derivative swap market is a serious deal as is the challenge of coming to terms with the bitcoin market, which will aid and abet tax avoidance, transfer, profits, drug laundering et cetera. So the great challenge for Australia—it does not matter who is in government—is to capture our revenue base. Let's first find out what is going wrong with what we are doing.
 
-",Senate,<title>STATEMENTS BY SENATORS</title>,<title>Corporate Tax Evasion</title>,STATEMENTS BY SENATORS,5,1
+",Senate,<title>STATEMENTS BY SENATORS</title>,<title>Corporate Tax Evasion</title>,STATEMENTS BY SENATORS,5,1,speech
+"Gallacher, Sen Alex",ALP,2014-12-03,"
+
+
+
+Senator GALLACHER
+ (South Australia) (14:00):  My question is to the Minister for Defence, Senator Johnston. I refer the minister to the chief executive of the Australian Industry Group, who has said:
+
+
+… there remains ample time for the federal government to hold a tender process to build Australia's future submarines.
+
+
+Will the minister stop pretending that a capability gap is an excuse for his cosy deal with Japan and now commit to holding a competitive tender process?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Gallacher, Sen Alex",ALP,2014-12-03,"
+
+
+
+Senator GALLACHER
+ (South Australia) (14:02):  Mr President, I ask a supplementary question. I refer the Minister for Defence to the Australian Strategic Policy Institute, who said that a competitive tender process for our new submarine fleet would drive the price down and efficiency up. Will the minister finally accept the advice of expert after expert, rip up his draft press releases on the Japan deal and hold a competitive tender process?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Gallacher, Sen Alex",ALP,2014-12-03,"
+
+
+
+Senator GALLACHER
+ (South Australia) (14:03):  Mr President, I ask a further supplementary question. I refer the Minister for Defence again to AIG, who said that there are substantial risks associated with committing to acquire a submarine without knowing the full implications. Will the minister now abandon his sweetheart deal with Japan and commit to a competitive tender process? Does he think that bringing forward the future frigates will silence the outrage coming from Adelaide about his broken promise on submarines?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Johnston, Sen David",LP,2014-12-03,"
+
+
+
+Senator JOHNSTON
+ (Western Australia—Minister for Defence) (14:00):  The Labor Party left that program in a dire state of neglect, having done nothing for six years. These are facts that the Labor Party refuses to acknowledge. If there had been anything done that constrained the Abbott government in going forward, you would expect—as I have said on so many occasions—a simple contract and an engagement with the South Australian government for training.
+
+
+
+
+Senator Conroy:
+  Two question times ago!
+
+
+
+
+Senator JOHNSTON:
+  Senator Conroy would need to understand that this is a very serious program that requires the government to actually roll up its sleeves and start to do something. They did six years of nothing, whilst telling the Australian public that everything is rosy in the garden, they had options and they were going forward for the program. But what we got there as a new government we found that nothing has been done with what is one of Australia's most important strategic deterrent capabilities. This is a disgrace. It is a disgrace which you seem to want to dress up as some sort of something that we are doing that is wrong. We are doing everything right to try and clean up your mess and get this particular program, which is such an important program and a vital strategic asset, back on track given the mess you left us.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Johnston, Sen David",LP,2014-12-03,"
+
+
+
+Senator JOHNSTON
+ (Western Australia—Minister for Defence) (14:02):  I love the learned Senator quoting the ASPI. On what you delivered in terms of the Defence budget—
+
+
+
+
+Senator Kim Carr:
+  How learned are you?
+
+
+
+The PRESIDENT:  Order, Senator Carr.
+
+
+
+
+Senator JOHNSTON:
+  whilst you had custody of it, they said it was an unsustainable mess that was moving to a crisis. That is what you delivered. I have said, and we will stick to this, that there will be the traditional Kinnaird first and second pass process for this important acquisition. That is the standard operating procedure for complex capability acquisition. That is what we will do, that is what everyone expects we will do and that is the way forward.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Johnston, Sen David",LP,2014-12-03,"
+
+
+
+Senator JOHNSTON
+ (Western Australia—Minister for Defence) (14:04):  This is just so much dross from a senator who sat on his hands for six years while the project went nowhere. Where was he? What was he doing? He was completely preoccupied with the game of politics in South Australia.
+
+
+
+
+Senator Wong:
+  Where are you? You are nowhere.
+
+
+
+The PRESIDENT:  Order on my left.
+
+
+
+
+Senator JOHNSTON:
+  You want a tender. Senator Conroy last week asked for a limited tender with at least four bidders. What do you want? You do not even understand the process. It seems that some tenderers are more equal than other tenderers.
+
+
+
+
+Senator Wong:
+  For you that's true!
+
+
+
+Opposition senators interjecting—
+
+
+
+The PRESIDENT:  Order on my left.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Procurement</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
 "Cameron, Sen Doug",ALP,2014-12-03,"
 
 
@@ -1623,7 +1735,7 @@ Senator Marshall
 
 Leave granted.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Edwards, Sen Sean",LP,2014-12-03,"
 
 
@@ -1662,7 +1774,7 @@ Those opposite do not even know how to manage money because they never have. All
 
 We are getting about and doing what we have to do to bring this project back into order to address the essential security of this country. It is so important to our front-line defence. What did those opposite do with it? Nothing. We are doing something about it and we are doing it now.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Dastyari, Sen Sam",ALP,2014-12-03,"
 
 
@@ -1709,7 +1821,7 @@ The soldiers, the sailors, the airmen and the civilians who toil to keep us safe
 Senator Abetz:
   That is 'Mr Abbott' to you!
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Williams, Sen John",Nats,2014-12-03,"
 
 
@@ -1792,7 +1904,7 @@ Senator Kim Carr:
 Senator WILLIAMS:
   When we hit the brick wall of debt, Senator Carr, because of the actions of people like you—you are content to mortgage our grandchildren's futures away without any concerns about their financial situation—we will look back and we will look on you as the money wreckers who blocked our savings to get the budget in order. That is the most important thing, getting the budget in order so that we can afford to have a proper, secure Defence Force with modern equipment. But, no, you over there are just out to wreck the budget. It is in your DNA. It is as simple as that. A Labor government means budget mess. As I said, it has happened all my life. And here is a case of you crying poor, crying crocodile tears for the Defence Force, when history proves you made an absolute mess of our Australian Defence Force. You should be ashamed of yourselves. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "Lundy, Sen Kate",ALP,2014-12-03,"
 
 
@@ -1828,7 +1940,7 @@ Finally, I would like to draw people's attention to the fact that there is an ob
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Defence</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,7,1,speech
 "PRESIDENT, The",,2014-12-03,"
 
 
@@ -1836,7 +1948,7 @@ Question agreed to.
 The PRESIDENT
  (15:33):  I remind senators that the question may be put on any proposal at the request of any senator. There being none, we will move on.
 
-",Senate,<title>COMMITTEES</title>,"<title>Legal and Constitutional Affairs Legislation Committee, Legal and Constitutional Affairs References Committee</title>",COMMITTEES,12,1
+",Senate,<title>COMMITTEES</title>,"<title>Legal and Constitutional Affairs Legislation Committee, Legal and Constitutional Affairs References Committee</title>",COMMITTEES,12,1,speech
 "PRESIDENT, The",,2014-12-03,"
 
 
@@ -1844,7 +1956,7 @@ The PRESIDENT
 The PRESIDENT
  (15:33):  I remind senators that the question may be put on any proposal at the request of any senator. There being none, we will move on.
 
-",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,12,2
+",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,12,2,speech
 "Reynolds, Sen Linda",LP,2014-12-03,"
 
 
@@ -1915,7 +2027,7 @@ The adequacy of existing residential care arrangements available for young peopl
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,14,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,14,1,speech
 "Xenophon, Sen Nick",Ind.,2014-12-03,"
 
 
@@ -1956,7 +2068,7 @@ The availability of new, innovative and specialist cancer drugs in Australia, wi
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,14,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs References Committee</title>,COMMITTEES,14,1,speech
 "Reynolds, Sen Linda",LP,2014-12-03,"
 
 
@@ -2027,7 +2139,7 @@ The adequacy of existing residential care arrangements available for young peopl
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,14,2
+",Senate,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,14,2,speech
 "Fifield, Sen Mitch",LP,2014-12-03,"
 
 
@@ -2056,7 +2168,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Defence Legislation Amendment (Military Justice Enhancements—Inspector-General ADF) Bill 2014</title>,BILLS,15,1
+",Senate,<title>BILLS</title>,<title>Defence Legislation Amendment (Military Justice Enhancements—Inspector-General ADF) Bill 2014</title>,BILLS,15,1,speech
 "Fifield, Sen Mitch",LP,2014-12-03,"
 
 
@@ -2145,7 +2257,7 @@ I commend the Bill.
 
 Ordered that further consideration of the second reading of this bill be adjourned until 9 February 2015, in accordance with standing order 111.
 
-",Senate,<title>BILLS</title>,<title>Defence Legislation Amendment (Military Justice Enhancements—Inspector-General ADF) Bill 2014</title>,BILLS,15,1
+",Senate,<title>BILLS</title>,<title>Defence Legislation Amendment (Military Justice Enhancements—Inspector-General ADF) Bill 2014</title>,BILLS,15,1,speech
 "Fifield, Sen Mitch",LP,2014-12-03,"
 
 
@@ -2174,7 +2286,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,15,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,15,2,speech
 "McEwen, Sen Anne",ALP,2014-12-03,"
 
 
@@ -2197,7 +2309,7 @@ That the Parliamentary Joint Committee on Law Enforcement be authorised to hold 
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Law Enforcement Committee</title>,COMMITTEES,16,1
+",Senate,<title>COMMITTEES</title>,<title>Law Enforcement Committee</title>,COMMITTEES,16,1,speech
 "McEwen, Sen Anne",ALP,2014-12-03,"
 
 
@@ -2220,7 +2332,7 @@ That the Parliamentary Joint Committee on Law Enforcement be authorised to hold 
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,16,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,16,2,speech
 "Milne, Sen Christine",AG,2014-12-03,"
 
 
@@ -2267,7 +2379,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>YWCA Australia</title>,MOTIONS,17,1
+",Senate,<title>MOTIONS</title>,<title>YWCA Australia</title>,MOTIONS,17,1,speech
 "Cash, Sen Michaelia",LP,2014-12-03,"
 
 
@@ -2288,7 +2400,7 @@ Senator CASH:
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>YWCA Australia</title>,MOTIONS,17,1
+",Senate,<title>MOTIONS</title>,<title>YWCA Australia</title>,MOTIONS,17,1,speech
 "Hanson-Young, Sen Sarah",AG,2014-12-03,"
 
 
@@ -2302,7 +2414,7 @@ That there be laid on the table by the Assistant Treasurer, no later than 3 pm o
 
 Question agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Productivity Commission Report</title>,DOCUMENTS,18,1
+",Senate,<title>DOCUMENTS</title>,<title>Productivity Commission Report</title>,DOCUMENTS,18,1,speech
 "Hanson-Young, Sen Sarah",AG,2014-12-03,"
 
 
@@ -2316,7 +2428,7 @@ That there be laid on the table by the Assistant Treasurer, no later than 3 pm o
 
 Question agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2,speech
 "O'Sullivan, Sen Barry",Nats,2014-12-03,"
 
 
@@ -2330,7 +2442,7 @@ That the Senate acknowledges the huge surge in demand for our live export cattle
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Live Animal Exports</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>Live Animal Exports</title>,MOTIONS,19,1,speech
 "Ludlam, Sen Scott",AG,2014-12-03,"
 
 
@@ -2363,7 +2475,7 @@ That the Senate—
 
 The PRESIDENT:  The question is that Senator Ludlam's motion be agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>PricewaterhouseCoopers Data Retention Legislation Report</title>,DOCUMENTS,20,1
+",Senate,<title>DOCUMENTS</title>,<title>PricewaterhouseCoopers Data Retention Legislation Report</title>,DOCUMENTS,20,1,speech
 "Ludlam, Sen Scott",AG,2014-12-03,"
 
 
@@ -2396,7 +2508,7 @@ That the Senate—
 
 The PRESIDENT:  The question is that Senator Ludlam's motion be agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,20,2,speech
 "PRESIDENT, The",,2014-12-03,"
 
 
@@ -2423,7 +2535,7 @@ More than the number of senators required by the standing orders having risen in
 
 The PRESIDENT:  I understand that informal arrangements have been made to allocate specific times to each of the speakers in today’s debate. With the concurrence of the Senate, I shall ask the clerks to set the clock accordingly.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "Lines, Sen Susan",ALP,2014-12-03,"
 
 
@@ -2458,7 +2570,7 @@ Finally, whatever Kool-Aid Universities Australia drank when the first bill was 
 
 One of the other things the Abbott government is quite good at doing—I often wonder which universe they are in. They are obviously in some kind of parallel universe. They do not live in the real world I live in because they like to invent new language for their cuts. Who remembers the increased tax on higher earners, which nobody had an issue with? But it is not an increase in tax; it is a levy. We just use different language because we know that the Abbott government promised no increased taxes. So they kind of think, 'If we call it something else, people will just believe us.' Of course they do not. We can all tell fact from fiction and there is another fiction. It is time the Abbott government realised they are deeply unpopular because their budget is too harsh and cruel on everyday Australians.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "Mason, Sen Brett",LP,2014-12-03,"
 
 
@@ -2514,7 +2626,7 @@ Senator Williams
 Senator MASON:
   We all know that Labor cannot manage budgets. They never have, since Federation. They have never managed budgets. But it is morally contemptible to ask our children to pay for them. When I was at university I used to see these signs everywhere from the Left that said, 'eat the rich'. There are no longer enough rich left. Today the Labor Party Left say, 'eat the young'.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "Cameron, Sen Doug",ALP,2014-12-03,"
 
 
@@ -2558,7 +2670,7 @@ The Liberals are out of touch, but the National Party is all at sea. They have g
 
 Nowhere is that clearer than when you hear Senator Canavan get excited—being from Rockhampton you would think the senator would be interested in things like making sure the agriculture minister's botched handling of the farm household assistance and drought funding was fixed. But, no, Senator Canavan comes in here and makes speeches about Hayekian philosophy. He talks about currency competition. He talks about Friedman. This is awful. I am sure listeners to the Senate broadcast in Central Queensland in Biggenden are glued to the radio, listening to Senator Canavan. Senator Canavan is not representing Biggenden; he is representing the big end of town. (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "McKenzie, Sen Bridget",Nats,2014-12-03,"
 
 
@@ -2587,7 +2699,7 @@ We have delivered on the carbon tax promise. Help us. Why are you not thanking u
 
 It is not just us. Chris Richardson from Deloitte Access Economics said that our budget is the only road map to structural fiscal repair Australia has. Those opposite do not like to hear it. Those opposite do not have a credible alternative. Those opposite are very happy to carp on the sideline when someone else tries to fix up their mess. It is absolutely disgusting. It is immature and there is no leadership throughout the Australian Labor Party as those opposite sit here and carp on the sideline while we fix up their mess.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "Polley, Sen Helen",ALP,2014-12-03,"
 
 
@@ -2650,7 +2762,7 @@ What is also incredible is that at least some of those on the frontbench, includ
 
 It does not stop there. My area of responsibility is aged care, and we on this side know they have lied to this sector. They took away the dementia supplement that was paid to the providers; they said a new scheme would come in, but we have seen nothing of that. The fact that they have changed the way pensions will be indexed will affect the aged-care sector as well. We are still waiting for those in government to come into this chamber— (Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "McGrath, Sen James",LP,2014-12-03,"
 
 
@@ -2761,7 +2873,7 @@ Senator Smith:
 Senator McGRATH:
   and refrigerators—thank you, Senator Smith. It was a tax on the cost of living; it was a tax on families. That is why this budget is in trouble. It is not because of anything on this side of the chamber. It is because of the barnacles that are the Labor Party and the Greens party and the damage they have done to this country. And on that, I wish everybody a very merry Christmas and I look forward to seeing you all in 2015.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "Smith, Sen Dean",LP,2014-12-03,"
 
 
@@ -2864,7 +2976,7 @@ with the voters and stressed the need to reduce the influence of factions to ref
 
 It is to be expected that Labor might reject the commentary of distinguished business leaders, but when they start to reject the commentary of their own former Labor leaders about the importance of establishing economic credibility, that is the bottom of the barrel. Unfortunately, Labor senators in this place have reached the bottom of the barrel.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "Back, Sen Chris",LP,2014-12-03,"
 
 
@@ -2922,7 +3034,7 @@ So where are we are now in terms of business confidence? Business confidence and
 
 The ACTING DEPUTY PRESIDENT:  Order! The time for the discussion has expired.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Abbott Government</title>,MATTERS OF PUBLIC IMPORTANCE,21,1,speech
 "Wright, Sen Penny",AG,2014-12-03,"
 
 
@@ -2970,7 +3082,7 @@ I hope I will be speaking to this place again soon about these issues, but next 
 
 Leave granted; debate adjourned.
 
-",Senate,<title>DOCUMENTS</title>,<title>Productivity Commission</title>,DOCUMENTS,22,1
+",Senate,<title>DOCUMENTS</title>,<title>Productivity Commission</title>,DOCUMENTS,22,1,speech
 "Bilyk, Sen Catryna",ALP,2014-12-03,"
 
 
@@ -2981,7 +3093,7 @@ Senator BILYK
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Scrutiny of Bills Committee</title>,COMMITTEES,24,1
+",Senate,<title>COMMITTEES</title>,<title>Scrutiny of Bills Committee</title>,COMMITTEES,24,1,speech
 "Bilyk, Sen Catryna",ALP,2014-12-03,"
 
 
@@ -2992,7 +3104,7 @@ Senator BILYK
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,24,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,24,2,speech
 "Birmingham, Sen Simon",LP,2014-12-03,"
 
 
@@ -3000,7 +3112,7 @@ Ordered that the report be printed.
 Senator BIRMINGHAM
  (South Australia—Parliamentary Secretary to the Minister for the Environment) (18:10):  I table documents relating to the orders for the production of documents concerning housing and homelessness initiatives, the Ipswich Motorway project and income management in the Northern Territory.
 
-",Senate,<title>DOCUMENTS</title>,"<title>Homelessness, Ipswich Motorway, Income Management Proposals</title>",DOCUMENTS,25,1
+",Senate,<title>DOCUMENTS</title>,"<title>Homelessness, Ipswich Motorway, Income Management Proposals</title>",DOCUMENTS,25,1,speech
 "Birmingham, Sen Simon",LP,2014-12-03,"
 
 
@@ -3008,7 +3120,7 @@ Senator BIRMINGHAM
 Senator BIRMINGHAM
  (South Australia—Parliamentary Secretary to the Minister for the Environment) (18:10):  I table documents relating to the orders for the production of documents concerning housing and homelessness initiatives, the Ipswich Motorway project and income management in the Northern Territory.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,25,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,25,2,speech
 "Birmingham, Sen Simon",LP,2014-12-03,"
 
 
@@ -3016,7 +3128,7 @@ Senator BIRMINGHAM
 Senator BIRMINGHAM
  (South Australia—Parliamentary Secretary to the Minister for the Environment) (18:10):  On behalf of the Deputy Prime Minister, I table a ministerial statement and document on the Australian government's response to the aviation safety regulation review report.
 
-",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Aviation Safety Regulation Review</title>,MINISTERIAL STATEMENTS,26,1
+",Senate,<title>MINISTERIAL STATEMENTS</title>,<title>Aviation Safety Regulation Review</title>,MINISTERIAL STATEMENTS,26,1,speech
 "Siewert, Sen Rachel",AG,2014-12-03,"
 
 
@@ -3039,7 +3151,7 @@ The final report should be publicly available so that everybody can see what a f
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Indigenous Communities</title>,DOCUMENTS,27,1
+",Senate,<title>DOCUMENTS</title>,<title>Indigenous Communities</title>,DOCUMENTS,27,1,speech
 "Siewert, Sen Rachel",AG,2014-12-03,"
 
 
@@ -3062,7 +3174,7 @@ The final report should be publicly available so that everybody can see what a f
 
 Question agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,27,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,27,2,speech
 "Smith, Sen Dean (The ACTING DEPUTY PRESIDENT)",LP,2014-12-03,"
 
 
@@ -3073,7 +3185,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Smith
 ) (18:30):  The President has received a letter from a party leader seeking variation to the membership of a committee. 
 
-",Senate,<title>COMMITTEES</title>,<title>Abbott Government's Budget Cuts Select Committee</title>,COMMITTEES,28,1
+",Senate,<title>COMMITTEES</title>,<title>Abbott Government's Budget Cuts Select Committee</title>,COMMITTEES,28,1,speech
 "Fifield, Sen Mitch",LP,2014-12-03,"
 
 
@@ -3096,7 +3208,7 @@ That Senator Ludlam replace Senator Di Natale on the Select Committee into the A
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Abbott Government's Budget Cuts Select Committee</title>,COMMITTEES,28,1
+",Senate,<title>COMMITTEES</title>,<title>Abbott Government's Budget Cuts Select Committee</title>,COMMITTEES,28,1,speech
 "Smith, Sen Dean (The ACTING DEPUTY PRESIDENT)",LP,2014-12-03,"
 
 
@@ -3107,7 +3219,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Smith
 ) (18:30):  The President has received a letter from a party leader seeking variation to the membership of a committee. 
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,28,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,28,2,speech
 "Fifield, Sen Mitch",LP,2014-12-03,"
 
 
@@ -3130,7 +3242,7 @@ That Senator Ludlam replace Senator Di Natale on the Select Committee into the A
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,28,2
+",Senate,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,28,2,speech
 "Fifield, Sen Mitch",LP,2014-12-03,"
 
 
@@ -3147,7 +3259,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,"<title>ACT Government Loan Bill 2014, Acts and Instruments (Framework Reform) Bill 2014, Federal Courts Legislation Amendment Bill 2014, Treasury Legislation Amendment (Repeal Day) Bill 2014</title>",BILLS,29,1
+",Senate,<title>BILLS</title>,"<title>ACT Government Loan Bill 2014, Acts and Instruments (Framework Reform) Bill 2014, Federal Courts Legislation Amendment Bill 2014, Treasury Legislation Amendment (Repeal Day) Bill 2014</title>",BILLS,29,1,speech
 "Fifield, Sen Mitch",LP,2014-12-03,"
 
 
@@ -3512,7 +3624,7 @@ That the bills be listed on the Notice Paper as separate orders of the day.
 
 Question agreed to. 
 
-",Senate,<title>BILLS</title>,"<title>ACT Government Loan Bill 2014, Acts and Instruments (Framework Reform) Bill 2014, Federal Courts Legislation Amendment Bill 2014, Treasury Legislation Amendment (Repeal Day) Bill 2014</title>",BILLS,29,1
+",Senate,<title>BILLS</title>,"<title>ACT Government Loan Bill 2014, Acts and Instruments (Framework Reform) Bill 2014, Federal Courts Legislation Amendment Bill 2014, Treasury Legislation Amendment (Repeal Day) Bill 2014</title>",BILLS,29,1,speech
 "Fifield, Sen Mitch",LP,2014-12-03,"
 
 
@@ -3529,7 +3641,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,<title>Consideration of House of Representatives Message</title>,BILLS,29,2
+",Senate,<title>BILLS</title>,<title>Consideration of House of Representatives Message</title>,BILLS,29,2,speech
 "Ruston, Sen Anne",LP,2014-12-03,"
 
 
@@ -3540,7 +3652,7 @@ Senator RUSTON
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport Legislation Committee</title>,COMMITTEES,30,1
+",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport Legislation Committee</title>,COMMITTEES,30,1,speech
 "Ruston, Sen Anne",LP,2014-12-03,"
 
 
@@ -3551,7 +3663,7 @@ Senator RUSTON
 
 Ordered that the report be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,30,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,30,2,speech
 "Rhiannon, Sen Lee",AG,2014-12-03,"
 
 
@@ -3628,7 +3740,7 @@ As was pointed out to the committee investigating this legislation, keeping the 
 
 As was pointed out to the committee investigating this legislation, keeping the National Water Commission would push the government budget, as I said, out by just a fraction. That is a bargain. I would urge my colleagues in the Senate to vote against abolishing the National Water Commission and to support the reinstatement of funding that is about to go to the Productivity Commission if this bill is passed. The National Water Commission still has its leadership in place. All its fine work is still there: the need to address issues across the nation—integration between the states and to take forward the National Water Initiative—is work that remains to be done. This bill should not pass.
 
-",Senate,<title>BILLS</title>,<title>National Water Commission (Abolition) Bill 2014</title>,BILLS,32,1
+",Senate,<title>BILLS</title>,<title>National Water Commission (Abolition) Bill 2014</title>,BILLS,32,1,speech
 "Urquhart, Sen Anne",ALP,2014-12-03,"
 
 
@@ -3783,7 +3895,7 @@ Clearly, this amount of money is negligible when compared to the future of water
 
 Debate interrupted.
 
-",Senate,<title>BILLS</title>,<title>National Water Commission (Abolition) Bill 2014</title>,BILLS,32,1
+",Senate,<title>BILLS</title>,<title>National Water Commission (Abolition) Bill 2014</title>,BILLS,32,1,speech
 "Rhiannon, Sen Lee",AG,2014-12-03,"
 
 
@@ -3860,7 +3972,7 @@ As was pointed out to the committee investigating this legislation, keeping the 
 
 As was pointed out to the committee investigating this legislation, keeping the National Water Commission would push the government budget, as I said, out by just a fraction. That is a bargain. I would urge my colleagues in the Senate to vote against abolishing the National Water Commission and to support the reinstatement of funding that is about to go to the Productivity Commission if this bill is passed. The National Water Commission still has its leadership in place. All its fine work is still there: the need to address issues across the nation—integration between the states and to take forward the National Water Initiative—is work that remains to be done. This bill should not pass.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2,speech
 "Urquhart, Sen Anne",ALP,2014-12-03,"
 
 
@@ -4015,7 +4127,7 @@ Clearly, this amount of money is negligible when compared to the future of water
 
 Debate interrupted.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,32,2,speech
 "Marshall, Sen Gavin",ALP,2014-12-03,"
 
 
@@ -4097,4 +4209,4 @@ Policing is a tough job. It is why we pay our police very well. It is why we inv
 
 Policing can be done with integrity. Policing must be done with integrity. Those officers who conduct assaults against citizens of Victoria must be held accountable as if they were any other citizen for those breaches of the law. Victorians expect this. This is happening in many overseas jurisdictions. We must have an independent body that investigates police. We cannot have police investigating police. We know that that does not work. Case after case has demonstrated that that does not work. We need a truly independent body to conduct those investigations and have the ability to have charges laid against police for their misconduct.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Victorian Government</title>,ADJOURNMENT,33,1
+",Senate,<title>ADJOURNMENT</title>,<title>Victorian Government</title>,ADJOURNMENT,33,1,speech

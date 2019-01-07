@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2015-03-17,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The PRESIDENT
  (12:31):  Honourable senators, I seek concurrence, as I did last year, in relation to a request from the press gallery. The press gallery has requested that photographs may be taken not in agreement with the current practices concerning the division for the Higher Education and Research Reform Bill 2014, which will be debated shortly. I would seek concurrence on the same terms that I granted the press gallery last time with the concurrence of the Senate, and those were that photographs be broad shots of the chamber only; that individual senators or groups of senators not be the focus of any particular shot; and that media rules be otherwise complied with at all times. Unless I have any objection, do I have the concurrence of the Senate for that to take place for the higher education bill? There being no objection, it is so ordered.
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Photography of the Senate</title>,STATEMENT BY THE PRESIDENT,0,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Photography of the Senate</title>,STATEMENT BY THE PRESIDENT,0,1,speech
 "PRESIDENT, The",,2015-03-17,"
 
 
@@ -14,7 +14,7 @@ The PRESIDENT
 The PRESIDENT
  (12:32):  Does any senator wish for any of those motions to be put? There being none, we will proceed to business.
 
-",Senate,<title>COMMITTEES</title>,"<title>Environment and Communications Legislation Committee, Legal and Constitutional Affairs References Committee, Rural and Regional Affairs and Transport References Committee</title>",COMMITTEES,2,1
+",Senate,<title>COMMITTEES</title>,"<title>Environment and Communications Legislation Committee, Legal and Constitutional Affairs References Committee, Rural and Regional Affairs and Transport References Committee</title>",COMMITTEES,2,1,speech
 "PRESIDENT, The",,2015-03-17,"
 
 
@@ -22,7 +22,7 @@ The PRESIDENT
 The PRESIDENT
  (12:32):  Does any senator wish for any of those motions to be put? There being none, we will proceed to business.
 
-",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,2,2
+",Senate,<title>COMMITTEES</title>,<title>Meeting</title>,COMMITTEES,2,2,speech
 "Carr, Sen Kim",ALP,2015-03-17,"
 
 
@@ -108,7 +108,7 @@ Regardless of what happens to this bill in the Senate, we will be taking this fi
 
 The government has broken faith with the Australian people on its promises. In doing so, they have taken universities and the Australian people for granted. If they have their way, universities will be able to charge whatever they want—and the losers in that equation are the Australian people. Social justice will be impeded, prosperity will be impeded, and universities will suffer dramatically as we develop a two-tiered system based on a perfidy of a proposition that you can always get what you want if you have the capacity to pay. It would give aid and comfort to the coalition's fundamental belief that this is a rich man's country yet. We shall not let that proposition be forgotten, and we will fight this issue right through to the next election and beyond. 
 
-",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,3,1,speech
 "Rhiannon, Sen Lee",AG,2015-03-17,"
 
 
@@ -189,7 +189,7 @@ The National Tertiary Education Union have also taken up this issue. They have i
 
 This is legislation that should not be before this House. By far the bulk of it has already been considered and has already been voted down. It is, again, a very poor attempt by the minister to get his way. This legislation is destructive, both in terms of the impact that it would have on individual students, who would be carrying the huge debt burden for much of their lives—many would never be able to pay it off—and also destructive of the very fabric of our society. It is no way to run a higher education system, to build an educated, innovative nation by penalising students and their families and pushing the cost burden onto those people rather than the government accepting its responsibility. If you are in government a key part of your job is to pay for the higher education system. This bill should be defeated.
 
-",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,3,1,speech
 "Reynolds, Sen Linda",LP,2015-03-17,"
 
 
@@ -266,7 +266,7 @@ Under this legislation, regional education providers will have the opportunity t
 
 Let's make no mistake here: these changes are vital to Australia's higher education sector, to our students and to the future of our economy. There are simply no viable alternatives to these reforms. Certainly we have heard not a single one from those opposite. Without reform, our higher education sector will stall in an increasingly competitive international market. That is a fact. Universities may not close their doors but, as the university vice-chancellors themselves have said, the quality of higher education in Australia will decrease significantly. They will become less competitive, leaving our students to bear the consequences of not being prepared for future industries and the competitive international environment. In the end, the casualties of this bill being defeated will be our students and that is in no way acceptable and is a complete abrogation of our responsibility in this place. As I said, a problem delayed is a problem denied. In this case, it would have devastating consequences. I commend this bill to the Senate. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,3,1,speech
 "Lines, Sen Susan",ALP,2015-03-17,"
 
 
@@ -346,7 +346,7 @@ The National Union of Students contended that fee deregulation would result in d
 
 Those are the reasons that Labor will not be supporting the Higher Education and Research Reform Bill. We do not see the need for it. There is no clear evidence being put forward. Therefore, we will continue our opposition to it. 
 
-",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,3,1,speech
 "Seselja, Sen Zed",LP,2015-03-17,"
 
 
@@ -444,7 +444,7 @@ Senator SESELJA:
 
 Debate interrupted.
 
-",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,3,1,speech
 "Carr, Sen Kim",ALP,2015-03-17,"
 
 
@@ -530,7 +530,7 @@ Regardless of what happens to this bill in the Senate, we will be taking this fi
 
 The government has broken faith with the Australian people on its promises. In doing so, they have taken universities and the Australian people for granted. If they have their way, universities will be able to charge whatever they want—and the losers in that equation are the Australian people. Social justice will be impeded, prosperity will be impeded, and universities will suffer dramatically as we develop a two-tiered system based on a perfidy of a proposition that you can always get what you want if you have the capacity to pay. It would give aid and comfort to the coalition's fundamental belief that this is a rich man's country yet. We shall not let that proposition be forgotten, and we will fight this issue right through to the next election and beyond. 
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Rhiannon, Sen Lee",AG,2015-03-17,"
 
 
@@ -611,7 +611,7 @@ The National Tertiary Education Union have also taken up this issue. They have i
 
 This is legislation that should not be before this House. By far the bulk of it has already been considered and has already been voted down. It is, again, a very poor attempt by the minister to get his way. This legislation is destructive, both in terms of the impact that it would have on individual students, who would be carrying the huge debt burden for much of their lives—many would never be able to pay it off—and also destructive of the very fabric of our society. It is no way to run a higher education system, to build an educated, innovative nation by penalising students and their families and pushing the cost burden onto those people rather than the government accepting its responsibility. If you are in government a key part of your job is to pay for the higher education system. This bill should be defeated.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Reynolds, Sen Linda",LP,2015-03-17,"
 
 
@@ -688,7 +688,7 @@ Under this legislation, regional education providers will have the opportunity t
 
 Let's make no mistake here: these changes are vital to Australia's higher education sector, to our students and to the future of our economy. There are simply no viable alternatives to these reforms. Certainly we have heard not a single one from those opposite. Without reform, our higher education sector will stall in an increasingly competitive international market. That is a fact. Universities may not close their doors but, as the university vice-chancellors themselves have said, the quality of higher education in Australia will decrease significantly. They will become less competitive, leaving our students to bear the consequences of not being prepared for future industries and the competitive international environment. In the end, the casualties of this bill being defeated will be our students and that is in no way acceptable and is a complete abrogation of our responsibility in this place. As I said, a problem delayed is a problem denied. In this case, it would have devastating consequences. I commend this bill to the Senate. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Lines, Sen Susan",ALP,2015-03-17,"
 
 
@@ -768,7 +768,7 @@ The National Union of Students contended that fee deregulation would result in d
 
 Those are the reasons that Labor will not be supporting the Higher Education and Research Reform Bill. We do not see the need for it. There is no clear evidence being put forward. Therefore, we will continue our opposition to it. 
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Seselja, Sen Zed",LP,2015-03-17,"
 
 
@@ -866,7 +866,201 @@ Senator SESELJA:
 
 Debate interrupted.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
+"Carr, Sen Kim",ALP,2015-03-17,"
+
+
+
+Senator KIM CARR
+ (Victoria) (14:00):  My question is to Senator Abetz, the minister representing the Prime Minister. I refer to the threats made by the Minister for Education, Christopher 'the fixer' Pyne, on Sunday's Insiders program, when he said:
+
+
+… there are consequences … for not voting for this reform … The consequences are that potentially 1,700 researchers will lose their jobs …
+
+
+Was this threat authorised by the Prime Minister?
+
+
+
+The PRESIDENT:  Before I call Senator Abetz: Senator Carr and all senators, please refer to members of the other place by their correct titles.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Carr, Sen Kim",ALP,2015-03-17,"
+
+
+
+Senator KIM CARR
+ (Victoria) (14:03):  Mr President, I ask a supplementary question. Did the cabinet authorise the education minister's humiliating backdown on higher education and research funding, or was this yet another 'captain's call'?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Carr, Sen Kim",ALP,2015-03-17,"
+
+
+
+Senator KIM CARR
+ (Victoria) (14:05):  Mr President, I ask a further supplementary question. I refer to Professor Bruce Chapman's statement in The Australian today, on the government's latest deregulation plan: 
+
+
+… I still expect that prices, at least for the Group of Eight strong demand courses, will be at least two and a half times higher …
+
+
+Can the minister confirm that this would result in $100,000 degrees for four-year courses in law, accounting, veterinary science and business administration—or has Mr Pyne fixed that too?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Abetz, Sen Eric",LP,2015-03-17,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:00):  Let us get one thing very clear: no threat was made. But what I would remind the honourable senator opposite of is his record and the Labor government's record. Indeed, Nobel laureate Professor Brian Schmidt said on ABC radio:
+
+
+I think this is an incredibly important reform. The current university funding model is … broken.
+
+
+He then went on to say:
+
+
+This has been a bit of a train wreck for the last five years. In 2011, on the day I won the Nobel Prize, I brought this up as a challenge for the then Labor government that this was being done on a year-by-year basis, it was being done very poorly … 
+
+
+So that of which Senator Carr speaks is a Labor legacy. When we got into government, we found that there was no money left for research and science, or NCRIS, I should say. The money ran out as of 30 June 2015. And, as my good friend the Minister for Finance assisted me with yesterday, on page 88, if I recall, of budget paper—
+
+
+
+The PRESIDENT:  Pause the clock.
+
+
+
+
+Senator Kim Carr:
+  Mr President, my point of order relates to direct relevance. I asked: did the Prime Minister authorise Minister Pyne's threats to the 1,700 researchers—
+
+
+
+
+Senator Wong:
+  It was a lapsing program.
+
+
+
+
+Senator Kim Carr:
+  namely, that they would lose their jobs?
+
+
+
+The PRESIDENT:  Senator Carr, there was an implication in your question about a threat. The minister, first up, said there was no threat, 'Let me be clear.' The minister has 37 seconds left to answer the question. Minister.
+
+
+
+Senator Wong interjecting—
+
+
+
+
+Senator Cormann:
+  So it was a lapsing program, was it?
+
+
+
+
+Senator ABETZ:
+  This was a lapsing program, using the words of Senator Wong herself just then. Just then, in a very ill-disciplined interjection, the leader of the Labor opposition in this place acknowledged it was a lapsing program. Which was the government that provided the money to ensure that it was no longer lapsing? It was the coalition, it was us, that restored the funding. So, please, Senator Carr, you who cut science and research in this country by hundreds of millions of dollars have no credibility in this area. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Abetz, Sen Eric",LP,2015-03-17,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:04):  There was no humiliating backdown, so once again we can dismiss the Labor Party rhetoric. The only backdown that has occurred is in fact that the Labor Party that stopped funding for this program as of June 2015 now, all of a sudden, want to be the champions of it, after we restored the funding on page 88 of Budget Paper No. 2 in the last budget. We restored the funding. We provided the funding for a program that, out of the mouth of the leader of the opposition in this place today, we have heard, was a lapsing program—a program that the Labor Party thought was so unnecessary it could simply lapse. And today they come in here pretending to be the champions of NCRIS! Labor's actions in government speak so much louder than their words in opposition. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Abetz, Sen Eric",LP,2015-03-17,"
+
+
+
+Senator ABETZ
+ (Tasmania—Leader of the Government in the Senate, Minister Assisting the Prime Minister for the Public Service and Minister for Employment) (14:05):  That is an assertion with which we as a government of course disagree, as does—and I will get his name right today—Professor Ian Young. Not Ian Chubb but Professor Ian Young from the ANU has dismissed that completely. But, in relation to university reform, can I refer to the Nobel laureate Professor Brian Schmidt, who said:
+
+
+I think this is an incredibly important reform. The current university funding model is, in my opinion, not very good. I would say it's close to being broken.
+
+
+
+The PRESIDENT:  Pause the clock.
+
+
+
+
+Senator Moore:
+  Mr President, I raise a point of order on direct relevance to the question. The question referred specifically to Professor Bruce Chapman's comments.
+
+
+
+The PRESIDENT:  Thank you, Senator Moore. The minister has 22 seconds in which to answer the question. I call the minister.
+
+
+
+
+Senator ABETZ:
+  If Labor do not want to hear from a Nobel laureate, so be it. How about former Labor Premier Peter Beattie, who said:
+
+
+Make no mistake—
+
+
+
+The PRESIDENT:  Pause the clock.
+
+
+
+
+Senator Wong:
+  Mr President, I rise on a point of order as to direct relevance. The only question that the minister was asked was to confirm that the increase would result in $100,000 degrees for four types of courses.
+
+
+
+
+Senator ABETZ:
+  I have rejected that.
+
+
+
+The PRESIDENT:  Order, Senator Abetz!
+
+
+
+
+Senator Wong:
+  That is all he was asked. With respect, Mr President, it is a mockery of question time to allow ministers simply to answer any question by reference to a range of unrelated quotes.
+
+
+
+
+Senator ABETZ:
+  Mr President, on the point of order: the question was clearly about the false assertion about $100,000 degrees and then whether I agreed with somebody else's quote. So, in response to that, I am providing other quotes absolutely rejecting the assertion of Senator Carr. Clearly, that is in order. 
+
+
+
+The PRESIDENT:  In relation to the point of order, the minister did answer up-front that he rejected the assertion of the question. The minister—as all ministers have and continue to do—can elaborate on the answer. Minister, you have the call.
+
+
+
+
+Senator ABETZ:
+  If they do not like Labor has-beens, how about a current Labor fellow like Andrew Leigh, the member for Fraser:
+
+
+… universities should be free to set student fees according to the market value of their degrees.
+
+
+
+(Time expired)
+
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
 "Cameron, Sen Doug",ALP,2015-03-17,"
 
 
@@ -907,7 +1101,7 @@ Today Minister Pyne said that he would never give up on getting his cuts to the 
 
 Coalition members are not even prepared to stand up for their own communities. The South Australian senators were not prepared to stand up against the budget cuts to submarines, education or health. They are an absolute disgrace. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "Fawcett, Sen David",LP,2015-03-17,"
 
 
@@ -924,7 +1118,7 @@ The claims by the Labor Party that the coalition is bad for education are hollow
 
 Let us compare the words—the hollow rhetoric—of the ALP today with their actions when in government. In the 2011-12 budget, they reduced the HECS-HELP discount for voluntary repayments, a saving of nearly $608 million to the government. They reinstated band 2 student contributions for mathematics, statistics and science students—over $1 billion ripped out of the system. This was in an environment where are looking to encourage young men and women to take up maths and science, the very things we need to grow the engineering capacity of this nation, to develop a sustainable, innovative and smart future for Australian and our young people. The Labor government ripped a billion dollars out of higher education from the very areas that are critical to achieving that future. All up, the previous government took some $6½ billion out of higher education. This government is looking to put in place reform measures that will make higher education more affordable, sustainable and, importantly, accessible to people who need it, but the best the ALP can do is come here and criticise it—while completely ignoring the fact that, when they were in government, they disadvantaged the very people they now claim to support and represent. The government stands by these measures. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "Polley, Sen Helen",ALP,2015-03-17,"
 
 
@@ -1010,7 +1204,7 @@ Senator Conroy:
 Senator POLLEY:
   Yes,  the 'fixer' and the 'enforcer' in the government's caucus. That is what we have. So who next? I suggest to those opposite to at least engage with the community. If you are engaging with your constituency, you will see that the Australian people do not buy your policy. They do not want an American-style education system in this country because they know the failings of what happens in the US. We should be ensuring that every Australian, based on their ability, has the opportunity to go to university. Threats to people's employment to stop them debating the issue will not cloud the judgement of the Australia community.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "Bernardi, Sen Cory",LP,2015-03-17,"
 
 
@@ -1045,7 +1239,7 @@ I want to address the other reforms that I think the university sector needs to 
 
 I have researched the American university system with respect to the $100,000 degrees. In the United States you will find that an overwhelming number of people graduate with student debts that are less than $30,000 or $40,000. In fact, only about 10 per cent of students have student debts in excess of $40,000. So that bells the cat that we are going to have everyone graduating with these massive debts. It is not necessarily the case. It is about how it is managed. We need to get the troglodytes into the 21st century.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "McEwen, Sen Anne",ALP,2015-03-17,"
 
 
@@ -1075,7 +1269,7 @@ The answers given in question time today to the questions asked by the oppositio
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,5,1,speech
 "PRESIDENT, The",,2015-03-17,"
 
 
@@ -1083,7 +1277,7 @@ Question agreed to.
 The PRESIDENT
  (15:37):  Does any senator wish to have that question put? There being none, we will declare that is happening.
 
-",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs Legislation Committee</title>,COMMITTEES,7,1
+",Senate,<title>COMMITTEES</title>,<title>Legal and Constitutional Affairs Legislation Committee</title>,COMMITTEES,7,1,speech
 "PRESIDENT, The",,2015-03-17,"
 
 
@@ -1091,7 +1285,7 @@ The PRESIDENT
 The PRESIDENT
  (15:37):  Does any senator wish to have that question put? There being none, we will declare that is happening.
 
-",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,7,2
+",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,7,2,speech
 "Bushby, Sen David",LP,2015-03-17,"
 
 
@@ -1130,7 +1324,7 @@ Senator Siewert:
 
 The PRESIDENT:  It is now noted, thank you.
 
-",Senate,<title>MOTIONS</title>,<title>Uranium Mining</title>,MOTIONS,9,1
+",Senate,<title>MOTIONS</title>,<title>Uranium Mining</title>,MOTIONS,9,1,speech
 "Ludlam, Sen Scott",AG,2015-03-17,"
 
 
@@ -1159,7 +1353,7 @@ That—
 
 (b) there be laid on the table by the Attorney-General, no later than noon on Thursday, 19 March 2015, the report on the operation of the Telecommunications (Interception and Access) Act for the year ended 30 June 2014.
 
-",Senate,<title>DOCUMENTS</title>,<title>Telecommunications Data Retention</title>,DOCUMENTS,10,1
+",Senate,<title>DOCUMENTS</title>,<title>Telecommunications Data Retention</title>,DOCUMENTS,10,1,speech
 "Fifield, Sen Mitch",LP,2015-03-17,"
 
 
@@ -1177,7 +1371,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator FIFIELD:
   Thank you. The government does not support this motion. Section 164 of the Telecommunications (Interception and Access) Act 1979 requires the annual report to be tabled up to 15 sitting days after the Attorney-General has received it. The government has yet to receive the report. The preparation of the annual report involves the compilation of information from over 100 Commonwealth, state and territory agencies. The time at which tabling occurs has varied from year to year under successive governments and has previously occurred any time from December through to late March. As much as Senator Ludlam would wish this to be some sort of government conspiracy, I regret to advise him that that is not the case.
 
-",Senate,<title>DOCUMENTS</title>,<title>Telecommunications Data Retention</title>,DOCUMENTS,10,1
+",Senate,<title>DOCUMENTS</title>,<title>Telecommunications Data Retention</title>,DOCUMENTS,10,1,speech
 "Ludlam, Sen Scott",AG,2015-03-17,"
 
 
@@ -1198,7 +1392,7 @@ Senator LUDLAM:
 
 Question agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Telecommunications Data Retention</title>,DOCUMENTS,10,1
+",Senate,<title>DOCUMENTS</title>,<title>Telecommunications Data Retention</title>,DOCUMENTS,10,1,speech
 "Ludlam, Sen Scott",AG,2015-03-17,"
 
 
@@ -1227,7 +1421,7 @@ That—
 
 (b) there be laid on the table by the Attorney-General, no later than noon on Thursday, 19 March 2015, the report on the operation of the Telecommunications (Interception and Access) Act for the year ended 30 June 2014.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,10,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,10,2,speech
 "Fifield, Sen Mitch",LP,2015-03-17,"
 
 
@@ -1245,7 +1439,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator FIFIELD:
   Thank you. The government does not support this motion. Section 164 of the Telecommunications (Interception and Access) Act 1979 requires the annual report to be tabled up to 15 sitting days after the Attorney-General has received it. The government has yet to receive the report. The preparation of the annual report involves the compilation of information from over 100 Commonwealth, state and territory agencies. The time at which tabling occurs has varied from year to year under successive governments and has previously occurred any time from December through to late March. As much as Senator Ludlam would wish this to be some sort of government conspiracy, I regret to advise him that that is not the case.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,10,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,10,2,speech
 "Ludlam, Sen Scott",AG,2015-03-17,"
 
 
@@ -1266,7 +1460,7 @@ Senator LUDLAM:
 
 Question agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,10,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,10,2,speech
 "Rhiannon, Sen Lee",AG,2015-03-17,"
 
 
@@ -1298,7 +1492,7 @@ That the Senate—
 
 Question agreed to. 
 
-",Senate,<title>MOTIONS</title>,<title>Solar Energy eXchange Initiative</title>,MOTIONS,11,1
+",Senate,<title>MOTIONS</title>,<title>Solar Energy eXchange Initiative</title>,MOTIONS,11,1,speech
 "Milne, Sen Christine",AG,2015-03-17,"
 
 
@@ -1328,7 +1522,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Charter of Budget Honesty Amendment (Intergenerational Report) Bill 2015</title>,BILLS,12,1
+",Senate,<title>BILLS</title>,<title>Charter of Budget Honesty Amendment (Intergenerational Report) Bill 2015</title>,BILLS,12,1,speech
 "Milne, Sen Christine",AG,2015-03-17,"
 
 
@@ -1400,7 +1594,7 @@ Senator MILNE:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Charter of Budget Honesty Amendment (Intergenerational Report) Bill 2015</title>,BILLS,12,1
+",Senate,<title>BILLS</title>,<title>Charter of Budget Honesty Amendment (Intergenerational Report) Bill 2015</title>,BILLS,12,1,speech
 "Milne, Sen Christine",AG,2015-03-17,"
 
 
@@ -1430,7 +1624,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,12,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,12,2,speech
 "Xenophon, Sen Nick",Ind.,2015-03-17,"
 
 
@@ -1450,7 +1644,7 @@ That there be laid on the table, no later than 4 pm on Monday, 23rd March 2015:
 
 Question agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Automotive Transformation Scheme</title>,DOCUMENTS,13,1
+",Senate,<title>DOCUMENTS</title>,<title>Automotive Transformation Scheme</title>,DOCUMENTS,13,1,speech
 "Xenophon, Sen Nick",Ind.,2015-03-17,"
 
 
@@ -1470,7 +1664,7 @@ That there be laid on the table, no later than 4 pm on Monday, 23rd March 2015:
 
 Question agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,13,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,13,2,speech
 "Waters, Sen Larissa",AG,2015-03-17,"
 
 
@@ -1515,7 +1709,7 @@ The PRESIDENT:  Leave is granted for one minute.
 Senator WATERS:
   Thank you. Today this motion celebrates the power of ordinary Australians to secure a safe climate future. Both the federal and Queensland governments are in lock-step with Australian and Indian mining billionaires as they try to build one of the world's biggest coal ports right in the heart of the reef at Abbot Point. Already, nine international banks have ruled out financing the Abbot Point coal port and Australians are waiting for the big four Australian banks to start listening and join them. The Australian Youth Climate Coalition's 'Dump Your Bank' campaign helps ordinary customers break up with their bank by moving their money. They are making sure that savings are not used to fund the destruction of the Great Barrier Reef and our climate. Where our government has failed to act, ordinary Australians are stepping up and taking control of their own future. They are telling the big four banks it is not a good investment if it is wrecking the planet and in this age of climate change Australia cannot afford to open up the coal megamines in the Galilee Basin. I commend this motion to the Senate.
 
-",Senate,<title>MOTIONS</title>,<title>Great Barrier Reef</title>,MOTIONS,14,1
+",Senate,<title>MOTIONS</title>,<title>Great Barrier Reef</title>,MOTIONS,14,1,speech
 "Fifield, Sen Mitch",LP,2015-03-17,"
 
 
@@ -1537,7 +1731,7 @@ Senator FIFIELD:
 
 The PRESIDENT:  The question is that the motion moved by Senator Waters be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Great Barrier Reef</title>,MOTIONS,14,1
+",Senate,<title>MOTIONS</title>,<title>Great Barrier Reef</title>,MOTIONS,14,1,speech
 "PRESIDENT, The",,2015-03-17,"
 
 
@@ -1564,7 +1758,7 @@ More than the number of senators required by the standing orders having risen in
 
 The PRESIDENT:  The proposal is supported. I understand that informal arrangements have been made to allocate specific times to each of the speakers in today's debate. With the concurrence of the Senate, I shall ask the clerks to set the clock accordingly.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "McLucas, Sen Jan",ALP,2015-03-17,"
 
 
@@ -1602,7 +1796,7 @@ There are many good Indigenous-run organisations that have worked hard to improv
 
 Sadly, it seems to stand true that Mr Abbott sees Indigenous disadvantage as a lifestyle choice. If this is Mr Abbott's commitment to closing the gap, it is an utter disgrace.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Scullion, Sen Nigel",CLP,2015-03-17,"
 
 
@@ -1679,7 +1873,7 @@ Perhaps I should touch on a couple of things in the record of those on the other
 
 So, once again, this is a matter of public importance, and the importance of this matter is to come into this place and tell the whole truth. Don't just pick up what you like and say, 'Isn't this going to impress people on the front page,' because I can tell you they are not impressed. Our first Australians of this parliament—not this government, this parliament—deserve the whole truth about exactly what is going on, and this so-called matter of public importance serves no justice whatsoever.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Siewert, Sen Rachel",AG,2015-03-17,"
 
 
@@ -1696,7 +1890,7 @@ What the overall strategy is seems to have been a bit of a collection of what pe
 
 We do not know what has or has not been funded under the Indigenous Advancement Strategy. We do know that some organisations did not put in funding bids because they did not think they would be able to meet the guidelines in time. We also know that some organisations, because of the rapidity with which they had to put in applications, were not able to complete their applications to a satisfactory standard and they seem to have been assisted in improving those applications. Again, it makes a farce of the process. In estimates a couple of cycles ago the minister and the department admitted that the funding cut had not been made as a result of a strategic approach—it was an efficiency drive. There have been funding cuts to this program, and instead of the minister addressing the issues around the Indigenous Advancement Strategy, he goes to the same boring views and trite remarks about debt. Whenever a government minister does not want to answer a question in this place they make that point—and that is what he has just done. I expected him to be better than that and to address the issues. I understand that the department probably did not want to make a mistake about not funding those youth services that are absolutely critical in Central Australia in addressing substance abuse, but that is what happened—those applications were put in and they have fallen through the gap in terms of being addressed by government. Again, it makes a mockery of their claims that they have been through a strategic approach with this Indigenous Advancement Strategy. They have not. I resent the minister coming in here and lecturing us about what we should be doing and asking us to support them blindly.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Peris, Sen Nova",ALP,2015-03-17,"
 
 
@@ -1746,7 +1940,7 @@ Does Australia want to have a relationship with Aboriginal people, or does it no
 
 This Thursday is National Close the Gap Day. I pose this question to the minister and to the Prime Minister: which gap will you be closing?
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Reynolds, Sen Linda",LP,2015-03-17,"
 
 
@@ -1794,7 +1988,7 @@ We intend to turn it around and we intend to do it much better. This government,
 
 This government truly does believe that Indigenous Australians deserve a much better future and that we have to do everything we can to close the gap. But more job opportunities are required. We need to empower individuals and communities. We need to promote and encourage, so as to result in higher standards of living. The initiatives we are taking in this area are a genuine attempt to ensure that we move closer to making these goals a reality. I believe that, rather than moving motions such as this MPI today, which is clearly designed for a political purpose and is untrue, it would be far more productive if those in this place worked together genuinely to close the gap—not for cheap political stunts of the day but to work together to get better outcomes for all Indigenous Australians. They need outcomes. They need a better life. We need to close the gap, and they do not need political stunts.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Lazarus, Sen Glenn",Ind.,2015-03-17,"
 
 
@@ -1817,7 +2011,7 @@ First Australians already suffer high incarceration rates. Cutting front-line se
 
 I call on the Abbott government to reverse budget cuts to Aboriginal legal services. Our First Australians deserve better. Living in a remote community is not a lifestyle choice, it is life for Indigenous communities. The Abbott government should respect this and show greater empathy and cooperation towards First Australians and immediately reinstate funding to Australia's Aboriginal legal services.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "Lines, Sen Susan",ALP,2015-03-17,"
 
 
@@ -1870,7 +2064,7 @@ We have heard a lot in this Senate recently—and, indeed, in this parliament—
 
 It does not matter how you put it, they have been cut. Not only that—they have also been gagged. Part of their new contract says that they cannot come out and criticise the government. Even if the government chooses to gag those services, Labor will continue to criticise the government for gagging those services and cutting their funding. We will not see improvements in Closing the Gap targets if we have to continue to witness this disgraceful attack on front-line services which is cutting their budgets, cutting their voices and leaving them without any funding at all.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "O'Sullivan, Sen Barry",Nats,2015-03-17,"
 
 
@@ -1986,7 +2180,7 @@ Senator O'SULLIVAN:
 
 The ACTING DEPUTY PRESIDENT:  Order! The time for the discussion has expired.
 
-",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1
+",Senate,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Indigenous Affairs</title>,MATTERS OF PUBLIC IMPORTANCE,16,1,speech
 "O'Sullivan, Sen Barry",Nats,2015-03-17,"
 
 
@@ -1994,7 +2188,7 @@ The ACTING DEPUTY PRESIDENT:  Order! The time for the discussion has expired.
 Senator O'SULLIVAN
  (Queensland—Nationals Whip in the Senate) (17:11):  On behalf of the Chair of the Parliamentary Standing Committee on Public Works, I present report No. 2 of 2015: Referrals made December 2014.
 
-",Senate,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,18,1
+",Senate,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,18,1,speech
 "O'Sullivan, Sen Barry",Nats,2015-03-17,"
 
 
@@ -2002,7 +2196,7 @@ Senator O'SULLIVAN
 Senator O'SULLIVAN
  (Queensland—Nationals Whip in the Senate) (17:11):  On behalf of the Chair of the Parliamentary Standing Committee on Public Works, I present report No. 2 of 2015: Referrals made December 2014.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,18,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,18,2,speech
 "Scullion, Sen Nigel",CLP,2015-03-17,"
 
 
@@ -2010,7 +2204,7 @@ Senator O'SULLIVAN
 Senator SCULLION
  (Northern Territory—Minister for Indigenous Affairs and Leader of The Nationals in the Senate) (17:13):  I table a document relating to the order for the production of documents concerning the Automotive Transformation Scheme.
 
-",Senate,<title>DOCUMENTS</title>,<title>Automotive Transformation Scheme</title>,DOCUMENTS,19,1
+",Senate,<title>DOCUMENTS</title>,<title>Automotive Transformation Scheme</title>,DOCUMENTS,19,1,speech
 "Scullion, Sen Nigel",CLP,2015-03-17,"
 
 
@@ -2018,7 +2212,7 @@ Senator SCULLION
 Senator SCULLION
  (Northern Territory—Minister for Indigenous Affairs and Leader of The Nationals in the Senate) (17:13):  I table a document relating to the order for the production of documents concerning the Automotive Transformation Scheme.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,19,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,19,2,speech
 "Scullion, Sen Nigel",CLP,2015-03-17,"
 
 
@@ -2035,7 +2229,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 1) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,21,1
+",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 1) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,21,1,speech
 "Scullion, Sen Nigel",CLP,2015-03-17,"
 
 
@@ -2154,7 +2348,7 @@ Details of the proposed expenditure are set out in the schedules to the bill and
 
 Debate adjourned.
 
-",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 1) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,21,1
+",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 1) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,21,1,speech
 "Scullion, Sen Nigel",CLP,2015-03-17,"
 
 
@@ -2171,7 +2365,7 @@ Question agreed to.
 
 Bills read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,21,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,21,2,speech
 "O'Sullivan, Sen Barry",Nats,2015-03-17,"
 
 
@@ -2182,7 +2376,7 @@ Senator O'SULLIVAN
 
 Ordered that the reports be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Legislation Committees</title>,COMMITTEES,22,1
+",Senate,<title>COMMITTEES</title>,<title>Legislation Committees</title>,COMMITTEES,22,1,speech
 "O'Sullivan, Sen Barry",Nats,2015-03-17,"
 
 
@@ -2193,7 +2387,7 @@ Senator O'SULLIVAN
 
 Ordered that the reports be printed.
 
-",Senate,<title>COMMITTEES</title>,<title>Reports</title>,COMMITTEES,22,2
+",Senate,<title>COMMITTEES</title>,<title>Reports</title>,COMMITTEES,22,2,speech
 "Madigan, Sen John",Ind.,2015-03-17,"
 
 
@@ -2225,7 +2419,7 @@ This bill may have the potential to make more seats available in university libr
 
 In summary, I would like to finish off where I began. Senators have been charged with a great privilege, but with it comes great responsibility. I have serious concerns with the bill in its current form, but I also fear the consequences of doing nothing. Thank you. 
 
-",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,23,1,speech
 "Milne, Sen Christine",AG,2015-03-17,"
 
 
@@ -2308,7 +2502,7 @@ Yet this parliament sat here last sitting week, and Labor and the Liberals got t
 
 Let us actually fund our public universities. Wouldn't that be a great contribution to the future of this country? Let us actually make sure that those people who benefited from a free education are the people who deliver to the next generation a publicly funded education. I can tell you that, whenever I go out, people say to me how annoyed they are that the very people who benefited from Gough Whitlam's free education are the ones who have gone and cut back on that free education and have insisted on the cuts, and it is wrong. That is why the Greens will be absolutely opposing this government's legislation.
 
-",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,23,1,speech
 "Lambie, Sen Jacqui",Ind.,2015-03-17,"
 
 
@@ -2418,7 +2612,7 @@ We do not want that future for Tasmanian or Australia.
 
 In closing: if Minister Pyne and Prime Minister Tony Abbott have so much faith in the higher education reforms contained in this bill, why did they not tell the people of Tasmania and of the other states about their reforms before the last election? If the Liberal's higher education policies were any good there would not be a need for a cover-up followed by a disgraceful political ambush and now these desperate threats. I oppose this legislation with every fibre of my being. I will always do so.
 
-",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,23,1,speech
 "Xenophon, Sen Nick",Ind.,2015-03-17,"
 
 
@@ -2528,7 +2722,7 @@ We also need to acknowledge, in the brief time I have available in this debate, 
 
 But what we have right now is a mess. We need to step back from this and look at some comprehensive reform to get this right, because what has happened to date is less than satisfactory. We need to get this right. We owe it to the students of Australia and we owe it to the taxpayers of Australia to get this right. I cannot support the second reading of this bill but I hazard a guess that this will not be the end of it. We still have much work to do to do the right thing by this sector.
 
-",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,23,1,speech
 "Birmingham, Sen Simon",LP,2015-03-17,"
 
 
@@ -2642,7 +2836,7 @@ I particularly urge those opposite as we move beyond this debate, noting that it
 
 The PRESIDENT:  The question is that the bill be now read a second time.
 
-",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,23,1
+",Senate,<title>BILLS</title>,<title>Higher Education and Research Reform Bill 2014</title>,BILLS,23,1,speech
 "Madigan, Sen John",Ind.,2015-03-17,"
 
 
@@ -2674,7 +2868,7 @@ This bill may have the potential to make more seats available in university libr
 
 In summary, I would like to finish off where I began. Senators have been charged with a great privilege, but with it comes great responsibility. I have serious concerns with the bill in its current form, but I also fear the consequences of doing nothing. Thank you. 
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Milne, Sen Christine",AG,2015-03-17,"
 
 
@@ -2757,7 +2951,7 @@ Yet this parliament sat here last sitting week, and Labor and the Liberals got t
 
 Let us actually fund our public universities. Wouldn't that be a great contribution to the future of this country? Let us actually make sure that those people who benefited from a free education are the people who deliver to the next generation a publicly funded education. I can tell you that, whenever I go out, people say to me how annoyed they are that the very people who benefited from Gough Whitlam's free education are the ones who have gone and cut back on that free education and have insisted on the cuts, and it is wrong. That is why the Greens will be absolutely opposing this government's legislation.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Lambie, Sen Jacqui",Ind.,2015-03-17,"
 
 
@@ -2867,7 +3061,7 @@ We do not want that future for Tasmanian or Australia.
 
 In closing: if Minister Pyne and Prime Minister Tony Abbott have so much faith in the higher education reforms contained in this bill, why did they not tell the people of Tasmania and of the other states about their reforms before the last election? If the Liberal's higher education policies were any good there would not be a need for a cover-up followed by a disgraceful political ambush and now these desperate threats. I oppose this legislation with every fibre of my being. I will always do so.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Xenophon, Sen Nick",Ind.,2015-03-17,"
 
 
@@ -2977,7 +3171,7 @@ We also need to acknowledge, in the brief time I have available in this debate, 
 
 But what we have right now is a mess. We need to step back from this and look at some comprehensive reform to get this right, because what has happened to date is less than satisfactory. We need to get this right. We owe it to the students of Australia and we owe it to the taxpayers of Australia to get this right. I cannot support the second reading of this bill but I hazard a guess that this will not be the end of it. We still have much work to do to do the right thing by this sector.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Birmingham, Sen Simon",LP,2015-03-17,"
 
 
@@ -3091,7 +3285,7 @@ I particularly urge those opposite as we move beyond this debate, noting that it
 
 The PRESIDENT:  The question is that the bill be now read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Wong, Sen Penny",ALP,2015-03-17,"
 
 
@@ -3141,7 +3335,7 @@ For all of these reasons, we condemn many of the measures in the government budg
 
 With a number of the measures I have outlined, whilst reflected in the budget figures that ground these appropriation bills, obviously Labor will continue to oppose legislation giving effect to them. However, Labor is a party of government. We have made it clear that we would not be so irresponsible as to block supply. So we intend to support the passage of the appropriation bills through the parliament.
 
-",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 2) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,25,1
+",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 2) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,25,1,speech
 "Leyonhjelm, Sen David",LDP,2015-03-17,"
 
 
@@ -3225,7 +3419,7 @@ This is otherwise known as pork-barrelling.
 
 Blocking $250,000-worth of grants will not balance the budget, but it is better than nothing. It should be supported and there should be more like it.
 
-",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 2) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,25,1
+",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 2) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,25,1,speech
 "Nash, Sen Fiona",Nats,2015-03-17,"
 
 
@@ -3251,7 +3445,7 @@ Question agreed to.
 
 Bills read a second time.
 
-",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 2) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,25,1
+",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 2) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,25,1,speech
 "Leyonhjelm, Sen David",LDP,2015-03-17,"
 
 
@@ -4768,7 +4962,7 @@ I oppose clause 14 and schedule 1 in the following terms:
 
 The purpose of these amendments is to implement what I talked about before—the tied grants. I am philosophically opposed to tied grants. They are bad practice. They amount to pork-barrelling. These amendments are the removal of those costs. It is $250,000. It is a symbolic amount, as I said, but the principle on which it is based is wrong. I commend the amendments.
 
-",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 2) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,25,1
+",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 2) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,25,1,speech
 "Nash, Sen Fiona",Nats,2015-03-17,"
 
 
@@ -4776,7 +4970,7 @@ The purpose of these amendments is to implement what I talked about before—the
 Senator NASH
  (New South Wales—Deputy Leader of The Nationals in the Senate and Assistant Minister for Health) (19:11):  The government is not in the terrain where we entertain line item amendments. I refer the senator to my previous comments in my summing-up speech. We will not be supporting the amendments.
 
-",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 2) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,25,1
+",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 2) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,25,1,speech
 "Wong, Sen Penny",ALP,2015-03-17,"
 
 
@@ -4809,7 +5003,7 @@ Bill agreed to.
 
 Bill reported without amendments; report adopted.
 
-",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 2) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,25,1
+",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 2) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,25,1,speech
 "Nash, Sen Fiona",Nats,2015-03-17,"
 
 
@@ -4826,7 +5020,7 @@ Question agreed to.
 
 Bills read a third time.
 
-",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 2) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,25,1
+",Senate,<title>BILLS</title>,"<title>Appropriation (Parliamentary Departments) Bill (No. 2) 2014-2015, Appropriation Bill (No. 3) 2014-2015, Appropriation Bill (No. 4) 2014-2015</title>",BILLS,25,1,speech
 "Wong, Sen Penny",ALP,2015-03-17,"
 
 
@@ -4876,7 +5070,7 @@ For all of these reasons, we condemn many of the measures in the government budg
 
 With a number of the measures I have outlined, whilst reflected in the budget figures that ground these appropriation bills, obviously Labor will continue to oppose legislation giving effect to them. However, Labor is a party of government. We have made it clear that we would not be so irresponsible as to block supply. So we intend to support the passage of the appropriation bills through the parliament.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Leyonhjelm, Sen David",LDP,2015-03-17,"
 
 
@@ -4960,7 +5154,7 @@ This is otherwise known as pork-barrelling.
 
 Blocking $250,000-worth of grants will not balance the budget, but it is better than nothing. It should be supported and there should be more like it.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Nash, Sen Fiona",Nats,2015-03-17,"
 
 
@@ -4986,7 +5180,7 @@ Question agreed to.
 
 Bills read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Peris, Sen Nova",ALP,2015-03-17,"
 
 
@@ -5015,4 +5209,4 @@ Uncle John should have had the right to choose a peaceful and pain-free death. I
 
 I send my love and condolences to his family and to his wife Jan, who cared for and loved him throughout his illness. Vale, John Baylis. May you now rest in peace.
 
-",Senate,<title>ADJOURNMENT</title>,"<title>Baylis, Mr John</title>",ADJOURNMENT,26,1
+",Senate,<title>ADJOURNMENT</title>,"<title>Baylis, Mr John</title>",ADJOURNMENT,26,1,speech

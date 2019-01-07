@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2017-10-18,"
 
 
@@ -825,7 +825,7 @@ Other Members — 5 minutes each.
 The Committee determined that consideration of this matter should continue on a future day.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,0,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,0,1,speech
 "Smith, Tony, MP",LP,2017-10-18,"
 
 
@@ -1652,7 +1652,7 @@ Other Members — 5 minutes each.
 The Committee determined that consideration of this matter should continue on a future day.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,0,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,0,2,speech
 "Marino, Nola, MP",LP,2017-10-18,"
 
 
@@ -1660,7 +1660,7 @@ The Committee determined that consideration of this matter should continue on a 
 Ms MARINO
  (Forrest—Chief Government Whip) (09:31):  I declare that the Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017 is referred to the Federation Chamber for further consideration.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,1,1,speech
 "Marino, Nola, MP",LP,2017-10-18,"
 
 
@@ -1668,7 +1668,7 @@ Ms MARINO
 Ms MARINO
  (Forrest—Chief Government Whip) (09:31):  I declare that the Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017 is referred to the Federation Chamber for further consideration.
 
-",HoR,<title>BILLS</title>,<title>Reference to Federation Chamber</title>,BILLS,1,2
+",HoR,<title>BILLS</title>,<title>Reference to Federation Chamber</title>,BILLS,1,2,speech
 "Hunt, Greg, MP",LP,2017-10-18,"
 
 
@@ -1682,7 +1682,7 @@ That in accordance with section 10B of the Health Insurance Act 1973, the House 
 
 Question agreed to. 
 
-",HoR,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Health Insurance (Extended Medicare Safety Net) Determination 2017</title>,REGULATIONS AND DETERMINATIONS,2,1
+",HoR,<title>REGULATIONS AND DETERMINATIONS</title>,<title>Health Insurance (Extended Medicare Safety Net) Determination 2017</title>,REGULATIONS AND DETERMINATIONS,2,1,speech
 "Leigh, Andrew, MP",ALP,2017-10-18,"
 
 
@@ -1726,7 +1726,7 @@ Labor will support the modest measures contained in this bill, but we do believe
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (2017 Measures No. 6) Bill 2017</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (2017 Measures No. 6) Bill 2017</title>,BILLS,3,1,speech
 "Ciobo, Steven, MP",LP,2017-10-18,"
 
 
@@ -1740,7 +1740,7 @@ That the Treasury Laws Amendment (2017 Measures No. 6) Bill 2017 be referred to 
 
 Question agreed to.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (2017 Measures No. 6) Bill 2017</title>,BILLS,3,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (2017 Measures No. 6) Bill 2017</title>,BILLS,3,1,speech
 "Leigh, Andrew, MP",ALP,2017-10-18,"
 
 
@@ -1784,7 +1784,7 @@ Labor will support the modest measures contained in this bill, but we do believe
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,3,2,speech
 "Brodtmann, Gai, MP",ALP,2017-10-18,"
 
 
@@ -1807,7 +1807,70 @@ Every day, one in 10 women live with this disease, and many unknowingly go throu
 
 Finally, I want to acknowledge Caitlin Figueiredo, who wrote this speech, and—like most women on the Plan International scheme—doesn't take any credit for it. Also, Watawieh to Norfolk Island primary school. Welcome to Canberra!
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Endometriosis</title>,STATEMENTS BY MEMBERS,4,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Endometriosis</title>,STATEMENTS BY MEMBERS,4,1,speech
+"Shorten, Bill, MP",ALP,2017-10-18,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:01):  My question is to the Prime Minister. I refer to the Prime Minister's latest energy policy. Can the Prime Minister confirm that the government has not modelled its impact on business—
+
+
+
+Government members interjecting—
+
+
+
+The SPEAKER:  The Leader of the House will cease interjecting, as will the Minister for the Environment and Energy. The Leader of the Opposition will begin his question again. I need to hear the question.
+
+
+
+
+Mr SHORTEN:
+  My question is to the Prime Minister. I refer to the Prime Minister's latest energy policy. Can the Prime Minister confirm that the government has not modelled its impact on business, has not modelled its impact on renewable energy jobs, has not modelled its impact on the broader economy and has not modelled its impact on households? Why should Australians believe anything that this Prime Minister says about a lousy 50c saving in people's power bills?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Turnbull, Malcolm, MP",LP,2017-10-18,"
+
+
+
+Mr TURNBULL
+ (Wentworth—Prime Minister) (14:02):  Earlier today the Leader of the Opposition stood in front of some solar panels. For a little while he was talking sense, and then a beam of sunlight struck the panel and he was transformed, not into a werewolf but into an economic fantasist. He said, 'Renewable energy is getting cheaper and will continue to do so.' He did. He said, 'It's correct to say we've been moving down the renewable energy path and we're seeing the benefits.' And then he said, 'It needs to be subsidised.' This is the bit that we're struggling to understand. His comrade in arms, defying economics, was the member for Sydney. She's even more emphatic. She said to Kieran Gilbert that renewables are becoming cheaper all the time and are already cheaper than coal. Kieran Gilbert was not asking an unreasonable question when he said, 'So why subsidise it?' Fairly obvious! She said, 'It's not about subsidies; it's about certainty.' This is the Labor Party: 'It's about certainty.' I'll tell you what the certainty is: $66 billion of costs loaded onto Australian families and Australian businesses in order to subsidise technologies that are already the cheapest alternative, according to the Labor Party.
+
+
+If Labor were remotely fair dinkum or consistent about this, they would welcome the level playing field our Energy Guarantee offers—the level playing field! There are two constraints in the Energy Guarantee plan recommended by the Energy Security Board. One is to keep the lights on. Most people regard that as a very high priority—not the Labor Party, obviously. We do. The other one is to ensure that you meet your Paris commitments. That's very important, too. And then you've got to do so in the least-cost manner. That's the triple bottom line. That's what the Energy Security Board has recommended—a plan to deliver. It's about time Labor started becoming consistent and principled and rational and supported the advice of the experts.
+
+
+
+Mr Thistlethwaite interjecting—
+
+
+
+The SPEAKER:  The member for Kingsford Smith will cease interjecting.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Plibersek, Tanya, MP",ALP,2017-10-18,"
+
+
+
+Ms PLIBERSEK
+ (Sydney—Deputy Leader of the Opposition) (14:34):  My question is to the Prime Minister. Before coming to office, the Liberals promised Australians their power bills would drop by $550. They didn't. This year, the Prime Minister promised that wholesale gas prices would halve. They haven't. And yesterday it was revealed that the Prime Minister's latest energy policy might only reduce the power bills of Australians by a lousy 50c a week in three years time. Why would the Australian people believe anything this Prime Minister says about energy prices?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Frydenberg, Josh, MP",LP,2017-10-18,"
+
+
+
+Mr FRYDENBERG
+ (Kooyong—Minister for the Environment and Energy) (14:35):  I thank the member for Sydney for her question. I can read from an ACCC report, which says about the abolition of the carbon tax that the Commonwealth Treasury's estimated $550 cost saving to households is reasonable. So there we go—the Labor Party is at it again, telling a mistruth like the one that they have repeated in this House about a $1,000 increase. That goes against the advice of the Australian Energy Regulator and other agencies, and they haven't had the courage to repeat it in this place. We have been very successful not just in abolishing the carbon tax; we have also seen the wholesale spot price for gas come down from about $12 at the beginning of this year to about $7 right now. We have been putting pressure on the Queensland Labor government to rein in CS Energy and Stanwell, who are engaged in uncompetitive bidding practices. As a result of that direction, we have seen wholesale electricity prices in Queensland fall by about 25 per cent. 
+
+
+Then, of course, there is the work the Prime Minister did with retailers. I can inform the House that a family of four from Turramurra in Sydney with electricity costs of just under $2,800 a year used the government's Energy Made Easy website to switch suppliers, and as a result they will save around $650 a year. A family with three students were living in St Kilda, in Melbourne, and they had electricity costs of about $1,420 a year. They used the Victorian electricity website and they saved around $230 a year. A family of three living in Ashgrove, in Brisbane, had electricity costs of $2,850 a year, and as a result of the Prime Minister's intervention and promotion of the ability to switch retailers and contracts, they used the government's Energy Made Easy website, they switched suppliers and as a result they will save about $630 a year. Under our proposal, recommended to us by the Energy Security Board, the savings to households will be better than the ones that were promoted by the clean energy target—which the member for Port Adelaide himself described as a second-best option. 
+
+
+The Labor Party are isolated. They are standing alone in opposition to the recommendation from the experts. The industry, the big users and the industry organisations have all come around to support this initiative as being one that will deliver reliable, affordable power. (Time expired)
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Energy</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
 "Smith, Tony, MP",LP,2017-10-18,"
 
 
@@ -1830,7 +1893,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Macklin, Jenny, MP",ALP,2017-10-18,"
 
 
@@ -1900,7 +1963,7 @@ Mr Hawke:
 Ms MACKLIN:
   'What does that mean?' he says! What does it actually mean to invest in our people? What does it mean to actually invest in our little children? What does it mean to invest in our schools? What does it mean to make sure young people can go to university? Of course, not surprisingly, these people opposite have no idea. All they want to do is demonise the unemployed, demonise those people who can't find a job and demonise those people who find it so difficult to get out of poverty. No Australian wants to live in poverty. We're about making sure we do everything to help them. All those opposite want to do is demonise them.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Hawke, Alex, MP",LP,2017-10-18,"
 
 
@@ -1950,7 +2013,7 @@ The real people who face the challenges of poverty need to be given every suppor
 
 The economics of opportunity are what we are about. We reject this MPI. We reject the Labor Party's approach, because it is the ultimate poverty trap to condemn generation after generation to stay on welfare, with no hope of a job and with no hope of training. And it's the Turnbull coalition government that is growing the economy, putting the incentives in place for Australian businesses—that golden seam of commerce in this country of small and medium family owned businesses—to create the jobs and give young people the opportunity. We're doing the real work for it. It's paying the dividends. It is the largest job-creation year on record since the GFC. We're seeing the dividends. We thank those enterprises for doing it. We know the economics of opportunity and the economics of hope are the way forward for this country. 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Burney, Linda, MP",ALP,2017-10-18,"
 
 
@@ -1970,7 +2033,7 @@ For any decent government, the first priority should be the poor and inequality.
 
 The last speaker from the government said something about entrenched inequality, intergenerational inequality. Education is the way in which you deal with that, and we know that we will be investing in school funding. We know that proper investments in infrastructure and a fair tax system are the ways to deal with intergenerational poverty. It is not by scaring people, Minister; it is not by telling people they owe money that they don't owe; it is not by privatising and outsourcing government jobs. It is not by putting people so far behind that they have lost hope. How can it be that you are overseeing a system where people cannot even imagine a future? That is a shocking thing and a shocking indictment of this government. 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Laundy, Craig, MP",LP,2017-10-18,"
 
 
@@ -2004,7 +2067,7 @@ Mr LAUNDY:
 
 And then there is the last point, about South Australia. The member for Durack, who was interjecting somewhat in the last speech, mentioned a report in yesterday's paper, or two days ago, in South Australia about 102,000 people taking food parcels because they can't afford to pay their electricity bills. Why? Because the experiment has gone wrong. Everything this government has done has been aimed at delivering jobs. Why? Because jobs are the best form of welfare. The member for Grey, up the back there, came in and fought hard for Arrium. Why? It is because it means jobs. Mr Gupta has come in and worked with my department to secure a deal that will ensure the livelihood of some 10,000 people both directly and indirectly in his electorate alone—let alone those simple deals with government on pre-ordering rail lines moving forward where we can help with procurement. I've said it three times but I'll say it again: the best form of welfare is a job. This government has created 750,000 jobs in the past four years—327,000 in the past 12 months, and 80 per cent of those are full time. That's the part that those opposite don't get. Inequality is best handled with our progressive taxation system—the way it has always been handled since this country was formed. 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Watts, Tim, MP",ALP,2017-10-18,"
 
 
@@ -2024,7 +2087,7 @@ There are a number of causes of this phenomenon but the key cause lies in the ru
 
 What we need to fix this is for government to stand up for workers: to change the rules to put an end to sham contracts; to stop phoenixing of companies that cut wages and conditions; to ensure labour hire firms comply with basic employment conditions; to end the rorting of casual work definitions to avoid providing basic workplace standards; and to crack down on the exploitation of temporary migrant workers, an epidemic and a moral stain on our country at the moment. We need a government that will make Australian workplaces work for Australian workers. Thankfully, my constituents and the Australian people have that option. A Shorten Labor government will deliver this. We will fight poverty with the greatest bulwark we have against poverty: secure work at fair wages. 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Ramsey, Rowan, MP",LP,2017-10-18,"
 
 
@@ -2044,7 +2107,7 @@ On jobs and inequality, if we look at jobs alone and look at the way the Turnbul
 
 Then we have aspiration. Once there was a Labor leader, who those opposite now despise, who talked about the ladder of opportunity. He was right on that issue—the ladder of opportunity, where we help those at the bottom to get started. My colleague a few minutes ago took us through Australia's progressive taxation system. It works out that, as you climb higher up that ladder, you provide more back into the system for those who can't provide for themselves. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Champion, Nick, MP",ALP,2017-10-18,"
 
 
@@ -2100,7 +2163,7 @@ They have only ever had one idea—feed the donkey less and whip him harder. Tha
 
 And look at what else they're doing. They turn a blind eye to sham contracting. They turn a blind eye to shams in the visa system. They create a housing affordability crisis. They create an energy crisis through their division on carbon emissions, through their division on renewable energy. They cut energy supplements. They create a low-wage, high-poverty, high-unemployment system. Then they come into this House and say, 'Oh, well, the best form of welfare is a job.' Well, congratulations! You've just created a system where people can't get jobs, can't get wage rises, can't get a fair go, can't join the middle class. And then you have the temerity to come in here and ask for the Speaker's protection. Well, you're not going to get it, and you're not going to get it at the next election, either. What you're going to get is a kick in the pants.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Price, Melissa, MP",LP,2017-10-18,"
 
 
@@ -2123,7 +2186,7 @@ I spoke earlier about how Labor failed to fund the National Partnership Agreemen
 
 Those opposite love to make statements like they have today, despite history and despite our record. We are tackling poverty and inequality and I am very proud of our record. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Freelander, Mike, MP",ALP,2017-10-18,"
 
 
@@ -2161,7 +2224,7 @@ In housing, many people of retirement age still have large mortgages and many yo
 
 If I can mention, very quickly, one last thing—our foreign aid budget has been cut, leading to significant changes in some of the most disadvantaged countries in our neighbourhood, yet this government has shown no inclination to improve it. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Pasin, Tony, MP",LP,2017-10-18,"
 
 
@@ -2190,7 +2253,7 @@ The DEPUTY SPEAKER
 Mr Coulton
 ):  Order! The time for this discussion has concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Poverty and Inequality</title>,MATTERS OF PUBLIC IMPORTANCE,9,1,speech
 "Coulton, Mark (The DEPUTY SPEAKER)",Nats,2017-10-18,"
 
 
@@ -2201,7 +2264,7 @@ The DEPUTY SPEAKER
 Mr Coulton
 ) (16:11):  The question now is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,"<title>Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Bill 2017, First Home Super Saver Tax Bill 2017</title>",BILLS,10,1
+",HoR,<title>BILLS</title>,"<title>Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Bill 2017, First Home Super Saver Tax Bill 2017</title>",BILLS,10,1,speech
 "Khalil, Peter, MP",ALP,2017-10-18,"
 
 
@@ -2233,7 +2296,7 @@ I note that the member for McMahon put questions on notice to the Treasurer to p
 
 It is appropriate that every budget line item that is growing rapidly undergoes close scrutiny to ensure that the subsidy is achieving its stated objectives and that the quantum is appropriate when evaluated against competing policies. Two specific deductions—negative gearing and capital gains subsidies—are both significant calls on the budget and are growing at such a rapid rate that they need to be addressed. It is undeniable that negative gearing and the capital gains discount have not achieved their aim to boost housing supply and encourage the building of more new houses. In fiscal year 2016-17 they cost the budget over $10 billion. As an illustrative comparison, that's more than the government spends on higher education or child care. The capital gains discount subsidy is growing so rapidly, with revenue forgone doubling from $4.2 billion in 2013 to $8.6 billion by 2018-19. The repeated claims by the government—the justification for the immense cost to the public purse—that the benefits of such tax subsidies go overwhelmingly to low- and middle-income earners are simply incorrect. The government uses income data after deductions have been applied. More reliable data that uses gross income shows that the benefits go overwhelmingly to higher income earners. We see on this side, and it is there for all to see, that this is where the skewed priorities of this government come into sharp focus.
 
-",HoR,<title>BILLS</title>,"<title>Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Bill 2017, First Home Super Saver Tax Bill 2017</title>",BILLS,10,1
+",HoR,<title>BILLS</title>,"<title>Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Bill 2017, First Home Super Saver Tax Bill 2017</title>",BILLS,10,1,speech
 "Hill, Julian, MP",ALP,2017-10-18,"
 
 
@@ -2286,7 +2349,7 @@ If Australia is to be a genuinely fair nation we need to have genuine policies t
 
 The Australian people had a clear choice in this area at the last election and will have a clear choice at the next election. We will reform the unsustainable, regressive, damaging, distorting tax concessions that overwhelmingly benefit those who already have a foothold in the property market and who continue to work to push up prices faster than incomes and so lock out young people from the hope of ever owning a house. 
 
-",HoR,<title>BILLS</title>,"<title>Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Bill 2017, First Home Super Saver Tax Bill 2017</title>",BILLS,10,1
+",HoR,<title>BILLS</title>,"<title>Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Bill 2017, First Home Super Saver Tax Bill 2017</title>",BILLS,10,1,speech
 "Sukkar, Michael, MP",LP,2017-10-18,"
 
 
@@ -2313,7 +2376,7 @@ The second aspect of this bill, which I was quite surprised to hear negative com
 
 The SPEAKER:  The original question was that this bill be now read a second time. To this the honourable member for McMahon has moved as an amendment that all words after 'That' be omitted with a view to substituting other words. The immediate question is that the amendment moved by the member for McMahon be agreed to.
 
-",HoR,<title>BILLS</title>,"<title>Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Bill 2017, First Home Super Saver Tax Bill 2017</title>",BILLS,10,1
+",HoR,<title>BILLS</title>,"<title>Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Bill 2017, First Home Super Saver Tax Bill 2017</title>",BILLS,10,1,speech
 "Sukkar, Michael, MP",LP,2017-10-18,"
 
 
@@ -2330,7 +2393,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,"<title>Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Bill 2017, First Home Super Saver Tax Bill 2017</title>",BILLS,10,1
+",HoR,<title>BILLS</title>,"<title>Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Bill 2017, First Home Super Saver Tax Bill 2017</title>",BILLS,10,1,speech
 "Coulton, Mark (The DEPUTY SPEAKER)",Nats,2017-10-18,"
 
 
@@ -2341,7 +2404,7 @@ The DEPUTY SPEAKER
 Mr Coulton
 ) (16:11):  The question now is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Khalil, Peter, MP",ALP,2017-10-18,"
 
 
@@ -2373,7 +2436,7 @@ I note that the member for McMahon put questions on notice to the Treasurer to p
 
 It is appropriate that every budget line item that is growing rapidly undergoes close scrutiny to ensure that the subsidy is achieving its stated objectives and that the quantum is appropriate when evaluated against competing policies. Two specific deductions—negative gearing and capital gains subsidies—are both significant calls on the budget and are growing at such a rapid rate that they need to be addressed. It is undeniable that negative gearing and the capital gains discount have not achieved their aim to boost housing supply and encourage the building of more new houses. In fiscal year 2016-17 they cost the budget over $10 billion. As an illustrative comparison, that's more than the government spends on higher education or child care. The capital gains discount subsidy is growing so rapidly, with revenue forgone doubling from $4.2 billion in 2013 to $8.6 billion by 2018-19. The repeated claims by the government—the justification for the immense cost to the public purse—that the benefits of such tax subsidies go overwhelmingly to low- and middle-income earners are simply incorrect. The government uses income data after deductions have been applied. More reliable data that uses gross income shows that the benefits go overwhelmingly to higher income earners. We see on this side, and it is there for all to see, that this is where the skewed priorities of this government come into sharp focus.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Hill, Julian, MP",ALP,2017-10-18,"
 
 
@@ -2426,7 +2489,7 @@ If Australia is to be a genuinely fair nation we need to have genuine policies t
 
 The Australian people had a clear choice in this area at the last election and will have a clear choice at the next election. We will reform the unsustainable, regressive, damaging, distorting tax concessions that overwhelmingly benefit those who already have a foothold in the property market and who continue to work to push up prices faster than incomes and so lock out young people from the hope of ever owning a house. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Sukkar, Michael, MP",LP,2017-10-18,"
 
 
@@ -2453,7 +2516,7 @@ The second aspect of this bill, which I was quite surprised to hear negative com
 
 The SPEAKER:  The original question was that this bill be now read a second time. To this the honourable member for McMahon has moved as an amendment that all words after 'That' be omitted with a view to substituting other words. The immediate question is that the amendment moved by the member for McMahon be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Ryan, Joanne, MP",ALP,2017-10-18,"
 
 
@@ -2470,7 +2533,7 @@ And what have we seen today? We've seen the report come down and—surprise, sur
 
 I want to finish by trying to drive home to this House just how difficult it is for people in my electorate to run a business, to run a family, to study and to actually be a global citizen in the 21st century. 
 
-",HoR,<title>ADJOURNMENT</title>,<title>Broadband</title>,ADJOURNMENT,11,1
+",HoR,<title>ADJOURNMENT</title>,<title>Broadband</title>,ADJOURNMENT,11,1,speech
 "Danby, Michael, MP",ALP,2017-10-18,"
 
 
@@ -2484,7 +2547,7 @@ Yesterday I met Dassi Erlich, who is one of my constituents. She has also met wi
 
 The absconded principal should be returned to Australia, a country friendly to Israel, to face charges against her by Dassi Erlich and a number of other young women who were sexually abused. It is most unfair that Dassi Erlich has been left hanging with these issues that still oppress her and a number of other young women in my electorate. Only via a proper trial, with Ms Leifer facing a Victorian court, can these issues be properly addressed. I'm hoping that the pressure that friends in the Knesset have mounted will see that this issue has a much higher priority in Israel. I also hope that the delegations of people—including the Prime Minister, me, Mark Dreyfus and others—going over there for the commemoration of the charge of Beersheba will help bring justice for Dassi Erlich and the other young women who were so badly treated.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Leifer, Ms Malka</title>",CONSTITUENCY STATEMENTS,13,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Leifer, Ms Malka</title>",CONSTITUENCY STATEMENTS,13,1,speech
 "Price, Melissa (The DEPUTY SPEAKER)",LP,2017-10-18,"
 
 
@@ -2495,7 +2558,7 @@ The DEPUTY SPEAKER
 Ms Price
 ) (10:32):  The question now is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1,speech
 "Falinski, Jason, MP",LP,2017-10-18,"
 
 
@@ -2539,7 +2602,7 @@ As my second example, we have Andrew and Pip Goldsmith from The Boathouse. They 
 
 So there you have it: companies that make people healthier, that supply warehouses, that build ships and dams and that invest in public buildings. All of them employ Australians, all of them export overseas, all of them make our nation stronger and more content. And Labor and the Greens want to hurt them all.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1,speech
 "Bandt, Adam, MP",AG,2017-10-18,"
 
 
@@ -2583,7 +2646,7 @@ Well, this race to the bottom has to end. The concentration of wealth at the top
 
 What is at stake with this bill is nothing more than, and nothing less than, the beginning of the erosion of egalitarianism in Australia and of the principle that in Australia, no matter where you come from or how much money you have, if you get sick the hospital will look after you. If you need to go to a doctor, they can see you without demanding your credit card first. In Australia, everyone gets to go to school, TAFE or university, no matter how much money they have. What's at stake is our belief that that is a fundamental principle that beats at the heart of this society. If we believe that, we've got to fund it. The question then is: who should we ask to foot the bill? The answer is very, very simple: those footing the bill should be the companies which are making world-leading record profits—they should be asked to chip in their fair share. Those 600-odd companies earning over $100 million a year that are currently paying no tax should be made to pay their legal minimum. If we do that and if we get rid of those unfair tax breaks for the people at the top, there will be enough money to make sure Australia is a place where everyone is looked after. We will be able to preserve egalitarianism in this country. If we think the solution to our current problems is to become more like the United States, then we are in strife. If government backbenchers stand up here and say, 'We have to do this because Donald Trump has done it,' then we are in serious strife. I do not want to outsource the government of this country to Donald Trump. I do not want our decisions about what is right for people in this country to be made by a reckless, dangerous president, who will do everything he can to wreck his own country and grow the gap between the rich and everyone else. If you believe that Australia is a place where everyone has a place, a country where everyone should be treated equally, no matter how much money they've got, and if you believe that the point of government is to make sure that everyone gets looked after and is can get the education and health care they want, no matter how much money they have, then you will vote against this bill.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1,speech
 "Claydon, Sharon, MP",ALP,2017-10-18,"
 
 
@@ -2648,7 +2711,7 @@ So, what actually transpired? Rather than adding jobs, the state registered a ne
 
 Inequality isn't just a word or a metric. It is a dangerous and growing trend where wealth is increasingly concentrated at the top end of the income spectrum, leaving people on low and middle incomes struggling and creating generations of working poor. This is exactly what the Turnbull government is all about—ensuring that wealthy Australians and companies are looked after. Forget about the debt and deficit. It's ignored, as are the millions of Australians who will find it harder and harder to get by. This legislation is a heist and a con, and it should be comprehensively rejected.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1,speech
 "Dick, Milton, MP",ALP,2017-10-18,"
 
 
@@ -2692,7 +2755,7 @@ While the government can claim that more jobs are being created, they are also c
 
 With the package of bills before us today, we know that, when it comes to the government's priorities, it is not about delivering real reform for the economy; it is not about dealing with inequality; it is not about tackling the low wages growth that we are seeing year-in year-out. But we do know that small business needs support. Labor has supported the cut in company tax for small businesses to 28.5 per cent and will support a further cut to 27.5 per cent—covering all small businesses, who represent 83 per cent of Australian companies. Labor is very clearly on the side of genuine small business. I come from a small-business background. I know what it's like because my parents ran businesses. I know what it was like because I saw the struggle that they went through. We need to do more to support small businesses. I recognise that the 8,748 small businesses in my electorate are the backbone of our local economy. I know, from my parents and from when my father ran a business, how critical it is for government to be there when it's needed but also to get out of the road for businesses to be able to grow, to support the local economy and, more importantly, to grow employment in the local economy. But billion-dollar corporations and businesses do not need, at this time, a handout. They do not need assistance. When I speak to the people I represent, including community groups and chambers of commerce, and I say, 'I'm on your side; I'm supporting a tax cut for you; I don't support large, multinational companies getting a tax cut,' I know where they stand.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1,speech
 "Giles, Andrew, MP",ALP,2017-10-18,"
 
 
@@ -2739,7 +2802,7 @@ There's been some comparison to some overseas examples, and I want to say two th
 
 Lastly, let's also think about the implications of all this for the Australian economy—I've touched on the failure to articulate a pathway to sustainable growth—and for Australian society. We are confident in Australians; that is why we are committed to investing in them and to developing their capabilities. We believe that in the Asian century we can continue to thrive, based on our qualities, our capacities and our capabilities, if we support them with infrastructure, with investment in skills, and with recognising the real pathway to securing Australia's economic future—not this blatant grab; this handout to those who have enough.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1,speech
 "Bird, Sharon, MP",ALP,2017-10-18,"
 
 
@@ -2786,7 +2849,7 @@ What we have before us is a bill that has all the priorities wrong. It's based o
 
 This bill must be opposed, because it's discredited; it's unfair; and it's a reflection of the wrong priorities in a fiscally constrained environment to be going in this direction. I have to say, when I surveyed my electorate on this direct question, the vast bulk of people who responded to that question did not agree with this particular tax cut. In fact, they outlined their priorities, which I have gone through today, and that's where the government's focus should be.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1,speech
 "Butler, Terri, MP",ALP,2017-10-18,"
 
 
@@ -2827,7 +2890,7 @@ To hear this argument from the government that better corporate profits means be
 
 What this shows is that the only way to have a government that understands the importance of investment—investment in education, in our people, in making sure that people in their later years have dignity in retirement and a decent standard of living—the only way to get a government that believes in those things and the only way to get a government that doesn't want to see seniors' and students' interests being sacrificed in favour of the interests of the top end of town is to vote for a Labor government at the next election. The only way to get a Treasurer who will act in the interests of the whole nation and not in the interests of vested interests is to vote for a Labor government. The member for Lilley is here in the chamber. The member for Lilley was responsible—together, of course, with the then Prime Minister and the members of the Labor government—for Australia's work during the global financial crisis in fending off a recession. This was the only developed nation in the world to fend off a recession during the global financial crisis. We were so fortunate to have a Labor government during that time because Labor governments understand that the budget has to serve the economy, not just the interests of the government but the interests of the national economy. Labor governments understand that this sort of neoliberal, trickle-down economics nonsense that, unfortunately, the Prime Minister seems to be 100 per cent signed up to just doesn't work. I'm very, very relieved that we had such wonderful leadership during the global financial crisis, and I certainly hope that, in the interests of the nation, we have another Labor government sooner rather than later. I'm very pleased to stand up to oppose this bill because these priorities in this legislation are the wrong priorities for our nation, and this nation should be supporting seniors and students, not the big end of town.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1,speech
 "Swan, Wayne, MP",ALP,2017-10-18,"
 
 
@@ -2871,7 +2934,7 @@ At its core, this government is a trickle-down government. This is a government 
 
 In a debate between Luci Ellis of the RBA and Jennifer Westacott from the BCA, Luci Ellis completely destroyed Jennifer Westacott's arguments—but there's nothing new about them. There is a very rich debate about the impact of this sort of corporate tax cutting and, as the Treasury modelling itself shows, it will have a minimal impact on jobs and growth over the long-term in this country. But the government are forging ahead with an unfunded tax cut which is going to blow out the deficit, are tolerant of other companies that are flouting their rules and are snubbing their nose at the Australian people. Why is that? It is because the government are dedicated to serving the top table first—dedicated to the wealthy, of the wealthy and for the wealthy.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1,speech
 "Jones, Stephen, MP",ALP,2017-10-18,"
 
 
@@ -2911,7 +2974,7 @@ She makes it quite clear what the Reserve Bank thinks of the government's argume
 
 To the issue of comparing our tax rates to other countries around the world. The United States Congressional Budget Office put out a paper earlier this year saying that the statutory corporate tax rate is one of the many features of a tax system that influences corporate behaviour and that, because of their broader scope, average and effective corporate tax rates are better indicators of a company's incentives to invest in a particular country than the headline corporate tax rate. That is to say that, yes, you can look at the headline tax rate, but it is often the case that the majority of companies are paying that headline tax rate. The paper points out that the headline tax rate of 30 per cent in 2012 was equivalent to an average tax rate for Australia of around 17 per cent, and, in fact, the effective corporate tax rate for businesses in this country was around 10.4 per cent. This is the advice that the independent Congressional Budget Office is providing to the US Congress about how they should set their tax rates at a level which would make them competitive with Australia. It's not the 30 per cent headline they're looking at; it's the average tax rate of around 10.4 per cent. For all the reasons set out by the member for Lilley, we think that average is too low. In Australia we have a revenue problem, and it's why we cannot afford this unfunded, unconscionable corporate tax rate at this time. It's not what Australia needs. It is going to drive us backwards and not forwards.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1,speech
 "Khalil, Peter, MP",ALP,2017-10-18,"
 
 
@@ -2955,7 +3018,7 @@ There's one person at the forefront of all of this: the Treasurer. The Treasurer
 
 The Turnbull government needs to ditch its $65 billion big business tax cut instead of relying on zombie measures to prop up its shaky projected surplus in 2020-21. For the sake of the budget and for the sake of all Australians, the Turnbull government must stop clinging to its cruel and unfair zombie measures, which have no hope of passing this parliament. The coalition has no credible plan to bring the budget back to surplus and to protect Australia's prized AAA credit rating. While it's trying to help big business, that's not helping the situation at all. Rating agencies have previously highlighted that a further slippage in the return to surplus would jeopardise this credit rating. If Malcolm Turnbull and Scott Morrison were actually serious about returning to surplus, they would immediately ditch their $65 billion tax gift for big business, including the big banks. Fundamentally and ultimately, only Labor is serious about budget repair that's fair. We don't ask the most vulnerable in our community to carry the heaviest load. We want to actually deliver to those most vulnerable, in education, in health care and in housing affordability, and make it better for Australians.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1,speech
 "Aly, Anne, MP",ALP,2017-10-18,"
 
 
@@ -3007,7 +3070,7 @@ Sitting suspended from 13:01
 1
 
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Enterprise Tax Plan No. 2) Bill 2017</title>,BILLS,14,1,speech
 "Price, Melissa (The DEPUTY SPEAKER)",LP,2017-10-18,"
 
 
@@ -3018,7 +3081,7 @@ The DEPUTY SPEAKER
 Ms Price
 ) (10:32):  The question now is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Falinski, Jason, MP",LP,2017-10-18,"
 
 
@@ -3062,7 +3125,7 @@ As my second example, we have Andrew and Pip Goldsmith from The Boathouse. They 
 
 So there you have it: companies that make people healthier, that supply warehouses, that build ships and dams and that invest in public buildings. All of them employ Australians, all of them export overseas, all of them make our nation stronger and more content. And Labor and the Greens want to hurt them all.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Bandt, Adam, MP",AG,2017-10-18,"
 
 
@@ -3106,7 +3169,7 @@ Well, this race to the bottom has to end. The concentration of wealth at the top
 
 What is at stake with this bill is nothing more than, and nothing less than, the beginning of the erosion of egalitarianism in Australia and of the principle that in Australia, no matter where you come from or how much money you have, if you get sick the hospital will look after you. If you need to go to a doctor, they can see you without demanding your credit card first. In Australia, everyone gets to go to school, TAFE or university, no matter how much money they have. What's at stake is our belief that that is a fundamental principle that beats at the heart of this society. If we believe that, we've got to fund it. The question then is: who should we ask to foot the bill? The answer is very, very simple: those footing the bill should be the companies which are making world-leading record profits—they should be asked to chip in their fair share. Those 600-odd companies earning over $100 million a year that are currently paying no tax should be made to pay their legal minimum. If we do that and if we get rid of those unfair tax breaks for the people at the top, there will be enough money to make sure Australia is a place where everyone is looked after. We will be able to preserve egalitarianism in this country. If we think the solution to our current problems is to become more like the United States, then we are in strife. If government backbenchers stand up here and say, 'We have to do this because Donald Trump has done it,' then we are in serious strife. I do not want to outsource the government of this country to Donald Trump. I do not want our decisions about what is right for people in this country to be made by a reckless, dangerous president, who will do everything he can to wreck his own country and grow the gap between the rich and everyone else. If you believe that Australia is a place where everyone has a place, a country where everyone should be treated equally, no matter how much money they've got, and if you believe that the point of government is to make sure that everyone gets looked after and is can get the education and health care they want, no matter how much money they have, then you will vote against this bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Claydon, Sharon, MP",ALP,2017-10-18,"
 
 
@@ -3171,7 +3234,7 @@ So, what actually transpired? Rather than adding jobs, the state registered a ne
 
 Inequality isn't just a word or a metric. It is a dangerous and growing trend where wealth is increasingly concentrated at the top end of the income spectrum, leaving people on low and middle incomes struggling and creating generations of working poor. This is exactly what the Turnbull government is all about—ensuring that wealthy Australians and companies are looked after. Forget about the debt and deficit. It's ignored, as are the millions of Australians who will find it harder and harder to get by. This legislation is a heist and a con, and it should be comprehensively rejected.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Dick, Milton, MP",ALP,2017-10-18,"
 
 
@@ -3215,7 +3278,7 @@ While the government can claim that more jobs are being created, they are also c
 
 With the package of bills before us today, we know that, when it comes to the government's priorities, it is not about delivering real reform for the economy; it is not about dealing with inequality; it is not about tackling the low wages growth that we are seeing year-in year-out. But we do know that small business needs support. Labor has supported the cut in company tax for small businesses to 28.5 per cent and will support a further cut to 27.5 per cent—covering all small businesses, who represent 83 per cent of Australian companies. Labor is very clearly on the side of genuine small business. I come from a small-business background. I know what it's like because my parents ran businesses. I know what it was like because I saw the struggle that they went through. We need to do more to support small businesses. I recognise that the 8,748 small businesses in my electorate are the backbone of our local economy. I know, from my parents and from when my father ran a business, how critical it is for government to be there when it's needed but also to get out of the road for businesses to be able to grow, to support the local economy and, more importantly, to grow employment in the local economy. But billion-dollar corporations and businesses do not need, at this time, a handout. They do not need assistance. When I speak to the people I represent, including community groups and chambers of commerce, and I say, 'I'm on your side; I'm supporting a tax cut for you; I don't support large, multinational companies getting a tax cut,' I know where they stand.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Giles, Andrew, MP",ALP,2017-10-18,"
 
 
@@ -3262,7 +3325,7 @@ There's been some comparison to some overseas examples, and I want to say two th
 
 Lastly, let's also think about the implications of all this for the Australian economy—I've touched on the failure to articulate a pathway to sustainable growth—and for Australian society. We are confident in Australians; that is why we are committed to investing in them and to developing their capabilities. We believe that in the Asian century we can continue to thrive, based on our qualities, our capacities and our capabilities, if we support them with infrastructure, with investment in skills, and with recognising the real pathway to securing Australia's economic future—not this blatant grab; this handout to those who have enough.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Bird, Sharon, MP",ALP,2017-10-18,"
 
 
@@ -3309,7 +3372,7 @@ What we have before us is a bill that has all the priorities wrong. It's based o
 
 This bill must be opposed, because it's discredited; it's unfair; and it's a reflection of the wrong priorities in a fiscally constrained environment to be going in this direction. I have to say, when I surveyed my electorate on this direct question, the vast bulk of people who responded to that question did not agree with this particular tax cut. In fact, they outlined their priorities, which I have gone through today, and that's where the government's focus should be.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Butler, Terri, MP",ALP,2017-10-18,"
 
 
@@ -3350,7 +3413,7 @@ To hear this argument from the government that better corporate profits means be
 
 What this shows is that the only way to have a government that understands the importance of investment—investment in education, in our people, in making sure that people in their later years have dignity in retirement and a decent standard of living—the only way to get a government that believes in those things and the only way to get a government that doesn't want to see seniors' and students' interests being sacrificed in favour of the interests of the top end of town is to vote for a Labor government at the next election. The only way to get a Treasurer who will act in the interests of the whole nation and not in the interests of vested interests is to vote for a Labor government. The member for Lilley is here in the chamber. The member for Lilley was responsible—together, of course, with the then Prime Minister and the members of the Labor government—for Australia's work during the global financial crisis in fending off a recession. This was the only developed nation in the world to fend off a recession during the global financial crisis. We were so fortunate to have a Labor government during that time because Labor governments understand that the budget has to serve the economy, not just the interests of the government but the interests of the national economy. Labor governments understand that this sort of neoliberal, trickle-down economics nonsense that, unfortunately, the Prime Minister seems to be 100 per cent signed up to just doesn't work. I'm very, very relieved that we had such wonderful leadership during the global financial crisis, and I certainly hope that, in the interests of the nation, we have another Labor government sooner rather than later. I'm very pleased to stand up to oppose this bill because these priorities in this legislation are the wrong priorities for our nation, and this nation should be supporting seniors and students, not the big end of town.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Swan, Wayne, MP",ALP,2017-10-18,"
 
 
@@ -3394,7 +3457,7 @@ At its core, this government is a trickle-down government. This is a government 
 
 In a debate between Luci Ellis of the RBA and Jennifer Westacott from the BCA, Luci Ellis completely destroyed Jennifer Westacott's arguments—but there's nothing new about them. There is a very rich debate about the impact of this sort of corporate tax cutting and, as the Treasury modelling itself shows, it will have a minimal impact on jobs and growth over the long-term in this country. But the government are forging ahead with an unfunded tax cut which is going to blow out the deficit, are tolerant of other companies that are flouting their rules and are snubbing their nose at the Australian people. Why is that? It is because the government are dedicated to serving the top table first—dedicated to the wealthy, of the wealthy and for the wealthy.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Jones, Stephen, MP",ALP,2017-10-18,"
 
 
@@ -3434,7 +3497,7 @@ She makes it quite clear what the Reserve Bank thinks of the government's argume
 
 To the issue of comparing our tax rates to other countries around the world. The United States Congressional Budget Office put out a paper earlier this year saying that the statutory corporate tax rate is one of the many features of a tax system that influences corporate behaviour and that, because of their broader scope, average and effective corporate tax rates are better indicators of a company's incentives to invest in a particular country than the headline corporate tax rate. That is to say that, yes, you can look at the headline tax rate, but it is often the case that the majority of companies are paying that headline tax rate. The paper points out that the headline tax rate of 30 per cent in 2012 was equivalent to an average tax rate for Australia of around 17 per cent, and, in fact, the effective corporate tax rate for businesses in this country was around 10.4 per cent. This is the advice that the independent Congressional Budget Office is providing to the US Congress about how they should set their tax rates at a level which would make them competitive with Australia. It's not the 30 per cent headline they're looking at; it's the average tax rate of around 10.4 per cent. For all the reasons set out by the member for Lilley, we think that average is too low. In Australia we have a revenue problem, and it's why we cannot afford this unfunded, unconscionable corporate tax rate at this time. It's not what Australia needs. It is going to drive us backwards and not forwards.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Khalil, Peter, MP",ALP,2017-10-18,"
 
 
@@ -3478,7 +3541,7 @@ There's one person at the forefront of all of this: the Treasurer. The Treasurer
 
 The Turnbull government needs to ditch its $65 billion big business tax cut instead of relying on zombie measures to prop up its shaky projected surplus in 2020-21. For the sake of the budget and for the sake of all Australians, the Turnbull government must stop clinging to its cruel and unfair zombie measures, which have no hope of passing this parliament. The coalition has no credible plan to bring the budget back to surplus and to protect Australia's prized AAA credit rating. While it's trying to help big business, that's not helping the situation at all. Rating agencies have previously highlighted that a further slippage in the return to surplus would jeopardise this credit rating. If Malcolm Turnbull and Scott Morrison were actually serious about returning to surplus, they would immediately ditch their $65 billion tax gift for big business, including the big banks. Fundamentally and ultimately, only Labor is serious about budget repair that's fair. We don't ask the most vulnerable in our community to carry the heaviest load. We want to actually deliver to those most vulnerable, in education, in health care and in housing affordability, and make it better for Australians.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Aly, Anne, MP",ALP,2017-10-18,"
 
 
@@ -3530,4 +3593,56 @@ Sitting suspended from 13:01
 1
 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
+"Rishworth, Amanda, MP",ALP,2017-10-18,"
+
+
+
+Ms Rishworth
+  asked the Minister for Veterans' Affairs in writing:
+
+
+(1) Question
+
+
+Why are there no targets for the Veteran's Employment Program (VEP).
+
+
+(2) Question
+
+
+Will his department provide outcomes for the VEP; if not, why not; if so, when.
+
+
+(3) Question
+
+
+How is the success of the program currently being measured.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Veterans (Question No. 758)</title>,QUESTIONS IN WRITING,15,1,question
+"Tehan, Dan, MP",LP,2017-10-18,"
+
+
+
+Mr Tehan:
+  The Minister for Veterans' Affairs has provided the following answer to the honourable member's question:
+
+
+(1) Answer
+
+
+The Industry Advisory Committee on Veterans' Employment (IAC), established under the Prime Minister's Veterans' Employment Program, is considering an appropriate target to set for the employment of veterans by businesses who want to participate in the Program. The Department of Defence and Department of Veterans' Affairs are fully supporting Industry in the development of the program.
+
+
+(2) Answer 
+
+
+Progress on the implementation of the various initiatives under the Program has been and will continue to be reported on the Program's website at www.veteransemployment.gov.au.
+
+
+(3) Answer
+
+
+The Program aims to raise awareness of the skills and experience that veterans can bring to the civilian workplace and increase their employment opportunities. To date, the IAC has been established with strong interest from the business community. Information and tools for veterans seeking employment is now available on the jobactive and APSjobs websites. For example, more than 1600 jobs flagged as Defence Force experience desirable have been advertised on jobactive to date.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Veterans (Question No. 758)</title>,QUESTIONS IN WRITING,15,1,answer

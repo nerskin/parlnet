@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Brown, Sen Bob",AG,2012-03-21,"
 
 
@@ -223,7 +223,7 @@ The DEPUTY PRESIDENT:  Senator Brown, I will determine what is a point of order 
 Senator Ian Macdonald:
   No. I was going to speak, but I concede to my leader. 
 
-",Senate,<title>MOTIONS</title>,"<title>Palmer, Mr Clive</title>",MOTIONS,0,1
+",Senate,<title>MOTIONS</title>,"<title>Palmer, Mr Clive</title>",MOTIONS,0,1,speech
 "Abetz, Sen Eric",LP,2012-03-21,"
 
 
@@ -268,7 +268,7 @@ The DEPUTY PRESIDENT:  There is no point of order, Senator Macdonald. Could I ju
 
 
 
-",Senate,<title>MOTIONS</title>,"<title>Palmer, Mr Clive</title>",MOTIONS,0,1
+",Senate,<title>MOTIONS</title>,"<title>Palmer, Mr Clive</title>",MOTIONS,0,1,speech
 The DEPUTY PRESIDENT,,2012-03-21,"
 
 
@@ -276,7 +276,7 @@ The DEPUTY PRESIDENT,,2012-03-21,"
 The DEPUTY PRESIDENT
  (09:49):  The question now is that the motion moved by Senator Brown to suspend standing orders be agreed to.
 
-",Senate,<title>MOTIONS</title>,"<title>Palmer, Mr Clive</title>",MOTIONS,0,1
+",Senate,<title>MOTIONS</title>,"<title>Palmer, Mr Clive</title>",MOTIONS,0,1,speech
 "Cormann, Sen Mathias",LP,2012-03-21,"
 
 
@@ -318,7 +318,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Indirect Tax Laws Amendment (Assessment) Bill 2012</title>,BILLS,1,1
+",Senate,<title>BILLS</title>,<title>Indirect Tax Laws Amendment (Assessment) Bill 2012</title>,BILLS,1,1,speech
 The DEPUTY PRESIDENT,,2012-03-21,"
 
 
@@ -332,7 +332,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Indirect Tax Laws Amendment (Assessment) Bill 2012</title>,BILLS,1,1
+",Senate,<title>BILLS</title>,<title>Indirect Tax Laws Amendment (Assessment) Bill 2012</title>,BILLS,1,1,speech
 "Cormann, Sen Mathias",LP,2012-03-21,"
 
 
@@ -374,7 +374,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,1,2,speech
 "Sherry, Sen Nick",ALP,2012-03-21,"
 
 
@@ -434,7 +434,250 @@ The superannuation sector is keen to find an effective solution. In a well-desig
 
 Notwithstanding my arguments about preferring an equity base for superannuation, it is very necessary to strengthen and deepen the public and private bond market. I agree with Mr Johnson, the chair of a committee who made recommendations to assist developing a local bond market, that it is an urgent issue. These reforms are necessary to remove operational and structural impediments that he identified. They need to be acted on and, indeed, the government has commenced work in this regard. Whatever the arguments and conclusions reached on the equities versus bonds debate, a more effective bond market will be an absolute necessity, not only given the necessity to support an effective post-retirement system but in order to help deal with the strong growth in savings that I highlighted earlier—$1.4 trillion at the present, including the Future Fund, forecast to reach $3.3 trillion by 2026 and $6.7 trillion by 2035. But, whatever the concerns are about the operation of our superannuation system, unlike most comparable advanced economies, Australia has a modest sustainable defined benefit base—the age pension—supplemented by a funded, income related, compulsory defined contribution system.(Time expired)
 
-",Senate,<title>MATTERS OF PUBLIC INTEREST</title>,<title>Superannuation</title>,MATTERS OF PUBLIC INTEREST,2,1
+",Senate,<title>MATTERS OF PUBLIC INTEREST</title>,<title>Superannuation</title>,MATTERS OF PUBLIC INTEREST,2,1,speech
+"Cormann, Sen Mathias",LP,2012-03-21,"
+
+
+
+Senator CORMANN
+ (Western Australia) (14:00):  My question is to the Minister representing the Minister for Climate Change and Energy Efficiency and the Treasurer, Senator Wong. Is the minister aware of research by the Energy Users Association of Australia that shows that Australian businesses currently pay 130 per cent more for electricity than their competitors in Canada? Is the minister also aware that Australian businesses will have to pay 250 per cent more than their competitors in Canada after the introduction of the carbon tax and other locked-in price increases? In light of this new evidence, does the minister now concede that the Gillard government's decision to impose the world's biggest carbon tax on Australia will hurt our international competitiveness?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Cormann, Sen Mathias",LP,2012-03-21,"
+
+
+
+Senator CORMANN
+ (Western Australia) (14:03):  Mr President, I ask a supplementary question. given Treasury modelling did not even consider the impact of the carbon price on Australia's international competitiveness, will the government now commission fresh modelling to ensure Australian manufactur­ing businesses in particular will not be harmed by Labor's carbon tax—the biggest carbon tax in the world?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Cormann, Sen Mathias",LP,2012-03-21,"
+
+
+
+Senator CORMANN
+ (Western Australia) (14:05):  Mr President, I ask a further supplementary question. Given the significant increases in the cost of electricity as a direct result of Labor's carbon tax, does the minister now concede that Australian businesses will be worse off under Labor because any small cut in company tax to the very few will be more than wiped out by the significant increases in the cost of electricity to everyone as a direct result of the world's biggest carbon tax?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Wong, Sen Penny",ALP,2012-03-21,"
+
+
+
+Senator WONG
+ (South Australia—Minister for Finance and Deregulation) (14:01):  I thank Senator Cormann for the question and for his new-found interest in climate policy. The first point I would make is that it is the case that electricity prices in this nation have been going up. As the senator would know, that has been because of the substantial investments that have been required in our networks as a result of underinvestment by state governments. I make the point that even Mr Macfarlane has previously said, 'Power prices are set to double over the next five to seven years irrespective of who is in government.'
+
+
+
+Opposition senators interjecting—
+
+
+
+
+Senator WONG:
+  Irrespective of who is in government. You do not like it, do you, when someone tells the truth. Someone on your side says, 'Irrespective of who is in government'—these are not my words but someone on your side's words. And lack of planning has led to an investment drought. Mr McFarlane has also said, 'Australians in all states are feeling the impacts of rising power prices, in large part due to the neglect and mismanagement of state governments.' This government understands also that where you want to provide a stable framework for investment what you do need to provide is policy certainty. The fact is that the opposition's plan—their blood oath, as Mr Abbott calls it—to remove the carbon tax will result in further investment uncertainty in an area—
+
+
+
+
+Senator Brandis:
+  That is right. That is as certain a commitment as you will get.
+
+
+
+
+Senator WONG:
+  Senator Brandis says that is wrong, because changing the policy framework does not change the policy certainty at all, does it, Senator?
+
+
+
+Opposition senators interjecting—
+
+
+
+The PRESIDENT:  Senator Wong, ignore the interjections; they are disorderly.
+
+
+
+
+Senator WONG:
+  Investors want to know what the policy framework is so they can make long-lived investments. That was why John Howard thought that a price on carbon was a sensible policy. When those opposite used to care about economics that also was the policy of the coalition.
+
+
+
+The PRESIDENT:  Order! When there is silence on both sides we will continue. You are entitled to be heard in silence, Senator Cormann.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Wong, Sen Penny",ALP,2012-03-21,"
+
+
+
+Senator WONG
+ (South Australia—Minister for Finance and Deregulation) (14:04):  Just because Senator Cormann keep saying something does not mean it is true. I would remind him when he talks about carbon prices that the highest carbon price that has been postulated in this parliament is the carbon price those opposite would effectively want to impose on the Australian economy and Australian taxpayers, because they are proposing a model which is taxpayer funded, bureaucratically driven and inefficient—$1,300 more tax for every household in Australia every year. That is what yours would cost. I would also, in response to comments made by the senator in that question, remind him that we need to look also at the Jobs and Competitiveness package the government has put in place. A highly emissions intensive activity under our package gets 94.5 per cent of assistance in free permits. That is about $1.30 for every tonne of carbon. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Wong, Sen Penny",ALP,2012-03-21,"
+
+
+
+Senator WONG
+ (South Australia—Minister for Finance and Deregulation) (14:05):  The answer to the question is no. And the answer to the question is also this: those opposite might like to come in here and say: 'Please don't look at the fact we are opposing tax breaks for small business. Let's just talk about the carbon tax.' But everyone knows that the party of small business in this place, the people who come in here and say that it is part of their core constituency, are voting against the company tax cut, with a head start for small business, and are voting against tax breaks for small business through the instant asset write-off, which they have opposed. They consistently come in here and say, 'We champion small business, but we are going to oppose tax breaks for small business.'
+
+
+
+Opposition senators interjecting—
+
+
+
+The PRESIDENT:  Order! When there is silence we will proceed. The time to debate it is after question time.
+
+
+
+Senator Cormann interjecting—
+
+
+
+The PRESIDENT:  Senator Cormann, it is your supplementary question.
+
+
+
+
+Senator WONG:
+  What is extraordinary is that Senator Bob Brown has got a more business-friendly position when it comes to tax than Senator Cormann and Senator Sinodinos. I mean, you would think they were members of the National Party. (Time expired)
+
+
+
+
+The PRESIDENT:  Order, on both sides!
+
+
+
+
+Senator Brandis interjecting
+—
+
+
+
+
+
+Senator Chris Evans:
+  Mr President, on a point of order, I ask that Senator Brandis be instructed to withdraw that remark.
+
+
+
+The PRESIDENT:  I did not hear the remark because of the noise that was going on, but if Senator Brandis was unparlia­mentary he needs to—
+
+
+
+
+Senator Brandis:
+  Mr President, it was not unparliamentary. I did not reflect on any individual.
+
+
+
+The PRESIDENT:  If there had been silence on my right it would have helped.
+
+
+
+
+Senator Chris Evans:
+  Mr President, I accept your ruling, but I think calling members of this chamber 'corrupt' is not appropriate. Senator Brandis ought to have the good grace to withdraw.
+
+
+
+The PRESIDENT:  Order! It does help me to hear things if there are not other interjections in the chamber.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"Ludlam, Sen Scott",AG,2012-03-21,"
+
+
+
+Senator LUDLAM
+ (Western Australia) (14:20):  My question is to the Minister for Foreign Affairs, Senator Carr. Minister, have you been briefed on, and what can you tell the Senate about, the foreign affairs implications of the biggest operational addition to the Australia-US alliance since the 1980s, the stationing of 2½ thousand US Marines at Robertson Barracks in Darwin on permanent rotation for joint training and military exercises, a deployment which I understand will commence within a matter of weeks?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Exercises</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Ludlam, Sen Scott",AG,2012-03-21,"
+
+
+
+Senator LUDLAM
+ (Western Australia) (14:23):  Mr President, I ask a supplementary question. Given that the legal status of US forces stationed in Australia is covered by an agreement with treaty status and Foreign Affairs has carriage of treaties, are there amendments foreshadowed or proposed for re-negotiation of the 1963 agreement concerning the status of US forces in Australia arising from this announcement?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Exercises</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Ludlam, Sen Scott",AG,2012-03-21,"
+
+
+
+Senator LUDLAM
+ (Western Australia) (14:25):  Perhaps the foreign minister would like to take on notice, if there is anything further to add to my question, whether the Status of Forces Agreement will require any re-negotiation. Mr President, I ask a further supplementary question. Will the minister clarify the legal status of US military forces stationed in Australia and who the prosecuting authority is in the event of criminal actions being undertaken by forces stationed in Australia?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Exercises</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Carr, Sen Bob",ALP,2012-03-21,"
+
+
+
+Senator BOB CARR
+ (New South Wales—Minister for Foreign Affairs) (14:20):  The senator is correct. The initial rotation of up to 250 US Marine Corps personnel is scheduled to arrive in Northern Australia in early April. Over a six-month period that initial rotation is expected to undertake bilateral training in Australia with the Australian Defence Force and to engage with countries in the region.
+
+
+I have to say that the response from our neighbours has been muted or supportive. The Senate would be aware of comments by the Indonesian President, who expressed sympathy with the proposal and even ventured the suggestion that the training exercises be expanded to include other nations in the region; I think he nominated China. You might recall that at the 2 + 2 meeting last week it was an Indonesian suggestion that the US presence and our own forces be used in disaster management exercises, again with a suggestion that other nations in the region—Indonesia, China—be involved in that. I remember the response to the announcement in November last year. I was not here then. I was not the minister then. I was, as the House might recall, an idle blogger, posting my comments—
+
+
+
+Senator Abetz interjecting—
+
+
+
+
+Senator BOB CARR:
+  It is all ancient history now.
+
+
+
+Honourable senators interjecting—
+
+
+
+
+Senator BOB CARR:
+  If you are concerned with what I said, it is your option at question time, any day in this Senate, to ask me a question about it. I have not had one from them.
+
+
+
+Honourable senators interjecting—
+
+
+
+
+Senator Ludlam:
+  Mr President, I rise on a point of order going to relevance. I ask that the foreign minister return to the substance of the question.
+
+
+
+The PRESIDENT:  There is no point of order. The minister is answering the question. The minister has 20 seconds remaining.
+
+
+
+
+Senator BOB CARR:
+  I was very attentive to the question of my colleague Senator Ludlam. I think my colleagues would confirm that. Again, regional responses to the announcement of the initiative have been measured. There has been interest in the scope of the initiatives, as one would expect. I was recalling, before the excitement emanated from the opposition benches— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Exercises</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Carr, Sen Bob",ALP,2012-03-21,"
+
+
+
+Senator BOB CARR
+ (New South Wales—Minister for Foreign Affairs) (14:24):  Not to my knowledge. Since Australia's Federation it has been a matter for the executive of the government of the day to make judgements about Australian national security and foreign policy interests. That has been the case for over a century and that is how it should continue. I would think the Australian people have been decidedly supportive, and why wouldn't they be? It has been an Australian concern for well over a century to see that our northern approaches and Northern Australia are secured as best we can. We have a treaty relationship with the United States of America which is widely viewed as a cornerstone of our security. When you have a partner—a strategic partner, a treaty partner—you engage in military exercises with that partner. This government stands firmly supportive of this initiative— (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Exercises</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Carr, Sen Bob",ALP,2012-03-21,"
+
+
+
+Senator BOB CARR
+ (New South Wales—Minister for Foreign Affairs) (14:25):  I am very happy to do that. I might say that the senator is closing in on a very narrow focus here. He is speculating about possible criminal behaviour, a breach of the law. I am happy to explore that, but I am highlighting that this is a major strategic initiative and, we think, an altogether happy one in fulfilment of a traditional Australian security concern. We are not apologetic about it. We expect this to be viewed by Australians, as it gathers force and the first rotating presence arrives next month, as very reassuring to the Australian people.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Defence Exercises</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
 "Conroy, Sen Stephen",ALP,2012-03-21,"
 
 
@@ -475,7 +718,7 @@ After receiving an assessment from the Australian Heritage Council, the Minister
 
 The Minister may include a place in the National Heritage List only if he is satisfied that the place has one or more national heritage values.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>National Heritage Strategy</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,7,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>National Heritage Strategy</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,7,1,speech
 "Joyce, Sen Barnaby",Nats,2012-03-21,"
 
 
@@ -501,7 +744,7 @@ In the midst of that, when we should be trying to get the economy moving along w
 
 What drives Queensland's economy? It is coal. It drives our nation's economy as our biggest export. Coal is carbon, but under the Labor Party carbon is evil. It is evil rock, naughty rock. We cannot have any of that. But, apparently, when it passes over water it becomes righteous, and then it becomes righteous rock, but whilst it is here it is naughty rock and naughty rock must be taxed. We must have a massive tax to stop people using it, stop people staying warm. You cannot be warm anymore—turn off those heaters, turn off those air conditioners and stop cooking toast. This is the message from the Labor Party to you. It is evil to watch television. Stop it. Do not iron the clothes anymore, naughty housewife. Stop it immediately. We must all return to the caves. Let us return to being content hunters and gatherers on the forest floor. There goes the Labor Party.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1,speech
 "Feeney, Sen David",ALP,2012-03-21,"
 
 
@@ -518,7 +761,7 @@ Senator Joyce talked to us for the last few moments about the carbon tax. Upon l
 
 Somebody on the other side of the chamber desperately needs to introduce Senator Joyce to his own policies. This is not a new problem. This is something the coalition has confronted for many years. Getting poor old Senator Joyce up to the starting point where he has read the policies and is able to talk about them has always been difficult. We on this side of the chamber understand the enormity of your challenge, but you must take it on. You must introduce the National Party to your own policies or else you run the continuing risk of having them and their spiritual leader, Clive Palmer, speaking for you. Personally, I welcome it; I think Clive Palmer brings a refreshing sense of honesty to the nonsense that is the coalition. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1,speech
 "Macdonald, Sen Ian",LP,2012-03-21,"
 
 
@@ -541,7 +784,7 @@ I ask the people of my state of Queensland: can you believe anything the Labor P
 
 We talked today in question time about the carbon tax. I would like to ask a question of any Labor member—I would particularly like to ask the Labor candidates from the Central Queensland area in the state election of Queensland. I noticed that Senator Kim Carr was being very particular about Central Queensland, obviously because he has seen the polls. The miners who work in the mines in Central Queensland—the mines that the Greens and the Labor Party want to shut down—are big-money earners. They know that their jobs and their mortgages are on the line because of Labor's carbon tax and because of Labor's mining tax. It does not matter what the heavies and apparatchiks in the unions say, the workers in the mines know what it is about. That is why the Queensland Premier is running a mile away from anything to do with the carbon tax although as state premier she did nothing to oppose it and as president of the Labor Party she was privy to the breach of promise made by Ms Gillard when she said that she would not introduce that tax but did so immediately she was elected. You simply cannot trust Labor with money or the truth. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1,speech
 "Cameron, Sen Doug",ALP,2012-03-21,"
 
 
@@ -583,7 +826,7 @@ They come in here and they argue that, under Labor, there is a problem with ener
 
 George Megalogenis has just written a book about politics in this country and he says John Howard introduced what he calls a 'chameleon approach' to climate change: one minute you are for it, the next minute you are against it. And Tony Abbott is the chief coalition chameleon on climate change. He is for it one minute and against it the next. He is an absolute disgrace. The coalition is a disgrace. Think of the future of this country. Do something about climate change. Stop denying. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1,speech
 "Boyce, Sen Sue",LP,2012-03-21,"
 
 
@@ -636,7 +879,7 @@ There is likely to be a court challenge around the mining tax. Certainly, we wou
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,8,1,speech
 "Kroger, Sen Helen",LP,2012-03-21,"
 
 
@@ -650,7 +893,7 @@ That the time for the presentation of the report of the Standing Committee for t
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Scrutiny of Bills Committee</title>,COMMITTEES,10,1
+",Senate,<title>COMMITTEES</title>,<title>Scrutiny of Bills Committee</title>,COMMITTEES,10,1,speech
 "Kroger, Sen Helen",LP,2012-03-21,"
 
 
@@ -664,7 +907,7 @@ That the time for the presentation of the report of the Standing Committee for t
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,10,2
+",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,10,2,speech
 "Kroger, Sen Helen",LP,2012-03-21,"
 
 
@@ -678,7 +921,7 @@ That the time for the presentation of the report of the Rural and Regional Affai
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport References Committee</title>,COMMITTEES,12,1
+",Senate,<title>COMMITTEES</title>,<title>Rural and Regional Affairs and Transport References Committee</title>,COMMITTEES,12,1,speech
 "Kroger, Sen Helen",LP,2012-03-21,"
 
 
@@ -692,7 +935,7 @@ That the time for the presentation of the report of the Rural and Regional Affai
 
 Question agreed to.
 
-",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,12,2
+",Senate,<title>COMMITTEES</title>,<title>Reporting Date</title>,COMMITTEES,12,2,speech
 "Bushby, Sen David",LP,2012-03-21,"
 
 
@@ -721,7 +964,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Health Insurance (Dental Services) Bill 2012</title>,BILLS,14,1
+",Senate,<title>BILLS</title>,<title>Health Insurance (Dental Services) Bill 2012</title>,BILLS,14,1,speech
 "Bushby, Sen David",LP,2012-03-21,"
 
 
@@ -771,7 +1014,7 @@ Senator BUSHBY:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Health Insurance (Dental Services) Bill 2012</title>,BILLS,14,1
+",Senate,<title>BILLS</title>,<title>Health Insurance (Dental Services) Bill 2012</title>,BILLS,14,1,speech
 "Bushby, Sen David",LP,2012-03-21,"
 
 
@@ -800,7 +1043,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,14,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,14,2,speech
 "Boyce, Sen Sue",LP,2012-03-21,"
 
 
@@ -838,7 +1081,7 @@ That the Senate—
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>World Down Syndrome Day</title>,MOTIONS,15,1
+",Senate,<title>MOTIONS</title>,<title>World Down Syndrome Day</title>,MOTIONS,15,1,speech
 "Fierravanti-Wells, Sen Concetta",LP,2012-03-21,"
 
 
@@ -898,7 +1141,7 @@ That the Senate—
 
 The DEPUTY PRESIDENT:  The question is that the motion be agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Member for Dobell</title>,DOCUMENTS,16,1
+",Senate,<title>DOCUMENTS</title>,<title>Member for Dobell</title>,DOCUMENTS,16,1,speech
 "Fierravanti-Wells, Sen Concetta",LP,2012-03-21,"
 
 
@@ -937,7 +1180,7 @@ Senator FIERRAVANTI-WELLS:
 
 Debate interrupted.
 
-",Senate,<title>DOCUMENTS</title>,<title>Member for Dobell</title>,DOCUMENTS,16,1
+",Senate,<title>DOCUMENTS</title>,<title>Member for Dobell</title>,DOCUMENTS,16,1,speech
 "Fierravanti-Wells, Sen Concetta",LP,2012-03-21,"
 
 
@@ -997,7 +1240,7 @@ That the Senate—
 
 The DEPUTY PRESIDENT:  The question is that the motion be agreed to.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2,speech
 "Fierravanti-Wells, Sen Concetta",LP,2012-03-21,"
 
 
@@ -1036,7 +1279,7 @@ Senator FIERRAVANTI-WELLS:
 
 Debate interrupted.
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2,speech
 "Mason, Sen Brett",LP,2012-03-21,"
 
 
@@ -1044,7 +1287,7 @@ Debate interrupted.
 Senator MASON
  (Queensland) (16:02):  Minister, you would be aware that the Department of Innovation, Industry, Science and Research has completed the Focusing Australia's Publicly Funded Research Review. I am sure you are aware of that. The review was undertaken from February to July 2011. It examined a number of issues in regard to the nature and utility of Australia's publicly funded research arrangements, with a particular focus on priority setting. So I ask this as my introductory question: how will the government's response to this bill affect the operation of the Australian Research Council in relation to the Focusing Australia's Publicly Funded Research Review?
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Collins, Sen Jacinta",ALP,2012-03-21,"
 
 
@@ -1055,7 +1298,7 @@ Senator JACINTA COLLINS
 
 Unfortunately, Senator Mason, we would like to take that on notice to give you a more definitive response other than our overall view that they are indeed consistent.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Mason, Sen Brett",LP,2012-03-21,"
 
 
@@ -1063,7 +1306,7 @@ Unfortunately, Senator Mason, we would like to take that on notice to give you a
 Senator MASON
  (Queensland) (16:04):  Minister, could you let the Senate know who will be included on the Australian Research Committee.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Collins, Sen Jacinta",ALP,2012-03-21,"
 
 
@@ -1081,7 +1324,7 @@ The CHAIRMAN:  While we are waiting, I advise the Senate that this debate will c
 Senator JACINTA COLLINS:
   Senator Mason, I am not sure what you mean by 'the committee'. Do you mean the composition of the council itself?
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Mason, Sen Brett",LP,2012-03-21,"
 
 
@@ -1089,7 +1332,7 @@ Senator JACINTA COLLINS:
 Senator MASON
  (Queensland) (16:04):  Will there be a representative of the ARC on the Australian Research Committee?
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Collins, Sen Jacinta",ALP,2012-03-21,"
 
 
@@ -1107,7 +1350,7 @@ Senator Mason:
 
 The CHAIRMAN:  Order, Senators! Rather than just go across the chamber, could you wait till I call you, for two reasons: it keeps the debate under a degree of control and it also enables the people in the audio room to switch the microphones on and off.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Mason, Sen Brett",LP,2012-03-21,"
 
 
@@ -1115,7 +1358,7 @@ The CHAIRMAN:  Order, Senators! Rather than just go across the chamber, could yo
 Senator MASON
  (Queensland) (16:05):   Mr Chairman, you are not implying, are you, that I am speaking too softly? That does not happen very often, but let me raise my voice! I ask, then: can the minister explain why HASS—that is, humanities, arts and social sciences—is gaining greater priority than it once had?
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Collins, Sen Jacinta",ALP,2012-03-21,"
 
 
@@ -1123,7 +1366,7 @@ Senator MASON
 Senator JACINTA COLLINS
  (Victoria—Manager of Government Business in the Senate and Parliamentary Secretary for School Education and Workplace Relations) (16:06):  Thank you, Senator Mason. Perhaps you can clarify for me: is that question related to the composition of the committee or is this a separate question about—is it humanities?
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Mason, Sen Brett",LP,2012-03-21,"
 
 
@@ -1131,7 +1374,7 @@ Senator JACINTA COLLINS
 Senator MASON
  (Queensland) (16:06):  Humanities. Humanities, arts and social sciences are gaining greater priority than they once had—or that is my understanding from having looked at the Focusing Australia's Publicly Funded Research Review. There is a greater priority given to the humanities, arts and social sciences. I am not suggesting that that is necessarily a bad thing; I am simply asking the question.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Collins, Sen Jacinta",ALP,2012-03-21,"
 
 
@@ -1139,7 +1382,7 @@ Senator MASON
 Senator JACINTA COLLINS
  (Victoria—Manager of Government Business in the Senate and Parliamentary Secretary for School Education and Workplace Relations) (16:06):  I take it that what Senator Mason is asking about is that the priority settings from the review give a greater emphasis to humanities, arts and social sciences, and you are interested in how that is reflected with respect to the composition of the council. My advice is that the statistics do not actually show that to be the case.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Mason, Sen Brett",LP,2012-03-21,"
 
 
@@ -1147,7 +1390,7 @@ Senator JACINTA COLLINS
 Senator MASON
  (Queensland) (16:07):  Then what are the current National Research Priorities?
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Collins, Sen Jacinta",ALP,2012-03-21,"
 
 
@@ -1155,7 +1398,7 @@ Senator MASON
 Senator JACINTA COLLINS
  (Victoria—Manager of Government Business in the Senate and Parliamentary Secretary for School Education and Workplace Relations) (16:07):  We do not have the list of those here at the moment. Certainly, on notice, we could get those for you fairly quickly. I am conscious that we will be dealing with this matter fairly quickly too, so I am unsure whether that would be made available to you ahead of the vote.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Mason, Sen Brett",LP,2012-03-21,"
 
 
@@ -1163,7 +1406,7 @@ Senator JACINTA COLLINS
 Senator MASON
  (Queensland) (16:08):  I am learning. What are the current National Innovation Priorities? Could you also make that available to the Senate either now or shortly.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Collins, Sen Jacinta",ALP,2012-03-21,"
 
 
@@ -1171,7 +1414,7 @@ Senator MASON
 Senator JACINTA COLLINS
  (Victoria—Manager of Government Business in the Senate and Parliamentary Secretary for School Education and Workplace Relations) (16:08):  Shortly.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Mason, Sen Brett",LP,2012-03-21,"
 
 
@@ -1179,7 +1422,7 @@ Senator JACINTA COLLINS
 Senator MASON
  (Queensland) (16:08):  In what way will priority goals be measured after the implementation of the Focusing Australia's Publicly Funded Research Review?
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Collins, Sen Jacinta",ALP,2012-03-21,"
 
 
@@ -1187,7 +1430,7 @@ Senator MASON
 Senator JACINTA COLLINS
  (Victoria—Manager of Government Business in the Senate and Parliamentary Secretary for School Education and Workplace Relations) (16:08):  Chair, I think I should indicate to Senator Mason that the government will be more than happy to provide him with further information about the priority goals of the review he mentioned, but I am unclear as to how that level of detail at this stage relates to this bill around establishing the Australian Research Council. Certainly they are very meritorious subjects, and matters that interest me also, and we are more than happy to cooperate. But I am sure Senator Mason appreciates that that information is not presently available with these officers with respect to this bill.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Mason, Sen Brett",LP,2012-03-21,"
 
 
@@ -1195,7 +1438,7 @@ Senator JACINTA COLLINS
 Senator MASON
  (Queensland) (16:09):  The reason I ask is that presently the government is considering, in the context of funding research in this country, looking at the role of and trying to divine how to measure the impact of research on our country, both social and economic. Let me just concede that it is a very difficult measure. My question really related to whether this review will assist and whether the impact is being taken into account in the context of this review. I think the government is right to start assessing impact because without it—how do I put this gently?—some taxpayers find it difficult to fund research when they believe that academics are simply writing for each other. They would prefer something with a social and economic impact.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Collins, Sen Jacinta",ALP,2012-03-21,"
 
 
@@ -1203,7 +1446,7 @@ Senator MASON
 Senator JACINTA COLLINS
  (Victoria—Manager of Government Business in the Senate and Parliamentary Secretary for School Education and Workplace Relations) (16:10):  Before I venture to answer that question, perhaps I can backtrack to the National Research Priorities. The first of those is An Environmentally Sustainable Australia; the second is Promoting and Maintaining Good Health; the third is Frontier Technologies for Building and Transforming Australian Industries; and the final one is Safeguarding Australia. In respect to the question that Senator Mason just raised, I need to be confident that a focus on the outcome or the output from research would be a significant element, but I will wait for further information from the officers. Yes, I can assure him the impact is included in all ARC proposals.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Mason, Sen Brett",LP,2012-03-21,"
 
 
@@ -1211,7 +1454,7 @@ Senator JACINTA COLLINS
 Senator MASON
  (Queensland) (16:11):  Thank you for that. I have a technical question. How will the impact be measured? It is a very simple question.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Collins, Sen Jacinta",ALP,2012-03-21,"
 
 
@@ -1222,7 +1465,7 @@ Senator JACINTA COLLINS
 
 I think the important element is a bit like the debates we have in this place about government addressing particular priorities and family impact assessments. Simply making the output one of the significant factors in assessing the projects focuses those who are putting forward projects and those who are assessing them on that issue and how output might appropriately be measured on a case-by-case basis.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Mason, Sen Brett",LP,2012-03-21,"
 
 
@@ -1230,7 +1473,7 @@ I think the important element is a bit like the debates we have in this place ab
 Senator MASON
  (Queensland) (16:13):  Minister, I thank you for detailing the National Research Priorities. The last one you mentioned was Safeguarding Australia. Does it include security and defence issues?
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Collins, Sen Jacinta",ALP,2012-03-21,"
 
 
@@ -1238,7 +1481,7 @@ Senator MASON
 Senator JACINTA COLLINS
  (Victoria—Manager of Government Business in the Senate and Parliamentary Secretary for School Education and Workplace Relations) (16:13):  Officers are working on that point. I think it is a very good question because Safeguarding Australia could relate to quite a broad range of security issues. It could pertain to food security or border security. The answer, Senator Mason, is yes.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Mason, Sen Brett",LP,2012-03-21,"
 
 
@@ -1246,7 +1489,7 @@ Senator JACINTA COLLINS
 Senator MASON
  (Queensland) (16:14):  With respect to environmental sustainability, is that a theme that runs through all the criteria for the Research Council grants these days? Environmental sustainability seems to be an overarching policy perspective of the government. Is that a policy direction that runs right through ARC criteria for grants?
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Collins, Sen Jacinta",ALP,2012-03-21,"
 
 
@@ -1264,7 +1507,7 @@ Question agreed to.
 
 Bill reported without amendment; report adopted.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 The DEPUTY PRESIDENT,,2012-03-21,"
 
 
@@ -1278,7 +1521,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1
+",Senate,<title>BILLS</title>,<title>Australian Research Council Amendment Bill 2011</title>,BILLS,17,1,speech
 "Ronaldson, Sen Michael",LP,2012-03-21,"
 
 
@@ -1364,7 +1607,7 @@ I turn to some remarkable comments by Councillor Cameron Granger, the Deputy May
 
 I will finish on this. The coalition has given the government our absolute commitment to bipartisan support for the Centenary of Anzac. It will be an extraordinarily important period in this nation's history. We have the opportunity over the term of that commemoration to provide our children and leave them with a legacy that should be modelled upon the legacy left by a former Labor veterans' affairs minister, Con Sciacca, who in my view left a remarkable legacy to this country with the Australia Remembers program. What we must do is generate in the hearts and minds of our young people ownership of those things that we hold dear. It is our children, and not the current World War II and other older veterans, who oddly have the responsibility to ensure that this country never ever forgets.
 
-",Senate,<title>BILLS</title>,"<title>Appropriation Bill (No. 3) 2011-2012, Appropriation Bill (No. 4) 2011-2012</title>",BILLS,19,1
+",Senate,<title>BILLS</title>,"<title>Appropriation Bill (No. 3) 2011-2012, Appropriation Bill (No. 4) 2011-2012</title>",BILLS,19,1,speech
 "Cash, Sen Michaelia",LP,2012-03-21,"
 
 
@@ -1430,7 +1673,7 @@ If we look across the entire immigration portfolio—and this does not include l
 
 In relation to this portfolio, on his watch the minister has dismantled the last remaining bricks in John Howard's wall of border protection. His budget has blown out to record levels, the detention network has been set on fire a number of times and the minister has admitted that almost 10,000 people will turn up this year and the government will not be turning any boats back before the next election. This is not an attractive legacy, to say the least.
 
-",Senate,<title>BILLS</title>,"<title>Appropriation Bill (No. 3) 2011-2012, Appropriation Bill (No. 4) 2011-2012</title>",BILLS,19,1
+",Senate,<title>BILLS</title>,"<title>Appropriation Bill (No. 3) 2011-2012, Appropriation Bill (No. 4) 2011-2012</title>",BILLS,19,1,speech
 "Macdonald, Sen Ian",LP,2012-03-21,"
 
 
@@ -1490,7 +1733,7 @@ The message I want to leave with senators in this chamber, and with any Queensla
 
 My point is that before the last election Ms Gillard promised no carbon tax and she promised that there was a rock-solid guarantee to maintain the rebate on private health insurance, and what happened? Broken. Before an election a while back Ms Bligh promised that they would retain the 8c subsidy on fuel and they would not sell off Queensland Rail, and immediately they get into power what do they do? They break their word. You cannot simply believe anything that any Labor Party leader will ever tell you. I think it is important in this debate on the appropriations we all understand that mismanagement of money is Labor's hallmark.
 
-",Senate,<title>BILLS</title>,"<title>Appropriation Bill (No. 3) 2011-2012, Appropriation Bill (No. 4) 2011-2012</title>",BILLS,19,1
+",Senate,<title>BILLS</title>,"<title>Appropriation Bill (No. 3) 2011-2012, Appropriation Bill (No. 4) 2011-2012</title>",BILLS,19,1,speech
 "Bernardi, Sen Cory",LP,2012-03-21,"
 
 
@@ -1579,7 +1822,7 @@ Whilst this government is borrowing $3 billion to support the notional clean ene
 
 I am short of time tonight, because I know there is at least one more speaker who wants his full allotment of time. But I have to put on the record my concerns for the Australian people about the direction this country is travelling in. It is going down the wrong path. It is a path without any principle. It is a path without boundaries or limits. In fact, I find that there is a complete lack of character in how this government conducts themselves. They will swear that black is white, and then the next day they will say that white is black again. And they call everyone who questions them a fool. They may say that I am a fool or my colleagues are fools. They can call me whatever names they might like to, but in the end someone has to say: the emperor—or the empress—has no clothes on. What they are doing to this country is a travesty and it is incumbent upon the Australian people to share that with their elected representatives so that when we do have an election they can remove this disgraceful government with their spendthrift ways and replace it with some fiscal prudence.
 
-",Senate,<title>BILLS</title>,"<title>Appropriation Bill (No. 3) 2011-2012, Appropriation Bill (No. 4) 2011-2012</title>",BILLS,19,1
+",Senate,<title>BILLS</title>,"<title>Appropriation Bill (No. 3) 2011-2012, Appropriation Bill (No. 4) 2011-2012</title>",BILLS,19,1,speech
 "Ryan, Sen Scott",LP,2012-03-21,"
 
 
@@ -1674,7 +1917,24 @@ Question agreed to.
 
 Bills read a second time.
 
-",Senate,<title>BILLS</title>,"<title>Appropriation Bill (No. 3) 2011-2012, Appropriation Bill (No. 4) 2011-2012</title>",BILLS,19,1
+",Senate,<title>BILLS</title>,"<title>Appropriation Bill (No. 3) 2011-2012, Appropriation Bill (No. 4) 2011-2012</title>",BILLS,19,1,speech
+"Back, Sen Chris",LP,2012-03-21,"
+
+
+
+The ACTING DEPUTY PRESIDENT 
+
+(
+Senator Back
+) (19:00):  The question now is that the remaining stages of these bills be agreed to and these bills be now passed.
+
+
+Question agreed to. 
+
+
+Bills read a third time.
+
+",Senate,<title>BILLS</title>,"<title>Appropriation Bill (No. 3) 2011-2012, Appropriation Bill (No. 4) 2011-2012</title>",BILLS,19,1,answer
 "Ronaldson, Sen Michael",LP,2012-03-21,"
 
 
@@ -1760,7 +2020,7 @@ I turn to some remarkable comments by Councillor Cameron Granger, the Deputy May
 
 I will finish on this. The coalition has given the government our absolute commitment to bipartisan support for the Centenary of Anzac. It will be an extraordinarily important period in this nation's history. We have the opportunity over the term of that commemoration to provide our children and leave them with a legacy that should be modelled upon the legacy left by a former Labor veterans' affairs minister, Con Sciacca, who in my view left a remarkable legacy to this country with the Australia Remembers program. What we must do is generate in the hearts and minds of our young people ownership of those things that we hold dear. It is our children, and not the current World War II and other older veterans, who oddly have the responsibility to ensure that this country never ever forgets.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Cash, Sen Michaelia",LP,2012-03-21,"
 
 
@@ -1826,7 +2086,7 @@ If we look across the entire immigration portfolio—and this does not include l
 
 In relation to this portfolio, on his watch the minister has dismantled the last remaining bricks in John Howard's wall of border protection. His budget has blown out to record levels, the detention network has been set on fire a number of times and the minister has admitted that almost 10,000 people will turn up this year and the government will not be turning any boats back before the next election. This is not an attractive legacy, to say the least.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Macdonald, Sen Ian",LP,2012-03-21,"
 
 
@@ -1886,7 +2146,7 @@ The message I want to leave with senators in this chamber, and with any Queensla
 
 My point is that before the last election Ms Gillard promised no carbon tax and she promised that there was a rock-solid guarantee to maintain the rebate on private health insurance, and what happened? Broken. Before an election a while back Ms Bligh promised that they would retain the 8c subsidy on fuel and they would not sell off Queensland Rail, and immediately they get into power what do they do? They break their word. You cannot simply believe anything that any Labor Party leader will ever tell you. I think it is important in this debate on the appropriations we all understand that mismanagement of money is Labor's hallmark.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Bernardi, Sen Cory",LP,2012-03-21,"
 
 
@@ -1975,7 +2235,7 @@ Whilst this government is borrowing $3 billion to support the notional clean ene
 
 I am short of time tonight, because I know there is at least one more speaker who wants his full allotment of time. But I have to put on the record my concerns for the Australian people about the direction this country is travelling in. It is going down the wrong path. It is a path without any principle. It is a path without boundaries or limits. In fact, I find that there is a complete lack of character in how this government conducts themselves. They will swear that black is white, and then the next day they will say that white is black again. And they call everyone who questions them a fool. They may say that I am a fool or my colleagues are fools. They can call me whatever names they might like to, but in the end someone has to say: the emperor—or the empress—has no clothes on. What they are doing to this country is a travesty and it is incumbent upon the Australian people to share that with their elected representatives so that when we do have an election they can remove this disgraceful government with their spendthrift ways and replace it with some fiscal prudence.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Ryan, Sen Scott",LP,2012-03-21,"
 
 
@@ -2070,7 +2330,7 @@ Question agreed to.
 
 Bills read a second time.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "McLucas, Sen Jan",ALP,2012-03-21,"
 
 
@@ -2087,7 +2347,7 @@ Question agreed to.
 
 Resolution reported; report adopted.
 
-",Senate,<title>BUDGET</title>,<title>Advance to the Finance Minister</title>,BUDGET,20,1
+",Senate,<title>BUDGET</title>,<title>Advance to the Finance Minister</title>,BUDGET,20,1,speech
 "McLucas, Sen Jan",ALP,2012-03-21,"
 
 
@@ -2104,7 +2364,7 @@ Question agreed to.
 
 Resolution reported; report adopted.
 
-",Senate,<title>BUDGET</title>,<title>In Committee</title>,BUDGET,20,2
+",Senate,<title>BUDGET</title>,<title>In Committee</title>,BUDGET,20,2,speech
 "Moore, Sen Claire",ALP,2012-03-21,"
 
 
@@ -2172,7 +2432,7 @@ One of the aspects of the legislation that did cause considerable discussion was
 
 Debate interrupted.
 
-",Senate,<title>BILLS</title>,"<title>Social Security Legislation Amendment Bill 2011, Stronger Futures in the Northern Territory (Consequential and Transitional Provisions) Bill 2011, Stronger Futures in the Northern Territory Bill 2012</title>",BILLS,21,1
+",Senate,<title>BILLS</title>,"<title>Social Security Legislation Amendment Bill 2011, Stronger Futures in the Northern Territory (Consequential and Transitional Provisions) Bill 2011, Stronger Futures in the Northern Territory Bill 2012</title>",BILLS,21,1,speech
 "Moore, Sen Claire",ALP,2012-03-21,"
 
 
@@ -2240,7 +2500,7 @@ One of the aspects of the legislation that did cause considerable discussion was
 
 Debate interrupted.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Brown, Sen Carol",ALP,2012-03-21,"
 
 
@@ -2278,4 +2538,4 @@ The government is determined to get these reforms right. That is why the ministe
 
 We need to make sure that these reforms do not just improve aged care over the next five years, but that they are sustainable for the next 20 to 30 years. Whilst our current investment in the aged-care sector is significant, this government recognises the importance of reform to the aged-care sector and to ensuring that we get it right.
 
-",Senate,<title>ADJOURNMENT</title>,<title>Aged Care</title>,ADJOURNMENT,22,1
+",Senate,<title>ADJOURNMENT</title>,<title>Aged Care</title>,ADJOURNMENT,22,1,speech

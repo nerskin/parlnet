@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Gray, Gary, MP",ALP,2013-12-04,"
 
 
@@ -78,7 +78,7 @@ Bringing all of those elements together—as these bills do—and so providing f
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,0,1
+",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,0,1,speech
 "Ruddock, Philip, MP",LP,2013-12-04,"
 
 
@@ -87,7 +87,7 @@ Mr RUDDOCK
 
  (Berowra—Chief Government Whip) (09:32):  by leave—I declare that the following bills are referred to the Federation Chamber for further consideration: the Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013 and the Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013.move:
 
-",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,0,1
+",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,0,1,speech
 "Gray, Gary, MP",ALP,2013-12-04,"
 
 
@@ -167,7 +167,7 @@ Bringing all of those elements together—as these bills do—and so providing f
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,0,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,0,2,speech
 "Pyne, Christopher, MP",LP,2013-12-04,"
 
 
@@ -227,7 +227,7 @@ I commend the bill to the House.
 
 Debate adjourned. 
 
-",HoR,<title>BILLS</title>,<title>Education Services for Overseas Students Amendment Bill 2013</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>Education Services for Overseas Students Amendment Bill 2013</title>,BILLS,2,1,speech
 "Scott, Bruce (The DEPUTY SPEAKER)",Nats,2013-12-04,"
 
 
@@ -238,7 +238,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ) (13:45):  Madam Speaker has received advice from the Chief Government Whip that Mr Randall has been nominated to be a member of the Selection Committee.
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,3,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,3,1,speech
 "Tudge, Alan, MP",LP,2013-12-04,"
 
 
@@ -252,7 +252,7 @@ That Mr Randall be appointed a member of the Selection Committee.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,3,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,3,1,speech
 "Scott, Bruce (The DEPUTY SPEAKER)",Nats,2013-12-04,"
 
 
@@ -263,7 +263,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ) (13:45):  Madam Speaker has received advice from the Chief Government Whip that Mr Randall has been nominated to be a member of the Selection Committee.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,3,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,3,2,speech
 "Tudge, Alan, MP",LP,2013-12-04,"
 
 
@@ -277,7 +277,7 @@ That Mr Randall be appointed a member of the Selection Committee.
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,3,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,3,2,speech
 "Parke, Melissa, MP",ALP,2013-12-04,"
 
 
@@ -291,7 +291,161 @@ Israel does not accept that the Fourth Geneva Convention, which prohibits such p
 
 I speak on behalf of many concerned Australian citizens in calling upon the government, when this matter comes again before the UN General Assembly next week, to respect the international rule of law and the government's own professed support for a two-state solution—a solution that is undermined and rendered increasingly unlikely by continued illegal Israeli settlement building on Palestinian land. At a time when Australia has a seat on the UN Security Council and the presidency of the G20, it behoves us to respect and promote international law and human rights.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Middle East: Occupied Palestinian Territory</title>,STATEMENTS BY MEMBERS,4,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Middle East: Occupied Palestinian Territory</title>,STATEMENTS BY MEMBERS,4,1,speech
+"King, Catherine, MP",ALP,2013-12-04,"
+
+
+
+Ms KING
+ (Ballarat) (14:00):  My question is to the Minister for Health, and I refer the minister to this letter I hold from the Prime Minister to the Alcohol and Other Drugs Council, dated 14 October this year, in which the Prime Minister stated, 'I look forward to working with you in the years ahead.' Can the minister explain why, just six weeks later, he cut the council's funding and forced them into voluntary administration? Hasn't the minister directly contradicted his Prime Minister?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Alcohol and Other Drugs Council of Australia</title>,QUESTIONS WITHOUT NOTICE,5,1,question
+"Dutton, Peter, MP",LP,2013-12-04,"
+
+
+
+Mr DUTTON
+ (Dickson—Minister for Health and Minister for Sport) (14:00):  The reason is that Labor left us with $370 billion worth of debt. That is a problem, isn't it? The problem is that Labor spent money in the Health portfolio on building bureaucracies and on services that were not directly benefiting patients. And, yes, we have got tough decisions to make as a government. There is no secret about that. The argument that is being put forward by the opposition really tries to hide the fact that we have not only a Department of Health but also 21 outside agencies, many of them created by the previous government; and, if we want to make sure that we can get money to patients, get better health outcomes and deal with Labor's debt at the same time, then we have to make tough decisions.
+
+
+
+
+Ms King:
+  Madam Speaker, I seek leave to table the letter, in which the Prime Minister says, 'If you ever believe that the government can do better, please let me know.'
+
+
+
+The SPEAKER:  Leave is not granted.
+
+
+
+
+Mr Abbott:
+  I am happy to have it.
+
+
+
+
+Ms King:
+  The Prime Minister said yes.
+
+
+
+The SPEAKER:  The Prime Minister is happy to have it. Leave is granted.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Alcohol and Other Drugs Council of Australia</title>,QUESTIONS WITHOUT NOTICE,5,1,answer
+"Ellis, Kate, MP",ALP,2013-12-04,"
+
+
+
+Ms KATE ELLIS
+ (Adelaide) (14:20):  My question is to the Prime Minister. I refer the Prime Minister to the PISA research released overnight which confirms that Australia has one of the widest equity gaps in educational outcomes in the OECD. Will the Prime Minister today commit that all six of the Gonski loadings will actually reach the individual students who need them?
+
+
+
+Mr Pyne interjecting—
+
+
+
+
+Ms KATE ELLIS:
+  This is actually not a joke, Christopher.
+
+
+
+The SPEAKER:  The Prime Minister will ignore the end part of that question.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Abbott, Tony, MP",LP,2013-12-04,"
+
+
+
+Mr ABBOTT
+ (Warringah—Prime Minister) (14:21):  I thank the member opposite for her question. I am very concerned about what this report shows about declining academic standards between 2009 and 2012, when—guess who?—members opposite were in government. 
+
+
+
+Opposition members interjecting—
+
+
+
+
+Mr ABBOTT:
+  Who was in government between 2009 and 2012?
+
+
+
+Opposition members interjecting—
+
+
+
+
+Mr ABBOTT:
+  Members opposite, led by their leader, are bellowing, 'No excuses!' I do not intend to offer excuses for Labor's bad performance. They offer excuses; I will not. I must tell the Leader of the Opposition that academic standards declined seriously when he was the education minister, when the former government was in power, despite—
+
+
+
+Mr Brendan O'Connor interjecting—
+
+
+
+The SPEAKER:  The member for Gorton is warned.
+
+
+
+
+Mr ABBOTT:
+  Academic standards declined when the Leader of the Opposition was Minister for Education despite Commonwealth real spending on schools going up by 10 per cent in that period. They spent more money and got worse results—that is the truth. We will put back the $1.2 billion that they ripped out—
+
+
+
+
+Mr Dreyfus:
+  False claims.
+
+
+
+The SPEAKER:  The member for Isaacs will remove himself from the House, under standing order 94(a).
+
+
+
+
+The member for Isaacs then left the chamber.
+
+
+
+
+
+Mr ABBOTT:
+  We will put that money back, but it is not all about money. It is also about higher standards and, unlike members opposite, we will work with the states to bring about greater principal autonomy, greater school autonomy, greater parental involvement and higher standards.
+
+
+
+
+Ms Kate Ellis:
+  Madam Speaker, I rise on a point of order on relevance. Will the Prime Minister refer to the six loadings—he committed to two yesterday—
+
+
+
+The SPEAKER:  There is no point of order. The Prime Minister has concluded his answer.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
+"Shorten, Bill, MP",ALP,2013-12-04,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (15:01):  My question is to the Prime Minister. Yesterday the Prime Minister said that the student resource standard was well known. Today I met with some great students from Cobar High School. Will the Prime Minister inform the House what the student resource standard would be at Cobar High School?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"Abbott, Tony, MP",LP,2013-12-04,"
+
+
+
+Mr ABBOTT
+ (Warringah—Prime Minister) (15:02):  It would depend upon the levels of disadvantage of students at that school.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Education</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
 "Bishop, Bronwyn, MP",LP,2013-12-04,"
 
 
@@ -311,7 +465,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Bowen, Chris, MP",ALP,2013-12-04,"
 
 
@@ -358,7 +512,7 @@ Have we ever before seen a Treasurer, within such a short period of time—and t
 
 With this Treasurer and this Prime Minister, never has there been such a clear case of big promises and small delivery. They were, as their promises were then, once mighty. They are now, as their performance is, nothing. 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Ciobo, Steven, MP",LP,2013-12-04,"
 
 
@@ -400,7 +554,7 @@ The Labor Party want to have their cake and eat it too. They say, 'We want to ma
 
 The simple, inescapable reality of this entire debate around Australia's debt ceiling is this: if you, Labor, were willing to stand up and do the right thing, to put Australia's national economic interests first, to put certainty and stability in the marketplace ahead of your own short-term political opportunism, you know that, based on the figures I outlined before, Labor Party figures, the best thing to do would be to increase Australia's debt ceiling to the $500 billion that was called for by the coalition—not to stand in the way with some silly game of $400 billion claims but to do the right thing by the Australian people and make a decision that, ultimately, is going to make a profound difference by ensuring that we can provide the certainty and stability that this nation so sorely needs after six years of mismanagement and debt-ridden rule by the Australian Labor Party.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Husic, Ed, MP",ALP,2013-12-04,"
 
 
@@ -479,7 +633,7 @@ Honourable members interjecting—
 Mr HUSIC:
   It is the Greens, not the Nats. That is right; that is the war that keeps on giving in the coalition! (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "McCormack, Michael, MP",Nats,2013-12-04,"
 
 
@@ -546,7 +700,7 @@ The government is getting on with the business of dealing with the legacy of deb
 
 Why is this such a big debt? We can refer to the Little Book of Big Labor Waste. We had immigration, the boats plan, with a $1.2 billion blow-out. I see the member for McMahon looking across wondering what document this is. I will table it, if you like. Building the Education Revolution, $8 billion wasted; political advertising, $100 million; national broadband blow-outs—who knows how much that is going to cost? Computers in school blew out by a massive $1.4 billion; green loans were eventually dumped after three independent reports found extensive mismanagement; the solar homes program, an $850 million blow-out; $54.25 million dollars was wasted on operational expenses in the Global Carbon Capture and Storage Institute; it just goes on and on. If you like, I will table the document so that the member for McMahon can read it a little later when he gets over his cowardly performance about GrainCorp. The debt ceiling does need to be increased. It is unfortunate that it needs to be increased because of the waste that you blokes racked up. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Chalmers, Jim, MP",ALP,2013-12-04,"
 
 
@@ -584,7 +738,7 @@ That is the charitable view. There is a more sinister interpretation that the Au
 
 This Treasurer comes in here all puffed up, full of self-congratulation, so proud of himself, always going for the cheap laugh over the hard yards. If those opposite think we would give a limitless credit card— (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Buchholz, Scott, MP",LP,2013-12-04,"
 
 
@@ -668,7 +822,7 @@ That will be a matter for them.
 
 The government knew. I have been challenged in my own electorate. I want to get this on the record and I did it the other day on the television. I have been challenged in my electorate on the points made by the other side of the House. We said we wanted to bring down debt. Why is it then that one of our first acts in getting into government was to increase the debt ceiling? The simple fact of the matter is that the ongoing expenses are still yet to hit our MasterCard. If we liken it to a family budget, the expenses that Labor have racked up have still yet to hit. We have sat in this House for no fewer than eight days since the election. It is unthinkable to suggest that the key policy issues that we have brought before this House, which are still waiting to be ratified by the Senate, have had any budgetary impacts. The additional revenue limit is needed to substantiate the extra increase of expenditure that the opposition ran up. It is the opposition's debt, you own it and we will make sure that we pay it back.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Champion, Nick, MP",ALP,2013-12-04,"
 
 
@@ -691,7 +845,7 @@ They told us before the election that they were going to repay the debt. How man
 
 But now, in the first sittings of this parliament, what do we have? An increase to half a trillion dollars in the debt limit. That is their first ambit claim and they are negotiating it. The member for Melbourne is not here. He is probably in Joe's office having very serious discussions or in Barnaby's office—the member for New England. They are probably talking about jobs and investment—probably not! What they are talking about is getting rid of the debt limit altogether. What we will have under this government is more debt. You can just see it coming. They are already starting to talk about good debt and bad debt. That means their debt will be good debt and our debt will be bad debt. That will be their philosophy. You can see it coming. What this Treasurer is doing, by getting into bed with the member for New England and the member for Melbourne, is jeopardising foreign investment, jeopardising jobs and pushing up our debt. This is a Treasurer that has all the characteristics of Ruth Park's muddle-headed wombat. That is what he is: a muddle-headed wombat, wandering around the place saying one thing and doing another.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Prentice, Jane, MP",LP,2013-12-04,"
 
 
@@ -717,7 +871,7 @@ The coalition is committed to providing stability and certainty to the markets. 
 
 I make one simple plea to the opposition: as much as you love the 24-hour news cycle, the people are sick of it. The Australian people want governments to get things done, not read about every confected conspiracy that conveniently lodges in the opposition's corporate brain. The people of Australian want the government to govern and that is what we are doing. It is as simple as that.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Claydon, Sharon, MP",ALP,2013-12-04,"
 
 
@@ -749,7 +903,7 @@ This Liberal government is now saying: 'We're happy to break promises. We don't 
 
 The coalition called the Greens 'economic fringe dwellers' during the last parliament but now promises to deal with them on the debt after the election. Labor is not going to support removing the debt limit. We will not support removing parliamentary scrutiny of government debt. Labor's position on debt is clear and it has been consistent. The government needs to be transparent and open its books and produce the evidence required.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Tehan, Dan, MP",LP,2013-12-04,"
 
 
@@ -806,7 +960,7 @@ Mr TEHAN:
 
 The SPEAKER:  The time allotted for this debate has expired.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Fiscal Policy</title>,MATTERS OF PUBLIC IMPORTANCE,11,1,speech
 "Bishop, Bronwyn, MP",LP,2013-12-04,"
 
 
@@ -814,7 +968,7 @@ The SPEAKER:  The time allotted for this debate has expired.
 The SPEAKER
  (16:10):  I have received advice from the Chief Government Whip to discharge Mr Randall from the Committee of Privileges and Members' Interests. I note that the member was appointed to the Selection Committee earlier this day.
 
-",HoR,<title>COMMITTEES</title>,<title>Privileges and Members' Interests Committee</title>,COMMITTEES,12,1
+",HoR,<title>COMMITTEES</title>,<title>Privileges and Members' Interests Committee</title>,COMMITTEES,12,1,speech
 "Robert, Stuart, MP",LP,2013-12-04,"
 
 
@@ -828,7 +982,7 @@ That Mr Randall be discharged from the Committee of Privileges and Members' Inte
 
 Question agreed to. 
 
-",HoR,<title>COMMITTEES</title>,<title>Privileges and Members' Interests Committee</title>,COMMITTEES,12,1
+",HoR,<title>COMMITTEES</title>,<title>Privileges and Members' Interests Committee</title>,COMMITTEES,12,1,speech
 "Bishop, Bronwyn, MP",LP,2013-12-04,"
 
 
@@ -836,7 +990,7 @@ Question agreed to.
 The SPEAKER
  (16:10):  I have received advice from the Chief Government Whip to discharge Mr Randall from the Committee of Privileges and Members' Interests. I note that the member was appointed to the Selection Committee earlier this day.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,12,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,12,2,speech
 "Robert, Stuart, MP",LP,2013-12-04,"
 
 
@@ -850,7 +1004,7 @@ That Mr Randall be discharged from the Committee of Privileges and Members' Inte
 
 Question agreed to. 
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,12,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,12,2,speech
 "Robert, Stuart, MP",LP,2013-12-04,"
 
 
@@ -867,7 +1021,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013</title>,BILLS,13,1
+",HoR,<title>BILLS</title>,<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013</title>,BILLS,13,1,speech
 "Mitchell, Rob (The DEPUTY SPEAKER)",ALP,2013-12-04,"
 
 
@@ -881,7 +1035,7 @@ Mr Mitchell
 
 Ordered that the message be considered immediately.
 
-",HoR,<title>COMMITTEES</title>,<title>Northern Australia Committee</title>,COMMITTEES,15,1
+",HoR,<title>COMMITTEES</title>,<title>Northern Australia Committee</title>,COMMITTEES,15,1,speech
 "Robert, Stuart, MP",LP,2013-12-04,"
 
 
@@ -895,7 +1049,7 @@ That the variation to the resolution of appointment of the Joint Select Committe
 
 Question agreed to. 
 
-",HoR,<title>COMMITTEES</title>,<title>Northern Australia Committee</title>,COMMITTEES,15,1
+",HoR,<title>COMMITTEES</title>,<title>Northern Australia Committee</title>,COMMITTEES,15,1,speech
 "Mitchell, Rob (The DEPUTY SPEAKER)",ALP,2013-12-04,"
 
 
@@ -909,7 +1063,7 @@ Mr Mitchell
 
 Ordered that the message be considered immediately.
 
-",HoR,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,15,2
+",HoR,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,15,2,speech
 "Robert, Stuart, MP",LP,2013-12-04,"
 
 
@@ -923,7 +1077,7 @@ That the variation to the resolution of appointment of the Joint Select Committe
 
 Question agreed to. 
 
-",HoR,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,15,2
+",HoR,<title>COMMITTEES</title>,<title>Appointment</title>,COMMITTEES,15,2,speech
 "Rowland, Michelle, MP",ALP,2013-12-04,"
 
 
@@ -1018,7 +1172,7 @@ I would like to point out, however, when talking about good uses, that what has 
 
 This bill is all about future-proofing ourselves and about being forward looking. I would challenge anyone to vote against the amendment that the shadow minister has put up today, because it would speak volumes of those who do. 
 
-",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,16,1,speech
 "Perrett, Graham, MP",ALP,2013-12-04,"
 
 
@@ -1068,7 +1222,7 @@ I would suggest that the Minister for Communications stop refusing our nation th
 
 I urge people to have a look at the facts. Labor's optic fibre provides the technology to use the broadband of the 21st century, not the 19th century. Copper did serve for a time, but we have moved on. The infrastructure that we are putting in will take us to 2040 and beyond. Depending on what happens with those new experiments, it could serve us for the next 100 years.
 
-",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,16,1,speech
 "Rowland, Michelle, MP",ALP,2013-12-04,"
 
 
@@ -1163,7 +1317,7 @@ I would like to point out, however, when talking about good uses, that what has 
 
 This bill is all about future-proofing ourselves and about being forward looking. I would challenge anyone to vote against the amendment that the shadow minister has put up today, because it would speak volumes of those who do. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "Perrett, Graham, MP",ALP,2013-12-04,"
 
 
@@ -1213,7 +1367,7 @@ I would suggest that the Minister for Communications stop refusing our nation th
 
 I urge people to have a look at the facts. Labor's optic fibre provides the technology to use the broadband of the 21st century, not the 19th century. Copper did serve for a time, but we have moved on. The infrastructure that we are putting in will take us to 2040 and beyond. Depending on what happens with those new experiments, it could serve us for the next 100 years.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "Hunt, Greg, MP",LP,2013-12-04,"
 
 
@@ -1242,7 +1396,7 @@ Mr HUNT:
 
 I would not want to in any way sell the member for Lilley short, and I am happy to have corrected the record.
 
-",HoR,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,17,1
+",HoR,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Carbon Pricing</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,17,1,speech
 "Fletcher, Paul, MP",LP,2013-12-04,"
 
 
@@ -1283,7 +1437,7 @@ Madam Speaker, I feel confident that you and my parliamentary colleagues share a
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,18,1
+",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,18,1,speech
 "Fletcher, Paul, MP",LP,2013-12-04,"
 
 
@@ -1324,7 +1478,7 @@ Madam Speaker, I feel confident that you and my parliamentary colleagues share a
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,18,2,speech
 "Hockey, Joe, MP",LP,2013-12-04,"
 
 
@@ -1355,7 +1509,7 @@ We need to move quickly in dealing with this. Now that an agreement has been str
 
 The SPEAKER:  The Treasurer did in fact have a question asked of him during question time relating to any deal with the Greens and any terms and conditions that related to it. He has added to his answer by tabling that agreement. 
 
-",HoR,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,19,1
+",HoR,<title>QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE: ADDITIONAL ANSWERS,19,1,speech
 "Brodtmann, Gai, MP",ALP,2013-12-04,"
 
 
@@ -1402,7 +1556,7 @@ The coalition's policy is not just inferior to Labor's, it is also inequitable. 
 
 There is bipartisan support for the Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013 because both sides recognise the importance of communications infrastructure and connectedness. Prime Minister Abbott has promised to be the infrastructure Prime Minister and he has promised to build the infrastructure Australia needs for the 21st century. Why then is he walking away from the most important infrastructure project of the 21st century? It is simply inexplicable.
 
-",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,20,1,speech
 "Owens, Julie, MP",ALP,2013-12-04,"
 
 
@@ -1458,7 +1612,7 @@ I come from an arts background. For me, it is never about what you can do; it is
 
 It is great to talk about submarine cables and it is a really terrific that they are the highest technology and the best quality we can get; that takes it to our shores and connects the businesses that are big enough to afford to be near big cities where they can benefit from the high speed. There are many others in this country who have much more to offer as we move into this new age. It is about time the government opposite made sure that they are supported in those endeavours.
 
-",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,20,1,speech
 "MacTiernan, Alannah, MP",ALP,2013-12-04,"
 
 
@@ -1535,7 +1689,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ):  I call the member for Ryan, in continuation.
 
-",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,20,1,speech
 "Prentice, Jane, MP",LP,2013-12-04,"
 
 
@@ -1552,7 +1706,7 @@ I understand that while I was not in the chamber the member for Greenway took th
 
 What did the Brisbane City Council do when we heard that the Prime Minister at the time, Mr Rudd, had had a little thought bubble? We contacted Ministers Conroy and Albanese and offered them copies of our business model and our financial model. The response was silence—they were not interested in something that had taken more than six years to develop, that had been tested and proved; they were not interested in working with us to deliver a network at no cost to the ratepayers and taxpayers of this country. No, they preferred to spend $64 billion—plus, plus—on a project that was never going to work. I support a national broadband network; what I do not support is the absolute waste that the Labor government inflicted on the taxpayers of Australia and that future generations would have had to pay off. It is an absolute disaster and the service would be much better delivered by the private sector. Unfortunately we are too far down the track for that. I condemn the opposition for the appalling model that they developed and for their refusal to work with people like the Brisbane City Council. In fact, the minister at the time threatened to write retrospective legislation to stop us delivering our system. That was the sort of attitude this opposition had when they were in government. I commend the bill to the House. 
 
-",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,20,1,speech
 "Bandt, Adam, MP",AG,2013-12-04,"
 
 
@@ -1584,7 +1738,7 @@ This bill includes new powers for the Attorney-General to direct ACMA to refuse 
 
 The Greens are committed to ensuring that Australia's submarine cables are secure, and this is inextricably linked to ensuring that the privacy of Australians' telecommunications are protected from illegal and unsupervised surveillance.
 
-",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,20,1,speech
 "Ripoll, Bernie, MP",ALP,2013-12-04,"
 
 
@@ -1654,7 +1808,7 @@ They had more foresight in 1940 when they were laying these marine cables than t
 
 I cannot say enough about the missed opportunity that this government has now delivered to all Australians. The time will come when there is no option but to take up the technology. Everything we do now is based on a higher need, a bigger pipe, greater access. A decade or so ago it might have been okay to be on dial-up. Some here might still remember those funny, clicky sounds when you dialled in. It was also a really frustrating sound. No-one could possibly use that today, because our systems no longer match to that. We need optic fibre to the home in the same way we need the big pipe. Whether it is infrastructure of a more technical nature like this or old-school infrastructure like bridges, roads or ports, you have to build in a bit of spare capacity. You have to look to the future. That is why we on this side will always be supporting the development of NBN to the home—it is in the national interest. While we will be supporting this bill, it does point to the failure of this government.
 
-",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,20,1,speech
 "Husic, Ed, MP",ALP,2013-12-04,"
 
 
@@ -1762,7 +1916,7 @@ The fact of the matter is that they have to reach—off the top of my head—nin
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013</title>,BILLS,20,1,speech
 "Brodtmann, Gai, MP",ALP,2013-12-04,"
 
 
@@ -1809,7 +1963,7 @@ The coalition's policy is not just inferior to Labor's, it is also inequitable. 
 
 There is bipartisan support for the Telecommunications Legislation Amendment (Submarine Cable Protection) Bill 2013 because both sides recognise the importance of communications infrastructure and connectedness. Prime Minister Abbott has promised to be the infrastructure Prime Minister and he has promised to build the infrastructure Australia needs for the 21st century. Why then is he walking away from the most important infrastructure project of the 21st century? It is simply inexplicable.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Owens, Julie, MP",ALP,2013-12-04,"
 
 
@@ -1865,7 +2019,7 @@ I come from an arts background. For me, it is never about what you can do; it is
 
 It is great to talk about submarine cables and it is a really terrific that they are the highest technology and the best quality we can get; that takes it to our shores and connects the businesses that are big enough to afford to be near big cities where they can benefit from the high speed. There are many others in this country who have much more to offer as we move into this new age. It is about time the government opposite made sure that they are supported in those endeavours.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "MacTiernan, Alannah, MP",ALP,2013-12-04,"
 
 
@@ -1942,7 +2096,7 @@ The DEPUTY SPEAKER
 Hon. BC Scott
 ):  I call the member for Ryan, in continuation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Prentice, Jane, MP",LP,2013-12-04,"
 
 
@@ -1959,7 +2113,7 @@ I understand that while I was not in the chamber the member for Greenway took th
 
 What did the Brisbane City Council do when we heard that the Prime Minister at the time, Mr Rudd, had had a little thought bubble? We contacted Ministers Conroy and Albanese and offered them copies of our business model and our financial model. The response was silence—they were not interested in something that had taken more than six years to develop, that had been tested and proved; they were not interested in working with us to deliver a network at no cost to the ratepayers and taxpayers of this country. No, they preferred to spend $64 billion—plus, plus—on a project that was never going to work. I support a national broadband network; what I do not support is the absolute waste that the Labor government inflicted on the taxpayers of Australia and that future generations would have had to pay off. It is an absolute disaster and the service would be much better delivered by the private sector. Unfortunately we are too far down the track for that. I condemn the opposition for the appalling model that they developed and for their refusal to work with people like the Brisbane City Council. In fact, the minister at the time threatened to write retrospective legislation to stop us delivering our system. That was the sort of attitude this opposition had when they were in government. I commend the bill to the House. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Bandt, Adam, MP",AG,2013-12-04,"
 
 
@@ -1991,7 +2145,7 @@ This bill includes new powers for the Attorney-General to direct ACMA to refuse 
 
 The Greens are committed to ensuring that Australia's submarine cables are secure, and this is inextricably linked to ensuring that the privacy of Australians' telecommunications are protected from illegal and unsupervised surveillance.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Ripoll, Bernie, MP",ALP,2013-12-04,"
 
 
@@ -2061,7 +2215,7 @@ They had more foresight in 1940 when they were laying these marine cables than t
 
 I cannot say enough about the missed opportunity that this government has now delivered to all Australians. The time will come when there is no option but to take up the technology. Everything we do now is based on a higher need, a bigger pipe, greater access. A decade or so ago it might have been okay to be on dial-up. Some here might still remember those funny, clicky sounds when you dialled in. It was also a really frustrating sound. No-one could possibly use that today, because our systems no longer match to that. We need optic fibre to the home in the same way we need the big pipe. Whether it is infrastructure of a more technical nature like this or old-school infrastructure like bridges, roads or ports, you have to build in a bit of spare capacity. You have to look to the future. That is why we on this side will always be supporting the development of NBN to the home—it is in the national interest. While we will be supporting this bill, it does point to the failure of this government.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Husic, Ed, MP",ALP,2013-12-04,"
 
 
@@ -2169,7 +2323,7 @@ The fact of the matter is that they have to reach—off the top of my head—nin
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Tudge, Alan, MP",LP,2013-12-04,"
 
 
@@ -2183,7 +2337,7 @@ That Mr Watts be appointed a member of the Joint Committee of Public Accounts an
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,21,1
+",HoR,<title>COMMITTEES</title>,<title>Public Accounts and Audit Committee</title>,COMMITTEES,21,1,speech
 "Tudge, Alan, MP",LP,2013-12-04,"
 
 
@@ -2197,7 +2351,7 @@ That Mr Watts be appointed a member of the Joint Committee of Public Accounts an
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,21,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,21,2,speech
 "Zappia, Tony, MP",ALP,2013-12-04,"
 
 
@@ -2259,7 +2413,7 @@ Mr ZAPPIA:
 
 I reiterate what I said earlier: we do not oppose this legislation and we certainly support any measures that ensure that there is a proper counter-system to the dumping of products in this country. We also support any measures that ensure that we do not lose any more jobs here in Australia. 
 
-",HoR,<title>BILLS</title>,<title>Customs Amendment (Anti-Dumping Commission Transfer) Bill 2013</title>,BILLS,22,1
+",HoR,<title>BILLS</title>,<title>Customs Amendment (Anti-Dumping Commission Transfer) Bill 2013</title>,BILLS,22,1,speech
 "Kelly, Craig, MP",LP,2013-12-04,"
 
 
@@ -2321,7 +2475,7 @@ This is dangerous and misguided. He continued, saying the sector needed to have 
 
 We need to make sure that our food-producing sector and our family farms are viable and that they can continue and compete on a level playing field. That is what this legislation is meant to do. It is a small step, it is a small start, and I commend this legislation to the House.
 
-",HoR,<title>BILLS</title>,<title>Customs Amendment (Anti-Dumping Commission Transfer) Bill 2013</title>,BILLS,22,1
+",HoR,<title>BILLS</title>,<title>Customs Amendment (Anti-Dumping Commission Transfer) Bill 2013</title>,BILLS,22,1,speech
 "Jones, Stephen, MP",ALP,2013-12-04,"
 
 
@@ -2606,7 +2760,7 @@ I commend the bill to the House.
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Customs Amendment (Anti-Dumping Commission Transfer) Bill 2013</title>,BILLS,22,1
+",HoR,<title>BILLS</title>,<title>Customs Amendment (Anti-Dumping Commission Transfer) Bill 2013</title>,BILLS,22,1,speech
 "Zappia, Tony, MP",ALP,2013-12-04,"
 
 
@@ -2668,7 +2822,7 @@ Mr ZAPPIA:
 
 I reiterate what I said earlier: we do not oppose this legislation and we certainly support any measures that ensure that there is a proper counter-system to the dumping of products in this country. We also support any measures that ensure that we do not lose any more jobs here in Australia. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Kelly, Craig, MP",LP,2013-12-04,"
 
 
@@ -2730,7 +2884,7 @@ This is dangerous and misguided. He continued, saying the sector needed to have 
 
 We need to make sure that our food-producing sector and our family farms are viable and that they can continue and compete on a level playing field. That is what this legislation is meant to do. It is a small step, it is a small start, and I commend this legislation to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Jones, Stephen, MP",ALP,2013-12-04,"
 
 
@@ -3015,7 +3169,7 @@ I commend the bill to the House.
 
 Debate interrupted.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,22,2,speech
 "Rishworth, Amanda, MP",ALP,2013-12-04,"
 
 
@@ -3085,7 +3239,7 @@ My residents want me to stand up for the NBN; they want me to stand up to ensure
 
 This is a sore point for the coalition. They are not listening to the people of Australia and they are not listening to the people of the southern suburbs of Adelaide who want a genuine long-term fix for their internet problems. Unfortunately, I fear that we are going to see broadband plan No. 21 or 22 from the Liberal Party fail. I call on them to— (Time expired)
 
-",HoR,<title>ADJOURNMENT</title>,<title>National Broadband Network</title>,ADJOURNMENT,23,1
+",HoR,<title>ADJOURNMENT</title>,<title>National Broadband Network</title>,ADJOURNMENT,23,1,speech
 "Vamvakinou, Maria, MP",ALP,2013-12-04,"
 
 
@@ -3099,7 +3253,7 @@ A local landscaper in the electorate, Mr Michael Casey, was engaged to oversee t
 
 It was a beautiful day in Melbourne and the opening was catered for and hosted by other students at the school who are studying at the Trades Training Centre. The college received $6 million worth of funding in round 1 of the Australian government's Trades Training Centres in Schools Program and it has gone on to build this $8 million centre, which features, amongst other things, a restaurant, a print and design centre and a bakery and patisserie, which by the way sells its produce to members of the public. I was particularly impressed with the professionalism and discipline shown by all students. I want to take this opportunity to thank the principal, Mr Brendan Watson, for the incredible work that he does in assisting his students and in running the school; the staff landscaper, Mr Michael Casey; in particular, the students, Domenic Molluso, Liam Reynolds, Hugo Pereira, Georges Cini, Morgan Bussettil and Jeremy Boland; and as well Jillian Davis, the VCAL learning coordinator. It is a great school and they are great kids doing a great job.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Calwell Electorate: Student Garden Project</title>,CONSTITUENCY STATEMENTS,25,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Calwell Electorate: Student Garden Project</title>,CONSTITUENCY STATEMENTS,25,1,speech
 "Danby, Michael, MP",ALP,2013-12-04,"
 
 
@@ -3125,7 +3279,7 @@ Another of the regulations concerns the separate prequalification and bidding pr
 
 Oil spills threaten countries such as Australia. I commend the former minister for his inquiry. I obviously agree with the former government's inquiry and recommendations and am pleased that this current government is following up this issue, if not others.
 
-",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,26,1
+",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,26,1,speech
 "Zappia, Tony, MP",ALP,2013-12-04,"
 
 
@@ -3154,7 +3308,7 @@ The whole process, I believe, will not only make the process of issuing licences
 
 I think that in this country we have some of the most pristine ocean areas, which we need to protect. We also know that within those areas there are opportunities for mineral development and mining leases to be granted. So this legislation, in my view, draws the right sort of balance and, as I said earlier, picks up on recommendations as a result of a review that was commissioned by the previous government and which is now being implemented by the current government. I commend the legislation to the House.
 
-",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,26,1
+",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,26,1,speech
 "Hall, Jill, MP",ALP,2013-12-04,"
 
 
@@ -3189,7 +3343,7 @@ I feel that this is very important legislation. It is noncontroversial simply be
 
 At the same time—because this is a cognate bill—the bill allows for the collection of annual administration fees by the National Offshore Petroleum Titles Administrator, and that will cover the ongoing costs associated with the cash-bidding bill. And so I am quite confident that the changes that have been outlined in this bill, which resulted from a review that was undertaken by the previous government, will benefit the industry, will benefit our economy and will be great for the future.
 
-",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,26,1
+",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,26,1,speech
 "Owens, Julie, MP",ALP,2013-12-04,"
 
 
@@ -3236,7 +3390,7 @@ This is a case of very reasonable cost recovery. The companies are making profit
 
 This is a very good pair of bills that takes a very practical, market based approach to ensuring that our very valuable offshore hydrocarbon assets are exploited in a way which is safe for workers, which ensures the best environmental outcomes that we can achieve, and ensures the best possible returns to Australians in this generation and the next. I commend the bills to the House.
 
-",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,26,1
+",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,26,1,speech
 "Perrett, Graham, MP",ALP,2013-12-04,"
 
 
@@ -3293,7 +3447,7 @@ This legislation in front of us is about recognising that there will be a transi
 
 This legislation is noncontroversial; it is supported by both sides of the chamber. I commend the Gillard government for bringing it forward and the Abbott government for bringing it forward. I commend the bills to the House. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,26,1
+",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,26,1,speech
 "Jones, Stephen, MP",ALP,2013-12-04,"
 
 
@@ -3350,7 +3504,7 @@ So I welcome the fact that you have picked up one of the bills prepared by Labor
 
 I commend the bill to the House. I think it is good legislation, but if members of this House are truly interested in ensuring that Australians reap the benefits of our bountiful supplies of energy then we have to address these impending crises, and I see no action at the moment. I see a big cry from industry. I see a big cry from gas suppliers saying, 'Complete the picture; do something about this.' So I call upon those opposite to do something about it, and you will enjoy support at least from this member of parliament in any efforts that you are able to make to ensure that businesses and households in my electorate and the adjoining electorates are not faced with some of the world's highest gas prices. While those opposite are whinging about the modest impact of a carbon price, they are taking their eye off the main game, and that main game is the price of gas in this country. I commend the legislation to the House.
 
-",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,26,1
+",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,26,1,speech
 "Baldwin, Bob, MP",LP,2013-12-04,"
 
 
@@ -3382,7 +3536,7 @@ Bill read a second time.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,26,1
+",HoR,<title>BILLS</title>,"<title>Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Bill 2013, Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Bill 2013</title>",BILLS,26,1,speech
 "Danby, Michael, MP",ALP,2013-12-04,"
 
 
@@ -3408,7 +3562,7 @@ Another of the regulations concerns the separate prequalification and bidding pr
 
 Oil spills threaten countries such as Australia. I commend the former minister for his inquiry. I obviously agree with the former government's inquiry and recommendations and am pleased that this current government is following up this issue, if not others.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2,speech
 "Zappia, Tony, MP",ALP,2013-12-04,"
 
 
@@ -3437,7 +3591,7 @@ The whole process, I believe, will not only make the process of issuing licences
 
 I think that in this country we have some of the most pristine ocean areas, which we need to protect. We also know that within those areas there are opportunities for mineral development and mining leases to be granted. So this legislation, in my view, draws the right sort of balance and, as I said earlier, picks up on recommendations as a result of a review that was commissioned by the previous government and which is now being implemented by the current government. I commend the legislation to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2,speech
 "Hall, Jill, MP",ALP,2013-12-04,"
 
 
@@ -3472,7 +3626,7 @@ I feel that this is very important legislation. It is noncontroversial simply be
 
 At the same time—because this is a cognate bill—the bill allows for the collection of annual administration fees by the National Offshore Petroleum Titles Administrator, and that will cover the ongoing costs associated with the cash-bidding bill. And so I am quite confident that the changes that have been outlined in this bill, which resulted from a review that was undertaken by the previous government, will benefit the industry, will benefit our economy and will be great for the future.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2,speech
 "Owens, Julie, MP",ALP,2013-12-04,"
 
 
@@ -3519,7 +3673,7 @@ This is a case of very reasonable cost recovery. The companies are making profit
 
 This is a very good pair of bills that takes a very practical, market based approach to ensuring that our very valuable offshore hydrocarbon assets are exploited in a way which is safe for workers, which ensures the best environmental outcomes that we can achieve, and ensures the best possible returns to Australians in this generation and the next. I commend the bills to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2,speech
 "Perrett, Graham, MP",ALP,2013-12-04,"
 
 
@@ -3576,7 +3730,7 @@ This legislation in front of us is about recognising that there will be a transi
 
 This legislation is noncontroversial; it is supported by both sides of the chamber. I commend the Gillard government for bringing it forward and the Abbott government for bringing it forward. I commend the bills to the House. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2,speech
 "Jones, Stephen, MP",ALP,2013-12-04,"
 
 
@@ -3633,7 +3787,7 @@ So I welcome the fact that you have picked up one of the bills prepared by Labor
 
 I commend the bill to the House. I think it is good legislation, but if members of this House are truly interested in ensuring that Australians reap the benefits of our bountiful supplies of energy then we have to address these impending crises, and I see no action at the moment. I see a big cry from industry. I see a big cry from gas suppliers saying, 'Complete the picture; do something about this.' So I call upon those opposite to do something about it, and you will enjoy support at least from this member of parliament in any efforts that you are able to make to ensure that businesses and households in my electorate and the adjoining electorates are not faced with some of the world's highest gas prices. While those opposite are whinging about the modest impact of a carbon price, they are taking their eye off the main game, and that main game is the price of gas in this country. I commend the legislation to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2,speech
 "Baldwin, Bob, MP",LP,2013-12-04,"
 
 
@@ -3665,4 +3819,35 @@ Bill read a second time.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,26,2,speech
+"Bandt, Adam, MP",AG,2013-12-04,"
+
+
+
+Mr Bandt
+  asked the Minister representing the Minister for Employment, in writing, on 13 November 2013:
+
+
+In respect of the amendments to the Comcare legislation resulting from the High Court case Canute v. Comcare, (a) must an individual with multiple workplace injuries have each injury assessed separately, (b) is it a fact that an individual is ineligible for compensation if they have multiple workplace injuries where each injury has a value of less than 10 per cent whole of person impairment, even if the total sum of these injuries is greater than 10 per cent whole of person impairment, and (c) will the Minister consider amending the legislation to allow for combining whole of person impairment ratings for multiple workplace injuries; if so, when.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Comcare (Question No. 1)</title>,QUESTIONS IN WRITING,27,1,question
+"Pyne, Christopher, MP",LP,2013-12-04,"
+
+
+
+Mr Pyne:
+  The Minister for Employment has provided the following answer to the honourable member's question:
+
+
+(a) Yes. As a result of the High Court decision in Canute each injury resulting in impairment requires a separate permanent impairment assessment. This includes employees who suffer from multiple injuries as a result of a single occurrence, for example an employee who sustains a crush injury resulting in impairments to their chest, upper and lower limbs. These impairments will not be able to achieve permanent impairment compensation if each value falls below the 10 per cent threshold. This outcome would also apply to injuries that manifest later as result of a compensable injury (Mr Canute's circumstance). That is the employee suffers a back injury and as a result of the chronic pain develops a depressive disorder 12 months later. 
+
+
+(b) Yes. If each separate injury to an employee results in a permanent impairment of less than 10 per cent, compensation for permanent impairment is not payable. Exceptions are permanent impairment as a result of hearing loss (prescribed threshold is 5 per cent) or loss of or loss of use of fingers or toes or taste or smell (no threshold requirement). 
+
+
+(c) The Government is considering its response to recommendation 8.2 of the Review of the Safety, Rehabilitation and Compensation Act 1988 that recommended an amendment to the Safety, Rehabilitation and Compensation Act 1988 so that separate impairments arising from a single injury occurrence can be combined to achieve a combined impairment value.
+
+
+ 
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Comcare (Question No. 1)</title>,QUESTIONS IN WRITING,27,1,answer

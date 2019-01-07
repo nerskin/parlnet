@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Albanese, Anthony, MP",ALP,2011-08-24,"
 
 
@@ -234,7 +234,7 @@ Mr Albanese:
 The SPEAKER:
  Order! As people would understand, the pairing arrangements are private arrangements between political parties within the chamber. I am not aware. They will be listed in the Votes and Proceedings when that is produced.
 
-",HoR,<title>MOTIONS</title>,<title>Pairing Arrangements</title>,MOTIONS,0,1
+",HoR,<title>MOTIONS</title>,<title>Pairing Arrangements</title>,MOTIONS,0,1,speech
 "Swan, Wayne, MP",ALP,2011-08-24,"
 
 
@@ -350,7 +350,7 @@ I commend the bill to the House.
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Parliamentary Service Amendment (Parliamentary Budget Officer) Bill 2011</title>,BILLS,1,1,speech
 "Scott, Bruce, MP",Nats,2011-08-24,"
 
 
@@ -358,7 +358,7 @@ Debate adjourned.
 The DEPUTY SPEAKER (Hon. BC Scott):
   The Speaker has received a message from the Senate informing the House that, in accordance with the resolution agreed to by both houses, Senator Fawcett has been appointed a member of the Joint Standing Committee on Treaties.
 
-",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,2,1,speech
 "Scott, Bruce, MP",Nats,2011-08-24,"
 
 
@@ -366,7 +366,7 @@ The DEPUTY SPEAKER (Hon. BC Scott):
 The DEPUTY SPEAKER (Hon. BC Scott):
   The Speaker has received a message from the Senate informing the House that, in accordance with the resolution agreed to by both houses, Senator Fawcett has been appointed a member of the Joint Standing Committee on Treaties.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,2,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,2,2,speech
 "Frydenberg, Josh, MP",LP,2011-08-24,"
 
 
@@ -380,7 +380,7 @@ Occasional child care is fundamentally different to kindergarten or normal child
 
 The coalition has promised to provide the $12.6 million necessary to fund occasional child care, and the Gillard government should waste no time in reversing its inexplicable decision to cut support for this vital community program.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Child Care</title>,STATEMENTS BY MEMBERS,4,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Child Care</title>,STATEMENTS BY MEMBERS,4,1,speech
 "Emerson, Craig, MP",ALP,2011-08-24,"
 
 
@@ -400,7 +400,7 @@ I wish to thank emergency services, all the other support services and the local
 The SPEAKER:
   I am sure that members would want me to associate the House with the remarks by the Minister for Trade who is also, more importantly, the member for Rankin. We pass on our condolences to the family and friends and, importantly, to the Rankin community.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Logan City: House Fire</title>,STATEMENTS ON INDULGENCE,5,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Logan City: House Fire</title>,STATEMENTS ON INDULGENCE,5,1,speech
 "Gambaro, Teresa, MP",LP,2011-08-24,"
 
 
@@ -408,7 +408,23 @@ The SPEAKER:
 Ms GAMBARO
  (Brisbane) (14:02):   As the shadow parliamentary secretary for immigration and citizenship, I also wish to add my respect and my wholehearted sympathy for the sad loss of 11 family members. I spoke just a few moments ago about that tragic loss. I think the House would share in expressing our heartfelt sympathies for the members of the Tongan and Samoan communities. I understand the MultiLink Community Services organisation called a meeting today. I want to acknowledge the great work that Helen Coyne and her team are doing to help the family and the community and the neighbours of this tragic loss.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Logan City: House Fire</title>,STATEMENTS ON INDULGENCE,5,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Logan City: House Fire</title>,STATEMENTS ON INDULGENCE,5,1,speech
+"Abbott, Tony, MP",LP,2011-08-24,"
+
+
+
+Mr ABBOTT
+ (Warringah—Leader of the Opposition) (14:03):  In light of the member for Dobell's resignation as chairman of the House Standing Committee on Economics due to a New South Wales police investigation I ask the Prime Minister: does the member still have her complete confidence?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Member for Dobell</title>,QUESTIONS WITHOUT NOTICE,7,1,question
+"Gillard, Julia, MP",ALP,2011-08-24,"
+
+
+
+Ms GILLARD
+ (Lalor—Prime Minister) (14:03):  In answer to the Leader of the Opposition's question, I have made many statements about that in this House. I stand by every one of them but what I am not going to stand for is the Leader of the Opposition in his question verballing and his presumptions about the motivations of the member for Dobell in determining to resign from the chairpersonship of a committee. I refer the Leader of the Opposition to the statement he made, which was about the best workings of that committee.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Member for Dobell</title>,QUESTIONS WITHOUT NOTICE,7,1,answer
 "Abbott, Tony, MP",LP,2011-08-24,"
 
 
@@ -419,7 +435,7 @@ Mr ABBOTT
 
 Leave not granted. 
 
-",HoR,<title>MOTIONS</title>,<title>Member for Dobell</title>,MOTIONS,8,1
+",HoR,<title>MOTIONS</title>,<title>Member for Dobell</title>,MOTIONS,8,1,speech
 "Prentice, Jane, MP",LP,2011-08-24,"
 
 
@@ -445,7 +461,7 @@ Mrs PRENTICE:
 The SPEAKER:
   I will take the question on notice. I am not sure that it is within my province, but there is sufficient spin on the serve to allow me to attempt to hit it. I will get back to the member for Ryan—she has obviously been taking very close advice from her neighbour, whose serve I would not have seen at all if he had served one up to me!
 
-",HoR,<title>QUESTIONS TO THE SPEAKER</title>,<title>Tennis Australia Event: Funding</title>,QUESTIONS TO THE SPEAKER,11,1
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,<title>Tennis Australia Event: Funding</title>,QUESTIONS TO THE SPEAKER,11,1,speech
 "Jenkins, Harry, MP",ALP,2011-08-24,"
 
 
@@ -1270,7 +1286,7 @@ NSW Sugar Industry (Mr Hartsuyker)
 
 Early Childhood Learning (Mr Tudge)
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,12,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,12,1,speech
 "Jenkins, Harry, MP",ALP,2011-08-24,"
 
 
@@ -2095,7 +2111,7 @@ NSW Sugar Industry (Mr Hartsuyker)
 
 Early Childhood Learning (Mr Tudge)
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,12,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,12,2,speech
 "Truss, Warren, MP",Nats,2011-08-24,"
 
 
@@ -2157,7 +2173,7 @@ People have come from across the nation to deliver the message. If the governmen
 
 In addition to the government promising that there would be no carbon tax while they were in government, they said that they would not introduce a carbon tax unless there was a consensus of the Australian people. I have been watching the crowds on the lawns of Parliament House, I have been listening to the media coverage and I have been reading the letters that I receive from my constituents, and I have to say that there is a consensus in Australia, and the consensus is that we do not want a carbon tax. The people do not want it. And no convoy of incompetence, no closing down of question time, no avoidance of the issue and no unwillingness to speak to people on the laws will get away from that fact. The people do not want the carbon tax. It will not be good for Australia. It will hurt Australian jobs. It will make sure that the economic prosperity of this country stalls. That is not a price that Australian people are prepared to pay.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "Crean, Simon, MP",ALP,2011-08-24,"
 
 
@@ -2275,7 +2291,7 @@ The greatest irony in this debate is that when it comes to creative solutions to
 
 When I was Minister for Trade those who sat on the other side were always saying, 'Do your best, Minister, in terms of opening the markets.' Here we have the opportunity to have an influence in the newest market of the lot and they are saying: 'Ignore it. We don't want more markets. We don't want open markets. We want to turn on our own traditions because we want to run a grubby, negative fear campaign. We haven't got any ideas. Our way back to office is to run the fear campaign, play to all the people's worst prejudices, play to their fears, and rather than give hope and opportunity, give them fear.' We are the party of opportunity and we will succeed.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "Macfarlane, Ian, MP",LP,2011-08-24,"
 
 
@@ -2351,7 +2367,7 @@ I heard the member for Wide Bay and Leader of the Nationals talk about the impac
 
 This is a bad tax. This is a tax which will achieve nothing. This is a tax that will not cause the conversion of coal fired power stations to gas fired power stations. This is an attack on the living standards of everyday Australians and everyday families. That is why the opposition is opposed to this tax. That is why the people of Australia are opposed to this tax. That is why thousands of people have been massing in front of this parliament. They now feel that the only way they can be heard by this government is to come down and confront it. So out of touch are the people on that side of the House that men and women of Australia feel they have to come down here to ensure that this government gets its message that they do not want their everyday activities costing more as a result of this tax.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "Grierson, Sharon, MP",ALP,2011-08-24,"
 
 
@@ -2407,7 +2423,7 @@ I also say to the opposition: let's look to some economic certainty in this coun
 
 I am pleased to follow Simon Crean, the Minister for Regional Development, Local Government and the Arts, in this debate because his recent visit in my electorate was so well received because of his track record in Labor politics of job creation and protection. People came up to him with great affection. Steelworkers of the past, who know that in this challenge they can feel secure. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "Ley, Sussan, MP",LP,2011-08-24,"
 
 
@@ -2445,7 +2461,7 @@ Much has been made of the state governments' reports and investigations into the
 
 Our own fabulous Parliamentary Library has produced some information that suggests that the price on carbon that would have to be put that would make the difference that that government says will be made is a price that is well above what we are actually seeing. Which means that, in spite of all this pain, it is still a fraud on the Australian people and it is not going to achieve the things that they have said that it will. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "Murphy, John, MP",ALP,2011-08-24,"
 
 
@@ -2499,7 +2515,7 @@ The DEPUTY SPEAKER
 Hon. Peter Slipper
 ):  Order! The discussion is now concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Carbon Pricing</title>,MATTERS OF PUBLIC IMPORTANCE,13,1,speech
 "Georganas, Steve, MP",ALP,2011-08-24,"
 
 
@@ -2559,7 +2575,7 @@ Mr Dutton:
 
 The DEPUTY SPEAKER:  I will reflect on the point made by the honourable member for Dickson.
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "Scott, Bruce, MP",Nats,2011-08-24,"
 
 
@@ -2612,7 +2628,7 @@ The DEPUTY SPEAKER
 Hon. Peter Slipper
 ):  Before calling the next speaker, I recognise the honourable member for Lyons.
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "Adams, Dick, MP",ALP,2011-08-24,"
 
 
@@ -2624,7 +2640,7 @@ Mr ADAMS
 
 The DEPUTY SPEAKER:  I thank the honourable member for Lyons for assisting the House. I would also just gently mention to the member for Dickson that in response he maybe ought not to make a generalised criticism of members opposite in retaliation.
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "Chester, Darren, MP",Nats,2011-08-24,"
 
 
@@ -2668,7 +2684,7 @@ For the sake of the debate, I also wonder whether this is the best use of the go
 
 In conclusion, I note that this is an unproven measure. There is great concern within the small business sector about whether it will be easy for them to implement. The practicalities of it in the workplace will make it difficult for small business owners in particular and their staff. It will be difficult for people who have trouble with literacy, and I do not think the government has considered that. I have the overarching concern that I am not convinced that this government actually has its legal advice in place. I fear it is exposing the Australian taxpayers to a costly legal action for very little gain.
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "Laming, Andrew, MP",LP,2011-08-24,"
 
 
@@ -2715,7 +2731,7 @@ So you have bipartisan support. We will give it a go. We will see if it works. T
 
 We will support the plain packaging. We hope that it makes a difference. We implore the government to count and see if it does. Most importantly of all, we ask for way more focus on Indigenous smoking than there has been already, because up to now through the Closing the Gap objectives we have seen a whole host of counting inputs but precious little counting of outcomes.
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "Washer, Dr Mal, MP",LP,2011-08-24,"
 
 
@@ -2738,7 +2754,7 @@ The benefits for quitting smoking are: in eight hours blood levels of carbon mon
 
 The Tobacco Plain Packaging Bill 2011 is the latest step in reducing the toll on families of smoking-related deaths. It sends a clear message that the glamour is gone. The new packaging will have the lowest appeal to smokers, making clear the terrible effects that smoking can have on health. Identification of the manufacturer's name can be adequately identified by the retailer to provide the customer with the brand requested. The carton packaging that carries the individual cigarette packs will be labelled with the maker's logo. Identification codes to reduce the probability of illegal tobacco will be present on packets of cigarettes on a voluntary basis by the industry. Criminal and civil penalties will apply to sales of non-compliant packs from 1 July 2012. I have no doubt that plain packaging will reduce the appeal of tobacco products to consumers, particularly to young people, and increase the legitimisation and effectiveness of mandated health warnings and reduce consumer confusion about the harms of smoking. Let us all hope that, along with other comprehensive tobacco control measures, this will reduce smoking rates in this country.
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "Irons, Steve, MP",LP,2011-08-24,"
 
 
@@ -2797,7 +2813,7 @@ For the record, I do not smoke and I do not advocate it. I guess because I had a
 
 Anything we do on a bipartisan basis in this House to reduce the smoking numbers in Australia should be commended. So I share the bipartisan goal of reducing the Australian smoking rate but I will always respect the rights of people in my electorate to smoke. I think the minister's shrill rhetoric over the past months has not assisted in this respect. There is no silver bullet and Australia needs a comprehensive tobacco strategy. California in the US, which has a lower smoking rate than Australia, has already been raised by the shadow minister as a good example of this. I congratulate all members for their contributions on this bill.
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "McCormack, Michael, MP",Nats,2011-08-24,"
 
 
@@ -2841,7 +2857,7 @@ While Australia is generally seen by its peers as one country which has a lower 
 
 The freedom of the individual is paramount. This legislation to impose plain packaging on cigarettes has been described by many as a nanny state initiative, and some see it as a complete waste of time. As proposed, the legislation represents another hit to businesses, particularly small retail operators, and consumers and it threatens to drive customers from small businesses into the arms of the retail giants, the big duopoly. Worse, I fail to see how it will work as a smoking prevention measure. Cigarettes are already required to be away from sight at most points of purchase. Wrapping cigarettes in olive-coloured plain packets has been proudly proclaimed by the health minister as a world-first, but it is a smokescreen. The legislation introduced simply plays politics and achieves nothing. I think smoking rates will continue to fall regardless of this legislation.
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "Wyatt, Ken, MP",LP,2011-08-24,"
 
 
@@ -2895,7 +2911,7 @@ I hope that at the end of 12 months we review what progress has been made as a r
 
 I acknowledge that the Minister for Health and Ageing in her considerations has looked at the health impact outcome and has embedded that strongly in her speeches. Having had a health background for some period of time, I would endorse those messages so that we have a population which is much healthier and has lower rates of illness from tobacco smoking and a community in which people are given the opportunity to make choices because there will be some people who will continue to smoke. Within a democracy, I would equally defend their right to exercise that choice, but I would encourage them equally to relinquish the habit of smoking, consider their health and look at alternatives that will prolong their life, give them the opportunity to be healthy and to contribute to Australian society.
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "Slipper, Peter, MP",Ind.,2011-08-24,"
 
 
@@ -2951,7 +2967,7 @@ While the simple solution might be to remove this product from the shelves, I do
 
 I do support the Liberal-National position on these bills. I commend the Tobacco Plain Packaging Bill 2011, with the amendment, to honourable members.
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "Billson, Bruce, MP",LP,2011-08-24,"
 
 
@@ -3014,7 +3030,7 @@ Retailers then point to the growth of the illegal and counterfeit market that se
 
 This is the atmosphere within which the small-business community operates. I thought there was some scope to consider even more health warnings on the front of the package, even greater visual displays, rather than the generic name and variant which is displayed in a number of locations under the government's proposal. Have more graphic health warnings, have greater warnings for smokers and those considering it, and in return maybe a small stripe on the bottom of the packet—not something that is highly visible, but something that at least the small-business person could put the cigarettes top down in their chutes, readily identify them and not at another burden to their cost. That would also go some way to guarding against what the minister says are efforts 'designed to remove the last vestige of glamour from tobacco products'. We could have done more, we could have improved this with some fine tuning, but for that to occur we need those opposite to be willing as well and that has not happened.
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "Christensen, George, MP",Nats,2011-08-24,"
 
 
@@ -3094,7 +3110,7 @@ The DEPUTY SPEAKER
 Mr S Georganas
 ):  Order! I ask members to cease interjecting.
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "Cobb, John, MP",Nats,2011-08-24,"
 
 
@@ -3126,7 +3142,7 @@ As I said earlier, I just wonder, if it is so bad, why it is not illegal to sell
 
 I have to say that, as adults, we make our own decisions. At 18 we are supposed to have the ability to make decisions; otherwise, why in the hell is 18 the age at which you reach seniority and have the rights every adult in the nation has? Yes, let's stop those who are under that age from smoking. For those over that age, either make it illegal or get over it. 
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "Windsor, Tony, MP",Ind.,2011-08-24,"
 
 
@@ -3182,7 +3198,7 @@ As to whether stickers can be coloured, I understand that New South Wales point 
 
 I am almost out of time, but I said at the start and I say again: I congratulate you, Minister, for doing this. I think it is an important step on our road to better health. But I would ask you to consider the real issues that some retailers have at point of sale. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "Bishop, Bronwyn, MP",LP,2011-08-24,"
 
 
@@ -3214,7 +3230,7 @@ The DEPUTY SPEAKER
 Hon. Peter Slipper
 ):  Before I give the call to the Hon. Minister for Health and Ageing, I would like to recognise present in the advisor's box Zac Power, who is a work experience student with the Parliamentary Secretary for Pacific Island Affairs. He is working with the parliamentary secretary this week and he is a student at Geelong High School. He is accompanied by Grant Dew, who is a member of the staff of the parliamentary secretary.
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "Roxon, Nicola, MP",ALP,2011-08-24,"
 
 
@@ -3286,7 +3302,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "Southcott, Dr Andrew, MP",LP,2011-08-24,"
 
 
@@ -3325,7 +3341,7 @@ On the issue of track and trace of tobacco I would have welcomed a more consider
 
 It is certainly not the intention of the opposition to undermine the public health intent of this bill with this amendment. We supported this bill at the second reading stage. We feel that the consultation by the government of small business and small retailers has not been up to scratch and that is why we will be moving this amendment. We do not see that it will undermine the public health intent of this bill, which we support.
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "Roxon, Nicola, MP",ALP,2011-08-24,"
 
 
@@ -3345,7 +3361,7 @@ The House divided.   [19:03]
 
 Question negatived. 
 
-",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1
+",HoR,<title>BILLS</title>,"<title>Tobacco Plain Packaging Bill 2011, Trade Marks Amendment (Tobacco Plain Packaging) Bill 2011</title>",BILLS,14,1,speech
 "Georganas, Steve, MP",ALP,2011-08-24,"
 
 
@@ -3405,7 +3421,7 @@ Mr Dutton:
 
 The DEPUTY SPEAKER:  I will reflect on the point made by the honourable member for Dickson.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Scott, Bruce, MP",Nats,2011-08-24,"
 
 
@@ -3458,7 +3474,7 @@ The DEPUTY SPEAKER
 Hon. Peter Slipper
 ):  Before calling the next speaker, I recognise the honourable member for Lyons.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Adams, Dick, MP",ALP,2011-08-24,"
 
 
@@ -3470,7 +3486,7 @@ Mr ADAMS
 
 The DEPUTY SPEAKER:  I thank the honourable member for Lyons for assisting the House. I would also just gently mention to the member for Dickson that in response he maybe ought not to make a generalised criticism of members opposite in retaliation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Chester, Darren, MP",Nats,2011-08-24,"
 
 
@@ -3514,7 +3530,7 @@ For the sake of the debate, I also wonder whether this is the best use of the go
 
 In conclusion, I note that this is an unproven measure. There is great concern within the small business sector about whether it will be easy for them to implement. The practicalities of it in the workplace will make it difficult for small business owners in particular and their staff. It will be difficult for people who have trouble with literacy, and I do not think the government has considered that. I have the overarching concern that I am not convinced that this government actually has its legal advice in place. I fear it is exposing the Australian taxpayers to a costly legal action for very little gain.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Laming, Andrew, MP",LP,2011-08-24,"
 
 
@@ -3561,7 +3577,7 @@ So you have bipartisan support. We will give it a go. We will see if it works. T
 
 We will support the plain packaging. We hope that it makes a difference. We implore the government to count and see if it does. Most importantly of all, we ask for way more focus on Indigenous smoking than there has been already, because up to now through the Closing the Gap objectives we have seen a whole host of counting inputs but precious little counting of outcomes.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Washer, Dr Mal, MP",LP,2011-08-24,"
 
 
@@ -3584,7 +3600,7 @@ The benefits for quitting smoking are: in eight hours blood levels of carbon mon
 
 The Tobacco Plain Packaging Bill 2011 is the latest step in reducing the toll on families of smoking-related deaths. It sends a clear message that the glamour is gone. The new packaging will have the lowest appeal to smokers, making clear the terrible effects that smoking can have on health. Identification of the manufacturer's name can be adequately identified by the retailer to provide the customer with the brand requested. The carton packaging that carries the individual cigarette packs will be labelled with the maker's logo. Identification codes to reduce the probability of illegal tobacco will be present on packets of cigarettes on a voluntary basis by the industry. Criminal and civil penalties will apply to sales of non-compliant packs from 1 July 2012. I have no doubt that plain packaging will reduce the appeal of tobacco products to consumers, particularly to young people, and increase the legitimisation and effectiveness of mandated health warnings and reduce consumer confusion about the harms of smoking. Let us all hope that, along with other comprehensive tobacco control measures, this will reduce smoking rates in this country.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Irons, Steve, MP",LP,2011-08-24,"
 
 
@@ -3643,7 +3659,7 @@ For the record, I do not smoke and I do not advocate it. I guess because I had a
 
 Anything we do on a bipartisan basis in this House to reduce the smoking numbers in Australia should be commended. So I share the bipartisan goal of reducing the Australian smoking rate but I will always respect the rights of people in my electorate to smoke. I think the minister's shrill rhetoric over the past months has not assisted in this respect. There is no silver bullet and Australia needs a comprehensive tobacco strategy. California in the US, which has a lower smoking rate than Australia, has already been raised by the shadow minister as a good example of this. I congratulate all members for their contributions on this bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "McCormack, Michael, MP",Nats,2011-08-24,"
 
 
@@ -3687,7 +3703,7 @@ While Australia is generally seen by its peers as one country which has a lower 
 
 The freedom of the individual is paramount. This legislation to impose plain packaging on cigarettes has been described by many as a nanny state initiative, and some see it as a complete waste of time. As proposed, the legislation represents another hit to businesses, particularly small retail operators, and consumers and it threatens to drive customers from small businesses into the arms of the retail giants, the big duopoly. Worse, I fail to see how it will work as a smoking prevention measure. Cigarettes are already required to be away from sight at most points of purchase. Wrapping cigarettes in olive-coloured plain packets has been proudly proclaimed by the health minister as a world-first, but it is a smokescreen. The legislation introduced simply plays politics and achieves nothing. I think smoking rates will continue to fall regardless of this legislation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Wyatt, Ken, MP",LP,2011-08-24,"
 
 
@@ -3741,7 +3757,7 @@ I hope that at the end of 12 months we review what progress has been made as a r
 
 I acknowledge that the Minister for Health and Ageing in her considerations has looked at the health impact outcome and has embedded that strongly in her speeches. Having had a health background for some period of time, I would endorse those messages so that we have a population which is much healthier and has lower rates of illness from tobacco smoking and a community in which people are given the opportunity to make choices because there will be some people who will continue to smoke. Within a democracy, I would equally defend their right to exercise that choice, but I would encourage them equally to relinquish the habit of smoking, consider their health and look at alternatives that will prolong their life, give them the opportunity to be healthy and to contribute to Australian society.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Slipper, Peter, MP",Ind.,2011-08-24,"
 
 
@@ -3797,7 +3813,7 @@ While the simple solution might be to remove this product from the shelves, I do
 
 I do support the Liberal-National position on these bills. I commend the Tobacco Plain Packaging Bill 2011, with the amendment, to honourable members.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Billson, Bruce, MP",LP,2011-08-24,"
 
 
@@ -3860,7 +3876,7 @@ Retailers then point to the growth of the illegal and counterfeit market that se
 
 This is the atmosphere within which the small-business community operates. I thought there was some scope to consider even more health warnings on the front of the package, even greater visual displays, rather than the generic name and variant which is displayed in a number of locations under the government's proposal. Have more graphic health warnings, have greater warnings for smokers and those considering it, and in return maybe a small stripe on the bottom of the packet—not something that is highly visible, but something that at least the small-business person could put the cigarettes top down in their chutes, readily identify them and not at another burden to their cost. That would also go some way to guarding against what the minister says are efforts 'designed to remove the last vestige of glamour from tobacco products'. We could have done more, we could have improved this with some fine tuning, but for that to occur we need those opposite to be willing as well and that has not happened.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Christensen, George, MP",Nats,2011-08-24,"
 
 
@@ -3940,7 +3956,7 @@ The DEPUTY SPEAKER
 Mr S Georganas
 ):  Order! I ask members to cease interjecting.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Cobb, John, MP",Nats,2011-08-24,"
 
 
@@ -3972,7 +3988,7 @@ As I said earlier, I just wonder, if it is so bad, why it is not illegal to sell
 
 I have to say that, as adults, we make our own decisions. At 18 we are supposed to have the ability to make decisions; otherwise, why in the hell is 18 the age at which you reach seniority and have the rights every adult in the nation has? Yes, let's stop those who are under that age from smoking. For those over that age, either make it illegal or get over it. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Windsor, Tony, MP",Ind.,2011-08-24,"
 
 
@@ -4028,7 +4044,7 @@ As to whether stickers can be coloured, I understand that New South Wales point 
 
 I am almost out of time, but I said at the start and I say again: I congratulate you, Minister, for doing this. I think it is an important step on our road to better health. But I would ask you to consider the real issues that some retailers have at point of sale. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Bishop, Bronwyn, MP",LP,2011-08-24,"
 
 
@@ -4060,7 +4076,7 @@ The DEPUTY SPEAKER
 Hon. Peter Slipper
 ):  Before I give the call to the Hon. Minister for Health and Ageing, I would like to recognise present in the advisor's box Zac Power, who is a work experience student with the Parliamentary Secretary for Pacific Island Affairs. He is working with the parliamentary secretary this week and he is a student at Geelong High School. He is accompanied by Grant Dew, who is a member of the staff of the parliamentary secretary.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Roxon, Nicola, MP",ALP,2011-08-24,"
 
 
@@ -4132,7 +4148,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,14,2,speech
 "Roxon, Nicola, MP",ALP,2011-08-24,"
 
 
@@ -4149,7 +4165,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Tobacco Plain Packaging Bill 2011</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Tobacco Plain Packaging Bill 2011</title>,BILLS,16,1,speech
 "Simpkins, Luke, MP",LP,2011-08-24,"
 
 
@@ -4230,7 +4246,7 @@ from 11,881 citizens.
 
 Petition received.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Petition: Halal Food</title>,ADJOURNMENT,17,1
+",HoR,<title>ADJOURNMENT</title>,<title>Petition: Halal Food</title>,ADJOURNMENT,17,1,speech
 "Schultz, Alby, MP",LP,2011-08-24,"
 
 
@@ -4247,7 +4263,7 @@ I congratulate the Wollondilly Shire Council and Mayor, Councillor Michael Banas
 
 Before entering politics, my wife, Gloria, ran a nursery and gift shop business in Cootamundra. We both understand the sacrifices that small business owners make on a daily basis. There are rarely holidays, good staff are hard to find, you do arduous hours of unpaid overtime and then there is always the paperwork and the government red tape. At every opportunity government needs to get out of the way of small business and certainly does not need to introduce a new carbon tax.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Hume Electorate: Wollondilly Shire</title>,CONSTITUENCY STATEMENTS,18,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Hume Electorate: Wollondilly Shire</title>,CONSTITUENCY STATEMENTS,18,1,speech
 "Griffin, Alan, MP",ALP,2011-08-24,"
 
 
@@ -4264,7 +4280,7 @@ They should all be very proud of the courage, dedication and the professionalism
 
 I will finish with two points which are very relevant and are something to be remembered with respect to our contribution. The first is the Children of Vietnam Veterans Health Study. The former minister played a significant role in kicking that study off in his time as minister, and the study is ongoing. It is a very ambitious study looking at the long-term impacts and effects on the families, particularly the children of those who served in Vietnam. The study has results coming through now and will continue to have over the years ahead. To all those who worked hard to get it going, I salute you. It is an important and difficult exercise but something needed to better understand how to properly deal with the long-term impacts of war not only on the individuals who fought but also on the families who suffered with them. The final thing I will put in as a plug, and that is for the Vietnam Veterans Museum down at Phillip Island in my home state and the former minister's home state of Victoria. I would urge anyone who is travelling down that way to get along and have a look at that museum. It is a fantastic developing work in progress that shows so much of what took place during that war, and it gives an opportunity for Australians of other generations to better understand what occurred at that tumultuous time in our history. Lest we forget.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Billson, Bruce, MP",LP,2011-08-24,"
 
 
@@ -4338,7 +4354,7 @@ I say that in the particular context of Vietnam veterans, many of whom are now a
 
 Finally, I want to put in a plug for a book I launched when I was a minister, Vietnam: Our War—Our Peace. So often Vietnam veterans share with me what a defining part of their life journey and their character their service is and was. But they also want to make sure that people realise that Vietnam veterans are doing remarkable things in our community, in our economy and in our nation day in, day out. This book captures a little bit about their service but it also captures a story about what Vietnam veterans have achieved for our nation as they continue to serve. They continue to serve not only their peer group but also the broader Australian interest. So I say to our Vietnam veterans: thank you most sincerely for your service. We are a grateful nation that made some mistakes that we are seeking to fix, and those remedies might not always be what they might hope to be, but we have to persevere in that effort. Also, thank you for what you have done as citizens of Australia not only in the broader community but in the veterans space, teaching so many of us about what we need to do to support the serving community that we ask so much of—how to keep them healthy, how to keep them happy and how to make sure the quality of their life is positive and the opportunities in the future are still there. We have learned that from our Vietnam veterans. So they are still serving and they have my utmost respect.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Clare, Jason, MP",ALP,2011-08-24,"
 
 
@@ -4373,7 +4389,7 @@ It is also important in motions like this that we remember the bravery of those 
 
 We are all indebted to those who serve our country and it is appropriate that this House pause to recognise and remember the sacrifices of those who served so bravely in Vietnam and ensure that the courage they displayed and the sacrifices they made, like all who have fought in our name, are never forgotten.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Alexander, John, MP",LP,2011-08-24,"
 
 
@@ -4396,7 +4412,7 @@ As a group, the efforts of the men of D company 6RAR were finally honoured last 
 
 To those lost in the rubber plantation on that fateful day 45 years ago and to those who came back, irrevocably changed from the experience, to everyone else who has served, to the tens of thousands who have served more recently in Samoa, in Timor, and now in Afghanistan, and to the families, friends and local communities all impacted by the tragic loss of our finest in their prime, this Vietnam Veterans Day and all veterans days are our nation's way of saying thank you and we will never forget.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Hall, Jill, MP",ALP,2011-08-24,"
 
 
@@ -4420,7 +4436,7 @@ I have attended two Vietnam veteran services following Vietnam Veterans Day on T
 
 I suppose the message for all of us in this House is: you can disagree with a war, you can feel that it is not a place that Australian troops should be, you can feel that maybe we would be better if we were not involved there, but each and every person of this parliament needs to stand up and support our service men and women when they are fighting for our country. Australia's history has been intertwined with the conflicts we have been involved in. It has been very formative on our nation. We need to learn from what happened in Vietnam. We need to support our Vietnam veterans. I commend the Prime Minister's motion to the House.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Kelly, Craig, MP",LP,2011-08-24,"
 
 
@@ -4469,7 +4485,7 @@ We also have our Vietnam vets to thank for standing up for their mates when the 
 
 The DEPUTY SPEAKER:  Thank you for your contribution.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Brodtmann, Gai, MP",ALP,2011-08-24,"
 
 
@@ -4495,7 +4511,7 @@ It is so important that organisations like the Defence Community Organisation an
 
 Going back to Long Tan Day, I know that feelings at the time of the Vietnam War were exceptionally strong, but now we must put aside our opinions on the virtues or otherwise of the Vietnam War to honour those Australians who did serve the nation overseas, regardless of how we feel about the validity of their mission. They were not responsible for the decision to go; they were just the ones tasked with carrying it out. They did so with honour and courage and they risked much. I add my voice to those honouring their service today. Lest we forget.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Simpkins, Luke, MP",LP,2011-08-24,"
 
 
@@ -4521,7 +4537,7 @@ On around 30 April each year I attend the Black April commemoration service in K
 
 It is in that context and in the light of the history of the Vietnam War that I pay tribute to our soldiers, our airmen and our sailors who served in the Vietnam War. Theirs was a noble cause, a cause where the weak needed to be defended and they were defended while we were participating in that war. We should be proud of the achievements of our troops in the Vietnam War. They fought with great honour and great distinction. They achieved their tasks. They protected South Vietnam and the people of South Vietnam. They fought to defend a democratic dream, and that was the right thing to do. The Vietnam War had been halted by a ceasefire on 27 January 1973, four days after President Nixon had declared that peace with honour had been achieved. The reality was that treachery and betrayal would follow in 1975, and it was only then that defeat came and not at all during the Australian involvement. So once again I pay tribute to every Australian serviceman and servicewoman who served our country, our national interests and the great cause of democracy in the Vietnam War. As I said, theirs was an honourable effort; theirs was a distinguished effort. We should always remember and do whatever we can to look after them in the future.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Georganas, Steve, MP",ALP,2011-08-24,"
 
 
@@ -4541,7 +4557,7 @@ I would also like to give a special mention to the Vietnam Veterans Association 
 
 I would like to conclude simply by conveying my deep and profound respect to all Vietnam veterans—those who lost their lives and those who had their lives irrevocably changed by their service to this nation. Lest we forget.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Coulton, Mark, MP",Nats,2011-08-24,"
 
 
@@ -4555,7 +4571,7 @@ I would also like to acknowledge the atmosphere in the Australian community to w
 
 I would also like to acknowledge, following on from the member for Hindmarsh's comments, the great role that the vets are doing now in looking after the veteran community. As the World War II and Korean War veterans are getting on in years, the returned services community in my electorate is run by Vietnam veterans. Apart from running the club, the vets do great work looking after war widows and looking out for each other, so I wanted to recognise the role that they play. Today I would also like to make special mention of the Dubbo Vietnam Veterans Association, of which I am the patron. It is one of the positions that I am most proud of. I hold it in such high regard that those members have asked me to be their patron. I hope that I can do justice to the great honour they have given me. In conclusion, I would like to acknowledge all Vietnam veterans around Australia on Vietnam Veterans Day, but particularly the veterans in the seat of Parkes.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Husic, Ed, MP",ALP,2011-08-24,"
 
 
@@ -4575,7 +4591,7 @@ Patrols continued the following day, 18 August, and Delta Company 6RAR left the 
 
 It is understandable, given the toll our soldiers paid in the Vietnam War, that so many were left alienated by their treatment after returning home. The war itself was an important theatre of war for Australia strategically and politically and deserves to be recognised as such. I hope that students in Australian schools are being taught about the war, in particular this battle, the Battle of Long Tan. It is an important part of our history. I am grateful to hear of Vin Cosgrove's account. Finally, I would like to thank Mr Peter Hamrol, President of the Rooty Hill Sub Section of the Naval Association, for their invitation to attend the dinner and I congratulate them on their 35th birthday. I indicate my personal thanks, a debt of gratitude and the gratitude that many feel for the services that have been carried out by these people who operated under extreme circumstances.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Jones, Ewen, MP",LP,2011-08-24,"
 
 
@@ -4598,7 +4614,7 @@ I cannot let this opportunity go without referring to the people who lost a brot
 
 I also must use this opportunity to reinforce the fact that these people went to Vietnam and we had a government that changed the way that their pensions were indexed. We have an opportunity to right a terrible wrong for Vietnam veterans, and for other people who have served at least 20 years in the Defence Force, by correctly indexing the Defence Force Retirement and Death Benefit scheme. It has broad based approval from both sides of the House; we just cannot get it across the line. Let us not lose this opportunity to right this terrible wrong.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "McCormack, Michael, MP",Nats,2011-08-24,"
 
 
@@ -4627,7 +4643,7 @@ I am very proud to have commanded Delta Company, 6RAR who gave their all on that
 
 Although nowhere near the same scale, Long Tan will be remembered alongside Kapyong, Tobruk, and Gallipoli. I am saddened by the loss of life, and the tragic loss to all the loved ones, on both sides. Like the errors of Gallipoli, a proper assessment of intelligence reports would have averted my company being sent out to face a VC regiment. But we saved the Task Force Base from what would have been a disastrous attack by the 5,000-strong VC 5th Division, and their influence in the province was reduced thereafter. That is why Long Tan has become so significant and is feted as the icon of the war for all Vietnam veterans to commemorate those lost or maimed between 1962 and 1972.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Robert, Stuart, MP",LP,2011-08-24,"
 
 
@@ -4662,7 +4678,7 @@ We acknowledge today the bravery and the Anzac spirit which prevailed and which 
 
 Australians are incredibly proud of you veterans. It is great pleasure to recognise you for the incredible service you have rendered. That is the great joy of Vietnam Veterans Day on 18 August: it gives us all as a nation an opportunity to honour the service and sacrifice you have made. I remember a tombstone in Gallipoli of a very young soldier who gave his life on the first day there, on 25 April, 1915. It said simply, 'When you return, tell them of us and say: for your tomorrow we gave our today.' The same can be said for those who served in Vietnam: many gave their tomorrow for our today. We will not forget that freedom is not free. We will remember them.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Prentice, Jane, MP",LP,2011-08-24,"
 
 
@@ -4685,7 +4701,7 @@ I am proud that the men of Delta Company were recognised last week. It is unacce
 
 I feel privileged to have the opportunity to publicly commend our service men and women, past and present, from the Boer War to those serving around the world today. I hope our defence forces never again face a conflict like the Battle of Long Tan. But if they do, their gallantry, their sacrifice and their trauma must be recognised.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Markus, Louise, MP",LP,2011-08-24,"
 
 
@@ -4714,7 +4730,7 @@ There are many vibrant service and ex-service organisations in Macquarie—the R
 
 Sadly, it is through not only the reduced funding of the BEST program that this Labor government is letting our veterans down. The voting down of the Defence Force Retirement and Death Benefits Amendment (Fair Indexation) Bill 2010 by Labor clearly demonstrated where their priorities lie. It is a shameful betrayal of the men and women who serve and have served our nation in the Australian Defence Force. The decision by Labor to vote this down means that many in the veteran community will see their superannuation continue to lose purchasing power. This is at a time when further increases in the cost of living are impacting their quality of life. The coalition has been very clear on this issue; we believe that military service is unique in its nature and Australian service personnel both past and present, after giving so much for their nation, deserve to live out their lives with the knowledge that they have financial security. Labor made a commitment at the 2007 election to fix military superannuation. We are familiar with these false promises. Unlike Labor, the coalition has consulted widely and has listened carefully to the views put forward by veterans, the ex-service people, ex-service organisations and current ADF personnel. It is time that this Labor government did the same thing. I urge the Prime Minister to offer veterans the support they need and deserve by restoring adequate BEST funding and by supporting a reconsideration of the defence force retirement and death benefits bill. This would be a very practical way that the government could acknowledge that we remember and acknowledge the service of all our veterans.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Hartsuyker, Luke, MP",Nats,2011-08-24,"
 
 
@@ -4728,7 +4744,7 @@ Australia's involvement in the Vietnam War was the longest duration of any war i
 
 I wish to commend my ex-services community for their tireless efforts to ensure that the courage and sacrifice of our service men and women are always remembered. It is through their efforts that we see so many people, most of whom have not experienced the horror of war, attending commemorations around this country not only on Anzac Day but on a host of other days that are significant on the military calendar. I particularly note the various RSL sub-branches and associations in my electorate that ensure their fallen mates will not be forgotten. Unfortunately, I was unable to attend memorial services in Coffs Harbour, Nambucca Heads and Woolgoolga this year due the parliamentary sitting schedule. However, I want to place on record my thanks to the many veterans in the Cowper electorate who served our country so valiantly in Vietnam. As we reflect on the Battle of Long Tan, we must never forget the sacrifices made on that day and work towards a future where such sacrifices will not be required again.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Andrews, Karen, MP",LP,2011-08-24,"
 
 
@@ -4751,7 +4767,7 @@ I would also like to mention that these veterans also believed that one of the g
 
 I urge all members of the community to share the story of the Battle of Long Tan so that the great sacrifices and achievements of these men and women will continue to be remembered in the generations to come. Lest we forget.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Slipper, Peter, MP",Ind.,2011-08-24,"
 
 
@@ -4777,7 +4793,7 @@ Before I conclude I just want to say how pleased I am that collectively as a nat
 
 As I said, that is now not the case and I think that, collectively as Australians, whatever our view is on any sphere of conflict, we have now come to a national community consensus that anyone who serves in our military is worthy of respect and that anyone who carries out his or her duty is worthy of admiration. So many of these people have risked everything and lost all. I am very happy to support the motion now before the House but I just wanted to emphasise how pleased I am and how proud I am that collectively we have moved on to a situation where now we respect everyone who has served our nation with great distinction.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Scott, Bruce, MP",Nats,2011-08-24,"
 
 
@@ -4803,7 +4819,7 @@ I want to acknowledge the families of all our veterans—the wives, the girlfrie
 
 I know time is short, but in conclusion I want to say that in the year 2015 we will be celebrating—although I would like to call it commemorating—in many ways 100 years since we landed at Gallipoli, when our nation, a nation of less than five million people, lost its innocence. In the year 2015, 100 years on, we must look across all wars and conflicts that Australia has been involved in, not just at Gallipoli. I know a former CDF is going to chair a committee. He will bring great knowledge to that committee and he will do an excellent job of leadership. But it is important that we look not just at Gallipoli in that year. It is important to look at Vietnam and our involvement in the Second World War, the Korean War, the Malayan Emergency, the Indonesian Confrontation, East Timor, Afghanistan, Iraq—the list goes on. And of course so many of our peacekeeping forces have been in theatres that so often do not have a profile—for example, the Sinai and the Sudan. We must make sure that across the board, wherever our Australian men and women in the Australian Defence Force serve as a result of a resolution of the parliament at the wish of the government, we commemorate and remember all of those who have served throughout more than 100 years of service to our nation.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Stone, Dr Sharman, MP",LP,2011-08-24,"
 
 
@@ -4832,7 +4848,7 @@ I also want to commend my own special groups that I have called boards of truste
 
 This is an important motion. I support it as the local patron. I also say that we abhor war in any guise, but Australians have always fought above their weight in helping to defend our own country and support the freedom of others who have not the power or the means to defend themselves. Long may that always be so.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "O'Dwyer, Kelly, MP",LP,2011-08-24,"
 
 
@@ -4849,7 +4865,7 @@ There were other significant battles. One of the worst days for Australian force
 
 In conclusion, I place on record the thanks we also extend to current soldiers and their families for the service that they give us today. I record particular thanks to those 3,280 Australian Defence Force personnel who are on active service in Afghanistan, East Timor, Egypt, Iraq, the Middle East, Solomon Islands and Sudan. For those who served us and those who continue to serve us: we will never forget.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Vietnam Veterans Day</title>,STATEMENTS BY MEMBERS,19,1,speech
 "Buchholz, Scott, MP",LP,2011-08-24,"
 
 
@@ -4869,7 +4885,7 @@ I have been in this place for almost 21½ years and in that time I have interact
 
 They were the words of Daryl Melham, the member for Banks. Well, I liked Paul Lockyer and my condolences go to his family. I did not know the other gentlemen, pilot Gary Ticehurst and cameraman John Bean, and my sympathy and condolences go to their families and to the loved ones they leave behind. Having lost a father earlier in the year, I know losing a loved one is a tough gig. To the workforce they have left behind in the ABC family, my thoughts go to them and I know they will find strength and comfort in each other's company. Again, my total condolences go to those loved ones that Lockie left behind.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>ABC Helicopter Crash</title>,STATEMENTS ON INDULGENCE,20,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>ABC Helicopter Crash</title>,STATEMENTS ON INDULGENCE,20,1,speech
 "Brodtmann, Gai, MP",ALP,2011-08-24,"
 
 
@@ -4931,7 +4947,7 @@ In closing, I think that what has really struck me about the last week is that t
 
 To lose any one of these men would have been a very, very deep blow for the ABC, but to lose all three is a grief that is really unimaginable. My condolences and those of the people of Canberra, because we are great ABC fans, go out to their families and their friends and to their family at the ABC.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>ABC Helicopter Crash</title>,STATEMENTS ON INDULGENCE,20,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>ABC Helicopter Crash</title>,STATEMENTS ON INDULGENCE,20,1,speech
 "Wyatt, Ken, MP",LP,2011-08-24,"
 
 
@@ -4980,7 +4996,7 @@ The ABC have produced many great staff, superb journalists and brilliant cameram
 
 In closing, I would just like to add my condolences to the families of the three who we have lost.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>ABC Helicopter Crash</title>,STATEMENTS ON INDULGENCE,20,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>ABC Helicopter Crash</title>,STATEMENTS ON INDULGENCE,20,1,speech
 "Scott, Bruce, MP",Nats,2011-08-24,"
 
 
@@ -5010,4 +5026,33 @@ Main Committee adjourned at 19:3
 6
 
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>ABC Helicopter Crash</title>,STATEMENTS ON INDULGENCE,20,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>ABC Helicopter Crash</title>,STATEMENTS ON INDULGENCE,20,1,speech
+"Southcott, Dr Andrew, MP",LP,2011-08-24,"
+
+
+
+Dr Southcott
+  asked the Minister for Health and Ageing, in writing, on 23 May 2011:
+
+
+In respect of the Health and Ageing Portfolio Budget Statement 2011-12 (page 216), what timeframes have been agreed to by her department and each funded organisation, within which each of the 64 GP Super Clinics will become operational.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Superclinics (Question No. 366)</title>,QUESTIONS IN WRITING,21,1,question
+"Roxon, Nicola, MP",ALP,2011-08-24,"
+
+
+
+Ms Roxon:
+  The answer to the honourable member's question is as follows:
+
+
+Generally, the timetable for completing a GP Super Clinic is heavily dependent on the size and complexity of the construction, and external factors including local council planning and approval processes, availability of construction workforce and materials, and weather conditions.
+
+
+ 
+
+
+
+ 
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Superclinics (Question No. 366)</title>,QUESTIONS IN WRITING,21,1,answer

@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2018-05-09,"
 
 
@@ -21,7 +21,7 @@ ELIZABETH R.
 
 I thank the House.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Parliament House: 30th Anniversary</title>,STATEMENT BY THE SPEAKER,0,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Parliament House: 30th Anniversary</title>,STATEMENT BY THE SPEAKER,0,1,speech
 "Pyne, Christopher, MP",LP,2018-05-09,"
 
 
@@ -35,7 +35,7 @@ We have a tremendous program that brings schoolchildren here, which successive g
 
 I would say that I actually did work in Old Parliament House over 30 years ago. I worked for Amanda Vanstone in Old Parliament House on the Senate side in the 1980s, and I came here as part of the new parliament. There are significant differences between the old parliament and this parliament. The old parliament was very, very small, but it meant that you were very close to people on all sides of the House. But it was not functional as a building. This building is very functional and much better for government and much better for a democracy of the sophistication and stature of ours, but it's not quite as intimate. So there are swings and roundabouts. I think, on balance, it's a much better parliament than the old one, and I'm very pleased that the Fraser government commissioned it.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Parliament House: 30th Anniversary</title>,STATEMENT BY THE SPEAKER,0,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Parliament House: 30th Anniversary</title>,STATEMENT BY THE SPEAKER,0,1,speech
 "Burke, Tony, MP",ALP,2018-05-09,"
 
 
@@ -53,7 +53,7 @@ I was there at the final sitting of the Senate as well, as a uni student, watchi
 
 The SPEAKER:  I thank the Leader of the House and the Manager of Opposition Business.
 
-",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Parliament House: 30th Anniversary</title>,STATEMENT BY THE SPEAKER,0,1
+",HoR,<title>STATEMENT BY THE SPEAKER</title>,<title>Parliament House: 30th Anniversary</title>,STATEMENT BY THE SPEAKER,0,1,speech
 "Smith, Tony, MP",LP,2018-05-09,"
 
 
@@ -953,7 +953,7 @@ Other Members—5 minutes. each.
 The Committee determined that consideration of this should continue on a future day.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,1,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,1,1,speech
 "Smith, Tony, MP",LP,2018-05-09,"
 
 
@@ -1853,7 +1853,7 @@ Other Members—5 minutes. each.
 The Committee determined that consideration of this should continue on a future day.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,1,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,1,2,speech
 "Morrison, Scott, MP",LP,2018-05-09,"
 
 
@@ -1963,7 +1963,7 @@ We are the party of responsible budgets and lower taxes. This plan is affordable
 
 We are the party of responsible budgets. We are the party of lower taxes. There is a clear choice: higher taxes under the Labor Party that suffocate the economy or lower taxes under the Liberal-National Party that provide the stronger economy that guarantees the essential services that Australians rely on—Medicare and the National Disability Insurance Scheme. Higher funding for schools and higher funding for hospitals are in the budget I delivered last night. That is all delivered by a stronger economy, which the Labor Party wants to suffocate with $220 billion of higher taxes and denying tax relief to hardworking Australians. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,2,1,speech
 "Pyne, Christopher, MP",LP,2018-05-09,"
 
 
@@ -1975,7 +1975,7 @@ Mr PYNE
 
 The SPEAKER:  Is leave granted?
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,2,1,speech
 "Burke, Tony, MP",ALP,2018-05-09,"
 
 
@@ -1990,7 +1990,7 @@ The SPEAKER:  Leave is not granted. I'm granting the Manager of Opposition Busin
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,2,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Personal Income Tax Plan) Bill 2018</title>,BILLS,2,1,speech
 "Robert, Stuart, MP",LP,2018-05-09,"
 
 
@@ -2040,7 +2040,7 @@ The report also contains the committee's review of a number of minor treaty acti
 
 On behalf of the committee, I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,4,1
+",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,4,1,speech
 "Robert, Stuart, MP",LP,2018-05-09,"
 
 
@@ -2090,7 +2090,7 @@ The report also contains the committee's review of a number of minor treaty acti
 
 On behalf of the committee, I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,4,2,speech
 "Albanese, Anthony, MP",ALP,2018-05-09,"
 
 
@@ -2116,7 +2116,7 @@ The bill before us today creates a process to abolish FIRS. It would amend the I
 
 It's important to recognise that the transitional arrangements for FIRS vehicles will include a one-off stamp duty exemption for vehicles exiting the scheme. Australia is a vast continent with an ever-increasing freight task. It's important that we invest in freight rail as well as roads to ensure that we can meet the ever-growing need for the movement of goods around our nation and to our ports for export. But it is also important that we keep moving forward on reducing regulatory complexity and that we continue to examine ways in which microeconomic reform can boost the national economy by boosting productivity. That's why this bill is important. Our road transport system needs one set of laws, one set of registration and compliance papers, one log book and as little red tape as possible. I commend the bill to the House. 
 
-",HoR,<title>BILLS</title>,<title>Interstate Road Transport Legislation (Repeal) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Interstate Road Transport Legislation (Repeal) Bill 2018</title>,BILLS,5,1,speech
 "Frydenberg, Josh, MP",LP,2018-05-09,"
 
 
@@ -2139,7 +2139,7 @@ Bill read a second time.
 
 Message from the Governor-General recommending appropriation announced.
 
-",HoR,<title>BILLS</title>,<title>Interstate Road Transport Legislation (Repeal) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Interstate Road Transport Legislation (Repeal) Bill 2018</title>,BILLS,5,1,speech
 "Frydenberg, Josh, MP",LP,2018-05-09,"
 
 
@@ -2156,7 +2156,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Interstate Road Transport Legislation (Repeal) Bill 2018</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Interstate Road Transport Legislation (Repeal) Bill 2018</title>,BILLS,5,1,speech
 "Albanese, Anthony, MP",ALP,2018-05-09,"
 
 
@@ -2182,7 +2182,7 @@ The bill before us today creates a process to abolish FIRS. It would amend the I
 
 It's important to recognise that the transitional arrangements for FIRS vehicles will include a one-off stamp duty exemption for vehicles exiting the scheme. Australia is a vast continent with an ever-increasing freight task. It's important that we invest in freight rail as well as roads to ensure that we can meet the ever-growing need for the movement of goods around our nation and to our ports for export. But it is also important that we keep moving forward on reducing regulatory complexity and that we continue to examine ways in which microeconomic reform can boost the national economy by boosting productivity. That's why this bill is important. Our road transport system needs one set of laws, one set of registration and compliance papers, one log book and as little red tape as possible. I commend the bill to the House. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Frydenberg, Josh, MP",LP,2018-05-09,"
 
 
@@ -2205,7 +2205,7 @@ Bill read a second time.
 
 Message from the Governor-General recommending appropriation announced.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Keay, Justine, MP",ALP,2018-05-09,"
 
 
@@ -2225,7 +2225,7 @@ I am proud of the fact that one of the first things I was able to achieve after 
 
 I have been privileged to have been given roles and responsibilities within the Shorten opposition caucus as the deputy chair of the Standing Committee on Agriculture and Water Resources and secretary of the Labor caucus's Australian Jobs Taskforce. I want to thank my caucus colleagues for their unwavering support and mentoring, a united and awesome Labor team. I have been supported by a passionate Labor movement in Tasmania, party members, union members, and, of course, my staff, who go beyond what is required to support me and to help the people of my electorate. This has been hard on my family and has taken a personal toll on all of us, but we will keep fighting. This is bigger than us. It is about giving a voice to those who feel they don't have one. It's about helping people; that's why I am here. It's about making our region, as wonderful as it is, better and better.
 
-",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,"<title>Member for Braddon, Qualifications of Members</title>",PARLIAMENTARY REPRESENTATION,6,1
+",HoR,<title>PARLIAMENTARY REPRESENTATION</title>,"<title>Member for Braddon, Qualifications of Members</title>",PARLIAMENTARY REPRESENTATION,6,1,speech
 "Dick, Milton, MP",ALP,2018-05-09,"
 
 
@@ -2260,7 +2260,7 @@ Just like the way online poker companies such as Pokerstars exited the Australia
 
 I particularly commend the shadow minister for communications, the member for Greenway, on her leadership on this issue, which will extend to give greater protections to businesses, consumers and all Australians from falling into the trap of problem gambling.
 
-",HoR,<title>BILLS</title>,<title>Interactive Gambling Amendment (Lottery Betting) Bill 2018</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Interactive Gambling Amendment (Lottery Betting) Bill 2018</title>,BILLS,7,1,speech
 "Wilson, Tim, MP",LP,2018-05-09,"
 
 
@@ -2280,7 +2280,7 @@ It's very important because sitting behind a lot of discussions around gambling 
 
 Now, nobody is going to try and pretend that there's not an interest for government in this—there is. Of course, gambling revenue for state governments, in particular, is very important in terms of budget balance sheets. But in truth, it's largely got nothing to do with the justification for why this bill should be addressed and introduced. It's not just to stop the realities of gambling competition or disruption where it's appropriate and necessary, but it is appropriate to make sure we take legislative measures, particularly because of the challenges the technology presents us, to make sure that consumers are not taken advantage of and to make sure we have a proper and well-regulated system.
 
-",HoR,<title>BILLS</title>,<title>Interactive Gambling Amendment (Lottery Betting) Bill 2018</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Interactive Gambling Amendment (Lottery Betting) Bill 2018</title>,BILLS,7,1,speech
 "Wallace, Andrew, MP",LP,2018-05-09,"
 
 
@@ -2324,7 +2324,7 @@ As we've seen, as awareness of these products grows, this hugely increased oppor
 
 In conclusion, in my electorate of Fisher, I will fight to stop the construction of a casino, because I know that, when you increase the amount and scale of the opportunities to gamble in a community, you increase the harm caused. I support this bill, and I commend it to the House.
 
-",HoR,<title>BILLS</title>,<title>Interactive Gambling Amendment (Lottery Betting) Bill 2018</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Interactive Gambling Amendment (Lottery Betting) Bill 2018</title>,BILLS,7,1,speech
 "Fletcher, Paul, MP",LP,2018-05-09,"
 
 
@@ -2347,7 +2347,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Interactive Gambling Amendment (Lottery Betting) Bill 2018</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Interactive Gambling Amendment (Lottery Betting) Bill 2018</title>,BILLS,7,1,speech
 "Fletcher, Paul, MP",LP,2018-05-09,"
 
 
@@ -2373,7 +2373,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  It being nearly 1.30 pm, the debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour.
 
-",HoR,<title>BILLS</title>,<title>Interactive Gambling Amendment (Lottery Betting) Bill 2018</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Interactive Gambling Amendment (Lottery Betting) Bill 2018</title>,BILLS,7,1,speech
 "Dick, Milton, MP",ALP,2018-05-09,"
 
 
@@ -2408,7 +2408,7 @@ Just like the way online poker companies such as Pokerstars exited the Australia
 
 I particularly commend the shadow minister for communications, the member for Greenway, on her leadership on this issue, which will extend to give greater protections to businesses, consumers and all Australians from falling into the trap of problem gambling.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Wilson, Tim, MP",LP,2018-05-09,"
 
 
@@ -2428,7 +2428,7 @@ It's very important because sitting behind a lot of discussions around gambling 
 
 Now, nobody is going to try and pretend that there's not an interest for government in this—there is. Of course, gambling revenue for state governments, in particular, is very important in terms of budget balance sheets. But in truth, it's largely got nothing to do with the justification for why this bill should be addressed and introduced. It's not just to stop the realities of gambling competition or disruption where it's appropriate and necessary, but it is appropriate to make sure we take legislative measures, particularly because of the challenges the technology presents us, to make sure that consumers are not taken advantage of and to make sure we have a proper and well-regulated system.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Wallace, Andrew, MP",LP,2018-05-09,"
 
 
@@ -2472,7 +2472,7 @@ As we've seen, as awareness of these products grows, this hugely increased oppor
 
 In conclusion, in my electorate of Fisher, I will fight to stop the construction of a casino, because I know that, when you increase the amount and scale of the opportunities to gamble in a community, you increase the harm caused. I support this bill, and I commend it to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Fletcher, Paul, MP",LP,2018-05-09,"
 
 
@@ -2495,7 +2495,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Owens, Julie, MP",ALP,2018-05-09,"
 
 
@@ -2503,7 +2503,127 @@ Bill read a second time.
 Ms OWENS
  (Parramatta) (13:29):  During Youth Week I committed to presenting in the federal parliament speeches by young people in my electorate. There are 4.2 million amazing young people between the ages of 12 and 25 in our country. Narayan is just one. He's a 20-year-old student who came to Australia when he was 12 years old as a refugee from a Bhutanese refugee camp in Nepal, and these are his words: 'Often, we as young people hear our leaders refer to us as the future of Australia. If we are indeed the future, our leaders must stop seeing us in a tokenistic way. If we want to see a better Australian future, young people need to be included in everyday decision-making. Young people need to be heard and considered more seriously. It is incredibly difficult not to be passionate about changing the media culture when young people from diverse backgrounds are portrayed with negative stereotyping every day. It is incredibly difficult not to be passionate about mental health when one in four young Australians experience mental health issues. Who do we, the 4.2 million young people in Australia, share our concerns with? As a youth advocate in both multiculturalism and mental health, I want to be able to share my concerns and thoughts with someone who has the power to make the change. This is why young people in Australia want a minister for youth who is willing to include us in everyday decision-making. After all, it is the experience that we gain today from our involvement in decision-making processes that will help us learn and make better decisions, assisting us to become stronger leaders of tomorrow.' That is well said, Narayan.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Young Australians</title>,STATEMENTS BY MEMBERS,8,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Young Australians</title>,STATEMENTS BY MEMBERS,8,1,speech
+"Shorten, Bill, MP",ALP,2018-05-09,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:00):  My question is to the Prime Minister. What is the total cost of corporate tax cuts over 10 years from 1 July 2018, both legislated and proposed to be legislated by the government?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"Turnbull, Malcolm, MP",LP,2018-05-09,"
+
+
+
+Mr TURNBULL
+ (Wentworth—Prime Minister) (14:00):  The medium-term cost of the tax cuts, which was given, was $65 billion. That included the small- and medium-company tax cuts. What the honourable members opposite have done—
+
+
+
+The SPEAKER:  The Prime Minister will resume his seat. The Leader of the Opposition on a point of order?
+
+
+
+
+Mr Shorten:
+  It's on direct relevance. Perhaps the Prime Minister didn't hear it. We said the cost of the corporate—
+
+
+
+Government members interjecting—
+
+
+
+The SPEAKER:  Members on my right are preventing me from hearing the point of order.
+
+
+
+
+Mr Shorten:
+  The question I asked was on the cost of the corporate tax cuts for 10 years from 1 July 2018.
+
+
+
+
+Mr TURNBULL:
+  The Treasurer advises that the cost of the unlegislated tax relief for business is $35 billion and the cost in the final year, which is outside of the medium term—figures for which were given at the last budget—is just under $10 billion. What the Labor Party are demonstrating in their questions and the reference to an $80 billion figure—they've simply added $15 billion to $65 billion; it has no financial basis—is that their plan is to repeal all of the legislated tax cuts for Australian business. What they want to do is not simply oppose the unlegislated tax cuts for larger businesses but repeal the tax cuts for Australian family-owned businesses of up to $50 million turnover, which employ 6.8 million Australians. That's what Labor wants to do: undermine the investment, the optimism and the entrepreneurship that are driving the record jobs growth we've seen—415,000 jobs last year—and the strong economy that is enabling us to deliver the outcomes for Australian families. Ten million Australians will receive tax relief from the Treasurer's budget, and we will move to a personal income tax system that is simpler and fairer. All of that is only enabled by a strong economy, and the Labor Party wants to pull the rug out from under that stronger Australian economy by abandoning Australian family-owned small and medium businesses, as every question they've raised indicates.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
+"Bowen, Chris, MP",ALP,2018-05-09,"
+
+
+
+Mr BOWEN
+ (McMahon) (14:32):  My question is to the Treasurer. The budget includes a seven-year personal income tax scheme. The budget papers outline three separate steps of the scheme, and the government this morning introduced legislation to implement all three steps of this scheme. Will the Treasurer immediately release the separate cost of each step of its personal income tax scheme? 
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Morrison, Scott, MP",LP,2018-05-09,"
+
+
+
+Mr MORRISON
+ (Cook—Treasurer) (14:33):  The cost of the plan over 10 years is $140 billion. 
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Budget</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
+"Pyne, Christopher, MP",LP,2018-05-09,"
+
+
+
+Mr PYNE
+ (Sturt—Leader of the House and Minister for Defence Industry) (15:11):  Earlier today, four members of the House, the members for Mayo, Longman, Braddon and Fremantle, acknowledged that they were no longer eligible to sit in the parliament, following the decision of the High Court in the Gallagher case. My question to you is: have you received their resignations yet?
+
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,"<title>Member for Mayo, Member for Longman, Member for Braddon, Member for Fremantle</title>",QUESTIONS TO THE SPEAKER,12,1,question
+"Pyne, Christopher, MP",LP,2018-05-09,"
+
+
+
+Mr PYNE
+ (Sturt—Leader of the House and Minister for Defence Industry) (15:13):  Following your answer to that question, could you inform the House what the situation is in the case of a member who's indicated that they're ineligible to sit in the parliament—in other words, be a member of parliament—but has not yet formally resigned in terms of the status of their use of entitlements and so on as members of parliament up until the resignation is received?
+
+
+
+Mr Dreyfus interjecting—
+
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,"<title>Member for Mayo, Member for Longman, Member for Braddon, Member for Fremantle</title>",QUESTIONS TO THE SPEAKER,12,1,question
+"Pyne, Christopher, MP",LP,2018-05-09,"
+
+
+
+Mr PYNE
+ (Sturt—Leader of the House and Minister for Defence Industry) (15:14):  I'd ask you to consider the situation in terms of the precedent in the House of Representatives Practice because, of course, in this situation, they've acknowledged that they're not eligible to be members of parliament. As a consequence, they should not be able to use their entitlements.
+
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,"<title>Member for Mayo, Member for Longman, Member for Braddon, Member for Fremantle</title>",QUESTIONS TO THE SPEAKER,12,1,question
+"Smith, Tony, MP",LP,2018-05-09,"
+
+
+
+The SPEAKER
+ (15:12):  As the Leader of the House quite rightly points out, to resign from the House, a member needs to write to me. Once I've received it and annotated it, that resignation is effective. Certainly, by the time I entered question time, I hadn't received letters of resignation. Given the Leader of the House has asked me that question, I will, for the benefit of members—without interjections from either side—outline the process. If the House is sitting, once I've received a letter of resignation and annotated it, it's my duty to come into the House and advise the House. If the House is not sitting—and this has been the case on a number of occasions—my practice has been to publicise the fact that I've received it as soon as I possibly can. That's the case and that's my responsibility.
+
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,"<title>Member for Mayo, Member for Longman, Member for Braddon, Member for Fremantle</title>",QUESTIONS TO THE SPEAKER,12,1,answer
+"Smith, Tony, MP",LP,2018-05-09,"
+
+
+
+The SPEAKER
+ (15:13):  The member for Isaacs will cease interjecting. I'm not responsible for members' entitlements. They are almost wholly the responsibility of the Special Minister of State. But the point I'd make is: members can indicate they are going to resign, and, until they have, they remain members of parliament. That's the case. I certainly don't have the power to dismiss members from the House, and I don't think the House would like me to have that power. The Leader of the House with a further question.
+
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,"<title>Member for Mayo, Member for Longman, Member for Braddon, Member for Fremantle</title>",QUESTIONS TO THE SPEAKER,12,1,answer
+"Smith, Tony, MP",LP,2018-05-09,"
+
+
+
+The SPEAKER
+ (15:14):  What I will say to the Leader of the House is that I think I've answered the question as completely as I can. Section 37 of the Constitution makes it very clear how a resignation occurs, and I've just pulled it out while the Leader of the House has been talking. I will read it to the House:
+
+
+A member may by writing addressed to the Speaker, or to the Governor-General if there is no Speaker or if the Speaker is absent from the Commonwealth, resign his place, which thereupon shall become vacant.
+
+
+Until any member does that, they remain a member of parliament. That's not a matter for Practice. That is in the Australian Constitution. If I've got anything to say on the other matters, of course, I'd report that back to the House. But certainly, in terms of electorate offices and the like, those are matters for the government, so the Leader of the House may wish to take that up with the Special Minister of State.
+
+",HoR,<title>QUESTIONS TO THE SPEAKER</title>,"<title>Member for Mayo, Member for Longman, Member for Braddon, Member for Fremantle</title>",QUESTIONS TO THE SPEAKER,12,1,answer
 "Smith, Tony, MP",LP,2018-05-09,"
 
 
@@ -2523,7 +2643,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Bowen, Chris, MP",ALP,2018-05-09,"
 
 
@@ -2577,7 +2697,7 @@ An opposition member:  That's the one!
 Mr BOWEN:
   That's the one! And it's still alive in 2018. It lives, it lives, Mr Deputy Speaker! And just as we defeated that budget, we will defeat you at the next election. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Sukkar, Michael, MP",LP,2018-05-09,"
 
 
@@ -2618,7 +2738,7 @@ Mr SUKKAR:
 
 What we are seeing is a Treasurer and a government that are literally watching every dollar and every cent and reinvesting those into good things. A big portion of it's being reinvested into allowing people to keep more of their own money—low- and middle-income earners will take the lion's share of tax expenditures—and getting back to surplus earlier than expected, again underpromising and overdelivering, which is the hallmark of Treasurer Morrison; making key investments into infrastructure; and so many other important things. A strong economy isn't an end to itself; it enables us to do the things that the Australian people expect. That's what this government's doing, and that's what this budget does in spades. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Macklin, Jenny, MP",ALP,2018-05-09,"
 
 
@@ -2650,7 +2770,7 @@ Mr Bowen:
 Ms MACKLIN:
   When does it start? We have no idea. Of course, it's not just the pension they're cutting; they're also cutting Newstart. The people who are on the lowest incomes in Australia— (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Coulton, Mark, MP",Nats,2018-05-09,"
 
 
@@ -2670,7 +2790,7 @@ Roads of Strategic Importance will provide $3.5 billion so that we can tackle so
 
 There is the Building Better Regions Fund. We're just about to see, from a previous round, the Bourke small animal abattoir. There will be over 200 jobs in the country town of Bourke, with many of those in the Indigenous community, to process feral goats for the international market, partly funded by the federal government. That program can continue. This government is focusing on what matters to the people of Australia. We're not getting caught up in the campaign— (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Chalmers, Jim, MP",ALP,2018-05-09,"
 
 
@@ -2696,7 +2816,7 @@ The surplus for 2019-20 is $2.2 billion, and that includes $3½ billion for an a
 
 Despite all of this, they want us to sign up now to a set of income tax cuts when they won't tell us how much those income tax cuts cost. They want the centrepiece of this budget to be an enterprise tax plan where they won't even mention how much it costs over 10 years—the enterprise tax plan which dare not speak its name. They want us to sign up to all this despite record debt on their watch. We support tax cuts for 1 July, and everyone understands that beyond that we'll be fairer across the board. We'll be more responsible as well. We'll provide relief to those we represent and those who need it most.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Wicks, Lucy, MP",LP,2018-05-09,"
 
 
@@ -2750,7 +2870,7 @@ The budget also builds on our significant previous infrastructure investment on 
 
 The Somersby industrial estate, Banjo's Skate Park and the Terrigal Trojans clubhouse were all confirmed in the budget, along with roads funding for the Central Coast Council through the Roads to Recovery program and our election commitments, including the upgrade of Oceano Street at Copacabana. We are on track with our commitment to continuous mobile coverage on trains and a New South Wales business case to investigate faster rail for commuters, and I will have more to say about this exciting project soon. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Collins, Julie, MP",ALP,2018-05-09,"
 
 
@@ -2770,7 +2890,7 @@ They seem to want to hide a few figures, as I said earlier. In the Senate in que
 
 I'm just astounded that they continue to come into this House and the other place and pretend that there's new money for aged care, and pretend to older Australians, their families and their carers that somehow the aged-care package they're waiting for is going to turn up sooner, because it's not. It's not. It is just unbelievable. Today, when we asked a question about how many residential aged-care places they are going to cut to fund this, they wouldn't answer it. They wouldn't answer it. They don't want people to know how many residential aged-care places they are going to cut to juggle the deckchairs on the ship. People are not going to get services any sooner, because 14,000 over four years is not going to be enough. Now they want to cut residential aged-care places to pay for it. That's what they are doing in this budget. Older Australians will not be conned by this government's cruel hoax of a budget. I will continue to lobby every day for the older Australians on that waitlist.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "O'Brien, Llew, MP",Nats,2018-05-09,"
 
 
@@ -2800,7 +2920,7 @@ Opposition members interjecting—
 Mr LLEW O'BRIEN:
   This is never more evident than in us ensuring that we provide tax relief for those hardworking Australians. Whilst the pretend working class on the other side there interjects—and I'm sure they've all done a hard day's work in their life. All of them over there have been hatched out of the union incubator. The party of the workers—what a laugh that is! It's the coalition looking after the workers. It's our $530 tax offset for workers. We like workers. And let's not forget bringing the budget back into surplus. When was the last time the Labor Party did that? It will be 30 years ago next year, which will be the year we actually bring the budget back into surplus. So I'm very proud to be a part of a coalition government— (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Leigh, Andrew, MP",ALP,2018-05-09,"
 
 
@@ -2835,7 +2955,7 @@ It's not at all clear that Australia needs to lower its company tax rate in orde
 
 The thing about street spruikers is they are never as good as promised. A 0.1 per cent surplus in 2019-20 could be blown over by a light breeze. As Saul Eslake says, the idea that wages growth will be running at 3½ per cent per annum stretches credulity. The fact is, this is yet another Liberal budget, brought down not by Santa Claus but by the Grinch. And, as always from the coalition: they cut, you pay.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Howarth, Luke, MP",LP,2018-05-09,"
 
 
@@ -2859,7 +2979,7 @@ Let's look at tax cuts. We know that we want to reduce tax. In the next seven ye
 
 The DEPUTY SPEAKER:  The discussion is now concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Budget</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Hogan, Kevin (The DEPUTY SPEAKER)",Nats,2018-05-09,"
 
 
@@ -2870,7 +2990,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ) (16:19):  I have received advice from the Chief Opposition Whip, nominating Ms MMH King to be a member of the Standing Committee on Indigenous Affairs in place of Mr Hammond.
 
-",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Indigenous Affairs</title>,COMMITTEES,16,1
+",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Indigenous Affairs</title>,COMMITTEES,16,1,speech
 "Sukkar, Michael, MP",LP,2018-05-09,"
 
 
@@ -2884,7 +3004,7 @@ That Mr Hammond be discharged from the Standing Committee on Indigenous Affairs 
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Indigenous Affairs</title>,COMMITTEES,16,1
+",HoR,<title>COMMITTEES</title>,<title>Standing Committee on Indigenous Affairs</title>,COMMITTEES,16,1,speech
 "Hogan, Kevin (The DEPUTY SPEAKER)",Nats,2018-05-09,"
 
 
@@ -2895,7 +3015,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ) (16:19):  I have received advice from the Chief Opposition Whip, nominating Ms MMH King to be a member of the Standing Committee on Indigenous Affairs in place of Mr Hammond.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,16,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,16,2,speech
 "Sukkar, Michael, MP",LP,2018-05-09,"
 
 
@@ -2909,7 +3029,7 @@ That Mr Hammond be discharged from the Standing Committee on Indigenous Affairs 
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,16,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,16,2,speech
 "McGowan, Cathy, MP",IND,2018-05-09,"
 
 
@@ -2956,7 +3076,7 @@ In bringing my comments to a close, what I really would like to say to Jay and S
 
 In closing, I say to my colleagues, to the advisers in the boxes tonight, to the minister—he is here—and to all of my colleagues around Australia who I know care so much about R&D: join me with this push. Can we encourage this minister to have a conference to call together R&D and actually look at a long-term strategic approach to how R&D in agriculture research can enable us to take our place as a leading industry in this nation.
 
-",HoR,<title>BILLS</title>,<title>Primary Industries Research and Development Amendment Bill 2017</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Primary Industries Research and Development Amendment Bill 2017</title>,BILLS,17,1,speech
 "Gee, Andrew, MP",Nats,2018-05-09,"
 
 
@@ -3000,7 +3120,7 @@ I was present at the launch of the GATE. This initiative is unique and impressiv
 
 I see this bill, which enables research and development corporations to operate more strategically in their marketing activities, as part of a broadening of their capability to respond properly to market circumstances and to capitalise on industry opportunities. As I said, there are some exciting developments. There are some exciting things happening in agricultural R&D and ag-tech innovation, and a lot of it is happening in the Calare electorate. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Primary Industries Research and Development Amendment Bill 2017</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Primary Industries Research and Development Amendment Bill 2017</title>,BILLS,17,1,speech
 "Sukkar, Michael, MP",LP,2018-05-09,"
 
 
@@ -3041,7 +3161,7 @@ Original question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Primary Industries Research and Development Amendment Bill 2017</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Primary Industries Research and Development Amendment Bill 2017</title>,BILLS,17,1,speech
 "Sukkar, Michael, MP",LP,2018-05-09,"
 
 
@@ -3058,7 +3178,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Primary Industries Research and Development Amendment Bill 2017</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Primary Industries Research and Development Amendment Bill 2017</title>,BILLS,17,1,speech
 "McGowan, Cathy, MP",IND,2018-05-09,"
 
 
@@ -3105,7 +3225,7 @@ In bringing my comments to a close, what I really would like to say to Jay and S
 
 In closing, I say to my colleagues, to the advisers in the boxes tonight, to the minister—he is here—and to all of my colleagues around Australia who I know care so much about R&D: join me with this push. Can we encourage this minister to have a conference to call together R&D and actually look at a long-term strategic approach to how R&D in agriculture research can enable us to take our place as a leading industry in this nation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Gee, Andrew, MP",Nats,2018-05-09,"
 
 
@@ -3149,7 +3269,7 @@ I was present at the launch of the GATE. This initiative is unique and impressiv
 
 I see this bill, which enables research and development corporations to operate more strategically in their marketing activities, as part of a broadening of their capability to respond properly to market circumstances and to capitalise on industry opportunities. As I said, there are some exciting developments. There are some exciting things happening in agricultural R&D and ag-tech innovation, and a lot of it is happening in the Calare electorate. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Sukkar, Michael, MP",LP,2018-05-09,"
 
 
@@ -3190,7 +3310,7 @@ Original question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Irons, Steve (The DEPUTY SPEAKER)",LP,2018-05-09,"
 
 
@@ -3207,7 +3327,7 @@ I understand it is the wish of the House to consider the matter immediately. The
 
 Question agreed to. 
 
-",HoR,<title>CONDOLENCES</title>,"<title>Newman, Hon. Jocelyn Margaret, AO</title>",CONDOLENCES,18,1
+",HoR,<title>CONDOLENCES</title>,"<title>Newman, Hon. Jocelyn Margaret, AO</title>",CONDOLENCES,18,1,speech
 "Irons, Steve (The DEPUTY SPEAKER)",LP,2018-05-09,"
 
 
@@ -3224,7 +3344,7 @@ I understand it is the wish of the House to consider the matter immediately. The
 
 Question agreed to. 
 
-",HoR,<title>CONDOLENCES</title>,<title>Report from Federation Chamber</title>,CONDOLENCES,18,2
+",HoR,<title>CONDOLENCES</title>,<title>Report from Federation Chamber</title>,CONDOLENCES,18,2,speech
 "McVeigh, John, MP",LP,2018-05-09,"
 
 
@@ -3292,7 +3412,7 @@ With this, I commend to the House the Australian Capital Territory (Planning and
 
 Leave granted for second reading debate to continue immediately.
 
-",HoR,<title>BILLS</title>,<title>Australian Capital Territory (Planning and Land Management) Amendment Bill 2017</title>,BILLS,19,1
+",HoR,<title>BILLS</title>,<title>Australian Capital Territory (Planning and Land Management) Amendment Bill 2017</title>,BILLS,19,1,speech
 "Jones, Stephen, MP",ALP,2018-05-09,"
 
 
@@ -3336,7 +3456,7 @@ It is important to put on the public record that nothing within the amendments t
 
 In respect of the light rail project, we welcome the 2012 decision by the ACT Labor government to build the light rail network for Canberra. We think it is a national-capital-building project which will be enjoyed by not just the residents of this fine city but all of those who come here to visit. Light rail stage 1 is well under construction, and the 12-kilometre route is expected to be operating in the later part of this year. Light rail stage 2 is another 12-kilometre corridor from Canberra City to Woden through the Parliamentary Triangle. This will require consultation with the National Capital Authority. I am confident that the good graces of this parliament, its ministerial representative, the National Capital Authority, the Legislative Assembly and its executive officers will ensure that this important project will be seen through for the benefit of not just the residents of the Australian Capital Territory but all Australians who come and visit this wonderful city. The minister said in his second reading speech that this is a non-controversial piece of legislation—and it is. Labor supports it, but we do so in the understanding that the grant of legislative authority to the ACT government was a genuine one and this parliament should not unnecessarily interfere in the ordinary affairs of that legislature.
 
-",HoR,<title>BILLS</title>,<title>Australian Capital Territory (Planning and Land Management) Amendment Bill 2017</title>,BILLS,19,1
+",HoR,<title>BILLS</title>,<title>Australian Capital Territory (Planning and Land Management) Amendment Bill 2017</title>,BILLS,19,1,speech
 "McVeigh, John, MP",LP,2018-05-09,"
 
 
@@ -3404,7 +3524,7 @@ With this, I commend to the House the Australian Capital Territory (Planning and
 
 Leave granted for second reading debate to continue immediately.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "Jones, Stephen, MP",ALP,2018-05-09,"
 
 
@@ -3448,7 +3568,7 @@ It is important to put on the public record that nothing within the amendments t
 
 In respect of the light rail project, we welcome the 2012 decision by the ACT Labor government to build the light rail network for Canberra. We think it is a national-capital-building project which will be enjoyed by not just the residents of this fine city but all of those who come here to visit. Light rail stage 1 is well under construction, and the 12-kilometre route is expected to be operating in the later part of this year. Light rail stage 2 is another 12-kilometre corridor from Canberra City to Woden through the Parliamentary Triangle. This will require consultation with the National Capital Authority. I am confident that the good graces of this parliament, its ministerial representative, the National Capital Authority, the Legislative Assembly and its executive officers will ensure that this important project will be seen through for the benefit of not just the residents of the Australian Capital Territory but all Australians who come and visit this wonderful city. The minister said in his second reading speech that this is a non-controversial piece of legislation—and it is. Labor supports it, but we do so in the understanding that the grant of legislative authority to the ACT government was a genuine one and this parliament should not unnecessarily interfere in the ordinary affairs of that legislature.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,19,2,speech
 "O'Toole, Cathy, MP",ALP,2018-05-09,"
 
 
@@ -3471,7 +3591,7 @@ And after the Treasurer announced this do-nothing budget for Townsville, his out
 
 Only Labor will deliver for regional, rural and remote Queensland. Only Labor delivers on jobs, education, health, pensioners and veterans. I fought for Labor's $200 million commitment for hydro power on the Burdekin Falls Dam. I fought for Labor's $100 million commitment for long-term water security. I fought for Labor's $75 million commitment for the port expansion. And I fought for our veterans and Labor's commitment to $121 million for a transitioning employment program. A Labor budget would have delivered for the people of Townsville. Shame on the Turnbull government once again for your do-nothing budget for the people of Herbert!
 
-",HoR,<title>ADJOURNMENT</title>,<title>Budget</title>,ADJOURNMENT,20,1
+",HoR,<title>ADJOURNMENT</title>,<title>Budget</title>,ADJOURNMENT,20,1,speech
 "Vamvakinou, Maria, MP",ALP,2018-05-09,"
 
 
@@ -3482,7 +3602,7 @@ Ms VAMVAKINOU
 
 Finally, Banksia Gardens Community Services received $20,000 to fit out and furnish a new portable building, called Youthspace 3047, for the Broadmeadows Youth Justice Alliance. As part of the Stronger Communities grants, I was able to officially open Banksia Gardens Community Services' new building, Youthspace 3047, together with the state member for Broadmeadows, the Hon. Frank McGuire. This new building will offer a range of co-located services to vulnerable young people, including those who access the Northern Community Legal Centre, headspace, YSAS drug and alcohol counselling, FMC Mediation and Counselling, and Jesuit Social Services. The new range of onsite services is part of an exciting partnership where young people can come to a safe and friendly place in order to seek assistance. 
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Calwell Electorate: Stronger Communities Program</title>,CONSTITUENCY STATEMENTS,22,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Calwell Electorate: Stronger Communities Program</title>,CONSTITUENCY STATEMENTS,22,1,speech
 "Butler, Terri, MP",ALP,2018-05-09,"
 
 
@@ -3532,7 +3652,7 @@ I'm very pleased that there will be a specific focus on competition, but it's no
 
 As I said at the outset, we need consumers to be stronger. It's time for a much stronger consumer protection focus. It is just a nonsense to say that a small-business owner can negotiate on equal footing with one of the big four banks. It is just a nonsense to say that a pensioner can negotiate on equal footing with one of the big four banks. It is just a nonsense to say that a kid out of high school can negotiate on equal footing with one of the big four banks. We need to improve consumer protection in this country. Consumer protection should be at the heart of what we do when we look at how to improve the way that ASIC operates, that banking and finance regulation operates and that general approaches to the market in this country operate. It's not good enough to say: 'We'll leave it to the invisible hand of the market. People's enlightened self-interest will lead to optimal outcomes.' It's not the case. We know it's not the case because we've got decades of neoliberalism to look back on in this country. We know it's not the case because of the evidence that's coming out before the royal commission right now. I appreciate the bill, I respect the moves for greater governance and I hope that things get a little better. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1,speech
 "Keogh, Matt, MP",ALP,2018-05-09,"
 
 
@@ -3573,7 +3693,7 @@ In relation to all of these things we have seen critical failures by the governm
 
 When it comes to this specific piece of legislation, well done, government—eventually, years later, you have got around to fixing a small problem. We look forward to you eventually fixing some others. 
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1,speech
 "Perrett, Graham, MP",ALP,2018-05-09,"
 
 
@@ -3669,7 +3789,7 @@ Prime Minister Malcolm Turnbull was brought kicking and screaming to having a ba
 
 Labor will do all it can to make sure that ordinary Australians have the protection they need, that the culture of misconduct in banking is stamped out and that our financial institutions serve the nation, not the interests of a greedy few. Labor supports this bill. Labor support our corporate regulator, ASIC, and we wish them well. Labor will always support measures that assist ASIC to operate effectively and efficiently.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1,speech
 "Dick, Milton, MP",ALP,2018-05-09,"
 
 
@@ -3753,7 +3873,7 @@ Those opposite have a long record of turning a blind eye to what is going on wit
 
 We know that when it comes to the protection of consumers, the rights of consumers, there is one side of politics that will always call out misconduct, that will always call out people being ripped off, and that is the Australian Labor Party. We are the party that has fought tooth and nail to deliver a royal commission, standing shoulder to shoulder with consumers and customers in this country. It took this government months, if not years, to deliver a royal commission. Now we need justice for everyone in Australia.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1,speech
 "O'Toole, Cathy, MP",ALP,2018-05-09,"
 
 
@@ -3840,7 +3960,7 @@ The DEPUTY SPEAKER:  It's the second reading. I will listen very carefully. Than
 Ms O'TOOLE:
   I will continue to fight for Australian workers and their families because I have had enough of the growth of corporate greed in this country. There is much more work that needs to be done, and it starts with the discretion to appoint a second deputy chair of ASIC. It starts with putting an end, once and for all, to the savage cuts to public sector jobs and worker penalty rates. Now it is time to get rid of corporate greed once and for all, because the citizens of this great nation deserve nothing less.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1,speech
 "Watts, Tim, MP",ALP,2018-05-09,"
 
 
@@ -3912,7 +4032,7 @@ I want to call some attention to AMP's media release on 30 April, 2018 advising 
 
 We need to change the culture of corporate Australia. Some of that comes from the governance reforms we see here with ASIC. But it also takes an intrinsic change in the way corporate Australia does business. The game of mates has got to stop. The covering up for misconduct has got to stop. The excusing of oversight of governance arrangements within companies—where a company can lie to the regulator on 20 occasions, where they can knowingly charge fees for services that aren't being provided, where they can doctor a supposedly independent report to remove references to executives—will not restore confidence in the Australian corporate sector. We need a tough cop on the beat. We need ASIC to start doing its job as an external oversight, but what about governance inside the companies that it's overlooking? That's the change that we need to see in corporate Australia. 
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1,speech
 "O'Neil, Clare, MP",ALP,2018-05-09,"
 
 
@@ -3962,7 +4082,7 @@ I want to quickly talk about the fees-for-no-service scandal. What we understand
 
 We don't have nearly enough time to go through and deal with all the issues with ASIC. I'd simply make the point that despite all of the misconduct—the broken laws that we know are referred to, the counterterrorism laws which have been broken obscenely by the Commonwealth Bank—not one senior banker in this country has properly faced court in response. That's ASIC's job. So next time I talk about ASIC in this parliament I hope it's about a bill that does something a little more than make a minor change to the governance arrangements. 
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1,speech
 "Husic, Ed, MP",ALP,2018-05-09,"
 
 
@@ -4018,7 +4138,7 @@ We certainly want to see strong regulations in place and we certainly want to se
 
 The sector is too worried about raising their concerns with ASIC directly—but we are picking up the concerns along the way. If this government is fair dinkum about putting in place the measures that are required to open up competitive alternatives to big financial players, through fintech, they will act more quickly than they are doing right now. They will ensure ASIC is properly staffed to do the job and they will ensure that proper funding support is there so that we can see alternatives to the big banks and big financial players emerge in this nation much more quickly than what is currently occurring.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1,speech
 "Hayes, Chris, MP",ALP,2018-05-09,"
 
 
@@ -4108,7 +4228,7 @@ Sitting suspended from
 16:00
 
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (ASIC Governance) Bill 2018</title>,BILLS,23,1,speech
 "Butler, Terri, MP",ALP,2018-05-09,"
 
 
@@ -4158,7 +4278,7 @@ I'm very pleased that there will be a specific focus on competition, but it's no
 
 As I said at the outset, we need consumers to be stronger. It's time for a much stronger consumer protection focus. It is just a nonsense to say that a small-business owner can negotiate on equal footing with one of the big four banks. It is just a nonsense to say that a pensioner can negotiate on equal footing with one of the big four banks. It is just a nonsense to say that a kid out of high school can negotiate on equal footing with one of the big four banks. We need to improve consumer protection in this country. Consumer protection should be at the heart of what we do when we look at how to improve the way that ASIC operates, that banking and finance regulation operates and that general approaches to the market in this country operate. It's not good enough to say: 'We'll leave it to the invisible hand of the market. People's enlightened self-interest will lead to optimal outcomes.' It's not the case. We know it's not the case because we've got decades of neoliberalism to look back on in this country. We know it's not the case because of the evidence that's coming out before the royal commission right now. I appreciate the bill, I respect the moves for greater governance and I hope that things get a little better. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Keogh, Matt, MP",ALP,2018-05-09,"
 
 
@@ -4199,7 +4319,7 @@ In relation to all of these things we have seen critical failures by the governm
 
 When it comes to this specific piece of legislation, well done, government—eventually, years later, you have got around to fixing a small problem. We look forward to you eventually fixing some others. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Perrett, Graham, MP",ALP,2018-05-09,"
 
 
@@ -4295,7 +4415,7 @@ Prime Minister Malcolm Turnbull was brought kicking and screaming to having a ba
 
 Labor will do all it can to make sure that ordinary Australians have the protection they need, that the culture of misconduct in banking is stamped out and that our financial institutions serve the nation, not the interests of a greedy few. Labor supports this bill. Labor support our corporate regulator, ASIC, and we wish them well. Labor will always support measures that assist ASIC to operate effectively and efficiently.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Dick, Milton, MP",ALP,2018-05-09,"
 
 
@@ -4379,7 +4499,7 @@ Those opposite have a long record of turning a blind eye to what is going on wit
 
 We know that when it comes to the protection of consumers, the rights of consumers, there is one side of politics that will always call out misconduct, that will always call out people being ripped off, and that is the Australian Labor Party. We are the party that has fought tooth and nail to deliver a royal commission, standing shoulder to shoulder with consumers and customers in this country. It took this government months, if not years, to deliver a royal commission. Now we need justice for everyone in Australia.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "O'Toole, Cathy, MP",ALP,2018-05-09,"
 
 
@@ -4466,7 +4586,7 @@ The DEPUTY SPEAKER:  It's the second reading. I will listen very carefully. Than
 Ms O'TOOLE:
   I will continue to fight for Australian workers and their families because I have had enough of the growth of corporate greed in this country. There is much more work that needs to be done, and it starts with the discretion to appoint a second deputy chair of ASIC. It starts with putting an end, once and for all, to the savage cuts to public sector jobs and worker penalty rates. Now it is time to get rid of corporate greed once and for all, because the citizens of this great nation deserve nothing less.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Watts, Tim, MP",ALP,2018-05-09,"
 
 
@@ -4538,7 +4658,7 @@ I want to call some attention to AMP's media release on 30 April, 2018 advising 
 
 We need to change the culture of corporate Australia. Some of that comes from the governance reforms we see here with ASIC. But it also takes an intrinsic change in the way corporate Australia does business. The game of mates has got to stop. The covering up for misconduct has got to stop. The excusing of oversight of governance arrangements within companies—where a company can lie to the regulator on 20 occasions, where they can knowingly charge fees for services that aren't being provided, where they can doctor a supposedly independent report to remove references to executives—will not restore confidence in the Australian corporate sector. We need a tough cop on the beat. We need ASIC to start doing its job as an external oversight, but what about governance inside the companies that it's overlooking? That's the change that we need to see in corporate Australia. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "O'Neil, Clare, MP",ALP,2018-05-09,"
 
 
@@ -4588,7 +4708,7 @@ I want to quickly talk about the fees-for-no-service scandal. What we understand
 
 We don't have nearly enough time to go through and deal with all the issues with ASIC. I'd simply make the point that despite all of the misconduct—the broken laws that we know are referred to, the counterterrorism laws which have been broken obscenely by the Commonwealth Bank—not one senior banker in this country has properly faced court in response. That's ASIC's job. So next time I talk about ASIC in this parliament I hope it's about a bill that does something a little more than make a minor change to the governance arrangements. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Husic, Ed, MP",ALP,2018-05-09,"
 
 
@@ -4644,7 +4764,7 @@ We certainly want to see strong regulations in place and we certainly want to se
 
 The sector is too worried about raising their concerns with ASIC directly—but we are picking up the concerns along the way. If this government is fair dinkum about putting in place the measures that are required to open up competitive alternatives to big financial players, through fintech, they will act more quickly than they are doing right now. They will ensure ASIC is properly staffed to do the job and they will ensure that proper funding support is there so that we can see alternatives to the big banks and big financial players emerge in this nation much more quickly than what is currently occurring.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Hayes, Chris, MP",ALP,2018-05-09,"
 
 
@@ -4734,7 +4854,7 @@ Sitting suspended from
 16:00
 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "O'Dwyer, Kelly, MP",LP,2018-05-09,"
 
 
@@ -4763,7 +4883,7 @@ Like her husband, Kevin, and her son, Campbell, Jocelyn gave much to public life
 
 Prime Minister Malcolm Turnbull has said that Jocelyn's contribution to the Liberal Party, to Tasmania and to Australia was by all measures considerable and enduring. And I was privileged to hear former Prime Minister John Howard also speak very movingly about Jocelyn at her state funeral very recently, where he talked of her compassion, her absolute determination and her ability to focus very much on outcomes and on delivery. And two of her granddaughters spoke lovingly of their grandmother, both the private woman and the public woman that she was. Our thoughts are with Jocelyn's family, including her two children, Campbell and Kate, and granddaughters, Rebecca, Sarah, Emma and Samantha. What an inspiring figure she was for those four girls. We hope that they can take comfort in her substantial legacy, which lives on for all Australians. Vale, Jocelyn Newman.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Newman, Hon. Jocelyn Margaret, AO</title>",CONDOLENCES,24,1
+",HoR,<title>CONDOLENCES</title>,"<title>Newman, Hon. Jocelyn Margaret, AO</title>",CONDOLENCES,24,1,speech
 "Hart, Ross, MP",ALP,2018-05-09,"
 
 
@@ -4814,7 +4934,7 @@ Honourable members having stood in their places—
 
 The DEPUTY SPEAKER:  I thank the chamber. 
 
-",HoR,<title>CONDOLENCES</title>,"<title>Newman, Hon. Jocelyn Margaret, AO</title>",CONDOLENCES,24,1
+",HoR,<title>CONDOLENCES</title>,"<title>Newman, Hon. Jocelyn Margaret, AO</title>",CONDOLENCES,24,1,speech
 "O'Dwyer, Kelly, MP",LP,2018-05-09,"
 
 
@@ -4828,7 +4948,7 @@ That further proceedings be conducted in the House.
 
 Question agreed to.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Newman, Hon. Jocelyn Margaret, AO</title>",CONDOLENCES,24,1
+",HoR,<title>CONDOLENCES</title>,"<title>Newman, Hon. Jocelyn Margaret, AO</title>",CONDOLENCES,24,1,speech
 "Buchholz, Scott (The DEPUTY SPEAKER)",LP,2018-05-09,"
 
 
@@ -4839,7 +4959,7 @@ The DEPUTY SPEAKER
 Mr Buchholz
 ) (16:14):  The original question was that the bill now be read a second time. The question now is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1,speech
 "Ramsey, Rowan, MP",LP,2018-05-09,"
 
 
@@ -4874,7 +4994,7 @@ However, not every user of the fast broadband internet will use the NBN. There a
 
 I'm really pleased with the way the NBN rollout has gone in my electorate. I think I'm close to 18 months from seeing the completion of those final wireless networks—including in my home town. By and large, we have a great service out there now. There are still a lot of people to connect up. Around 50 per cent have connected to the fixed wireless network, and fewer have connected to the wireless networks. But the services are good and I think it's just a matter of time. Certainly, in the fibre-to-the-node networks, there is a final date when service will cease on the copper network. As I said, it's expected that the speeds in the network will increase. But service to the copper network will cease, so people will have an automatic transference at that stage. There are bound to be a few complaints raised again when people are staring down the barrel of a definite date. But these things need to be done. It's a good project that is providing good services, and I'm very pleased with how it's gone in my electorate. The legislation today is an essential part of ensuring its financial viability.
 
-",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1,speech
 "Jones, Stephen, MP",ALP,2018-05-09,"
 
 
@@ -4918,7 +5038,7 @@ The reason it's necessary, by the way, and the reason that the charge is falling
 
 The Prime Minister, when he was opposition communications spokesperson, sent the wrong signals into the market, and that's, in part, why we have the problems that we're dealing with today. Some of the problems we are dealing with today are the result of his interventions back then. We have to put a levy on these to ensure that we have the revenue to cross-subsidise these provisions. With those reservations, I support the bill and the amendment.
 
-",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1,speech
 "Falinski, Jason, MP",LP,2018-05-09,"
 
 
@@ -4950,7 +5070,7 @@ For regional and remote communities the value of reliable broadband services is 
 
 This bill is evidence of the Turnbull government's continuing commitment to improving the provision of superfast broadband across metropolitan, regional, rural and remote Australia. The bill will make crucial amendments to the communications regulatory framework to ensure greater competition across both wholesale and retail sectors. By strengthening competition and improving market access for small and emerging providers, consumers are given more choice in choosing communication services that meet their needs. We on this side of the House don't believe in a one-size-fits-all approach where government decides what your needs are and how best to satisfy them. We believe that, by enabling private enterprise to take risks and provide a differentiation in market offerings, consumers are ultimately the winners because the consumer knows what's best for their family or their businesses. But where consumers' options for access to broadband services are limited due to their regional or remote location, this bill ensures they will have access, under the statutory infrastructure provider obligation, to those vital services—because we in the coalition understand that they matter irrespective of their location. I commend this bill.
 
-",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1,speech
 "O'Toole, Cathy, MP",ALP,2018-05-09,"
 
 
@@ -4994,7 +5114,7 @@ The NBN was designed to implement uniform wholesale pricing to ensure that whole
 
 I do I support this bill, because anything that supports NBN has my vote. But let this be a warning to the Prime Minister that I will be relentless in fighting for more fibre access, relentless in fighting for a faster and quicker rollout and relentless in my support for NBN in regional and rural Australia.
 
-",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1,speech
 "Templeman, Susan, MP",ALP,2018-05-09,"
 
 
@@ -5053,7 +5173,7 @@ As we heard last year, the Prime Minister, with his Point Piper home, was privil
 
 The CEDA report also leads me to ask yet again why this government is so bent on reducing the opportunities for people to access skills through more cuts. We saw in the budget last night more cuts to TAFE, to the tune of $270 million. Why are so many impediments put in the way of people who want to go to university? Why are limits put on universities' ability to offer new and innovative courses that give people the chance to explore new technologies, all because of funding cuts? It shows the folly of this government's intent to cut funding to schools, of which 82 per cent of the brunt will be felt by public schools. As CEDA says, the challenge is to ensure that no-one is unfairly excluded or discriminated against along the way. But that's what we're seeing with the NBN.
 
-",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1,speech
 "Freelander, Mike, MP",ALP,2018-05-09,"
 
 
@@ -5118,7 +5238,7 @@ We are currently running our repairs with 85 per cent of NBN faults within our a
 
 So there's still 15 per cent that is not being treated appropriately. I may be mistaken, but to me it sounds as though the NBN Co is failing. (Time expired)
 
-",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1,speech
 "Mitchell, Brian, MP",ALP,2018-05-09,"
 
 
@@ -5150,7 +5270,7 @@ If we travel further into my electorate, to the Central Highlands community of M
 
 Further north in Lyons—it's a big electorate: 30,000 square kilometres—in the township of Westbury, another of my constituents, Graeme, was advised by NBN Co that he could connect to the network, and, acting on this advice, he signed up to receive the NBN.
 
-",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1,speech
 "Ryan, Joanne, MP",ALP,2018-05-09,"
 
 
@@ -5226,7 +5346,7 @@ This bill reflects this government's lax work on the NBN. It reflects their mism
 
 The DEPUTY SPEAKER:  I call the member for Richmond. We're manually timing, so go to about seven minutes past.
 
-",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1,speech
 "Elliot, Justine, MP",ALP,2018-05-09,"
 
 
@@ -5288,7 +5408,7 @@ We, in Labor, will continue to fight for our vision of NBN and what it should be
 
 I appeal to the government to look closely at regional Australia and the requirements that we have. It's disappointing—well, there were many disappointing things in the budget that we could run through, but, when talking about the NBN, one of those is the lack of any sort of investment in last night's budget that would improve those services for regional Australia. It is very desperate, and it is only that Labor had the true vision for it, and under this government we've just seen a blowout and a lack of services. So I certainly support Labor's amendments. I think they will go some way to getting some improvements, but we would like to see the government approach this and actually start fixing the NBN so that people can access these services.
 
-",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1,speech
 "Brodtmann, Gai, MP",ALP,2018-05-09,"
 
 
@@ -5371,7 +5491,7 @@ Ultimately, it is the Prime Minister who owns this levy that the government is t
 
 Australians know that, when it comes to broadband, only Labor will be there to consistently deliver on their behalf. But much more needs to be done in this sector.
 
-",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1,speech
 "Keogh, Matt, MP",ALP,2018-05-09,"
 
 
@@ -5430,7 +5550,7 @@ The DEPUTY SPEAKER
 Mr Gee
 ):  I thank the member. Before I call the next speaker, I would just point out to those who may be watching or listening outside the parliament that we do have an issue with the electronic clock this evening, so we are manually time-keeping. We're doing it old school this afternoon. Each speaker will have 15 minutes, and we'll do our best to alert speakers when their time is expiring.
 
-",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1,speech
 "Hart, Ross, MP",ALP,2018-05-09,"
 
 
@@ -5481,7 +5601,7 @@ At the same time, consumer complaints are soaring. The Telecommunications Indust
 
 Public policy should ensure that companies seeking to provide high-speed broadband are broadly subject to the same regulatory requirements as NBN Co so as to ensure competitive neutrality. The level-playing-field rules in parts 7 and 8 of the Telecommunications Act date back to 2011. They apply to superfast fixed-line networks that service residential and small-business customers. Part 7 of the act requires operators of these networks to make their networks available to access seekers—that is, retail service providers. In many respects the amendments proposed by this legislation that are necessary in order to impose a charge or levy upon competing networks are a product of this Prime Minister encouraging the construction of a competing network. Obviously, to protect the structural separation of the network, it's important that we protect NBN Co's monopoly as a wholesale service provider. So Labor will support the bill. Thank you.
 
-",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1,speech
 "McBride, Emma, MP",ALP,2018-05-09,"
 
 
@@ -5549,7 +5669,7 @@ Federation Chamber adjourned at
 
  
 
-",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1
+",HoR,<title>BILLS</title>,"<title>Telecommunications Legislation Amendment (Competition and Consumer) Bill 2017, Telecommunications (Regional Broadband Scheme) Charge Bill 2017</title>",BILLS,25,1,speech
 "Buchholz, Scott (The DEPUTY SPEAKER)",LP,2018-05-09,"
 
 
@@ -5560,7 +5680,7 @@ The DEPUTY SPEAKER
 Mr Buchholz
 ) (16:14):  The original question was that the bill now be read a second time. The question now is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Ramsey, Rowan, MP",LP,2018-05-09,"
 
 
@@ -5595,7 +5715,7 @@ However, not every user of the fast broadband internet will use the NBN. There a
 
 I'm really pleased with the way the NBN rollout has gone in my electorate. I think I'm close to 18 months from seeing the completion of those final wireless networks—including in my home town. By and large, we have a great service out there now. There are still a lot of people to connect up. Around 50 per cent have connected to the fixed wireless network, and fewer have connected to the wireless networks. But the services are good and I think it's just a matter of time. Certainly, in the fibre-to-the-node networks, there is a final date when service will cease on the copper network. As I said, it's expected that the speeds in the network will increase. But service to the copper network will cease, so people will have an automatic transference at that stage. There are bound to be a few complaints raised again when people are staring down the barrel of a definite date. But these things need to be done. It's a good project that is providing good services, and I'm very pleased with how it's gone in my electorate. The legislation today is an essential part of ensuring its financial viability.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Jones, Stephen, MP",ALP,2018-05-09,"
 
 
@@ -5639,7 +5759,7 @@ The reason it's necessary, by the way, and the reason that the charge is falling
 
 The Prime Minister, when he was opposition communications spokesperson, sent the wrong signals into the market, and that's, in part, why we have the problems that we're dealing with today. Some of the problems we are dealing with today are the result of his interventions back then. We have to put a levy on these to ensure that we have the revenue to cross-subsidise these provisions. With those reservations, I support the bill and the amendment.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Falinski, Jason, MP",LP,2018-05-09,"
 
 
@@ -5671,7 +5791,7 @@ For regional and remote communities the value of reliable broadband services is 
 
 This bill is evidence of the Turnbull government's continuing commitment to improving the provision of superfast broadband across metropolitan, regional, rural and remote Australia. The bill will make crucial amendments to the communications regulatory framework to ensure greater competition across both wholesale and retail sectors. By strengthening competition and improving market access for small and emerging providers, consumers are given more choice in choosing communication services that meet their needs. We on this side of the House don't believe in a one-size-fits-all approach where government decides what your needs are and how best to satisfy them. We believe that, by enabling private enterprise to take risks and provide a differentiation in market offerings, consumers are ultimately the winners because the consumer knows what's best for their family or their businesses. But where consumers' options for access to broadband services are limited due to their regional or remote location, this bill ensures they will have access, under the statutory infrastructure provider obligation, to those vital services—because we in the coalition understand that they matter irrespective of their location. I commend this bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "O'Toole, Cathy, MP",ALP,2018-05-09,"
 
 
@@ -5715,7 +5835,7 @@ The NBN was designed to implement uniform wholesale pricing to ensure that whole
 
 I do I support this bill, because anything that supports NBN has my vote. But let this be a warning to the Prime Minister that I will be relentless in fighting for more fibre access, relentless in fighting for a faster and quicker rollout and relentless in my support for NBN in regional and rural Australia.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Templeman, Susan, MP",ALP,2018-05-09,"
 
 
@@ -5774,7 +5894,7 @@ As we heard last year, the Prime Minister, with his Point Piper home, was privil
 
 The CEDA report also leads me to ask yet again why this government is so bent on reducing the opportunities for people to access skills through more cuts. We saw in the budget last night more cuts to TAFE, to the tune of $270 million. Why are so many impediments put in the way of people who want to go to university? Why are limits put on universities' ability to offer new and innovative courses that give people the chance to explore new technologies, all because of funding cuts? It shows the folly of this government's intent to cut funding to schools, of which 82 per cent of the brunt will be felt by public schools. As CEDA says, the challenge is to ensure that no-one is unfairly excluded or discriminated against along the way. But that's what we're seeing with the NBN.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Freelander, Mike, MP",ALP,2018-05-09,"
 
 
@@ -5839,7 +5959,7 @@ We are currently running our repairs with 85 per cent of NBN faults within our a
 
 So there's still 15 per cent that is not being treated appropriately. I may be mistaken, but to me it sounds as though the NBN Co is failing. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Mitchell, Brian, MP",ALP,2018-05-09,"
 
 
@@ -5871,7 +5991,7 @@ If we travel further into my electorate, to the Central Highlands community of M
 
 Further north in Lyons—it's a big electorate: 30,000 square kilometres—in the township of Westbury, another of my constituents, Graeme, was advised by NBN Co that he could connect to the network, and, acting on this advice, he signed up to receive the NBN.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Ryan, Joanne, MP",ALP,2018-05-09,"
 
 
@@ -5947,7 +6067,7 @@ This bill reflects this government's lax work on the NBN. It reflects their mism
 
 The DEPUTY SPEAKER:  I call the member for Richmond. We're manually timing, so go to about seven minutes past.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Elliot, Justine, MP",ALP,2018-05-09,"
 
 
@@ -6009,7 +6129,7 @@ We, in Labor, will continue to fight for our vision of NBN and what it should be
 
 I appeal to the government to look closely at regional Australia and the requirements that we have. It's disappointing—well, there were many disappointing things in the budget that we could run through, but, when talking about the NBN, one of those is the lack of any sort of investment in last night's budget that would improve those services for regional Australia. It is very desperate, and it is only that Labor had the true vision for it, and under this government we've just seen a blowout and a lack of services. So I certainly support Labor's amendments. I think they will go some way to getting some improvements, but we would like to see the government approach this and actually start fixing the NBN so that people can access these services.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Brodtmann, Gai, MP",ALP,2018-05-09,"
 
 
@@ -6092,7 +6212,7 @@ Ultimately, it is the Prime Minister who owns this levy that the government is t
 
 Australians know that, when it comes to broadband, only Labor will be there to consistently deliver on their behalf. But much more needs to be done in this sector.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Keogh, Matt, MP",ALP,2018-05-09,"
 
 
@@ -6151,7 +6271,7 @@ The DEPUTY SPEAKER
 Mr Gee
 ):  I thank the member. Before I call the next speaker, I would just point out to those who may be watching or listening outside the parliament that we do have an issue with the electronic clock this evening, so we are manually time-keeping. We're doing it old school this afternoon. Each speaker will have 15 minutes, and we'll do our best to alert speakers when their time is expiring.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "Hart, Ross, MP",ALP,2018-05-09,"
 
 
@@ -6202,7 +6322,7 @@ At the same time, consumer complaints are soaring. The Telecommunications Indust
 
 Public policy should ensure that companies seeking to provide high-speed broadband are broadly subject to the same regulatory requirements as NBN Co so as to ensure competitive neutrality. The level-playing-field rules in parts 7 and 8 of the Telecommunications Act date back to 2011. They apply to superfast fixed-line networks that service residential and small-business customers. Part 7 of the act requires operators of these networks to make their networks available to access seekers—that is, retail service providers. In many respects the amendments proposed by this legislation that are necessary in order to impose a charge or levy upon competing networks are a product of this Prime Minister encouraging the construction of a competing network. Obviously, to protect the structural separation of the network, it's important that we protect NBN Co's monopoly as a wholesale service provider. So Labor will support the bill. Thank you.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
 "McBride, Emma, MP",ALP,2018-05-09,"
 
 
@@ -6270,4 +6390,266 @@ Federation Chamber adjourned at
 
  
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,25,2,speech
+"Fitzgibbon, Joel, MP",ALP,2018-05-09,"
+
+
+
+Mr Fitzgibbon
+  asked the Minister for Agriculture and Water Resources, in writing, on 26 March 2018:
+
+
+(1) How much has been contributed to fund the development of the Plant Biosecurity Research Initiative (PBRI) by (a) each of the seven Plant Research and Development Corporations, (b) Plant Health Australia, and (c) the Department of Agriculture and Water Resources.
+
+
+(2) How will the PBRI measure its targets to (a) invest in new knowledge and skills across all plant industries to support Australia's plant biosecurity system, and (b) provide coordination and collaborative leadership to ensure research is well-targeted, innovative and that the science is of the highest quality.
+
+
+(3) How many interested parties, other than the core partners, have participated in the PBRI.
+
+
+(4) How many cross-sectoral research projects which include interested parties are currently being developed through the PBRI.
+
+
+(5) How much cash or in-kind contributions have been committed by interested parties, other than the core partners.
+
+
+(6) How many projects undertaken through the PBRI address gaps in the plant biosecurity research as identified in the Intergovernmental Agreement on Biosecurity.
+
+
+(7) How many concepts for projects have been developed through the regular tabling of cross-sectoral biosecurity research needs through the PBRI and what is the funding envelope provided for each project.
+
+
+(8) How many concepts for projects have been submitted to the respective Boards for consideration.
+
+
+(9) How often has the PBRI Management Committee met; and for each of these meetings (a) on what dates were they held, (b) where did the meetings take place, and (c) who attended.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Plant Biosecurity Research Initiative (Question No. 953)</title>,QUESTIONS IN WRITING,26,1,question
+"Littleproud, David, MP",Nats,2018-05-09,"
+
+
+
+Mr Littleproud:
+  The answer to the honourable member's question is as follows:
+
+
+1. The cash costs for establishing the PBRI have been kept to a minimum with a total budget of $740,921 over three years. Once established, the intention is to create an enduring PBRI with a rolling five-year agreement at the end of the first three years.
+
+
+a) Each of the seven Plant Research and Development Corporations are contributing $54,531.
+
+
+b) $359,204.
+
+
+c) Nil.
+
+
+2. The PBRI is in the process of developing a strategy, investment plan and a Monitoring and Evaluation framework.
+
+
+The PBRI partners have agreed to commission an independent review of performance of the PBRI after 2.5 years, at which time performance will be measured and reported to stakeholders, and potential improvements identified. 
+
+
+In addition, each member of the PBRI has its own strategy which includes KPIs and performance targets for biosecurity investments. On an annual basis, each RDC reports back to government on how it meets these targets.
+
+
+3. The following is a list of 29 organisations that have expressed interest in partnering through PBRI, have made RD&E submissions, are developing submissions to PBRI or have been consulted on Key Focus Areas (KFA) for inclusion in the PBRI strategy. 
+
+
+This list is not exclusive and is expected to grow as the PBRI becomes fully established. PBRI also represents a contact point for interested parties who may be looking to invest in plant biosecurity RD&E.
+
+
+Department of Primary Industries Regional Development (WA) 
+
+
+Department of Primary Industry and Resources (NT)
+
+
+Queensland Department Agriculture and Fisheries
+
+
+Department of Primary Industries NSW
+
+
+Department of Economic Development Jobs Transport and Resources (VIC)
+
+
+Department of Primary Industries, Parks, Water & Environment (TAS)
+
+
+Tasmanian Institute of Agricultural Research
+
+
+Primary Industries Research South Australia
+
+
+South Australia Research and Development Institute
+
+
+National Biosecurity Committee 
+
+
+Centre for Invasive Species Solutions
+
+
+CSIRO
+
+
+Murdoch University
+
+
+University of Western Australia
+
+
+University of Melbourne
+
+
+La Trobe University
+
+
+University of Queensland
+
+
+Queensland University of Technology
+
+
+University of Tasmania
+
+
+Lincoln University, NZ
+
+
+Charles Darwin University
+
+
+CEBRA
+
+
+CESAR
+
+
+Australasian Plant Pathology Society
+
+
+Australian Entomology Society
+
+
+Plant and Food Research New Zealand
+
+
+Better Border Biosecurity (B3), New Zealand
+
+
+AusVeg
+
+
+EUPHRESCO, France.
+
+
+4. 23.
+
+
+5. The PBRI does not provide RD&E funding and as such does not request or receive in‑kind or cash funds from research providers. The PBRI is not intended to become a stand-alone funding or delivery organisation. Instead of creating a new administration layer, the PBRI will harness the significant collective investment power of the plant RDCs. Analysis by the Council of Rural RDCs estimates the average leverage across all RDCs is $1.27 for every $1 invested by an RDC. Therefore, based on the plant biosecurity RDE investment for 2015-16 ($62.9 million) the cash and in-kind contributions from interested parties for plant biosecurity RD&E is estimated to have been $80 million in that year.
+
+
+6. All 23 projects under development are aligned to the six PBRI KFAs which are directly aligned to the research areas identified in the Intergovernmental Agreement on Biosecurity. If research concepts do not align to these KFAs they will not be considered within the PBRI framework.
+
+
+7. 23 projects are under development through the PBRI. The PBRI provides a forum for the partners to share their individual and collective biosecurity research needs, and to test alignment of potential projects across the participating organisation. 
+
+
+The PBRI is not a funding body and does not determine funding allocations. Decisions about the level of investment into any given project are the responsibility of the funding provider. 
+
+
+8. Since November 2017, most concepts have received feedback to revise aspects of the proposed research (for example to better define the size of the problem, to collaborate with key partners, to better target research to industry's needs). These revised concepts will be re-tabled at future PBRI meetings.
+
+
+Ten concepts have moved on to the project development phase and their status is summarised as follows:
+
+
+Two concept have progressed to Board 
+
+
+One concept has progressed to tender 
+
+
+Five concepts are at RDC evaluation panel stages 
+
+
+Two concepts are on-hold pending the outcome of a relevant RDC commissioned report due in June 2018
+
+
+9. Five meetings have been held with quarterly meetings scheduled as per the terms of the PBRI Agreement
+
+
+
+Date: 13 April 2017 
+
+
+
+Venue: Hort Innovation Level 8, 1 Chifley Square, Sydney
+
+
+
+Attendees: Dr David Alden RIRDC, Mr. Justin Crosby GRDC, Mr. Greg Fraser PHA, Mr Kevin-Clayton Green Hort Innovation, Dr Anthony Kachenko Hort Innovation, Dr Chris Lafferty FWPA, Mr. Tim Lester CRRDC, Mr David Moore Hort Innovation, Dr Michael O'Shea SRA, Dr Ian Taylor CRDC.
+
+
+
+Date: 19 June 2017 
+
+
+
+Venue: Department of Agriculture and Water Resources, Canberra
+
+
+
+Attendees: Mr Greg Fraser PHA, Dr Dave Alden RIRDC, Dr Marion Healy DAWR, Dr Chris Lafferty, FWPA, Mr Tim Lester CRRDC, Dr Jo Luck PBRI Director, Dr Victoria Ludowici, PHA, Mr David Moore Hort Innovation, Dr Michael O'Shea SRA, Dr Kim Ritman DAWR, Dr Ian Taylor CRDC, Dr Ken Young GRDC.
+
+
+
+Date: 18 August 2017 
+
+
+
+Venue: Sugar Research Australia, Brisbane
+
+
+
+Attendees: Mr Greg Fraser PHA, Dr Dave Alden AF, Mr Tim Lester CRRDC, Dr Jo Luck PBRI Director, Dr Anthony Kachenko Hort Innovation, Dr Michael O'Shea SRA, Dr Peter Samson SRA, Dr Andrew Ward SRA, Dr Kim Ritman DAWR, Mr Con Goletsos DAWR, Dr Ian Taylor CRDC, Dr Ken Young GRDC, Dr Liz Waters Wine Australia, Mr Jim Thomson NBC.
+
+
+
+Date: 17 November 2017 
+
+
+
+Venue: Forestry and Wood Products Australia, Melbourne
+
+
+
+Attendees: Mr Greg Fraser PHA, Dr Michael Beer AFA, Dr Chris Lafferty, FWPA, Mr Tim Lester CRRDC, Dr Jo Luck PBRI Director, Mr David Moore Hort Innovation, Dr Michael O'Shea SRA, Dr Ian Taylor CRDC, Dr Sharon Harvey Wine Australia, Dr Leigh Nelson GRDC, Mr Matt Koval DAWR, Mr Con Goletsos DAWR.
+
+
+
+Date: 16 February 2018 
+
+
+
+Venue: Hort Innovation, Sydney
+
+
+
+Attendees: Mr Greg Fraser PHA, Dr Michael Beer AFA, Dr Chris Lafferty, FWPA, Mr Tim Lester CRRDC, Dr Jo Luck PBRI Director, Mr David Moore Hort Innovation, Dr Michael O'Shea SRA, Dr Ian Taylor CRDC, Dr Liz Waters Wine Australia, Dr Ken Young GRDC, Dr Leigh Nelson GRDC, Dr Kim Ritman DAWR
+
+
+ 
+
+
+ 
+
+
+ 
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Plant Biosecurity Research Initiative (Question No. 953)</title>,QUESTIONS IN WRITING,26,1,answer

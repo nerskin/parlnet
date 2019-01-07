@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2017-09-06,"
 
 
@@ -891,7 +891,7 @@ Other Members—5 minutes. each.
 The Committee determined that consideration of this should continue on a future day.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,0,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,0,1,speech
 "Smith, Tony, MP",LP,2017-09-06,"
 
 
@@ -1784,7 +1784,7 @@ Other Members—5 minutes. each.
 The Committee determined that consideration of this should continue on a future day.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,0,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,0,2,speech
 "Ciobo, Steven, MP",LP,2017-09-06,"
 
 
@@ -1921,7 +1921,7 @@ I commend this legislation to the House.
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Customs Amendment (Singapore-Australia Free Trade Agreement Amendment Implementation) Bill 2017</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Customs Amendment (Singapore-Australia Free Trade Agreement Amendment Implementation) Bill 2017</title>,BILLS,1,1,speech
 "Watts, Tim, MP",ALP,2017-09-06,"
 
 
@@ -1932,7 +1932,94 @@ Mr WATTS
 
 We're shocked to have lost her so soon and so unexpectedly. I was so proud of her and I believed that she would do great things in the future. Those of us who knew her will honour her memory in this place by serving the causes she cared about, particularly the advancement of women's equality and the rights of young people in the workplace, and also by partaking in sea change, bad puns, women's footy and mince pies. My thoughts are with her family, her many friends, my staff and the Labor members who are grieving for her today in Canberra and in Melbourne. Robert, Prue, Emily and Alice, I am so sorry.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,"<title>Jordan-Baird, Ms Clara</title>",STATEMENTS BY MEMBERS,2,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,"<title>Jordan-Baird, Ms Clara</title>",STATEMENTS BY MEMBERS,2,1,speech
+"Shorten, Bill, MP",ALP,2017-09-06,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:01):  My question is to the Prime Minister. Senator Canavan resigned from cabinet 43 days ago. Why is the Deputy Prime Minister still sitting on your front—
+
+
+
+Government members interjecting—
+
+
+
+The SPEAKER:  Members on my right are preventing me from hearing the question. They will cease interjecting, including the Leader of the House and the Deputy Prime Minister. The Leader of the Opposition will repeat his question from the beginning.
+
+
+
+
+Mr SHORTEN:
+  Senator Canavan resigned from cabinet 43 days ago, so why is the Deputy Prime Minister still sitting on your front bench? What is he still doing here?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Deputy Prime Minister</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Turnbull, Malcolm, MP",LP,2017-09-06,"
+
+
+
+Mr TURNBULL
+ (Wentworth—Prime Minister) (14:02):  The honourable member's question has a distinctly familiar ring to it, and I refer him to my earlier answers.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Deputy Prime Minister</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
+"McGowan, Cathy, MP",IND,2017-09-06,"
+
+
+
+Ms McGOWAN
+ (Indi) (14:18):  My question is to the Prime Minister, but I would begin by saying that people in rural Australia actually care about regional higher education. As the Prime Minister knows, our universities play a pivotal role in economic, social and cultural development. They drive our workforce development, they support our population retention and they stimulate innovation. The universities in my electorate, Charles Sturt and La Trobe, together with the Regional Universities Network, have grave concerns about the impact of the government's proposed higher education reform package. They tell me that this package puts at risk their capacity to drive excellence in research and innovation and their ability to deliver quality teaching and learning outcomes—and I share their fears. I'm asking, Prime Minister: can you commit—
+
+
+
+The SPEAKER:  The member for Indi will resume her seat. Unfortunately, there was no question within that 45 seconds.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Fitzgibbon, Joel, MP",ALP,2017-09-06,"
+
+
+
+Mr FITZGIBBON
+ (Hunter) (14:38):  My question is to the Prime Minister. If the Prime Minister is so confident about the outcome in the High Court, why has the Deputy Prime Minister already started campaigning for a New England by-election? And if he knows he's gone, who does the Prime Minister think he's kidding?
+
+
+
+The SPEAKER:  I don't believe that question is in order. I'll go to the next question. The member for Robertson.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Deputy Prime Minister</title>,QUESTIONS WITHOUT NOTICE,8,1,question
+"Smith, Tony, MP",LP,2017-09-06,"
+
+
+
+The SPEAKER
+ (14:56):  The Deputy Prime Minister has the call.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"Joyce, Barnaby, MP",Nats,2017-09-06,"
+
+
+
+Mr JOYCE
+ (New England—Deputy Prime Minister, Minister for Agriculture and Water Resources and Minister for Resources and Northern Australia) (14:56):  Thank you very much, Mr Speaker, and I thank the honourable member for her question. The honourable member would understand what a great outcome it has been for Australian resources, and especially for agricultural resources, that of the percentage point contribution to year-on-year GDP growth of 1.8 per cent, the largest was agriculture. Agriculture has been the standout industry. In fact, under this government we've completely turned around the agricultural outcome of our nation, and that's providing jobs in Rockhampton, in the Fitzroy basin and it's supporting the jobs of the meatworkers. 
+
+
+It's a shame that some would see it as an opportunity to walk away or walk out, but it is also very important for what we are doing in the mining industry. We stand behind the mining industry; we stand behind the coal industry. We believe in labourers; we believe in people who work for a living. This is vitally important. Today we have seen a clear example of where the Labor Party resides as far as coal workers and the coal industry go. The member for Hunter was elbowed out of the way, then he was ruled out, and then the member for Shortland was thrown out. They do not believe in supporting the coal industry; they do not believe in the power industry. They do not come in here and stand up for labourers in this country. They do not stand up for the industry of this nation; they do not have the ticker anymore to stand behind what used to be their constituency. The member for Herbert does not stand behind the coalworkers; The member for Shortland will not stand up for coalworkers; the member for Hunter will not stand up for coalworkers. They've thrown the towel in for workers. The member for Newcastle has refused to go in to bat for coalworkers. They refuse to stand by them. We now see what is happening to power. Under their policy we will see the fiasco of South Australia become the fiasco of Melbourne and Sydney. We will see under their power policy that—
+
+
+
+Mr Rob Mitchell interjecting—
+
+
+
+The SPEAKER:  The member for McEwen is warned.
+
+
+
+
+Mr JOYCE:
+  the lights will stop. They will take our nation's economy to oblivion because of their desire to chase every vote in Balmain and Annandale, but they will never stand up for the people of Cessnock, Townsville and Rockhampton. The Labor Party is completely bereft of any belief they once upon a time had in the labourers of Australia.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Economy</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
 "Burke, Tony, MP",ALP,2017-09-06,"
 
 
@@ -1980,7 +2067,7 @@ There are lots of times when governments of both sides get advice that's strong 
 
 The SPEAKER:  Is the motion seconded?
 
-",HoR,<title>MOTIONS</title>,<title>Deputy Prime Minister</title>,MOTIONS,10,1
+",HoR,<title>MOTIONS</title>,<title>Deputy Prime Minister</title>,MOTIONS,10,1,speech
 "Fitzgibbon, Joel, MP",ALP,2017-09-06,"
 
 
@@ -2022,7 +2109,7 @@ Opposition members interjecting—
 
 The SPEAKER:  The Prime Minister will resume his seat. Members on my left! It's completely disorderly behaviour. I'm trying to state the question. I wouldn't have thought those sitting behind the Manager of Opposition Business would want me to delay stating the question, so the debate can proceed. The question is that the motion moved by the Manager of Opposition Business be agreed to. The Prime Minister.
 
-",HoR,<title>MOTIONS</title>,<title>Deputy Prime Minister</title>,MOTIONS,10,1
+",HoR,<title>MOTIONS</title>,<title>Deputy Prime Minister</title>,MOTIONS,10,1,speech
 "Turnbull, Malcolm, MP",LP,2017-09-06,"
 
 
@@ -2030,7 +2117,117 @@ The SPEAKER:  The Prime Minister will resume his seat. Members on my left! It's 
 Mr TURNBULL
  (Wentworth—Prime Minister) (15:32):  I ask that further questions be placed on the Notice Paper.
 
-",HoR,<title>MOTIONS</title>,<title>Deputy Prime Minister</title>,MOTIONS,10,1
+",HoR,<title>MOTIONS</title>,<title>Deputy Prime Minister</title>,MOTIONS,10,1,speech
+"Turnbull, Malcolm, MP",LP,2017-09-06,"
+
+
+
+Mr TURNBULL
+ (Wentworth—Prime Minister) (15:14):  The House has urgent matters to discuss: energy prices and jobs. We've just heard from the member for Hunter who claims, apparently, that section 44 is the leading topic of conversation in his electorate. I tell you what, I know what the topic is. The topic is why he has abandoned the workers at Liddell, why he has abandoned the workers at Tomago and why he's abandoned the workers who elected him. And it is why this old boy of Cessnock High School, whose magazine is called The Black diamond, has suddenly become 'no coal Joel'. That's what he's up to—
+
+
+
+Government members interjecting—
+
+
+
+The SPEAKER:  The Prime Minister will refer to members by their correct titles.
+
+
+
+
+Mr TURNBULL:
+  We have had in the last two days very, very grave reports from the Australian Energy Market Operator, demonstrating that we face a grave shortage of dispatchable energy in the near term and over the medium term. That is putting jobs at risk and it's putting households under pressure. It is what happens when you have years of mistaken Labor energy policy.
+
+
+
+Opposition members:  Table the advice!
+
+
+
+The SPEAKER:  The Prime Minister will resume his seat for a second. The members for Rankin, Ballarat and Brand will leave under 94(a). The member for Ballarat will leave immediately or she will be named.
+
+
+
+
+The members for Rankin, Ballarat and Brand then left the chamber.
+
+
+
+
+
+Mr TURNBULL:
+  What we've been told by the Australian Energy Market Operator is that the likelihood of a shortfall incident is between 39 and 43 per cent in Victoria and 26 and 33 per cent in South Australia, and that is a consequence of dispatchable power being driven out of the market by renewable energy.
+
+
+Now, renewable energy is becoming more available and it's becoming cheaper, and we are undertaking the largest renewable energy project built in Australia since the first Snowy scheme. So, we don't make any challenge to renewable energy. But one of the things the Labor Party has forgotten is that the sun doesn't shine all the time and the wind doesn't blow all the time. So in their mindless incompetence, in their reckless idiocy, they have proceeded down the track—
+
+
+
+Ms Husar interjecting—
+
+
+
+The SPEAKER:  The member for Lindsay is warned!
+
+
+
+
+Mr TURNBULL:
+  of putting more and more variable renewables into the energy mix and providing no backup and no storage. What about gas as a firming power? That would be good: you could use gas. But, oh no, another great achievement of the Labor Party was that they allowed gas to be exported from the east coast of Australia and, despite many warnings, failed to do anything to protect the domestic market.
+
+
+To be fair, the member for Port Adelaide has made a confession, and better late than never; I think we all agree with that. But it was rather late in coming. When he was on Insiders on 30 April, he was asked by Barrie Cassidy: 'You got plenty of advice when you were in government that the surge in exports would lead to these sorts of problems. You didn't take this action.' 'No,' said the member for Port Adelaide, 'We didn't get that advice.' That was very, very bad because the Labor Party government's own energy white paper said that these transitional pressures will manifest in tighter supply and higher prices.
+
+
+As if that weren't enough, the AEMO's Gas Statement of Opportunities in the same year said, 'This will result in supply shortfalls'. That's exactly what happened. Finally, it all caught up with him and he had to confess to David Speers—not a man of the cloth, not able to give absolution any more than his constituents or Australians will give the Labor Party absolution for their chronic failure in energy policy. Again and again, ideology and idiocy. Why are gas prices so high? Because Labor allowed gas to be exported and didn't protect the domestic market. That's a fact.
+
+
+Who's addressing it? We're addressing it. That's the matter we should be discussing today. That's really urgent. Energy prices are an urgent matter right now. That's what Australian families are talking about. That's what's putting Australian businesses and jobs at risk. And we've been told that AEMO estimates that in 2022 there will be a 1,000 megawatt shortfall in dispatchable energy in the national electricity market. That is a very big gap. That puts at risk jobs, businesses, families. It creates a huge vulnerability for blackouts. Now this is the big difference: we are for affordable and reliable energy; Labor is for blackouts. Labor is for energy shortages. Labor is for the types of outcomes the member for Port Adelaide has got used to in South Australia. He clearly loves being in the dark!
+
+
+
+A government member:  He called it a hiccup.
+
+
+
+
+Mr TURNBULL:
+  That's right; he called it a hiccup. When those hospitals had energy cut-offs, he called it a hiccup. That's all it was. One of the obvious opportunities to cover that 1,000 megawatt gap is to get more life out of existing coal-fired power stations, and Liddell obviously has an opportunity to run for longer—to run past 2022. Now, you would think that this is an obvious opportunity. It has been flagged by Alan Finkel himself as a good avenue to go down, and it has been flagged by AEMO as a prudent approach. It's perfectly obvious that the cheapest coal-fired power is that from existing power stations, so you would think you would get some support for that, particularly from the member for Hunter. But this is what he said: 'not one energy company has shown any interest in the Prime Minister's thought bubble'. Sadly, that turns out to be very quickly out of date. He has denied any opportunity to provide continued employment for the workers at Liddell or, indeed, for the workers at Tomago.
+
+
+
+Mr Fitzgibbon interjecting—
+
+
+
+
+Mr TURNBULL:
+  No, the honourable member can't dig his way out of that. You're deep in the pit, Member for Hunter, right at the bottom. There's risk of a cave-in if you go any further, I can tell you. You are in very deep waters here. The member for Hunter is betraying every member of his electorate who depends on energy, who depends on manufacturing.
+
+
+The Labor Party have walked away from energy security. They have walked away from any attempt to defend the jobs, the occupations of those many workers they claim to represent. And we have the Leader of the Opposition's union, the Australian Workers Union, with lots of miners. The Leader of the Opposition used to represent a lot of miners.
+
+
+
+
+Mr Joyce:
+  Once upon a time.
+
+
+
+
+Mr TURNBULL:
+  He did. He represented them. And then he gave $100,000 of their dues to GetUp! What did GetUp! use the $100,000 for? They used it for a campaign to close down the industries that employed his members. What that tells you is that the Leader of the Opposition, like all of these union bosses, is utterly disconnected from the members he represents. These are the issues we should be discussing. We should be focused today on energy policy, as we have been throughout this question time. And what we've had from the opposition instead are big threats of creating chaos and mayhem in the parliament, a swingeing question time strategy. We felt battered by it over here—it was like being flogged with a wet lettuce!
+
+
+The reality is the Labor Party has failed Australians on energy and now, when we see the result, when the facts are laid out by AEMO, the Labor Party is not prepared to discuss it. Those are the issues we should be discussing. That's why this motion should be rejected. We have urgent matters of energy security to deal with in this House. We should be addressing today the jobs, the businesses, the households of Australia. We can discuss those today. The Labor Party should focus on the real concerns of the people they so dismally represent—the people they claim to represent. (Time expired)
+
+
+
+The SPEAKER:  The time allotted for this debate has concluded. The question is that the motion moved by the Manager of Opposition Business be agreed to. 
+
+",HoR,<title>MOTIONS</title>,<title>Deputy Prime Minister</title>,MOTIONS,10,1,answer
 "Smith, Tony, MP",LP,2017-09-06,"
 
 
@@ -2050,7 +2247,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Burke, Tony, MP",ALP,2017-09-06,"
 
 
@@ -2101,7 +2298,7 @@ The minister will argue that it's all because of national security. I asked abou
 
 What's in front of us here is a proposal that changes who we are as a country. There are lots of countries in the world that have people who are there as permanent residents who become a permanent underclass of noncitizens. Australia has not been that sort of country ever since we got rid of the White Australia policy. We should not go back to being a country with a permanent underclass of noncitizens, a permanent underclass of people who live here their whole lives but are told they will never belong. The welcome note that is read out at every citizenship ceremony when people become Australian citizens used to finish with the words 'welcome home'. The moment this government got into office they took those words back. Let me tell you and let me make it clear: citizenship is meant to be the way we build ourselves as a society, not the way we divide.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Hawke, Alex, MP",LP,2017-09-06,"
 
 
@@ -2168,7 +2365,7 @@ Mr HAWKE:
 
 We also know that we are setting a standard that is in line with the rest of the world in relation to taking the time to get to know someone. It is to the Labor Party's shame that they are politicising this issue. The government stands by its measures. The government stands by making these citizenship requirements stronger, in support of Australian values and making sure that people will come here and integrate and have a high standard of and high proficiency in English.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Burney, Linda, MP",ALP,2017-09-06,"
 
 
@@ -2223,7 +2420,7 @@ Ms BURNEY:
 
 Honourable members interjecting—
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Coulton, Mark (The DEPUTY SPEAKER)",Nats,2017-09-06,"
 
 
@@ -2234,7 +2431,7 @@ The DEPUTY SPEAKER
 Mr Coulton
 ):  Before I call the member for Fisher, I will remind members that it's disorderly to be yelling across the chamber, and I will be treating people accordingly.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Wallace, Andrew, MP",LP,2017-09-06,"
 
 
@@ -2255,7 +2452,7 @@ Mr WALLACE:
 
 I can tell those opposite that people in my electorate of Fisher are cheering these provisions—certainly not everybody, but they are very, very happy that we are putting in stronger provisions. The two greatest lotteries in life are the family to which you are born and the country in which you are born. We are so very fortunate in this country. Many of us were born here, and those who weren't been born here have ended up here, and good luck to them. Those are the two greatest lotteries in life. With Australian citizenship comes so many rights—for example, the right to Medicare—which you lot lied about at the last election, absolutely disgraceful lies—and of course, the right to vote to decide who your next government will be. None of these things should be taken for granted. In other countries around the world, they don't happen. So there are many, many advantages—the ability to serve on juries; that's always a good one. But there's absolutely no doubt that citizenship is undervalued in this country. There's absolutely no doubt. The report that Philip Ruddock and Conchetta Fierravanti-Wells put together showed that citizenship is undervalued. It is well past time that these laws were tightened up. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Owens, Julie, MP",ALP,2017-09-06,"
 
 
@@ -2272,7 +2469,7 @@ The citizenship changes will prevent many, many people from becoming citizens, e
 
 This is outrageous. Let's look at what exactly the rationale for this is. The government says it's about national security, except there's no evidence that these changes would improve national security. There's no request from any of the security agencies at all and none of them put in submissions to the Senate inquiry. There's a claim that it's about improving integration. How does it improve integration? You could have a mum staying at home and looking after children, with a husband who is an Australian citizen and children who are Australian citizens, and, 15, 20 or 25 years later, she still can't pass the English-language test. How does that make us better? How does that improve integration? How does it do that? It doesn't. It is ridiculous. You can see an example in my electorate of a business person who came here on a business visa and set up their business and who probably wouldn't pass the English-language test because it is, in spite of the protestations on the other side, IELTS 6, which is a university-level entrance test. It's administered internationally by a private company. It's used all around the world for universities to test whether a person has the appropriate international-level English. It's not based on Australian language; it's based on an international level; it's designed for university entrants. It effectively puts the requirements for English language in the hands of a foreign company that has built a test for a completely different reason. It makes no sense. It's incredibly unfair. We will be a worse country that is less integrated and less safe because of these changes. It simply does not make any sense and it's profoundly unfair.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Crewther, Chris, MP",LP,2017-09-06,"
 
 
@@ -2307,7 +2504,7 @@ So I put to those opposite that these reforms are entirely appropriate and shoul
 
 Australian citizenship is a privilege. It is important that the Australian public has confidence in our migration and citizenship programs. And it is important that the Australian public can be confident in the commitment of all of our new Australians.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Zappia, Tony, MP",ALP,2017-09-06,"
 
 
@@ -2333,7 +2530,7 @@ It is not a tougher citizenship test or a meaningless values test that makes a g
 
 I will finish on this point: there are about a million Australians who currently do not have citizenship. Most of them don't have it because they are not confident of passing the current test. If you make the test harder, that will mean that even more people will never, ever become Australian citizens.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Howarth, Luke, MP",LP,2017-09-06,"
 
 
@@ -2353,7 +2550,7 @@ Finally, in relation to the unelected AAT, the legislation has also provided the
 
 I tell you what, with this legislation the minister needs to have power to overrule the AAT. The minister is an elected member of parliament, not unelected public servants. They should not have the right to overrule this minister. The Labor Party comes into this place, opposes this legislation and makes political point scoring out of it. I tell you what, people in my electorate support this, and I'm quite happy to sell it at the next election. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Hill, Julian, MP",ALP,2017-09-06,"
 
 
@@ -2422,7 +2619,7 @@ The final point I'd make is that the minister for immigration, if you ring the b
 
 In my view we should send a thankyou note because finally, from the four months of this debate, every non-English-speaking background person, everyone from another country, every migrant and even your own party members, and supporters in the meeting I held in the seat of Chisholm—and people have now quit the Liberal Party over this, people who made the mistake of helping the member for Chisholm get elected and are now helping us—now know what you truly think of them: they're not good enough to be Australians, they're not welcome and they're not wanted. At least the minister for immigration has been honest for once and given people a chance to know where they truly stand with this government.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Sudmalis, Ann, MP",LP,2017-09-06,"
 
 
@@ -2466,7 +2663,7 @@ The DEPUTY SPEAKER
 Mr Irons
 ):  The time allotted for this discussion has now expired.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Citizenship</title>,MATTERS OF PUBLIC IMPORTANCE,12,1,speech
 "Sukkar, Michael, MP",LP,2017-09-06,"
 
 
@@ -2483,7 +2680,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Education Services for Overseas Students (TPS Levies) Amendment Bill 2017</title>,BILLS,15,1
+",HoR,<title>BILLS</title>,<title>Education Services for Overseas Students (TPS Levies) Amendment Bill 2017</title>,BILLS,15,1,speech
 "Robert, Stuart, MP",LP,2017-09-06,"
 
 
@@ -2512,7 +2709,7 @@ The Montreal Protocol on Substances that Deplete the Ozone Layer mandates the ph
 
 Finally, the report also contains the committee's review of two minor treaty actions relating to the OECD G20 conventions, addressing tax evasion by individuals and large multinationals. On behalf of the committee, I commend the report wholeheartedly to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,16,1
+",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,16,1,speech
 "Robert, Stuart, MP",LP,2017-09-06,"
 
 
@@ -2541,7 +2738,7 @@ The Montreal Protocol on Substances that Deplete the Ozone Layer mandates the ph
 
 Finally, the report also contains the committee's review of two minor treaty actions relating to the OECD G20 conventions, addressing tax evasion by individuals and large multinationals. On behalf of the committee, I commend the report wholeheartedly to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,16,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,16,2,speech
 "Irons, Steve (The DEPUTY SPEAKER)",LP,2017-09-06,"
 
 
@@ -2552,7 +2749,7 @@ The DEPUTY SPEAKER
 Mr Irons
 ) (17:19):  The original question was that this bill be now read a second time. To this the honourable member for Jagajaga has moved as an amendment that all words after 'That' be omitted with a view to substituting other words. The question now is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1,speech
 "Van Manen, Bert, MP",LP,2017-09-06,"
 
 
@@ -2575,7 +2772,7 @@ Ultimately, these are the key facts. The Australian Institute of Health and Welf
 
 As a community and as a nation, we have an obligation to provide extra support to help people deal with drug addiction and alcohol issues. The trial is one of five measures announced in the 2017-18 federal budget that aim to better support people into work and ensure this country's welfare system continues to be a viable and secure safety net for those who need it most. This trial has the potential to change the lives of people who, because of drugs, are not able to focus on getting off welfare and becoming active members of our community through work and social participation. I believe that helping jobseekers overcome their substance addiction problems will improve their chances of finding a job and reduce the risk of ongoing welfare dependency. It will also significantly help their families. It will reduce incidents of domestic violence. It will put families in a much stronger financial position. All of those things go to creating a stronger economy where we have strong families that are supported through a difficult period in their lives. This is why I fully support this trial and this bill. This will benefit not only the jobseekers but also their families. Importantly, as I have outlined before, it is consistent with community expectations for the receipt of taxpayer-funded income support. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1,speech
 "King, Madeleine, MP",ALP,2017-09-06,"
 
 
@@ -2631,7 +2828,7 @@ In the short time remaining, I'd like to urge my colleagues opposite to think ab
 
 There is a drug problem in this country; we all admit that. There's a drug problem around the world. We could make people on welfare have no interaction with drugs whatsoever and go and do urine testing so they can receive welfare payments to feed their families, but put yourself in their shoes. How are they going to feel when we treat them in this manner? Are we just going to presume that everyone who isn't able to work is in some way acting incorrectly or not doing the right thing and not trying their best? My greatest objection to this is that it's not really dealing with the drug problem in society; it's just seeking to wrap up a whole lot of mean-spirited, misguided and ill-conceived conceptions about who the people on welfare in this country are and what they want to achieve for their families—and it's not to stay on welfare, and it certainly isn't to go through the ritual humiliation of having to do some kind of drug test so they can feed their families and put food on the table at night. It's a very depressing bill. It has depressed me a lot. I hope the government may reconsider it.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1,speech
 "Coleman, David, MP",LP,2017-09-06,"
 
 
@@ -2678,7 +2875,7 @@ Schedule 14 of this bill outlines allied changes to the so-called reasonable exc
 
 It is a massive public policy area. This is a very substantial and wide-ranging bill, and I commend it to the House.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1,speech
 "Freelander, Mike, MP",ALP,2017-09-06,"
 
 
@@ -2740,7 +2937,7 @@ The bereavement allowance has already been dealt with on multiple levels by mult
 
 In conclusion, this bill demonstrates to me that the government really does not understand addiction at all. People have addictions because they have medical problems. Addiction is a longstanding medical issue in Australia. I went through the time when we had a high incidence of narcotic addictions. We're now seeing amphetamines and ice addictions. We are dealing with people who often have multifactorial medical and social problems. They will not be fixed by this bill. It's an atrocious infliction on people's human rights. It fails to take on any of the advice from the experts who deal with this on a day-to-day basis. It fails to understand how people will be impacted. It fails to acknowledge that people will move from the trial testing sites to other areas. They'll probably walk away from social security because they're so threatened by it. They will certainly turn to crime. And it is likely to save the government very little money at all. This is an atrocious bill. It is a signal to me that the government is out of step with what a humane government should be. I feel that it is really at the bottom of the barrel when it comes to social security benefits.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1,speech
 "Morton, Ben, MP",LP,2017-09-06,"
 
 
@@ -2793,7 +2990,7 @@ I'm in this place to back hardworking, aspirational Australians who want to appl
 
 This bill will deliver a simpler system for people receiving working-age payments, providing greater incentive for people transitioning to work and enforcing stricter compliance. This bill will better support people on welfare with substance-abuse issues. Labor and the Greens must reconsider their opposition to this trial—for goodness sake, this is a trial! It might work. It might fail in some respects, but let's give it a go and learn. Let's not close our minds to an opportunity to provide someone with the support they need and to also provide someone with the intervention they don't know they need. I call on Labor, the Greens and the crossbench members of parliament to support members on this side and pass all parts of this bill.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1,speech
 "Hart, Ross, MP",ALP,2017-09-06,"
 
 
@@ -2849,7 +3046,7 @@ The government remains determined to introduce changes without providing any evi
 
 There are obvious negative outcomes for mental and physical health. The experience in the United Kingdom shows that tougher compliance sanctions have a reverse effect and would increase the risk of participants becoming homeless, with obvious negative outcomes for success in seeking employment. Again, there are obvious negative outcomes for mental and physical health. Self-esteem, relationships and engagement with the labour market will be adversely affected. Further—and I think this is something of significant concern—they say that the strict sanction regimes harm psychological wellbeing and affect a person's ability to secure work in unintended ways, such as distracting their attempts to find secure work by concentrating on compliance alone rather than obtaining the best job available. Again, this government fails. It fails by seeking to decree that people should be in employment. It fails in the sense that it hasn't done the work and it hasn't produced the evidence. It needs to be condemned. This legislation should be opposed.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1,speech
 "Dick, Milton, MP",ALP,2017-09-06,"
 
 
@@ -2990,7 +3187,7 @@ I would be interested to hear what evidence the minister has, because we've seen
 
 We know that this program simply doesn't work. The testing proposal by the government could potentially encourage people to use less-traceable but more harmful drugs, such as synthetic cannabis, or to move to using alcohol, which is not being tested as part of the government's trial—not being tested! I call on the government and the minister to rethink this potentially disastrous policy and to get on with the job of helping people to actually get into work.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1,speech
 "Burney, Linda, MP",ALP,2017-09-06,"
 
 
@@ -3037,7 +3234,7 @@ The government says that it's concerned that the administrative focus of these p
 
 In the last minute or so that I have, I will say as the shadow minister for human services that we have seen the blundering, stumbling way in which this government is handling the social security portfolio. In particular, I refer to the robo-debt debacle, which people will not forget, where people were stigmatised and accused by the government of committing offences and crimes that they had not committed, where the government took no responsibility and the onus of proof was left with those being falsely accused. Labor will stand up for those that need a hand up. Labor will stand up against these draconian, dreadful, cruel attempts to undermine the people in this community that most rely on government, that most rely on us to be able to give them that hand up when they need it. People on welfare are not second-class citizens. They are people like any one of us, who could fall on hard times and, from time to time, need the assistance of government to get them through the day and the night. This bill and these reforms and these changes are draconian. They are unnecessary and they are cruel. I oppose this bill.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1,speech
 "O'Toole, Cathy, MP",ALP,2017-09-06,"
 
 
@@ -3087,7 +3284,7 @@ When you are sick, you should always have access to health care. Where you live 
 
 I want those people that the Turnbull government is neglecting to know that you do matter to the Labor Party, and you matter to me. I will fight for you every minute of every day in this place. I will continue to fight against the Turnbull government's savage cuts. I will continue to fight for real action on drug related issues and not for useless, unfair bills like this one. I will continue to fight against the government's top-hats approach and for hard hats. I will continue to fight for jobs for Townsville. I will continue to fight this government's neglect of our veterans and ex-service personnel. I will continue to fight for aged care, child care and Medicare. And I will do so because Labor actually cares.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1,speech
 "Ryan, Joanne, MP",ALP,2017-09-06,"
 
 
@@ -3113,7 +3310,7 @@ The broader picture here is about sending messages. It's about signalling. It's 
 
 When I look at the drug testing and the ramifications, the worst part is that if those people who are using drugs don't apply for Newstart, or if those people worried about being caught using drugs go off Newstart, the government will walk into this chamber and they'll say, 'Look at the success rate we've got,' because nobody's testing positive. It's a perfect scenario, really! Luckily, on this side of the chamber, we're onto them. Luckily, on this side of the chamber, we know people doing it hard and we know the number of people who have a relative or someone who lives on their street doing it hard. This is not the Howard era; you can't divide this community so neatly anymore. Equity's at a 70-year high. There are more Australians doing it tough, and wages growth is minimal. There are more Australians not looking over their shoulders, being jealous of one another; they're looking at one another, worried about one another.
 
-",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1
+",HoR,<title>BILLS</title>,<title>Social Services Legislation Amendment (Welfare Reform) Bill 2017</title>,BILLS,17,1,speech
 "Irons, Steve (The DEPUTY SPEAKER)",LP,2017-09-06,"
 
 
@@ -3124,7 +3321,7 @@ The DEPUTY SPEAKER
 Mr Irons
 ) (17:19):  The original question was that this bill be now read a second time. To this the honourable member for Jagajaga has moved as an amendment that all words after 'That' be omitted with a view to substituting other words. The question now is that the amendment be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Van Manen, Bert, MP",LP,2017-09-06,"
 
 
@@ -3147,7 +3344,7 @@ Ultimately, these are the key facts. The Australian Institute of Health and Welf
 
 As a community and as a nation, we have an obligation to provide extra support to help people deal with drug addiction and alcohol issues. The trial is one of five measures announced in the 2017-18 federal budget that aim to better support people into work and ensure this country's welfare system continues to be a viable and secure safety net for those who need it most. This trial has the potential to change the lives of people who, because of drugs, are not able to focus on getting off welfare and becoming active members of our community through work and social participation. I believe that helping jobseekers overcome their substance addiction problems will improve their chances of finding a job and reduce the risk of ongoing welfare dependency. It will also significantly help their families. It will reduce incidents of domestic violence. It will put families in a much stronger financial position. All of those things go to creating a stronger economy where we have strong families that are supported through a difficult period in their lives. This is why I fully support this trial and this bill. This will benefit not only the jobseekers but also their families. Importantly, as I have outlined before, it is consistent with community expectations for the receipt of taxpayer-funded income support. I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "King, Madeleine, MP",ALP,2017-09-06,"
 
 
@@ -3203,7 +3400,7 @@ In the short time remaining, I'd like to urge my colleagues opposite to think ab
 
 There is a drug problem in this country; we all admit that. There's a drug problem around the world. We could make people on welfare have no interaction with drugs whatsoever and go and do urine testing so they can receive welfare payments to feed their families, but put yourself in their shoes. How are they going to feel when we treat them in this manner? Are we just going to presume that everyone who isn't able to work is in some way acting incorrectly or not doing the right thing and not trying their best? My greatest objection to this is that it's not really dealing with the drug problem in society; it's just seeking to wrap up a whole lot of mean-spirited, misguided and ill-conceived conceptions about who the people on welfare in this country are and what they want to achieve for their families—and it's not to stay on welfare, and it certainly isn't to go through the ritual humiliation of having to do some kind of drug test so they can feed their families and put food on the table at night. It's a very depressing bill. It has depressed me a lot. I hope the government may reconsider it.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Coleman, David, MP",LP,2017-09-06,"
 
 
@@ -3250,7 +3447,7 @@ Schedule 14 of this bill outlines allied changes to the so-called reasonable exc
 
 It is a massive public policy area. This is a very substantial and wide-ranging bill, and I commend it to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Freelander, Mike, MP",ALP,2017-09-06,"
 
 
@@ -3312,7 +3509,7 @@ The bereavement allowance has already been dealt with on multiple levels by mult
 
 In conclusion, this bill demonstrates to me that the government really does not understand addiction at all. People have addictions because they have medical problems. Addiction is a longstanding medical issue in Australia. I went through the time when we had a high incidence of narcotic addictions. We're now seeing amphetamines and ice addictions. We are dealing with people who often have multifactorial medical and social problems. They will not be fixed by this bill. It's an atrocious infliction on people's human rights. It fails to take on any of the advice from the experts who deal with this on a day-to-day basis. It fails to understand how people will be impacted. It fails to acknowledge that people will move from the trial testing sites to other areas. They'll probably walk away from social security because they're so threatened by it. They will certainly turn to crime. And it is likely to save the government very little money at all. This is an atrocious bill. It is a signal to me that the government is out of step with what a humane government should be. I feel that it is really at the bottom of the barrel when it comes to social security benefits.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Morton, Ben, MP",LP,2017-09-06,"
 
 
@@ -3365,7 +3562,7 @@ I'm in this place to back hardworking, aspirational Australians who want to appl
 
 This bill will deliver a simpler system for people receiving working-age payments, providing greater incentive for people transitioning to work and enforcing stricter compliance. This bill will better support people on welfare with substance-abuse issues. Labor and the Greens must reconsider their opposition to this trial—for goodness sake, this is a trial! It might work. It might fail in some respects, but let's give it a go and learn. Let's not close our minds to an opportunity to provide someone with the support they need and to also provide someone with the intervention they don't know they need. I call on Labor, the Greens and the crossbench members of parliament to support members on this side and pass all parts of this bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Hart, Ross, MP",ALP,2017-09-06,"
 
 
@@ -3421,7 +3618,7 @@ The government remains determined to introduce changes without providing any evi
 
 There are obvious negative outcomes for mental and physical health. The experience in the United Kingdom shows that tougher compliance sanctions have a reverse effect and would increase the risk of participants becoming homeless, with obvious negative outcomes for success in seeking employment. Again, there are obvious negative outcomes for mental and physical health. Self-esteem, relationships and engagement with the labour market will be adversely affected. Further—and I think this is something of significant concern—they say that the strict sanction regimes harm psychological wellbeing and affect a person's ability to secure work in unintended ways, such as distracting their attempts to find secure work by concentrating on compliance alone rather than obtaining the best job available. Again, this government fails. It fails by seeking to decree that people should be in employment. It fails in the sense that it hasn't done the work and it hasn't produced the evidence. It needs to be condemned. This legislation should be opposed.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Dick, Milton, MP",ALP,2017-09-06,"
 
 
@@ -3562,7 +3759,7 @@ I would be interested to hear what evidence the minister has, because we've seen
 
 We know that this program simply doesn't work. The testing proposal by the government could potentially encourage people to use less-traceable but more harmful drugs, such as synthetic cannabis, or to move to using alcohol, which is not being tested as part of the government's trial—not being tested! I call on the government and the minister to rethink this potentially disastrous policy and to get on with the job of helping people to actually get into work.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Burney, Linda, MP",ALP,2017-09-06,"
 
 
@@ -3609,7 +3806,7 @@ The government says that it's concerned that the administrative focus of these p
 
 In the last minute or so that I have, I will say as the shadow minister for human services that we have seen the blundering, stumbling way in which this government is handling the social security portfolio. In particular, I refer to the robo-debt debacle, which people will not forget, where people were stigmatised and accused by the government of committing offences and crimes that they had not committed, where the government took no responsibility and the onus of proof was left with those being falsely accused. Labor will stand up for those that need a hand up. Labor will stand up against these draconian, dreadful, cruel attempts to undermine the people in this community that most rely on government, that most rely on us to be able to give them that hand up when they need it. People on welfare are not second-class citizens. They are people like any one of us, who could fall on hard times and, from time to time, need the assistance of government to get them through the day and the night. This bill and these reforms and these changes are draconian. They are unnecessary and they are cruel. I oppose this bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "O'Toole, Cathy, MP",ALP,2017-09-06,"
 
 
@@ -3659,7 +3856,7 @@ When you are sick, you should always have access to health care. Where you live 
 
 I want those people that the Turnbull government is neglecting to know that you do matter to the Labor Party, and you matter to me. I will fight for you every minute of every day in this place. I will continue to fight against the Turnbull government's savage cuts. I will continue to fight for real action on drug related issues and not for useless, unfair bills like this one. I will continue to fight against the government's top-hats approach and for hard hats. I will continue to fight for jobs for Townsville. I will continue to fight this government's neglect of our veterans and ex-service personnel. I will continue to fight for aged care, child care and Medicare. And I will do so because Labor actually cares.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Ryan, Joanne, MP",ALP,2017-09-06,"
 
 
@@ -3685,7 +3882,7 @@ The broader picture here is about sending messages. It's about signalling. It's 
 
 When I look at the drug testing and the ramifications, the worst part is that if those people who are using drugs don't apply for Newstart, or if those people worried about being caught using drugs go off Newstart, the government will walk into this chamber and they'll say, 'Look at the success rate we've got,' because nobody's testing positive. It's a perfect scenario, really! Luckily, on this side of the chamber, we're onto them. Luckily, on this side of the chamber, we know people doing it hard and we know the number of people who have a relative or someone who lives on their street doing it hard. This is not the Howard era; you can't divide this community so neatly anymore. Equity's at a 70-year high. There are more Australians doing it tough, and wages growth is minimal. There are more Australians not looking over their shoulders, being jealous of one another; they're looking at one another, worried about one another.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,17,2,speech
 "Broadbent, Russell, MP",LP,2017-09-06,"
 
 
@@ -3708,7 +3905,7 @@ Whatever is happening in the utilities across this nation, we are the wealthiest
 
 So I appeal to you tonight: write a note, make a phone call, send an email. It's a call to you to tell your local member so we can act on your behalf. I know the criticisms of Centrelink. So tell us so that we can tell them, so that we can tell our executives, and so that we can help. Because that's what we're here for. We're elected by you to represent you in this place. And we do represent you. We represent all of the people of Australia. The 150 people in this parliament represent this nation. And we want to hear from you. I want to hear from you from my area, too. And so does every other member of parliament.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Energy</title>,ADJOURNMENT,18,1
+",HoR,<title>ADJOURNMENT</title>,<title>Energy</title>,ADJOURNMENT,18,1,speech
 "Ryan, Joanne, MP",ALP,2017-09-06,"
 
 
@@ -3728,7 +3925,7 @@ And it is not just this age group. Then we look at our young people. Just in the
 
 This government needs to take an empathy pill. It needs to stop and think about how it's treating the most vulnerable. They are not a target. Stop dividing this country and start looking after people.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Pensions and Benefits, Youth Jobs PaTH Program</title>",CONSTITUENCY STATEMENTS,20,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Pensions and Benefits, Youth Jobs PaTH Program</title>",CONSTITUENCY STATEMENTS,20,1,speech
 "Hill, Julian, MP",ALP,2017-09-06,"
 
 
@@ -3809,7 +4006,7 @@ An opposition member:  A collector's item.
 Mr HILL:
   That's right. For five minutes, under the previous government, he was the world's first international education minister. But he achieved an unfortunate triple whammy: he was not just the world's first international education minister at a national level, he was done over by the current Prime Minister; when the Prime Minister did over the previous Prime Minister, he was dumped from his ministry. But then in an amazing coincidence the Prime Minister's nemesis, Eric the Dark Lord of Tassie in the other place, did him over on the Senate ticket because he voted for the Prime Minister in the leadership ballot, who then dumped him. So it is amazing—
 
-",HoR,<title>BILLS</title>,"<title>Education Services for Overseas Students (TPS Levies) Amendment Bill 2017, Education Services for Overseas Students Amendment Bill 2017</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Education Services for Overseas Students (TPS Levies) Amendment Bill 2017, Education Services for Overseas Students Amendment Bill 2017</title>",BILLS,21,1,speech
 "Wicks, Lucy (The DEPUTY SPEAKER)",LP,2017-09-06,"
 
 
@@ -3839,7 +4036,7 @@ Mr HILL:
 
 I support this bill as sensible. I call on the minister to take a break from cutting school funding, cutting university funding and jacking up university fees and sort out his department and step up the thinking and support for this critical sector.
 
-",HoR,<title>BILLS</title>,"<title>Education Services for Overseas Students (TPS Levies) Amendment Bill 2017, Education Services for Overseas Students Amendment Bill 2017</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Education Services for Overseas Students (TPS Levies) Amendment Bill 2017, Education Services for Overseas Students Amendment Bill 2017</title>",BILLS,21,1,speech
 "Andrews, Karen, MP",LP,2017-09-06,"
 
 
@@ -3871,7 +4068,7 @@ Bill read a second time.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,"<title>Education Services for Overseas Students (TPS Levies) Amendment Bill 2017, Education Services for Overseas Students Amendment Bill 2017</title>",BILLS,21,1
+",HoR,<title>BILLS</title>,"<title>Education Services for Overseas Students (TPS Levies) Amendment Bill 2017, Education Services for Overseas Students Amendment Bill 2017</title>",BILLS,21,1,speech
 "Hill, Julian, MP",ALP,2017-09-06,"
 
 
@@ -3952,7 +4149,7 @@ An opposition member:  A collector's item.
 Mr HILL:
   That's right. For five minutes, under the previous government, he was the world's first international education minister. But he achieved an unfortunate triple whammy: he was not just the world's first international education minister at a national level, he was done over by the current Prime Minister; when the Prime Minister did over the previous Prime Minister, he was dumped from his ministry. But then in an amazing coincidence the Prime Minister's nemesis, Eric the Dark Lord of Tassie in the other place, did him over on the Senate ticket because he voted for the Prime Minister in the leadership ballot, who then dumped him. So it is amazing—
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Wicks, Lucy (The DEPUTY SPEAKER)",LP,2017-09-06,"
 
 
@@ -3982,7 +4179,7 @@ Mr HILL:
 
 I support this bill as sensible. I call on the minister to take a break from cutting school funding, cutting university funding and jacking up university fees and sort out his department and step up the thinking and support for this critical sector.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "Andrews, Karen, MP",LP,2017-09-06,"
 
 
@@ -4014,7 +4211,7 @@ Bill read a second time.
 
 Ordered that this bill be reported to the House without amendment.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,21,2,speech
 "O'Toole, Cathy, MP",ALP,2017-09-06,"
 
 
@@ -4054,7 +4251,7 @@ Debate adjourned.
 Sitting suspended from 12:22 to 16:00
 
 
-",HoR,<title>COMMITTEES</title>,<title>Select Committee on Regional Development and Decentralisation</title>,COMMITTEES,22,1
+",HoR,<title>COMMITTEES</title>,<title>Select Committee on Regional Development and Decentralisation</title>,COMMITTEES,22,1,speech
 "O'Toole, Cathy, MP",ALP,2017-09-06,"
 
 
@@ -4094,7 +4291,7 @@ Debate adjourned.
 Sitting suspended from 12:22 to 16:00
 
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,22,2,speech
 "Perrett, Graham, MP",ALP,2017-09-06,"
 
 
@@ -4150,7 +4347,7 @@ There are lessons to be learnt from the other countries, particularly the United
 
 It is our responsibility to end modern slavery now. We all have a role to play, whether as consumers, company directors or lawmakers. I'm pleased to support the tabling of this interim report and look forward to the government of Australia leading businesses to embrace the enabling legislation.
 
-",HoR,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,23,1
+",HoR,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,23,1,speech
 "Templeman, Susan, MP",ALP,2017-09-06,"
 
 
@@ -4188,7 +4385,7 @@ Surely this is not too much to ask. The only way Australian consumers can be awa
 
 There are nearly 50 million people estimated to be living in slavery around the world. Two-thirds are in the Asia-Pacific region, and 4,300 of them are in Australia now. I want to thank the committee members for their hearings and work to date, and I look forward to a final report being a blueprint for Australia to truly tackle modern slavery.
 
-",HoR,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,23,1
+",HoR,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,23,1,speech
 "Claydon, Sharon, MP",ALP,2017-09-06,"
 
 
@@ -4243,7 +4440,7 @@ adjourned at
 
  
 
-",HoR,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,23,1
+",HoR,<title>COMMITTEES</title>,"<title>Foreign Affairs, Defence and Trade Joint Committee</title>",COMMITTEES,23,1,speech
 "Perrett, Graham, MP",ALP,2017-09-06,"
 
 
@@ -4299,7 +4496,7 @@ There are lessons to be learnt from the other countries, particularly the United
 
 It is our responsibility to end modern slavery now. We all have a role to play, whether as consumers, company directors or lawmakers. I'm pleased to support the tabling of this interim report and look forward to the government of Australia leading businesses to embrace the enabling legislation.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2,speech
 "Templeman, Susan, MP",ALP,2017-09-06,"
 
 
@@ -4337,7 +4534,7 @@ Surely this is not too much to ask. The only way Australian consumers can be awa
 
 There are nearly 50 million people estimated to be living in slavery around the world. Two-thirds are in the Asia-Pacific region, and 4,300 of them are in Australia now. I want to thank the committee members for their hearings and work to date, and I look forward to a final report being a blueprint for Australia to truly tackle modern slavery.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2,speech
 "Claydon, Sharon, MP",ALP,2017-09-06,"
 
 
@@ -4392,4 +4589,4 @@ adjourned at
 
  
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2,speech

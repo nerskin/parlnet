@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Smith, Tony, MP",LP,2018-10-24,"
 
 
@@ -919,7 +919,7 @@ All Members—5 minutes. each.
 The Committee determined that consideration of this should continue on a future day.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,0,1
+",HoR,<title>COMMITTEES</title>,<title>Selection Committee</title>,COMMITTEES,0,1,speech
 "Smith, Tony, MP",LP,2018-10-24,"
 
 
@@ -1840,7 +1840,7 @@ All Members—5 minutes. each.
 The Committee determined that consideration of this should continue on a future day.
 
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,0,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,0,2,speech
 "Frydenberg, Josh, MP",LP,2018-10-24,"
 
 
@@ -1899,7 +1899,7 @@ Full details of the measure are contained in the explanatory memorandum. I comme
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Strengthening Corporate and Financial Sector Penalties) Bill 2018</title>,BILLS,1,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Strengthening Corporate and Financial Sector Penalties) Bill 2018</title>,BILLS,1,1,speech
 "Chester, Darren, MP",Nats,2018-10-24,"
 
 
@@ -2209,7 +2209,7 @@ I recognise the work the department is doing to improve the way it serves the ve
 
 I will conclude where I started, with a message to all ADF personnel, the veteran community and family members who support them. Thank you for your service.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Veterans</title>,MINISTERIAL STATEMENTS,2,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Veterans</title>,MINISTERIAL STATEMENTS,2,1,speech
 "Rishworth, Amanda, MP",ALP,2018-10-24,"
 
 
@@ -2259,7 +2259,7 @@ Ensuring that our veterans are receiving world-class care and support should be 
 
 In conclusion, as the minister has done, I would like to say thank you to all those who are serving or have served our nation and to those family members who do and have supported them. We ask so much of you, and it's incumbent on this parliament to continue to ensure that we demonstrate our gratitude.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Veterans</title>,MINISTERIAL STATEMENTS,2,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Veterans</title>,MINISTERIAL STATEMENTS,2,1,speech
 "Chester, Darren, MP",Nats,2018-10-24,"
 
 
@@ -2276,7 +2276,7 @@ Question agreed to.
 
 Debate adjourned.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Veterans</title>,MINISTERIAL STATEMENTS,2,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Veterans</title>,MINISTERIAL STATEMENTS,2,1,speech
 "Chester, Darren, MP",Nats,2018-10-24,"
 
 
@@ -2290,7 +2290,7 @@ That the order of the day be referred to the Federation Chamber for debate.
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Veterans</title>,MINISTERIAL STATEMENTS,2,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Veterans</title>,MINISTERIAL STATEMENTS,2,1,speech
 "Chester, Darren, MP",Nats,2018-10-24,"
 
 
@@ -2304,7 +2304,7 @@ That the order of the day be referred to the Federation Chamber for debate.
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Reference to Federation Chamber</title>,MINISTERIAL STATEMENTS,2,2
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Reference to Federation Chamber</title>,MINISTERIAL STATEMENTS,2,2,speech
 "Hastie, Andrew, MP",LP,2018-10-24,"
 
 
@@ -2333,7 +2333,7 @@ During its review of the bills, the committee examined how the proposed legislat
 
 I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Parliamentary Joint Committee on Intelligence and Security</title>,COMMITTEES,3,1
+",HoR,<title>COMMITTEES</title>,<title>Parliamentary Joint Committee on Intelligence and Security</title>,COMMITTEES,3,1,speech
 "Hastie, Andrew, MP",LP,2018-10-24,"
 
 
@@ -2362,7 +2362,7 @@ During its review of the bills, the committee examined how the proposed legislat
 
 I commend the report to the House.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,3,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,3,2,speech
 "Albanese, Anthony, MP",ALP,2018-10-24,"
 
 
@@ -2421,7 +2421,7 @@ I say to the government that that cooperation needs to continue as it moves forw
 
 I commend this bill to the House. I congratulate the government on coming up with a proposal that will, I believe, maintain security while reducing costs. That's a good outcome for the nation.
 
-",HoR,<title>BILLS</title>,<title>Aviation Transport Security Amendment Bill 2018</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Aviation Transport Security Amendment Bill 2018</title>,BILLS,4,1,speech
 "Marino, Nola, MP",LP,2018-10-24,"
 
 
@@ -2465,7 +2465,7 @@ I've looked at the numbers of airports around Australia, and they vary considera
 
 So I commend the bill to the House. As has been said previously, it's supported broadly by the industry. I think a Senate inquiry looked at this bill as well and supported it and recommended its passage. I commend it to the House.
 
-",HoR,<title>BILLS</title>,<title>Aviation Transport Security Amendment Bill 2018</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Aviation Transport Security Amendment Bill 2018</title>,BILLS,4,1,speech
 "Ramsey, Rowan, MP",LP,2018-10-24,"
 
 
@@ -2500,7 +2500,7 @@ So what was that all about? We were chasing down a threat to air safety. The air
 
 So I recognise the work that the minister has done here in allowing for this legislation addressing those concerns that I have. I hope it is going to fit the bill because, as I've said, it will remain up to the regulator how they interpret the legislation. But they can be assured, as can the people of Grey—the people of Port Lincoln and the people of Whyalla—that I will be watching that space very closely to make sure that this legislation is used in a way that does not unduly impact on these airports, does not selectively impact on these airports, to the point of bringing in large cost increases in flights and in seatings and, in the end, threatening the very services that we so desperately need in the country.
 
-",HoR,<title>BILLS</title>,<title>Aviation Transport Security Amendment Bill 2018</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Aviation Transport Security Amendment Bill 2018</title>,BILLS,4,1,speech
 "Dutton, Peter, MP",LP,2018-10-24,"
 
 
@@ -2523,7 +2523,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Aviation Transport Security Amendment Bill 2018</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Aviation Transport Security Amendment Bill 2018</title>,BILLS,4,1,speech
 "Dutton, Peter, MP",LP,2018-10-24,"
 
 
@@ -2540,7 +2540,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Aviation Transport Security Amendment Bill 2018</title>,BILLS,4,1
+",HoR,<title>BILLS</title>,<title>Aviation Transport Security Amendment Bill 2018</title>,BILLS,4,1,speech
 "Albanese, Anthony, MP",ALP,2018-10-24,"
 
 
@@ -2599,7 +2599,7 @@ I say to the government that that cooperation needs to continue as it moves forw
 
 I commend this bill to the House. I congratulate the government on coming up with a proposal that will, I believe, maintain security while reducing costs. That's a good outcome for the nation.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Marino, Nola, MP",LP,2018-10-24,"
 
 
@@ -2643,7 +2643,7 @@ I've looked at the numbers of airports around Australia, and they vary considera
 
 So I commend the bill to the House. As has been said previously, it's supported broadly by the industry. I think a Senate inquiry looked at this bill as well and supported it and recommended its passage. I commend it to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Ramsey, Rowan, MP",LP,2018-10-24,"
 
 
@@ -2678,7 +2678,7 @@ So what was that all about? We were chasing down a threat to air safety. The air
 
 So I recognise the work that the minister has done here in allowing for this legislation addressing those concerns that I have. I hope it is going to fit the bill because, as I've said, it will remain up to the regulator how they interpret the legislation. But they can be assured, as can the people of Grey—the people of Port Lincoln and the people of Whyalla—that I will be watching that space very closely to make sure that this legislation is used in a way that does not unduly impact on these airports, does not selectively impact on these airports, to the point of bringing in large cost increases in flights and in seatings and, in the end, threatening the very services that we so desperately need in the country.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "Dutton, Peter, MP",LP,2018-10-24,"
 
 
@@ -2701,7 +2701,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,4,2,speech
 "O'Toole, Cathy, MP",ALP,2018-10-24,"
 
 
@@ -2742,7 +2742,7 @@ I'm happy to support this bill and subsequently Townsville workers. I only wish 
 
 These entitlements must be paid. I call on those responsible to pay these workers. I will not be threatened or intimidated into silence. I certainly won't be bullied into silence by an out-of-town billionaire. If the former member for Fairfax, Clive Palmer, thinks that he can bully North Queenslanders into silence, then he does not know North Queenslanders very well at all. The former member for Fairfax, Clive Palmer, is trying to revive his political career, like he's trying to raise Titanic II. But he is not fooling anyone. His barrage of advertisements won't work. They are instead a continual and painful reminder to the former QNI workers. Today I am happy to support this bill. I will always support a bill that will benefit workers and—as an extension of that—taxpayers, who will have their valuable tax dollars returned to them.
 
-",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,6,1,speech
 "McBride, Emma, MP",ALP,2018-10-24,"
 
 
@@ -2786,7 +2786,7 @@ In contrast to the abuses seen under this government, a Labor government will pr
 
 We will prevent employers forcing their workers into sham contracting arrangements to avoid direct employment, and we'll work to close the gender pay gap so that women don't work until February each year for free. Labor will address worker exploitation by introducing a national labour hire licensing scheme, reverse the onus of proof for franchisor liability for underpayment of wages and increase penalties for employers and dodgy directors who deliberately avoid paying their employees' entitlements. As I said earlier, Labor is committed to supporting the working people of this country.
 
-",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,6,1,speech
 "Chesters, Lisa, MP",ALP,2018-10-24,"
 
 
@@ -3027,7 +3027,7 @@ If only the government showed this kind of understanding and compassion for all 
 
 Under this government, wages are stagnant, unemployment is stubbornly high—particularly for young workers—and exploitation is rife. There's an increasing level of insecurity at work, meaning that more and more workers, unfortunately, will be turning to the government for FEGs to get their due entitlements—as more and more workers are made redundant and lose their jobs because of unscrupulous, bad behaviour by employers. I urge the government to do more in this space, and to pick up Labor's proposals to make sure we combat illegal phoenixing behaviour. We announced our plans in May last year, and it's about time that the government got on board. I urge the government to support the amendment that is before us and take real action by cracking down on phoenixing behaviour. Don't just look at FEGs. Look at the problem across the board.
 
-",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,6,1,speech
 "Kearney, Ged, MP",ALP,2018-10-24,"
 
 
@@ -3068,7 +3068,7 @@ While we welcome these changes to the act, we are alive to the motivation of thi
 
 These reforms are only a start of the changes that must be made to wind power back from employers to workers, to restore the great imbalance that exists right now. I am proud to be part of Labor, who in government will do a great deal more to restore that balance, because it is that balance that will make people's lives better.
 
-",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,6,1,speech
 "Dick, Milton, MP",ALP,2018-10-24,"
 
 
@@ -3151,7 +3151,7 @@ Ms Henderson:
 Mr DICK:
   they sided with the decision to cut the income of thousands of workers in her electorate. I take the interjection from the member for Corangamite. She's proud of it. She's proud of the fact that she cut the wages of young people and of people working in retail, hospitality and pharmacies. She's proud of it. I'll tell you who is not proud of it, and that's Libby Coker. She is standing up every single day, fighting those cuts. We stand beside Libby Coker. We stand beside her as she takes it to the community in all of those government electorates, because they need to be held to account for the damage and the cuts to wages they've delivered.
 
-",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,6,1,speech
 "Gosling, Luke, MP",ALP,2018-10-24,"
 
 
@@ -3192,7 +3192,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  The debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour, when the member for Solomon can seek continuation. Are there any statements by honourable members?
 
-",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,6,1
+",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,6,1,speech
 "O'Toole, Cathy, MP",ALP,2018-10-24,"
 
 
@@ -3233,7 +3233,7 @@ I'm happy to support this bill and subsequently Townsville workers. I only wish 
 
 These entitlements must be paid. I call on those responsible to pay these workers. I will not be threatened or intimidated into silence. I certainly won't be bullied into silence by an out-of-town billionaire. If the former member for Fairfax, Clive Palmer, thinks that he can bully North Queenslanders into silence, then he does not know North Queenslanders very well at all. The former member for Fairfax, Clive Palmer, is trying to revive his political career, like he's trying to raise Titanic II. But he is not fooling anyone. His barrage of advertisements won't work. They are instead a continual and painful reminder to the former QNI workers. Today I am happy to support this bill. I will always support a bill that will benefit workers and—as an extension of that—taxpayers, who will have their valuable tax dollars returned to them.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "McBride, Emma, MP",ALP,2018-10-24,"
 
 
@@ -3277,7 +3277,7 @@ In contrast to the abuses seen under this government, a Labor government will pr
 
 We will prevent employers forcing their workers into sham contracting arrangements to avoid direct employment, and we'll work to close the gender pay gap so that women don't work until February each year for free. Labor will address worker exploitation by introducing a national labour hire licensing scheme, reverse the onus of proof for franchisor liability for underpayment of wages and increase penalties for employers and dodgy directors who deliberately avoid paying their employees' entitlements. As I said earlier, Labor is committed to supporting the working people of this country.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Chesters, Lisa, MP",ALP,2018-10-24,"
 
 
@@ -3518,7 +3518,7 @@ If only the government showed this kind of understanding and compassion for all 
 
 Under this government, wages are stagnant, unemployment is stubbornly high—particularly for young workers—and exploitation is rife. There's an increasing level of insecurity at work, meaning that more and more workers, unfortunately, will be turning to the government for FEGs to get their due entitlements—as more and more workers are made redundant and lose their jobs because of unscrupulous, bad behaviour by employers. I urge the government to do more in this space, and to pick up Labor's proposals to make sure we combat illegal phoenixing behaviour. We announced our plans in May last year, and it's about time that the government got on board. I urge the government to support the amendment that is before us and take real action by cracking down on phoenixing behaviour. Don't just look at FEGs. Look at the problem across the board.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Kearney, Ged, MP",ALP,2018-10-24,"
 
 
@@ -3559,7 +3559,7 @@ While we welcome these changes to the act, we are alive to the motivation of thi
 
 These reforms are only a start of the changes that must be made to wind power back from employers to workers, to restore the great imbalance that exists right now. I am proud to be part of Labor, who in government will do a great deal more to restore that balance, because it is that balance that will make people's lives better.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Dick, Milton, MP",ALP,2018-10-24,"
 
 
@@ -3642,7 +3642,7 @@ Ms Henderson:
 Mr DICK:
   they sided with the decision to cut the income of thousands of workers in her electorate. I take the interjection from the member for Corangamite. She's proud of it. She's proud of the fact that she cut the wages of young people and of people working in retail, hospitality and pharmacies. She's proud of it. I'll tell you who is not proud of it, and that's Libby Coker. She is standing up every single day, fighting those cuts. We stand beside Libby Coker. We stand beside her as she takes it to the community in all of those government electorates, because they need to be held to account for the damage and the cuts to wages they've delivered.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Gosling, Luke, MP",ALP,2018-10-24,"
 
 
@@ -3683,7 +3683,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  The debate is interrupted in accordance with standing order 43. The debate may be resumed at a later hour, when the member for Solomon can seek continuation. Are there any statements by honourable members?
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,6,2,speech
 "Watts, Tim, MP",ALP,2018-10-24,"
 
 
@@ -3694,7 +3694,63 @@ Mr WATTS
 
 Today, we've witnessed the former Deputy Prime Minister publicly fighting with the current Prime Minister about whether the former Prime Minister should represent Australia at an international forum in Bali. It's all part of a broader fight within the coalition about who's to blame for Wentworth—Malcolm Turnbull, Alan Jones, the member for Dickson, Peta Credlin or the members for Reid and Chisholm. We see on The Australian editorial page, 'The sookening has split the party in its search for a scapegoat'. Like another famously out-of-touch aristocracy, they've learnt nothing and they've forgotten nothing. It hasn't occurred to any of them that the public don't have a horse in these internal Liberal-National fights. They want a government that listens to them—and the government should call an election and give them a chance.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Coalition Government</title>,STATEMENTS BY MEMBERS,7,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Coalition Government</title>,STATEMENTS BY MEMBERS,7,1,speech
+"Shorten, Bill, MP",ALP,2018-10-24,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:01):  My question is to the Prime Minister. This morning the Prime Minister spoke glowingly of his predecessor, Malcolm Turnbull, saying, 'I have no doubt Malcolm will represent Australian government policy and the Australian nation extremely well.' As the Prime Minister clearly thinks so highly of his predecessor, would he please finally tell the Australian people: why is Malcolm Turnbull no longer the Prime Minister of Australia?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Prime Minister</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"Morrison, Scott, MP",LP,2018-10-24,"
+
+
+
+Mr MORRISON
+ (Cook—Prime Minister) (14:02):  I thank the member for his question about the former Prime Minister's attendance at the summit in Bali. Eight weeks ago when I met with President Widodo, he indicated to me that the former Prime Minister had expressed his willingness to attend that summit. This is an important summit, both for Indonesia and more broadly, about the future of our oceans. I was unable to attend that summit because of my other commitments, and we discussed the issue, President Widodo and I, and we thought it would be a good opportunity if the former Prime Minister were able to attend that summit, given their very strong, close working relationship.
+
+
+I will always put the diplomatic and national interest of Australia ahead of any other considerations. What I will do is act in the national interest of Australia, and I look forward to the former Prime Minister being able to represent us on that occasion. The decision was taken weeks and weeks ago. I believe it was the right decision for Australia and I will continue to work constructively with former prime ministers, whether they continue to be in this chamber—the member for Warringah, who's doing a terrific job out there working hard on getting Indigenous children into schools. I was very pleased to welcome the former Prime Minister Julia Gillard to this chamber this week, and I'm very pleased that she has been here today and has been recognised with the unveiling of her portrait here in the House.
+
+
+But I remember this is what was said in Paul Kelly's Triumph and Demise about what two former Prime Ministers thought of the Leader of the Opposition: 'The distrust between Rudd and Shorten was intense and enduring. The Gillard camp was contemptuous of Shorten, considering him weak and duplicitous. Neither side trusted him and neither side revised its view.' How insightful!
+
+
+
+Opposition members interjecting—
+
+
+
+Government members interjecting—
+
+
+
+The SPEAKER:  Members on both sides! The member for Brand! The member for Griffith is warned.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Prime Minister</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
+"McGowan, Cathy, MP",IND,2018-10-24,"
+
+
+
+Ms McGOWAN
+ (Indi) (14:13):  My question is to the Minister for Education. Minister, last week I spoke at the Regional Universities Conference hosted by Southern Cross University. We discussed how regional higher education institutes support workforce development, create jobs and drive regional growth. Education, employment and infrastructure provide the anchors for regional population growth and need to be part of any population policy. Minister, can you give us an update on how regional education will be integral to population policy, and an update on the government's response to the recommendation of the Regions at the ready report for a national regional higher education strategy?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Regional Higher Education</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Tehan, Dan, MP",LP,2018-10-24,"
+
+
+
+Mr TEHAN
+ (Wannon—Minister for Education) (14:14):  I thank the member for her question. She knows, as all members in this House who represent regional and rural electorates know, the importance of regional education to our regions, and not only the importance of education but also the importance of employment and of infrastructure, and, with anything that this government does to help drive population growth into the regions, she can rest assured that education will be central to that, that infrastructure will be central to that and also that employment will be central to that.
+
+
+I advise the member that, currently, there are 400,000 primary and secondary students living in regional, rural and remote Australia. This is compared to around 214,000 tertiary students who are living in the regions. What we want to see is many of those students at the primary and secondary level going on to either a first-class tertiary education or first-class vocational training. That is what we are trying to do, and we know that that will help when it comes to population growth. The Regional Universities Network, the conference at which the member spoke, has estimated that between 60 and 80 per cent of their recent graduates are now currently employed in regional areas. That is proof-positive that, if we can educate our children in the regions, they will stay there and they will be employed there.
+
+
+I was also asked about progress on the Regions at the Ready report. I commend the member for Murray, who chaired that committee. It is an excellent report. It rightly points out that local education and training that is engaged in its community is pivotal to regional development and decentralisation. That's absolutely true. I am looking very closely at the recommendations in that report which are relevant to education, and I will have more to say on those matters. And I know that the relevant minister is also looking at the broader report and will have more to say on that very shortly. It is an important piece of work when it comes to advising the government on what we should be doing to grow our regions in a very sustainable way and in a way which encourages our young to not only look to the capital cities but to look to their own communities as places where they can be educated, where they can go on to build families and where they can go on to be successfully employed. That is what we want to see as a government. I thank the member for her question.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Higher Education: Regional Higher Education</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
 "Smith, Tony, MP",LP,2018-10-24,"
 
 
@@ -3705,7 +3761,7 @@ The SPEAKER
 
 Document made a parliamentary paper in accordance with the resolution agreed to on 28 March 2018.
 
-",HoR,<title>DOCUMENTS</title>,<title>Department of the House of Representatives</title>,DOCUMENTS,12,1
+",HoR,<title>DOCUMENTS</title>,<title>Department of the House of Representatives</title>,DOCUMENTS,12,1,speech
 "Smith, Tony, MP",LP,2018-10-24,"
 
 
@@ -3716,7 +3772,7 @@ The SPEAKER
 
 Document made a parliamentary paper in accordance with the resolution agreed to on 28 March 2018.
 
-",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,12,2
+",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,12,2,speech
 "Smith, Tony, MP",LP,2018-10-24,"
 
 
@@ -3736,7 +3792,7 @@ I call upon those honourable members who approve of the proposed discussion to r
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Albanese, Anthony, MP",ALP,2018-10-24,"
 
 
@@ -3786,7 +3842,7 @@ The government also say, 'We've got money for the Melbourne airport link.' Now, 
 
 When it comes to high-speed rail, of course, there's a billion and a half they're going to announce for a high-speed rail project somewhere—or faster rail, whatever that means—rather than actually getting serious about high-speed rail down the east coast of Australia. The fact is that those opposite are so divided that they're incapable of action. The only thing that's worse than a government that is doing the wrong thing is a government that's actually doing nothing. We see it in this chamber with the failure to back up their own legislation with speakers. We see it with their failure to actually get out there and announce projects that have been announced months ago by the Herald Sun and were included in the budget in six months time. Perhaps it's the case that what they have is investing in the never-never, in 10 and 15 years time, because for a lot of their projects that's exactly what they have done. They have no vision on infrastructure and they have no investment. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Tudge, Alan, MP",LP,2018-10-24,"
 
 
@@ -3848,7 +3904,7 @@ Mr Albanese interjecting—
 Mr TUDGE:
   He raises the NBN. Again, on the NBN, we're delivering more infrastructure, which is transforming the country, to enable people to connect faster. So whether or not you're looking at roads in our big capital cities or rail in our capitals or across the country, whether or not you're looking at mobile blackspots, whether or not you're looking at NBNs, whether or not you're looking at water infrastructure and building dams, we are getting on with the job. We have a very proud record—record expenditure—making the tough decisions, which the member for Grayndler, when he was the infrastructure minister for six long years, could not do. And he'll be the same again, if he's re-elected. 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Owens, Julie, MP",ALP,2018-10-24,"
 
 
@@ -3883,7 +3939,7 @@ I'm really pleased to say that federal Labor are committed to doing something ab
 
 We will invest in what Western Sydney needs. We will give Western Sydney what it needs to flourish. We are the only ones who will do it. Really, you should visit occasionally, Minister.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Broad, Andrew, MP",Nats,2018-10-24,"
 
 
@@ -3975,7 +4031,7 @@ In my patch, we have seen what can happen if a government does want to build thi
 
 The member for Grayndler put up this MPI on the Victorian Labor government's failure to invest in nation-building infrastructure. I've got to say I commend him for putting that up as an MPI. People will make a judgement call in the state of Victoria in a little over a month, and they will say to themselves, 'Why am I sitting in congestion and yet paying money?' They will say to themselves, 'Why couldn't I make a mobile phone call in that country area?' They get nothing. I've got to say: you have a choice, people in Victoria. The people in Victoria have a really clear choice: a government who can deliver for them, which will be the coalition government in Victoria, or a government that will spend their money and deliver nothing, and that will be Daniel Andrews. Throw him out. He's not worthy of it. What people want is taxpayers' money to deliver things, not taxpayers' money spent and still having nothing to show for it.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Zappia, Tony, MP",ALP,2018-10-24,"
 
 
@@ -4010,7 +4066,7 @@ This government simply doesn't get it. Infrastructure funding is an investment. 
 
 Infrastructure is not built with spin, it is built with real dollars. This country has, according to some estimates, an infrastructure deficit of around $800 billion. It is time that this government—the Morrison government—understood what that really means in terms of this government's productivity and so on. We can only be serious about building the infrastructure that this government needs to build if we put the dollars on the table that are needed.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Marino, Nola, MP",LP,2018-10-24,"
 
 
@@ -4054,7 +4110,7 @@ Victorians are sick and tired of this inept, morally bankrupt government ripping
 
 When your ministers don't know where Victoria is and don't know the funding in Victoria, you sit there and say, 'We have a major problem'—we have a major problem with the inability of an inept government to actually do its job. They want to attack Daniel Andrews. Well, let's have a look at the Mernda rail—a $500 million investment in rail in our communities. One of the biggest things that's been happening in the fastest-growing area of Victoria was delivered by a Labor government. It was not delivered under the four years of the Baillieu and Napthine governments. Whenever Victorians vote, think about one thing: every time there is a Liberal government, you get done over on infrastructure, you get done over on hospitals, you get done over on schools and you get done over on social services. This is a government that has spent too much time fighting itself and not fighting for you.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Ramsey, Rowan, MP",LP,2018-10-24,"
 
 
@@ -4083,7 +4139,7 @@ The Regional Growth Fund, it was announced last week, will provide $10 million s
 
 In South Australia, generally, just as I close, the investment in the north-south link through Adelaide is absolutely national infrastructure of vital importance. In case anyone on the other side wasn't listening, there's been a decision by this government to invest in major naval shipbuilding industry in South Australia. If that's not national infrastructure, nothing is. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Gosling, Luke, MP",ALP,2018-10-24,"
 
 
@@ -4103,7 +4159,7 @@ Infrastructure spending in the Northern Territory under those opposite is fallin
 
 I mentioned the Darwin City Deal. There could be many examples of how those opposite are not supporting my electorate, in Darwin and Palmerston, or the rest of the Northern Territory, but I think the Darwin City Deal is the most stark example of this government's failure to invest in nation building infrastructure in the capital of the north. We need that City Deal for Darwin, and Territory businesses are sick and tired of the political game playing. It's been 554 days since it was promised. We know from internal leaks from that side that for the Darwin City Deal they're going to meet the NT government's $100 million with $100 million from the federal government, but it has not been signed. So it's of no use to us. We need the funds, and I call on the Prime Minister to come to Darwin and sign the Darwin City Deal.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "McVeigh, John, MP",LP,2018-10-24,"
 
 
@@ -4138,7 +4194,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  The discussion is now concluded.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,14,1,speech
 "Sukkar, Michael, MP",LP,2018-10-24,"
 
 
@@ -4149,7 +4205,7 @@ Mr SUKKAR
 
 Ordered that the report be made a parliamentary paper.
 
-",HoR,<title>COMMITTEES</title>,<title>Corporations and Financial Services Committee</title>,COMMITTEES,15,1
+",HoR,<title>COMMITTEES</title>,<title>Corporations and Financial Services Committee</title>,COMMITTEES,15,1,speech
 "Sukkar, Michael, MP",LP,2018-10-24,"
 
 
@@ -4160,7 +4216,7 @@ Mr SUKKAR
 
 Ordered that the report be made a parliamentary paper.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,15,2,speech
 "Gosling, Luke, MP",ALP,2018-10-24,"
 
 
@@ -4183,7 +4239,7 @@ Under this government wages are stagnant, and even the business community is sta
 
 In the end, we support the premise and intent of this bill, as we see it. It will benefit employees, and as an extension of that the taxpayers who will have their valuable funds returned to them. There is a growing concern amongst workers in our nation that the federal government has not got their back. That they have been too keen to make sure that the top end of town is looked after, rather than those workers out in our nation who provide for their families and are what makes our country tick. It is the workers of our nation who really need to be supported. It is, obviously, the small- and medium-sized businesses as well that generate employment in our country. We recognise that, but we also recognise that strengthening the penalties for when people—people in positions of power and people in positions of great wealth and influence—take the opportunity to screw their workers out of the entitlements that they're owed it's not good. That is why the Fair Entitlements Guarantee was formed, to ensure that those workers aren't left behind, but we need to strengthen these penalties and, as I have outlined, hopefully, these penalties will send a strong message to those who would seek to subvert what those workers are entitled to. I welcome the bill.
 
-",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,16,1,speech
 "Sharkie, Rebekha, MP",CA,2018-10-24,"
 
 
@@ -4228,7 +4284,7 @@ Mr Wilkie:
 
 The DEPUTY SPEAKER:  The original question was that this bill be now read a second time. To this, the honourable member for Gorton moved as an amendment that all words after 'That' be omitted with the view to substituting other words. The honourable member for Mayo has now moved as an amendment to that amendment that all words after 'the House' be omitted with a view to substituting other words. The question now is that the amendment moved by the honourable member for Mayo to the amendment moved by the member for Gorton be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,16,1,speech
 "Katter, Bob, MP",KAP,2018-10-24,"
 
 
@@ -4275,7 +4331,7 @@ Look at ASIC. There was a sugar mill sold by liquidators for $2 million. A sugar
 
 So we went and did it ourselves. We could only get 39 of the 230 farmers to put up the money. So there were only 39 farmers, and we got a settlement out of court for $23 million. Those incompetents will burn in hell—because I do believe there is a hell, and they're going to be punished somewhere. They sure ain't going to be punished by this place, but they will be punished later on. They got away with their thievery and roguery. They got away with tens of millions of dollars at the expense of the farmers. Were we right? Of course we were right. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,16,1,speech
 "Zappia, Tony, MP",ALP,2018-10-24,"
 
 
@@ -4313,7 +4369,7 @@ To wrap up my comments on this, looking at the issues of additional penalties, n
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,16,1
+",HoR,<title>BILLS</title>,<title>Corporations Amendment (Strengthening Protections for Employee Entitlements) Bill 2018</title>,BILLS,16,1,speech
 "Gosling, Luke, MP",ALP,2018-10-24,"
 
 
@@ -4336,7 +4392,7 @@ Under this government wages are stagnant, and even the business community is sta
 
 In the end, we support the premise and intent of this bill, as we see it. It will benefit employees, and as an extension of that the taxpayers who will have their valuable funds returned to them. There is a growing concern amongst workers in our nation that the federal government has not got their back. That they have been too keen to make sure that the top end of town is looked after, rather than those workers out in our nation who provide for their families and are what makes our country tick. It is the workers of our nation who really need to be supported. It is, obviously, the small- and medium-sized businesses as well that generate employment in our country. We recognise that, but we also recognise that strengthening the penalties for when people—people in positions of power and people in positions of great wealth and influence—take the opportunity to screw their workers out of the entitlements that they're owed it's not good. That is why the Fair Entitlements Guarantee was formed, to ensure that those workers aren't left behind, but we need to strengthen these penalties and, as I have outlined, hopefully, these penalties will send a strong message to those who would seek to subvert what those workers are entitled to. I welcome the bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "Sharkie, Rebekha, MP",CA,2018-10-24,"
 
 
@@ -4381,7 +4437,7 @@ Mr Wilkie:
 
 The DEPUTY SPEAKER:  The original question was that this bill be now read a second time. To this, the honourable member for Gorton moved as an amendment that all words after 'That' be omitted with the view to substituting other words. The honourable member for Mayo has now moved as an amendment to that amendment that all words after 'the House' be omitted with a view to substituting other words. The question now is that the amendment moved by the honourable member for Mayo to the amendment moved by the member for Gorton be agreed to.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "Katter, Bob, MP",KAP,2018-10-24,"
 
 
@@ -4428,7 +4484,7 @@ Look at ASIC. There was a sugar mill sold by liquidators for $2 million. A sugar
 
 So we went and did it ourselves. We could only get 39 of the 230 farmers to put up the money. So there were only 39 farmers, and we got a settlement out of court for $23 million. Those incompetents will burn in hell—because I do believe there is a hell, and they're going to be punished somewhere. They sure ain't going to be punished by this place, but they will be punished later on. They got away with their thievery and roguery. They got away with tens of millions of dollars at the expense of the farmers. Were we right? Of course we were right. (Time expired)
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "Zappia, Tony, MP",ALP,2018-10-24,"
 
 
@@ -4466,7 +4522,7 @@ To wrap up my comments on this, looking at the issues of additional penalties, n
 
 Debate adjourned.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,16,2,speech
 "Keogh, Matt, MP",ALP,2018-10-24,"
 
 
@@ -4489,7 +4545,7 @@ WA has the second-highest incidence of family and domestic violence in our natio
 
 Further to this, recently we debated legislation in this House to ensure that women will not be cross-examined by a family and domestic violence former partner in the Family Court. That commitment and that legislation are very welcome. However, it is unfortunate that, joining these cuts to Safe at Home services, the government has failed to fund legal aid in this regard.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Domestic and Family Violence</title>,ADJOURNMENT,17,1
+",HoR,<title>ADJOURNMENT</title>,<title>Domestic and Family Violence</title>,ADJOURNMENT,17,1,speech
 "Dreyfus, Mark, MP",ALP,2018-10-24,"
 
 
@@ -4500,7 +4556,7 @@ Mr DREYFUS
 
 I commend the Save Kingswood Group, which has worked tirelessly. In my last speech I thanked Simone Hardham, Michael Benjamin and Kevin Poulter. I now thank David Madill and Greg and Linda Jones, who have also worked tirelessly for their community. The proposed amendment to develop Kingswood golf course was rightly abandoned by the City of Kingston, but there may in time be another attempt by the developer to change the planning scheme. My message to them is this: talk to the community that you want to be part of, ask the residents what they want and work with them to get it right. Australia's major cities are littered with developments that overrode the desires of the community they were built in, and in nearly every instance a better option could have been taken. I thank the City of Kingston mayor, Steve Staikos, and all of the Kingston councillors for their ongoing work and understanding of the wishes of the residents. Developers need to get approval only once. It's important that communities and local governments hold them to account to get it right. I'll keep standing beside the residents of Dingley Village to make sure Kingswood golf course remains open space and that any development on it provides services and facilities that benefit this excellent community of Dingley Village.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Isaacs Electorate: Dingley Village</title>,CONSTITUENCY STATEMENTS,19,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Isaacs Electorate: Dingley Village</title>,CONSTITUENCY STATEMENTS,19,1,speech
 "Freelander, Mike, MP",ALP,2018-10-24,"
 
 
@@ -4544,7 +4600,7 @@ We know that high-quality evidence based care can be provided, but this requires
 
 This report is a sound place for the government to start, but I must stress they must start today and they must provide better quality care for older Australians who are in the twilight of their lives. This will benefit us all and is a requirement of a just and caring society.
 
-",HoR,<title>COMMITTEES</title>,<title>Health and Ageing Committee</title>,COMMITTEES,20,1
+",HoR,<title>COMMITTEES</title>,<title>Health and Ageing Committee</title>,COMMITTEES,20,1,speech
 "Mitchell, Rob, MP",ALP,2018-10-24,"
 
 
@@ -4585,7 +4641,7 @@ It wasn't until almost five years later that the government finally addressed so
 
 Whether it is aged-care providers, workers or consumers, the message up till now has been frustratingly consistent. It has been one of reaction or inaction. The Abbott-Turnbull-Morrison government can and should get proactive to ensure that we have an adequately skilled and equipped aged-care workforce to care for our population as they age. While the chaotic and divided Liberals have fought amongst themselves the care of older Australians has been neglected.
 
-",HoR,<title>COMMITTEES</title>,<title>Health and Ageing Committee</title>,COMMITTEES,20,1
+",HoR,<title>COMMITTEES</title>,<title>Health and Ageing Committee</title>,COMMITTEES,20,1,speech
 "Zappia, Tony, MP",ALP,2018-10-24,"
 
 
@@ -4623,7 +4679,7 @@ The other matter of real concern to the committee is the use of restrictive prac
 
 Lastly, I go to the issue of the My Aged Care website, where it ought to clearly highlight the complaints that have been received by a particular facility so that the public, which has the right to know, know how that facility stacks up in comparison to the others. I'm aware that the committee's inquiry will continue with respect to staff ratios. That's a very important matter. I look forward to the evidence and to the report of that inquiry when it's presented to parliament.
 
-",HoR,<title>COMMITTEES</title>,<title>Health and Ageing Committee</title>,COMMITTEES,20,1
+",HoR,<title>COMMITTEES</title>,<title>Health and Ageing Committee</title>,COMMITTEES,20,1,speech
 "Sharkie, Rebekha, MP",CA,2018-10-24,"
 
 
@@ -4652,7 +4708,7 @@ Recommendation 4 of the report calls for the government to do two things in rela
 
 The royal commission is a welcome development, but I will not allow it to be used for an excuse to delay or deter further reforms. The committee report takes great pains to set out the previous reviews and reports carried out by government, the Productivity Commission, the Law Reform Council and various academics and stakeholders. It proves that we have so many good pieces of evidence before us. We need to ensure that action is now. I look forward to the hearing on Friday, and I thank the committee for its work on the report that's before us today.
 
-",HoR,<title>COMMITTEES</title>,<title>Health and Ageing Committee</title>,COMMITTEES,20,1
+",HoR,<title>COMMITTEES</title>,<title>Health and Ageing Committee</title>,COMMITTEES,20,1,speech
 "Falinski, Jason, MP",LP,2018-10-24,"
 
 
@@ -4710,7 +4766,7 @@ The DEPUTY SPEAKER
 Mr Laundy
 ):  There being no further speakers, debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Health and Ageing Committee</title>,COMMITTEES,20,1
+",HoR,<title>COMMITTEES</title>,<title>Health and Ageing Committee</title>,COMMITTEES,20,1,speech
 "Freelander, Mike, MP",ALP,2018-10-24,"
 
 
@@ -4754,7 +4810,7 @@ We know that high-quality evidence based care can be provided, but this requires
 
 This report is a sound place for the government to start, but I must stress they must start today and they must provide better quality care for older Australians who are in the twilight of their lives. This will benefit us all and is a requirement of a just and caring society.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2,speech
 "Mitchell, Rob, MP",ALP,2018-10-24,"
 
 
@@ -4795,7 +4851,7 @@ It wasn't until almost five years later that the government finally addressed so
 
 Whether it is aged-care providers, workers or consumers, the message up till now has been frustratingly consistent. It has been one of reaction or inaction. The Abbott-Turnbull-Morrison government can and should get proactive to ensure that we have an adequately skilled and equipped aged-care workforce to care for our population as they age. While the chaotic and divided Liberals have fought amongst themselves the care of older Australians has been neglected.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2,speech
 "Zappia, Tony, MP",ALP,2018-10-24,"
 
 
@@ -4833,7 +4889,7 @@ The other matter of real concern to the committee is the use of restrictive prac
 
 Lastly, I go to the issue of the My Aged Care website, where it ought to clearly highlight the complaints that have been received by a particular facility so that the public, which has the right to know, know how that facility stacks up in comparison to the others. I'm aware that the committee's inquiry will continue with respect to staff ratios. That's a very important matter. I look forward to the evidence and to the report of that inquiry when it's presented to parliament.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2,speech
 "Sharkie, Rebekha, MP",CA,2018-10-24,"
 
 
@@ -4862,7 +4918,7 @@ Recommendation 4 of the report calls for the government to do two things in rela
 
 The royal commission is a welcome development, but I will not allow it to be used for an excuse to delay or deter further reforms. The committee report takes great pains to set out the previous reviews and reports carried out by government, the Productivity Commission, the Law Reform Council and various academics and stakeholders. It proves that we have so many good pieces of evidence before us. We need to ensure that action is now. I look forward to the hearing on Friday, and I thank the committee for its work on the report that's before us today.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2,speech
 "Falinski, Jason, MP",LP,2018-10-24,"
 
 
@@ -4920,7 +4976,7 @@ The DEPUTY SPEAKER
 Mr Laundy
 ):  There being no further speakers, debate is adjourned and the resumption of the debate will be made an order of the day for the next sitting.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,20,2,speech
 "Aly, Anne, MP",ALP,2018-10-24,"
 
 
@@ -4943,7 +4999,7 @@ Not long after that, she came to visit me in Perth and she spent a weekend with 
 
 So I wanted today to stand up here, acknowledge her and let her know that I think about her every day, that I hope that the national apology on Monday was also meaningful for her as it was for the thousands of other victims and survivors of child sexual abuse, both institutional and non-institutional and that I hope that, as a small gesture that it is, it goes some way to providing all people who have suffered some comfort that we're listening, that we care for you, that we acknowledge you and that you matter.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Gosling, Luke, MP",ALP,2018-10-24,"
 
 
@@ -4972,7 +5028,7 @@ To all victims, survivors, families and support providers, what you have suffere
 
 We must do all that is possible to ensure that what you have suffered never happens again. But it is happening though. Somewhere right now in this country a child is hurting so let us use this week's national apology to urge action. If you suspect a child is hurting, act. If you are a perpetrator, get help now, confess now, apologise now. Do not hurt our young people or anyone. There have been too many young lives irreparably scarred, no more. Let us not see this national apology as a mission accomplished. Let us see it as a call to listen and let us see this national apology as a call to act. 
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Giles, Andrew, MP",ALP,2018-10-24,"
 
 
@@ -4998,7 +5054,7 @@ I want to end by going back to where I started, which was about what this motion
 
 As we seek to do more than simply offer our apologies in this place and put real meaning into our efforts to do justice and to make reparation, let's also think about how authority operates, think about how power operates and make sure that we discharge our obligations to all of those who have suffered and to redouble our efforts to see that nothing like this happens again. 
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Perrett, Graham, MP",ALP,2018-10-24,"
 
 
@@ -5030,7 +5086,7 @@ I acknowledge the work of former Prime Minister Gillard. Her courage and dogged 
 
 It is up to those of us who now walk the halls of parliament to keep up the fight, to maintain the courage and conviction, and to make right the wrongs of the past. An apology is just words unless it is accompanied by conviction to change the future. Monday, just like my first day in this building, will be one that lives with me forever. I hope that it will be one that gives some comfort to victims and survivors.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Hart, Ross, MP",ALP,2018-10-24,"
 
 
@@ -5053,7 +5109,7 @@ We are never going to get a better set of opinions than this royal commission. W
 
 I agree. This is not the time for either governments or institutions to haggle over dollars or to use the legal system to obfuscate and to delay the cause of justice. The words of the apology may not count for anything by themselves to the extent that these words are not matched by action, I respect that sentiment. To the people who have been denied justice for so long, a delayed apology without redress, without action, can seem inadequate. That is why our actions in the implementation of the royal commission, the actions of those who have been placed fairly and squarely in the eye of the royal commission for creating and/or maintaining a culture that did not protect vulnerable children, should be scrutinised so that governments and institutions are held to account. There must be a commitment to action, and a commitment that is renewed and tested regularly. Time will tell as to whether we will be found wanting or not. I commend this motion to the House.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Leigh, Andrew, MP",ALP,2018-10-24,"
 
 
@@ -5103,7 +5159,7 @@ We believe that all survivors should be eligible for redress, including those wh
 
 There are more than 60,000 survivors of institutional sex abuse, and in these short few minutes I have been speaking here I have covered only three tales. It is a tiny fraction of the harm that has been done, but we as a parliament recognise that harm, we apologise as a parliament on behalf of the nation to those who suffered abuse and we vow to do better in the future.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Conroy, Pat, MP",ALP,2018-10-24,"
 
 
@@ -5174,7 +5230,7 @@ This is an important week in confronting a terrible issue. The apology alone, al
 
 I end this speech by noting the fact that I have two young children. As with any parent, they are the most precious things in the world to me. My kids are currently in early education and my daughter goes to school next year. It's every parent's worst nightmare that any harm could come to their child at a school or any other place where trust is placed in others for their care. I end by echoing the words of Ms Gillard in hoping that the apology is a moment when we all commit to doing everything possible to prevent this dreadful systematic abuse of children's trust ever happening again. I repeat the message from the Prime Minister and the Opposition Leader: I am truly sorry for the abuse. I am truly sorry for the abuse. I'm truly sorry that the institutions and the governments did not believe the victims of the abuse and I'm truly sorry that those institutions covered up that abuse.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Sharkie, Rebekha, MP",CA,2018-10-24,"
 
 
@@ -5194,7 +5250,7 @@ In later years, the boys would go to the local high school for their education. 
 
 As the elected member for the area where this occurred, I offer a public apology for this abuse that was permitted to happen and for actions not taken that should have been taken and for your voices not heard. You were under the care of the state and our state failed you; our nation failed you. There is nothing we can do to right the wrongs inflicted but what I can do, to the best of my ability, as a member of parliament is ensure the royal commission recommendations that involve federal government action or involvement are followed through. I pledge to do all I can to make sure the National Redress Scheme helps and not hinders the survivors of those who suffered institutional child abuse. We cannot inflict more trauma on you. You have suffered so much. 
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Ryan, Joanne, MP",ALP,2018-10-24,"
 
 
@@ -5229,7 +5285,7 @@ I want to finish today's contribution, as Marie has asked me to, in a tribute to
 
 Ms Gillard, when she made the announcement, said she couldn't promise that there would be easy days ahead. Thank you for making the time, for taking the days, months and years out of your lives to make the rest of Australia listen. Like everyone in this place, I will commit to making sure that the redress occurs in a timely way, when the victims and the survivors are ready. 
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Hayes, Chris, MP",ALP,2018-10-24,"
 
 
@@ -5292,7 +5348,7 @@ The DEPUTY SPEAKER
 Mr Goodenough
 ):  The question is that the motion be noted. 
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Watts, Tim, MP",ALP,2018-10-24,"
 
 
@@ -5342,7 +5398,7 @@ Whether we are in government or in opposition, regardless of our role in this pl
 
 It is incumbent on all of us in this chamber to continue the hard work and difficult decisions made by people like the former Prime Minister Julia Gillard; my predecessor in Gellibrand in this place, the former Attorney-General Nicola Roxon; and then minister for families, the member for Jagajaga, in their decision to establish the Royal Commission into Institutional Responses to Child Sexual Abuse. They finally said the government would not continue to turn the other cheek, but would shine a spotlight and expose what had been going on for so long. It is incumbent on all of us to follow through on turning the recommendations of the royal commission from words into actions. We must not allow this national apology to be a symbol alone, and I call on my colleagues to turn it into action.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Gee, Andrew, MP",Nats,2018-10-24,"
 
 
@@ -5401,7 +5457,7 @@ Aunty Mary was present for the apology to the stolen generations on 13 February 
 
 The national apology can't take away the immense pain that is felt by victims. Nothing could do that. What the apology does do is let victims of institutional sexual abuse know that we, as a nation, recognise that this happened, that victims are believed and that all Australians are sorry. It also affirms the national commitment to never let it happen again. 
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Lamb, Susan, MP",ALP,2018-10-24,"
 
 
@@ -5427,7 +5483,7 @@ I know that survivors and many others see this national apology as having no rea
 
 Sorry may just be a word, but it means a lot more. It means that finally, as a society, there has been a shift. It means that we are acknowledging the past and we are looking forward. It means that, while we can't undo our society's shameful past, we can do what we can to make the present—and, of course, the future—one that no longer causes pain but, instead, alleviates it.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "McCormack, Michael, MP",Nats,2018-10-24,"
 
 
@@ -5462,7 +5518,7 @@ These stories help motivate the police to take action and the nation to listen. 
 
 The speeches from the Prime Minister and the Leader of the Opposition were a moment of the parliament at its best. I pay tribute to the members for Cook and Maribyrnong for the fine and eloquent words that they said and that they meant. They were real, they were raw, they were emotional speeches. They summed up the view of the parliament and of the people. It only comes because of survivors' courage, thanks to good people seeing evil and speaking up, and thanks to the people being believed. This was a day for bipartisanship such as we saw on Monday. We note the role all parliamentarians have played in establishing the royal commission and, I say again, particularly the former Prime Minister Julia Gillard in exposing the depraved, unimaginable evil and in supporting those who need it in the cities and in the regions. To those in the regions and all around Australia who shared that day on Monday, our message is, again, just this: we believe you, we support you and we earnestly apologise to you.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Brodtmann, Gai, MP",ALP,2018-10-24,"
 
 
@@ -5551,7 +5607,7 @@ In that room, on that day, those boys showed more moral courage and were better 
 
 at the same time. May this never, ever happen again. 
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Gillespie, David, MP",Nats,2018-10-24,"
 
 
@@ -5577,7 +5633,7 @@ Unfortunately, the scourge of paedophilia and child sexual abuse has been in soc
 
 When parents are not there, we have to ensure children are put into the care of responsible people who aren't grooming them and leading them into danger. That's why we have working-with-children checks, which most people are familiar with, but principles of child safety have to be embedded into the governance of every institution—volunteer, community, state, federal, military; you name it—so that these things never happen the way they have happened in the past. The royal commissioners penned many wise words. We all thank the people that worked on the royal commission. It must have been harrowing for them to hear all these reports, but they have put a great body of work together. We have a system in place now. The redress scheme is up and running. It won't fix everyone but it is a great initiative for us as a nation to acknowledge together those that have suffered and to put things in place so that it doesn't happen again.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Ellis, Kate, MP",ALP,2018-10-24,"
 
 
@@ -5603,7 +5659,7 @@ There can never be any justice that can undo those wrongs which have occurred, b
 
 Most significantly, I know that we have passed legislation in this parliament for the National Redress Scheme. We acknowledge that this process, that this apology, does not undo everything that's happened, that there will need to be ongoing support and counselling. We commit to ensuring that the government sees that through. But most of all, I just want to add in my remarks that this has been an incredibly important process, but it doesn't count for anything unless we do absolutely everything in our power to do better for today's children and for tomorrow's children, and to make sure that Australia is a country that stands up and says: 'Not on our watch. Not our children.'
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Hastie, Andrew, MP",LP,2018-10-24,"
 
 
@@ -5620,7 +5676,7 @@ At that time the disciples came to Jesus and asked, ""So who is greatest in the 
 
 Those abusers stand condemned by the Master they profess to follow.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Mitchell, Brian, MP",ALP,2018-10-24,"
 
 
@@ -5667,7 +5723,7 @@ Before I depart, I just want to make mention of the fact that we have thanked Ju
 
 With that, I thank all involved who got us here. It took far too long to get here, but I do wish to commend the role of journalism and journalists in getting us here and thank them for their service.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Dick, Milton, MP",ALP,2018-10-24,"
 
 
@@ -5705,7 +5761,7 @@ Ten thousand Queenslanders are expected to be eligible—5,000 abused in governm
 
 It's events such as these that give great hope for the future. Listening to the heartfelt speeches from my colleagues across the political aisle and across Australia, everyone has in some way been touched and moved by the enormity of what this parliament has dealt with. It is such a privilege to be a member of parliament and to be able to honour, respect, recognise and pay tribute to all of those brave people who came forward, to all of those brave people no-one believed and to all of those brave people that simply suffered in silence. Over the past few days, we have heard the horror stories of the past. Today I reaffirm my pledge in my role as a member of parliament to do everything I can to ensure that the tragic events of the past are not repeated. I commend this motion put before the House and offer my unequivocal support to brave survivors who continue to show tremendous courage to ensure that others do not have to suffer the way they have. Together let's work as one to see that history does not repeat itself. Together we can achieve a better future for all.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Templeman, Susan, MP",ALP,2018-10-24,"
 
 
@@ -5734,7 +5790,7 @@ Institutions, schools, churches, youth organisations of all types have more to d
 
 This royal commission, this apology, reminds us that there are other groups who were victims of abuse, whether it's people who have suffered in the military, people in aged care or people with disabilities. There is so much more for this parliament to do. Saying sorry can't undo what Margaret and Mary and tens of thousands of children experienced. It can't take away the hurt. It can't change the lives that they've led, but I hope it helps their future, our future, as we finally walk alongside them, knowing they have been alone for far too long. And we must be committed, on both sides of this parliament, to doing everything we can to make sure that the shocking, systematic abuse of children isn't allowed to happen again, here or anywhere else.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Marles, Richard, MP",ALP,2018-10-24,"
 
 
@@ -5779,7 +5835,7 @@ The DEPUTY SPEAKER
 Mr Howarth
 ):  I remind all members to use correct titles. Member for Corio, you referred to five members by their Christian names just then. I didn't want to interrupt you.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "O'Toole, Cathy, MP",ALP,2018-10-24,"
 
 
@@ -5811,7 +5867,7 @@ But a sorry without action is meaningless. Right now we cannot guarantee that th
 
 I want to assure the survivors that it is our turn as elected representatives to take the baton now. The survivors have told their stories, the recommendations have been made and they have lobbied very hard for change. There will be no greater recommendations than those made by the royal commission. It is now our responsibility in this place to act. We have the power, we have the authority and we have the responsibility to turn these recommendations into action without caveats and without compromise. I make this commitment and I will work every day in this parliament to ensure that we make the changes that are necessary to protect vulnerable children, to ensure that your efforts and courage have not been in vain, to ensure that no child's voice will not be heard or believed again and to ensure that no child is ever a victim of such horrific abuse.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Thistlethwaite, Matt, MP",ALP,2018-10-24,"
 
 
@@ -5843,7 +5899,7 @@ It's now up to us, to those here in this parliament. It's no longer just about s
 
 We've heard a lot over the last couple of days from parliamentarians about the apology and the words that go with it, but it's now time for action. This parliament now has a moral duty on behalf of those victims, and with future parliaments in mind, not to second guess the royal commission but to get on with implementing the recommendations, to get on with providing justice to those victims and ensuring that we put in place measures so that these actions are never again perpetrated on children in our community. This is a road that we must take. It's time for action on the royal commission's recommendations.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Bird, Sharon, MP",ALP,2018-10-24,"
 
 
@@ -5878,7 +5934,7 @@ That was very important to my constituent, and I personally also want to ensure 
 
 My constituent felt that the apology on Monday was a step forward in breaking down the silos that existed within the life experience of so many people. They felt that yesterday also alleviated the isolation they had felt and, to some extent, some judgement they had felt about the way their lives had gone. For my constituent, in amongst all of those people, they felt completely understood and not judged. There was a sense of belonging. They felt loved and understood and, without any words needing to be spoken, they felt like all the barriers had been removed and that they belonged. I really appreciate the opportunity for my constituent to be there and I'm very proud to be able to put their reflections on the record in this place.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Stanley, Anne, MP",ALP,2018-10-24,"
 
 
@@ -5895,7 +5951,7 @@ I recognise the work of the commissioners and the staff at the royal commission.
 
 Sorry means doing things differently. Sorry means that you don't do it again. Actions speak louder than our words, and we have to make sure that it never happens. It's now time for the institutions to do the right thing and help the healing of those they hurt. They should participate in the Redress Scheme. More importantly, they need to commit themselves to ensuring that this never be allowed to happen again. As many other members have pointed out, abuse of children does not only happen in institutions and it will not have stopped at the release of the royal commission report. We must redouble our efforts and ensure that all children are safe and that they are believed. In closing, I would like to add my voice to that of all of us in this place: we are truly sorry.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Rowland, Michelle, MP",ALP,2018-10-24,"
 
 
@@ -6065,7 +6121,7 @@ The third thing that becomes obvious is that over 62 per cent of all perpetrator
 
 We can't change the past; we can affect the future. I thank the House for the opportunity to talk to these matters.
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
 "Swanson, Meryl, MP",ALP,2018-10-24,"
 
 
@@ -6127,4 +6183,78 @@ Federation Chamber
 
  
 
-",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1
+",HoR,<title>MOTIONS</title>,<title>National Apology to Victims and Survivors of Institutional Child Sexual Abuse</title>,MOTIONS,21,1,speech
+"Elliot, Justine, MP",ALP,2018-10-24,"
+
+
+
+Mrs Elliot
+  asked the Minister representing the Minister for Communications and the Arts, in writing, on 9 May 2018
+
+
+MRS ELLIOT: To ask the Minister representing the Minister for Communications and the Arts—1) In respect of the NBN rollout in the electoral division of Richmond, will the Minister advise a) when the Government will abandon fibre to the node, b) when the Government will commit to providing fibre to the curb for all residents as a minimum technology, c) how the Government will manage the surge of NBN complaints being received by the Telecommunications Industry Ombudsman, d) when the Government will ensure that all NBN customers can receive a speed of 100 megabits per second, and e) how the Government will stem the cost to businesses caused by inefficiencies of the NBN.2) In respect of the electoral division of Richmond, a) how many premises are connected to the NBN (reported separately by suburb), and b) how many premises were connected to the NBN in i) 2014, ii) 2015, iii) 2016, iv) 2017, and v) 2018 (reported separately by suburb).3) How many NBN complaints were received from constituents in the electoral division of Richmond, a) by the Telecommunications Industry Ombudsman, and b) at the office of the Minister for Communications, in i) 2014, ii) 2015, iii) 2016, iv) 2017, and v) 2018, (reported separately by suburb and nature of complaint).
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>NBN Rollout (Question No. 966)</title>,QUESTIONS IN WRITING,22,1,question
+"Fletcher, Paul, MP",LP,2018-10-24,"
+
+
+
+Mr Fletcher:
+  The answer to the honourable member's question is as follows:
+
+
+1)
+
+
+a) NBN Co Limited (NBN Co) is building and operating the network on a commercial basis and at arm's length from the Government in line with the Statement of Expectations, which is available at www.nbnco.com.au/content/dam/nbnco2/documents/soe-shareholder-minister-letter.pdf. NBN Co has flexibility and discretion in operational, technology and network design decisions, and uses the technology best matched to each area in Australia. This approach will see the network finished by 2020 and enable nine out of ten Australians in the fixed line footprint to get access to download speeds of 50 megabits per second (Mbps) or more.
+
+
+b) NBN Co determines which technologies are most cost-effective and should be utilised on an area‑by‑area basis to minimise peak funding, optimise economic returns, and deliver broadband upgrades sooner. Fibre to the curb (FTTC) is being selectively deployed where it is cost-effective and practical to do so from a rollout perspective. When the network is complete, all Australian homes and businesses will have access to a minimum wholesale download speed of 25 Mbps, with nine out of ten users in the fixed line footprint able to access download speeds of 50 Mbps or more. NBN Co's 2019-22 Corporate Plan states it will offer services to 1.4 million premises via FTTC by financial year 2020-21.
+
+
+c) The Telecommunications Industry Ombudsman (TIO) does not record (or report on) complaints it receives from consumers according to electoral division.
+
+
+The TIO's six-month update for July to December 2017 reports that during this period 22,827 complaints were recorded about services delivered over the NBN. The overwhelming majority of these complaints relate to retail service provider issues, such as billing and customer service. Comparing the TIO complaint statistics to the preceding 6 month period, total complaints have declined by 7.75%. 
+
+
+d) The Government is continually working with NBN Co to meet the needs of Australian homes and businesses while ensuring that the network being rolled out is affordable. When the network is complete, all Australian homes and businesses will have access to a minimum wholesale download speed of 25 Mbps, with nine out of ten users in the fixed line footprint able to access download speeds of 50 Mbps or more. This objective is in line with the Statement of Expectations, which is available at www.nbnco.com.au/content/dam/nbnco2/documents/soe-shareholder-minister-letter.pdf. NBN Co advises that it expects 72 per cent of premises will be able to access peak wholesale download speeds of 100 Mbps in 2020. As at 30 June 2018, only 11 per cent of fixed line premises were ordering 100 Mbps services. The Bureau of Communications and Arts Research has also forecasted that the maximum peak bandwidth requirement for 98 per cent of Australian households will be 49 Mbps by 2026. For these reasons, the Government remains confident that the network provided by NBN Co will be fit for purpose.
+
+
+
+e) Recent research shows the benefits to Australian businesses from the rollout of the NBN network. AlphaBeta's report from April 2018 confirms that the rollout helped to drive an estimated $1.2 billion in additional economic activity in 2017 by creating new jobs, new businesses and improving productivity. This impact is expected to increase to an annual impact of $10.4 billion from 2021. NBN Co is continually working to improve service experience for end users and in late 2017 accelerated the launch of products designed to help broadband providers meet business needs.
+
+
+2)
+
+
+a) NBN Co rolls out the network in Service Area Modules (SAM). SAM boundaries do not necessarily align with suburb boundaries so it is not possible to provide this information at the suburb level. For the electorate of Richmond, approximately 32,101 premises were connected to an active NBN service as at 6 September 2018.
+
+
+b) 
+
+
+i) Not comparable as electorate boundaries changed in 2016.
+
+
+ii) Not comparable as electorate boundaries changed in 2016.
+
+
+iii) There were approximately 722 premises connected as at 30 December 2016.
+
+
+iv) There were approximately 19,863 premises connected as at 29 December 2017.
+
+
+v) See answer to 2(a).
+
+
+3)
+
+
+a) See answer to 1(c)
+
+
+b) It is not possible to provide an accurate breakdown as not all constituent letters provide a street address. Analysing correspondence records to determine which letters were complaints and the nature of any complaints would be an unreasonable diversion of resources.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>NBN Rollout (Question No. 966)</title>,QUESTIONS IN WRITING,22,1,answer

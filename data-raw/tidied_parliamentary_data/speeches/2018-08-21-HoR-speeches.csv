@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Hawke, Alex, MP",LP,2018-08-21,"
 
 
@@ -36,7 +36,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Financial Sector Regulation) Bill 2018</title>,BILLS,0,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Financial Sector Regulation) Bill 2018</title>,BILLS,0,1,speech
 "Hawke, Alex, MP",LP,2018-08-21,"
 
 
@@ -53,7 +53,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Financial Sector Regulation) Bill 2018</title>,BILLS,0,1
+",HoR,<title>BILLS</title>,<title>Treasury Laws Amendment (Financial Sector Regulation) Bill 2018</title>,BILLS,0,1,speech
 "Hawke, Alex, MP",LP,2018-08-21,"
 
 
@@ -91,7 +91,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,0,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,0,2,speech
 "Wilson, Josh, MP",ALP,2018-08-21,"
 
 
@@ -105,7 +105,53 @@ It means protections are removed for the Coral Sea, for the Diamantina Fracture 
 
 The national network of marine protected areas that Labor created in partnership with the Australian community established a world-leading framework to ensure our oceans continue to be the life-blood of this planet. That network is critical to maintaining the incredible biodiversity of our oceans and it is critical to the health of our fisheries. That is why Labor is committed to reintroducing that network in full. The only way to make that happen, though, is to change this moth-eaten government.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Marine Protected Areas</title>,STATEMENTS BY MEMBERS,1,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,<title>Marine Protected Areas</title>,STATEMENTS BY MEMBERS,1,1,speech
+"Shorten, Bill, MP",ALP,2018-08-21,"
+
+
+
+Mr SHORTEN
+ (Maribyrnong—Leader of the Opposition) (14:01):  My question is to the Prime Minister: Given that nearly half of his parliamentary colleagues, including seven of his ministers, have today expressed a lack of confidence in the Prime Minister, how can the Prime Minister claim to have any mandate to govern this country?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Turnbull Government</title>,QUESTIONS WITHOUT NOTICE,4,1,question
+"Turnbull, Malcolm, MP",LP,2018-08-21,"
+
+
+
+Mr TURNBULL
+ (Wentworth—Prime Minister) (14:01):  The mandate our government has came from the 2016 election. Remember that? We won and you lost! We're delivering! We're delivering! We're delivering on lower taxes, more jobs and stronger economic growth. We're delivering on lower energy prices, because what we're doing is standing up for the Australian people, who the Labor Party has abandoned. The Labor Party used to claim that it was in favour of giving people a chance to get ahead.
+
+
+
+Dr Aly interjecting—
+
+
+
+
+Mr TURNBULL:
+  They used to believe, member for Cowan, in aspiration—until it became a mystery to her colleague on the front bench.
+
+
+
+Honourable members interjecting—
+
+
+
+
+Mr TURNBULL:
+  The fact of the matter is that we are delivering strong economic growth faster than any of the G7 economies—record jobs growth, lower taxes and more investment in essential services than ever before—and we are turning the corner on energy prices, bringing them down. Labor, on the other hand, wants higher taxes, higher energy prices, less employment, less investment, slower economic growth and lower wages. That would be the consequence of a Labor government.
+
+
+
+
+Mr Conroy:
+  A carcass, swinging in the breeze!
+
+
+
+The SPEAKER:  The member for Shortland is warned! I'm just going to caution members with the obvious caution: the level of noise is far too high. I will take action under 94(a) without warning, if I deem fit. I particularly caution the members for Bendigo, Bass and Braddon.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Turnbull Government</title>,QUESTIONS WITHOUT NOTICE,4,1,answer
 "Shorten, Bill, MP",ALP,2018-08-21,"
 
 
@@ -257,7 +303,7 @@ The SPEAKER:  Is the motion seconded? Or it'll be lapsed.
 Ms Plibersek:
   The motion is seconded, and I reserve my right to speak.
 
-",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1
+",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1,speech
 "Turnbull, Malcolm, MP",LP,2018-08-21,"
 
 
@@ -322,7 +368,7 @@ The alternative that Labor offers us is an abandonment of every principle and va
 
 We are taking action to defend Australian families, get taxes down, electricity prices down, jobs up and investment up—the energetic economic growth that we need which results in higher wages, as we're starting to see. That's our commitment. We're standing up for Australian families, and for the Australian workers that the Leader of the Opposition abandoned in his union career and now abandons in this chamber.
 
-",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1
+",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1,speech
 "Plibersek, Tanya, MP",ALP,2018-08-21,"
 
 
@@ -360,7 +406,7 @@ This is a Frankenstein's monster of a government. It has the face of the member 
 
 We've agreed to keep it to five minutes on each side, so I'm going to end with this: this parliament, this chaos, can only be resolved with an election, because the parliament has no confidence in this Prime Minister. We don't and most of you don't. We are united, we are ready to govern.
 
-",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1
+",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1,speech
 "McCormack, Michael, MP",Nats,2018-08-21,"
 
 
@@ -452,7 +498,7 @@ The SPEAKER:  The member for Parramatta is warned.
 Mr McCORMACK:
   'What an unedifying spectacle that is.' They must think: 'Why are Labor carrying on like this? They should be standing up for the farming communities, standing up for workers, standing up for low energy costs and standing up for workers and families and all the things that are important to Australia.' But they are not. We are, and we will certainly continue to do that. We have got the back of the Prime Minister and the back of the Australian people.
 
-",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1
+",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1,speech
 "Burke, Tony, MP",ALP,2018-08-21,"
 
 
@@ -478,7 +524,7 @@ It is a choice between a man who abandons his principles and one whose views are
 
 The Australian people don't care that you hate Labor, but the Australian people do care that you hold them in contempt. The government show that they hold the Australian people in contempt when people are paying for the division of the government every day. They pay for the division in this government when they pay for the increased costs in health care. They pay for the division in this government when they pay for their increasing energy bills. They pay for the division in this government when they pay for the fact that everything goes up except their wages, and then the government comes here and votes against protecting their penalty rates. This government, under this Prime Minister, lets the Australian people down all the time. Now they've added that they don't just hate the Labor Party; they hate each other too. That's no way to govern this country.
 
-",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1
+",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1,speech
 "Bishop, Julie, MP",LP,2018-08-21,"
 
 
@@ -504,7 +550,7 @@ But, members, the greatest policy failure in a generation on Labor's part—and,
 
 Under the policies of the Turnbull government, we now have the fastest-growing economy in all of the G7. We're growing faster than all the G7 countries. We're growing faster than New Zealand. We're growing faster than South Korea. We have created an environment that has seen 300,000 new jobs created in the last 12 months. That's 1,000 new jobs a day under this government. Unemployment is now 5.3 per cent. That's lower than, say, Canada. It's still too high, but that's why we're working night and day to ensure we can get that unemployment rate down. It's the lowest in six years, but it's going lower. Where does Labor get its inspiration from? It's Venezuela, with higher taxes, higher inflation and lower jobs growth. The coalition stands for the workers.
 
-",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1
+",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1,speech
 "Bowen, Chris, MP",ALP,2018-08-21,"
 
 
@@ -521,7 +567,7 @@ We should remember, as his colleagues remembered today, what this Prime Minister
 
 This is a man without an agenda other than that one-point plan. This is a man who has, as energy prices have risen, in fairness, had many plans. He had the National Energy Guarantee, the clean energy target and the emissions intensity scheme—none of which have survived contact with the enemy. By 'the enemy', I mean those sitting behind him. None of those plans have withstood the scrutiny of the House. They have not even been brought in for a vote, because they have not withstood the scrutiny of his colleagues. This is a man who's big idea was to increase the GST and then allow income taxes. This is a man who has not had the courage of his convictions to follow through with his economic beliefs and put them to the test. The member for Warringah put it well last night as he left the parliament. He said, 'The question now is: what are the principles of the Prime Minister? What are the convictions of this Prime Minister? What does this man stand for?' What an epitaph for this Prime Minister that his predecessor should ask the question: what does he stand for? The answer, of course, is very, very little other than his own survival. Well, his colleagues worked it out today. Thirty-five of his colleagues expressed a view today. They now have the opportunity to vote accordingly. The House now has an opportunity to say what his colleagues said to him today: 'You have stayed too long for any good you have done. The time has come for you to depart.'
 
-",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1
+",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1,speech
 "Morrison, Scott, MP",LP,2018-08-21,"
 
 
@@ -544,7 +590,7 @@ But more important than that, and more important than the strong policies we hav
 
 We have an immigration policy that brings people to this country who want to make a contribution, not take one. We have a policy to ensure that the best form of welfare is a job. We don't think tax is a privilege; we think it is a burden, which should be eased on all of the Australian people who work hard. And, when it comes to our sovereign interests, this side of the House always believes we will decide.
 
-",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1
+",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1,speech
 "Albanese, Anthony, MP",ALP,2018-08-21,"
 
 
@@ -568,7 +614,7 @@ The SPEAKER:  The member for Grayndler will refer to people by their correct tit
 Mr ALBANESE:
   before you get to the crossbenchers or before you get to the National Party. The fact is that, under this Leader of the Opposition, we have been working to have a plan for government. We have put forward economic policy. We've put forward really difficult tax changes under this shadow Treasurer. We've put forward policies to give fairness in the workplace. We've put forward environmental policies. We understand that Australians want nothing more and nothing less than for their kids to have more opportunity in life than they had, and they want them to inherit an environment that's better than the one that we enjoy. But, instead of that true aspiration—which isn't for another yacht; the aspiration of Australians is for their family, for their community and for their country—we've got the selfish attitude of those opposite. Then the Treasurer, at the moment, had the gumption to speak about the 'big stick'. I and the next speaker get to talk every Friday morning, early, and last week I said that the problem was that they were using the big stick on themselves! Well, I was wrong—because now they're using it on each other! And we saw it this morning.
 
-",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1
+",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1,speech
 "Pyne, Christopher, MP",LP,2018-08-21,"
 
 
@@ -621,7 +667,7 @@ The SPEAKER:  The question is that the motion moved by the Leader of the Opposit
 Mr Turnbull:
   I ask that further questions be placed on the Notice Paper.
 
-",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1
+",HoR,<title>MOTIONS</title>,<title>Prime Minister</title>,MOTIONS,5,1,speech
 "Smith, Tony, MP",LP,2018-08-21,"
 
 
@@ -632,7 +678,7 @@ The SPEAKER
 
 Document made a parliamentary paper in accordance with the resolution agreed to on 28 March 2018.
 
-",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 2 of 2018-19</title>,AUDITOR-GENERAL'S REPORTS,6,1
+",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Report No. 2 of 2018-19</title>,AUDITOR-GENERAL'S REPORTS,6,1,speech
 "Smith, Tony, MP",LP,2018-08-21,"
 
 
@@ -652,7 +698,7 @@ I call upon those members who approve of the proposed discussion to rise in thei
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1,speech
 "Butler, Mark, MP",ALP,2018-08-21,"
 
 
@@ -693,7 +739,7 @@ It is a surrender to those new coal ideologues pretending that taxpayers can fun
 
 Households are under enormous pressure with this energy crisis. Businesses are threatened with their viability and thousands of jobs where they provide employment. There have been five attempts in two years by this government to put in place a policy that would help resolve the energy crisis they have presided over, and all have fallen victim to the parlour games of this coalition party room. This minister has tried his guts out. He has worked as hard as any minister. He cannot deliver his backbench, because he has a Prime Minister in charge of this government who has completely lost authority.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1,speech
 "Frydenberg, Josh, MP",LP,2018-08-21,"
 
 
@@ -749,7 +795,7 @@ We're on the side of energy consumers. We're on the side of families. We're on t
 
 I'll leave the final word to Graham Richardson, a doyen of the Labor Party, who said of Labor's energy policy: 'They're playing roulette with people's lives, hurting pensioners and the poor more.' The unions and former Labor ministers have belled the cat on Labor's policy. You'll always pay more for your energy under Labor than you would under the coalition.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1,speech
 "Conroy, Pat, MP",ALP,2018-08-21,"
 
 
@@ -772,7 +818,7 @@ We're now at a ridiculous stage where not only have they surrendered but they wo
 
 This reflects on this government. Energy policy is really the symbol for this government's dysfunction. Five years of infighting. Five years of surrendering any policy principle that gets in the way of holding onto power, just to stop Labor. This is all just to stop Labor, who's got a committed plan to reduce power prices and reduce emissions. This MPI is very important because it symbolises this government's moral bankruptcy. This is a government that will do anything to stay in power, but won't stand up and reduce power prices.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1,speech
 "Price, Melissa, MP",LP,2018-08-21,"
 
 
@@ -798,7 +844,7 @@ The opposition leader wants an emissions intensity scheme but he's too afraid to
 
 Our energy policy will create a more reliable system and introduce a new requirement for more dispatchable power to lower prices and also to avoid those blackouts. We know that if those opposite ever were to grace these couches that they would drive up the price of electricity and they would rob Australians of baseload power to secure preferences for the Greens. We, on this side, are determined to get the price of power down for the mums and dads—my mum, her relations on the East Coast—and we're also determined to support business. And it's only the coalition that can be trusted.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1,speech
 "Kelly, Mike, MP",ALP,2018-08-21,"
 
 
@@ -824,7 +870,7 @@ Gas, of course, is another big issue. As those coal-fired power stations fell ov
 
 We know that renewables will bring those prices down. That's what all the experts say. In fact the ACT is on target to reach 100 per cent renewable energy, and it has the lowest bills in the country. All the analysis has found that renewable energy targets will help soften price rises by increasing competition in the national energy market—I thought you guys were in favour of competition! I also point out that we've talked a lot about Snowy 2.0. The government are threatening it because of its plans to build coal-fired power stations. It says that that long-term commitment of 60 per cent renewable energy by 2040, that it highlights, will reduce energy spot prices in New South Wales by 10.2 per cent. It's the culmination of Snowy 2.0 and renewables that will deliver lower prices. The government needs to listen to the community out there and get its act together. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1,speech
 "O'Brien, Ted, MP",LP,2018-08-21,"
 
 
@@ -856,7 +902,7 @@ Mr TED O'BRIEN:
 
 We now have a plan to ensure that we have more dispatchables coming into the system. We're going to have base load. How good is this? That's why they're silent, because not only did they have a poor track record; they didn't have a plan. The only plan you hear from those opposite is a 50 per cent renewable target. Woo hoo! Drive prices up. Are you serious? This is what we have. The party on the other side wants to jack up not just taxes but also electricity prices. Not only are we ensuring that we'll have dispatchables coming in but we will also ensure that there is a new default mechanism for price. Effectively, it's almost like a recommended retail price, if you like, with serious issues for anyone who breaks that. We're going to have a cop on the beat with the ACCC that they have not seen before, with serious teeth, including the possibility of having to divest those assets.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1,speech
 "Keay, Justine, MP",ALP,2018-08-21,"
 
 
@@ -882,7 +928,7 @@ The experts have been very clear that the best way to lower power prices is to s
 
 Senator Abetz yesterday destroyed the Tasmanian government's position on the National Energy Guarantee. The Prime Minister and Senator Abetz have abandoned Tasmania's renewable energy industry. It is now abundantly clear that the Prime Minister cannot provide the leadership needed to solve his energy crisis.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1,speech
 "Drum, Damian, MP",Nats,2018-08-21,"
 
 
@@ -930,7 +976,7 @@ Mr DRUM:
 
 We understand that some of the plans around here are for just more and more renewables. It's going to make that other mix of the system, which is critical and which is the dispatchable power, even more expensive. There is no way of dodging this. The more you load up the system with renewables for when everything is going well—when the sun is shining and the wind is blowing—the more expensive it's going to be to rely on dispatchable power, whether it's gas-generated or coal-generated, to deliver the power and electricity when it's needed. This is an inescapable fact that the opposition are happy to gloss over because they want to keep sheeting home the fact that renewables are the answer to everything. We're hoping one day renewables will be, but at the moment, they're not. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1,speech
 "Templeman, Susan, MP",ALP,2018-08-21,"
 
 
@@ -965,7 +1011,7 @@ There is a confession by the other side that there is a crisis, and that gives m
 
 Talk to farmers, small businesses, manufacturers, pensioners, single parents and families—they are all struggling. Yet the only plan we have from this government is a plan to talk about themselves. That's all they're doing. We know that, even when something is put in place, this government will put in something that is inadequate. It will not deal with power prices and it will not deal with the issue of climate change. That will be the legacy that this government leaves us.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1,speech
 "Ramsey, Rowan, MP",LP,2018-08-21,"
 
 
@@ -1000,7 +1046,7 @@ The DEPUTY SPEAKER
 Mr Hogan
 ):  The member's time has expired and the time for discussion has expired. I call the minister. 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Energy</title>,MATTERS OF PUBLIC IMPORTANCE,7,1,speech
 "O'Dwyer, Kelly, MP",LP,2018-08-21,"
 
 
@@ -1038,7 +1084,7 @@ Dame Enid suffered from various illnesses and ailments during her life and ultim
 
 I present a copy of my ministerial statement.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,"<title>Lyons, Dame Enid Muriel, AD, GBE</title>",MINISTERIAL STATEMENTS,8,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,"<title>Lyons, Dame Enid Muriel, AD, GBE</title>",MINISTERIAL STATEMENTS,8,1,speech
 "Plibersek, Tanya, MP",ALP,2018-08-21,"
 
 
@@ -1067,7 +1113,7 @@ Throughout her career, she campaigned for equal pay and equality in matters rela
 
 We pay tribute to these trailblazing women today and we try to imagine just how strange and lonely it would have been at times to be the only two women in this place. How different this place would look to Dorothy Tangney and Enid Lyons today—I imagine particularly for Dorothy Tangney, who was for 25 years the only woman in the Labor caucus. How pleased she would be to see that about half of our members today are women. How pleased both of these women would be to see women in leadership positions across major parties and to have seen a female prime minister. None of this could have been achieved without these pioneers, and we honour their achievement and their work today.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,"<title>Lyons, Dame Enid Muriel, AD, GBE</title>",MINISTERIAL STATEMENTS,8,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,"<title>Lyons, Dame Enid Muriel, AD, GBE</title>",MINISTERIAL STATEMENTS,8,1,speech
 "Taylor, Angus, MP",LP,2018-08-21,"
 
 
@@ -1081,7 +1127,7 @@ That the House take note of the document.
 
 Debate adjourned.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,"<title>Lyons, Dame Enid Muriel, AD, GBE</title>",MINISTERIAL STATEMENTS,8,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,"<title>Lyons, Dame Enid Muriel, AD, GBE</title>",MINISTERIAL STATEMENTS,8,1,speech
 "Taylor, Angus, MP",LP,2018-08-21,"
 
 
@@ -1095,7 +1141,7 @@ That the order of the day be referred to the Federation Chamber for debate.
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,"<title>Lyons, Dame Enid Muriel, AD, GBE</title>",MINISTERIAL STATEMENTS,8,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,"<title>Lyons, Dame Enid Muriel, AD, GBE</title>",MINISTERIAL STATEMENTS,8,1,speech
 "Taylor, Angus, MP",LP,2018-08-21,"
 
 
@@ -1109,7 +1155,7 @@ That the order of the day be referred to the Federation Chamber for debate.
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Reference to Federation Chamber</title>,MINISTERIAL STATEMENTS,8,2
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Reference to Federation Chamber</title>,MINISTERIAL STATEMENTS,8,2,speech
 "Goodenough, Ian, MP",LP,2018-08-21,"
 
 
@@ -1132,7 +1178,7 @@ I would like to highlight one of the bills with respect to which the committee i
 
 I would like to conclude by noting that, last week, I was pleased to launch a database containing the committee's reports, developed by the Australasian Legal Information Institute, AustLII, with the support of the University of New South Wales Faculty of Law. While the committee's reports are available on its website, it is very welcome that these reports are now accessible in searchable form as part of AustLII's broad range of online legal materials. I trust that this database will be a valuable resource for all those interested in the committee's work. I thank AustLII for including the committee's reports in their collection. I encourage my fellow members and others to examine the committee's latest scrutiny report to better inform their consideration of proposed legislation. With these comments, I commend the committee's Report 8 of 2018to the chamber.
 
-",HoR,<title>COMMITTEES</title>,<title>Human Rights Committee</title>,COMMITTEES,9,1
+",HoR,<title>COMMITTEES</title>,<title>Human Rights Committee</title>,COMMITTEES,9,1,speech
 "Goodenough, Ian, MP",LP,2018-08-21,"
 
 
@@ -1155,7 +1201,7 @@ I would like to highlight one of the bills with respect to which the committee i
 
 I would like to conclude by noting that, last week, I was pleased to launch a database containing the committee's reports, developed by the Australasian Legal Information Institute, AustLII, with the support of the University of New South Wales Faculty of Law. While the committee's reports are available on its website, it is very welcome that these reports are now accessible in searchable form as part of AustLII's broad range of online legal materials. I trust that this database will be a valuable resource for all those interested in the committee's work. I thank AustLII for including the committee's reports in their collection. I encourage my fellow members and others to examine the committee's latest scrutiny report to better inform their consideration of proposed legislation. With these comments, I commend the committee's Report 8 of 2018to the chamber.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,9,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,9,2,speech
 "Fitzgibbon, Joel, MP",ALP,2018-08-21,"
 
 
@@ -1316,7 +1362,7 @@ Mr Vasta
 Ms Butler:
   I second the amendment and reserve my right to speak.
 
-",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1
+",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1,speech
 "Drum, Damian, MP",Nats,2018-08-21,"
 
 
@@ -1345,7 +1391,7 @@ We also note the proposed farm household allowance supplement will be payable to
 
 The government cannot make it rain—we can't—but we can be there for the farmers when they need us. We don't know when the next drought is going to come. We don't know when the next commodity crisis is going to hit one of our industries. I know that many of our pork farmers right now are going through an oversupply of pork, forcing them into some very perilous financial situations. We don't know how bad that situation is going to get, but, at the moment, we know it's serious. We know that people in the pear industry are struggling to find markets where they can receive payment for their pears that is above the cost of production. These problems are going to be ongoing. It's hard to know about these issues in advance. What we need is a government that understands agriculture and that will be there for those people when they need it, in times of crisis. As the previous member, Mr Fitzgibbon, said, we rely on the agriculture sector to feed us. There's no more honourable or more important industry than the industry that feeds us, so we need to make sure that, as a government, we're there for them. Under the member for New England we were, and under the member for Maranoa we are. We understand that at the core of what the National Party believes in is supporting our farming industries, both in good times and bad. Right now, with the drought hitting a large part of Australia, it's a tough time and we need to be there for them. The amendments we've brought forward into the parliament are going to help us support our farming industry through this tough time.
 
-",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1
+",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1,speech
 "Keay, Justine, MP",ALP,2018-08-21,"
 
 
@@ -1419,7 +1465,7 @@ I also want to put on the parliamentary record my thanks to the teams at Rural B
 
 When it comes to delivering the allowance to struggling farmers, Labor knows that it can and must be done better. This government has gutted Centrelink, causing the delays in accessing the allowance. But Labor will rebuild Centrelink by employing an additional 1,200 properly trained full-time staff. Labor has announced that, in my electorate, an additional 50 Department of Human Services officers will be employed to give further support. Those officers will visit regional communities so that clients, such as our farmers, can get access to the support they need. I commend Labor for doing that, and I trust that this government will follow suit. But we will sit here and wait a long time for that to happen.
 
-",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1
+",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1,speech
 "Broad, Andrew, MP",Nats,2018-08-21,"
 
 
@@ -1490,7 +1536,7 @@ We should also encourage an input-only insurance product. So if they're running 
 
 To our farmers out there: we hear you and we're standing by you. To our farming families and those women out there in Australia, we pay tribute to you. It'll rain again and we'll be helping you until it does.
 
-",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1
+",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1,speech
 "Kelly, Mike, MP",ALP,2018-08-21,"
 
 
@@ -1537,7 +1583,7 @@ I'm not going to sit by and tolerate that. I call on the member for Groom to ple
 
 So let's make this a bipartisan approach to dealing with this crisis. Let's accept the second reading amendment that my colleague has proposed to make this more effective, in the immediate assistance the farmers need. But let's get serious, let's get real, about the true story behind all of this—effective policy on climate change—and not the circus we've seen over these last 10 years of climate change wars. It's got to end. 
 
-",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1
+",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1,speech
 "Sharkie, Rebekha, MP",CA,2018-08-21,"
 
 
@@ -1560,7 +1606,7 @@ The government's proposals in this bill are long overdue and they will provide a
 
 I support the passage of this legislation. The measures will provide some short-term relief for Australia's farmers, and that is important. More important is the government standing up for rural Australia and meaningfully addressing the real issues that are forcing families that have worked on the land for generations to sell their farms. 
 
-",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1
+",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1,speech
 "Gee, Andrew, MP",Nats,2018-08-21,"
 
 
@@ -1610,7 +1656,7 @@ All around the central west there are many, many stories of the community pullin
 
 This legislation is important legislation. I support the legislation, but there is more work to do, and we need to be doing everything we can to ramp up drought support, because more relief and assistance measures are going to be needed. This drought shows no sign of breaking any time soon, and we need to keep ramping it up and supporting the farmers who have supported us through lean economic times recently. We need to now have their backs and support them.
 
-",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1
+",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1,speech
 "Burney, Linda, MP",ALP,2018-08-21,"
 
 
@@ -1657,7 +1703,7 @@ As my colleague, the member for Hunter, has so rightly pointed out, this drought
 
 I finish by once again reiterating that this is not charity. This is not a handout. This is assistance that you as a farmer have a right to, and it is a temporary measure, so please access it. I know that there is pride involved. I know that many farmers are not used to this kind of process. I know that it is a difficult process, but it is your right.
 
-",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1
+",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1,speech
 "Chesters, Lisa, MP",ALP,2018-08-21,"
 
 
@@ -1722,7 +1768,7 @@ Why aren't we making the process easier for people trying to access home-care pa
 
 If we truly want to be a country that has a strong agricultural sector that continues to export our agricultural produce, whether it be the base commodity or the value-added product, then we do need to get serious about national drought policy. We do need to do all that we can to support our farmers, our agricultural communities and the associated industries so that the effects of droughts can be reduced as much as possible. Congratulations to those who are doing well and are supporting others. As other speakers have done, I encourage those who need assistance to seek help.
 
-",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1
+",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1,speech
 "Joyce, Barnaby, MP",Nats,2018-08-21,"
 
 
@@ -1778,7 +1824,7 @@ Right now, instead of using lucerne and other fodder from southern Australia, we
 
 In closing, I support the farm household allowance. I have been involved with it in its former iterations. But this is a national crisis. We must treat it as a national crisis and we must be bold enough and brave enough to go forward and use the resources that are at our disposal to deal with it as a national crisis.
 
-",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1
+",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1,speech
 "Coulton, Mark, MP",Nats,2018-08-21,"
 
 
@@ -1840,7 +1886,7 @@ Mr Dick:
 Mr COULTON:
   I withdraw that. What I will say is that I'm not going to talk to the member for Eden-Monaro about matters military, which he knows about—I do withdraw what I said—but I will not sit here and listen to one of his patronising speeches, telling my farmers that they need to somehow have a program delivered from that side of parliament to adapt to climate change, because they damn well know what they're doing. They'll get through this and Australia will continue to lead the way in production and will continue to lead the way in agriculture. These changes to the household support that we're debating tonight will help them get through that particularly difficult time.
 
-",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1
+",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1,speech
 "Marino, Nola, MP",LP,2018-08-21,"
 
 
@@ -1854,7 +1900,7 @@ As a farmer, I know that the one thing we can't control, no matter how much we d
 
 I'm particularly pleased to see increased support through the Rural Financial Counselling Service. They do an amazing job. They support these families in so many simple ways. I encourage every family out there: please access and use this service. At this time, you actually need these supports and services. Please take the supports that are there. I'm very pleased to see the feed that is being donated from Western Australia, mostly out of the member for O'Connor's electorate. I see the road trains. Apparently, around 20 road trains have donated hay from WA. Two thousand large square bales were in many ways delivered by the Rapid Relief Team, but often the truck drivers donate their time. They donate their time to bring the feed across to the farmers in New South Wales. I know that the farmers will be extremely grateful to receive every truckload of feed that arrives in New South Wales.
 
-",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1
+",HoR,<title>BILLS</title>,<title>Farm Household Support Amendment (Temporary Measures) Bill 2018</title>,BILLS,10,1,speech
 "Fitzgibbon, Joel, MP",ALP,2018-08-21,"
 
 
@@ -2015,7 +2061,7 @@ Mr Vasta
 Ms Butler:
   I second the amendment and reserve my right to speak.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Drum, Damian, MP",Nats,2018-08-21,"
 
 
@@ -2044,7 +2090,7 @@ We also note the proposed farm household allowance supplement will be payable to
 
 The government cannot make it rain—we can't—but we can be there for the farmers when they need us. We don't know when the next drought is going to come. We don't know when the next commodity crisis is going to hit one of our industries. I know that many of our pork farmers right now are going through an oversupply of pork, forcing them into some very perilous financial situations. We don't know how bad that situation is going to get, but, at the moment, we know it's serious. We know that people in the pear industry are struggling to find markets where they can receive payment for their pears that is above the cost of production. These problems are going to be ongoing. It's hard to know about these issues in advance. What we need is a government that understands agriculture and that will be there for those people when they need it, in times of crisis. As the previous member, Mr Fitzgibbon, said, we rely on the agriculture sector to feed us. There's no more honourable or more important industry than the industry that feeds us, so we need to make sure that, as a government, we're there for them. Under the member for New England we were, and under the member for Maranoa we are. We understand that at the core of what the National Party believes in is supporting our farming industries, both in good times and bad. Right now, with the drought hitting a large part of Australia, it's a tough time and we need to be there for them. The amendments we've brought forward into the parliament are going to help us support our farming industry through this tough time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Keay, Justine, MP",ALP,2018-08-21,"
 
 
@@ -2118,7 +2164,7 @@ I also want to put on the parliamentary record my thanks to the teams at Rural B
 
 When it comes to delivering the allowance to struggling farmers, Labor knows that it can and must be done better. This government has gutted Centrelink, causing the delays in accessing the allowance. But Labor will rebuild Centrelink by employing an additional 1,200 properly trained full-time staff. Labor has announced that, in my electorate, an additional 50 Department of Human Services officers will be employed to give further support. Those officers will visit regional communities so that clients, such as our farmers, can get access to the support they need. I commend Labor for doing that, and I trust that this government will follow suit. But we will sit here and wait a long time for that to happen.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Broad, Andrew, MP",Nats,2018-08-21,"
 
 
@@ -2189,7 +2235,7 @@ We should also encourage an input-only insurance product. So if they're running 
 
 To our farmers out there: we hear you and we're standing by you. To our farming families and those women out there in Australia, we pay tribute to you. It'll rain again and we'll be helping you until it does.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Kelly, Mike, MP",ALP,2018-08-21,"
 
 
@@ -2236,7 +2282,7 @@ I'm not going to sit by and tolerate that. I call on the member for Groom to ple
 
 So let's make this a bipartisan approach to dealing with this crisis. Let's accept the second reading amendment that my colleague has proposed to make this more effective, in the immediate assistance the farmers need. But let's get serious, let's get real, about the true story behind all of this—effective policy on climate change—and not the circus we've seen over these last 10 years of climate change wars. It's got to end. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Sharkie, Rebekha, MP",CA,2018-08-21,"
 
 
@@ -2259,7 +2305,7 @@ The government's proposals in this bill are long overdue and they will provide a
 
 I support the passage of this legislation. The measures will provide some short-term relief for Australia's farmers, and that is important. More important is the government standing up for rural Australia and meaningfully addressing the real issues that are forcing families that have worked on the land for generations to sell their farms. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Gee, Andrew, MP",Nats,2018-08-21,"
 
 
@@ -2309,7 +2355,7 @@ All around the central west there are many, many stories of the community pullin
 
 This legislation is important legislation. I support the legislation, but there is more work to do, and we need to be doing everything we can to ramp up drought support, because more relief and assistance measures are going to be needed. This drought shows no sign of breaking any time soon, and we need to keep ramping it up and supporting the farmers who have supported us through lean economic times recently. We need to now have their backs and support them.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Burney, Linda, MP",ALP,2018-08-21,"
 
 
@@ -2356,7 +2402,7 @@ As my colleague, the member for Hunter, has so rightly pointed out, this drought
 
 I finish by once again reiterating that this is not charity. This is not a handout. This is assistance that you as a farmer have a right to, and it is a temporary measure, so please access it. I know that there is pride involved. I know that many farmers are not used to this kind of process. I know that it is a difficult process, but it is your right.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Chesters, Lisa, MP",ALP,2018-08-21,"
 
 
@@ -2421,7 +2467,7 @@ Why aren't we making the process easier for people trying to access home-care pa
 
 If we truly want to be a country that has a strong agricultural sector that continues to export our agricultural produce, whether it be the base commodity or the value-added product, then we do need to get serious about national drought policy. We do need to do all that we can to support our farmers, our agricultural communities and the associated industries so that the effects of droughts can be reduced as much as possible. Congratulations to those who are doing well and are supporting others. As other speakers have done, I encourage those who need assistance to seek help.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Joyce, Barnaby, MP",Nats,2018-08-21,"
 
 
@@ -2477,7 +2523,7 @@ Right now, instead of using lucerne and other fodder from southern Australia, we
 
 In closing, I support the farm household allowance. I have been involved with it in its former iterations. But this is a national crisis. We must treat it as a national crisis and we must be bold enough and brave enough to go forward and use the resources that are at our disposal to deal with it as a national crisis.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Coulton, Mark, MP",Nats,2018-08-21,"
 
 
@@ -2539,7 +2585,7 @@ Mr Dick:
 Mr COULTON:
   I withdraw that. What I will say is that I'm not going to talk to the member for Eden-Monaro about matters military, which he knows about—I do withdraw what I said—but I will not sit here and listen to one of his patronising speeches, telling my farmers that they need to somehow have a program delivered from that side of parliament to adapt to climate change, because they damn well know what they're doing. They'll get through this and Australia will continue to lead the way in production and will continue to lead the way in agriculture. These changes to the household support that we're debating tonight will help them get through that particularly difficult time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Marino, Nola, MP",LP,2018-08-21,"
 
 
@@ -2553,7 +2599,7 @@ As a farmer, I know that the one thing we can't control, no matter how much we d
 
 I'm particularly pleased to see increased support through the Rural Financial Counselling Service. They do an amazing job. They support these families in so many simple ways. I encourage every family out there: please access and use this service. At this time, you actually need these supports and services. Please take the supports that are there. I'm very pleased to see the feed that is being donated from Western Australia, mostly out of the member for O'Connor's electorate. I see the road trains. Apparently, around 20 road trains have donated hay from WA. Two thousand large square bales were in many ways delivered by the Rapid Relief Team, but often the truck drivers donate their time. They donate their time to bring the feed across to the farmers in New South Wales. I know that the farmers will be extremely grateful to receive every truckload of feed that arrives in New South Wales.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,10,2,speech
 "Owens, Julie, MP",ALP,2018-08-21,"
 
 
@@ -2588,7 +2634,7 @@ People in my electorate have been raising this issue with me and raising their c
 
 We are better than this. Our community is successful because of its very nature—its vibrancy and its multicultural roots. In Parramatta, 99,444 people were born overseas. That's 53.4 per cent. Their country of birth may not have been Australia, but their country of choice is. We are Australians. We speak English, Arabic, Mandarin, Cantonese, Hindi, Tamil, Punjabi, Korean or one of the many other languages of the world but we are one people. If we stick together, if we support each other, we will be stronger together. My community rocks.
 
-",HoR,<title>ADJOURNMENT</title>,<title>Parramatta Electorate: Migration</title>,ADJOURNMENT,11,1
+",HoR,<title>ADJOURNMENT</title>,<title>Parramatta Electorate: Migration</title>,ADJOURNMENT,11,1,speech
 "Hart, Ross, MP",ALP,2018-08-21,"
 
 
@@ -2611,7 +2657,7 @@ The fact that our maritime workforce is relatively high paid, therefore increasi
 
 This government, either through benign neglect or ideological reasons, has hastened the decline of the Australian coastal shipping industry. Every Australian should support proper labour market testing for Australian seafaring jobs. Shipping companies should not reflag their vessels under flags of convenience in order to lower their marginal costs. This process will only hasten the decline of our maritime industry, an industry that should be supported.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Maritime Industry</title>,CONSTITUENCY STATEMENTS,13,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,<title>Maritime Industry</title>,CONSTITUENCY STATEMENTS,13,1,speech
 "Giles, Andrew, MP",ALP,2018-08-21,"
 
 
@@ -2643,7 +2689,7 @@ There are complex reasons which underpin that, and they go to the complex intera
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,<title>Intergenerational Welfare Dependence Committee</title>,COMMITTEES,14,1
+",HoR,<title>COMMITTEES</title>,<title>Intergenerational Welfare Dependence Committee</title>,COMMITTEES,14,1,speech
 "Giles, Andrew, MP",ALP,2018-08-21,"
 
 
@@ -2675,7 +2721,7 @@ There are complex reasons which underpin that, and they go to the complex intera
 
 Debate adjourned.
 
-",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,14,2
+",HoR,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,14,2,speech
 "Coulton, Mark, MP",Nats,2018-08-21,"
 
 
@@ -2704,7 +2750,7 @@ Finally, I would like to highlight recent government initiatives to ensure forei
 
 Question agreed to.
 
-",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Investment Statement 2018</title>,MINISTERIAL STATEMENTS,15,1
+",HoR,<title>MINISTERIAL STATEMENTS</title>,<title>Investment Statement 2018</title>,MINISTERIAL STATEMENTS,15,1,speech
 "Albanese, Anthony, MP",ALP,2018-08-21,"
 
 
@@ -2745,4 +2791,38 @@ When the government changes, the country changes.
 
 Mr Keating had it half right: incoming governments do attempt to imprint their own culture and philosophy on the societies that they govern. Sometimes this changes prevailing views or social values; however, some Australian values are immutable. One of those is the fair go, the idea that everyone deserves a chance to be their best and that Australians help each other out in times of need. Throughout our history, the fair go has been the constant moderating force against the excesses of conservative ideology. That's why in 2007, for example, Australians rejected John Howard's WorkChoices legislation, which sought to destroy trade unions. It's why Australians supported Gough Whitlam's introduction of universal health care in 1973, and supported it again under the Hawke government, after it was abolished by the Fraser government. It is also why Australians now, wherever they live, care about people who are suffering from the drought in rural and regional Australia, and are putting their hands into their own pockets to help out people who they have never met and are unlikely to ever meet. It's also why Australians are so disappointed with this bitterly divided rabble of a government. This government needs to get its act together in the national interest.
 
-",HoR,<title>GRIEVANCE DEBATE</title>,<title>Liberal Party Leadership</title>,GRIEVANCE DEBATE,16,1
+",HoR,<title>GRIEVANCE DEBATE</title>,<title>Liberal Party Leadership</title>,GRIEVANCE DEBATE,16,1,speech
+"Katter, Bob, MP",KAP,2018-08-21,"
+
+
+
+Mr Katter
+  asked the Minister for Agriculture and Water Resources, in writing, on 18 June 2018:
+
+
+Will he consider (a) extending the family assistance package beyond the current three years and extra year for exceptional circumstances, and (b) addressing the issue of continuing the family assistance grants for as long as exceptional circumstances prevail.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Farm Household Allowance (Question No. 988)</title>,QUESTIONS IN WRITING,17,1,question
+"Littleproud, David, MP",Nats,2018-08-21,"
+
+
+
+Mr Littleproud:
+  The answer to the honourable member's question is as follows:
+
+
+Since coming into power, this government has invested over a billion dollars on drought assistance for farmers and small communities. 
+
+
+On 20 June 2018, I introduced the Farm Household Support Amendment Bill 2018, which proposed to extend the maximum period of payment of Farm Household Allowance from three to four cumulative years. 
+
+
+It is my privilege to inform the honourable member that the Bill was passed by the House of Representatives on 27 June 2018 and the Senate on the following day. 
+
+
+The one year extension will be available from 1 August 2018. Previous, current and future recipients of Farm Household Allowance will be entitled to apply for the additional assistance. Farm Household Allowance is not a drought measure; it is available to all eligible farmers and their partners in hardship, regardless of their situation.
+
+
+Extending Farm Household Allowance by twelve months will provide farmers with the time and support to develop their resilience, or to make tough choices with dignity.
+
+",HoR,<title>QUESTIONS IN WRITING</title>,<title>Farm Household Allowance (Question No. 988)</title>,QUESTIONS IN WRITING,17,1,answer

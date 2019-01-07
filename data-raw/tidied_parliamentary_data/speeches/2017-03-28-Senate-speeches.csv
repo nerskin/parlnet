@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "PRESIDENT, The",,2017-03-28,"
 
 
@@ -10,7 +10,7 @@ The PRESIDENT
 
 Honourable senators:  Hear, hear!
 
-",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Deputy Clerk of the Senate</title>,STATEMENT BY THE PRESIDENT,2,1
+",Senate,<title>STATEMENT BY THE PRESIDENT</title>,<title>Deputy Clerk of the Senate</title>,STATEMENT BY THE PRESIDENT,2,1,speech
 "Bushby, Sen David",LP,2017-03-28,"
 
 
@@ -21,7 +21,7 @@ Senator BUSHBY
 
 Ordered that the report be printed.
 
-",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,3,1
+",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,3,1,speech
 "Bushby, Sen David",LP,2017-03-28,"
 
 
@@ -32,7 +32,7 @@ Senator BUSHBY
 
 Ordered that the report be printed.
 
-",Senate,<title>BILLS</title>,<title>Report of Legislation Committee</title>,BILLS,3,2
+",Senate,<title>BILLS</title>,<title>Report of Legislation Committee</title>,BILLS,3,2,speech
 "Wong, Sen Penny",ALP,2017-03-28,"
 
 
@@ -97,7 +97,7 @@ Senator WONG:
 
 I want to end on this point. In voting on this, and in discussing this legislation, I hope that people in this place can not only think of the rhetoric and the principle and the politics, I hope that in this place they can also have in their minds the experience of the young Muslim woman on the bus or the young Asian boy in the street, or some other member of Australia's multicultural community who is abused because of who they are. Not only is the amendment before this place wrong, but also in many ways what is most wrong and what has been most damaging has been the signal that has been sent by a Prime Minister who believes he is a Liberal moderate, the signal that he is sending in cahoots with this Attorney-General, that this sort of racial abuse is more permissible. I ask my colleagues in this place: think of the people who this legislation is designed to protect and think of the principle, the message, that this legislation seeks to send out to the community, because what it says to the community is, 'We do not believe in this modern multicultural Australia that it is okay for you to be abused because of your race.' That is a principle that we should all stand for.
 
-",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,5,1,speech
 "McKim, Sen Nicholas",AG,2017-03-28,"
 
 
@@ -165,7 +165,7 @@ In the short time left to me, I want to address schedule 2, which has amendments
 
 I want to end this second reading contribution—I will have more to say as we move through the clauses as we have given a commitment that we will—on the divisive politics that are contained in this legislation. True leaders will try and unite a community and not divide it; in particular, true leaders will not seek to divide a community for base political aims. But that is exactly what the Prime Minister has done. I know there will be people who will be happy that he has done it: Senator Abetz, who is in the chamber now, his colleague Senator Paterson, Senator Leyonhjelm and many of the other culture warriors in this place who dedicate themselves far more to the culture war than they do to standing up for ordinary, everyday Australians. They will be happy that they have actually bullied a Prime Minister into doing the things that are contained in this legislation. They will be happy that we are debating this today when, in fact, there are so many other, more urgent issues like climate change, economic inequality and the government abandoning the people doing it toughest in this country, which we are not debating while we are debating changes to section 18C. Ordinary, everyday Australians will not be happy, but they will be happy when these changes go down, as they will. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,5,1,speech
 "Abetz, Sen Eric",LP,2017-03-28,"
 
 
@@ -219,7 +219,7 @@ In relation to Senator McKim's contribution, can I say very briefly that the fac
 
 The PRESIDENT:  Thank you, Senator Abetz. The time has reached 2 pm. We now move to questions without notice.
 
-",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,5,1
+",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,5,1,speech
 "Wong, Sen Penny",ALP,2017-03-28,"
 
 
@@ -284,7 +284,7 @@ Senator WONG:
 
 I want to end on this point. In voting on this, and in discussing this legislation, I hope that people in this place can not only think of the rhetoric and the principle and the politics, I hope that in this place they can also have in their minds the experience of the young Muslim woman on the bus or the young Asian boy in the street, or some other member of Australia's multicultural community who is abused because of who they are. Not only is the amendment before this place wrong, but also in many ways what is most wrong and what has been most damaging has been the signal that has been sent by a Prime Minister who believes he is a Liberal moderate, the signal that he is sending in cahoots with this Attorney-General, that this sort of racial abuse is more permissible. I ask my colleagues in this place: think of the people who this legislation is designed to protect and think of the principle, the message, that this legislation seeks to send out to the community, because what it says to the community is, 'We do not believe in this modern multicultural Australia that it is okay for you to be abused because of your race.' That is a principle that we should all stand for.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "McKim, Sen Nicholas",AG,2017-03-28,"
 
 
@@ -352,7 +352,7 @@ In the short time left to me, I want to address schedule 2, which has amendments
 
 I want to end this second reading contribution—I will have more to say as we move through the clauses as we have given a commitment that we will—on the divisive politics that are contained in this legislation. True leaders will try and unite a community and not divide it; in particular, true leaders will not seek to divide a community for base political aims. But that is exactly what the Prime Minister has done. I know there will be people who will be happy that he has done it: Senator Abetz, who is in the chamber now, his colleague Senator Paterson, Senator Leyonhjelm and many of the other culture warriors in this place who dedicate themselves far more to the culture war than they do to standing up for ordinary, everyday Australians. They will be happy that they have actually bullied a Prime Minister into doing the things that are contained in this legislation. They will be happy that we are debating this today when, in fact, there are so many other, more urgent issues like climate change, economic inequality and the government abandoning the people doing it toughest in this country, which we are not debating while we are debating changes to section 18C. Ordinary, everyday Australians will not be happy, but they will be happy when these changes go down, as they will. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Abetz, Sen Eric",LP,2017-03-28,"
 
 
@@ -406,7 +406,288 @@ In relation to Senator McKim's contribution, can I say very briefly that the fac
 
 The PRESIDENT:  Thank you, Senator Abetz. The time has reached 2 pm. We now move to questions without notice.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
+"Urquhart, Sen Anne",ALP,2017-03-28,"
+
+
+
+Senator URQUHART
+ (Tasmania—Opposition Whip in the Senate) (14:00):  My question is to the minister representing the Prime Minister, Senator Brandis. Yesterday, in response to a question I asked the minister in relation to Prime Minister Turnbull's support for a pay cut of up to $77 for up to 700,000 Australian workers, the minister said, 'The Prime Minister has said no such thing, and your assertion that he has done so is not the truth.' On 17 March, when asked by Neil Mitchell of 3AW whether he supported the cut to penalty rates, the Prime Minister said, 'Well, we do support it Neil, and I've been very clear about that.' Given the Prime Minister's very clear support for the pay cut, when will the minister correct the record?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Urquhart, Sen Anne",ALP,2017-03-28,"
+
+
+
+Senator URQUHART
+ (Tasmania—Opposition Whip in the Senate) (14:01):  Why is the minister so desperate to hide the Prime Minister's support for a pay cut for up to 700,000 Australian workers that he is willing to mislead the Senate?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Urquhart, Sen Anne",ALP,2017-03-28,"
+
+
+
+Senator URQUHART
+ (Tasmania—Opposition Whip in the Senate) (14:05):  Given that we know the Prime Minister supports these cuts to penalty rates, will the minister now come clean with the Senate about the government's support for these cuts being extended to workers in other sectors, who also rely on penalty rates to put food on the table?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE,6,1,question
+"Brandis, Sen George",LP,2017-03-28,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:00):  The problem with your question, Senator Urquhart, is that is not what I was asked. You asserted, and others among you, including Senator Cameron, asserted, that the government had recommended or argued that there ought to be a pay cut, and it did no such thing. You know it did no such thing, Senator Urquhart, but it did not stop you from making a false claim to the contrary. It is the case that the government supports the independence of the Fair Work Commission and, therefore, supports every determination of the Fair Work Commission, because if you support the independence of a court, a tribunal or an arbitral body of course you uphold its decisions. That is what the government has done. That is what the Prime Minister said. But that is not what you put to me yesterday.
+
+
+
+The PRESIDENT:  Senator Urquhart, a supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Brandis, Sen George",LP,2017-03-28,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:02):  You did not listen to the answer, Senator Urquhart. It is a bit rich from someone like you, Senator Urquhart, who sits in a party led by a man—Bill Shorten—who made a career out of taking backhanders and secret commissions from business to sell workers down the river—
+
+
+
+The PRESIDENT:  Senator Wong, a point of order.
+
+
+
+
+Senator Wong:
+  I have a number, but first let us do 'directly relevant'. I know that this leader believes that personal abuse is the way to get out of trouble, and I am very happy to continue to say—
+
+
+
+The PRESIDENT:  On direct relevance, Senator Wong.
+
+
+
+
+Senator Wong:
+  Thank you. It is clearly not relevant to the question. The Labor Party is hardly relevant to the question that was asked. I think it is self-evident.
+
+
+
+The PRESIDENT:  Senator Brandis, I will remind you of the question. You have 37 seconds in which to answer the question.
+
+
+
+
+Senator BRANDIS:
+  If it was not clear to you before, Senator Urquhart, let me be explicit: I entirely reject the premise of your question. If you are concerned about the wellbeing of workers, why do you sit behind a man—Bill Shorten—who, as a union leader, took backhanders, secret commissions and bribes that were concealed from his members to sell them down the river on their pay and conditions—
+
+
+
+The PRESIDENT:  Attorney-General, I do believe the allegation you made about the Leader of the Opposition is unparliamentary. A point of order, Senator Gallagher.
+
+
+
+
+Senator Gallagher:
+  Just to be clear, there were a number of different references there that we would object to, including one previously around, I think, taking backhanded payments. The aspersion is disorderly and should be ruled out of order.
+
+
+
+The PRESIDENT:  I asked the Attorney-General to withdraw. He immediately withdrew those remarks. Senator Wong, on a point of order.
+
+
+
+
+Senator Wong:
+  I apologise, Mr President; it was my error in my first point of order. I ought to have sought that you require the Attorney-General to withdraw the reference to 'backhander'.
+
+
+
+The PRESIDENT:  Attorney-General, I assume you have, but I will double-check. Attorney-General, if you would withdraw that reference also?
+
+
+
+
+
+Senator BRANDIS:
+  If you wish me to. I will confine it to secret commissions. It all means the same thing, of course: payments taken and concealed from the members of the union to sell them down the river, to sell out their pay and conditions— (Time expired)
+
+
+
+The PRESIDENT:  Senator Carr, a point of order.
+
+
+
+
+Senator Kim Carr:
+  On a point of order, the Leader of the Government in the Senate has now suggested that the Leader of the Labor Party has undertaken an illegal act in referring to secret commissions. That is a criminal act and he knows it. He ought to withdraw it.
+
+
+
+The PRESIDENT:  On the point of order, Attorney-General.
+
+
+
+
+Senator Brandis:
+  Can I address the point of order, please. In fact, those payments are the very thing that the government has introduced legislation into the House of Representatives last week to outlaw and is being opposed by the Labor Party—
+
+
+
+The PRESIDENT:  That is not a point of order; that is a debating point. In relation to the words that the Attorney-General has withdrawn, I am satisfied that those words have been withdrawn. On 'secret commissions', Senator Carr, I will reflect upon that. But I do not believe, in the context that was used by the Attorney-General, that that would breach that provision of the standing orders, but I will reflect upon that. Senator Urquhart, a final supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"Brandis, Sen George",LP,2017-03-28,"
+
+
+
+Senator BRANDIS
+ (Queensland—Attorney-General, Vice-President of the Executive Council and Leader of the Government in the Senate) (14:06):  I addressed that yesterday. As the commission itself has said, there is absolutely no reason for you to assert that, because it made a determination in relation to the hospitality industry, it will make a determination of a similar or like character in relation to any other industry. I know the lying machine of the Labor Party is trying to spread that story around the place, but it is not true.
+
+
+
+
+Senator Wong:
+  With respect, I ought not to have to stand for that—'lying machine of the Labor Party'. Are you going to allow that to stand, Mr President? It is suggesting every member of the Labor Party lies. That is the suggestion.
+
+
+
+The PRESIDENT:  On the point of order, Attorney-General.
+
+
+
+
+Senator BRANDIS:
+  I am not suggesting that every member of the Labor Party or any individual member of the Labor Party is a liar. What I am suggesting is that the Labor Party as an organisation is a lying machine.
+
+
+
+The PRESIDENT:  Order! References to that have stood in the past. What I will also do, Senator Wong, in relation to that matter is reflect upon that. My understanding—and I have in fact witnessed that here in this chamber on many occasions—is references from both sides have been made to collective groups in that manner before. Again, I will reflect, and I will come back to the chamber if I need to. On the same point of order, Senator Wong?
+
+
+
+
+Senator Wong:
+  Yes, just to clarify. I appreciate that you are doing us the courtesy of reflecting. I do invite you to consider whether simply calling all of the coalition a 'lying machine' is the sort of debate we want in this chamber, which according to the misleader of the government, as I have called him, is an appropriate way of describing the Labor Party.
+
+
+
+The PRESIDENT:  My personal view is that those remarks should never be used. However, I have to go on precedent, and I have to go on what the standing orders allow. Again, I will reflect upon that, and I will come back to the chamber if I need to. Attorney-General, you have the call.
+
+
+
+
+Senator BRANDIS:
+  There are few sights more absurd than Senator Wong on her high horse. Mr President, through you: Senator Urquhart, if you are so sensitive about this matter, why is your party voting against legislation to outlaw corrupting benefits? You are committed to doing that. That is the position that you have taken.
+
+
+
+
+Senator Kim Carr:
+  Who said that?
+
+
+
+
+Senator BRANDIS:
+  So you are going to support the government's legislation? You are going to support Senator Michaelia Cash's legislation?
+
+
+
+Opposition senators interjecting—
+
+
+
+
+Senator BRANDIS:
+  I hope you do, but I will be surprised if I ever see it.
+
+
+
+Honourable senators interjecting—
+
+
+
+The PRESIDENT:  Would both sides come to order. If both sides would settle and come to order.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE,6,1,answer
+"O'Sullivan, Sen Barry",Nats,2017-03-28,"
+
+
+
+Senator O'SULLIVAN
+ (Queensland) (14:09):  My question is to the Minister for Defence, Senator Payne.
+
+
+
+
+Senator Cameron:
+  This'll be good!
+
+
+
+
+Senator O'SULLIVAN:
+  I would suggest you listen to this one. Can the minister advise the Senate of the support the Australian Defence Force is providing to Queenslanders affected by Cyclone Debbie?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,"<title>Cyclone Debbie, Australian Defence Force</title>",QUESTIONS WITHOUT NOTICE,8,1,question
+"O'Sullivan, Sen Barry",Nats,2017-03-28,"
+
+
+
+Senator O'SULLIVAN
+ (Queensland) (14:11):  Minister, to the extent that I am entitled, can I thank you on behalf of Queenslanders for the thoughtful preparation. Can the minister detail some of the ADF capabilities that will be available to assist?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,"<title>Cyclone Debbie, Australian Defence Force</title>",QUESTIONS WITHOUT NOTICE,8,1,question
+"O'Sullivan, Sen Barry",Nats,2017-03-28,"
+
+
+
+Senator O'SULLIVAN
+ (Queensland) (14:13):  Can the minister outline how else Defence has supported disaster relief operations across Australia?
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,"<title>Cyclone Debbie, Australian Defence Force</title>",QUESTIONS WITHOUT NOTICE,8,1,question
+"Payne, Sen Marise",LP,2017-03-28,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Defence) (14:09):  I thank Senator O'Sullivan for his question. Indeed, our thoughts are with the people and communities of North Queensland at this very dangerous time. As Tropical Cyclone Debbie makes landfall in north-eastern Queensland, our ADF—its highly trained personnel, its equipment and their experience—are ready to assist those who are affected. The ADF has pre-positioned its humanitarian assistance and disaster relief assets to provide immediate assistance to local communities who may be affected. We are working closely with the Queensland government and Emergency Management Australia. The ADF has established a joint task force to provide support for the region. This task force is largely made up of personnel from the Townsville based 3rd Brigade. We are also sending additional assets to Queensland in preparation.
+
+
+HMAS Choules is heading to Queensland to be ready to support recovery efforts if required. She will take on supplies in Brisbane early tomorrow morning and will be ready to sail north as soon as it is safe to do so. Air Force aircraft in Townsville, Darwin and Amberley are on standby to provide airlift capability for the delivery of essential stores and equipment as well as wide area surveillance. Two Navy MRH helicopters have deployed to Oakey and are ready to provide immediate support in addition to the existing Army rotary wing aircraft based in Townsville.
+
+
+At the request of Premier Palaszczuk, the Turnbull government has agreed that Brigadier Chris Field, currently the commander of 3rd Brigade in Townsville, will act as the recovery coordinator for Tropical Cyclone Debbie. As the Queensland Premier, Ms Palaszczuk, has said in relation to support being provided by the ADF, 'The level of cooperation is unprecedented.' She has thanked the Commonwealth 'very much' for making the Australian Defence Force personnel available to help Queenslanders in their hour of need.
+
+
+
+This is a very pressing task for the ADF. We hope that the emergency is not as considerable as predicted—of course we do—but we will be there with the people of Queensland is required. (Time expired) 
+
+
+
+The PRESIDENT:  Senator O'Sullivan, a supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,"<title>Cyclone Debbie, Australian Defence Force</title>",QUESTIONS WITHOUT NOTICE,8,1,answer
+"Payne, Sen Marise",LP,2017-03-28,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Defence) (14:12):  The joint task force, which is task force 661, will be well positioned to supplement a range of Queensland state disaster response options. Our response will include ADF medical teams that can provide support both on the ground and via aeromedical evacuation; airborne search and rescue capabilities, including Air Force Orions, Hercules and King Airs and the Navy's multirole helicopters; transportation of personnel as well as the delivery of supplies and stores through Army Chinooks and Army and Navy multirole helicopters; Army engineering, to support assistance with road clearance and debris removal; emergency military accommodation; amphibious vessels from HMAS Choules for remote coastal stores delivery which may be required; mental health psychological support teams; and Navy expeditionary reconnaissance and clearance teams, who may be required to survey and clear harbours of debris. Our personnel are positioned in the Queensland government emergency management centres in Brisbane and in Townsville and other regional communities, and we will make every effort to meet any requests for additional capabilities. (Time expired)
+
+
+
+The PRESIDENT:  Senator O'Sullivan, a final supplementary question.
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,"<title>Cyclone Debbie, Australian Defence Force</title>",QUESTIONS WITHOUT NOTICE,8,1,answer
+"Payne, Sen Marise",LP,2017-03-28,"
+
+
+
+Senator PAYNE
+ (New South Wales—Minister for Defence) (14:13):  Firstly, let me be clear, the issues with HMAS Canberra and Adelaide have not affected Defence's ability to meet its operational tasks. Under the ADF's regular planning cycle, HMAS Choules assumed duties as the online, or ready, ship to support any HADR requirements in mid-March. She is a 16,000-tonne ship that is well suited for disaster relief operations. That is why she is now sailing towards Queensland to assist those impacted by this significant cyclonic event. Navy has directly addressed any misconceptions around this issue in a statement, which is on the ADF 'On the record' web page today. The Australian Defence Force has a very proud history of supporting Australian communities which have been hit hard by natural disasters. In 2009, over 600 Defence personnel worked with the Victorian government after the Black Saturday bushfires. We supported communities in Brisbane and the Lockyer Valley following the floods in January 2011; in 2011, again, in Cyclone Yasi; and again after Cyclone Marcia in 2015. (Time expired)
+
+",Senate,<title>QUESTIONS WITHOUT NOTICE</title>,"<title>Cyclone Debbie, Australian Defence Force</title>",QUESTIONS WITHOUT NOTICE,8,1,answer
 "Gallacher, Sen Alex",ALP,2017-03-28,"
 
 
@@ -441,7 +722,7 @@ This miserable government has gone right out of its way to take that off them, b
 
 Well, what we are complaining about is: you are ripping off hardworking, ordinary Australians who need a leg up, not a push down. We will continue to fight this issue all the way to the next election, and you will get your just deserts. Your return will be in the ballot box. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Reynolds, Sen Linda",LP,2017-03-28,"
 
 
@@ -479,7 +760,7 @@ Who can forget the shameful incident that happened in the other chamber to my fr
 
 She is one of the most wonderful local representatives. She has a heart the size of a planet. Where were any of you over there when your members absolutely demonised her for saying that she wanted more young people in her constituency to work with these penalty rates? Where were you when your colleagues made this wonderful woman cry? Shame on you all! 
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Marshall, Sen Gavin",ALP,2017-03-28,"
 
 
@@ -499,7 +780,7 @@ We now know that the Fair Work Commission ignored those objectives as far as we 
 
 Let's understand what the Fair Work Act actually replaced. Yes, we did put it in place to replace Work Choices. Maybe people need a little bit of a reminder about what Work Choices did to people. Let's just go back and look at what Work Choices did: 100 per cent of AWAs under Work Choices excluded at least one so-called protected award condition, 64 per cent removed leave loadings, 63 per cent removed penalty rates, 52 per cent removed shift-work loadings, 41 per cent did not contain gazetted public holidays, 29 per cent modified rest breaks, 27 per cent modified public-holiday payments, 22 per cent did not provide for any wage increase over the life of the agreement and 16 per cent excluded every award protection and condition from those agreements. I am not surprised that we are headed back there under this government. That is where this government comes from. This is where this government would like to go. Penalty rates are certainly the first step for these workers, and the next step will be every other worker and then the rest of the conditions next. (Time expired)
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Duniam, Sen Jonathon",LP,2017-03-28,"
 
 
@@ -538,7 +819,7 @@ A point that was made to me earlier was: where were Labor when, in 2009, the pre
 
 I want to go to the impact on small business. We have talked a lot about small businesses, such as those in our community, Senator Bilyk, and how they make up the economies of our small regional communities. What does Labor say to those businesses that cannot open on a Sunday? What does Labor say to those people who do not have a job on a Sunday because businesses cannot open—people who have zero dollars in their bank account because businesses do not open and they do not get paid? Labor wants to vilify small-business operators. It wants to make small business operators out to be people who are just in it to make a buck, who push down and oppress employees. I am sick of that. These people are genuine, honest, hardworking people who want to contribute to their local economies. They respect their employees, because that is what makes a good small business. I call on Labor to stop vilifying small-business people and allow them to do what is right for the economies of their small communities. Help them to open on a Sunday. Help them to employ people who need these jobs in our small communities. Labor should get on board and stop playing politics.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Bilyk, Sen Catryna",ALP,2017-03-28,"
 
 
@@ -589,7 +870,7 @@ The most cruel thing of all about the penalty rates cut is that it has coincided
 
 Question agreed to.
 
-",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1
+",Senate,<title>QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS</title>,<title>Workplace Relations</title>,QUESTIONS WITHOUT NOTICE: TAKE NOTE OF ANSWERS,9,1,speech
 "Whish-Wilson, Sen Peter",AG,2017-03-28,"
 
 
@@ -609,7 +890,7 @@ That the Senate—
 
 (c) calls on the Government to lift the freeze on indexation of the financial assistance grants in the 2017-18 Federal Budget.
 
-",Senate,<title>MOTIONS</title>,<title>Local Government</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Local Government</title>,MOTIONS,13,1,speech
 "McGrath, Sen James",LP,2017-03-28,"
 
 
@@ -630,7 +911,7 @@ Senator McGRATH:
 
 Question agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Local Government</title>,MOTIONS,13,1
+",Senate,<title>MOTIONS</title>,<title>Local Government</title>,MOTIONS,13,1,speech
 "Siewert, Sen Rachel",AG,2017-03-28,"
 
 
@@ -659,7 +940,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>Renew Australia Bill 2017</title>,BILLS,14,1
+",Senate,<title>BILLS</title>,<title>Renew Australia Bill 2017</title>,BILLS,14,1,speech
 "Siewert, Sen Rachel",AG,2017-03-28,"
 
 
@@ -739,7 +1020,7 @@ Senator SIEWERT:
 
 Leave granted; debate adjourned.
 
-",Senate,<title>BILLS</title>,<title>Renew Australia Bill 2017</title>,BILLS,14,1
+",Senate,<title>BILLS</title>,<title>Renew Australia Bill 2017</title>,BILLS,14,1,speech
 "Siewert, Sen Rachel",AG,2017-03-28,"
 
 
@@ -768,7 +1049,7 @@ Question agreed to.
 
 Bill read a first time.
 
-",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,14,2
+",Senate,<title>BILLS</title>,<title>First Reading</title>,BILLS,14,2,speech
 "Rhiannon, Sen Lee",AG,2017-03-28,"
 
 
@@ -788,7 +1069,7 @@ That the Senate—
 
 Question agreed to. 
 
-",Senate,<title>MOTIONS</title>,<title>Homelessness</title>,MOTIONS,15,1
+",Senate,<title>MOTIONS</title>,<title>Homelessness</title>,MOTIONS,15,1,speech
 "Rice, Sen Janet",AG,2017-03-28,"
 
 
@@ -808,7 +1089,7 @@ That there be laid on the table by the Minister representing the Minister for th
 
 Question agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Leadbeater's Possum</title>,DOCUMENTS,16,1
+",Senate,<title>DOCUMENTS</title>,<title>Leadbeater's Possum</title>,DOCUMENTS,16,1,speech
 "Rice, Sen Janet",AG,2017-03-28,"
 
 
@@ -828,7 +1109,7 @@ That there be laid on the table by the Minister representing the Minister for th
 
 Question agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,16,2,speech
 "Kakoschke-Moore, Sen Skye",NXT,2017-03-28,"
 
 
@@ -875,7 +1156,7 @@ That the Senate—
 
 Question agreed to. 
 
-",Senate,<title>MOTIONS</title>,<title>Australian Football League Women's Competition</title>,MOTIONS,17,1
+",Senate,<title>MOTIONS</title>,<title>Australian Football League Women's Competition</title>,MOTIONS,17,1,speech
 "Ludlam, Sen Scott",AG,2017-03-28,"
 
 
@@ -901,7 +1182,7 @@ That—
 
 Question agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Perth Freight Link</title>,DOCUMENTS,18,1
+",Senate,<title>DOCUMENTS</title>,<title>Perth Freight Link</title>,DOCUMENTS,18,1,speech
 "Ludlam, Sen Scott",AG,2017-03-28,"
 
 
@@ -927,7 +1208,7 @@ That—
 
 Question agreed to. 
 
-",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2
+",Senate,<title>DOCUMENTS</title>,<title>Order for the Production of Documents</title>,DOCUMENTS,18,2,speech
 "Urquhart, Sen Anne",ALP,2017-03-28,"
 
 
@@ -959,7 +1240,7 @@ That—
 
 (4) The Senate requires that the Attorney-General be in the Senate at 9.30 am on 30 March 2017, so that a senator may ask the Attorney-General for an explanation in connection with his actions on this matter, and at the conclusion of the explanation any senator may move a motion to take note of the explanation; or if the Attorney-General fails to provide an explanation, any senator may move to take note of his failure to do so.
 
-",Senate,<title>MOTIONS</title>,<title>Legal and Constitutional Affairs References Committee: Questions on Notice</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>Legal and Constitutional Affairs References Committee: Questions on Notice</title>,MOTIONS,19,1,speech
 "McGrath, Sen James",LP,2017-03-28,"
 
 
@@ -981,7 +1262,7 @@ Senator McGRATH:
 
 The PRESIDENT:  The question is that general business notice of motion No. 274, moved by Senator Urquhart, be agreed to.
 
-",Senate,<title>MOTIONS</title>,<title>Legal and Constitutional Affairs References Committee: Questions on Notice</title>,MOTIONS,19,1
+",Senate,<title>MOTIONS</title>,<title>Legal and Constitutional Affairs References Committee: Questions on Notice</title>,MOTIONS,19,1,speech
 "Back, Sen Chris (The ACTING DEPUTY PRESIDENT)",LP,2017-03-28,"
 
 
@@ -1014,7 +1295,7 @@ More than the number of senators required by the standing orders having risen in
 
 The ACTING DEPUTY PRESIDENT:  It just scarcely gets there. I understand that informal arrangements have been made to allocate specific times to each of the speakers in today's debate. With the concurrence of the Senate, I shall ask the clerks to set the clock accordingly.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1,speech
 "Farrell, Sen Don",ALP,2017-03-28,"
 
 
@@ -1055,7 +1336,7 @@ So Senator Seselja was receiving time and a half. We checked out the agreement h
 
 The reality is that Senator Seselja misunderstood his terms and conditions. Thank God he had a union like the SDA, which did not misunderstand the situation! They got him an increase, they got him a pay rise, and— (Time expired)
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1,speech
 "Abetz, Sen Eric",LP,2017-03-28,"
 
 
@@ -1165,7 +1446,7 @@ The Labor senators in this place were given the opportunity to vote on a motion 
 
 This is a very important debate for our nation to have. Do we want the unemployed, the underemployed, the consumers of Australia to have greater opportunities? We on this side say yes, and we accept the umpire's decision. What is more, this will also alleviate the burden on some small business people who are either unable to open their businesses on weekends and compete with the multinationals because of the union wage deals, or they do work on a weekend and ensure that they and their family are all embracing the business on the weekend because they cannot afford to pay people. This decision will enable them to employ the unemployed and the underemployed, and that will be a huge social good for each and every one of them. In relation to police, nurses, firemen: their penalty rates are, of course, protected. Penalty rates are not being abolished; they are simply, by this decision, being adjusted by Labor's own independent umpire.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1,speech
 "Lambie, Sen Jacqui",JLN,2017-03-28,"
 
 
@@ -1176,7 +1457,7 @@ Senator LAMBIE
 
 Cutting penalty rates does not help rural and regional communities; it does not support small businesses. This is their bread and butter. You are cutting the money they spend on their power, their insurance or clothes for their children. If the Liberal government want to spark jobs growth, they would be better off using COAG for something that is productive and axe payroll tax, which is a tax on jobs and a direct barrier to business growth—especially in Tasmania.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1,speech
 "Polley, Sen Helen",ALP,2017-03-28,"
 
 
@@ -1202,7 +1483,7 @@ I spoke to registered nurses from the aged-care sector that came to parliament t
 
 This Prime Minister and this government have no empathy whatsoever because they come from the big end of town. It is in their DNA. Whatever they have to do to make sure that low-paid workers are kept down where they belong is what this government will do, day after day. People on this side of the chamber and the crossbenchers will stand up for those workers, today, tomorrow and every day to protect their rights. (Time expired)
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1,speech
 "Hume, Sen Jane",LP,2017-03-28,"
 
 
@@ -1332,7 +1613,7 @@ Senator HUME:
 
 This is an independent decision by an independent umpire. Mr Shorten and the Australian Labor Party would do well to abide by the rules of the independent umpire. (Time expired)
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1,speech
 "Hanson, Sen Pauline",PHON,2017-03-28,"
 
 
@@ -1362,7 +1643,7 @@ The ACTING DEPUTY PRESIDENT
 Senator Back
 ):  You are interrupting your own colleague, Senator Polley. 
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1,speech
 "Urquhart, Sen Anne",ALP,2017-03-28,"
 
 
@@ -1388,7 +1669,7 @@ It is really important to note that the retail, fast-food, pharmacy and hospital
 
 In conclusion, I believe in strong penalty rates for overtime, weekends, public holidays, late nights and very early mornings. There is a clear need to better remunerate workers for taking on unsociable hours that are often essential to a business but that mean valuable time away from friends and family. Working those hours when others are relaxing and taking their time of leisure has clear costs on an individual. This must be remedied through improved wages. Never, never, must these workers ever face a wage cut. The Prime Minister must heed this call. He must change his tack, support workers' penalty rates and stop his callous rhetoric that this pay cut is a good thing. We have heard continually, time and time again, from the other side that this is a good thing. Well, those opposite should go and talk to the workers out there who are facing this. For mothers trying to work overtime, penalty rates make a difference. Those who are working on weekends in industries where they will face this cut are doing it because they need to work. They are doing it to put food on the table, to buy things for their kids, to ensure that they get a fair go—and this is not a fair go. They want to make sure there is enough money in their wallet when they reach the check-out counter at the supermarket. They want to ensure that their bills are paid on time. These things matter to people out in the community, but I do not think anyone on the other side understands that. They do not understand how workers, particularly women workers, rely on penalty rates to get by and make ends meet.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1,speech
 "Rhiannon, Sen Lee",AG,2017-03-28,"
 
 
@@ -1408,7 +1689,7 @@ It would be deeply wrong to allow penalty rates to be thrown out. Surely, when w
 
 We need to see this debate in the context of increasing attacks on the rights of unions and workers to organise collectively. And you hear it so clearly every time somebody from the government gets up to speak on the matter. The President of the ACTU, Ged Kearney, recently spoke about the prolonged, concerted attack on unions and how corporations are becoming emboldened by the anti-union government that the Turnbull government is. The Turnbull government, if it is allowed to proceed with this, will be driving further inequality in our society. In this place we need to recognise that public opinion is on the side of the public good. The public are standing up for penalty rates, and we in this place, through our work, need to lock-in legal protection for penalty rates. We can do that, and it surely should be our top priority.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1,speech
 "Chisholm, Sen Anthony",ALP,2017-03-28,"
 
 
@@ -1437,7 +1718,7 @@ Let me come back to Senator Hanson. It really is tough to keep up with her somet
 
 What we know from a Queensland point of view is that we have high underemployment and an increase in casualisation, so increasingly people are relying on penalty rates to keep their heads above water. We also have record low wage growth. This is what we are seeing across Australia and in Queensland. On top of that, it is a priority for this government to make that situation worse by introducing penalty rate cuts that are going to have such a devastating impact on so many people throughout Queensland and Australia.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1,speech
 "Hinch, Sen Derryn",DHJP,2017-03-28,"
 
 
@@ -1455,7 +1736,7 @@ There are emails like this one that say things like: 'Everyday Australians rely 
 
 The PRESIDENT:  The question is that the need for the Senate to condemn the Prime Minister's lack of empathy for Australian workers who rely on penalty rates to make ends meet is a matter of urgency.
 
-",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1
+",Senate,<title>MATTERS OF URGENCY</title>,<title>Workplace Relations</title>,MATTERS OF URGENCY,20,1,speech
 "Collins, Sen Jacinta",ALP,2017-03-28,"
 
 
@@ -1538,7 +1819,7 @@ If no other senator wishes to speak at this time, I seek leave to continue my re
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Privileges Committee</title>,COMMITTEES,21,1
+",Senate,<title>COMMITTEES</title>,<title>Privileges Committee</title>,COMMITTEES,21,1,speech
 "Collins, Sen Jacinta",ALP,2017-03-28,"
 
 
@@ -1621,7 +1902,7 @@ If no other senator wishes to speak at this time, I seek leave to continue my re
 
 Leave granted; debate adjourned.
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,21,2,speech
 "Williams, Sen John",Nats,2017-03-28,"
 
 
@@ -1635,7 +1916,7 @@ That the Senate adopt the recommendations contained in the report of the Communi
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Community Affairs Legislation Committee</title>,COMMITTEES,23,1
+",Senate,<title>COMMITTEES</title>,<title>Community Affairs Legislation Committee</title>,COMMITTEES,23,1,speech
 "Williams, Sen John",Nats,2017-03-28,"
 
 
@@ -1649,7 +1930,7 @@ That the Senate adopt the recommendations contained in the report of the Communi
 
 Question agreed to. 
 
-",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2
+",Senate,<title>COMMITTEES</title>,<title>Report</title>,COMMITTEES,23,2,speech
 "Abetz, Sen Eric",LP,2017-03-28,"
 
 
@@ -1770,7 +2051,7 @@ Senator ABETZ:
 
 This legislation was seen as bad by the Victorian Council for Civil Liberties, by a Greens senator, by me and by many others some 20 years ago. The proof is now in the pudding; it is bad. Bill Leak, QUT students, Andrew Bolt and others are testimony to that and that is why this legislation needs amending. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,24,1,speech
 "Bilyk, Sen Catryna",ALP,2017-03-28,"
 
 
@@ -1856,7 +2137,7 @@ In addition to the changes to section 18C, this bill makes a number of changes t
 
 Labor will move amendments to the bill to improve the government's poorly conceived changes to the complaints-handling procedures, to ensure that they do not create new problems. As for the proposed changes to 18C in schedule 1 of the bill, of course we will be opposing them. The proposed changes to 18C are, as I said earlier, an ideological obsession of the Turnbull government, without any basis. By putting forward these changes, Mr Turnbull is doing nothing more than bowing to the right-wing extremists who run the Liberal Party and providing comfort to anyone who wishes to racially vilify their fellow Australians with impunity. It just goes to show that Mr Turnbull is willing to do anything, willing to sacrifice any principle, in order to maintain his leadership of the Liberal Party. It is very well known that he is more interested in defending his prime ministership than he is in defending Australians from racism.
 
-",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,24,1,speech
 "Roberts, Sen Malcolm",PHON,2017-03-28,"
 
 
@@ -2022,7 +2303,7 @@ Senator ROBERTS:
 
 I urge senators in the Labor Party and the crossbench who do genuinely believe in free speech: do not be bound by your party's errors. Please think for yourselves and consider what sort of society we all want our children to grow up in.
 
-",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,24,1,speech
 "Watt, Sen Murray",ALP,2017-03-28,"
 
 
@@ -2115,7 +2396,7 @@ The fact that the government is sharing amendments to this bill as we are debati
 
 There are still people within the Liberal Party who want to drag it to the right—failing to recognise the politics in this country is won in the centre. I even feel a little bit sad for the Prime Minister, because we know that he does not believe in these changes just as we know that he does not believe in the changes he has to stick with around marriage equality and climate change, but, because he is beholden to a rump in his party and has no courage and no strength of his convictions, he has given in yet again. I can only imagine what the next fight is going to be. Senator Paterson and all the other ideologues from the Institute of Public Affairs are no doubt dreaming it up as we speak. It is pretty amazing that the Prime Minister of this country feels so intimidated by Senator Paterson, who I do not think has even turned 30—not that there is anything wrong with being young. It is a real sign of how weak this Prime Minister is. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,24,1,speech
 "Reynolds, Sen Linda",LP,2017-03-28,"
 
 
@@ -2189,7 +2470,7 @@ But I have far more faith in the Australian people. I do believe in their abilit
 
 So I urge all of you in this place to have the same faith in the Australian public as I do, because, if we do not preserve the balance between our democratic freedoms and the rights that we implement, who will? (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,24,1,speech
 "Brown, Sen Carol",ALP,2017-03-28,"
 
 
@@ -2311,7 +2592,7 @@ Amendments to this bill must be made to ensure that the government's poorly conc
 
 The Senate should draw to a close this act, draw to a close this tawdry debate, end the hand-wringing over section 18C and vote to protect the right of Australians to freedom— (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,24,1,speech
 "Siewert, Sen Rachel",AG,2017-03-28,"
 
 
@@ -2337,7 +2618,7 @@ When releasing their reconciliation barometer, which they do every two years—t
 
 Debate interrupted.
 
-",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,24,1
+",Senate,<title>BILLS</title>,<title>Human Rights Legislation Amendment Bill 2017</title>,BILLS,24,1,speech
 "Abetz, Sen Eric",LP,2017-03-28,"
 
 
@@ -2458,7 +2739,7 @@ Senator ABETZ:
 
 This legislation was seen as bad by the Victorian Council for Civil Liberties, by a Greens senator, by me and by many others some 20 years ago. The proof is now in the pudding; it is bad. Bill Leak, QUT students, Andrew Bolt and others are testimony to that and that is why this legislation needs amending. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Bilyk, Sen Catryna",ALP,2017-03-28,"
 
 
@@ -2544,7 +2825,7 @@ In addition to the changes to section 18C, this bill makes a number of changes t
 
 Labor will move amendments to the bill to improve the government's poorly conceived changes to the complaints-handling procedures, to ensure that they do not create new problems. As for the proposed changes to 18C in schedule 1 of the bill, of course we will be opposing them. The proposed changes to 18C are, as I said earlier, an ideological obsession of the Turnbull government, without any basis. By putting forward these changes, Mr Turnbull is doing nothing more than bowing to the right-wing extremists who run the Liberal Party and providing comfort to anyone who wishes to racially vilify their fellow Australians with impunity. It just goes to show that Mr Turnbull is willing to do anything, willing to sacrifice any principle, in order to maintain his leadership of the Liberal Party. It is very well known that he is more interested in defending his prime ministership than he is in defending Australians from racism.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Roberts, Sen Malcolm",PHON,2017-03-28,"
 
 
@@ -2710,7 +2991,7 @@ Senator ROBERTS:
 
 I urge senators in the Labor Party and the crossbench who do genuinely believe in free speech: do not be bound by your party's errors. Please think for yourselves and consider what sort of society we all want our children to grow up in.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Watt, Sen Murray",ALP,2017-03-28,"
 
 
@@ -2803,7 +3084,7 @@ The fact that the government is sharing amendments to this bill as we are debati
 
 There are still people within the Liberal Party who want to drag it to the right—failing to recognise the politics in this country is won in the centre. I even feel a little bit sad for the Prime Minister, because we know that he does not believe in these changes just as we know that he does not believe in the changes he has to stick with around marriage equality and climate change, but, because he is beholden to a rump in his party and has no courage and no strength of his convictions, he has given in yet again. I can only imagine what the next fight is going to be. Senator Paterson and all the other ideologues from the Institute of Public Affairs are no doubt dreaming it up as we speak. It is pretty amazing that the Prime Minister of this country feels so intimidated by Senator Paterson, who I do not think has even turned 30—not that there is anything wrong with being young. It is a real sign of how weak this Prime Minister is. (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Reynolds, Sen Linda",LP,2017-03-28,"
 
 
@@ -2877,7 +3158,7 @@ But I have far more faith in the Australian people. I do believe in their abilit
 
 So I urge all of you in this place to have the same faith in the Australian public as I do, because, if we do not preserve the balance between our democratic freedoms and the rights that we implement, who will? (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Brown, Sen Carol",ALP,2017-03-28,"
 
 
@@ -2999,7 +3280,7 @@ Amendments to this bill must be made to ensure that the government's poorly conc
 
 The Senate should draw to a close this act, draw to a close this tawdry debate, end the hand-wringing over section 18C and vote to protect the right of Australians to freedom— (Time expired)
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Siewert, Sen Rachel",AG,2017-03-28,"
 
 
@@ -3025,7 +3306,7 @@ When releasing their reconciliation barometer, which they do every two years—t
 
 Debate interrupted.
 
-",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2
+",Senate,<title>BILLS</title>,<title>Second Reading</title>,BILLS,24,2,speech
 "Bernardi, Sen Cory",AC,2017-03-28,"
 
 
@@ -3057,4 +3338,4 @@ Ultimately, this is an easy question I ask myself and I ask others. Would you wa
 
 I want to put on the record, to inform the ministers, Minister Hunt and Minister Gillespie, of the need for action in Australia. If the TGA and the Department of Health cannot do what is right here, then ultimately the parliament will have to do what is right and take this decision away from the ministers responsible.
 
-",Senate,<title>ADJOURNMENT</title>,"<title>Health, Therapeutic Goods Administration</title>",ADJOURNMENT,25,1
+",Senate,<title>ADJOURNMENT</title>,"<title>Health, Therapeutic Goods Administration</title>",ADJOURNMENT,25,1,speech

@@ -1,4 +1,4 @@
-name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id
+name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,subdebate_id,type
 "Bishop, Bronwyn, MP",LP,2013-12-11,"
 
 
@@ -6,7 +6,7 @@ name,party,date,text,chamber,debate_title,subdebate_title,debate_type,debate_id,
 The SPEAKER
  (09:01):  I have received messages from the Senate informing the House that Senator Xenophon has been appointed a participating member of the Joint Standing Committee on Electoral Matters and a member of the Joint Standing Committee on Foreign Affairs, Defence and Trade and, secondly, that Senator Siewert has been appointed a member of the Joint Select Committee on Northern Australia.
 
-",HoR,<title>COMMITTEES</title>,"<title>Electoral Matters Committee, Foreign Affairs, Defence and Trade Joint Committee, Joint Select Committee on Northern Australia</title>",COMMITTEES,1,1
+",HoR,<title>COMMITTEES</title>,"<title>Electoral Matters Committee, Foreign Affairs, Defence and Trade Joint Committee, Joint Select Committee on Northern Australia</title>",COMMITTEES,1,1,speech
 "Bishop, Bronwyn, MP",LP,2013-12-11,"
 
 
@@ -14,7 +14,7 @@ The SPEAKER
 The SPEAKER
  (09:01):  I have received messages from the Senate informing the House that Senator Xenophon has been appointed a participating member of the Joint Standing Committee on Electoral Matters and a member of the Joint Standing Committee on Foreign Affairs, Defence and Trade and, secondly, that Senator Siewert has been appointed a member of the Joint Select Committee on Northern Australia.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,1,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,1,2,speech
 "McCormack, Michael, MP",Nats,2013-12-11,"
 
 
@@ -31,7 +31,7 @@ The Commonwealth Scientific and Industrial Research Organisation requires facili
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,2,1
+",HoR,<title>COMMITTEES</title>,<title>Public Works Committee</title>,COMMITTEES,2,1,speech
 "McCormack, Michael, MP",Nats,2013-12-11,"
 
 
@@ -48,7 +48,7 @@ The Commonwealth Scientific and Industrial Research Organisation requires facili
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,2,2
+",HoR,<title>COMMITTEES</title>,<title>Reference</title>,COMMITTEES,2,2,speech
 "Coulton, Mark, MP",Nats,2013-12-11,"
 
 
@@ -78,7 +78,7 @@ Mr Taylor:
 
 Debate adjourned.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Macquarie Marshes: Regulations</title>,PRIVATE MEMBERS' BUSINESS,4,1
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Macquarie Marshes: Regulations</title>,PRIVATE MEMBERS' BUSINESS,4,1,speech
 "Coulton, Mark, MP",Nats,2013-12-11,"
 
 
@@ -108,7 +108,7 @@ Mr Taylor:
 
 Debate adjourned.
 
-",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Disallowance</title>,PRIVATE MEMBERS' BUSINESS,4,2
+",HoR,<title>PRIVATE MEMBERS' BUSINESS</title>,<title>Disallowance</title>,PRIVATE MEMBERS' BUSINESS,4,2,speech
 "Marles, Richard, MP",ALP,2013-12-11,"
 
 
@@ -167,7 +167,7 @@ Australia's non-refoulement obligations under the conventions I have described c
 
 What we have in place in Australia on this day is a system that is working well, a system that applies to a very small number of people but that, for those people, works efficiently and properly. There is no good reason to change it but for the stubbornness and the politics of this government. And for that reason we oppose this bill.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1,speech
 "Hawke, Alex, MP",LP,2013-12-11,"
 
 
@@ -244,7 +244,7 @@ Labor need to understand that they cannot stand in the way of solutions to the p
 
 A new government is here. It has been elected with a mandate to do this. We warned about this in opposition. The government's warnings and fears, even while they were in government, about us somehow bringing in a brutal regime were unfounded and unreasonable. I can tell you that Australia will always meet its international obligations in relation to these very serious conventions. This government will not resile from the task of stopping people smugglers at the same time.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1,speech
 "Giles, Andrew, MP",ALP,2013-12-11,"
 
 
@@ -424,7 +424,7 @@ For those who've come across the seas 'We've boundless plains to share'. Austral
 
 Leave not granted.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1,speech
 "Coleman, David, MP",LP,2013-12-11,"
 
 
@@ -468,7 +468,7 @@ It is also important to note that the cost is not only financial; there is also 
 
 This bill, in reinstituting a sensible system for complementary protection, will contribute to the overall approach of the government in getting our borders back under control and having a sensible system of humanitarian immigration.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1,speech
 "Parke, Melissa, MP",ALP,2013-12-11,"
 
 
@@ -506,7 +506,7 @@ The changes that were made in 2012 in respect of complementary protection occurr
 
 They say you cannot judge a book by its cover, but you can sometimes judge a bill by its title, especially by the part within the parentheses. This is where some bright spark has no doubt put their political marketing skills to work in coming up with something that sends the right kind of bite-sized, chopped down, simplified and simplistic message. In this case, we have the delightfully bracketed 'Regaining Control Over Australia's Protection Obligations.' This is presumably designed to suggest that those obligations are not under control, or that they were previously under better control, either of which proposition is of course patently ridiculous. Australia has complementary protection obligations under international law, and we have provided safe haven in keeping with those obligations for many years. In keeping with our history as a migrant nation and our ethos as a compassionate, optimistic, outward-looking nation, we have provided safe haven to both refugees and to those seeking complementary protection. All this bill achieves is a return to a poor decision-making process. No amount of sloganeering about 'regaining control', 'sovereign borders' or 'three-star military operations' can change that fact. This is a poor law and it should be opposed by sensible persons in this place.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1,speech
 "Wilkie, Andrew, MP",Ind.,2013-12-11,"
 
 
@@ -568,7 +568,7 @@ Also, when people coming to Australia do not fit neatly within the refugee conve
 
 We should hang on to the Refugee Review Tribunal. We should still allow it to make the decisions about complementary protection. We should allow people to continue to make appeals to the Federal Court and High Court if the outcome has been unsatisfactory at that early stage. That is what a civilised and rich country should be doing. I will not be supporting the Migration Amendment (Regaining Control Over Australia’s Protection Obligations) Bill 2013. I suspect I will be one of very few people not to—prove me wrong, Labor. Hopefully Labor will also oppose this. I pray they will. It is about time Australia started acting like the civilised and lucky country we are.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1,speech
 "Dreyfus, Mark, MP",ALP,2013-12-11,"
 
 
@@ -618,7 +618,7 @@ The provisions that are being repealed form a system that is transparent, a syst
 
 The minister's second reading speech goes on to assert that—again, it is the kind of characteristic attack on the courts that we have come to expect from this government already—the courts 'have since broadened the scope of the interpretations of these obligations beyond that which is required under international law'. The minister gives no examples to support that assertion—and that is, I would suggest, because he cannot. Were that the case, one would expect a minister acting responsibly to explain and give examples of occasions on which the courts have broadened the scope of interpretation of these obligations. Sadly, this is yet another example of a government that is committed to secrecy and committed to furthering the belligerent rhetoric that we have become used to in the area of asylum-seeker policy from this government.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1,speech
 "Chesters, Lisa, MP",ALP,2013-12-11,"
 
 
@@ -656,7 +656,7 @@ The Labor Party does hold a very different view. Labor further recognises that t
 
 In conclusion, as I stated at the beginning, it is time that we saw principled leadership from this government and not point-scoring and jockeying for political advantage. It is time that we removed the sound bites from legislation and started to focus on what really is needed. As I stated earlier, fewer than 100 people have successfully been provided with a complementary protection visa. These visas were designed to catch those people who were falling through the net, those people who would otherwise face significant harm if returned to their country of origin. The proposal under this bill contradicts, as we have said, the years that have been spent debating finding a way to support those who would otherwise be in significant harm if they were returned home. I believe that it is dangerous for this parliament to allow decisions that require mature, passionate consideration to be made by a single person—a minister. He is a minister who quite frequently stands up in public and demonises asylum seekers. He is a minister who, by his very nature in designing these bills, uses combative language. There is a reason why the previous government introduced an independent, impartial review panel to deal with these matters. It is to take the politicians out of it and to ensure that every decision that is made in relation to complementary protection visas is a fair decision. I urge the House to oppose this bill.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1,speech
 "Bandt, Adam, MP",AG,2013-12-11,"
 
 
@@ -688,7 +688,7 @@ I will say one thing about this minister and this government: this minister is c
 
 If this parliament votes for this bill it will diminish this country. This is not, I believe, what the Australian people want politics to be about. Politics should be about reaching for new heights, not a race to the bottom. It should be about speaking to the best in us, not fanning the flames of the worst in us. Not only is this bill unnecessary; it is mean. I hope that, even if it passes this place, it is defeated in the Senate and this latest spray of cruelty from this minister is given no further life—that he is put back in his box and Australia hopefully retains some semblance of decency and some ability to look at those few dozen people who are coming here seeking help. I hope that we can maintain an open hand towards them and not a closed fist.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1,speech
 "Morrison, Scott, MP",LP,2013-12-11,"
 
 
@@ -726,7 +726,7 @@ The DEPUTY SPEAKER
 Mr Broadbent
 ):  The question is that this bill be read a second time.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1,speech
 "Morrison, Scott, MP",LP,2013-12-11,"
 
 
@@ -743,7 +743,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1
+",HoR,<title>BILLS</title>,<title>Migration Amendment (Regaining Control Over Australia's Protection Obligations) Bill 2013</title>,BILLS,5,1,speech
 "Marles, Richard, MP",ALP,2013-12-11,"
 
 
@@ -802,7 +802,7 @@ Australia's non-refoulement obligations under the conventions I have described c
 
 What we have in place in Australia on this day is a system that is working well, a system that applies to a very small number of people but that, for those people, works efficiently and properly. There is no good reason to change it but for the stubbornness and the politics of this government. And for that reason we oppose this bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Hawke, Alex, MP",LP,2013-12-11,"
 
 
@@ -879,7 +879,7 @@ Labor need to understand that they cannot stand in the way of solutions to the p
 
 A new government is here. It has been elected with a mandate to do this. We warned about this in opposition. The government's warnings and fears, even while they were in government, about us somehow bringing in a brutal regime were unfounded and unreasonable. I can tell you that Australia will always meet its international obligations in relation to these very serious conventions. This government will not resile from the task of stopping people smugglers at the same time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Giles, Andrew, MP",ALP,2013-12-11,"
 
 
@@ -1059,7 +1059,7 @@ For those who've come across the seas 'We've boundless plains to share'. Austral
 
 Leave not granted.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Coleman, David, MP",LP,2013-12-11,"
 
 
@@ -1103,7 +1103,7 @@ It is also important to note that the cost is not only financial; there is also 
 
 This bill, in reinstituting a sensible system for complementary protection, will contribute to the overall approach of the government in getting our borders back under control and having a sensible system of humanitarian immigration.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Parke, Melissa, MP",ALP,2013-12-11,"
 
 
@@ -1141,7 +1141,7 @@ The changes that were made in 2012 in respect of complementary protection occurr
 
 They say you cannot judge a book by its cover, but you can sometimes judge a bill by its title, especially by the part within the parentheses. This is where some bright spark has no doubt put their political marketing skills to work in coming up with something that sends the right kind of bite-sized, chopped down, simplified and simplistic message. In this case, we have the delightfully bracketed 'Regaining Control Over Australia's Protection Obligations.' This is presumably designed to suggest that those obligations are not under control, or that they were previously under better control, either of which proposition is of course patently ridiculous. Australia has complementary protection obligations under international law, and we have provided safe haven in keeping with those obligations for many years. In keeping with our history as a migrant nation and our ethos as a compassionate, optimistic, outward-looking nation, we have provided safe haven to both refugees and to those seeking complementary protection. All this bill achieves is a return to a poor decision-making process. No amount of sloganeering about 'regaining control', 'sovereign borders' or 'three-star military operations' can change that fact. This is a poor law and it should be opposed by sensible persons in this place.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Wilkie, Andrew, MP",Ind.,2013-12-11,"
 
 
@@ -1203,7 +1203,7 @@ Also, when people coming to Australia do not fit neatly within the refugee conve
 
 We should hang on to the Refugee Review Tribunal. We should still allow it to make the decisions about complementary protection. We should allow people to continue to make appeals to the Federal Court and High Court if the outcome has been unsatisfactory at that early stage. That is what a civilised and rich country should be doing. I will not be supporting the Migration Amendment (Regaining Control Over Australia’s Protection Obligations) Bill 2013. I suspect I will be one of very few people not to—prove me wrong, Labor. Hopefully Labor will also oppose this. I pray they will. It is about time Australia started acting like the civilised and lucky country we are.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Dreyfus, Mark, MP",ALP,2013-12-11,"
 
 
@@ -1253,7 +1253,7 @@ The provisions that are being repealed form a system that is transparent, a syst
 
 The minister's second reading speech goes on to assert that—again, it is the kind of characteristic attack on the courts that we have come to expect from this government already—the courts 'have since broadened the scope of the interpretations of these obligations beyond that which is required under international law'. The minister gives no examples to support that assertion—and that is, I would suggest, because he cannot. Were that the case, one would expect a minister acting responsibly to explain and give examples of occasions on which the courts have broadened the scope of interpretation of these obligations. Sadly, this is yet another example of a government that is committed to secrecy and committed to furthering the belligerent rhetoric that we have become used to in the area of asylum-seeker policy from this government.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Chesters, Lisa, MP",ALP,2013-12-11,"
 
 
@@ -1291,7 +1291,7 @@ The Labor Party does hold a very different view. Labor further recognises that t
 
 In conclusion, as I stated at the beginning, it is time that we saw principled leadership from this government and not point-scoring and jockeying for political advantage. It is time that we removed the sound bites from legislation and started to focus on what really is needed. As I stated earlier, fewer than 100 people have successfully been provided with a complementary protection visa. These visas were designed to catch those people who were falling through the net, those people who would otherwise face significant harm if returned to their country of origin. The proposal under this bill contradicts, as we have said, the years that have been spent debating finding a way to support those who would otherwise be in significant harm if they were returned home. I believe that it is dangerous for this parliament to allow decisions that require mature, passionate consideration to be made by a single person—a minister. He is a minister who quite frequently stands up in public and demonises asylum seekers. He is a minister who, by his very nature in designing these bills, uses combative language. There is a reason why the previous government introduced an independent, impartial review panel to deal with these matters. It is to take the politicians out of it and to ensure that every decision that is made in relation to complementary protection visas is a fair decision. I urge the House to oppose this bill.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Bandt, Adam, MP",AG,2013-12-11,"
 
 
@@ -1323,7 +1323,7 @@ I will say one thing about this minister and this government: this minister is c
 
 If this parliament votes for this bill it will diminish this country. This is not, I believe, what the Australian people want politics to be about. Politics should be about reaching for new heights, not a race to the bottom. It should be about speaking to the best in us, not fanning the flames of the worst in us. Not only is this bill unnecessary; it is mean. I hope that, even if it passes this place, it is defeated in the Senate and this latest spray of cruelty from this minister is given no further life—that he is put back in his box and Australia hopefully retains some semblance of decency and some ability to look at those few dozen people who are coming here seeking help. I hope that we can maintain an open hand towards them and not a closed fist.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Morrison, Scott, MP",LP,2013-12-11,"
 
 
@@ -1361,7 +1361,7 @@ The DEPUTY SPEAKER
 Mr Broadbent
 ):  The question is that this bill be read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,5,2,speech
 "Hunt, Greg, MP",LP,2013-12-11,"
 
 
@@ -1441,7 +1441,7 @@ I thank all of those involved as officials, administrators, scientists and water
 
 I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Australian Capital Territory Water Management Legislation Amendment Bill 2013</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Australian Capital Territory Water Management Legislation Amendment Bill 2013</title>,BILLS,7,1,speech
 "Butler, Mark, MP",ALP,2013-12-11,"
 
 
@@ -1458,7 +1458,7 @@ This bill deals with a microcosm of the inefficiencies that have bedevilled the 
 
 The minister has outlined the impact of this bill. I do not intend to belabour the point, but what it essentially does is allow the ACT to discharge its water abstractor obligations under the Murray-Darling Basin Plan and deal with some of those inefficiencies that have been in place for the best part of 100 years, since the community of Canberra was founded. It finally deals with those inefficiencies in a way that will ensure that New South Wales, the Commonwealth and the ACT are able to discharge their obligations under this watershed plan. 
 
-",HoR,<title>BILLS</title>,<title>Australian Capital Territory Water Management Legislation Amendment Bill 2013</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Australian Capital Territory Water Management Legislation Amendment Bill 2013</title>,BILLS,7,1,speech
 "Brodtmann, Gai, MP",ALP,2013-12-11,"
 
 
@@ -1561,7 +1561,7 @@ The DEPUTY SPEAKER:  The member for Canberra has the call.
 Ms BRODTMANN:
   Thank you, Deputy Speaker. Water management is a very important responsibility, and the ACT government has well and truly demonstrated that it is mature enough to manage this responsibility. Not only is this bill an important milestone for our environment; it is an important milestone for the ACT and territory rights, and I commend it to the House.
 
-",HoR,<title>BILLS</title>,<title>Australian Capital Territory Water Management Legislation Amendment Bill 2013</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Australian Capital Territory Water Management Legislation Amendment Bill 2013</title>,BILLS,7,1,speech
 "Leigh, Andrew, MP",ALP,2013-12-11,"
 
 
@@ -1581,7 +1581,7 @@ The Nationals I can forgive, perhaps. Their view was that the Murray-Darling Bas
 
 This bill will ensure that the abstraction of water on national land is not managed by the Commonwealth government but is managed by the ACT government, and that, I think, is as it should be. The pressures that have been placed on the National Capital Authority at times have been significant. This is an appropriate role for the ACT government. It recognises, as my friend and colleague the member for Canberra has noted, that the ACT Legislative Assembly—an assembly which has taken nation-leading steps on same-sex marriage and whose size should, I believe, be increased—has come of age. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Australian Capital Territory Water Management Legislation Amendment Bill 2013</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Australian Capital Territory Water Management Legislation Amendment Bill 2013</title>,BILLS,7,1,speech
 "Hunt, Greg, MP",LP,2013-12-11,"
 
 
@@ -1595,7 +1595,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Australian Capital Territory Water Management Legislation Amendment Bill 2013</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Australian Capital Territory Water Management Legislation Amendment Bill 2013</title>,BILLS,7,1,speech
 "Hunt, Greg, MP",LP,2013-12-11,"
 
 
@@ -1612,7 +1612,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Australian Capital Territory Water Management Legislation Amendment Bill 2013</title>,BILLS,7,1
+",HoR,<title>BILLS</title>,<title>Australian Capital Territory Water Management Legislation Amendment Bill 2013</title>,BILLS,7,1,speech
 "Hunt, Greg, MP",LP,2013-12-11,"
 
 
@@ -1692,7 +1692,7 @@ I thank all of those involved as officials, administrators, scientists and water
 
 I commend this bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Butler, Mark, MP",ALP,2013-12-11,"
 
 
@@ -1709,7 +1709,7 @@ This bill deals with a microcosm of the inefficiencies that have bedevilled the 
 
 The minister has outlined the impact of this bill. I do not intend to belabour the point, but what it essentially does is allow the ACT to discharge its water abstractor obligations under the Murray-Darling Basin Plan and deal with some of those inefficiencies that have been in place for the best part of 100 years, since the community of Canberra was founded. It finally deals with those inefficiencies in a way that will ensure that New South Wales, the Commonwealth and the ACT are able to discharge their obligations under this watershed plan. 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Brodtmann, Gai, MP",ALP,2013-12-11,"
 
 
@@ -1812,7 +1812,7 @@ The DEPUTY SPEAKER:  The member for Canberra has the call.
 Ms BRODTMANN:
   Thank you, Deputy Speaker. Water management is a very important responsibility, and the ACT government has well and truly demonstrated that it is mature enough to manage this responsibility. Not only is this bill an important milestone for our environment; it is an important milestone for the ACT and territory rights, and I commend it to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Leigh, Andrew, MP",ALP,2013-12-11,"
 
 
@@ -1832,7 +1832,7 @@ The Nationals I can forgive, perhaps. Their view was that the Murray-Darling Bas
 
 This bill will ensure that the abstraction of water on national land is not managed by the Commonwealth government but is managed by the ACT government, and that, I think, is as it should be. The pressures that have been placed on the National Capital Authority at times have been significant. This is an appropriate role for the ACT government. It recognises, as my friend and colleague the member for Canberra has noted, that the ACT Legislative Assembly—an assembly which has taken nation-leading steps on same-sex marriage and whose size should, I believe, be increased—has come of age. I commend the bill to the House.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Hunt, Greg, MP",LP,2013-12-11,"
 
 
@@ -1846,7 +1846,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,7,2,speech
 "Brodtmann, Gai, MP",ALP,2013-12-11,"
 
 
@@ -1866,7 +1866,110 @@ Trish has nurtured a caring and inclusive environment at Giralang primary. She d
 
 Trish is involved in a number of organisations outside of education, including the Friends of the National Arboretum and the Friends of Opera. She has made a special contribution to the Canberra community and I wish her a very happy and fulfilling retirement.
 
-",HoR,<title>STATEMENTS BY MEMBERS</title>,"<title>Keller, Mrs Trish, OAM</title>",STATEMENTS BY MEMBERS,8,1
+",HoR,<title>STATEMENTS BY MEMBERS</title>,"<title>Keller, Mrs Trish, OAM</title>",STATEMENTS BY MEMBERS,8,1,speech
+"Clare, Jason, MP",ALP,2013-12-11,"
+
+
+
+Mr CLARE
+ (Blaxland) (14:00):  My question is to the Minister for Communications, if he is here. I refer to an article in the Australian Financial Review where the minister confirmed that he owns a yacht with the person in charge of the NBN's strategic review, which will be released by the minister tomorrow. My question to the minister—if he were here—is: given this fact, how can we believe anything that this report says?
+
+
+
+
+Mr Truss:
+  I am sure that the Minister for Communications will be able to respond very effectively to the matters raised. But what the Labor Party always need to remember when they are talking about the NBN is their failure to deliver on any of the commitments they have made in relation to high-speed broadband in this country.
+
+
+
+
+Mr Burke:
+  I rise on a point of order, Madam Speaker. I appreciate the situation that the Acting Prime Minister finds himself in, but if he needs to—
+
+
+
+The SPEAKER:  What is the point of order?
+
+
+
+
+Mr Burke:
+  The point of order is, as you used to raise, Madam Speaker, if he does not know the answer he should sit down. The question can be re-asked now that the minister has turned up for work.
+
+
+
+The SPEAKER:  There is no point of order.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Broadband</title>,QUESTIONS WITHOUT NOTICE,9,1,question
+"Turnbull, Malcolm, MP",LP,2013-12-11,"
+
+
+
+Mr TURNBULL
+ (Wentworth—Minister for Communications) (14:01):  JB Rousselot and I are very flattered to learn that the opposition regards our ancient couta boat as a yacht. It was built in 1923, and it is, in fact, the same age as my father-in-law, who insists, however, that he has more of his original parts then does the boat. JB Rousselot has done an outstanding job in heading the transformation and review at the NBN Co., and I would have thought that the honourable members opposite would have had a little bit more class than to sink to the character assassination practised by Senator Conroy in the Senate committee. It is a low effort to impugn JB Rousselot's ability.
+
+
+Unlike Mike Kaiser, who was employed by the Labor Party at the NBN Co., JB Rousselot is, in fact, qualified to work at a telco. He has worked in telecommunications for over a decade. He is an engineer. He has a degree from one of the oldest engineering schools in the world, the Ecole Nationale des Ponts et Chaussees—which, as Mr Ripoll would understand is a school of bridges and roads—which was founded by the King of France, Louis XVI. He is a highly qualified individual, and the best that the Labor Party can do is combine with Senator Conroy in a desperate effort to smear the work that is being done on the strategic review. The truth is that the Labor Party have misled, spun and deceived on broadband for four years. They know that there has been an objective review undertaken by KordaMentha, Deloitte, Boston Consulting Group and leading executives at the NBN Co., and the shadow Attorney-General does not want you to—
+
+
+
+
+Mr Dreyfus:
+  Madam Speaker, had you given me the call, I would have raised a point of order on relevance. The minister strayed well beyond the question, which was about his conflict of interest.
+
+
+
+The SPEAKER:  The member will resume his seat.
+
+
+
+
+Mr TURNBULL:
+  Tomorrow we will see the truth about the NBN. The Labor Party do not want to hear it. They do not want to know how many billions of dollars they have wasted. They do not want to know how many falsehoods they have told. They do not want to know about how distorted a reality they still live in on this great project. The truth will out, and it will be out tomorrow. (Time expired)
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Broadband</title>,QUESTIONS WITHOUT NOTICE,9,1,answer
+"Markus, Louise, MP",LP,2013-12-11,"
+
+
+
+Mrs MARKUS
+ (Macquarie) (14:40):  My question is to the Treasurer. Will the Treasurer outline the challenges the government faces in managing the Commonwealth's budget? What are the impediments to addressing the situation the government inherited?
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE,11,1,question
+"Hockey, Joe, MP",LP,2013-12-11,"
+
+
+
+Mr HOCKEY
+ (North Sydney—The Treasurer) (14:41):  I thank the member for Macquarie for her question. The challenges we face in relation to the budget are obvious, given the fact that we now have $20 billion of savings—$5 billion of the $20 billion was actually announced by Labor—that are held up and blocked in the Senate by the Labor Party and the Greens. Of course, the Australian economy is facing challenges. That is what we have inherited from Labor.
+
+
+The challenges identified by the chairman and CEO, Dan Akerson, today in Detroit are the same challenges that many other manufacturers and businesses in Australia are facing. I quote the CEO of General Motors Holden in Detroit. He says:
+
+
+The decision to end manufacturing in Australia reflects the perfect storm of negative influences the automotive industry faces in the country, including the sustained strength of the Australian dollar, high cost of production, small domestic market and arguably the most competitive and fragmented auto market in the world.
+
+
+He says that and he is right: it is a challenging market in which to operate. And it is a market that has been heavily subsidised by Australian governments—in the case of Holden, $1.8 billion between 2001 and 2012. But, if money were the issue as to why Holden is leaving Australia, then why did Ford leave and Mitsubishi leave whilst Labor was in government? The money was flowing, but they decided to leave.
+
+
+One of the things that needs to be noted is the high cost of production. I say emphatically to the workers at Toyota, who are due to make a decision this Friday about a proposal put to them by the management of Toyota: please vote for your jobs this Friday. The AMWU is recommending a vote against a proposal put forward by Toyota to try and have a fairer arrangement in the workplace. For example, Toyota exports 70 per cent of its produce to the Middle East. At the moment, Toyota has to close its plant for 21 days over Christmas. How does that work when you are trying to export to the Middle East, where they do not celebrate Christmas? And now Toyota has gone back to the workers and said, 'Please reduce this to 10 days so that we can have consistent supply,' and the AMWU is recommending a vote against it. The AMWU would not even meet with Toyota management, because the AMWU wanted to have 53 people turn up—
+
+
+
+Ms Kate Ellis interjecting—
+
+
+
+The SPEAKER:  The member for Adelaide is warned!
+
+
+
+
+Mr HOCKEY:
+  to a meeting with Toyota management in order to negotiate the deal. So the destiny of other manufacturers in Australia is inevitably in all the hands of all the stakeholders, including in particular the union leaders.
+
+",HoR,<title>QUESTIONS WITHOUT NOTICE</title>,<title>Automotive Industry</title>,QUESTIONS WITHOUT NOTICE,11,1,answer
 "O'Connor, Brendan, MP",ALP,2013-12-11,"
 
 
@@ -2103,7 +2206,7 @@ The SPEAKER:  I call the honourable the Treasurer.
 
 Opposition members interjecting—
 
-",HoR,<title>MOTIONS</title>,<title>Automotive Industry</title>,MOTIONS,12,1
+",HoR,<title>MOTIONS</title>,<title>Automotive Industry</title>,MOTIONS,12,1,speech
 "Hockey, Joe, MP",LP,2013-12-11,"
 
 
@@ -2244,7 +2347,7 @@ Of course we are upset about this; of course we are. We hate the fact that Austr
 
 We are going to do everything we can for the workers, not just at General Motors-Holden but also at Toyota—all the component manufacturers' workers—and also for the taxpayers of Australia. Ultimately what it comes down to is that prosperity comes only from hard work and enterprise; it does not come from the benevolence of taxpayers.
 
-",HoR,<title>MOTIONS</title>,<title>Automotive Industry</title>,MOTIONS,12,1
+",HoR,<title>MOTIONS</title>,<title>Automotive Industry</title>,MOTIONS,12,1,speech
 "Champion, Nick, MP",ALP,2013-12-11,"
 
 
@@ -2297,7 +2400,7 @@ Wakefield
  then left the chamber.
 
 
-",HoR,<title>MOTIONS</title>,<title>Automotive Industry</title>,MOTIONS,12,1
+",HoR,<title>MOTIONS</title>,<title>Automotive Industry</title>,MOTIONS,12,1,speech
 "Pyne, Christopher, MP",LP,2013-12-11,"
 
 
@@ -2373,7 +2476,7 @@ Even if the Abbott government had announced another half a billion dollars for t
 
 The reason the House is basically quiet is that everybody knows this is true. All the political point-scoring in the world, all the outrage in the world, will not change the fact that what I am stating is known facts. I mourn what Holden has announced today, but unfortunately we have to work together to make it better for the future.
 
-",HoR,<title>MOTIONS</title>,<title>Automotive Industry</title>,MOTIONS,12,1
+",HoR,<title>MOTIONS</title>,<title>Automotive Industry</title>,MOTIONS,12,1,speech
 "Katter, Bob, MP",AUS,2013-12-11,"
 
 
@@ -2468,7 +2571,7 @@ I plead on behalf of every single Australian for the government to rescue this i
 
 The SPEAKER:  The original question was that the motion be agreed to, to which the honourable Leader of the House has moved as an amendment that all the words after 'that' be omitted with a view to substituting other words. The immediate question is that the amendment be agreed to.
 
-",HoR,<title>MOTIONS</title>,<title>Automotive Industry</title>,MOTIONS,12,1
+",HoR,<title>MOTIONS</title>,<title>Automotive Industry</title>,MOTIONS,12,1,speech
 "Truss, Warren, MP",Nats,2013-12-11,"
 
 
@@ -2476,7 +2579,7 @@ The SPEAKER:  The original question was that the motion be agreed to, to which t
 Mr TRUSS
  (Wide Bay—Deputy Prime Minister and Minister for Infrastructure and Regional Development) (16:03):  I move that further questions be placed on the Notice Paper.
 
-",HoR,<title>MOTIONS</title>,<title>Automotive Industry</title>,MOTIONS,12,1
+",HoR,<title>MOTIONS</title>,<title>Automotive Industry</title>,MOTIONS,12,1,speech
 "Truss, Warren, MP",Nats,2013-12-11,"
 
 
@@ -2484,7 +2587,7 @@ Mr TRUSS
 Mr TRUSS
  (Wide Bay—Deputy Prime Minister and Minister for Infrastructure and Regional Development) (16:03):  As promised during question time, I table the government's statement of ministerial standards. This document will be made available on the website of the Department of Prime Minister and Cabinet.
 
-",HoR,<title>DOCUMENTS</title>,<title>Ministerial Standards</title>,DOCUMENTS,13,1
+",HoR,<title>DOCUMENTS</title>,<title>Ministerial Standards</title>,DOCUMENTS,13,1,speech
 "Truss, Warren, MP",Nats,2013-12-11,"
 
 
@@ -2492,7 +2595,7 @@ Mr TRUSS
 Mr TRUSS
  (Wide Bay—Deputy Prime Minister and Minister for Infrastructure and Regional Development) (16:03):  As promised during question time, I table the government's statement of ministerial standards. This document will be made available on the website of the Department of Prime Minister and Cabinet.
 
-",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,13,2
+",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,13,2,speech
 "Bishop, Bronwyn, MP",LP,2013-12-11,"
 
 
@@ -2503,7 +2606,7 @@ The SPEAKER
 
 Ordered that the report be made a parliamentary paper.
 
-",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Audit Report No. 10 of 2013-14</title>,AUDITOR-GENERAL'S REPORTS,15,1
+",HoR,<title>AUDITOR-GENERAL'S REPORTS</title>,<title>Audit Report No. 10 of 2013-14</title>,AUDITOR-GENERAL'S REPORTS,15,1,speech
 "Bishop, Bronwyn, MP",LP,2013-12-11,"
 
 
@@ -2511,7 +2614,7 @@ Ordered that the report be made a parliamentary paper.
 The SPEAKER
  (16:06):  I present the Presiding Officers' annual statement on Pacific Parliamentary Partnerships.
 
-",HoR,<title>DOCUMENTS</title>,<title>Pacific Parliamentary Partnerships</title>,DOCUMENTS,16,1
+",HoR,<title>DOCUMENTS</title>,<title>Pacific Parliamentary Partnerships</title>,DOCUMENTS,16,1,speech
 "Pyne, Christopher, MP",LP,2013-12-11,"
 
 
@@ -2519,7 +2622,7 @@ The SPEAKER
 Mr PYNE
  (Sturt—Leader of the House and Minister for Education) (16:06):  Documents are presented as listed in the schedule circulated to honourable members. Details of the documents will be recorded in the Votes and Proceedings.
 
-",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,16,2
+",HoR,<title>DOCUMENTS</title>,<title>Presentation</title>,DOCUMENTS,16,2,speech
 "Bishop, Bronwyn, MP",LP,2013-12-11,"
 
 
@@ -2539,7 +2642,7 @@ I call upon those honourable members who approve of the proposed discussion to r
 More than the number of members required by the standing orders having risen in their places—
 
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Albanese, Anthony, MP",ALP,2013-12-11,"
 
 
@@ -2676,7 +2779,7 @@ Mr ALBANESE:
 
 The fact is that those opposite do not have a plan for the long term. They do not have a plan for infrastructure. They want to dilute the Infrastructure Australia model and they want to trash the independence of Infrastructure Australia.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Briggs, Jamie, MP",LP,2013-12-11,"
 
 
@@ -2723,7 +2826,7 @@ What we are seeing here in the opposition to this bill is the member for Grayndl
 
 We have a thorough and comprehensive agenda to build the infrastructure of the 21st century. We took that to the election, and we will have much more to say about that very soon. As the terrible news in South Australia today highlights, the Australian economy has challenges. We want to build our productive capacity. We want to build the projects around our country in conjunction with our state government friends and the private sector to ensure that we have the productive capacity for the 21st century. The Prime Minister will be remembered as the infrastructure Prime Minister because we believe that giving the Australian people the tools so that they can make the most of their own opportunities is the best way to govern our country. On 7 September the Australian people accepted that. It is about time that the member for Grayndler did too.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Rishworth, Amanda, MP",ALP,2013-12-11,"
 
 
@@ -2772,7 +2875,7 @@ I have not quoted the whole transcript; it continues on. You can see from that t
 
 This is similar to what happened with the issue of school reform. I think there is a clear pattern coming out from the government. This project has been in limbo— (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Entsch, Warren, MP",LP,2013-12-11,"
 
 
@@ -2792,7 +2895,7 @@ It is all very well to make infrastructure commitments but where the previous go
 
 These are only small projects but, nevertheless, they are important to these communities. The sum of $480,000 was promised for the upgrading of the refuelling facilities in the northern peninsula area—desperately needed, committed by the previous government. But when we came in, no money whatsover. The same went for a $250 million Cape York package, including the Jardine River bridge and sealing of 100 kilometres from Mapoon to Weipa. It was promised. No money at all committed to it, so we have to try to find this money. It is all very well to stand up here and create a perception that you have a commitment to building infrastructure in this country, but unless you are prepared to put dollars into it and step out from the political interference then all of that is nothing but hot air. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Collins, Julie, MP",ALP,2013-12-11,"
 
 
@@ -2815,7 +2918,7 @@ Very important projects right across the country are being constructed because o
 
 What Labor really wants to see from Infrastructure Australia, and what it wants to see right across the country, are safer and more efficient roads for everybody. That is what it has been aiming for: a revitalised rail sector. In my home state of Tasmania we invested $200 million and we want to invest more. We do not know if that will happen. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Broad, Andrew, MP",Nats,2013-12-11,"
 
 
@@ -2848,7 +2951,7 @@ Opposition members:  The member for Grayndler.
 Mr BROAD:
   Thank you very much; my apologies. He said that there is a 'need for productivity to determine infrastructure investment' and that 'sometimes the role of government is to build infrastructure so then we can grow productivity; so sometimes it has to be around the other way'. I think there is a very strong argument for the changes to Infrastructure Australia—its management and its charter—and for us having a greater say in how infrastructure is built. We are not completely dismantling Infrastructure Australia; we are building on a good initiative of the Labor government and trying to make it better.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Watts, Tim, MP",ALP,2013-12-11,"
 
 
@@ -2907,7 +3010,7 @@ metro rail scheme. I've made that absolutely … clear.
 
 Maybe the Victorian Premier would have had better luck if he had been asking for a no-strings-attached cheque from the education minister. Maybe he could have snuck it through then. The Melbourne Metro rail tunnel will not be delivered unless we have the Labor government, federally and at the state level— (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Porter, Christian, MP",LP,2013-12-11,"
 
 
@@ -2948,7 +3051,7 @@ Auditor-General Ian McPhee on Wednesday released details of 33 cases over 2½ ye
 
 There is the evidence based, expert led allocation of funds. The second point was procedural, legal and interpretive, and it meant to imply that somehow the bill before the House compromises Infrastructure Australia. Last night's protests were purportedly about an inability for the Labor Party to talk about that. They had four speakers and not a single word was raised in explanation as to how this bill might do what they allege it will do. (Time expired)
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Conroy, Pat, MP",ALP,2013-12-11,"
 
 
@@ -2995,7 +3098,7 @@ Another aspect of this debate around productivity and infrastructure investment 
 
 This is a very important debate. Labor has a proud record of productive investment in infrastructure. Those on the other side have a proud record of regional rorts, pork-barrelling, investing and putting the nation's interests behind their own political interests. That is why this debate must continue.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Taylor, Angus, MP",LP,2013-12-11,"
 
 
@@ -3012,7 +3115,7 @@ Those of us who come from regional electorates know that connectivity is king, a
 
 We know that good infrastructure investment needs to be depoliticised, and we know it also needs to focus on costs and benefits. That is something that the Labor government failed to do. We saw it with the NBN. There was no cost-benefit analysis and we saw extreme politicisation of investment in infrastructure. We heard earlier that only 14 per cent of the stimulus expenditure was actually spent on productive infrastructure. We saw that, of the $80 billion of stimulus expenditure, none of it went to Infrastructure Australia for approval. We need transparency, we need rigor and we need independence. That is what the legislation that is in front of the House is all about and it is what we have failed to see from the previous Labor government.
 
-",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1
+",HoR,<title>MATTERS OF PUBLIC IMPORTANCE</title>,<title>Infrastructure</title>,MATTERS OF PUBLIC IMPORTANCE,17,1,speech
 "Mitchell, Rob (The DEPUTY SPEAKER)",ALP,2013-12-11,"
 
 
@@ -3023,7 +3126,7 @@ The DEPUTY SPEAKER
 Mr Mitchell
 ) (17:06):  Order! Before I call the member for Barton, I remind the House that this is the member's first speech and, as such, expect the House to extend to him the proper courtesies.
 
-",HoR,<title>GOVERNOR-GENERAL'S SPEECH</title>,<title>Address-in-Reply</title>,GOVERNOR-GENERAL'S SPEECH,18,1
+",HoR,<title>GOVERNOR-GENERAL'S SPEECH</title>,<title>Address-in-Reply</title>,GOVERNOR-GENERAL'S SPEECH,18,1,speech
 "Varvaris, Nickolas, MP",LP,2013-12-11,"
 
 
@@ -3149,7 +3252,7 @@ I thank my family for allowing me to serve and for understanding my struggle to 
 
 The SPEAKER:  Before I call the honourable member for Petrie I remind the House that this will be the honourable member's maiden speech and I ask the House to afford the same courtesies to him as have just been afforded to the member for Barton.
 
-",HoR,<title>GOVERNOR-GENERAL'S SPEECH</title>,<title>Address-in-Reply</title>,GOVERNOR-GENERAL'S SPEECH,18,1
+",HoR,<title>GOVERNOR-GENERAL'S SPEECH</title>,<title>Address-in-Reply</title>,GOVERNOR-GENERAL'S SPEECH,18,1,speech
 "Howarth, Luke, MP",LP,2013-12-11,"
 
 
@@ -3247,7 +3350,7 @@ I have saved my last thanks for those most dear: my dear wife, Louise, and my th
 
 I wanted to end with a simple belief of mine, just four words: 'Life is about relationships.' I truly believe this. The most important relationships in my life are: (1) my relationship with God, as a man of strong faith, and (2) my relationship with those people around me—my friends, my family, my neighbours and my work colleagues in this place. At the end of the day, when everything else is gone, relationships are what count.
 
-",HoR,<title>GOVERNOR-GENERAL'S SPEECH</title>,<title>Address-in-Reply</title>,GOVERNOR-GENERAL'S SPEECH,18,1
+",HoR,<title>GOVERNOR-GENERAL'S SPEECH</title>,<title>Address-in-Reply</title>,GOVERNOR-GENERAL'S SPEECH,18,1,speech
 "Gray, Gary, MP",ALP,2013-12-11,"
 
 
@@ -3384,7 +3487,7 @@ Mr GRAY:
 
 I plead with the South African government: justice has already been delayed. Let us not to allow justice to be denied. I again call on the South African authorities to fully investigate and take action on these matters; to properly understand the events leading up to and following the crash; to take action if necessary against individuals; and to prevent a phoenix company from rising from this crash. I have written to the South African authorities seeking further investigation and action to keep the skies safe. I thank successive Australian foreign ministers Downer, Smith, Rudd, Carr and now Minister for Foreign Affairs, Julie Bishop, for their tireless support. I thank governments of the United Kingdom and Canada for their tireless advocacy for justice for their citizens in these matters. I thank the South African authorities for their work and continued attention to this matter.
 
-",HoR,<title>GOVERNOR-GENERAL'S SPEECH</title>,<title>Address-in-Reply</title>,GOVERNOR-GENERAL'S SPEECH,18,1
+",HoR,<title>GOVERNOR-GENERAL'S SPEECH</title>,<title>Address-in-Reply</title>,GOVERNOR-GENERAL'S SPEECH,18,1,speech
 "Randall, Don, MP",LP,2013-12-11,"
 
 
@@ -3392,7 +3495,7 @@ I plead with the South African government: justice has already been delayed. Let
 Mr RANDALL
  (Canning) (18:09):  On indulgence, Mr Deputy Speaker: I know this is highly unusual but, just very briefly on indulgence, I would like to associate myself with the comments made by the member for Brand on this tragic issue involving Nelair and the phoenixing of this company. I will be saying something about this at a later time, but I would like to congratulate the member on pursuing this matter, and I will be doing the same.
 
-",HoR,<title>GOVERNOR-GENERAL'S SPEECH</title>,<title>Address-in-Reply</title>,GOVERNOR-GENERAL'S SPEECH,18,1
+",HoR,<title>GOVERNOR-GENERAL'S SPEECH</title>,<title>Address-in-Reply</title>,GOVERNOR-GENERAL'S SPEECH,18,1,speech
 "Wood, Jason, MP",LP,2013-12-11,"
 
 
@@ -3463,7 +3566,7 @@ The highlight of the campaign for many local residents was not the local politic
 
 In closing, it is again a great honour to serve the people of La Trobe. Thank you so much.
 
-",HoR,<title>GOVERNOR-GENERAL'S SPEECH</title>,<title>Address-in-Reply</title>,GOVERNOR-GENERAL'S SPEECH,18,1
+",HoR,<title>GOVERNOR-GENERAL'S SPEECH</title>,<title>Address-in-Reply</title>,GOVERNOR-GENERAL'S SPEECH,18,1,speech
 "Briggs, Jamie, MP",LP,2013-12-11,"
 
 
@@ -3477,7 +3580,7 @@ That Dr Stone be discharged from the Joint Standing Committee on Treaties and th
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,19,1
+",HoR,<title>COMMITTEES</title>,<title>Treaties Committee</title>,COMMITTEES,19,1,speech
 "Briggs, Jamie, MP",LP,2013-12-11,"
 
 
@@ -3491,7 +3594,7 @@ That Dr Stone be discharged from the Joint Standing Committee on Treaties and th
 
 Question agreed to.
 
-",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,19,2
+",HoR,<title>COMMITTEES</title>,<title>Membership</title>,COMMITTEES,19,2,speech
 "Brodtmann, Gai, MP",ALP,2013-12-11,"
 
 
@@ -3532,7 +3635,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Indigenous Education (Targeted Assistance) Amendment Bill (No. 2) 2013</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Indigenous Education (Targeted Assistance) Amendment Bill (No. 2) 2013</title>,BILLS,20,1,speech
 "Tudge, Alan, MP",LP,2013-12-11,"
 
 
@@ -3549,7 +3652,7 @@ Question agreed to.
 
 Bill read a third time.
 
-",HoR,<title>BILLS</title>,<title>Indigenous Education (Targeted Assistance) Amendment Bill (No. 2) 2013</title>,BILLS,20,1
+",HoR,<title>BILLS</title>,<title>Indigenous Education (Targeted Assistance) Amendment Bill (No. 2) 2013</title>,BILLS,20,1,speech
 "Brodtmann, Gai, MP",ALP,2013-12-11,"
 
 
@@ -3590,7 +3693,7 @@ Question agreed to.
 
 Bill read a second time.
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,20,2,speech
 "Abbott, Tony, MP",LP,2013-12-11,"
 
 
@@ -3627,7 +3730,7 @@ I accept that the economy of South Australia is fragile, and I accept that Adela
 
 So this is a dark day. But there will be better days ahead, and it is my determination and the determination of everyone in the government to work with the people of Australia—to work with the creative people of this country—to ensure that the great strengths of our society and the great strengths of our economy continue to be built on in the days and weeks and months ahead.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Automotive Industry</title>,STATEMENTS ON INDULGENCE,22,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Automotive Industry</title>,STATEMENTS ON INDULGENCE,22,1,speech
 "Shorten, Bill, MP",ALP,2013-12-11,"
 
 
@@ -3876,7 +3979,7 @@ Mr Pyne:
 
 The SPEAKER:  I am sure we are all grateful for the interjection. However, the call goes to the member for Lalor. We will proceed to the adjournment on the conclusion of her remarks. The member for Lalor has the call.
 
-",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Automotive Industry</title>,STATEMENTS ON INDULGENCE,22,1
+",HoR,<title>STATEMENTS ON INDULGENCE</title>,<title>Automotive Industry</title>,STATEMENTS ON INDULGENCE,22,1,speech
 "Ryan, Joanne, MP",ALP,2013-12-11,"
 
 
@@ -3904,7 +4007,7 @@ Debate adjourned.
 House adjourned at 20:03
 
 
-",HoR,<title>BILLS</title>,<title>Fair Work (Registered Organisations) Amendment Bill 2013</title>,BILLS,23,1
+",HoR,<title>BILLS</title>,<title>Fair Work (Registered Organisations) Amendment Bill 2013</title>,BILLS,23,1,speech
 "Ryan, Joanne, MP",ALP,2013-12-11,"
 
 
@@ -3932,7 +4035,7 @@ Debate adjourned.
 House adjourned at 20:03
 
 
-",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2
+",HoR,<title>BILLS</title>,<title>Second Reading</title>,BILLS,23,2,speech
 "Albanese, Anthony, MP",ALP,2013-12-11,"
 
 
@@ -3955,7 +4058,7 @@ We need to increase the research into GBM as there has been little change in dia
 
 I wish Min, Lilly, Ruby and Ivy, his three school-age children, all the best for their future.
 
-",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Bulger, Mr Peter</title>",CONSTITUENCY STATEMENTS,25,1
+",HoR,<title>CONSTITUENCY STATEMENTS</title>,"<title>Bulger, Mr Peter</title>",CONSTITUENCY STATEMENTS,25,1,speech
 "Gray, Gary, MP",ALP,2013-12-11,"
 
 
@@ -3972,7 +4075,7 @@ It was a victory not simply for the ANC; it was a victory for principle. It was 
 
 I regard it as a great privilege to be able to make these comments and these observations in this parliament today. And I know that the teams who went to work for democracy in South Africa today feel grief but also power from the role that they played as a consequence of the events in South Africa over the course of the last 50 years. Thank you.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1,speech
 "Whiteley, Brett, MP",LP,2013-12-11,"
 
 
@@ -3995,7 +4098,7 @@ I am the master of my fate:
 
 I am the captain of my soul.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1,speech
 "Hall, Jill, MP",ALP,2013-12-11,"
 
 
@@ -4030,7 +4133,7 @@ During my lifetime I have dedicated myself to this struggle of the African peopl
 
 That ideal came to fruition under Nelson Mandela's leadership. As the world pauses to remember his contribution, it is very important to reflect on those words. The world is not dominated by either white or black; and it is a world where, if you are totally committed to what you believe in and to the struggle for noble ideals, you can achieve. Nelson Mandela certainly achieved, and he will be honoured in perpetuity by history.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1,speech
 "Jensen, Dennis, MP",LP,2013-12-11,"
 
 
@@ -4065,7 +4168,7 @@ What he did was that he healed the nation. He brought black and white together. 
 
 Another thing that he did that was truly great in the African perspective—because until then it was almost unprecedented—was that he retired from office. He could have been President for life if he had wanted to be. The problem with most of Africa is that you get despots who cling to power for dear life. One need only look a little bit further north to Zimbabwe to see that with Robert Mugabe. So that was an admirable lesson that he gave not only to Africa but to the world. I would like to finish by saying that, if there is anything that Mandela taught us, it is that we should all strive to be our own better angels.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1,speech
 "Albanese, Anthony, MP",ALP,2013-12-11,"
 
 
@@ -4091,7 +4194,7 @@ What I also think was quite extraordinary was that Mandela emerged from incarcer
 
 He understood that the way to end decades of hatred was not to promote still further hatred but to embrace forgiveness and reconciliation. Mandela talked the talk but he also walked the walk. He walked all the way to a new South Africa. We can only marvel at his example; it is an achievement of the kind that we only see once in a lifetime. People of my generation came to adulthood aware that Mandela was in prison and bewildered by the institutionalised racism of South Africa. But we did not know Mandela until he was released, and it was only after he emerged from prison with his spirit of humility and reconciliation that we truly saw his greatness. This is because his life showed us that, even though some of our human instincts tempt us to respond to injustice with vengeance, ultimately anger gets us nowhere. The real answer to injustice is to work together towards its elimination. This was the genius of Nelson Mandela.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1,speech
 "Smith, Tony, MP",LP,2013-12-11,"
 
 
@@ -4138,7 +4241,7 @@ He won the presidency in 1994 in a landslide. He now had power, and the question
 
 The Truth and Reconciliation Commission established under his presidency helped South Africa moved beyond the ugly past. He recognised the power of sport as a unifier, promoting the victory of the racially integrated Springboks in 1995 at the World Cup as a symbol of a reborn South Africa. In 1999, he proved true to his word, freely relinquishing power by standing down after a single term as South African President. As we know in this House and as the public reflect, as they have in recent days, by any measure Nelson Mandela was one for the ages.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1,speech
 "Macklin, Jenny, MP",ALP,2013-12-11,"
 
 
@@ -4212,7 +4315,7 @@ Mandela's optimism about reconciliation in Australia was validated in 2008, when
 
 The legacies of Nelson Mandela's life will be many, and some will only become visible to us after the passage of time. But perhaps his greatest legacy, to borrow Patrick Dodson's wise observation, is to have demonstrated to future generations the capacity for peace and forgiveness that resides in the heart of every human being. Equipped with these lessons, people around the world will continue to pursue a better world. May he continue to inspire generations to come.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1,speech
 "McCormack, Michael, MP",Nats,2013-12-11,"
 
 
@@ -4259,7 +4362,7 @@ Just before coming into the Federation Chamber to deliver this speech I bumped i
 
 Nelson Mandela is, sadly, gone, but his suffering is over. He has finally freed himself of his earthly shackles and he has left behind a better world for his having lived. May he rest in peace.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1,speech
 "Vamvakinou, Maria, MP",ALP,2013-12-11,"
 
 
@@ -4348,7 +4451,7 @@ And in him we saw so much of ourselves.
 
 Thank you.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1,speech
 "Snowdon, Warren, MP",ALP,2013-12-11,"
 
 
@@ -4395,7 +4498,7 @@ To me, Mr Mandela was a hero—as he was to all of us. When I met him he was 72 
 
 Australia has had its own heroes who have suffered from discrimination. Vincent Lingiari is one. It was in the 1960s, around the same time that Nelson Mandela was so active, that we saw political awareness being raised about racism in this country. We have a lot to be grateful for, because it was okay to participate in that activity—to make people aware of racism and all the terrible things that are associated with it. Now in this country we know that racism is unacceptable, that discrimination on the grounds of colour is unacceptable and that it will not be tolerated. Discrimination on the basis of your beliefs or discrimination on the basis of the one you love is not to be tolerated. The person who gave us the strength to fight those struggles through what he did and the leadership he showed to the international community was, indeed, Nelson Mandela. May he rest in peace.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1,speech
 "Brodtmann, Gai, MP",ALP,2013-12-11,"
 
 
@@ -4430,7 +4533,7 @@ I am proud that Australian Labor gave practical assistance to Mandela and the AN
 
 The world is a richer and better place because of Nelson Mandela. He inspires us all to be better people. Farewell, Nelson Mandela.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1,speech
 "Claydon, Sharon, MP",ALP,2013-12-11,"
 
 
@@ -4513,7 +4616,7 @@ Peace, justice, unity of all mankind. Let us pledge to keep Madiba's dream alive
 
 These are important lessons for us all. May the generous spirit of Nelson Mandela live forever.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1,speech
 "Hayes, Chris, MP",ALP,2013-12-11,"
 
 
@@ -4536,7 +4639,7 @@ A number of my colleagues have already spoken about Mandela's visit to Australia
 
 There is a famous saying that tells us that friends in adversity shall always be cherished the most, and this is what Nelson Mandela had to say in 1990 in thanking our nation for its support during the most difficult times of his struggle. We can be proud of the fact that we were clearly on the right side of history. We were on the side of a man who inspired change for the better, not only in his country but in the world, for generations to come. There are still many struggles going on around the world. Violence, oppression and silencing people who fight for freedom, justice and human rights are, regrettably, still everyday realities. But people who are prepared to stand up, who are not prepared to be silenced, can only take inspiration from the life of Nelson Mandela. Let us hope that Nelson Mandela's life inspires all of us to live by his example of freedom, peace and justice and be prepared to stand up in the face of injustice and oppression. His courage, conviction and spirit should be an inspiration to all and we should endeavour throughout our sphere of influence as a country to keep his legacy alive. May he rest in peace. 
 
-",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1,speech
 "Ripoll, Bernie, MP",ALP,2013-12-11,"
 
 
@@ -4568,7 +4671,7 @@ But there is something even bigger that, the reason so many people are contribut
 
 It is with great pleasure that I, like so many other people in this place, associate myself with the words that are being said. I thank the House for this opportunity.
 
-",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1,speech
 "Ellis, Kate, MP",ALP,2013-12-11,"
 
 
@@ -4616,7 +4719,7 @@ The DEPUTY SPEAKER:  I thank all members for their contribution to this historic
 Honourable members having stood in their places—
 
 
-",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1,speech
 "Wilson, Rick, MP",LP,2013-12-11,"
 
 
@@ -4639,4 +4742,4 @@ Federation Chamber adjourned at 12:10
 
  
 
-",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1
+",HoR,<title>CONDOLENCES</title>,"<title>Mandela, Mr Rolihlahla (Nelson) Dalibhunga, AC</title>",CONDOLENCES,26,1,speech
