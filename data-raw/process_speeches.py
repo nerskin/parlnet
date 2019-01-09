@@ -15,17 +15,6 @@ from bs4 import BeautifulSoup
 import  pandas as pd
 
 
-# In[76]:
-
-
-data_files = os.listdir('./xml_data/')
-data_files = [f for f in data_files if re.match('.*xml',f)]
-data_files = ['./xml_data/'+data_file for data_file in data_files]
-
-print(data_files[0])
-
-# In[7]:
-
 
 class Speech:
     """Class to represent a speech, question, or answer in parliament"""
@@ -33,6 +22,10 @@ class Speech:
     def __init__(self,speech,type):
         """Should only be called from the constructor for Debate"""
         self.name = speech.find('name').get_text()
+        try:
+            self.name_id = speech.find('name.id').get_text()
+        except:
+            self.name_id = 'Missing'
         #try/except needed to account for format change in 2011
         try:
             self.text = speech.find('talk.text').get_text()
@@ -85,12 +78,18 @@ class Debate:
         except:
             self.type = 'NA'
         subdebate = True
-        i = 1
+        index = 1
+        id = 1
+        to_avoid = list()
         while subdebate:
-            subdebate=debate.find('subdebate.'+str(i))
-            i+=1
+            subdebate=debate.find_all('subdebate.'+str(index))
             if subdebate:
-                self.subdebates.append(Subdebate(subdebate,i-1))
+                for subd in subdebate:
+                    if subd not in to_avoid:
+                        self.subdebates.append(Subdebate(subd,i))
+                    to_avoid.extend(subd.descendants)
+                    i+=1
+                index+=1
         
         
         
@@ -160,6 +159,7 @@ class SittingDay:
         debate_id = list()
         subdebate_id = list()
         type = list()
+        name_id = list()
         for debate in self.debates:
             for subdebate in debate.subdebates:
                 for speech in subdebate.speeches:
@@ -174,8 +174,9 @@ class SittingDay:
                     debate_id.append(debate.id)
                     subdebate_id.append(subdebate.id)
                     type.append(speech.type)
+                    name_id.append(speech.name_id)
         data_frame = pd.DataFrame({'name':name,'party':party,'date':date,'text':text,'chamber':chamber,'debate_title':debate_title,
-                                   'subdebate_title':subdebate_title,'debate_type':debate_type,'debate_id':debate_id,'subdebate_id':subdebate_id,'type':type})
+            'subdebate_title':subdebate_title,'debate_type':debate_type,'debate_id':debate_id,'subdebate_id':subdebate_id,'type':type,'name_id':name_id})
         data_frame.to_csv(path + '/' + self.date+ '-' + self.chamber +'-speeches.csv',encoding='utf-8',index=False)
         
     def write_proceedings(self,speeches_path='.',divisions_path='.'):
@@ -206,26 +207,36 @@ def xml_to_csv(x):
         with open('log.txt','a') as f:
             f.write(x[0]+'\n')
         return 'error'
-        
-(speeches_path,divisions_path) = ('tidied_parliamentary_data/speeches','tidied_parliamentary_data/divisions')
-
-try:
-    os.makedirs(speeches_path)
-except OSError:
-    pass #nothing to do if the directories already exist
 
 
-try:
-    os.makedirs(divisions_path)
-except OSError:
-    pass #nothing to do if the directories already exist
 
-input = [(data_file,speeches_path,divisions_path) for data_file in data_files]
+if __name__ == '__main__':
+    data_files = os.listdir('./xml_data/')
+    data_files = [f for f in data_files if re.match('.*xml',f)]
+    data_files = ['./xml_data/'+data_file for data_file in data_files]
+
+
+
+
+    (speeches_path,divisions_path) = ('tidied_parliamentary_data/speeches','tidied_parliamentary_data/divisions')
+
+    try:
+        os.makedirs(speeches_path)
+    except OSError:
+        pass #nothing to do if the directories already exist
+
+
+    try:
+        os.makedirs(divisions_path)
+    except OSError:
+        pass #nothing to do if the directories already exist
+
+    input = [(data_file,speeches_path,divisions_path) for data_file in data_files]
 
 
 # In[79]:
 
-pool = multiprocessing.Pool(multiprocessing.cpu_count())
-pool.map(xml_to_csv,input)
+    pool = multiprocessing.Pool(multiprocessing.cpu_count()-1)
+    pool.map(xml_to_csv,input)
 
-print('done')
+    print('done')
