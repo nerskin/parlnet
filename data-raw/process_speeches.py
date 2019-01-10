@@ -36,6 +36,7 @@ class Speech:
         except: 
             self.party = 'NA'#'party' is occasionally missing in the XML.
         self.type = type
+        self.speech_id = speech.find('speech.id')
 
 class Division:
     
@@ -79,20 +80,16 @@ class Debate:
             self.type = 'NA'
         subdebate = True
         index = 1
-        id = 1
+        subdebate_id = 1
         to_avoid = list()
-        while subdebate:
-            subdebate=debate.find_all('subdebate.'+str(index))
-            if subdebate:
-                for subd in subdebate:
-                    if subd not in to_avoid:
-                        self.subdebates.append(Subdebate(subd,i))
-                    to_avoid.extend(subd.descendants)
-                    i+=1
-                index+=1
-        
-        
-        
+
+        subdebates = debate.find_all(re.compile('^subdebate\.[0-9]+$')) 
+        for subdebate in subdebates:
+            if subdebate not in to_avoid:
+                self.subdebates.append(Subdebate(subdebate,subdebate_id))
+                subdebate_id += 1
+                to_avoid.extend(subdebate.descendants)
+ 
 class SittingDay:
     """Class to represent a whole parliamentary sitting day"""
     
@@ -160,6 +157,7 @@ class SittingDay:
         subdebate_id = list()
         type = list()
         name_id = list()
+        speech_id = list()
         for debate in self.debates:
             for subdebate in debate.subdebates:
                 for speech in subdebate.speeches:
@@ -175,8 +173,9 @@ class SittingDay:
                     subdebate_id.append(subdebate.id)
                     type.append(speech.type)
                     name_id.append(speech.name_id)
+                    speech_id.append(speech.speech_id)
         data_frame = pd.DataFrame({'name':name,'party':party,'date':date,'text':text,'chamber':chamber,'debate_title':debate_title,
-            'subdebate_title':subdebate_title,'debate_type':debate_type,'debate_id':debate_id,'subdebate_id':subdebate_id,'type':type,'name_id':name_id})
+            'subdebate_title':subdebate_title,'debate_type':debate_type,'debate_id':debate_id,'subdebate_id':subdebate_id,'type':type,'name_id':name_id,'speech_id':speech_id})
         data_frame.to_csv(path + '/' + self.date+ '-' + self.chamber +'-speeches.csv',encoding='utf-8',index=False)
         
     def write_proceedings(self,speeches_path='.',divisions_path='.'):

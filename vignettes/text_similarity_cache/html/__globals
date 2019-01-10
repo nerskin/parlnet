@@ -1,0 +1,7 @@
+unnamed-chunk-3	parliament_dfm	speeches_lemmatised	%>%	filter	date	ymd	unnest_tokens	word	text_lemmatised	semi_join	common_terms	count	name	grepl	complete.cases	.	cast_dfm	n
+unnamed-chunk-1	library	tidyverse	quanteda	tidytext	parlnet	igraph	ggraph	tidygraph
+unnamed-chunk-2	common_terms	speeches_lemmatised	%>%	select	text_lemmatised	unnest_tokens	word	anti_join	stop_words	filter	grepl	count	top_n	n
+unnamed-chunk-4	similarity_matrix	textstat_simil	parliament_dfm	%>%	as.matrix	dissimilarity_matrix	textstat_dist	k	clusters	kmeans	cluster	as.data.frame	rownames_to_column	set_names	arrange
+unnamed-chunk-5	adj_m	apply	similarity_matrix	x	quantile	%>%	graph_from_adjacency_matrix	as_tbl_graph	activate	nodes	mutate	ifelse	runif	length	name	ggraph	geom_edge_link	theme_graph	geom_node_text	aes	name_sparse
+unnamed-chunk-6	similarity_matrix	%>%	as.data.frame	rownames_to_column	gather	member1	left_join	clusters	c	ggplot	aes	member2	similarity	geom_tile	scale_fill_viridis
+unnamed-chunk-7	library	quanteda	data_corpus	speeches_lemmatised	%>%	filter	date	ymd	pull	text_lemmatised	corpus	fcm	tokens	tokens_tolower	tokens_remove	stopwords	topfeats	names	topfeatures	textplot_network	fcm_select

@@ -1,0 +1,9 @@
+unnamed-chunk-1	library	parlnet	ggraph	igraph	lubridate	Matrix	dplyr	stringr	purrr	fuzzyjoin	patchwork	start_date	ymd	adj_m	adjacency_matrix_from_divisions	divisions	threshold	quantile
+unnamed-chunk-2	party_membership	start_date	ymd	end_date	speeches	%>%	filter	date	count	name	party	group_by	summarise	which.max	n	party_members	mutate	str_split	map	x	length	substring	map_chr	paste	.x	is.na
+unnamed-chunk-3	library	tidygraph	adj_m	threshold	colSums	graph_representation	%>%	graph_from_adjacency_matrix	as_tbl_graph	nodes_tbl	activate	nodes	as_tibble	stringdist_left_join	party_members	mutate	stringdist	name.x	name.y	if_else	is.na	string_distance	group_by	summarise	party	which.min	print	str_to_lower	network_plot	create_layout	ggraph	theme_graph	geom_edge_link	geom_node_point	aes
+unnamed-chunk-4	graph_representation	%>%	activate	nodes	filter	is.na	party
+unnamed-chunk-5	senate_divisions_split	map	nrow	senate_dates	filter	divisions	date	.x	end_date	%>%	keep	chamber	max	ymd
+unnamed-chunk-6	senate_networks	senate_divisions_split	%>%	map	adjacency_matrix_from_divisions	.x	min	date	max	quantile	graph_from_adjacency_matrix	as_tbl_graph	activate	nodes	party_membership	group_by	name	summarise	party	map2	left_join	.y	mutate	centrality_degree	filter	degree
+unnamed-chunk-7	canonical_party_names	tribble	party	canonical_party_name	senate_networks	%>%	map	.x	activate	nodes	left_join	mutate	ifelse	is.na
+unnamed-chunk-8	senate_network_plots	senate_networks	%>%	map2	senate_divisions_split	ggraph	.x	geom_edge_link	geom_node_point	aes	party	theme_graph	ggtitle	paste0	year	min	.y	date	network_plots	wrap_plots
+unnamed-chunk-9	ggsave	network_plots

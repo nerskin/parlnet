@@ -1,9 +1,18 @@
 ---
 title: "Preliminary Visualisations of Parliamentary Networks"
 author: "Nicholas Erskine"
-date: 2018-11-22
+date: '2018-11-22'
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
 bibliography: bib.bib
 ---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,message=FALSE,eval=TRUE,cache=TRUE,autodep=TRUE)
+```
 
 As an illustration I reproduce figure 2 from [@andris15], in which the authors consider data from the US House of Representatives, using data from the Australian Senate. For each two-year congressional term, Andris et. al. count the number of times each pair of legislators is in agreement in a roll-call vote and define a threshold value as the number of agreements at which a randomly-chosen pair is equally likely to be a cross-party pair as a same-party pair. They then construct a graph for each parliament, with each representative being present as a node, and with each pair of representatives being joined by an edge if they agree more often than the threshold value for that congress. 
 
@@ -14,39 +23,169 @@ library(ggraph)
 library(igraph)
 library(lubridate)
 library(Matrix)
+library(dplyr)
+library(stringr)
+library(purrr)
+library(fuzzyjoin)
+library(patchwork)
 
-adj_m <- adjacency_matrix_from_divisions(divisions,chamber_id = 'Senate',start_date = ymd('2018-01-01'))
+start_date <- ymd('2016-07-03')
+adj_m <- adjacency_matrix_from_divisions(divisions,chamber_id = 'Senate',start_date=start_date)
+threshold <- quantile(adj_m,0.5)
 ```
 
 ```{r}
-library(parlnet)
-library(ggraph)
-library(igraph)
-library(lubridate)
-library(Matrix)
-party_membership <- function(speeches,start_date = '1901-01-01',end_date='2100-01-01'){
-  start_date <- '1901-01-01'
-  end_date <- '2100-01-01'
-	start_date <- ymd(start_date)
-	end_date <- ymd(end_date)
-	speeches %>%
+party_membership <- function(start_date = '1901-01-01',end_date='2100-01-01'){
+	start_date <- lubridate::ymd(start_date)
+	end_date <- lubridate::ymd(end_date)
+	parlnet::speeches %>%
 		filter(date >= start_date) %>%
 		filter(date <= end_date) %>%
 		count(name,party) %>%
 		group_by(name) %>%
 		summarise(party = party[which.max(n)])
 }
-party_membership(speeches)
+party_members <- party_membership(start_date = start_date) %>%
+  mutate(name = str_split(name,', ')) %>%
+  mutate(name = map(name,function(x){
+    x[length(x)] <- substring(x[length(x)],1,1)
+    x
+  }))
+party_members <- party_members %>%
+  mutate(name = map_chr(name,~paste(.x,collapse=', '))) %>%
+  filter(!is.na(party))
 ```
 
 ```{r}
-adj_m <- adj_m > 100
+library(tidygraph)
+adj_m <- adj_m > threshold
 adj_m <- adj_m[colSums(adj_m) > 0,colSums(adj_m) > 0]
-adj_m %>% 
+graph_representation <- adj_m %>% 
 	graph_from_adjacency_matrix(mode='undirected') %>%
-	ggraph() +
-	geom_edge_link(alpha=0.25) + 
-	geom_node_point(alpha=0.25) + 
-	theme_graph() + 
-	geom_node_text(aes(label=name))
+  as_tbl_graph()
+
+nodes_tbl <- graph_representation %>%
+  activate(nodes) %>%
+  as_tibble %>%
+  stringdist_left_join(party_members,max_dist = 2) %>%
+  mutate(string_distance = stringdist::stringdist(name.x,name.y)) %>%
+  mutate(string_distance = if_else(is.na(string_distance),Inf,string_distance)) %>%
+  group_by(name.x) %>%
+  summarise(party = party[which.min(string_distance)])
+
+print(nodes_tbl)
+
+graph_representation <- graph_representation %>%
+  activate(nodes) %>%
+  mutate(party = nodes_tbl$party) %>%
+  mutate(party = str_to_lower(party)) #to avoid e.g. NATS vs Nats problem
+
+print(graph_representation) 
+
+network_plot <- graph_representation %>% 
+  activate(nodes) %>%
+  create_layout('fr') %>%
+  ggraph() +
+  theme_graph() + 
+  geom_edge_link(alpha=0.01) + 
+  geom_node_point(aes(colour = party))
+print(network_plot)
+```
+
+```{r}
+graph_representation %>%
+  activate(nodes) %>%
+  filter(is.na(party))
+```
+
+# Todo
+
+* ~~~Address data issues~~~
+    * Fixed the main problems - will still need some manual care and attention for MPs like Anthony Abbott and Albertus van Manen who go by names other than their given names
+* Address time 
+* Interactivity (slider for threshold)
+* Split into three-year terms (pay attention to Senate vs House )
+* Look at text (use similarity metrics in quanteda as a starting point)
+* Investigate Amazon/Nectar/cocalc
+
+# Discussion Notes
+
+* House and Senate terms are usually approximately the same, but not exactly (and somethimes are way off)
+  * How to handle this depends on the precise research question.
+
+
+# Follow-Up
+
+The data has been cleaned to an extent that it is now possible to draw the networks given above for earlier time periods. For the Senate, for example (the house is still mostly uninteresting because of the two-party dominance and the very strong party discipline), we can produce:
+
+```{r}
+senate_divisions_split <- map(2:nrow(senate_dates),~filter(divisions,date >= senate_dates[.x - 1,]$end_date,date < senate_dates[.x,]$end_date)) %>%
+  keep(~nrow(.x) > 0) %>%
+  map(~filter(.x,chamber == 'Senate')) %>%
+  keep(~max(.x$date) > ymd('1999-01-01'))
+```
+
+```{r}
+senate_networks <- senate_divisions_split %>%
+  map(~adjacency_matrix_from_divisions(.x,start_date = min(.x$date),end_date = max(.x$date),chamber_id = 'Senate')) %>% 
+  map(~.x > quantile(.x,0.5)) %>%
+  map(~graph_from_adjacency_matrix(.x,mode='undirected',weighted=NULL)) %>%
+  map(as_tbl_graph) %>%
+  map(~activate(.x,nodes))
+
+party_membership <- senate_divisions_split %>%
+  map(~group_by(.x,name) %>%
+        summarise(party = party[1]))
+
+senate_networks <- map2(senate_networks,party_membership,~left_join(.x,.y)) %>%
+  map(~.x %>%
+        activate(nodes) %>%
+        mutate(degree = centrality_degree()) %>%
+        filter(degree > 0))
+```
+
+An extra processing step to reflect party mergers, the fact that the coalition parties often function as a single party, and name changes:
+* Bunch the coalition parties together (lib, nat, country lib)
+* Merge Family First and Australian Conservatives
+* Nick Xenophon team => Centre Alliance
+
+```{r}
+
+canonical_party_names <- tribble(
+  ~party,~canonical_party_name,
+  'LP','coalition',
+  'NATS','coalition',
+  'CLP','coalition',
+  'FFP','AC',
+  'NXT','CA',
+  'Nats','coalition',
+  'NP','coalition'
+)
+
+canonical_party_names
+
+senate_networks <- senate_networks %>%
+  map(~.x %>%
+        activate(nodes) %>%
+        left_join(canonical_party_names) %>%
+        mutate(party = ifelse(!is.na(canonical_party_name),canonical_party_name,party)))
+          
+```
+
+Plot:
+
+```{r}
+senate_network_plots <- senate_networks %>%
+  map2(senate_divisions_split,~ggraph(.x) +
+        geom_edge_link(alpha=0.05) +
+        geom_node_point(aes(colour = party),alpha=0.5) +
+        theme_graph() + 
+        ggtitle(paste0(year(min(.y$date))))
+  )
+network_plots <- wrap_plots(senate_network_plots)
+network_plots
+```
+
+```{r,eval=FALSE}
+ggsave(network_plots,filename = 'network_plots.png',device='png',width=30,height=30)
 ```

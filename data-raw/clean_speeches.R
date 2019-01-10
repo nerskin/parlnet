@@ -7,7 +7,7 @@ library(tidytext)
 library(lubridate)
 
 speeches <- dir('tidied_parliamentary_data/speeches/',full.names=TRUE) %>%
-	map_dfr(~read_csv(.x,col_types = cols())) 
+	map_dfr(~read_csv(.x,col_types = cols(name_id = col_character()))) 
 
 #The file format changes in 2011, and speeches before and after the change need 
 #to be handled differently

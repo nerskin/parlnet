@@ -30,19 +30,20 @@ In addition to this, there are a number of words which are stop words in the con
 
 ```{r,cache=TRUE}
 library(dplyr)
-speeches %>%
+common_terms <- speeches %>%
 	filter(date >= lubridate::ymd('2016-01-01')) %>%
 	unnest_tokens(word,text) %>%
 	anti_join(stop_words) %>% 
 	count(word) %>%
-	arrange(desc(n))
+	arrange(desc(n)) %>% 
+  as_data_frame()
 ```
 
 I have added a dataframe called `parliamentary_stop_words` to the package, which contains high-frequency 'neutral' words.
 
 The complete list is 
 
-```{r,eval=FALSE}
+```{r,eval=TRUE}
 parliamentary_stop_words
 ```
 
